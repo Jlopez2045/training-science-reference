@@ -1,0 +1,9 @@
+# Build outputs
+*.pdf
+
+# Scratch and source data
+*.old
+*.xml
+papers/
+review/
+.obsidian/
