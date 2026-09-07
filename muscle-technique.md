@@ -1,0 +1,10953 @@
+# Muscle-by-Muscle Technique — Complete Reference
+
+> How to load one muscle correctly, derived from its anatomy, its architecture and its
+> leverage rather than from tradition. Each muscle gets its own Part: anatomy → biomechanics →
+> the rep → exercise catalogue → contexts → programming. **This volume covers the latissimus
+> dorsi, the quadriceps femoris, the gluteal muscles, the deltoids and the core.** Further muscles are added as
+> new Parts; the glossary and bibliography are always the final two Parts and are shared across all
+> of them.
+>
+> **General education only — not medical or physiotherapeutic advice.** Shoulder, elbow or spinal
+> pain, knee pain, lateral or deep hip pain, a painful arc when raising the arm, any history of
+> dislocation, rotator-cuff surgery, shoulder surgery, knee surgery or hip surgery, adolescence, and
+> pregnancy all require professional assessment before loading, not a self-directed program.
+
+## Contents
+
+1. **[Part I — Universal Method](#partiuniversalmethod)** — the six questions that produce a technique prescription for any muscle
+2. **[Part II — Latissimus Dorsi](#partiilatissimusdorsi)**
+   - **§A** [Anatomy and architecture](#partiiaanatomyandarchitecture)
+   - **§B** [Biomechanics — what actually loads the lat](#partiibbiomechanics)
+   - **§C** [The rep, specified](#partiictherepspecified)
+   - **§D** [Exercise catalogue](#partiidexercisecatalogue)
+   - **§E** [Context modifiers — when "perfect" changes](#partiiecontextmodifiers)
+   - **§F** [Programming](#partiifprogramming)
+   - **§G** [Synthesis, and what the evidence does not support](#partiigsynthesis)
+3. **[Part III — Quadriceps Femoris](#partiiiquadricepsfemoris)**
+   - **§A** [Anatomy and architecture](#partiiiaanatomyandarchitecture)
+   - **§B** [Biomechanics — what actually loads the quadriceps](#partiiibbiomechanics)
+   - **§C** [The rep, specified](#partiiictherepspecified)
+   - **§D** [Exercise catalogue](#partiiidexercisecatalogue)
+   - **§E** [Context modifiers — when "perfect" changes](#partiiiecontextmodifiers)
+   - **§F** [Programming](#partiiifprogramming)
+   - **§G** [Synthesis, and what the evidence does not support](#partiiigsynthesis)
+4. **[Part IV — Gluteal Muscles](#partivglutealmuscles)**
+   - **§A** [Anatomy and architecture](#partivaanatomyandarchitecture)
+   - **§B** [Biomechanics — what actually loads the glutes](#partivbbiomechanics)
+   - **§C** [The rep, specified](#partivctherepspecified)
+   - **§D** [Exercise catalogue](#partivdexercisecatalogue)
+   - **§E** [Context modifiers — when "perfect" changes](#partivecontextmodifiers)
+   - **§F** [Programming](#partivfprogramming)
+   - **§G** [Synthesis, and what the evidence does not support](#partivgsynthesis)
+5. **[Part V — Deltoids](#partvdeltoids)**
+   - **§A** [Anatomy and architecture](#partvaanatomyandarchitecture)
+   - **§B** [Biomechanics — what actually loads the deltoids](#partvbbiomechanics)
+   - **§C** [The rep, specified](#partvctherepspecified)
+   - **§D** [Exercise catalogue](#partvdexercisecatalogue)
+   - **§E** [Context modifiers — when "perfect" changes](#partvecontextmodifiers)
+   - **§F** [Programming](#partvfprogramming)
+   - **§G** [Synthesis, and what the evidence does not support](#partvgsynthesis)
+6. **[Part VI — The Core](#partvithecore)**
+   - **§A** [Anatomy and architecture](#partviaanatomyandarchitecture)
+   - **§B** [Biomechanics — what actually loads the core](#partvibbiomechanics)
+   - **§C** [The rep, specified](#partvictherepspecified)
+   - **§D** [Exercise catalogue](#partvidexercisecatalogue)
+   - **§E** [Context modifiers — when "perfect" changes](#partviecontextmodifiers)
+   - **§F** [Programming](#partvifprogramming)
+   - **§G** [Synthesis, and what the evidence does not support](#partvigsynthesis)
+7. **[Part VII — Master Glossary](#partviimasterglossary)** (250 entries, in dependency order, with an alphabetical index at its head)
+8. **[Part VIII — Bibliography](#partviiibibliography)** (226 sources, 100 open access)
+
+**How to read this.** The first occurrence of a technical term in each Part links to its glossary
+entry. Cross-references are written `Part II §B.4`.
+
+**Everything is in dependency order.** The document is arranged so that nothing is used before it has
+been established. Part I gives the method that generates the prescriptions; within each muscle's
+Part, **§A anatomy → §B biomechanics → §C technique → §D exercises → §E contexts → §F programming →
+§G synthesis**, each section consuming only what the previous ones supplied. The glossary is itself
+ordered by dependency across thirteen layers rather than alphabetically, so it can be read straight
+through as a primer before the body, with an alphabetical index at its head for lookup. Where a
+section points *forward*, it points to elaboration of a claim already complete at that point — never
+to something you need in order to understand what you are reading.
+
+**Anchor convention.** Markdown has no standard for heading anchors and the renderers disagree
+sharply. VS Code slugifies headings (GitHub rules), pandoc uses its own `auto_identifiers`, Obsidian
+matches the literal heading text, and Discount — the engine Okular uses to display `.md` files —
+**hex-encodes every punctuation character**, turning `force-length-relationship` into
+`force-2d-length-2d-relationship`, so a hyphenated anchor silently fails there while a single-word one
+still works.
+
+**Anchor headings are therefore written in lowercase ASCII letters and digits only, with no hyphens
+and no punctuation of any kind** — `forcelengthrelationship`, `momentarm`, `partiiibbiomechanics`.
+That character set is the fixed point of all four algorithms: each maps it to itself, so one link form
+works everywhere without HTML anchors or renderer-specific syntax. The cost is that the heading itself
+is not meant to be read; **the human-readable name is the bold lead-in immediately below it**, and the
+alphabetical index at the head of Part VII is the place to look a term up. Structural anchors carry
+their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to VI share
+section titles and would otherwise collide. Links are same-file only: no HTML anchors, no relative file links, no external
+links.
+
+**Companion document.** General progression models, volume dose–response, deload logic, tendon
+science and energetics live in `strength-and-body-composition.md`. This document does not repeat
+them; it assumes them.
+
+---
+
+# partiuniversalmethod
+
+**Part I — Universal Method**
+
+> The procedure that generates every prescription in this document. It is muscle-agnostic: run
+> these six questions on any muscle and the technique falls out.
+
+---
+
+### 1. Why technique is a derivation, not a tradition
+
+A muscle grows in response to [mechanical tension](#mechanicaltension) imposed on its fibers over
+a [range of motion](#rangeofmotion), repeated until it adapts. Everything called "technique" is
+the engineering problem of getting tension into *that* muscle rather than into its neighbours, its
+joints, or its grip — and of keeping it there through the fullest possible range.
+
+That problem has exactly six inputs. Answer them in order and the exercise selection, the joint
+angles, the bar path, the load and the rep range are determined rather than chosen.
+
+| # | Question | What it determines |
+|---|---|---|
+| 1 | Where does the muscle attach, at both ends? | Which joint actions can load it at all |
+| 2 | What is its architecture — [fascicle length](#fasciclelength) versus [PCSA](#pcsa)? | Whether range or load is the primary training variable |
+| 3 | Where is its [moment arm](#momentarm) largest, across the joint's range? | Where in the range it can express force |
+| 4 | Where does it sit on the [force–length curve](#forcelengthrelationship) at each joint angle? | Where it is long, where it is short, where it is strong |
+| 5 | Where does the *external* resistance peak — its [resistance profile](#resistanceprofile)? | Whether the exercise loads the part of the range that matters |
+| 6 | What else is recruited by that same joint action? | What you cannot isolate, and what will fail first |
+
+Question 5 is the one almost always skipped. A muscle can have perfect leverage at a joint angle
+and receive almost no load there, because the cable or the dumbbell happens to produce near-zero
+[torque](#torque) at that angle. Matching the muscle's capability curve to the exercise's
+resistance curve is most of what separates a good lat exercise from a bad one.
+
+---
+
+### 2. The stimulus map
+
+Combine questions 3, 4 and 5 into one picture per exercise: for each point in the joint's range, how
+much torque the resistance demands, what share of it the target carries, and what that costs the
+target in tension relative to what it can produce at that length.
+
+> τ_demanded(θ) = F_resistance × d⊥(θ)   (N·m; d⊥ = perpendicular distance from the joint centre to the resistance line, m)
+>
+> **Validity caveat:** every torque figure in this document is quasi-static. Accelerate the load and the demand becomes F = m(g + a) plus the segments' own inertia — which is why a swung rep and a controlled rep at the same weight are not the same exercise.
+>
+> Stimulus at angle θ ∝ F_target(θ) = k(θ) × τ_demanded(θ) / r(θ)   (N; r = the target's moment arm, m; k = its dimensionless share of the net joint moment)
+>
+> f(θ) = F_target(θ) / F_max(θ)   (dimensionless; F_max from the force–length curve at that length)
+
+**Note the division, because it is the most misread relationship in training mechanics.** A small
+moment arm does *not* mean the muscle is spared — it means the same joint torque costs the muscle
+**more** force. Poor leverage is a reason the weight on the stack must be lower at that joint angle,
+never a reason to conclude the muscle is under-loaded there. What under-loads a position is
+τ_demanded going to zero, which is a property of the *exercise* (question 5), not of the muscle.
+
+Three failure modes fall out immediately, and every technical error later in this document is one
+of them:
+
+- **Demand is high where the target cannot contribute** → a synergist or a joint takes the load.
+- **The target could contribute but demand is near zero** → the best part of the range is wasted.
+- **Demand collapses before the range does** → the rep ends before the muscle is loaded through its excursion.
+
+---
+
+### 3. Priority order for a hypertrophy prescription
+
+When two of these conflict, the earlier one wins.
+
+1. **Load the muscle through the range in which it is actually lengthening under tension.** For a long-fascicled, low-PCSA muscle that means the greatest range it can safely control, because range is the variable most exercises give away. For a short-fascicled, high-PCSA muscle it means reaching the muscle's long-length region and then loading it heavily — past that point, extra joint travel is joint travel rather than fibre excursion. Question 2 decides which case you are in; Part II §A.4 and Part III §A.4 are the two worked examples, and they come out opposite ways.
+2. **Put meaningful torque on the [lengthened position](#lengthenedposition).** Most default exercises put it in the middle instead.
+3. **Reach [proximity to failure](#proximitytofailure) in the target, not in a synergist or the grip.** A set terminated by the forearms trained the forearms.
+4. **Make the movement repeatable so [progressive overload](#progressiveoverload) is measurable.** An exercise you cannot reproduce cannot be progressed.
+5. **Only then optimize the details** — grip, tempo, and cueing are worth single-digit percentages, not the double digits the internet assigns them.
+
+---
+
+### 4. What "perfect technique" means here
+
+Not one bar path. A **decision procedure** whose output depends on the athlete, the goal, the
+equipment and the tissue. The mechanics in each muscle's §B are invariant; the prescription in §C
+is the default for hypertrophy in a healthy trained adult; §E lists every context that changes it,
+and what it changes it to. Read §B once, §C carefully, and §E for the row that describes you.
+
+---
+
+# partiilatissimusdorsi
+
+**Part II — Latissimus Dorsi**
+
+> Scope: the anatomy, mechanics, technique, exercise selection, context modifiers and programming
+> for maximal [hypertrophy](#hypertrophy) of the latissimus dorsi. Everything here also loads
+> [teres major](#teresmajor), which cannot be separated from it by any *humeral* action — though trunk
+> position lengthens the lat and not teres major (Part II §B.10) — and most
+> of it loads the posterior deltoid and elbow flexors as well.
+> **General education only.** Shoulder pain, instability, or an inability to raise the arm fully
+> overhead are assessment problems before they are programming problems — see Part II §E.4.
+
+---
+
+## partiiaanatomyandarchitecture
+
+**PART A — Anatomy and Architecture**
+
+### A.1 What the latissimus dorsi is
+
+A large, thin, fan-shaped sheet of muscle covering the lower half of the back, which runs from the
+pelvis and lower spine up and out to the front of the upper arm bone. Because it crosses the
+shoulder, it moves the arm; because it originates on the pelvis and spine, it also links the arm to
+the trunk. It is the only muscle in the body that directly connects the upper limb to the pelvis.
+
+Two consequences that drive everything below: it is a **shoulder muscle with a trunk origin**, so
+trunk position changes its length; and it is **enormous in area but thin in cross-section**, so its
+force capacity is far lower than its size suggests.
+
+---
+
+### A.2 Attachments — the map you load
+
+**Origin** (fixed end, five territories):
+
+| Territory | Attachment | Practical note |
+|---|---|---|
+| Vertebral | Spinous processes T7–T12, via the [thoracolumbar fascia](#thoracolumbarfascia) | Upper-mid fibres; nearly horizontal line of pull |
+| Lumbosacral | Thoracolumbar fascia to L1–L5, sacrum, supraspinous ligament | Longest fibres; steepest line of pull |
+| Iliac | Posterior third of the iliac crest | The "lower lat"; most oblique fibres |
+| Costal | Ribs 9–12, interdigitating with external oblique | Contributes to forced expiration |
+| Scapular | Inferior angle of the scapula — **variable** | Direct muscular fibres in 43 of 100 cadaveric specimens (Pouliart & Gagey, 2005); a further variant, the [axillary arch](#axillaryarch), crosses the armpit to the chest |
+
+**Insertion:** the floor of the [intertubercular (bicipital) groove](#bicipitalgroove) of the
+humerus, a strip roughly 3 cm long on the front of the upper arm bone, shared with
+teres major (which takes the medial lip) and pectoralis major (lateral lip).
+
+**Innervation:** the [thoracodorsal nerve](#thoracodorsalnerve) (C6–C8), from the posterior cord of
+the brachial plexus. It divides into two or three major branches before entering the muscle — the
+anatomical basis of the segmental latissimus flap in reconstructive surgery, and the reason the
+muscle has genuine [neuromuscular compartments](#neuromuscularcompartment) rather than one
+undifferentiated mass.
+
+**Blood supply:** the thoracodorsal artery, from the subscapular artery.
+
+---
+
+### A.3 The 180° twist
+
+The tendon rotates through roughly half a turn on its way to the humerus [consensus — no single source; figures nearer 90° also appear in the descriptive literature]. Fibres that originate
+**lowest** (iliac crest, sacrum) insert **highest** on the humerus; fibres that originate **highest**
+(T7–T9, scapula) insert **lowest**. The sheet folds on itself as it converges into the axilla.
+
+Two things follow, and both are practical:
+
+- **The muscle does not shorten uniformly.** At any given arm position, different regions sit at different fascicle lengths, because the thoracic and lumbar–pelvic–costal regions differ substantially in fascicle length (Gerling & Brown, 2013). **Moderate evidence** — the architectural difference is measured; the regional length map at each arm angle is modelled, not observed, and the same model places the whole muscle on the plateau or the descending limb across the shoulder's range rather than scattering it.
+- **The lower fibres wrap the upper arm from further below and behind**, giving them a different line of pull from the upper fibres — which is what makes regional loading a real phenomenon rather than a bodybuilding invention (Part II §A.5).
+
+The twist is also why the posterior axillary fold — the visible ridge at the back of the armpit —
+is formed by the *lower* fibres of the lat together with teres major, not by the upper ones.
+
+---
+
+### A.4 Architecture — an excursion muscle, not a force muscle
+
+This is the single most consequential fact in the document. Measured by microdissection of human
+cadaver specimens (Gerling & Brown, 2013):
+
+```
+HUMAN LATISSIMUS DORSI — MEASURED ARCHITECTURE
+  Mass                 170.4 ± 15.6 g
+  Fascicle length      26.4 ± 1.0 cm
+  Sarcomere length     2.69 ± 0.06 µm  (neutral posture)
+  PCSA                 5.6 ± 0.5 cm²
+```
+
+A 170-gram muscle with a [physiological cross-sectional area](#pcsa) of under 6 cm². For comparison,
+that is a small cross-section for a muscle covering half the back — the figure is an order-of-magnitude
+remark, not a matched comparison [consensus — no single source]. The
+reason is the fascicle length: PCSA is volume divided by fascicle length, and at 26.4 cm
+the lat's fascicles are among the longest in the human body.
+
+> Maximum isometric force ≈ PCSA × [specific tension](#specifictension)
+> ≈ 5.6 cm² × ~22.5 N·cm⁻² ≈ **~130 N** (~13 kg of force)
+
+**Interpretive caution — three things about this block.** The ± figures are standard errors of the
+mean, not between-specimen spread: individual PCSA in that sample ranged **3.7 to 8.1 cm²**, a
+2.2-fold spread, in elderly formalin-fixed cadavers. PCSA was computed per specimen and averaged, so
+it does not equal 170.4 g ÷ 26.4 cm. And the ~130 N figure scales linearly with the specific-tension
+constant, which is not settled — 22.5 N·cm⁻² is the muscle-architecture convention, while
+musculoskeletal models commonly use 45 N·cm⁻², which would give ~250 N from the same PCSA. **The claim
+that survives is relative, not absolute:** whatever this muscle's volume, an unusually large share of
+it is spent on fascicle length rather than on cross-section. Do not read 5.6 cm² as your own number.
+The figure is also a cadaveric estimate of the muscle's own force capacity, not
+of the weight you can pull — a pulldown is moved by lat, teres major, posterior deltoid, elbow
+flexors and pectoralis major together, and the joint's leverage converts force into load. Treat it as
+a statement about *proportion*, not an absolute prediction.
+
+**What this dictates:**
+
+| Architectural fact | Training consequence |
+|---|---|
+| Very long fascicles (~26 cm) | Huge active excursion — roughly 13 cm of shortening; **range is the primary variable** |
+| Very low PCSA (~5.6 cm²) | Low force per unit volume; heavy load buys little and costs joint and grip |
+| Near-parallel fibre arrangement, low [pennation](#pennationangle) | Force transmits along the fascicle; no pennation-angle bonus to exploit |
+| Thin sheet, wide area | Regional length differences are large across the muscle |
+
+The rule that comes out of this table, and which the rest of Part II is an elaboration of:
+**train the lat with range first and load second.** Every gram of a muscle built this way is built by
+moving the humerus a long distance, not by moving it against a large force.
+
+---
+
+### A.5 Regions — the lat is at least two muscles
+
+Architecture is not uniform. Splitting the muscle by origin territory (Gerling & Brown, 2013):
+
+| Region | Share of total PCSA | Fascicles | Reading |
+|---|---|---|---|
+| Thoracic (T7–T12, scapular) | ~36% (2.0 cm²) | Shorter | Smaller, more force-oriented; shorter excursion |
+| Lumbar–pelvic–costal (LPC) | ~64% (3.6 cm²) | Substantially longer | Larger *and* longer-range — the muscle's bulk lives here |
+
+Nearly two-thirds of the lat's physiological cross-sectional area arises at or below the lower ribs —
+from the lumbar fascia, the sacrum, the iliac crest and ribs 9–12. The "lower lat" is not a small
+accessory region; it is the majority of the muscle.
+
+**Regional recruitment is measurable, and modest.** Two independent surface-EMG datasets:
+
+- Comparing isometric shoulder extension, adduction, internal rotation and depression, shoulder **extension** produced the highest lat activation overall; the **medial** (vertebral) component predominated in extension, adduction and internal rotation, and the **lateral** component in shoulder depression (Park & Yoo, 2014).
+- Using high-density EMG grids across the muscle, the **thoracic** region was preferentially recruited during isometric shoulder extension and internal rotation, with a measurable spatial redistribution of activity between regions (Muñoz-Garcés et al., 2026). **The effect appeared only at ≥50% [MVIC](#mvic)** — it was not significant at 10% or 30%, and the task set also included lateral trunk bending.
+
+**Moderate evidence** that shoulder position biases *which* region works hardest. **Promising but
+under-replicated** that any of this translates into [regional hypertrophy](#regionalhypertrophy)
+you can see — no training study has measured lat thickness region by region after differing exercise
+selection. Treat regional bias as a reason to include more than one movement pattern, not as a
+reason to believe you can sculpt one part of the muscle.
+
+**Note what kind of evidence this is.** Part II §B.11 rules out using EMG *amplitude* to rank
+exercises against each other. It does not rule out this: a fixed electrode grid, one contraction, and
+the question of where under the grid the activity sits. That is a within-muscle spatial comparison at
+constant electrode position, which is the one thing surface EMG does well here.
+
+**Why nobody has measured the growth, and what will settle it.** Regional growth is real elsewhere: of
+14 studies reviewed, 13 found some region of a muscle growing more than another, with exercise
+selection among the things that moved it (Zabaleta-Korta et al., 2020). The lat is missing from that
+list for a methodological reason — a single ultrasound site cannot detect non-uniform growth at all,
+and conclusions change substantially with the site chosen (Nunes et al., 2024). A registered
+within-participant trial now trains one arm on a lat pulldown at 180° shoulder flexion and the other
+on a lat row at 90°, for ten weeks, reading MRI volume and cross-sectional area at 25%, 50% and 75% of
+muscle length (**NCT07360236**). It is the first study designed to answer both questions this
+subsection leaves open.
+
+---
+
+### A.6 Fibre type — fast, not slow
+
+Percutaneous needle biopsy of 18 healthy adults found the human lat to be **fast-dominant**:
+myosin heavy chain 2A at 42%, 2X at 25%, and MyHC 1 at only 33%; the fast bias was larger in men
+(71%) than women (64%), and — unlike lower-limb postural muscles — the slow fibres were the
+*smaller* ones by cross-section (Paoli et al., 2013).
+
+This contradicts the common assumption that a large postural back muscle must be endurance-typed.
+**Practical reading:** the lat has no special claim on very high-rep work, and it responds across the
+whole [rep range](#repetition) like any other mixed muscle. It also does not justify training it
+exclusively heavy. Fibre type is a poor predictor of optimal rep range, and the 5–30-rep equivalence for hypertrophy at matched effort (Schoenfeld et al., 2017) has never
+been shown to break down by fibre composition.
+
+---
+
+### A.7 The muscles you cannot separate it from
+
+Any exercise that extends or adducts the shoulder recruits all of these. Exercise selection changes
+their proportions slightly; nothing removes them.
+
+| Muscle | Shared action | Can it be trained separately? |
+|---|---|---|
+| Teres major | Extension, adduction, internal rotation — identical at the joint | **Not by joint action.** Same actions, adjacent insertion, and no humeral movement separates them. **Their lengths are separable, though:** teres major has no trunk origin, so the trunk rotation and side-bend of Part II §B.10 lengthen the lat and not teres major. That shifts the ratio; it does not isolate. **Moderate evidence** — from the anatomy, not from a training comparison |
+| Posterior deltoid | Shoulder extension, horizontal abduction | **Partly.** Dominates when the elbow travels behind the torso or wide |
+| Pectoralis major (sternal head) | Extension *from* a flexed position; adduction | **Partly.** Loaded heavily by pullovers; less by pulldowns |
+| Long head of triceps | Shoulder extension | **No.** Works in every pulling variation, bent elbow or not |
+| Elbow flexors (biceps, brachialis, brachioradialis) | Elbow flexion | **Yes** — by removing elbow flexion ([straight-arm pulldown](#straightarmpulldown)) |
+| Rhomboids, mid and lower trapezius | Scapular retraction and downward rotation | **Yes** — they are scapular, not humeral, muscles |
+| Forearm flexors | Grip | **Yes** — straps, with the caveat in Part II §C.5 |
+
+The visible "wing" is lat plus teres major plus [serratus anterior](#serratusanterior) bulk over the
+ribs. No amount of exercise selection resolves that trio into separate targets.
+
+---
+
+### A.8 The thoracolumbar fascia — the second half of the muscle
+
+The lat's lower origin is not bone but the posterior layer of the
+thoracolumbar fascia, a dense aponeurotic sheet that also receives
+gluteus maximus from the opposite side. Contracting the lat therefore tensions a structure that
+crosses the sacroiliac joint — the [posterior oblique sling](#posteriorobliquesling).
+
+Dissection with force-vector analysis found the lat capable of acting on the shoulder, the lumbar
+spine and the sacroiliac joint, but with only a **small** capacity to extend the lumbar spine in
+isolation; its more plausible spinal role is bracing and load transfer between arm and pelvis
+(Bogduk et al., 1998). **Moderate evidence** — the anatomy is not in dispute, the functional
+magnitude is.
+
+**Three practical consequences:**
+
+1. **The origin is only as fixed as your trunk.** A soft, unbraced trunk lets the pelvis and ribcage move toward the arm instead of the arm moving toward them, and the lat's excursion is spent on the wrong end. Bracing is not a safety flourish here; it is what makes the origin an origin.
+2. **Trunk position changes lat length independently of the arm** — quantified later, in Part II §B.10.
+3. **A short lat can pull the lumbar spine into extension** when you reach overhead, which is the commonest reason a lifter compensates by arching rather than raising the arm; screened in Part II §C.3.
+
+---
+
+### A.9 The scapula — a track, not an attachment
+
+Direct muscular fibres to the inferior angle are present in 43 of 100 cadaveric specimens
+(Pouliart & Gagey, 2005). Imaging suggests the muscle and the scapula are mechanically coupled even
+where those fibres are absent: comparing 150 shoulders imaged by CT with the arms elevated against
+150 matched shoulders imaged with the arms down, latissimus–scapula overlap was 19.9 ± 6.3% versus
+2.7 ± 2.2% — which the authors read as the lat forming a **dynamic track** across which the inferior
+angle travels under the muscle belly as the arm elevates (Paksoy et al., 2024). Note that those
+authors cite the 43% in order to *dispute* it: their own position is that the muscle runs superficial
+to the inferior angle rather than firmly attaching to it.
+
+**Reading:** the lat does not primarily move the scapula, but it constrains it — pressing the inferior
+angle against the ribcage during overhead reaching. This is why a scapula that is not permitted to
+upwardly rotate at the top of a pull runs into the lat rather than gliding over it, and why the
+"pin the shoulder blades down and hold them there" instruction costs range — resolved in Part II §B.8.
+**Promising but under-replicated** — one cross-sectional CT comparison of two matched cohorts, no
+dynamic imaging, no training outcomes.
+
+---
+
+### A.10 What the anatomy dictates, in five lines
+
+1. The lat moves the **humerus**, so the elbow's path is the input, not the hand's.
+2. It is an **excursion** muscle: range beats load.
+3. Its bulk originates **below the ribcage**, so trunk position and bracing are part of its mechanics.
+4. It is **regionally differentiated**, so more than one movement pattern is justified.
+5. Nothing you do trains it without also training **teres major**, and most of what you do also trains posterior deltoid and elbow flexors.
+
+---
+
+## partiibbiomechanics
+
+**PART B — Biomechanics: what actually loads the lat**
+
+### B.1 The three joint actions, ranked
+
+The lat can do exactly three things at the shoulder. Every lat exercise in existence is a
+combination of them.
+
+| Action | What it is | Evidence of primacy |
+|---|---|---|
+| [Shoulder extension](#shoulderextension) | Driving the upper arm backward/downward in the [sagittal plane](#sagittalplane) — the elbow travels from in front of you to beside and behind you | Highest lat %MVIC of the four isometric actions tested (Park & Yoo, 2014) |
+| [Shoulder adduction](#shoulderadduction) | Pulling the upper arm toward the midline in the [frontal plane](#frontalplane) — the elbow travels from out to the side down to the ribs | Largest lat [moment arms](#momentarm) of any GH action, especially the lumbar and iliac fibres (Hik & Ackland, 2019) |
+| [Internal rotation](#internalrotation) | Rotating the upper arm so the elbow crease turns toward the body | Real but small; never the organizing action of an exercise |
+
+**They are not interchangeable.** Extension recruits the muscle hardest; adduction gives it the best
+leverage. That tension is why both vertical and horizontal pulling belong in a lat program, and why
+the best single exercise is one that blends the two — a pull in which the elbow travels *down and
+slightly in*, not straight down and not straight in. **Promising but under-replicated** — no training
+study has compared blended against pure elbow paths for lat growth. Note also that better leverage in
+adduction means the lat can move more weight there, not that adduction puts more tension in it
+(Part I §2).
+
+**Internal rotation is a trap.** It is a genuine lat action, but cueing it puts the shoulder into
+internal rotation while abducted and elevated, which is the position most associated with
+subacromial compression. And there is nothing to take for free: a [pronated grip](#pronatedgrip) is
+forearm pronation, a radioulnar action — with the arm overhead on a fixed bar it actually holds the
+humerus in relative *external* rotation, which is exactly what makes the behind-the-neck variant an
+external-rotation problem (Part II §D.1). Take whatever humeral rotation the handle imposes and cue
+nothing further.
+
+**The fourth action people name — "[scapular depression](#scapulardepression)" — is not a lat action
+in most people, and a weak one in the rest.** Direct muscular fibres to the inferior angle are present
+in only 43 of 100 cadaveric specimens (Pouliart & Gagey, 2005), so for the majority there is no path
+from the lat to the shoulder blade at all. **Moderate evidence.** What feels like depression is the humerus being pulled
+down and dragging the shoulder girdle with it. Notably, the one EMG study to test it found shoulder
+depression **no better than** the other non-extension tasks — that study establishes only that
+extension exceeded the rest — and the only one biased toward the lateral rather than medial fibres
+(Park & Yoo, 2014). **Caveat:** the authors state that the medial/lateral difference was not
+represented functionally.
+
+---
+
+### B.2 Moment arms — where the lat has leverage
+
+A moment arm is the lever the muscle has at a joint: the same muscle force produces
+more joint [torque](#torque) where the moment arm is larger.
+
+> τ = F_muscle × r(θ)   (N·m; r = moment arm, m; θ = joint angle, rad)
+
+Measured by tendon excursion in eight cadaveric upper extremities across 18 muscle sub-regions
+(Ackland et al., 2008), and pooled with the modelling literature (Hik & Ackland, 2019):
+
+- The largest **adductor** moment arms at the glenohumeral joint belong to a *group* — **teres major, the middle and inferior latissimus dorsi, and the middle and inferior pectoralis major** — not to the lat alone (Ackland et al., 2008). Within that group the lat's own leverage is best in adduction, then extension. These muscles' lines of action run inferiorly across the humeral head, which is why the group is described as the humeral-head **depressors**. That is a statement about the direction of force on the head, and is unrelated to scapular depression, which is not a lat action at all.
+- Sub-regions differ significantly: the peak moment arms of the middle and inferior latissimus sub-regions during mid-abduction were significantly larger than the superior sub-region's (Ackland et al., 2008).
+- Through coronal-plane abduction the lat's adductor moment arm follows a roughly parabolic course, peaking at a mean maximum of **37.3 ± 1.7 mm beyond ~69° of glenohumeral abduction** (Ackland et al., 2008).
+
+**Elevation is not the only axis.** Moment arms at this joint are functions of three things, and this
+document has so far varied one. Shoulder moment arms measured during elevation in the sagittal,
+scapular and coronal planes differ between planes at the same elevation angle (Kuechle et al., 1997),
+and they also change with humeral axial rotation (Ackland & Pandy, 2011). For the lat the rotation
+dependence should be large, because the tendon wraps the humerus to insert on the *front* of the bone —
+rotating the humerus moves that insertion around the shaft. **Moderate evidence** — measured for the
+shoulder musculature as a group, not reported separately for latissimus sub-regions. **What to do with
+it:** do not treat "arm at 120°" as one mechanical state. 120° of flexion, of scapular-plane elevation
+and of abduction are three different leverage conditions, which is why varying the *plane* of the pull
+is worth more than varying the grip.
+
+**Two interpretive cautions, and they matter for everything built on this.** Those angles are
+*glenohumeral*, measured with the scapula fixed; a lifter's arm angle is *humerothoracic*, and at a
+2:1 [rhythm](#scapulohumeralrhythm) θ_HT ≈ 1.5 × θ_GH, so the peak corresponds to roughly 105–135° of
+arm elevation. And **the preparation only measured 10–120° of glenohumeral motion** — a plate below
+the glenoid restricted it — so it never reached the top of a pulldown. That the moment arm *declines
+again toward full overhead* is an extrapolation from the shape of the curve, not a measurement:
+**evidence remains limited and inconsistent** for any leverage claim above ~120° of arm elevation.
+
+**Moderate evidence** throughout. Cadaveric and model-derived moment arms vary considerably between
+laboratories, and no study has measured them in a loaded pulldown.
+
+**The consequence that matters, stated carefully:** the lat's mechanical advantage is **worst at both
+ends of the range** — arms fully overhead, and elbow fully behind the body — and best in the middle.
+Read that correctly, because it is the most misread relationship here. Leverage sets how much *weight*
+the muscle can move at a given angle, not how much *tension* it carries: at a fixed torque demand a
+smaller moment arm makes the muscle work **harder**, not less (Part I §2). So the overhead position is
+not a place the lat is idle. It is a place where a small weight already costs the muscle a great deal —
+which is the whole argument for loading it lightly and honestly rather than either skipping it or
+attacking it. What actually under-stimulates the top of a vertical pull is not leverage at all: it is
+that the exercise demands almost no torque there (Part II §B.5).
+
+---
+
+### B.3 Force–length — the overhead position is past optimal
+
+Modelling sarcomere operating ranges from the measured architecture (Gerling & Brown, 2013):
+
+| Joint position | Where the sarcomeres sit | Active force capacity |
+|---|---|---|
+| Neutral trunk and arm | Plateau (~2.69 µm) | Maximum |
+| Shoulder **extension / adduction** (elbow down and back) | At or near plateau | Near maximum |
+| Shoulder **flexion / abduction** (arm overhead) | Progressively onto the **descending limb** | Falls to **~70–85%** |
+| Trunk lateral bending | Large deviations (1.64–3.30 µm) | Substantially impaired at extremes |
+
+Two things this settles, and both are counter to gym folklore:
+
+**You are weak overhead because the muscle is past its optimum, not because you are "not activating"
+it.** At full elevation the lat is simultaneously on the descending limb of the
+[force–length curve](#forcelengthrelationship) — active force down to ~70–85% — *and* near the low
+end of its moment-arm curve. Both push the same way on the *weight you can move*: reduced force
+capacity divided by a small lever means little joint torque available. It is a mechanical fact, not a
+technique fault. **What it does not mean is that the muscle is lightly loaded there.** Per unit of
+torque the exercise imposes, a small moment arm costs *more* muscle tension, not less (Part I §2).
+
+**The stretch is worth loading for two reasons, one of them purely mechanical.** The first is passive:
+total tension is active plus passive, and passive tension from titin and connective tissue rises
+steeply exactly where active force is falling, so the muscle at long length is not under low tension —
+it is under differently-sourced tension
+([stretch-mediated hypertrophy](#stretchmediatedhypertrophy)). The second is arithmetic and does not
+depend on that literature at all: muscle force is joint torque divided by moment arm, so a *small*
+moment arm means the muscle must generate **more** force to meet a given demand. Overhead the lat has
+both a low moment arm and reduced active capacity, which means a modest external torque there already
+recruits a large fraction of what the muscle can do. **That is why "you are weak overhead" and "load
+the stretch" are not in conflict — they are the same fact stated twice.** The direct evidence is strongest
+outside the lat: 12 weeks of elbow extension in the overhead versus neutral arm position produced
+**19.9% versus 13.5%** triceps growth despite *lower* absolute loads overhead (Maeo et al., 2023),
+and across sixteen ROM trials full ROM beat partial ROM for strength (ES = 0.56) and for
+**lower-limb** hypertrophy (ES = 0.88), while the pooled analysis of muscle thickness, pennation angle
+and fascicle length found no difference (ES = 0.28, p = 0.226) (Pallarés et al., 2021). **Moderate
+evidence**, and note where the advantage was and was not found — the lat is an upper-body muscle
+measured by thickness, which is exactly the pairing that came out null.
+
+**Meta-analytically the picture is not settled.** Pooling eight trials, partial repetitions at long
+muscle length beat short-length training for hypertrophy (ES = 0.283, p = 0.036), with the advantage
+largest at distal sites (Strey et al., 2026). Pooling twelve trials under a Bayesian model, the same
+contrast was trivial at proximal, mid and distal sites, with most of the posterior inside the region
+of practical equivalence (Varovic et al., 2025a). No upper-back muscle appears in either evidence base.
+
+**Caveat, stated plainly:** the extrapolation to the lat is an inference from muscles with similar
+architecture, not a measurement. The one recent trial to train a cable single-arm pulldown under
+[lengthened partials](#lengthenedpartials) versus full ROM measured only elbow flexor and extensor
+thickness and found no difference between conditions — **it never measured the lat** (Wolf et al.,
+2025). **Evidence remains limited and inconsistent** for lat-specific stretch superiority. Load the
+stretch because the mechanism is sound and the cost is zero, not because it has been demonstrated
+in this muscle.
+
+---
+
+### B.4 The stimulus map for the lat
+
+Overlaying §B.2 and §B.3 onto the arc the humerus actually travels:
+
+```
+HUMERUS POSITION      LAT LENGTH   LEVERAGE   ACTIVE FORCE   TENSION PER    WHAT IT NEEDS
+                                                             N·m OF DEMAND
+──────────────────────────────────────────────────────────────────────────────────────────
+Fully overhead        Longest      Low        ~70-85%        HIGHEST        Modest torque, slow
+(≈170-180° elevation) (+ passive                                            tempo, full control.
+                       tension)                                             A light load does a
+                                                                            lot of work here
+
+Mid-range             Long         HIGHEST    ~85-100%       Lowest         The heaviest torque
+(≈90-140° elevation)                                                        the exercise can
+                                                                            deliver
+
+Elbow at ribs         Short        Falling    Near plateau   Rising         Torque is optional;
+(≈20-40° elevation)                                                         excursion is nearly
+                                                                            spent
+
+Elbow behind torso    Shortest     Lowest     Near plateau   Rising, but    Nothing. The added
+(hyperextension)                                             the deltoid    torque goes to
+                                                             takes it       posterior deltoid and
+                                                                            the anterior capsule
+```
+
+**The fifth column is the one people get backwards.** It is torque demand divided by moment arm — how
+much tension the muscle carries per newton-metre the exercise asks for — and it is highest exactly
+where leverage is lowest. Overhead, the lat is weak *and* poorly levered *and* carrying more tension
+per unit of demanded torque than anywhere else in the range. All three are true at once, and the third
+is why the position is worth loading.
+
+**The single most useful sentence in this document:** the lat's productive range runs from full
+overhead to roughly the point where the elbow reaches the side of the ribcage, and the exercise
+should deliver its peak torque somewhere in the upper-middle of that arc while still applying
+*meaningful* torque at the top. Everything past the ribcage is fatigue without stimulus.
+
+---
+
+### B.5 Resistance profiles — where an exercise's torque actually peaks
+
+The muscle's capability curve is fixed. The **[resistance profile](#resistanceprofile)** — where the
+external load demands the most torque — is chosen by the exercise, and this is the lever most
+lifters never touch.
+
+For any exercise, the shoulder torque demand is:
+
+> τ_demanded = F_resistance × d⊥
+>
+> where d⊥ = the perpendicular distance (m) from the glenohumeral joint centre to the line of action of the resistance
+>
+> d⊥(θ) = L(θ) × sin φ(θ)   (m; L = distance from the glenohumeral joint centre to the hand, m; φ = angle between that segment and the resistance line, rad)
+
+**d⊥ is maximal when the resistance line is perpendicular to the line from your shoulder to your hand,
+and zero when the two are parallel.** For *gravity-driven* resistance — free weights, body weight — the
+line of action is vertical, and this reduces to the horizontal shoulder-to-hand offset measured in the
+plane of the pull.
+
+**The setup rule that follows.** For any resistance that is not a hanging weight, the line of action
+runs from your hand to the anchor — the pulley, the band's fixing point, the machine's pivot. Peak
+torque falls where that line is **perpendicular to the line from your shoulder to your hand**, and
+falls to zero where the two are parallel. Three things you can act on: to load the stretch, put the
+anchor perpendicular to your arm *at the stretched position*, which for an overhead reach usually means
+a **lower** pulley and more distance than people use, not a higher one; a parallel setup produces a
+**dead spot**, and the giveaway is that the top of the rep feels weightless; and moving your body
+relative to the anchor is a resistance-profile control that is a bigger lever than the weight on the
+stack. It is also why the band advice in Part II §E.3 — anchor overhead *and behind* — works: it makes
+the band line oblique to the arm at the top instead of parallel to it.
+
+**It does not reduce to the gravity case for a cable, a band, or a cammed machine**, and the table below contains
+several. For a cable the line runs from the hand to the pulley, so d⊥ depends on where you stand; for
+a band, from the hand to the anchor. That is why the same movement can be stretch-loaded or
+short-loaded depending on nothing but your position relative to the anchor — the single most useful
+thing to know when setting up a cable exercise, and the reason the straight-arm pulldown in
+Part II §D.3 is so easy to set up wrong.
+
+| Profile | Peak torque falls | Exercises | Verdict |
+|---|---|---|---|
+| **Stretch-loaded** | Near full elevation | Dumbbell/cable pullover around humerus-horizontal, machine pullover with a genuine cam, cross-body single-arm pulldown, any cable set up perpendicular to the arm at end-range | **Rarest and most valuable** — include at least one, and verify it by feel rather than by name |
+| **Mid-range-loaded** | Roughly 90–130° elevation | Standard [lat pulldown](#latpulldown), [pull-up](#pullup), most [rows](#row) | The default; do the bulk of the volume here |
+| **Short-loaded** | Elbow near or behind the ribs | Band pulls, some machine rows, seated row finished with heavy retraction | **Lowest value for the lat** — loads where excursion has run out |
+
+**Worked example — the two ends of the spectrum.**
+
+*Dead-hang pull-up.* At a **shoulder-width** grip the hands sit almost directly above the shoulders,
+the resistance line passes close to the joint centre, and the rotational demand at the stretched
+position really is small. Widen the grip and it stops being small: each hand moves lateral to its
+shoulder, and the vertical bar reaction acquires a frontal-plane moment arm equal to that offset. For
+an 80 kg lifter at 1.5× biacromial width — 0.40 m shoulders, 0.60 m grip, so 0.10 m of offset per
+side — that is 392 N × 0.10 m ≈ **39 N·m of adduction demand per shoulder at the stretch**. Note also
+that the demand there is **adduction**, not extension: at a dead hang the humerus is elevated in
+roughly the frontal plane, and the lat's adduction and extension moment arms are different quantities.
+
+*Dumbbell pullover.* Torque follows
+
+> τ(θ) = W × L × sin θ   (N·m; W = weight in N, L = shoulder-to-hand distance in m, θ = angle of the arm from vertical in rad)
+
+so it is zero with the arms vertical and **maximal with the humerus horizontal** — at 30 kg and
+L = 0.55 m, 162 N·m across two shoulders, ~81 N·m each. The lever is the shoulder-to-hand distance,
+not the full arm length, because the elbow stays fixed at a small angle. **And the peak is at
+humerus-horizontal, not at your end range:** going deeper than horizontal lengthens the muscle and
+*reduces* the torque, so the useful stretch loading is a narrow window either side of horizontal.
+
+So the wide-grip dead hang is roughly **45%** of a 30 kg pullover at the same muscle length — not
+"close to zero." The comparison is not load-matched and is not meant to be; it is about where the
+resistance line runs relative to the joint.
+
+Add the weight of your own arm to both: at ~5% of body mass per arm with its centre of mass at ~45% of
+arm length, an 80 kg lifter's arm contributes ~10 N·m per shoulder with the humerus horizontal. That is
+small against a loaded pullover and it is the *entire* load in an unloaded stretch.
+
+**Two corrections to the folklore follow, and both cut against this document's own defaults.** A wide
+grip is the one thing that *adds* torque at the stretch of a pull-up, which partly offsets the range
+it costs (Part II §B.9). And a moment arm near zero does not mean the muscle is unloaded — it means its
+force goes into compressing the joint rather than turning it. At a dead hang the glenohumeral joint is
+being distracted by roughly half body weight per arm, and lat, teres major and pectoralis major are
+the group opposing that: **a dead hang loads the lat isometrically at its longest length while
+producing no rotation at all.** **Moderate evidence** — the geometry is exact, but the share the lat
+takes of the anti-distraction load is inferred from line-of-action data (Ackland et al., 2008), not
+measured under load.
+
+This is not an argument against pull-ups. It is the reason a program built only on pull-ups and
+pulldowns leaves the lat's most valuable range untrained, and why one stretch-loaded exercise is
+worth more than a fourth mid-range one.
+
+---
+
+### B.6 Fixing the stretch in vertical pulling
+
+Three modifications, in ascending order of effect, that put torque back on the overhead position of
+an ordinary pulldown:
+
+1. **Lean the torso back 20–30°.** This displaces the hands forward of the shoulder at the top, creating a real d⊥ where there was none: at a shoulder-above-hip height of ~0.55 m, a 25° lean gives d⊥ ≈ 0.23 m, so a 60 kg stack demands ~68 N·m per shoulder at a position that demanded almost nothing upright. It also shifts the movement from pure adduction toward extension, the higher-activation action (§B.1). **State the cost plainly:** leaning back 25° also removes 25° of arm elevation at the top — roughly 1.6 cm of muscle–tendon length, about 14% of the muscle's available excursion. A good trade, not a free one, and the reason it does not replace a stretch-loaded exercise. The lean must also be *held*, not swung.
+2. **Start each rep from a genuine full reach** — allow the scapula to travel (§B.8) so the humerus reaches its true end-range instead of stopping where a locked scapula ends it.
+3. **Add a stretch-loaded exercise** rather than trying to make one exercise do everything (§B.5).
+
+**Note on the lean:** a 30° trunk inclination was one of the seven pulldown variants compared under
+EMG, and it did not change lat activation — it raised **posterior deltoid** activation instead
+(Buonsenso et al., 2025). That finding does not refute the mechanical argument, because EMG amplitude cannot
+measure *where in a range* tension is applied — the
+[EMG–hypertrophy dissociation](#emghypertrophydissociation) developed in Part II §B.11; but it is honest to record that the acute measurement did not detect a lat benefit.
+**Moderate evidence** for the lean on mechanical grounds; **not supported** by acute EMG.
+
+---
+
+### B.7 The elbow path is the steering wheel
+
+The lat inserts on the humerus. It does not know where your hand is. **Everything the lat
+experiences is determined by where the elbow goes and how the upper arm is oriented as it gets
+there.** The hand is a hook.
+
+**Why a bending elbow unloads the shoulder, mechanically.** The resistance acts at your hand, so the
+shoulder's moment arm is set by the distance from the glenohumeral joint centre to the **hand**, not to
+the elbow:
+
+> τ_shoulder = F_resistance × L_GH→hand × sin φ   (N·m; L in m, φ in rad)
+
+Closing the elbow shortens L. Going from a 160° elbow to a 90° elbow on a 0.65 m arm cuts that distance
+to roughly 0.45 m — a **30% cut in shoulder torque at the same load**, before any question of which
+muscle is pulling. And because a fixed elbow angle makes shoulder rotation the *only* route by which
+the hand can move, "it is a hook, not a hinge" is a torque instruction, not a cue about feel.
+
+| Elbow path | What it emphasizes | Use it? |
+|---|---|---|
+| Down and slightly **in**, finishing beside the lower ribs | Extension + adduction blend — the lat's fibre direction | **The default.** Best compromise between activation and leverage |
+| Straight **down** in the frontal plane, elbow wide, finishing beside the shoulder | Pure adduction; strong leverage, weaker activation, more teres major | Useful as a variant; not the primary |
+| Straight **back**, elbow tight to the ribs and travelling behind the torso | Pure extension, then posterior deltoid and anterior capsule past neutral | Only to the ribs. **Stop there** |
+| **Flared out** and back, elbow above shoulder height at the finish | Posterior deltoid, rhomboids, mid-trap | **Not a lat path** |
+
+**The 45° rule.** The upper arm should travel in a **plane** roughly 30–60° anterior to the frontal
+plane — not straight out to the side, not straight in front. Closer to the frontal plane and the pull
+is pure adduction with the elbow wide; closer to the sagittal plane and it becomes a row. This is a
+statement about the *plane* the elbow travels in, not about how far the arm is raised: through the
+mid-range of a vertical pull the arm is still at 90–140° of elevation. A mechanical inference from the
+fibre direction, not a measured optimum [consensus — no single source].
+
+---
+
+### B.8 Scapular motion — reach, then pull
+
+The scapula must [upwardly rotate](#scapularupwardrotation) and elevate for the humerus to reach true end-range overhead
+(scapulohumeral rhythm, roughly 2:1 glenohumeral to scapulothoracic
+through mid-elevation), and downwardly rotate and depress as the arm comes down. **The ratio is not
+constant, and the non-uniformity runs against you here:** the first ~30° is glenohumeral-dominant and
+the scapular share rises through the last third of elevation — exactly the part of the range this
+document is about. So pinning the scapula does not cost a flat third of the range; it costs the top of
+it. **Moderate evidence** — the non-constancy is well established, the exact end-range split varies by
+measurement method.
+
+The standing controversy is whether to permit that at the top of a pull. What the evidence actually
+contains is less than the argument usually assumes:
+
+- **For pinning the scapula down first:** no acute or training study has tested it. The cue is coaching convention [consensus — no single source]. The EMG study usually cited here tested something else — verbal instruction to *emphasize the lat and de-emphasize the biceps* — with no scapular-depression condition at all (Snyder & Leech, 2009); it belongs to the cueing discussion in Part II §C.4, not to this one.
+- **Against pinning it:** a scapula held in depression and downward rotation cannot upwardly rotate, so the humerus stops short of its true overhead position. The lat's longest length becomes unreachable, and the inferior angle jams against the muscle belly instead of travelling over it (Paksoy et al., 2024). This is a mechanical inference, not a measured hypertrophy outcome.
+
+**The resolution the mechanics support:** *reach, then pull.* Let the scapula upwardly rotate and
+elevate at the top under control — an active reach, not a collapsed hang — then initiate the pull by
+depressing and [downwardly rotating](#scapulardownwardrotation) it, and finish with the shoulder
+blade down and back. That sequence buys the full excursion at no cost, which is why it is the default
+here — but note that it is reasoning from mechanics, and neither side of this argument has been
+tested for growth. **Promising but under-replicated.**
+
+**What to avoid at either extreme:** a totally passive hang with the shoulders jammed to the ears and
+no muscular tension (nothing is loaded, and the joint takes it), and a rigid pin that turns the
+exercise into a two-thirds-range movement.
+
+---
+
+### B.9 Grip — what the evidence says, and what it does not
+
+This is the most over-discussed and least consequential variable in lat training. The literature is
+unusually consistent.
+
+| Question | Finding | Confidence |
+|---|---|---|
+| Does grip **width** change lat activation? | No. Narrow, medium and wide (1×, 1.5×, 2× biacromial) produced similar lat EMG; narrow and medium allowed a *heavier* 6RM than wide — 80.3 / 80.0 / 77.3 kg, a ~4% penalty (Andersen et al., 2014) | *(unmarked — replicated across Andersen and Buonsenso)* |
+| Does grip width change it during the **eccentric** specifically? | Only **wide exceeded narrow**, by three percentage points (ES = 0.14); medium vs narrow was a non-significant tendency (Andersen et al., 2014) | **Promising but under-replicated** — one study, one phase, trivial magnitude |
+| Does **pronation vs supination** matter? | Pronated exceeded [supinated](#supinatedgrip) for lat activation, irrespective of width (Lusk et al., 2010) | **Moderate evidence** |
+| Does it survive a broader comparison? | Seven pulldown variants — pronated/supinated/neutral, narrow/wide, upright/30° lean — produced **no significant difference** in lat activation, all sitting at 45–50% MVC across the full movement (Buonsenso et al., 2025) | **Moderate evidence** |
+| Pull-up vs [chin-up](#chinup)? | Lat activation similar (117–130% MVIC across variants). The chin-up added **pectoralis major and biceps**; the pull-up added **lower trapezius** (Youdas et al., 2010) | **Moderate evidence** |
+
+**The verdict:** grip changes what your *arms and shoulders* do; it barely changes what your lat
+does. Choose grip for joint comfort, for the range it permits, and for what you want the synergists
+to do — never as a lat-targeting tool.
+
+Two practical asymmetries survive the null result:
+
+- **A wider grip shortens the movement.** Less range, and range is this muscle's primary variable (§A.4). Prefer roughly 1.0–1.5× biacromial width unless a wider grip is genuinely more comfortable.
+- **A supinated grip lets most people pull deeper and feel it more**, at the cost of larger biceps involvement. If the biceps fail before the lat, that is a real problem regardless of what EMG says about the lat.
+
+---
+
+### B.10 Trunk position — moving the origin
+
+Because the lat originates on the pelvis and spine (§A.8), you can lengthen it without moving the arm
+at all. Shear-wave elastography measured lat [shear elastic modulus](#shearelasticmodulus) — an indirect
+index of how far a passive muscle is stretched — in seven trunk positions, each with the arm passively raised fully overhead (Asayama et al., 2021):
+
+| Trunk position (arm fully elevated throughout) | Effect on lat elongation |
+|---|---|
+| **Contralateral rotation** | **Highest** at upper, middle and distal regions |
+| **Contralateral bending + contralateral rotation** | **Highest** at all regions including lower |
+| Contralateral bending alone | Effective at the **lower** region only |
+| Trunk flexion, alone or combined | Little added elongation |
+
+**This inverts the standard gym cue.** The usual advice for a one-arm lat stretch or pulldown is to
+side-bend away from the working arm. Rotation *away* from the working side is the stronger lever for
+most of the muscle, and bending helps mainly the lower fibres. Combining both covers everything.
+
+**How to use it:** on unilateral work, at the top of the reach, rotate the thorax
+[contralaterally](#contralateral) — the working shoulder travels forward, the opposite shoulder back,
+so the chest turns *away* from the working hand — and add a small side-bend away from the working
+side. The geometry is why: the lat wraps from the midline lumbar spine around the lateral thorax to
+the anterior humerus, so lengthening it requires the working-side shoulder to travel anteriorly
+relative to the pelvis. Reverse both as you pull. This adds
+several centimetres of lat excursion that no bilateral machine can deliver.
+
+**Caveat:** the study measured passive elongation in 14 healthy men with no load; whether the added
+range translates into more hypertrophy is untested. **Promising but under-replicated.** Also, §B.3
+records that large lateral trunk bending drives sarcomeres far from optimum in both directions — so
+keep the trunk motion small and controlled, not a full side-bend under load.
+
+---
+
+### B.11 Why EMG cannot rank exercises for hypertrophy
+
+Almost every "best lat exercise" claim traces back to a surface-EMG comparison, and surface-EMG
+amplitude does not support that inference. Amplitude is affected by electrode position relative to
+moving muscle, subcutaneous tissue, the normalization contraction chosen, the fibre-length changes of
+the muscle under the electrode, and signal cancellation — so a larger signal cannot be read as more
+[motor units](#motorunit) recruited, more tension, or more growth (Vigotsky et al., 2018). The point
+has since been restated as a validation claim rather than a methodological caution: acutely measured
+surface EMG amplitude is **not a validated predictor** of longitudinal hypertrophy (Vigotsky et al.,
+2022).
+
+Three specific problems for lat research:
+
+- **The lat moves under the electrode.** A muscle whose fascicles shorten by ~13 cm displaces the tissue beneath a fixed sensor, so the same electrode samples different fibres at different joint angles.
+- **Amplitude is blind to length.** Two exercises with identical average EMG can apply their tension at completely different muscle lengths — which is exactly the variable that appears to matter most (§B.3).
+- **Acute ≠ chronic.** No lat EMG ranking has ever been tested against a lat hypertrophy outcome.
+
+**One thing this does *not* rule out.** Ranking exercises by amplitude is invalid; asking where under a
+fixed electrode grid the activity sits, within a single contraction, is a different measurement — a
+within-muscle spatial comparison at constant electrode position, which is the one thing surface EMG
+does well here. That is the basis of the regional findings in Part II §A.5, and it still says nothing
+about growth: regional hypertrophy could not be predicted from regional surface EMG when both were
+measured in the same participants (Zabaleta-Korta et al., 2024).
+
+**Use EMG for what it can do:** confirming that a muscle participates at all, and detecting gross
+technique changes such as a biceps-dominant pull. **Do not use it** to rank exercises, to justify a
+grip, or to claim regional targeting. Every EMG result in this document is reported for that limited
+purpose and labelled accordingly.
+
+---
+
+### B.12 The mechanical checklist
+
+A rep loads the lat well if all six are true. This is the compressed form of everything above.
+
+1. The **elbow** travels from overhead to the side of the ribcage, and stops there.
+2. The upper arm sits roughly **30–60°** from the torso through the mid-range.
+3. The **top of the rep** is a genuine full reach, with the scapula permitted to rotate.
+4. **Meaningful torque exists at the top**, not just in the middle.
+5. The **trunk is braced** so the origin stays put.
+6. The set ends because the **lat** ran out, not the grip, the biceps, or the lower back.
+
+---
+
+## partiictherepspecified
+
+**PART C — The rep, specified**
+
+### C.1 The universal lat rep
+
+This is the default for hypertrophy in a healthy, trained adult. Every exercise in Part II §D is a
+variation on it, and Part II §E lists every context that changes it.
+
+```
+THE LAT REP — FOUR PHASES
+  1. REACH     Arm to true end-range overhead. Scapula upwardly rotates
+               and elevates under control. Trunk stays braced; ribs stay
+               down. Tension is never fully released.       ~1 s, held ~1 s
+
+  2. INITIATE  Depress and downwardly rotate the scapula, then drive the
+               elbow. The first movement of the pull is the shoulder
+               blade, not the hand.                                ~0.5 s
+
+  3. PULL      Elbow travels down and slightly in, upper arm 30–60° from
+               the torso, finishing beside the lower ribs. Elbow angle
+               stays constant — it is a hook, not a hinge.        1–2 s
+
+  4. RETURN    Reverse under control, resisting all the way back into the
+               reach. The eccentric is where the muscle lengthens under
+               load — this phase is the stimulus, not the recovery.  2–3 s
+```
+
+**Three non-negotiables** — the rest is adjustable, these are not:
+
+- **The top of every rep is a full reach.** If the last rep of the set is shorter than the first, the set is over.
+- **The pull stops at the ribs.** Past that point the lat has no excursion left and the shoulder takes the load.
+- **The eccentric is controlled.** Dropping back to the start discards half of the muscle's time under tension and all of its time at long length.
+
+**Breathe throughout.** Inhale during the return, exhale during the pull. Do not hold your breath
+through a set of moderate-rep pulling; there is no mechanical benefit and there is a blood-pressure
+cost.
+
+---
+
+### C.2 The nine technical errors, in order of how much they cost
+
+| # | Error | Why it costs | Fix |
+|---|---|---|---|
+| 1 | Cutting the top — never reaching full overhead | Removes the muscle's longest length, its whole reason for existing | Reduce load until a full reach is possible |
+| 2 | Pulling with the arms — elbow angle closing early | The [elbow flexors](#elbowflexors) become the prime mover and fail first | Fix the elbow angle at the start; think "drive the elbow to the hip" |
+| 3 | Overpulling past the ribs | Zero lat excursion remains; posterior deltoid and anterior capsule absorb it | Stop when the upper arm reaches the side of the torso |
+| 4 | Torso swing / [kipping](#kipping) on a hypertrophy set | Momentum unloads the muscle exactly where tension should be highest | Set the lean angle and hold it; if you cannot, the load is too heavy |
+| 5 | Dropping the eccentric | Discards the loaded lengthening phase | Count 2–3 s back to the reach |
+| 6 | Shrugging through the pull | Upper trapezius takes over; the scapula never downwardly rotates | Reach at the top, depress *as you initiate*, hold depression through the pull |
+| 7 | Elbow flare above shoulder height | Converts the movement into a rear-delt row | 30–60° from the torso |
+| 8 | Soft, unbraced trunk | The origin moves toward the insertion; excursion is spent at the wrong end | Ribs down, light abdominal brace, thighs anchored on a pulldown |
+| 9 | Grip or forearms failing first | The set ends before the lat is near failure | See Part II §C.5 |
+
+Errors 1 and 2 account for most of the difference between a lifter who grows a lat and one who does
+not. The other seven are refinements.
+
+---
+
+### C.3 Prerequisites — can you actually get overhead?
+
+The whole prescription assumes you can raise your arm to roughly 170–180° of flexion **without**
+compensating. Many people cannot, and the exercise then silently becomes a partial-range movement.
+
+**The screen** — stand with your back flat against a wall, feet a few inches out, lower back
+pressed flat. Raise both arms overhead, thumbs back, keeping the lower back flat and the ribs down.
+
+| Result | Interpretation | What to do |
+|---|---|---|
+| Wrists touch the wall, back stays flat | Full overhead range available | Train as prescribed |
+| Wrists reach the wall only by arching the back or flaring the ribs | Range is borrowed from the lumbar spine | Address it; meanwhile treat pulldowns as partial-range and prefer machine or unilateral variants |
+| Wrists do not reach at all | Genuine restriction — lat, pec minor, thoracic spine, or the joint itself | Assessment before loading; see Part II §E.4 |
+
+**A short lat is itself a common cause.** The muscle crosses the shoulder *and* the spine, so a short
+lat resists overhead reach and pulls the lumbar spine into extension when you force it — precisely
+the arching compensation above. Training a lat through full range is itself the most reliable way to
+lengthen it: pooled across eleven trials and 452 participants, strength training and stretching
+produced statistically indistinguishable range-of-motion gains (ES = −0.22; 95% CI −0.55 to 0.12)
+(Afonso et al., 2021). **Moderate evidence** — no trial studied the shoulder in a lifter, but the
+direction is consistent, and it means loaded end-range work is not a compromise substitute.
+
+**Do not force the position.** A pulldown performed at the end of an arched lumbar spine trains
+lumbar extension, not the lat.
+
+---
+
+### C.4 Cues — which ones work and which ones harm
+
+| Cue | Verdict |
+|---|---|
+| "Drive the elbow down to your hip pocket" | **Best single cue.** Directs the humerus, which is what the lat moves |
+| "Reach at the top, then pull" | **Use.** Encodes the scapular sequence of Part II §B.8 |
+| "Think about squeezing the lat" | **Use, with limits.** Internal [attentional focus](#attentionalfocus) raised lat EMG 17.6% in eight untrained women at 30% of maximum (Snyder & Leech, 2009) and produced greater elbow-flexor growth over 8 weeks in an analogous trial (Schoenfeld et al., 2018). **Moderate evidence**; drop it on heavy sets, where an external focus performs better |
+| "Bend the bar / snap the bar" | **Use.** Recruits the shoulder into extension and reduces elbow-flexor dominance |
+| "Chest up" | **Use.** Sets thoracic extension so the humerus has room |
+| "Pull your shoulder blades down and hold them there before you pull" | **Harmful as a hypertrophy cue.** Costs the reach; see Part II §B.8. Correct as a *rehab* cue, where it is protecting a shoulder, not building a lat |
+| "Squeeze your shoulder blades together" | **Harmful for the lat.** Cues retraction, which is a rhomboid/mid-trap action. Correct for a row's mid-back component, wrong for lat emphasis |
+| "Pull your elbows behind you" | **Harmful.** Error 3 in Part II §C.2 |
+| "Internally rotate to feel the lat" | **Avoid.** A real lat action in the worst joint position (Part II §B.1) |
+
+---
+
+### C.5 Grip, straps and forearm fatigue
+
+The intuition is that grip is the limiter on pulling work. The direct test disagrees, at least for the
+pulldown.
+
+Twelve resistance-trained men performed the lat pulldown with and without lifting straps: **no
+difference** in repetitions per set, total repetitions, lat EMG, or 1RM (Valério et al., 2021).
+**Moderate evidence** — one study, one exercise, trained men, moderate loads.
+
+**How to reconcile that with the obvious fact that some people's hands give out first:**
+
+| Situation | Grip usually the limiter? | Action |
+|---|---|---|
+| Machine pulldown, moderate load, 8–15 reps | **No** — the Valério result | Straps are optional; use them if you prefer |
+| Long sets (>20 reps), high frequency, or thick bars | **Yes** | Straps, or accept the trade |
+| Heavy rows and any bodyweight hanging work | **Yes**, commonly | Straps for the working sets; train grip separately if you want it |
+| Anyone with elbow or wrist tendinopathy | Grip is often the *symptom driver*, not the limiter | Neutral grip, straps, and see Part II §E.4 |
+
+**Straps are a technical tool, not a shortcut.** They exist to make the lat the limiting tissue. If
+your grip is a training goal, train it as its own exercise rather than letting it truncate every
+pulling set.
+
+---
+
+### C.6 Trunk bracing
+
+Because the lat's origin is the pelvis, spine and thoracolumbar fascia (§A.8), an unbraced trunk lets
+the origin move.
+
+```
+BRACING FOR A LAT PULL
+  Pulldown       Thighs firmly under the pad; feet flat; light abdominal
+                 brace; ribs down; hold the chosen lean angle throughout
+  Pull-up        Ribs down, glutes and abdominals lightly engaged, legs
+                 either straight or crossed and still — a "hollow" trunk
+  Bent-over row  Neutral spine held isometrically; hips hinged; the spine
+                 angle must not change during the set
+  Pullover       Ribs down against the bench; do not let the lower back
+                 arch off as the arms go overhead
+```
+
+The failure signal is the same everywhere: **the spine angle changes during the set.** When it does,
+the set is over, whatever the muscle feels like.
+
+---
+
+### C.7 How to know it worked
+
+Feel is a weak signal, and the lat is notoriously hard to feel. Use it, but rank it last.
+
+| Signal | Weight |
+|---|---|
+| Load × reps at a fixed [ROM](#rangeofmotion) rising over weeks | **Primary.** The only one that tracks the outcome |
+| Lat-specific soreness in the outer back and posterior armpit 24–48 h after | Weak — the damage soreness indexes is not itself the growth signal; protein-synthetic responses tracked hypertrophy only once damage had subsided (Damas et al., 2016) |
+| A local burn/pump in the lat rather than the arms during the set | Useful as a *technique* check, not a stimulus measure |
+| Biceps or forearms being the sorest thing the next day | **A defect signal.** Your pull is arm-driven |
+| Tape at the widest point of the torso, every 8–12 weeks | **Nearly useless alone** — it sums ribcage, pectorals, lat and fat, and moves with bodyweight. Standardize posture, arm position and time of day, and read it only alongside bodyweight |
+| Ultrasound thickness at a standardized latissimus site (Pagan-Rosado et al., 2025) | Useful for a trend over months, unreliable for your individual 8-week change (Balshaw et al., 2026). Same operator, same landmark, never within 72 h of training |
+
+**The reliable diagnostic:** if you cannot progress load or reps at a *constant, honest* ROM over 4–6
+weeks, the technique or the programming is wrong — not the exercise selection.
+
+---
+
+## partiidexercisecatalogue
+
+**PART D — Exercise catalogue**
+
+Every entry gives its resistance profile (Part II §B.5), the setup detail that
+actually matters, and the failure mode. Entries are grouped by what the humerus does, not by what the
+equipment is called.
+
+---
+
+### D.1 Vertical pulls — adduction-dominant, mid-range-loaded
+
+#### Lat pulldown, pronated, ~1.0–1.5× biacromial width
+**Profile:** mid-range-loaded. **Role:** the default lat exercise for most people, most of the time.
+
+*Setup.* Thighs locked under the pad tight enough that you cannot rise. Grip just wider than the
+shoulders. Torso upright to 20° back, held.
+*Execution.* Reach fully overhead, letting the scapula rotate up. Depress the scapula, then drive the
+elbows down and slightly in to the lower ribs. Return under control all the way to the reach.
+*Why it works.* Adjustable load, an anchored trunk that permits a lean, and — uniquely among vertical
+pulls — the ability to hold and control the stretched position, because the load does not disappear
+when you slow down.
+*Failure mode.* Leaning back progressively more as the set goes on. Pick the angle in rep 1 and keep it.
+
+#### Lean-back pulldown (20–30° trunk inclination)
+**Profile:** mid-range-loaded, with meaningfully more torque at the top than the upright version.
+**Role:** the best single-exercise compromise for the lat.
+
+*Setup.* As above, torso set back 20–30° from vertical and held rigid by the abdominals, not by
+hanging off the pad.
+*Execution.* The bar path runs to the upper chest rather than the collarbone. The elbow finishes
+slightly further back.
+*Evidence note.* The mechanical case is in Part II §B.6. Acute EMG did not detect a lat advantage for
+a 30° lean; it detected more posterior deltoid (Buonsenso et al., 2025). **Moderate evidence** on
+mechanics, **not supported** by EMG.
+*Failure mode.* Turning the lean into a swing. If the torso angle oscillates, it is a row done badly.
+
+#### Neutral-grip and close-grip (V-bar) pulldown
+**Profile:** mid-range-loaded, shifted slightly toward extension.
+**Role:** the most joint-comfortable vertical pull; the correct default for anyone with shoulder
+symptoms.
+
+*Setup.* Neutral handles at roughly shoulder width; elbows track closer to the body.
+*Trade.* Deeper pull and more comfortable rotation, at the cost of some adduction leverage.
+*Evidence note.* No significant lat activation difference from any other grip across seven variants
+(Buonsenso et al., 2025). Choose it for comfort and range, not for targeting.
+
+#### Single-arm cable pulldown (kneeling or half-kneeling)
+**Profile:** mid-range-loaded, extendable toward stretch-loaded by trunk position.
+**Role:** **the highest-ceiling lat exercise available**, and the most underused.
+
+*Setup.* Kneel or half-kneel facing a high pulley, one handle, torso upright.
+*Execution.* Reach up and let the torso rotate away from the working side and side-bend away slightly
+at the top (Part II §B.10). Pull the elbow down to the hip while the trunk returns to neutral.
+*Why it wins.* No bar to stop the hand at the head, so the range is longer; the trunk can add
+elongation no bilateral machine can; each side is loaded independently, so asymmetries do not hide.
+*The ceiling is the base, not the muscle.* A kneeling single-arm pulldown must keep you on the ground:
+the cable's pull creates a toppling moment about your base of support, countered only by your own
+weight (F_cable × h ≤ m × g × b, where h is the height from base to hand and b the horizontal distance
+from the base's edge to your centre of mass). For an 80 kg lifter kneeling at h ≈ 1.3 m and b ≈ 0.15 m
+that caps the cable near 90 N — under 10 kg — before anchoring or widening the stance. **So the honest
+claim is a *range* ceiling, not a load ceiling:** this exercise gives the longest excursion available
+and the lowest usable load of any vertical pull.
+*Evidence note.* The trunk-rotation effect on lat elongation is measured (Asayama et al., 2021); its
+hypertrophy benefit is **promising but under-replicated**.
+*Failure mode.* Rotating so far that the movement becomes a twisting row. Keep the trunk motion small.
+
+#### Pull-up (pronated)
+**Profile:** mid-range-loaded, with **near-zero torque at the stretch** (Part II §B.5).
+**Role:** excellent mid-range lat and upper-back builder; incomplete on its own.
+
+*Setup.* Grip 1.0–1.5× biacromial. Hollow trunk, ribs down, legs still.
+*Execution.* Full active hang — shoulders loaded, not collapsed — then reach, depress, pull the elbows
+to the ribs. Chin to bar is adequate; chest to bar is not required and usually costs technique.
+*Evidence note.* Lat activation 117–130% MVIC and statistically similar to the chin-up; the pull-up
+recruits more lower trapezius, the chin-up more pectoralis major and biceps (Youdas et al., 2010).
+Lat activation also did not differ between the **chin-up** and the lat pulldown, while biceps brachii
+and erector spinae were higher in the chin-up (Doma et al., 2013). **Moderate evidence**, and note it
+is a chin-up comparison — no study has compared the pronated pull-up against the pulldown.
+*Failure mode.* The *passive* dead hang — shoulders jammed to the ears, nothing held. Note the
+distinction Part II §B.5 draws: a hang is not unloaded, and at a wide grip it carries real adduction
+demand at the stretch; what a passive hang gives away is the anti-distraction work, and the eccentric
+usually collapses into it.
+
+#### Chin-up (supinated)
+**Profile:** as the pull-up, with a longer pull and more elbow flexion.
+**Role:** a legitimate lat exercise that is also a strong biceps exercise.
+
+*Trade.* Most people pull deeper and feel the lat more; the biceps take a much larger share and often
+fail first (Youdas et al., 2010).
+*Use when.* You want both, or the pronated grip irritates the elbow.
+
+#### Weighted and assisted pull-ups
+**Weighted** — belt or vest — is the correct progression once bodyweight sets exceed ~12 clean reps.
+Add 2.5 kg at a time.
+**Assisted** — machine, band, or partner — is the correct regression below ~5 clean reps. Prefer the
+**machine** over a band: band assistance is largest exactly at the bottom, which unloads the stretched
+position you were already failing to load (Part II §B.5).
+**Best regression of all:** the pulldown. It is not a lesser exercise; it is a more controllable one.
+
+#### Behind-the-neck pulldown
+**Profile:** mid-range-loaded. **Verdict: avoid for hypertrophy.**
+
+It places the shoulder in abduction plus end-range external rotation plus forward head — the
+apprehension position — and this combination is specifically flagged in reviews of resistance-training
+shoulder injury (Kolber et al., 2010). It also forces cervical flexion to clear the bar.
+
+*The honest evidence.* High-density EMG found the **front** pulldown produced greater lat excitation
+during the descending (pulling) phase (ES = 0.97) while the behind-neck version was greater during the
+ascending phase (ES = 0.63), with the front version also greater for pectoralis major, biceps and
+posterior deltoid (Padovan et al., 2024). So it is not activation-inferior in every phase — it simply
+offers nothing the front version does not, at a joint-position cost. **The risk is a mechanism-based
+inference, not a measured injury rate** [UNVERIFIED — no trial has compared injury incidence].
+
+---
+
+### D.2 Horizontal pulls — extension-dominant, mid-range-loaded
+
+Rows load the lat's higher-activation action (extension) and add substantial mid-back work. They also
+load a shorter portion of the lat's excursion than vertical pulls, because the arm never gets fully
+overhead. **A lat program needs both patterns; neither replaces the other.**
+
+#### Chest-supported row (machine, or dumbbells on an incline bench)
+**Profile:** mid-range-loaded. **Role:** the best [stimulus-to-fatigue ratio](#sfr) row for the lat.
+
+*Setup.* Chest on the pad, torso fixed. Set the seat so the handles arrive at the lower ribs.
+*Execution.* Full reach forward, letting the scapula protract, then pull the elbows back and slightly
+down to the ribs. Stop at the torso.
+*Why it wins.* Removes spinal load and removes the ability to cheat with the hips — so the set ends
+when the back gives out, not when the technique does.
+*Failure mode.* Retracting the shoulder blades hard at the finish. That trains rhomboids and mid-trap;
+it does nothing for the lat.
+
+#### Seated cable row
+**Profile:** mid-range-loaded; becomes short-loaded if you lean back at the finish.
+**Role:** high-volume workhorse; excellent for controlled ROM.
+
+*Setup.* Knees softly bent, torso upright, chest up. Neutral or close grip.
+*Execution.* Allow a full forward reach with scapular protraction and *some* thoracic flexion, then
+pull the elbows to the lower ribs with the torso vertical.
+*For lat emphasis specifically:* use a high pulley or set the torso more upright so the pull line is
+more downward, and keep the elbows close. A low pulley plus a horizontal pull line plus wide elbows is
+a mid-back exercise.
+*Failure mode.* Rocking. If the torso leans back to complete the rep, the load is too heavy.
+
+#### Single-arm dumbbell row
+**Profile:** mid-range-loaded, with a longer stretch than most rows.
+**Role:** the best free-weight lat row, because the arm can travel further and the trunk can help.
+
+*Setup.* One hand and one knee on a bench, or a staggered stance with the free hand braced. Spine
+neutral, hips square at the start.
+*Execution.* Let the arm hang and the scapula protract fully; allow a small controlled trunk rotation
+away from the working side at the bottom (Part II §B.10). Pull the elbow to the hip, not to the
+shoulder. Return to a full stretch.
+*Failure mode.* Rotating the torso to lift the weight rather than to lengthen the muscle. The trunk
+motion belongs at the *bottom*, and it is small.
+
+#### Barbell bent-over row
+**Profile:** mid-range-loaded. **Role:** strength and total back mass; a mediocre lat-hypertrophy tool
+for its cost.
+
+*Setup.* Hips hinged to a 15–45° torso angle, neutral spine, bar over midfoot.
+*Execution.* Pull to the lower ribs with elbows at ~45°. Underhand grip pulls the elbows closer and
+biases the lat slightly; overhand widens them and biases the upper back.
+*The cost.* Of three row variants instrumented for spine load, the standing bent-over row was the
+high-lumbar-load option, while the [inverted row](#invertedrow) delivered the highest lat activation
+at modest spinal load (Fenwick et al., 2009). The bent-over row spends axial fatigue that the
+lat did not require.
+*Verdict.* Keep it if you want the strength carryover. **Do not make it your main lat exercise.**
+
+#### T-bar and landmine row
+**Profile:** mid-range-loaded. Chest-supported versions carry the SFR advantage of the chest-supported
+row with a heavier absolute load. **A good choice**; the unsupported version inherits the bent-over
+row's spinal cost.
+
+#### Inverted row (bodyweight)
+**Profile:** mid-range-loaded. **Role:** the highest-value bodyweight row, and a genuinely good option.
+
+Elicited the **highest latissimus dorsi activation** of the three rows tested, alongside high upper-back
+and hip-extensor activity and a modest lumbar spine load (Fenwick et al., 2009). Progress it by
+lowering the bar, elevating the feet, then adding a vest.
+
+---
+
+### D.3 Shoulder-extension isolation — the stretch-loaded category
+
+Straight or near-straight arm, so the elbow flexors are removed and the shoulder does all the work —
+the only true [isolation](#isolation) category available for this muscle.
+**This is the category most programs are missing** (Part II §B.5).
+
+#### Straight-arm pulldown (cable, rope or bar)
+**Profile:** **mid-range-loaded** at any ordinary setup; genuinely stretch-loaded only when the cable is close to perpendicular to the arm at end-range, which usually needs a lower pulley and more distance than people use.
+**Role:** the cleanest lat-biased isolation available.
+
+*Setup.* Face a high pulley and **step back far enough that the cable is roughly perpendicular to your
+arm at the top of the reach.** That, not the hip hinge, is what determines where peak torque falls. A
+hinge of 30–45° buys extra elevation at the top, which is worth having — but it does *not* move peak
+torque there, and hinging while standing close to the pulley swings the arm into line with the cable,
+where d⊥ collapses toward zero. **The failure mode to watch for is a dead spot at the top of the
+reach:** if the top of the movement feels weightless, the cable is parallel to your arm and you are
+standing too close or the pulley is too low.
+*Execution.* Arms nearly straight with a fixed small elbow bend. Reach up and forward until the lat is
+long, then sweep the arms down to the thighs. Stop at the thighs.
+*Evidence note.* Compared directly against the barbell pullover at 30% body mass, the straight-arm
+pulldown produced the **greater latissimus dorsi** activation, while the pullover produced
+greater activation in every other muscle measured — pectoralis major, anterior deltoid, rectus
+abdominis (Muyor et al., 2022). **Two caveats.** The paper's abstract also credits the straight-arm
+pulldown with greater triceps activation, but its Results report **no significant triceps difference**
+(p > 0.05) — the paper contradicts itself, and the Results are the safer read. And no grip-width
+contrast was ever tested: the pullover was run at one width only. **Interpretive caution:** the two
+exercises were matched on *weight*, not on shoulder torque, and the pullover's moment arm at the same
+load is far larger — so this comparison cannot rank them for lat selectivity. The case for the
+straight-arm pulldown rests on the elbow flexors being removed, not on this.
+*Reading:* the straight-arm pulldown is the more lat-selective of the two; the pullover is the more
+whole-torso one.
+*Failure mode.* Bending the elbows, which turns it into a triceps pushdown.
+
+#### Dumbbell pullover
+**Profile:** **stretch-loaded** — peak torque at the deepest overhead position (Part II §B.5).
+**Role:** the classic stretch-loaded shoulder-extension exercise; trains lat and pectoralis major
+together and makes no attempt to separate them.
+
+*Setup.* Lie along or across a flat bench. Hold one dumbbell with both hands, arms nearly straight.
+Ribs down; do not let the lower back arch as the arms travel back.
+*Execution.* Lower the weight behind the head until you feel a strong stretch through the armpit and
+ribs. Pull back to above the chest — or stop at the vertical, where torque is zero anyway.
+*Evidence note.* EMG confirms it loads pectoralis major and latissimus dorsi together (Marchetti &
+Uchida, 2011), with the pec share larger than in the straight-arm pulldown (Muyor et al., 2022).
+*Caveat.* This is the single most demanding position for the shoulder capsule in the whole catalogue.
+Load conservatively, never bounce the bottom, and skip it entirely with any history of anterior
+instability.
+
+#### Cable pullover (kneeling or standing, arms overhead)
+**Profile:** stretch-loaded, and **adjustable** — moving your body relative to the pulley moves the
+peak.
+**Role:** the best of the pullover family for most people. It keeps tension at the top where the
+dumbbell version's torque is falling, and the shoulder position is less extreme.
+
+*Setup.* Kneel facing a high pulley with a rope; hips back so the torso is inclined; arms overhead.
+*Execution.* Reach until long, then sweep down and back to the hips with straight arms.
+
+#### Machine pullover (Nautilus-pattern)
+**Profile:** stretch-loaded *if* it has a genuine cam. **Role:** the most lat-selective machine ever
+built, and worth using if your gym has one. Elbow pads remove the grip and the elbow flexors entirely.
+
+*Check yours.* A weight stack pulls with constant force; the machine converts that into joint torque
+through the radius at which its cable acts on the input arm (τ = W × R_cam). A round pulley gives
+constant R and a profile set entirely by your own limb geometry; a genuine cam varies R deliberately,
+and most machines sold as "pullover" machines use a round pulley. **The 20-second test:** load it
+light, move slowly, and feel where it is heaviest — if that is the contracted end, it is short-loaded
+whatever the badge says. **Second check:** the pivot must sit level with your shoulder, or the cam maps
+onto the wrong joint angles and the design is defeated.
+
+#### Cross-body single-arm pulldown
+**Profile:** stretch-loaded. **Role:** the most extreme lat stretch available, combining full elevation
+with the trunk positions of Part II §B.10.
+
+*Setup.* Stand or kneel beside a high pulley, take the handle with the far hand so the cable crosses
+the body.
+*Execution.* Reach up and across; add a small trunk rotation away from the working side. Pull down and
+across to the opposite hip.
+*Caveat.* Light loads only. The combined position is a large stretch on a joint at end range.
+
+---
+
+### D.4 Exercises that are not lat exercises
+
+| Exercise | What it is | Where the confusion comes from |
+|---|---|---|
+| Deadlift | Hip hinge; the lat works **isometrically** to keep the bar close in a [compound](#compound) lift | Real lat tension, near-zero excursion — no meaningful hypertrophy stimulus for it |
+| Shrug | Upper trapezius | Adjacent territory, no shared action |
+| Face pull, rear-delt fly | Posterior deltoid, rhomboid, external rotators | Called "back", but the humerus goes the wrong way |
+| Barbell/dumbbell shrug-row hybrids | Trapezius and rhomboid | Scapular, not humeral |
+| Wide-grip row with high elbows | Posterior deltoid and mid-trap | Called a row, loaded like a rear-delt movement |
+| Chin-up done as a biceps exercise | Biceps and brachialis | Same movement, different elbow behaviour (Part II §C.2, error 2) |
+
+**The deadlift point deserves emphasis.** The lat is genuinely and heavily loaded during a deadlift and
+is a poor hypertrophy stimulus for it. The shoulder angle changes by only ~20–30° through the pull, so
+the lat shortens roughly 1.5 cm out of ~12 cm of available excursion — a small isometric-like dose at a
+middling length, not a set. **Evidence remains limited and inconsistent:** nobody has trained a group
+on deadlifts and measured lat thickness. If your back training is
+deadlifts plus rows, your lat is doing isometric work and mid-range work and has no long-length work at
+all.
+
+---
+
+### D.5 Selection rules
+
+| Rule | Reason |
+|---|---|
+| **Cover both patterns** — one vertical pull and one horizontal pull | Adduction and extension have different leverage and different regional bias (Part II §B.1, §A.5) |
+| **Include exactly one stretch-loaded exercise** | The category almost every program omits (Part II §B.5) |
+| **Two to four distinct lat exercises per week is enough** | Beyond that you are dividing volume, not adding stimulus |
+| **Change exercises rarely; change load and reps often** | Not an evidence claim but a measurement one — randomized exercise selection produced similar thickness and strength gains to a fixed selection over 8 weeks (Baz-Valle et al., 2019). An exercise you cannot compare week to week cannot be progressed |
+| **Put the stretch-loaded exercise where you are fresh enough to control it, and the machine work last** | The stretched position is the one that degrades first under fatigue |
+| **Prefer unilateral for at least one slot** | Longer range, exposes asymmetry, adds the trunk lever (Part II §B.10) |
+
+**A minimal complete selection:**
+
+```
+THE THREE-EXERCISE LAT PROGRAM
+  Vertical   Lean-back lat pulldown, or single-arm cable pulldown
+  Horizontal Chest-supported row, or single-arm dumbbell row
+  Stretch    Cable pullover, or hinged straight-arm pulldown
+```
+
+Everything else in Part II §D is a substitution into one of those three slots.
+
+---
+
+## partiiecontextmodifiers
+
+**PART E — Context modifiers: when "perfect" changes**
+
+The mechanics in Part II §B do not change. What changes is which trade-off you take when two of them
+conflict. Each subsection below states **the default it overrides** and **what it becomes**.
+
+**How to use this Part.** Find every row that applies to you — they compose. Where two contexts
+conflict, pain and pathology (§E.4) outrank everything; goal (§E.1) outranks equipment (§E.3);
+equipment constrains but never changes the mechanics.
+
+---
+
+### E.1 Goal contexts
+
+#### Hypertrophy — the default
+Everything in Part II §C as written. Range first, load second, 6–15 reps, 1–3 [RIR](#rir), one
+stretch-loaded exercise.
+
+#### Maximal strength (a heavier pull-up, a bigger row)
+**Changes:** load becomes primary and range becomes a constraint rather than a goal.
+
+- 3–6 reps, 2–4 RIR on most sets, longer rest (3–5 min).
+- Pattern specificity beats muscle targeting: train the exact lift you want stronger.
+- Weighted pull-ups and barbell rows move to the front of the session.
+- **Full range is still required** — shortening ROM to move more weight is not progression, and it builds a strength that vanishes at the ranges you did not train.
+- The stretch-loaded exercise stays in the program but drops to a light accessory.
+
+#### Power and explosiveness (climbing moves, throwing, grappling)
+**Changes:** intent replaces tempo; the eccentric is no longer the point.
+
+- 3–5 reps at 30–60% [1RM](#onerepmax), moved as fast as possible concentrically, controlled eccentrically.
+- Stop each set while bar speed is still high — this is not a fatigue-accumulation goal.
+- Explosive pull-ups, medicine-ball slams, and rope work belong here.
+- **This is not a hypertrophy stimulus and does not substitute for one.** Run it alongside, not instead.
+
+#### Muscular endurance and work capacity
+**Changes:** rep range extends, [proximity to failure](#proximitytofailure) matters more.
+
+- 15–30+ reps, taken genuinely close to [momentary failure](#momentaryfailure) — at light loads, motor-unit recruitment is otherwise incomplete.
+- Grip becomes a real limiter at these rep counts; straps are appropriate (Part II §C.5).
+- Hypertrophy at this range is comparable to heavy work *if* effort is matched (Schoenfeld et al., 2017), so this is a valid hypertrophy context too — merely a less comfortable one.
+
+#### Rehabilitation and return from injury
+**Changes:** the objective is tolerated load, not maximal stimulus. Range is built back, not assumed.
+
+- Start with the range that is symptom-free and expand it week by week.
+- Machine and supported variants first; free-weight and unilateral later.
+- Scapular control cues that Part II §C.4 calls harmful for hypertrophy are **correct here** — they are protecting a joint, not building a muscle.
+- **Requires a diagnosis first.** This document is not a rehab protocol.
+
+#### Fat-loss phase
+**Changes:** nothing about technique; everything about expectations and volume.
+
+- Expect lifts to stall or regress; hold load and reduce volume rather than chasing progression.
+- Training in an energy deficit substantially blunts lean-mass gain while leaving strength largely intact (Murphy & Koehler, 2022) — growth is slowed rather than abolished, and the objective is to keep what you have.
+- Drop to the lower end of the volume range (Part II §F.1) and keep the load high. The direct evidence is narrower than it is usually made to sound: with [intensity of load](#load) held constant at 8–12RM throughout, young adults retained muscle size on as little as one-third — and even one-ninth — of their original training dose (Bickel et al., 2011). **Validity caveat:** load was never the variable reduced in that trial, so it cannot show that load matters *more* than volume; and older adults lost size at *both* reduced doses while keeping their strength.
+
+#### Maintenance / minimum effective dose
+**Changes:** volume collapses, load does not.
+
+- ~4–6 hard sets per week, load held near normal, full range preserved.
+- One vertical pull and one stretch-loaded exercise covers it.
+
+---
+
+### E.2 Body contexts
+
+#### Long arms
+**Changes:** range is longer, grip demand is higher, and the stretched position is harder to control.
+- Reduce load relative to a shorter-armed lifter at the same bodyweight; the same weight is more work. The shoulder's torque demand is proportional to the joint-to-hand distance, so 10% longer arms mean 10% more shoulder torque at every angle — the load should scale as 1/L to match. Excursion scales the same way, so the same joint range costs more centimetres of muscle shortening per rep. And for bodyweight work the two scale against each other: resistance rises with mass (~L³) while force capacity rises with cross-section (~L²), which is why pull-ups get relatively harder as a lifter gets bigger, independent of training.
+- Pull-ups are disproportionately hard; the pulldown is not a lesser choice, it is the appropriate one.
+- Straps earlier. Grip failure arrives sooner because time under load per rep is longer.
+
+#### Short arms
+**Changes:** range is shorter and the exercise finishes early.
+- Prioritize the stretch-loaded slot; you have less mid-range to work with.
+- Wide grips cost proportionally more range — stay at or below 1.25× biacromial.
+
+#### Broad shoulders / wide biacromial width
+**Changes:** "wide grip" means something different for you.
+- Set grip by **multiples of your own shoulder width**, never by the marks on the bar.
+
+#### Long torso, short torso
+**Changes:** seat and pad positions, and how much lean is available.
+- Long torso: the pulldown pad often sits wrong; check that the bar arrives at the collarbone, not the forehead.
+- Short torso: less room for the lean-back version; a chest-supported or unilateral variant is often cleaner.
+
+#### Limited overhead range (the wall test in Part II §C.3 fails)
+**Changes:** the top of the movement is unavailable, so stop pretending it is there.
+- Do not force it with a lumbar arch — that trains the lumbar spine.
+- Use **unilateral** variants: one arm reaches higher than two, without the trunk compensating symmetrically.
+- Use **neutral grip**, which most people can elevate further than pronated.
+- Prefer **rows and machine pullovers** while range is restored; both keep tension without the end-range position.
+- Loaded end-range work is itself the restoration method; keep the load light and the position honest.
+
+#### Hypermobility / general laxity
+**Changes:** end range is no longer a target.
+- Stop the reach short of the true end; joints, not muscles, absorb the last few degrees in a lax shoulder.
+- Prefer machines and chest-supported variants; avoid the dumbbell pullover.
+- Keep tension continuous — never a passive dead hang.
+
+#### Training age
+| Level | What changes |
+|---|---|
+| **Beginner (0–1 yr)** | One vertical pull and one horizontal pull. Machines and supported variants. 8–12 reps, 2–3 RIR. Establish full range before adding load. Skip the stretch-loaded slot until the reach is clean |
+| **Intermediate (1–3 yr)** | Full three-slot selection. Add the unilateral variant. Begin using lengthened-position work deliberately |
+| **Advanced (3+ yr)** | Volume rises toward the top of the range, exercise variation becomes more useful, and technical detail (trunk rotation, lean angle, resistance profile) starts to matter measurably |
+
+#### Age
+| Group | What changes |
+|---|---|
+| **Adolescent** | Full range at light load; technique is the whole objective. The growth plate at each [apophysis](#apophysis) is the weak link — no maximal loading. **Requires supervision** |
+| **Adult** | The default |
+| **Older adult (60+)** | Machines and supported variants first; longer warm-up; extend the reach range progressively rather than assuming it. Hypertrophy remains available: pooling 287 previously untrained adults aged 19–78, age did not modify the size or strength response (Ahtiainen et al., 2016). **Moderate evidence** |
+
+#### Sex
+**Changes:** almost nothing about technique. Relative hypertrophy from the same program is similar
+(Roberts et al., 2020); absolute gains are smaller from a smaller starting base. Upper-body pulling
+strength is typically a lower fraction of bodyweight, so **assisted pull-ups and pulldowns are the
+appropriate entry point more often** — a programming fact, not a technique difference.
+
+#### Side-to-side asymmetry
+**Changes:** bilateral work will hide it; unilateral work will not.
+- Run at least one unilateral lat exercise.
+- Lead with the weaker side and match the stronger side's reps to it.
+- Do not add extra sets to the weak side for more than a few weeks without checking whether the cause is mobility rather than strength.
+
+#### High bodyweight relative to pulling strength
+**Changes:** bodyweight exercises are off the table until they are not.
+- Pulldowns and machine rows, progressed by load, get you there faster than band-assisted pull-ups.
+- Inverted rows are the correct bodyweight entry point, since foot position scales the load continuously.
+
+---
+
+### E.3 Equipment contexts
+
+#### Full commercial gym
+Run the three-slot program (Part II §D.5) exactly.
+
+#### Cable stack only
+**Fully sufficient, conditionally.** A cable is the only implement whose resistance direction you
+choose, which makes it the best available tool for putting torque where you want it — and the easiest
+to set up so that it puts torque nowhere. The rule is in Part II §B.5: stand so the cable is roughly
+perpendicular to the line from your shoulder to your hand at the position you want loaded.
+```
+CABLE-ONLY LAT PROGRAM
+  Vertical   Single-arm high-pulley pulldown, kneeling
+  Horizontal Seated cable row, or single-arm standing row
+  Stretch    Kneeling cable pullover with rope
+```
+
+#### Barbell and rack only
+**Changes:** no vertical pull, no stretch-loaded option.
+- Barbell row and underhand (Yates-style) row for the horizontal slot.
+- Use the rack's pull-up bar if it has one; otherwise the vertical pattern is missing and the program is incomplete.
+- Improvised stretch slot: barbell pullover on a bench, light and controlled.
+
+#### Dumbbells only
+```
+DUMBBELL-ONLY LAT PROGRAM
+  Vertical   Missing — substitute a second horizontal variant
+  Horizontal Single-arm row, chest-supported incline row
+  Stretch    Dumbbell pullover, light
+```
+The missing vertical pull is a real gap. A single suspension strap or doorway bar closes it.
+
+#### Bodyweight and a bar only
+```
+BODYWEIGHT LAT PROGRAM
+  Vertical   Pull-up / chin-up, progressed by added load, then by tempo
+  Horizontal Inverted row (feet elevated to progress)
+  Stretch    Missing — the largest gap in bodyweight training for this muscle
+```
+Partial substitutes for the stretch slot: a **slow, controlled 4–5 s eccentric** on every pull-up, and
+**hanging with active shoulders** for time. Neither is equivalent; both are better than nothing.
+
+#### Bands only
+**Changes:** the resistance profile inverts. Band tension is *lowest* at the stretched position and
+highest at the contracted one — precisely the wrong shape for this muscle (Part II §B.5).
+- Anchor the band **overhead and behind** you so the tension line is not vertical, which recovers some load at the top.
+- Prefer band straight-arm pulldowns and band rows over band-assisted pull-ups.
+- Accept that bands are the weakest option here and are a stopgap.
+
+#### Suspension trainer
+**Changes:** excellent for the horizontal slot (inverted row with continuously scalable load), poor for
+the vertical and stretch slots. Combine with a doorway bar if possible.
+
+#### No equipment at all
+There is no honest bodyweight lat exercise without something to hang from or pull against. The most
+useful substitute is a **towel or sheet anchored around a solid door frame or post** for inverted rows.
+Isometric self-resisted pulling produces measurable activation but has no meaningful loading progression
+[consensus — no single source]. **Say so rather than pretending otherwise.**
+
+#### Travel and hotel gyms
+The pulldown machine is nearly universal. One lean-back pulldown plus one chest-supported or cable row
+maintains the muscle for weeks.
+
+---
+
+### E.4 Pain and pathology contexts
+
+**Nothing in this subsection is a diagnosis or a treatment protocol.** It is a list of what to change
+while you get one.
+
+#### ⚠ Red flags — stop and get assessed
+- A sudden pop, tear or snap during a pull, with immediate weakness
+- Inability to raise the arm at all, or an arm that feels unstable or "gives way"
+- Numbness, tingling, or weakness travelling down the arm
+- Night pain or rest pain in the shoulder unrelated to activity
+- Pain that worsens week on week despite reduced load
+- Any shoulder that has previously dislocated, and any pain after a fall
+
+#### Subacromial pain / rotator-cuff irritation
+**Changes:** the overhead and internally-rotated positions come out.
+- **Neutral grip**, always.
+- Reduce the top of the range to where it is symptom-free; expand it as symptoms allow.
+- Rows before vertical pulls. Chest-supported before free.
+- **Remove:** behind-the-neck pulldown, dumbbell pullover, cross-body pulldown, any internal-rotation cue — the combination that provokes [subacromial impingement](#impingement).
+- The scapular-control cues of Part II §C.4 flip from harmful to correct here.
+
+#### Anterior instability or a history of dislocation
+**Changes:** end-range abduction + external rotation is forbidden.
+- **Remove:** behind-the-neck pulldown, dumbbell pullover, and any exercise that puts the arm overhead and rotated back.
+- Keep the reach short of the true end. Machines over free weights.
+- Vulnerable-position avoidance in this population is standard clinical guidance (Kolber et al., 2010). **Moderate evidence** — reasoning from mechanism and case series, not from trials.
+
+#### Acromioclavicular joint pain
+**Changes:** cross-body adduction and end-range overhead reach aggravate it.
+- **Remove:** cross-body pulldown, very wide-grip work.
+- Neutral-grip pulldowns and chest-supported rows are usually well tolerated.
+
+#### Biceps or elbow tendinopathy (medial epicondyle, distal biceps)
+**Changes:** elbow flexion load comes out; the shoulder keeps working.
+- **Straight-arm work becomes the primary lat exercise** — this is the one context where the isolation category is not an accessory.
+- **Remove:** chin-ups and underhand rows. Neutral grip on everything else.
+- Straps to reduce grip contribution. Slow eccentrics on the remaining work.
+
+#### Wrist, hand, or grip problems
+- Neutral grip, straps, or elbow-pad machines (the machine pullover removes the hand entirely).
+- Thick bars and towel grips are the wrong direction here.
+
+#### Low-back pain or a lumbar diagnosis
+**Changes:** axial load comes out; the lat does not.
+- **Remove:** barbell bent-over row, unsupported T-bar row.
+- **Use:** chest-supported rows, seated cable rows with a fixed torso, inverted rows — the lowest-lumbar-load option that still produced the highest lat activation of the rows tested (Fenwick et al., 2009).
+- Pulldowns are fine; keep the lean modest and hold it with the abdominals.
+
+#### Uncontrolled hypertension or known cardiac disease
+Breathe throughout every set; no breath-holding, no maximal straining. Get clearance before heavy
+loading.
+
+---
+
+### E.5 Sport contexts
+
+**This table is coaching synthesis, not evidence** [consensus — no single source]: no study has compared lat training prescriptions between sports. It is included because the demands genuinely differ, and the rows are ordered by how much they change the default — not by how well supported they are.
+
+The lat's sport role is almost always **extension under load with the trunk moving** — which is a
+different demand from a seated pulldown. In every case below, the hypertrophy program of Part II §F is
+the base and the sport-specific work is added, not substituted.
+
+| Sport | What the lat does there | What to add or change |
+|---|---|---|
+| **Climbing** | Repeated high-force pulls from full overhead; heavy grip and elbow-flexor demand | Weighted pull-ups, lock-off isometrics. **Do not** add straps to sport-specific work; grip is the point. Keep hypertrophy work strapped and separate |
+| **Swimming** | Extension + adduction + internal rotation from full overhead, thousands of cycles; the lat is the primary propulsive muscle | Straight-arm pulldowns and cable pullovers replicate the pull line best. Guard the shoulder: swimmers accumulate overhead volume already, so cut the overhead range in the gym, not the load |
+| **Rowing** | Horizontal extension against a moving trunk | Chest-supported and single-arm rows; the barbell row's spinal cost is redundant with the sport's |
+| **Gymnastics / calisthenics** | Extension from overhead against bodyweight, plus straight-arm strength at extreme ranges | Straight-arm work is sport-specific here, not accessory. Add ring work and controlled negatives |
+| **Throwing / overhead sports** | The lat decelerates and internally rotates during follow-through | **Protect range, do not maximize it.** Avoid end-range stretch-loaded work in season; keep neutral grips |
+| **Powerlifting — bench press** | Isometric stabilizer creating the shelf and controlling the bar path | Row volume for mass; the isometric quality comes from bench technique, not from lat exercises |
+| **Powerlifting — deadlift** | Isometric shoulder extension keeping the bar close | Straight-arm pulldowns build the specific action. The deadlift itself does not grow the lat (Part II §D.4) |
+| **Combat sports / grappling** | Pulling an opponent, with the trunk rotating and the load unpredictable | Single-arm rows and pulldowns with the trunk rotation of Part II §B.10; add isometric holds |
+| **Bodybuilding (competition)** | Visual width and the posterior axillary fold | The full three-slot program at the top of the volume range, plus deliberate unilateral work. The lower–pelvic–costal region is two-thirds of the muscle (Part II §A.5) — do not neglect the extension pattern that recruits it |
+
+---
+
+### E.6 Session and cycle contexts
+
+| Context | What changes |
+|---|---|
+| **Lat is the first exercise of the session** | Put the stretch-loaded exercise here — it degrades first under fatigue. Longer warm-up |
+| **Lat is trained after heavy pressing or squatting** | Grip and trunk are pre-fatigued. Use supported and strapped variants; skip the bent-over row |
+| **Time-limited session (<30 min)** | One exercise: the lean-back pulldown or single-arm cable pulldown, 3–4 hard sets. It covers more of the muscle's range than any row |
+| **Fatigued, poor sleep, or high life stress** | Hold load, cut a set, and protect the top of the range. **The reach is the first thing that degrades** — a shortened rep is the reliable early sign of accumulated fatigue |
+| **[Deload](#deload) week** | Cut sets ~40–60%, hold the load near normal, keep the range full. Never deload by shortening ROM |
+| **High training frequency (3–4×/week)** | Rotate the emphasis: vertical, horizontal, stretch on separate days. Keep per-session volume low |
+| **Low frequency (1×/week)** | All three slots in one session, in that order, at the top of the per-session volume range. At equated weekly volume, frequency does not change hypertrophy (Schoenfeld et al., 2019); what once-weekly actually costs you is the volume you can do *well* in one session — and for this muscle that is the reach |
+| **Returning after a layoff** | Range comes back before load — rebuild the full reach at light weight for two weeks before progressing. Do not count on the size returning free: after 20 weeks off, thickness and cross-sectional area had returned to baseline while ~60% of the strength gain was retained, and retraining was **no faster** than training a naive limb (Psilander et al., 2019). **Moderate evidence.** Plan on rebuilding the muscle, not recalling it |
+
+---
+
+### E.7 The context decision table
+
+Read down the left column, take every row that applies, and apply the changes in order.
+
+| If this is true | Then change this |
+|---|---|
+| You cannot reach fully overhead without arching | Unilateral and neutral grip; treat pulldowns as partial; screen per Part II §C.3 |
+| Your biceps or forearms fail first | Fixed elbow angle, straps, neutral grip, add straight-arm work |
+| Your lower back is the sorest thing after back day | Remove the bent-over row; chest-supported everything |
+| Your shoulder hurts at the top of a pulldown | Reduce the top of the range; neutral grip; remove overhead stretch work |
+| You have no vertical pulling equipment | The program is incomplete; find a bar or a high pulley |
+| You have only bands | Anchor high and behind; accept the inverted resistance profile |
+| One side is visibly larger | At least one unilateral exercise, lead with the weak side |
+| You are in a calorie deficit | Hold load, cut volume, expect maintenance not growth |
+| You are in season for an overhead sport | Cut the overhead range, not the load; no end-range stretch work |
+| You are training for a heavier pull-up | Load and specificity first; keep full range anyway |
+| You have less than 30 minutes | One lean-back or single-arm pulldown, 3–4 hard sets |
+| You have any red flag from Part II §E.4 | **Stop and get assessed** |
+
+---
+
+## partiifprogramming
+
+**PART F — Programming**
+
+Nothing here is lat-specific except where stated; the general dose–response evidence lives in
+`strength-and-body-composition.md` and is summarized rather than re-derived.
+
+### F.1 Volume
+
+Counted as [hard sets](#hardset) per week that load the lat directly. A real
+[dose–response](#doseresponserelationship) exists across roughly **4 to 20+ sets per muscle per week**, rising
+then flattening, with clearly diminishing returns past ~10–20 (Pelland et al., 2026).
+
+| Training age | Weekly hard sets for the lat | Note |
+|---|---|---|
+| Beginner | 6–10 | Two exercises is enough |
+| Intermediate | 10–16 | The productive middle for most people |
+| Advanced | 14–22 | Diminishing returns are real; recovery is the limiter |
+| Maintenance or deficit | 4–6 | Hold load, cut sets |
+
+The current position stand reaches the same place from a different direction: synthesizing 137 systematic reviews across more than 30,000 participants, hypertrophy was enhanced by higher weekly volumes (≥10 sets) and by eccentric overload, while training to momentary failure, equipment type, set structure, time under tension, blood-flow restriction and periodization did not consistently affect it (Currier et al., 2026).
+
+**Two counting rules specific to this muscle:**
+
+- **Rows count in full.** A row is a *direct* lat exercise, not an indirect one — shoulder extension is the action in which the lat shows its highest activation (Part II §B.1). Count every hard row as one lat set. What counts as a *fraction* is genuinely indirect involvement, and there the meta-regression favours crediting it at half a set rather than at zero or one (Pelland et al., 2026). **Moderate evidence** — a modelling result, not a trial. Practical consequence: if you count your rows at zero you will keep adding sets to fix a volume problem you do not have.
+- **Deadlifts do not count** (Part II §D.4). Isometric work at a fixed length is not a hypertrophy set for the lat.
+
+**Interpretive caution:** the curve rises with **diminishing returns**; within the range the data
+cover it neither flattens to an asymptote nor turns downward, so the familiar inverted-U is an
+expectation rather than a finding. Note the asymmetry — in that same meta-regression the functional
+plateau belongs to **strength**, not to hypertrophy. Above roughly 25–30 weekly fractional sets the
+evidence is too thin to say anything. Your individual recovery ceiling is the practical limiter.
+
+---
+
+### F.2 Frequency
+
+**2×/week is the default.** [Frequency](#trainingfrequency) mostly distributes volume rather than adding an independent
+stimulus (Schoenfeld et al., 2019), but splitting 12–16 sets across two sessions keeps per-session
+quality high — and for this muscle, session quality *is* range quality, which degrades with fatigue
+(Part II §E.6).
+
+1×/week works at low volumes. 3×/week is useful at high volumes or when rotating emphasis across
+vertical, horizontal and stretch patterns on separate days.
+
+---
+
+### F.3 Load and rep range
+
+Roughly **5–30 reps produces similar hypertrophy if sets are taken close to failure.** Pooling 28
+trials in 747 adults, hypertrophy did not differ between loads heavier than 8RM, 9–15RM and lighter
+than 15RM, while strength gains were greater with heavier loads (Lopez et al., 2021). The most recent direct test trained one limb at 8–12 reps and the other at 20–25 reps, both to volitional fatigue for 10 weeks, and found the same hypertrophy in upper and lower limb alike (Lees et al., 2025). **Caveat:** the equivalence has a floor — with volume load equated, 20–40% 1RM produced less cross-sectional-area gain than 60–80% (Lasevicius et al., 2018). For the lat specifically, three considerations narrow that:
+
+- **Below ~6 reps**, load is high enough that range degrades first and grip and elbow load rise sharply. Poor trade for a low-PCSA muscle.
+- **Above ~20 reps**, grip and [effort tolerance](#efforttolerance) become the limiters rather than the lat.
+**Rest between sets.** Three minutes between sets produced greater muscle thickness and strength gains than one minute over 8 weeks of otherwise matched training in resistance-trained men (Schoenfeld et al., 2016). **Moderate evidence** — one trial, whole-body program, limb outcomes rather than lat. The lat-specific reason to take the longer rest is the one that governs everything else here: what incomplete recovery costs first is the top of rep 1, and a set that starts short was never a full-range set.
+
+- **6–15 reps is the practical band.** 8–12 for the vertical and horizontal slots; 12–20 for the stretch-loaded slot, where control matters more than load.
+
+**[Tempo](#tempo) is a range-of-motion control here, not a stimulus variable** — a controlled eccentric
+is what keeps the muscle loaded through its longest length, which is why the return is prescribed at
+2–3 s regardless of the load.
+
+**The stretch-loaded exercise runs lighter on purpose.** The lat is on the descending limb of its
+force–length curve overhead (Part II §B.3), so the load that lets you control the top is necessarily
+lower. That is the mechanics working correctly, not a failure to progress.
+
+---
+
+### F.4 Proximity to failure
+
+Training to momentary failure and stopping a few reps short produce nearly the
+same hypertrophy (Refalo et al., 2023). The gradient that does exist runs one way only: hypertrophy
+rose as sets were terminated closer to failure, while strength gains were statistically
+indistinguishable across a wide span of RIR — every best-fit strength model's interval contained the
+null, and the two models disagreed on sign (Robinson et al., 2024). **Moderate evidence.** Proximity
+to failure is a size variable, not a strength one.
+
+| Exercise type | Target RIR |
+|---|---|
+| Machine pulldown, chest-supported row, cable work | 0–2 on the last set, 1–3 earlier |
+| Pull-ups and chin-ups | 1–2 — the last reps degrade range badly |
+| Barbell bent-over row | 2–3 always; spinal position is the limiter, not the lat |
+| Stretch-loaded work (pullovers, straight-arm) | 1–3, and **never past the point where the top of the rep shortens** |
+
+**Validity caveat:** self-estimated RIR is unreliable, and the error runs toward stopping earlier than
+you believe; accuracy improves near failure and does **not** improve with training experience
+(Halperin et al., 2022). Periodically take a machine pulldown to genuine failure to calibrate.
+
+**The lat-specific stopping rule, and the guard rail it needs.** End the set when the reach shortens:
+a technically shortened rep is not a bonus rep, because it removes exactly the part of the range that
+justified the exercise. But the rule cuts both ways, and the second half matters as much as the first.
+**If the reach starts shortening while you still have four or more reps in reserve, the set has told
+you nothing about your lat** — it has told you the load is too heavy, the warm-up too short, or the
+seat wrong. Fix that; do not bank the short set. A set terminated at 5 RIR falls below the threshold
+at which it counts as a hard set at all, and a program of them is a program of warm-ups.
+
+---
+
+### F.5 Progression
+
+[Double progression](#doubleprogression) at a fixed, honest ROM.
+
+```
+LAT PROGRESSION — DOUBLE PROGRESSION
+  Load       start at the bottom of the rep range with ~2 RIR
+  Tempo      1 s reach hold / 1-2 s pull / 2-3 s return, held constant
+  Sets/reps  3–4 × 8–12 (vertical, horizontal) | 2–3 × 12–20 (stretch)
+  Rest       2–3 min compounds / 1.5–2 min isolation
+  Total      10–16 hard sets per week
+  Frequency  2×/week
+  Timeline   8–12 wks to measurable change; 6–12 months to visible change
+  Increment: 2.5–5 kg stack / 1–2.5 kg dumbbell / 2.5 kg added to pull-ups
+```
+
+**The ROM ratchet.** Range is never traded for load. If a load increase shortens the reach, the
+increase was premature — repeat the previous load until the range holds. Adding weight by shortening
+ROM is the single most common way lat training silently stops working.
+
+**When it stalls:** repeat the weight; then reduce ~10% and re-climb; then add a set; then change the
+exercise within the same slot. Two failed resets means the problem is recovery or the reach, not the
+load.
+
+---
+
+### F.6 Session templates
+
+```
+TWICE-WEEKLY — ADVANCED BAND (see the note below for the intermediate default)
+  Session A
+    Lean-back lat pulldown        4 × 8–12    2 RIR
+    Chest-supported row           3 × 10–12   1–2 RIR
+    Cable pullover                3 × 12–15   1–2 RIR
+  Session B
+    Single-arm cable pulldown     3 × 10–12 per side
+    Single-arm dumbbell row       3 × 10–12 per side
+    Straight-arm pulldown, hinged 3 × 12–20
+  = 19 sets/week across both — the ADVANCED band of the Part II §F.1 table.
+  For the intermediate band, drop one set from each row of Session A (= 13/week).
+
+ONCE-WEEKLY — MINIMUM COMPLETE
+    Lean-back lat pulldown        4 × 8–12
+    Chest-supported row           4 × 10–12
+    Cable pullover                3 × 12–15
+  = 11 sets/week
+
+THREE-TIMES-WEEKLY — HIGH VOLUME, ROTATING EMPHASIS
+  Day 1  vertical emphasis   pulldown 4 sets + light row 2 sets
+  Day 2  horizontal emphasis row 4 sets + light pulldown 2 sets
+  Day 3  stretch emphasis    pullover 3 sets + single-arm pulldown 3 sets
+  = 18 sets/week, none of them a maximal-fatigue session
+```
+
+---
+
+### F.7 Timeline and expectations
+
+| Marker | When |
+|---|---|
+| Technique consolidated — reach reproducible, elbow path automatic | 2–4 weeks |
+| Measurable strength progression on the pulldown | 3–6 weeks |
+| Measurable [muscle thickness](#musclethickness) change by ultrasound | 8–12 weeks |
+| Visible change in back width to an untrained eye | 6–12 months |
+| A back that is obviously lat-developed | 2–4 years of consistent full-range training |
+
+**Interpretive caution:** rows one and two generalize from the resistance-training literature at
+large. Row three has one lat-specific anchor — eight weeks of pulldown-and-row training produced
+**+22% latissimus fibre cross-sectional area** on biopsy in 18 novice men (Paoli et al., 2016) — but
+no study has tracked lat *thickness* by ultrasound over these timelines, and the method is a poor index
+of individual change in any case (Part VII, muscle thickness). Rows four and five
+are coaching convention, not measured outcomes.
+
+**Validity caveat:** thickness measured in the first weeks of a new program is inflated by
+damage-related swelling rather than contractile protein, and true hypertrophy is only cleanly
+observable once damage subsides (Damas et al., 2016). Take a baseline, then do not re-measure before
+week 8, and never within 72 h of a hard session.
+
+**Two prerequisites that gate all of it** (from `strength-and-body-composition.md`): protein at
+~1.6 g·kg⁻¹·day⁻¹ (Morton et al., 2018), and enough energy — building muscle in a deficit is possible
+but slow (Murphy & Koehler, 2022).
+
+---
+
+## partiigsynthesis
+
+**PART G — Synthesis**
+
+### G.1 The rules that hold
+
+1. **The lat is an excursion muscle.** ~26 cm fascicles, ~5.6 cm² PCSA (Gerling & Brown, 2013). **Range is the primary training variable; load is secondary.** Everything else on this list is a consequence.
+2. **The elbow's path is the input, not the hand's.** The lat inserts on the humerus.
+3. **The productive range is full overhead to the side of the ribcage.** Past the ribs there is no excursion left.
+4. **The overhead position is past optimal length and low on leverage** (Gerling & Brown, 2013). You are weak there for mechanical reasons — load it appropriately, not maximally. Poor leverage does not mean light loading (Part II §B.2).
+5. **Most vertical pulls apply almost no torque at the stretch.** Fix it with a lean, or with a stretch-loaded exercise, or both (Part II §B.5).
+6. **Grip barely matters.** Width, pronation and handle type change what the arms do; across seven variants lat activation did not differ (Buonsenso et al., 2025). Choose grip for comfort and range.
+7. **Reach, then pull.** Let the scapula rotate at the top; depress it as you initiate; do not pin it before you start.
+8. **Trunk position is part of the mechanics**, because the origin is the pelvis and fascia. Contralateral rotation lengthens the muscle more than side-bending does (Asayama et al., 2021).
+9. **Shoulder extension recruits it hardest; adduction gives it the best leverage** (Park & Yoo, 2014). Train both patterns; the leverage half rests on Ackland et al. (2008).
+10. **Nothing separates lat from teres major**, and most things also load posterior deltoid and elbow flexors.
+11. **Two-thirds of the muscle's physiological cross-sectional area arises at or below the lower ribs** (Gerling & Brown, 2013). Do not treat the lower region as an accessory.
+12. **The set must end because the lat ran out** — not the grip, not the biceps, not the lower back.
+13. **End the set when the reach shortens.** This overrides RIR for this muscle.
+14. **EMG cannot rank exercises for hypertrophy** (Vigotsky et al., 2018). Every activation number in this document is reported under that constraint.
+15. **Range is never traded for load.** The ROM ratchet is the whole progression rule.
+
+---
+
+### G.2 What the evidence does **not** support
+
+- **That grip width targets "width" and close grip targets "thickness".** Grip width did not change lat activation at 1×, 1.5× or 2× biacromial (Andersen et al., 2014), and no training study has produced regional lat growth by grip choice. **Not supported.**
+- **That a supinated grip "hits the lower lat".** Seven pulldown variants including supinated produced no lat activation difference (Buonsenso et al., 2025). **Not supported.**
+- **That the behind-the-neck pulldown is superior for the lat.** It is superior in one movement phase and inferior in the other, at a joint-position cost (Padovan et al., 2024). **Not supported.**
+- **That pull-ups are superior to pulldowns.** No lat activation difference at matched relative load (Doma et al., 2013). **Not supported.**
+- **That "scapular depression" is a lat action.** The lat has no reliable scapular attachment, and isometric depression was no better than the other non-extension tasks (Park & Yoo, 2014). **Not supported.**
+- **That you should pin the shoulder blades down before every rep.** Correct as a rehab cue, costly as a hypertrophy cue (Part II §B.8). **Contested.**
+- **That the deadlift builds the lat.** High tension through ~20–30° of shoulder motion, a few seconds per set. **Evidence remains limited and inconsistent** — the excursion argument is mechanical, and no trial has measured lat growth from deadlifting.
+- **That grip is the limiter in the pulldown.** Straps changed neither reps, nor total reps, nor lat EMG, nor 1RM (Valério et al., 2021). **Moderate evidence** against the common claim — one study, one exercise.
+- **That the lat is an endurance-typed muscle needing high reps.** Two things are wrong with it. The premise is false — the lat is fast-dominant, MyHC 1 at only 33% (Paoli et al., 2013). And the inference would fail even if the premise held: load does not determine hypertrophy when sets are taken to failure, in the upper limb or the lower (Lees et al., 2025), and no one has shown that fibre composition predicts which rep range grows a muscle fastest. **Not supported.**
+- **That "mind–muscle connection" isolates the lat.** Instruction raised lat EMG 17.6% but did **not** reduce biceps activity (Snyder & Leech, 2009). It adds activation; it does not isolate. **Promising but under-replicated** — the lat-specific datum is eight untrained women performing two sets of three reps at a single light load.
+- **That long-length training is proven superior for the lat specifically.** The mechanism is sound and the evidence is strong in the triceps (Maeo et al., 2023) and consistent in the hamstrings, but no trial has measured lat hypertrophy under differing muscle lengths — and the meta-analyses now disagree with each other, one finding long > short (Strey et al., 2026) and one finding the contrast trivial at every site (Varovic et al., 2025). **Evidence remains limited and inconsistent.**
+- **That any of this produces regional lat growth you can see.** Regional *activation* differences are measurable (Muñoz-Garcés et al., 2026); regional *hypertrophy* in this muscle has never been measured. **Promising but under-replicated.**
+
+---
+
+### G.3 The one-paragraph version
+
+The latissimus dorsi is a huge, thin muscle with extremely long fibres and a small cross-section: it
+is built to move the arm a long way, not to move it against a large force. Train it accordingly. Reach
+the arm fully overhead, let the shoulder blade rotate up to get there, then drive the **elbow** — not
+the hand — down and slightly in until the upper arm reaches the side of your ribs, and stop. Control
+the way back to the reach; that is where the muscle is longest and where most of the stimulus lives.
+Do one vertical pull, one horizontal pull, and one straight-arm or pullover exercise that actually
+loads the overhead position, because pull-ups and pulldowns barely do. Brace the trunk, because the
+muscle's origin is your pelvis. Ignore grip debates. Use straps if your hands quit first. Add load
+only when the full range holds at every rep, and end each set the moment the reach starts to shorten.
+Ten to sixteen hard sets a week, twice a week, for a year.
+
+---
+
+# partiiiquadricepsfemoris
+
+**Part III — Quadriceps Femoris**
+
+> Scope: the anatomy, mechanics, technique, exercise selection, context modifiers and programming
+> for maximal [hypertrophy](#hypertrophy) of the [quadriceps femoris](#quadricepsfemoris). Everything
+> here also loads the [gluteus maximus](#gluteusmaximus) and the [hip adductors](#hipadductors) to a degree set by hip
+> angle, and most of it loads the [hamstrings](#hamstrings) as co-contractors rather than as movers.
+> **General education only.** Knee pain, a history of knee surgery or dislocation, and an inability
+> to reach depth without the pelvis tucking under are assessment problems before they are programming
+> problems — see Part III §E.4.
+>
+> **Angle convention, fixed for the whole Part.** Knee angle is measured as **flexion from full
+> extension**: 0° is a straight leg, 90° is thigh-to-shank at a right angle, 140° is the bottom of a
+> deep squat. Hip angle is likewise flexion from a straight body line: 0° is standing, 90° is seated
+> upright. Every angle below uses these two conventions and no others.
+
+---
+
+## partiiiaanatomyandarchitecture
+
+**PART A — Anatomy and Architecture**
+
+### A.1 What the quadriceps femoris is
+
+The muscle group on the front of the thigh: four heads — five, in most people — that converge into
+one tendon, wrap the kneecap, and attach to the shin. It is the only muscle group that can straighten
+the knee, which makes it the sole extensor of the joint that carries you upstairs, out of a chair, and
+out of the bottom of a squat.
+
+Two consequences drive everything below. **Three of its heads cross only the knee**, so their length is
+set by the knee alone and nothing you do at the hip changes it. **One head crosses the hip as well**,
+so its length is set by two joints at once — and in the exercises most people use to train the
+quadriceps, those two joints cancel each other out. Almost every practical disagreement about
+quadriceps training is a disagreement about that one head.
+
+---
+
+### A.2 Attachments — the map you load
+
+| Head | Origin (fixed end) | Joints crossed | Practical note |
+|---|---|---|---|
+| [Rectus femoris](#rectusfemoris) | Anterior inferior iliac spine of the pelvis, plus a reflected head above the hip socket | Hip **and** knee | The only [biarticular](#biarticularmuscle) head; the one every squat variation under-trains |
+| [Vastus lateralis](#vastuslateralis) | Greater trochanter, lateral lip of the linea aspera on the [femur](#femur) | Knee only | Largest head by mass and by [PCSA](#pcsa); the outer sweep of the thigh |
+| [Vastus medialis](#vastusmedialis) | Intertrochanteric line, medial lip of the linea aspera | Knee only | Most steeply [pennate](#pennationangle) head; forms the teardrop above the inner knee |
+| [Vastus intermedius](#vastusintermedius) | Anterior and lateral shaft of the femur | Knee only | Buried under rectus femoris; invisible from outside, and roughly a fifth of the group's force capacity |
+| [Tensor vastus intermedius](#tensorvastusintermedius) | Anterolateral femur between vastus lateralis and vastus intermedius | Knee only | A fifth head, described in 2016; present in every one of 26 dissected limbs (Grob et al., 2016) |
+
+**Insertion:** all heads converge into the [quadriceps tendon](#quadricepstendon), which encloses the
+[patella](#patella) and continues below it as the [patellar tendon](#patellartendon) to the tibial
+tuberosity — a bump you can feel a few centimetres below the kneecap on the front of the shin. The
+vasti also send fibres directly to the sides of the patella as the medial and lateral retinacula.
+
+**Innervation:** the [femoral nerve](#femoralnerve) (L2–L4). Each head receives its own branch, and
+the tensor vastus intermedius receives an independent muscular branch of its own — the observation
+that established it as a separate head rather than a slip of its neighbours (Grob et al., 2016).
+
+**Blood supply:** predominantly the lateral circumflex femoral artery, with the same
+head-by-head branching pattern.
+
+---
+
+### A.3 The fifth head
+
+The textbook description of four heads is incomplete. Dissection of 26 cadaveric lower limbs found a
+distinct muscle belly between vastus lateralis and vastus intermedius in **all 26**, supplied by its
+own branches of the femoral nerve and the lateral circumflex femoral artery, and forming its own
+[aponeurosis](#aponeurosis) that merges separately into the quadriceps tendon and inserts on the medial aspect of the
+patella (Grob et al., 2016). Four morphological types were distinguished: independent (11 of 26),
+vastus-intermedius-type (6), vastus-lateralis-type (5) and common-type (4).
+
+**What it changes for training: nothing you can act on directly, and that is worth stating plainly.**
+There is no exercise that isolates it, no measurement that separates it in a living person, and no
+outcome study that has ever reported it. It appears here for one reason — because published
+quadriceps [cross-sectional area](#anatomicalcsa) figures, including every training study cited in
+this Part, were measured before this structure was described and therefore contain it, silently
+distributed among the vasti.
+
+---
+
+### A.4 Architecture — a force muscle, not an excursion muscle
+
+This is the single most consequential fact in Part III, and it is the exact mirror image of the fact
+that opens Part II. Measured by disassembly of 21 human lower extremities (Ward et al., 2009a):
+
+```
+HUMAN QUADRICEPS FEMORIS — MEASURED ARCHITECTURE (mean +/- SD)
+                        Mass       Fascicle    Sarcomere   Pennation   PCSA
+                        (g)        length(cm)  length(um)  (deg)       (cm2)
+  Rectus femoris        110.6      7.59        2.42        13.9        13.5
+  Vastus lateralis      375.9      9.94        2.14        18.4        35.1
+  Vastus medialis       239.4      9.68        2.24        29.6        20.6
+  Vastus intermedius    171.9      9.93        2.17         4.5        16.7
+  ------------------------------------------------------------------------
+  GROUP TOTAL           897.8      --          --          --          85.9
+```
+
+A ~900-gram muscle group with a summed physiological cross-sectional area of about 86 cm².
+Set against the [latissimus dorsi](#latissimusdorsi)'s 170 g and 5.6 cm² (Part II §A.4), the quadriceps has roughly
+**fifteen times the force-generating cross-section** while its fascicles are about **one third as
+long**. The lat spends its volume on [fascicle length](#fasciclelength); the quadriceps spends its volume on
+cross-section.
+
+> Maximum isometric force ≈ summed PCSA × [specific tension](#specifictension)
+> ≈ 85.9 cm² × ~22.5 N·cm⁻² ≈ **~1,930 N**, or × ~45 N·cm⁻² ≈ **~3,870 N**
+>
+> These are forces **along the tendon**, not along the fibres: the source computes PCSA as
+> mass × cos(pennation) ÷ (density × normalized fascicle length), so the pennation cosine is already
+> inside the figure and must not be applied a second time.
+
+**Interpretive caution — four things about this block.** The ± figures in the source are standard
+deviations across specimens, and the spread is large: vastus lateralis PCSA is 35.1 ± 16.1 cm², a
+range wide enough that two healthy people can differ by a factor of two. The specimens were elderly
+cadavers, fixed at a measured joint position, with fascicle lengths normalized to a 2.7 µm reference
+[sarcomere](#sarcomere) length — a procedure that makes muscles comparable to each other, not a
+statement about your own leg. The two force figures bracket the answer rather than pinning it,
+because specific tension is not settled. And the lower of the two is almost
+certainly too low: multiplied by a 4.5 cm [moment arm](#momentarm) — the mid-range value, near where the
+extensor mechanism is best levered (Part III §A.5) — it predicts about 87 N·m of knee extension
+[torque](#torque), whereas healthy young men routinely produce two to three times that on a
+dynamometer. **The claim that survives is comparative, not absolute:** whatever this group's volume,
+an unusually large share of it is spent on cross-section rather than on fascicle length.
+
+**What this dictates:**
+
+| Architectural fact | Training consequence |
+|---|---|
+| Very large summed PCSA (~86 cm²) | Enormous force capacity; the load has to be genuinely heavy for the tension to be meaningful |
+| Short fascicles (7.6–9.9 cm) | Modest active [excursion](#excursion); range matters, but it runs out sooner than the joint's range does |
+| Pennation varying fourfold across heads (4.5° to 29.6°) | Most heads transmit force at an appreciable angle; vastus intermedius, at 4.5°, is nearly parallel-fibred and is the exception the row's average hides |
+| Fascicle-to-muscle length ratio 0.21–0.38 | Most of each head's length is tendon and aponeurosis, not contractile tissue |
+| One head at 13.5 cm² against three at 16.7–35.1 cm² | The rectus femoris is the smallest head **and** the one hardest to load — see Part III §B.4 |
+
+The rule that comes out of this table, and which the rest of Part III elaborates:
+**train the quadriceps with load first and range second** — the exact inversion of the lat's rule, and
+for the exact opposite architectural reason.
+
+---
+
+### A.5 The patella — a moment-arm amplifier
+
+The kneecap is a [sesamoid](#sesamoid) bone: a bone embedded inside a tendon. It does not attach the
+muscle to anything. Its job is geometric — it holds the quadriceps tendon away from the knee's axis
+of rotation, which lengthens the tendon's moment arm and multiplies the torque that a
+given muscle force produces.
+
+Measured on fresh cadaver knees, the patellar tendon's moment arm about the knee's screw axis peaks at
+**4–6 cm, at roughly 45° of [knee flexion](#kneeflexion)**, and is smaller at full extension
+(Krevolin et al., 2004). Deep flexion sits outside that study's reported range; the in vivo
+measurement that covers it finds the moment arm falling by at most a fifth beyond 70° rather than
+collapsing (Gray & Pandy, 2021). Near full extension the tendon is not perpendicular to the axis, so the true
+moment arm is *smaller* than the perpendicular distance between the two lines — a detail that matters
+because the last few degrees of extension are exactly where a badly set leg extension machine places
+its peak demand.
+
+Normalized to femoral condyle width, the moment arm was roughly constant across individuals
+(Krevolin et al., 2004), which is the useful part: **the shape of the curve is not something you
+chose.** You cannot train it, and you cannot cue it. **Caveat:** the in vivo data are less reassuring
+about magnitude — patellar tendon moment arm varied by as much as 13% between individuals even after
+normalizing for bone size (Gray & Pandy, 2021), so the curve's *shape* generalizes better than its
+*height*. You can only choose exercises whose torque demand rises and falls
+alongside it, or against it.
+
+---
+
+### A.6 Regions — where a quadriceps actually grows
+
+Quadriceps hypertrophy is not uniform, in three separate senses, and each has been measured:
+
+- **Between heads.** Twelve weeks of knee-extension training increased anatomical cross-sectional area, [muscle thickness](#musclethickness) and pennation angle of the rectus femoris **more** than those of the vasti (Ema et al., 2013). Eight weeks of heavy parallel squats and jump squats produced **no rectus femoris hypertrophy at any measured location** while the vasti grew (Earp et al., 2015). The head that grows is decided by the exercise, not by the muscle.
+- **Along the length of a head.** In that same knee-extension study, vastus lateralis and rectus femoris both grew more distally than proximally (Ema et al., 2013). Heavy squats produced greater *proximal* hypertrophy in each of the vasti, while jump squats produced *distal* vastus lateralis and vastus intermedius growth (Earp et al., 2015). Different loading, different region.
+- **Across a head.** Vastus intermedius thickness and pennation increased more medially than laterally (Ema et al., 2013).
+
+**Fascicle lengths did not change in any head** across twelve weeks, while pennation angle rose in
+proportion to thickness (Ema et al., 2013). **Moderate evidence** — one training study in eleven men, with
+cross-sectional area from MRI and thickness, fascicle length and pennation from ultrasound. The reading it supports is that a growing quadriceps adds cross-section at a steeper
+fibre angle rather than adding sarcomeres in series, which is consistent with its architecture but has
+not been replicated widely enough to state flatly.
+
+For what [regional hypertrophy](#regionalhypertrophy) can and cannot be inferred from, and why
+surface [EMG](#emg) is not the instrument for the question, see Part III §B.11.
+
+---
+
+### A.7 Fibre type — an even split, and it does not tell you what to do
+
+The vastus lateralis is the most-biopsied muscle in the world, because it is large, superficial and
+safe to needle [consensus — no single source]. Its fibre-type composition is close to an even split between slow and fast, with wide
+variation between individuals, and the slow fraction is higher in the deep portion of the muscle than
+in the superficial portion (Johnson et al., 1973).
+
+**This changes nothing about the prescription, and the reasoning is set out in Part II §A.6.** Fibre
+type is a poor predictor of which rep range grows a given person's muscle, the between-person spread
+swamps the between-muscle spread, and no training study has ever allocated by biopsy and beaten a
+study that did not. The fact is here because it is asked about, not because it is actionable.
+
+---
+
+### A.8 The muscles you cannot separate it from
+
+| Muscle | Relationship | Consequence for training |
+|---|---|---|
+| Gluteus maximus | Hip extensor; shares every squat-pattern exercise | The deeper and more hip-flexed the position, the larger its share; a squat that feels "all glutes" has moved torque demand from knee to hip |
+| Hip adductors | Contribute to [hip extension](#hipextension) from a flexed hip, especially adductor magnus | Grow substantially from deep squatting (Kubo et al., 2019); a wide stance increases their involvement |
+| Hamstrings | Knee flexors and hip extensors, crossing both joints like a mirrored rectus femoris | In a squat they act mainly as co-contractors stabilizing the knee, not as movers; their length barely changes |
+| [Gastrocnemius](#gastrocnemius) | Crosses knee and ankle; a knee flexor | Rises with knee flexion and with a narrow stance; limits how much of a deep position the ankle can supply |
+
+None of these can be removed from a squat-pattern exercise. All of them can be removed from a knee
+extension, which is the entire reason single-joint work has a place in Part III §D.3.
+
+---
+
+### A.9 What the anatomy dictates, in nine lines
+
+1. There is exactly one joint action the whole group performs: [knee extension](#kneeextension).
+2. Three heads see only that action. Their length is a pure function of knee angle.
+3. One head — rectus femoris — also crosses the hip, and its length is a function of two angles.
+4. Force capacity is very high and fascicles are short: this is a load-tolerant, low-excursion group.
+5. The patella fixes the leverage curve, peaking near 45° of knee flexion.
+6. Which head grows is decided by exercise selection, not by intent or by cue.
+7. Which region of a head grows is decided by the loading pattern within that exercise.
+8. Every squat-pattern exercise brings the glutes, adductors and calves along; only single-joint knee extension does not.
+9. Therefore a complete quadriceps prescription needs at least two exercises with different hip angles — not one heavy one.
+
+---
+## partiiibbiomechanics
+
+**PART B — Biomechanics: what actually loads the quadriceps**
+
+### B.1 The joint actions, ranked
+
+| Action | Which heads | Share of the group | Verdict |
+|---|---|---|---|
+| Knee extension | All five | 100% of PCSA | **The only action worth building an exercise around** |
+| [Hip flexion](#hipflexion) | Rectus femoris alone | ~16% of group PCSA | Never the point of the exercise; always a modifier of rectus femoris length |
+
+That is the entire list, and it is much shorter than the lat's. The quadriceps has no rotational
+action worth loading, no shoulder-blade equivalent to coordinate, and no trunk attachment. Its mechanics are
+consequently simpler and more determinate than the lat's — which is why the disagreements in the
+literature are about *how much* range and *which* hip angle, not about which movement to do.
+
+---
+
+### B.2 Moment arms — a curve you cannot change
+
+The knee extensor moment arm is the patellar tendon moment arm of Part III §A.5: peak **4–6 cm**
+somewhere between 30° and 60° of knee flexion (Krevolin et al., 2004), falling through the band either
+side of 90°, and then **holding roughly flat rather than continuing to fall** into deep flexion.
+Measured in vivo by mobile biplane X-ray in ten people across six activities, it stayed
+**nearly constant at ~46 mm from 0° to 70°** of knee flexion and decreased by **no more than 20%** at
+higher flexion angles (Gray & Pandy, 2021).
+
+**Interpretive caution — the peak is partly a definition.** Where the curve peaks, and whether it has a
+peak at all, depends on how the knee's centre of rotation is defined. Using the instantaneous centre of
+rotation or the femoral condyles, the moment arm declines monotonically from ~5.9 cm at full extension
+to ~4.8 cm at 90°; using the tibiofemoral contact point, the same seven knees give an
+ascending–descending curve peaking at 60° (Tsaopoulos et al., 2009). Treat the shape as approximate and
+method-dependent; treat the magnitude, 4–6 cm, as solid.
+
+Read through the stimulus equation of Part I §2, this has one direct consequence and it is the one
+people get backwards:
+
+> F_quadriceps(θ) = τ_demanded(θ) / r(θ)
+
+**Through the descent the moment arm falls while the exercise's torque demand rises, so the force the
+muscle must produce climbs by both terms of the fraction at once.** Past roughly 100° the moment arm
+stops falling and holds; the demand keeps climbing. So the bottom of a deep squat is still the
+highest-tension position the quadriceps occupies **within that exercise** — but past about 100° it is
+driven there by the numerator alone, not by both terms. Whether it beats the bottom of some other
+exercise is a comparison nobody has measured, and Part III §B.11 explains why an activation study
+could not settle it. **The practical consequence is unchanged: the
+load must come down as you go deeper.** The reason is that the muscle is weaker there
+(Part III §B.3), not that its leverage keeps collapsing.
+
+---
+
+### B.3 Force–length — where the quadriceps actually sits
+
+The only direct measurement of human quadriceps sarcomere length in a living person used
+second-harmonic-generation microendoscopy on the resting vastus lateralis of six people. Mean
+sarcomere length rose from **2.84 ± 0.16 µm at 50° of knee flexion to 3.17 ± 0.13 µm at 110°**
+(Chen et al., 2016).
+
+Human sarcomeres produce maximal active force across a plateau of roughly 2.6–2.8 µm and fall to zero
+at roughly 4.0 µm [consensus — no single source]. Placing the two measured points on that curve:
+
+```
+VASTUS LATERALIS — ESTIMATED ACTIVE FORCE CAPACITY BY KNEE ANGLE
+  Knee flexion  Sarcomere length   Position on curve      Approx. active force
+  50 deg        2.84 um            just off the plateau   ~90-97% of maximum
+  110 deg       3.17 um            descending limb        ~65-75% of maximum
+```
+
+**Interpretive caution.** The two sarcomere lengths are measured; the force percentages are arithmetic
+performed here on a textbook sarcomere force–length curve, in a resting muscle, in six people, at two
+angles. **They are ranges rather than single figures because they are very sensitive to where the
+plateau is taken to end** — moving its upper edge from 2.8 µm to 2.7 µm shifts the 50° estimate by
+roughly eight percentage points. They are an illustration of direction and rough magnitude, not a
+measurement, and no claim in Part III rests on their exact values. What the source
+itself concluded is narrower and more important: the change in sarcomere length with knee flexion was
+**smaller than previous model-based estimates**, so the vastus lateralis conserves more of its
+force-generating capacity through the range than models had predicted.
+
+**One more caveat, and it cuts against the table above.** Chen's sarcomere lengths were measured in a
+**resting** muscle. Under contraction the tendon and aponeurosis stretch, so the fibres shorten
+relative to the joint angle and sit at a *shorter* sarcomere length than a resting measurement at the
+same angle implies. The fascicle-to-muscle-length ratios in Part III §A.4 — 0.21 to
+0.38 — say most of each head's length is elastic tissue, so this correction is not small. Its direction
+is favourable to the argument being made here (the working muscle is closer to its plateau than the
+table shows) but its size is unknown, which is a further reason to treat the percentages as
+illustration.
+
+Three things follow, and the third is the one that matters most:
+
+- **The quadriceps is already past its optimum length by 50° of knee flexion — a quarter squat** — and further onto the descending limb at the bottom of a deep one. Depth does not move the muscle toward its strongest length; it moves it away.
+- **That is not an argument against depth.** The same descending-limb position is where [passive tension](#passivetension) rises and where the exercise's torque demand peaks, both of which raise the tension the fibres actually carry.
+- **It does predict that the benefit of depth saturates.** Past the point where the muscle is deep on its descending limb and the moment arm has already shrunk, more knee flexion adds joint travel without adding much fibre length change. Part III §B.7 shows this is exactly what the training studies find.
+
+---
+
+### B.4 The rectus femoris problem — the central fact of quadriceps training
+
+The rectus femoris crosses two joints. In every squat-pattern exercise, both of them flex together on
+the way down: the knee flexes, which **lengthens** it below, and the hip flexes, which **shortens** it
+above. The two changes largely cancel, and the muscle descends into the bottom of a squat at close to
+a constant length while the vasti lengthen through their full excursion.
+
+**But near-constant length is not, by itself, the reason the head goes untrained** — a muscle held at
+a fixed length can carry enormous tension, which is exactly what the isometric evidence in
+Part III §D.4 shows. The reason is the *direction of the demand at the hip*. A squat requires a net
+hip **extension** moment, and the rectus femoris is a hip **flexor**: at that joint it is an
+antagonist, and driving it would fight the movement. The nervous system does not drive it, and that
+is a measured effect rather than an inference — adding hip-extension torque, with knee-extension
+torque held constant, significantly *decreased* rectus femoris activation (Ema et al., 2016).
+
+So the head is not merely poorly positioned in a squat; it is actively turned down by the task. The
+measurements say so consistently:
+
+| Finding | Study | What it establishes |
+|---|---|---|
+| Adding isometric hip-extension torque significantly **decreased** rectus femoris activation | Ema et al., 2016 | The hip action of a squat actively suppresses the head |
+| Rectus femoris activation was higher in knee extension than in leg press; the vasti did not differ | Ema et al., 2016 | The gap is head-specific, not exercise-difficulty |
+| Leg press at 80% 1RM produced no more rectus femoris activation than knee extension at 20% 1RM | Ema et al., 2016 | Load does not rescue it |
+| Taken to exhaustion on the **leg press** at 80% 1RM, vasti activation rose; rectus femoris activation did not | Ema et al., 2016 | Taking the set closer to failure does not rescue it either — tested in the leg press, not the squat |
+| Eight weeks of heavy squats and jump squats: no rectus femoris hypertrophy at any location | Earp et al., 2015 | The activation gap shows up as an outcome |
+| Ten weeks of squatting: knee extensor volume rose ~5%, rectus femoris volume **did not change at all** — at 140° of knee flexion or at 90° | Kubo et al., 2019 | Replicated with MRI muscle volume; more depth did not rescue the head |
+| Open-chain knee extension produced more rectus femoris activity; closed-chain squat and leg press produced more vasti activity | Escamilla et al., 1998 | The original observation, from muscle modelling plus EMG |
+| Smith-machine squats grew only the central vastus lateralis; leg extensions grew **all three** rectus femoris regions | Zabaleta-Korta et al., 2021 | Direct randomized comparison, volume- and load-matched |
+| Leg extension beat the squat at **all three** rectus femoris sites (+11.4/+12.3/+17.5% vs +2.0/+5.7/+7.9%); the squat beat the leg extension at the **distal vastus lateralis** (+18.2% vs +11.2%) | Kassiano et al., 2026 | 63 women, 8 weeks, between-group contrasts — the effect runs both ways |
+| Twelve weeks of knee extension: rectus femoris grew **more** than the vasti | Ema et al., 2013 | The converse holds — the single-joint exercise favours the head the squat misses |
+
+Seven studies, six laboratories, three measurement methods — EMG, ultrasound and MRI — converging on
+one statement:
+
+> **The three vasti are trained by anything that loads a deep knee bend. The rectus femoris is
+> trained far less by all of it, and needs a separate exercise, performed with the hip open rather than folded.**
+
+This is the sentence in Part III that changes the most programs. **Note what it is not.** It is not a
+claim that squats are a poor quadriceps exercise — they are an excellent one for the ~84% of the
+group's cross-section that the vasti supply. It is not a claim that the rectus femoris is untouched:
+squatting grew it 2.0–7.9% across three sites in eight weeks, against 11.4–17.5% for the leg extension
+in the same trial (Kassiano et al., 2026). It is a claim about how much of the head a squat leaves on
+the table, and the head in question is the visible one that runs down the middle of the thigh.
+
+**The dissent, stated.** One study does not fit. Seven weeks of parallel back squats in 18 untrained
+students grew all four heads, and the change in cross-sectional area did not differ significantly
+between them (Kojic et al., 2022). It is a single-arm study with no control group, no comparison
+exercise, and ultrasound cross-sectional area in a population where almost anything grows almost
+everything — so it does not carry the weight of the MRI and randomized-comparison evidence above. It is
+recorded because the case in this section is a weight-of-evidence case, not a unanimous one.
+
+---
+
+### B.5 Hip angle is the steering wheel for rectus femoris
+
+If the problem is that hip flexion shortens the head, the fix is to extend the hip while the knee
+works. Three studies, three methods, one direction:
+
+- **Hypertrophy.** Twenty-two untrained men trained one leg's knee extension at **90° of hip flexion** and the other at **40°** for ten weeks. Rectus femoris growth favoured the 40° condition with "extreme" evidence by [Bayes factor](#bayesfactor) at both proximal and distal sites; vastus lateralis growth showed strong evidence of **no** difference (Larsen et al., 2025a). The head that responds to hip angle is precisely the one that crosses the hip; the heads that do not cross it did not care.
+- **Regional recruitment.** Nine male bodybuilders performed leg extensions at 0°, 40° and 80° of hip flexion, with [T2-weighted MRI](#t2mri) before and after. Which longitudinal region of the rectus femoris was worked shifted with hip angle, and the authors recommend 40° as the practical setting for the proximal region — not because it beat 0°, which it did not, but because 80° was the condition that under-worked the proximal region. The subjective sensation of contraction did **not** track the objective measure (Mitsuya et al., 2023).
+- **Passive and active stiffness.** In twenty healthy women, resting [shear elastic modulus](#shearelasticmodulus) of the rectus femoris was about 50% higher with the hip at 0° than at 90°, and hip position changed the recruitment pattern across the group during isometric knee extension at 10–30% of maximum (Deng et al., 2022).
+
+**The practical setting.** On a leg extension machine, recline the seat back so the hip sits nearer
+40° than 90°. On a machine with a fixed upright seat, sitting tall and letting the pelvis rotate
+slightly forward moves in the same direction but by much less. **Moderate evidence** — one
+ten-week hypertrophy trial in untrained men, one acute MRI study in nine trained bodybuilders,
+one acute elastography study. The direction is consistent and mechanically necessary; the size of
+the effect in trained lifters over a year is not established.
+
+**Do not over-read the 40°.** Both hip angles grew the quadriceps. The finding is that one grows the
+rectus femoris more, not that the other is wasted.
+
+---
+
+### B.6 The stimulus map for the quadriceps
+
+Overlaying Part III §B.2, Part III §B.3 and Part III §B.4 onto the arc the knee actually travels:
+
+```
+KNEE POSITION        VASTI LENGTH  LEVERAGE   ACTIVE FORCE   TENSION PER    WHAT IT NEEDS
+                                                             N.m OF DEMAND
+--------------------------------------------------------------------------------------------
+Deep flexion         Longest       Reduced,   ~65-75%        High           Heavy torque, full
+(110-140 deg)        (+ passive    then flat  and falling                   control, no bounce.
+                      tension)                                              The productive end
+
+Mid-range            Long          HIGHEST    ~90-97%        LOWEST         The heaviest absolute
+(45-90 deg)                                                                 load the exercise can
+                                                                            deliver
+
+Near extension       Short         High       Near plateau   Low            Torque is optional;
+(10-45 deg)                                                                 fibre excursion is
+                                                                            nearly spent
+
+Terminal extension   Shortest      Disputed   Falling        Would be       Nothing worth chasing.
+(0-10 deg)                         (sources   (short-length  highest, on    Poor stimulus per unit
+                                    disagree)  limb)         near-zero      of joint load
+                                                             demand
+```
+
+**Two columns to read carefully.** The fifth is torque demand divided by moment arm — how much tension
+the muscle carries per newton-metre the exercise asks for — and it runs opposite to leverage, exactly
+as in Part II §B.4. The fourth is the force–length position from Part III §B.3, and it falls as the
+knee bends further. Deep flexion is where the muscle is weakest *and* where the exercise demands the
+most torque; its leverage is reduced but, past about 100°, no longer collapsing (Part III §B.2). That
+combination is why it is the productive end of the range and why the load must come down as you go
+deeper.
+
+**The last row is the trap, and it is why the fifth column alone is not a guide.** Tension per
+newton-metre may well be highest at terminal extension — the sources disagree about the moment arm
+there, with one cadaveric study reporting it smallest near full extension (Krevolin et al., 2004) and
+one videofluoroscopic study reporting it *largest* (Tsaopoulos et al., 2009). It does not matter which
+is right, because the demand there is so small that the product — actual muscle tension — is the lowest
+in the table. A high ratio applied to almost nothing is still almost nothing.
+
+**The single most useful sentence in this Part:** the quadriceps' productive range runs from deep
+flexion up to roughly 30–45° of knee flexion, the exercise should deliver its peak torque near the
+bottom of that arc, and the last 10–20° toward a locked knee is joint stress bought with almost no
+stimulus — which is why every rep in Part III §C.1 stops short of lockout rather than at it.
+
+---
+
+### B.7 Depth — what the evidence actually says
+
+This is the most-tested question in quadriceps training, and the results only look contradictory until
+they are lined up by *which part of the range each protocol removed*.
+
+| Study | Comparison | Result |
+|---|---|---|
+| Bloomquist et al., 2013 | Deep squat 0–120° vs shallow squat 0–60°, [repetition](#repetition)-matched, 12 weeks | Deep squat produced **4–7% greater front-thigh muscle CSA** and greater isometric strength at 75° and 105° |
+| Kubo et al., 2019 | Full squat (140°) vs half squat (90°), 10 weeks, MRI muscle volume | Knee extensor volume rose **equally** — 4.9% vs 4.6%, no between-group difference. Rectus femoris did not change in either group. The full squat won only at the adductors and gluteus maximus |
+| Pedrosa et al., 2022 | Knee extension: full 100–30°, long-length partial 100–65°, short-length partial 65–30°, plus a daily-alternating group, 12 weeks | Long-length partial **greater than every other group** at the proximal site (70% of femur length); short-length partial no better than the untrained control at 60% and 70% |
+| Larsen et al., 2025b | Leg press 5–100° vs 5–154°, 8 weeks, resistance-trained | **No difference** — "extreme" evidence for the null on multivariate analysis |
+| Pallarés et al., 2021 | Meta-analysis of sixteen trials, full vs partial range | Full range superior for lower-limb hypertrophy (ES = 0.88) — though the pooled analysis of muscle thickness, pennation angle and fascicle length found no difference (ES = 0.28, p = 0.226) |
+| Kassiano et al., 2023 | Systematic review, full vs partial by which part of the range | Full range and **long-length** partials both beat short-length partials in quadriceps; long-length partials beat full range for proximal rectus femoris |
+
+**The reconciliation, in one line.** Every protocol that removed the deep, long-muscle-length portion
+lost; every protocol that kept it did about equally well, whether or not it also kept the shallow
+portion. Pallarés' meta-analysis reads as "full beats partial" because most of its pooled partials
+were short-length partials. Larsen's leg-press null reads as "depth does not matter" because both of its
+conditions already reached 100° of knee flexion — both were deep by the standard that matters. And
+Kubo's full squat beat his half squat at the adductors and glutes, not at the quadriceps: 90° of knee
+flexion was already enough for the knee extensors.
+
+> **Depth is not a continuous dose. It is a threshold.** Reach roughly 90–110° of knee flexion under
+> load and you have collected nearly all of the depth effect. Past that, more depth is a choice about
+> hip and adductor development, joint comfort and sport requirement — not a quadriceps lever.
+
+**The bracket, as the three studies leave it.** Stopping at 60° of knee flexion cost 4–7% of
+front-thigh muscle cross-sectional area against 120° (Bloomquist et al., 2013). Stopping at 90° cost
+nothing against 140° (Kubo et al., 2019). Stopping at 100° cost nothing against 154°
+(Larsen et al., 2025b). The threshold therefore sits somewhere between 60° and 90°, and the 90–110°
+working figure is set above it for margin.
+
+**Caveat on generalizing the threshold.** No study has titrated depth in fine steps against
+quadriceps hypertrophy, and the three brackets come from three different exercises, populations and
+durations. Treat it as the current best line, not a measured cut-point.
+
+---
+
+### B.8 Resistance profiles — where each exercise's torque actually peaks
+
+The muscle's capability curve is fixed. The **[resistance profile](#resistanceprofile)** is chosen by
+the exercise. For the knee:
+
+> τ_demanded = F_resistance × d⊥
+>
+> where d⊥ = the perpendicular distance (m) from the knee joint centre to the [line of action](#lineofaction) of the resistance
+
+For free-weight and body-weight exercise — every barbell squat variation, every split-stance
+variation — the line of action is vertical and d⊥ reduces to **the horizontal distance from the knee
+joint centre to the vertical line through the supported mass**. That single distance explains most of
+what separates these exercises. **On a sled machine it is not vertical:** a hack squat or leg press
+constrains the load to an inclined rail, so the relevant line runs along that rail and d⊥ is measured
+perpendicular to it. That is precisely why those machines can hold the offset open deeper into the
+range than a free squat can — the designer chose the angle, and gravity is no longer the only term.
+
+| Exercise | Where knee torque demand peaks | Where it falls to near zero | Profile |
+|---|---|---|---|
+| [Back squat](#backsquat), high-bar | Bottom position | Lockout | Stretch-loaded |
+| Back squat, low-bar | Bottom, but lower at the knee and higher at the hip | Lockout | Stretch-loaded, hip-shifted |
+| [Front squat](#frontsquat) | Bottom; largest knee share of the barbell family | Lockout | Stretch-loaded |
+| [Hack squat](#hacksquat) | Bottom; the sled path holds the offset open deeper than a free squat does | Lockout | Stretch-loaded |
+| [Leg press](#legpress) | Deep knee flexion | Lockout | Stretch-loaded |
+| [Leg extension](#legextension) | Set by the machine's cam; commonly mid-range, sometimes near terminal extension | Depends on cam | Variable — check the machine |
+| [Sissy squat](#sissysquat) and [reverse Nordic](#reversenordic) | Bottom, with the hip **extended** | Upright | Stretch-loaded, rectus-femoris-biased |
+| [Split squat](#splitsquat) | Bottom | Lockout | Stretch-loaded |
+| Wall sit and other isometrics | Held angle only | Everywhere else | Single-point — value set by *which* angle |
+
+**The finding that separates Part III from Part II.** In Part II, almost every default lat exercise
+was mid-range-loaded and loading the stretch took deliberate setup. Here, **the entire squat family is
+already stretch-loaded** — peak torque demand arrives at the bottom, exactly where the muscle is
+longest and worst levered. The default is already right, and that is a large part of why quadriceps
+training is more forgiving than lat training, and why the marginal returns from clever setup are
+smaller.
+
+**The one exercise where the profile has to be checked** is the leg extension, because the demand
+curve is a manufacturing decision. A machine whose resistance peaks near terminal extension puts its
+heaviest demand exactly where Part III §B.6 says there is least to gain and most [patellofemoral joint](#patellofemoraljoint)
+stress per unit of work. Two ways to tell without documentation: if the hardest point of the rep is
+the last 20° before lockout, the cam peaks short; if the hardest point is around a right angle at the
+knee, it peaks mid-range. Prefer the second. **If the machine you have peaks short**, you are not
+stuck: stop the concentric earlier and let the eccentric run to the deep position, or use the
+long-length partial in Part III §D.3, which trains only the half of the range the cam gets right.
+
+---
+
+### B.9 A worked example, so the numbers are not abstract
+
+```
+QUADRICEPS TENSION - BOTTOM OF A DEEP BACK SQUAT (one leg, quasi-static)
+  Barbell load                   140 kg
+  Body mass above the knee       ~0.85 x 90 kg = 76.5 kg
+  Total supported                216.5 kg  ->  2,124 N
+  Per leg                        1,062 N
+  Knee-to-load-line offset       0.15 m
+  Knee extensor torque demand    1,062 x 0.15  =  ~159 N.m
+  Patellar tendon moment arm     ~0.042 m at deep flexion
+  Patellar tendon force          159 / 0.042  =  ~3,790 N
+  Patella transmission ratio     ~0.7 at 90-120 deg (Huberti et al., 1984)
+  Quadriceps tendon force        3,790 / 0.7   =  ~5,400 N
+```
+
+**The last two lines are the step most such calculations skip.** Torque divided by the patellar tendon's
+moment arm gives the force in the *patellar tendon*, not in the muscle. The patella is **not
+a simple pulley**: measured in six cadaver knees across 30–120° of flexion, the ratio of patellar-tendon
+force to quadriceps-tendon force peaks at 1.27 at 30° and falls to a minimum of **0.7 at 90° and 120°**
+(Huberti et al., 1984). Independently, a radiographic and dissection study found patellar-tendon force
+**25–40% lower than quadriceps-tendon force** between 60° and 120° (Nisell & Ekholm, 1985). In deep
+flexion the muscle therefore carries appreciably more force than the tendon below the kneecap does.
+
+Roughly 5,400 newtons above the kneecap. Set against the ~130 N estimated for the whole latissimus
+dorsi in Part II §A.4, that is a ratio of about forty — but the two figures come from different kinds of
+calculation, one a demand and one a capacity, so **the honest comparison between the two Parts is the
+cross-sectional one: 85.9 cm² against 5.6 cm², about fifteenfold** (Part III §A.4). That is the
+justification for the difference in prescription between them.
+
+**And it does not close.** 5,400 N exceeds even the upper architectural estimate in Part III §A.4
+(~3,870 N at 45 N·cm⁻²) by about 40%. Three readings are possible and they are not exclusive: the
+specific-tension constant used there is too low, which the dynamometer comparison in §A.4 already
+suggests; the representative 0.15 m offset is too generous for the bottom position; or the load in this
+example is simply near the top of what the modelled lifter could do. What the mismatch rules out is
+treating either number as precise. It is also missing a term that pushes the same way —
+hamstring co-contraction, which is roughly twice as large in the squat as in the leg
+press or knee extension (Escamilla et al., 1998), and which the quadriceps must overcome on top of the
+external demand.
+
+**Validity caveat.** Quasi-static, as every torque figure in this document is (Part I §2). It uses a
+single representative offset where the real value changes continuously through the rep, an
+anthropometric estimate for the mass above the knee, and it splits the load evenly between legs. It
+is an order-of-magnitude illustration, not a measurement of your squat.
+
+---
+
+### B.10 Stance, foot angle, bar position and knee travel
+
+Four setup variables, in descending order of how much they change the quadriceps' share:
+
+**[Bar position](#barposition) and trunk angle.** The more upright the torso, the further forward the knee sits
+relative to the load line, and the larger the knee's share of the total demand. That is the whole
+mechanism behind the front-squat-versus-low-bar difference, and it is a continuum, not two categories.
+
+**[Knee travel](#kneetravel).** Blocking the knees from moving forward past the toes lowers knee torque — and raises
+hip torque by a substantially larger amount, transferring load to the hips and lower back
+(Fry et al., 2003). **Restricting knee travel is a way to make a squat less of a quadriceps exercise,
+and there is no version of the quadriceps case for it.** If forward knee travel hurts, that is a Part III §E.4
+question, not a technique rule.
+
+**[Stance width](#stancewidth).** Thirty-nine lifters were filmed at a national powerlifting
+championship and sorted *afterwards* into narrow, medium and wide groups by stance width normalized to
+shoulder width. Knee and hip extensor moments were both greater in the wide stance than in the narrow
+one, and the narrow stance produced an ankle *plantar* flexor moment where the wider stances produced
+an ankle *dorsiflexor* moment (Escamilla et al., 2001a). **Interpretive caution:** stance was not
+assigned — each lifter used his own stance and his own load, so the moment differences are confounded
+with the weight on the bar, and no causal claim about widening your own stance follows. Separately, in
+a within-participant comparison, wider stances raised hip extensor and hip lateral-rotator demands
+while hip adductor demand was unchanged (Hopkins et al., 2024). The practical reading is that
+stance width mostly redistributes work at the hip and ankle; it is not a strong quadriceps lever, and
+the right width is the one that lets you reach depth with your own hips.
+
+**Foot angle.** No differences in muscle activity or knee forces were found between feet-straight and
+feet-turned-out-30° in either the squat or the leg press (Escamilla et al., 2001b). Turn your feet out
+as far as your hips want. It is a comfort and depth variable, not a stimulus variable.
+
+---
+
+### B.11 What EMG can and cannot settle here
+
+Part II §B.11 sets out why surface EMG amplitude cannot rank exercises for hypertrophy: it is
+not a validated longitudinal proxy, normalization choices move the ranking, and the
+[EMG–hypertrophy dissociation](#emghypertrophydissociation) has been demonstrated directly. All of
+that holds here without modification. **No claim in Part III rests on one exercise showing higher EMG
+amplitude than another.**
+
+Two uses in this Part are legitimate, and it is worth being precise about why:
+
+- **A within-muscle comparison at a fixed electrode position, where the exercise is the same and only one joint angle changes** (Ema et al., 2016, Experiment 1) is a different measurement from ranking two exercises by amplitude. It asks whether a given muscle's drive changed when nothing else did. The shear-wave elastography cited in Part III §B.5 is not an electromyographic measurement at all, and is not subject to this section's objection.
+- **An amplitude claim used only to generate a hypothesis that was then tested by an outcome study** is not carrying the conclusion. The rectus femoris case in Part III §B.4 does not depend on Ema's EMG at all: it is settled by MRI muscle volume (Kubo et al., 2019), ultrasound cross-sectional area (Earp et al., 2015), and a direct randomized comparison (Zabaleta-Korta et al., 2021). The EMG explains *why*; it is not the evidence *that*.
+
+---
+
+### B.12 The mechanical checklist
+
+An exercise is a good quadriceps exercise to the degree that it satisfies these, in order:
+
+1. **Reaches at least 90–110° of knee flexion under load** (Part III §B.7).
+2. **Puts its peak torque demand near that deep position** rather than near lockout (Part III §B.8).
+3. **Ends before terminal extension**, where stress is high and stimulus is low (Part III §B.6).
+4. **Is limited by the quadriceps** rather than by the lower back, the ankles or balance (Part III §C.2).
+5. **Holds the hip near extension, if the target is the rectus femoris** (Part III §B.5) — which no squat-pattern exercise does.
+6. **Is reproducible enough that depth does not drift** as the load rises (Part III §F.5).
+
+---
+## partiiictherepspecified
+
+**PART C — The rep, specified**
+
+### C.1 The universal quadriceps rep
+
+Every prescription in Part III §D is this rep with the setup changed. It is written for a squat-pattern
+exercise; the knee-extension version is the same rep with the hip held instead of moving.
+
+```
+THE QUADRICEPS REP - DEFAULT FOR HYPERTROPHY
+  Start           Knee near extension but not locked; weight over the midfoot
+  Descent         2-3 s, controlled; knees travel forward as far as the ankles allow
+  Bottom          90-140 deg of knee flexion; no bounce, no relaxation, no pause into slack
+  Reversal        Deliberate, from muscular tension, not from tissue rebound
+  Ascent          1-2 s; hips and shoulders rise together, knee angle leading
+  Top             Stop 10-20 deg short of a locked knee
+  Breathing       Inhale and brace at the top; exhale through the second half of the ascent
+```
+
+**Why each line is there.** The descent is slow because the deep position is the productive one
+(Part III §B.6) and arriving there fast converts stimulus into a rebound. The bottom is defined by knee angle
+rather than by "thighs parallel", because parallel is a statement about your femur length, not about
+your knee. The reversal is deliberate because a bounce unloads the fibres at exactly the point where
+Part III §B.6 says the tension is highest. The top stops short of lockout because the last 10–20° buys
+patellofemoral joint stress and gives almost no stimulus back.
+
+---
+
+### C.2 The technical errors, in order of how much they cost
+
+| # | Error | What it costs | Fix |
+|---|---|---|---|
+| 1 | Cutting depth as the load rises | The productive end of the range (Part III §B.7) — the largest single loss available | Fix the depth, let the load follow it |
+| 2 | Bouncing out of the bottom | Unloads the fibres exactly where tension should peak | Pause 0.5 s at the bottom for a block, then remove the pause |
+| 3 | Blocking forward knee travel | Moves demand from knee to hip (Fry et al., 2003) | Let the knee travel; raise the heels if the ankle is the limit |
+| 4 | Letting the hips rise first out of the bottom | Converts a squat into a stiff-legged hip extension mid-rep | Lighter load; cue the chest and hips to rise at the same rate |
+| 5 | Training only squat-pattern exercises | Leaves the rectus femoris untrained (Part III §B.4) | Add one knee extension variant with the hip open |
+| 6 | Locking out hard at the top | Joint stress with no stimulus, and it hides fatigue | Stop short; keep tension continuous |
+| 7 | Set ends because the lower back gave out | Trained the erectors to momentary failure and the quadriceps to about 5 RIR | Use a machine or a split-stance variant for part of the weekly volume — counted throughout Part III as **hard sets per week** |
+| 8 | Heels rising off the floor | Loses control and shifts the load forward | Ankle mobility, or a heel wedge, or a different exercise |
+| 9 | Chasing "knees out" as a hypertrophy cue | It is a stability cue for heavy attempts; it does not add quadriceps stimulus | Use whatever knee path lets you reach depth |
+
+Errors 1 and 5 dominate the list. Everything below error 5 is worth single-digit percentages.
+
+---
+
+### C.3 Prerequisites — can you actually reach the position?
+
+Depth in a squat is limited by whichever of four things runs out first, and only one of them is
+trained by squatting:
+
+| Limit | How to recognize it | What to do |
+|---|---|---|
+| Ankle [dorsiflexion](#ankledorsiflexion) | Heels lift, or the torso pitches forward sharply at a fixed depth | Raise the heels 1.5–2.5 cm, or use a hack sled or leg press where the ankle is not the constraint |
+| Hip flexion clearance | Depth stops abruptly and the pelvis tucks under at the bottom | Widen the stance and turn the feet out; if depth does not change, this is skeletal — accept the depth you have |
+| Trunk strength | The back rounds before the knee stops | Load the pattern where the trunk is supported: hack squat, leg press, [belt squat](#beltsquat) |
+| Balance and coordination | Depth varies rep to rep | Goblet squat or a machine until the depth is reproducible |
+
+**Hip clearance is often not trainable.** The depth at which a pelvis begins to tuck is set in part by
+the shape of the hip socket and the angle of the femoral neck, which are anatomy, not tightness. Chase
+it with stretching for a few weeks; if nothing changes, change the exercise instead of the person.
+
+---
+
+### C.4 Cues — which ones work and which ones harm
+
+| Cue | Verdict |
+|---|---|
+| "Sit down between your feet, not back" | **Useful** — increases forward knee travel and the knee's share of the demand |
+| "Push the floor away" | **Useful** — an external focus, which improves force output |
+| "Spread the floor / knees out" | **Situational** — a stability cue for heavy attempts, not a quadriceps cue |
+| "Chest up" | **Useful** — keeps the torso upright, which keeps the knee loaded |
+| "Knees behind toes" | **Harmful for quadriceps** — the mechanism is in Fry et al., 2003 |
+| "Squeeze the quads at the top" | **Harmful** — encourages the lockout that Part III §C.1 removes |
+| "Sit back onto the heels" | **Harmful for quadriceps** — it is a hip-dominant cue, correct for a low-bar strength squat and wrong here |
+
+The general finding on [attentional focus](#attentionalfocus) — that external focus outperforms
+internal focus for force production — is set out in Part II §C.4 and is not repeated here.
+
+---
+
+### C.5 The limiting links
+
+A quadriceps set should end because the quadriceps ran out. In practice, on a barbell squat, it very
+often ends for one of these reasons instead:
+
+- **The lower back.** Fatigue accumulates in the erectors across a set and across a session, and it recovers more slowly than the quadriceps do. This is the single strongest argument for putting part of your quadriceps volume — counted here as **hard sets per week for the muscle group** — on a machine.
+- **Breathing.** A braced Valsalva can be held for perhaps 5–8 seconds; a 15-rep squat set is longer than that. Above roughly 10 reps per set on a free squat, breathing, not the quadriceps, is often the limit.
+- **Balance in split-stance work.** A Bulgarian split squat frequently ends because the rear foot position collapses.
+
+**None of these are character failures and none are fixed by trying harder.** They are reasons to
+distribute quadriceps volume across a free-weight exercise and a supported one, which is why the
+templates in Part III §F.6 always contain both.
+
+---
+
+### C.6 Bracing and the spine
+
+The trunk requirements of a loaded squat are a spinal-loading topic rather than a quadriceps topic,
+and the general treatment lives in `strength-and-body-composition.md`. Three points specific to
+quadriceps work:
+
+- **A more upright torso raises the knee's share and lowers the [lumbar compression](#lumbarcompression) per unit of quadriceps stimulus.** Front squats and hack squats are quadriceps-efficient partly for this reason.
+- **A belt does not change which muscle is trained.** It changes how much load the trunk can support while it is trained.
+- **If back fatigue is capping quadriceps volume, the answer is exercise selection, not a heavier brace.**
+
+---
+
+### C.7 How to know it worked
+
+The set was a quadriceps set if, at the end of it:
+
+- the burning and the point at which the set ended were both in the front of the thigh, not the lower back or the glutes;
+- depth on the last repetition matched depth on the first;
+- the reversal at the bottom was still under control, not a collapse and rebound;
+- you could not have completed the target depth again, but could have completed a shallower rep.
+
+That last one is the most useful single test, because it separates **[technical failure](#technicalfailure)**
+at depth from **[momentary failure](#momentaryfailure)** of the muscle — and for a squat pattern the
+first arrives well before the second.
+
+---
+## partiiidexercisecatalogue
+
+**PART D — Exercise catalogue**
+
+Every entry gives its resistance profile (Part III §B.8), the setup detail that
+actually matters, and the failure mode. Entries are grouped by what the hip does while the knee works,
+because that — not the equipment name — is what decides which heads are loaded.
+
+---
+
+### D.1 Squat-pattern exercises — hip flexing with the knee, vasti-dominant
+
+Everything in this group is stretch-loaded, reaches deep knee flexion, and trains the rectus femoris
+far less than the vasti (Part III §B.4). They differ in how much of the total demand lands on the knee rather than
+the hip, and in what limits the set.
+
+#### Back squat, high-bar
+**Profile:** stretch-loaded. **Role:** the default free-weight quadriceps builder.
+
+*Setup.* Bar on the upper trapezius, stance about shoulder width, feet turned out as far as the hips
+prefer. Weight over the midfoot.
+*Execution.* Descend under control to 90–140° of knee flexion, letting the knees travel forward.
+Torso as upright as the load allows. Reverse deliberately; stop short of lockout.
+*Why it works.* Peak torque demand arrives at the bottom, where Part III §B.6 says the tension per unit of
+demand is highest — the profile is right without any setup trick.
+*Failure mode.* Depth drifting shallower as the load climbs. This is error 1 in Part III §C.2 and it is the
+most common way a quadriceps program stops working.
+
+#### Back squat, low-bar
+**Profile:** stretch-loaded, hip-shifted.
+*Trade.* More total load, a smaller knee share. **A strength exercise that also trains quadriceps**,
+rather than a quadriceps exercise. Choose it when the goal includes the squat number.
+
+#### Front squat (barbell)
+**Profile:** stretch-loaded, largest knee share in the barbell family.
+
+*Setup.* Bar on the front deltoids, elbows high, torso vertical.
+*Why it works.* The upright torso keeps the knee well forward of the load line for the whole rep,
+which is the mechanism in Part III §B.10.
+*Failure mode.* The set ends because of the rack position or upper-back fatigue, not the quadriceps —
+a Part III §C.5 problem. If that happens routinely, use a safety-squat bar or a hack squat instead.
+
+#### Hack squat (machine sled)
+**Profile:** stretch-loaded. **Role:** the highest-quality squat pattern per unit of systemic fatigue
+[consensus — no single source].
+
+*Setup.* Feet lower and closer on the platform than feels natural — this increases knee travel and the
+knee's share. Back flat against the pad.
+*Why it is placed first here.* The sled path holds the knee-to-load-line offset open deep into the
+range, the trunk is supported so the lower back does not cap the set (Part III §C.5), balance is
+removed, and depth is reproducible rep to rep. Every one of those is a defect of the free squat,
+removed.
+*Caveat.* No training study has compared the hack squat's hypertrophy against any other exercise, and
+the mechanical case for one squat variant over another has not survived the one direct test that
+exists: twelve weeks of front squats and back squats produced **no difference** in lateral-thigh muscle
+thickness at proximal, middle or distal sites in 24 trained women, despite the front squat's larger
+knee share (Enes et al., 2024). Treat the ordering as a fatigue-and-reproducibility argument, not a
+demonstrated hypertrophy ranking.
+*Failure mode.* Feet too high on the platform, which turns it into a hip exercise.
+
+#### Pendulum squat
+**Profile:** stretch-loaded, with the arc keeping demand high deeper than a hack sled.
+*Note.* Mechanically a hack squat whose path is an arc rather than a line. No training study has
+compared it to anything [consensus — no single source]. Treat it as a hack squat variant, not a
+separate category.
+
+#### Leg press (sled)
+**Profile:** stretch-loaded. **Role:** high-volume quadriceps work with the trunk fully unloaded.
+
+*Setup.* Feet low and narrow on the platform for the largest knee share; high and wide shifts work to
+the hip and adductors. Do not let the pelvis curl off the pad at the bottom.
+*Range.* Reach at least 100° of knee flexion. Beyond that, going deeper did **not** produce more
+quadriceps growth over 8 weeks in trained lifters (Larsen et al., 2025b), so use the depth your pelvis
+stays flat at.
+*Evidence note.* The squat produced greater quadriceps activity and greater knee forces than either
+high or low foot-placement leg press (Escamilla et al., 2001b). That is an acute mechanical
+comparison, not a hypertrophy ranking (Part III §B.11).
+*Failure mode.* Pelvic tuck at the bottom, which loads the lumbar spine in flexion under compression.
+That, not depth itself, is the reason to limit range on a leg press.
+
+#### Smith-machine squat (fixed bar path)
+**Profile:** stretch-loaded, with the bar path fixed.
+*Note.* The fixed path decouples foot position from balance, which makes foot placement a deliberate
+control. **Feet placed back, under or slightly behind the bar line, force the shin forward and increase
+the knee's share; feet placed forward slope the shin backwards and hand the work to the hip.** The
+feet-forward Smith squat is a hip exercise, and using it as a quadriceps exercise is the single most
+common way this machine is set up wrong — it is the same mechanism as restricting knee travel in
+Part III §B.10, applied deliberately. In the one direct comparison available it grew **only** the central
+vastus lateralis region, while leg extension grew all three rectus femoris regions
+(Zabaleta-Korta et al., 2021) — which is a statement about squat patterns generally, not about the
+Smith machine specifically.
+
+#### Belt squat (hip-loaded)
+**Profile:** stretch-loaded, spine unloaded.
+*Role.* The answer when back fatigue is the binding constraint (Part III §C.5) — same pattern, no axial load.
+
+#### Goblet squat
+**Profile:** stretch-loaded, load-limited.
+*Role.* A teaching tool and a depth-finder, not a growth driver past the first few months. The
+counterweight in front makes an upright torso easy, which is why depth usually improves immediately.
+
+---
+
+### D.2 Split-stance and unilateral — same pattern, one leg
+
+#### Bulgarian split squat (rear foot elevated)
+**Profile:** stretch-loaded, with a long range.
+*Setup.* Front foot far enough forward that the shin can still travel; the further forward the foot,
+the more hip and the less knee. For quadriceps, keep the front foot **closer** than the common
+long-stance setup.
+*Failure mode.* The set ends on balance or on the rear leg (Part III §C.5). Hold a rack upright with one hand;
+it removes the balance limit and changes nothing mechanically.
+
+#### Walking and reverse lunge
+*Profile.* Stretch-loaded; reverse lunge is more knee-dominant than walking lunge at the same load.
+*Role.* Useful, limited by systemic fatigue and coordination rather than by quadriceps capacity.
+
+#### Step-up (box)
+*Profile.* Stretch-loaded at the bottom, torque falling steeply as you rise.
+*Note.* On a [step-up](#stepup), box height sets the knee angle. A high box gives depth; it also makes the bottom position
+balance-dependent.
+
+---
+
+### D.3 Knee-extension isolation — the rectus femoris category
+
+**This is the section that most programs are missing.** Everything in it holds the hip still, or holds
+it *extended*, while the knee works — which is the one condition under which the rectus femoris is
+actually loaded (Part III §B.4, Part III §B.5).
+
+#### Leg extension, reclined seat (hip nearer 40° than 90°)
+**Profile:** set by the machine's cam — check it (Part III §B.8). **Role:** the default rectus femoris exercise.
+
+*Setup.* Recline the backrest as far as the machine allows. Shin pad low on the ankle. Start at ~90°
+of knee flexion.
+*Execution.* Extend to about 10–20° short of lockout, hold nothing, return under control to the
+stretch.
+*Evidence note.* Over ten weeks, 40° of hip flexion produced greater rectus femoris hypertrophy than
+90° with "extreme" evidence by Bayes factor, and no difference in vastus lateralis
+(Larsen et al., 2025a). **Moderate evidence** — one trial, untrained men.
+*Failure mode.* Sitting bolt upright on a fixed-seat machine and assuming the head is being trained.
+It is being trained less.
+
+#### Leg extension, upright seat
+*Role.* Still a good vasti exercise and still better than nothing for rectus femoris. Twelve weeks of
+knee extension grew rectus femoris more than the vasti (Ema et al., 2013), and that study used a
+conventional seated machine.
+
+#### Long-length partial knee extension (100° → 65° of knee flexion)
+**Profile:** the deep half of the range only. **Role:** the highest-return partial in this document.
+
+*Evidence note.* Over twelve weeks in 45 untrained women, training only 100–65° produced greater
+relative hypertrophy than every other group at the proximal site (70% of femur length), and greater
+than the short-range, full-range and control groups at 50% and 60%; the short-range group (65–30°) was
+**no better than not training at all** at 60% and 70% (Pedrosa et al., 2022).
+*How to use it.* Not as a replacement for full-range work but as a way to add quadriceps volume
+cheaply — the deep half costs less fatigue per unit of stimulus than the shallow half is worth.
+*Caveat.* One study, untrained women, single-joint exercise. **Moderate evidence.**
+
+#### Sissy squat (hip extended)
+**Profile:** stretch-loaded with the hip **extended** — the profile the leg extension cannot produce.
+*Setup.* Knees travel forward, hips stay open, torso and thigh in one line, heels rising. Hold a rack
+or use a sissy-squat bench.
+*Why it matters.* Knee flexion lengthens rectus femoris below while an extended hip lengthens it
+above. Both at once is the longest position the head reaches in any exercise.
+*Evidence note.* No training study has measured rectus femoris hypertrophy from the sissy squat
+[consensus — no single source]. The mechanical case follows directly from Part III §B.4 and Part III §B.5; the outcome
+claim is **promising but under-replicated**.
+*Failure mode.* Loading it before the knees tolerate the position. Start with body weight and a
+partial range.
+
+#### Reverse Nordic curl
+**Profile:** stretch-loaded, hip extended, eccentric-dominant.
+*Setup.* Kneel upright, hips extended, lean backwards under control as far as you can return from.
+*Evidence note.* Twenty-six people trained the reverse Nordic eccentrically for eight weeks; rectus
+femoris fascicle length, muscle thickness, pennation angle and cross-sectional area all rose on
+ultrasound, and all reverted across four weeks of detraining (Alonso-Fernández et al., 2019).
+**Promising but under-replicated** — no control group, no comparison exercise, ultrasound-derived
+cross-sectional area. The fascicle-length change is the interesting part, because twelve weeks of
+conventional knee extension moved no fascicle length in any head (Part III §A.6); an eccentric-emphasis
+exercise at long muscle length is exactly where the architecture literature would predict it. Its
+practical advantage is that it needs no equipment; its practical disadvantage is that the load is your
+body mass and is not adjustable except by range and tempo.
+
+---
+
+### D.4 Exercises that are not quadriceps exercises
+
+| Exercise | Why people believe it is | Reality |
+|---|---|---|
+| Conventional deadlift | Legs are involved | Hip-extension dominant; knee angle changes little and the quadriceps' share is small |
+| Romanian deadlift | Front of the thigh is sore afterwards | The knee barely moves; this is a hamstring and glute exercise |
+| Hip thrust | Heavy, and the knee is bent | The knee angle barely changes, so the quadriceps works isometrically as a stabilizer at a fixed mid-range length — loaded, but never lengthening under load, which is what Part III §D.4's rule below excludes |
+| Leg curl | It is a leg machine | Trains the antagonist |
+| Calf raise | Knee is straight or bent | Trains the plantar flexors |
+| Wall sit at ~90° | It burns | A mid-range single-angle hold, where Part III §B.6 says tension per unit of demand is lowest, at a load you cannot adjust. Poor value for size — but a **deep**-position hold is a different exercise; see the rule below |
+
+**The general rule:** an exercise builds quadriceps size to the degree that it puts high tension on the
+muscle at long muscle length. Range of motion is the usual way to get there and it is the reliable one
+— but it is not the only one. Six weeks of isometric knee extension **held at long muscle length**
+produced quadriceps thickness gains comparable to full-range isotonic knee extension in 23 trained men
+and women, with a possible advantage at the proximal anterior thigh (Varovic et al., 2025b).
+**Promising but under-replicated** — one six-week within-participant trial, ultrasound thickness, wide
+credible intervals. What does not work is a hold in the mid-range, and what does not work at all is an
+exercise in which the quadriceps is loaded isometrically as a stabilizer while another joint does the
+moving — the hip thrust and the deadlift in this table.
+
+---
+
+### D.5 Selection rules
+
+1. **Pick one deep squat-pattern exercise you can progress and reproduce.** Hack squat, front squat, high-bar back squat or leg press. The order is a judgement about fatigue cost and depth reproducibility, not a measured hypertrophy ranking — the only direct comparison within the squat family found no difference in quadriceps growth (Enes et al., 2024). The one you can load, reach depth on, and repeat is the right one.
+2. **Pick one knee-extension exercise with the hip open.** Reclined leg extension is the practical default; sissy squat or reverse Nordic if you have no machine.
+3. **Add a second squat-pattern exercise only if there is volume left after those two.** A split-stance or unilateral movement is the usual choice.
+4. **Do not add a third squat-pattern exercise instead of the knee extension.** The evidence in Part III §B.4 says a third squat variant adds nothing the first two did not already cover, and the knee extension covers something neither of them does.
+5. **And do not replace the squat pattern with the knee extension either.** In the largest direct comparison, the squat beat the leg extension at the distal vastus lateralis by a margin comparable to the one by which the leg extension beat the squat at the rectus femoris (Kassiano et al., 2026). The two are complements, not competitors, and dropping either costs a specific, measured region.
+6. **Choose within a category by what limits the set,** not by what activates most. If your lower back caps the set, the supported version is the better exercise for you even if the free-weight version is "better" in the abstract.
+
+---
+## partiiiecontextmodifiers
+
+**PART E — Context modifiers: when "perfect" changes**
+
+Part III §C gives the default for hypertrophy in a healthy trained adult. This Part lists every
+context that changes it, and what it changes it to. Find the rows that describe you; they compose.
+
+---
+
+### E.1 Goal contexts
+
+| Context | What changes | Why |
+|---|---|---|
+| Hypertrophy only | The default in Part III §C, unchanged | — |
+| Hypertrophy plus a squat number | Low-bar back squat replaces high-bar as the main lift; add a knee extension to recover the knee share | The low-bar squat trades knee share for total load (Part III §D.1) |
+| Hypertrophy on limited time | Hack squat plus reclined leg extension. Two exercises cover the whole group | Covers vasti and rectus femoris with no redundancy (Part III §D.5) |
+| Rectus femoris specifically (the "teardrop down the middle") | The knee-extension exercise becomes the priority, performed with the hip near 40° | It is the only condition under which the head is loaded (Part III §B.5) |
+| Vastus medialis specifically (the "teardrop above the knee") | Nothing changes | No exercise preferentially loads it; it grows with the group. **Not supported** |
+| Fat loss phase | Volume held, load held, range held; expect maintenance rather than growth | Detail in `strength-and-body-composition.md` |
+| Strength and power for sport | Keep depth, add velocity-oriented work as a separate quality | Jump-squat training produced distal vastus growth where heavy squats produced proximal (Earp et al., 2015) |
+| Injury-resilient knees | Full range under progressive load, deliberately including deep flexion | Two narrative reviews of the same mechanical literature reach opposite conclusions and the question is **contested** (Part III §E.4); the training-outcome case for full range stands on its own (Part III §B.7) |
+
+---
+
+### E.2 Body contexts
+
+| Context | What changes | Why |
+|---|---|---|
+| Long femurs relative to torso | Expect a more forward-leaning squat at the same depth; prefer hack squat, front squat or leg press for the knee share | Geometry, not technique — the knee-to-load-line offset is harder to keep open |
+| Limited ankle dorsiflexion | Heel elevation 1.5–2.5 cm, or a sled-based exercise | Ankle is the depth limiter (Part III §C.3) |
+| Hip socket depth or femoral neck angle limiting flexion | Accept the depth at which the pelvis stays neutral; widen the stance and turn out the feet first | Skeletal, not trainable (Part III §C.3) |
+| Tall lifters generally | More total joint travel per rep; slightly lower rep targets often feel better | Longer levers, more work per rep at the same load |
+| Untrained | Almost anything works; establish depth and reproducibility before load | Most of the studies showing large effects used untrained participants |
+| Well trained (5+ years) | Expect small annual changes; exercise selection and depth discipline matter more than novelty | Larsen's leg-press null (2025b) was in lifters averaging 7.2 years of training |
+| Female | No change to the mechanics or the prescription | No quadriceps-specific sex difference in the response has been shown |
+| Older adults | Same pattern, more attention to control at the bottom and to warm-up volume | Detail in `strength-and-body-composition.md` |
+| Adolescent | Professional supervision; load the pattern, not the maximum | Growth-plate considerations are outside the scope of this document |
+| Large body mass | Machine-supported variants earlier in the session; body weight alone already loads the pattern heavily | Set termination shifts to the trunk and the joints sooner (Part III §C.5) |
+
+---
+
+### E.3 Equipment contexts
+
+| Context | Prescription | Note |
+|---|---|---|
+| Full gym | Hack squat or front squat, plus reclined leg extension | The default |
+| Barbell and rack only | High-bar back squat, plus sissy squat or reverse Nordic for the rectus femoris | The second exercise is the part people skip |
+| Machines only | Hack squat or leg press, plus leg extension | Loses nothing that matters for hypertrophy |
+| Dumbbells only | Goblet squat and Bulgarian split squat, plus reverse Nordic | Load becomes the limit before the quadriceps does |
+| Home, no equipment | Bulgarian split squat, sissy squat, reverse Nordic, slow tempo, high reps | The rectus femoris exercises are the ones body weight does *best* — they are body-weight movements by nature. **The load ceiling is real:** progress by adding a loaded backpack, elevating the front foot, slowing the eccentric, and then by long-length isometric holds (Part III §D.4). Without added load this becomes a maintenance prescription within a few months, not a growth one |
+| Bands only | Poor fit. Band tension is lowest at the bottom, which is exactly where demand should peak | Directly inverts the profile the quadriceps wants (Part III §B.8) |
+| Smith machine only | Feet placed forward of the bar path; deep range | The fixed path is an advantage here, unusually |
+| Blood flow restriction available | An option for adding volume at light load when joint stress is the limit | General treatment in `strength-and-body-composition.md`; no quadriceps-specific modification |
+
+---
+
+### E.4 Pain and pathology contexts
+
+**Nothing in this section is medical advice, and none of it substitutes for assessment.** It lists
+what is commonly modified and why, so that a conversation with a clinician starts further along.
+
+| Context | Common modification | Evidence note |
+|---|---|---|
+| [Patellofemoral pain](#patellofemoralpain) | Reduce depth to the pain-free range temporarily; add hip-focused work alongside knee work; rebuild depth progressively | Hip-plus-knee and hip-only programmes were comparably effective and **both beat knee-only programmes** (Manojlović et al., 2021) — the hip work is the part usually missing, not the knee work |
+| [Patellar tendinopathy](#patellartendinopathy) | Slow, heavy, progressive loading through both phases of the rep; do not rest it, and do not isolate the eccentric | Heavy-slow resistance has more supporting evidence than isolated eccentric loading in the patellar tendon, and is the only loading type associated with imaging and collagen-turnover change (Malliaras et al., 2013). **Moderate evidence** |
+| Knee crepitus without pain | Nothing | Painless noise is not a finding |
+| [Knee osteoarthritis](#kneeosteoarthritis) | Quadriceps strengthening in the tolerated range; depth guided by symptoms | The review arguing that deep flexion is not inherently harmful studied **healthy** knees (Hartmann et al., 2013); it does not transfer to a degenerate joint, and individual assessment governs |
+| After [ACL reconstruction](#aclreconstruction) | Governed by the surgical protocol and the clinician, not by this document | Anterior cruciate ligament tension was present only in open-chain knee extension and only near full extension; the squat and leg press produced none (Escamilla et al., 1998) |
+| PCL injury | Deep squatting is the position of highest PCL tension; discuss before loading | PCL tensile forces rose with knee flexion in the squat, and were greater in the squat than either leg press variant (Escamilla et al., 2001b) |
+| Low back pain limiting squats | Belt squat, hack squat, leg press, leg extension | Removes axial load without changing the pattern (Part III §C.5) |
+| Hip impingement symptoms at depth | Narrower or wider stance, more foot turnout, less depth; a sled-based exercise if the pain is position-specific | Reproduce the position, then avoid it, then rebuild it |
+
+**The one place the literature genuinely disagrees, stated as such.** Whether deep squatting is
+appropriate for healthy knees is **contested**. A review of squat knee biomechanics recommended the
+parallel squat over the deep squat for healthy athletes, on the grounds that injury potential to the
+menisci and cruciate and collateral ligaments may increase with depth (Escamilla, 2001). A later
+review reached the opposite conclusion, arguing that the wrapping effect and the enlarging
+retropatellar contact area *reduce* stress past 90°, that peak retropatellar compressive stress
+occurs at about 90° rather than deeper, and that half squats with correspondingly supramaximal loads
+are the greater long-term risk (Hartmann et al., 2013). Both are narrative reviews of the same
+mechanical literature, and neither can settle it on current data — the later review says as much,
+noting there are no realistic estimates of knee-joint forces beyond about 50° of knee flexion in a deep
+squat (Hartmann et al., 2013). Past that angle both sides are extrapolating from models rather than
+comparing measurements. **This document sides with neither in the abstract**; it notes that the
+hypertrophy evidence in Part III §B.7 does not require depth past ~110° anyway, which makes the disagreement
+largely moot for the purposes of Part III.
+
+---
+
+### E.5 Sport contexts
+
+**This table is coaching synthesis, not evidence** [consensus — no single source]. No study has
+compared quadriceps prescriptions between sports.
+
+| Sport | Modification | Reason |
+|---|---|---|
+| Powerlifting | Low-bar squat as the main lift; quadriceps accessories separate | Specificity of the competition lift |
+| Weightlifting | Front squat and deep high-bar squat; full depth mandatory | The sport requires the receiving position |
+| Cycling | Emphasize the deep half of the range; the sport supplies enormous shallow-range volume | Pedalling never approaches deep knee flexion under load |
+| Running and endurance | Moderate volume, full range, eccentric control | Interference and recovery cost dominate the decision |
+| Team sports (field) | Squat pattern plus unilateral work; keep depth | Change of direction loads one leg at a time |
+| Alpine skiing | Deep range, long time under tension, isometric tolerance | The sport's demand is sustained deep-knee loading |
+| Combat sports | Squat pattern; manage total fatigue tightly | Weight-class and session-density constraints |
+| Basketball and jumping sports | Keep heavy squats; add jump-squat work as a separate quality | The two loading types grew different regions (Earp et al., 2015) |
+| Physique competition | Both categories in Part III §D, with rectus femoris explicitly programmed | The visible front-of-thigh separation is largely rectus femoris |
+
+---
+
+### E.6 Session and cycle contexts
+
+| Context | What changes |
+|---|---|
+| Quadriceps first in the session | The default when the quadriceps is the priority |
+| Quadriceps after deadlifts or heavy hip work | Move to supported variants; the lower back is already spent (Part III §C.5) |
+| Two quadriceps sessions per week | Split the categories: squat pattern in one, knee extension emphasis in the other |
+| Late in a training block | Depth discipline degrades first — audit it before adding load |
+| [Deload](#deload) week | Hold depth, reduce sets and load. Never shorten the range to make a deload easier |
+| Returning from a layoff | Expect strength back well before size; rebuild depth before rebuilding load |
+| In a caloric deficit | Hold hard sets and range; accept slower progression |
+
+---
+
+### E.7 The context decision table
+
+The fastest route to a prescription: read down until you find the first row that is true of you, apply
+it, then continue.
+
+| If this is true | Then |
+|---|---|
+| Knee pain reproduces in a specific position | Stop here. Assessment first (Part III §E.4) |
+| Your lower back ends your squat sets | Supported variants for most of the volume (Part III §C.5) |
+| You cannot reach 90° of knee flexion under load | That is the whole problem. Fix the limiter in Part III §C.3 |
+| You train only squat-pattern exercises | Add a knee extension with the hip open (Part III §D.3). Largest available gain |
+| You train squats and leg extensions and are stalled | Audit depth (Part III §C.2 error 1), then add volume (Part III §F.1) |
+| You have two exercises and enough volume, and are stalled | Check [proximity to failure](#proximitytofailure) (Part III §F.4) and progression (Part III §F.5) |
+| None of the above | You are on the default. Progress it (Part III §F.5) |
+
+---
+## partiiifprogramming
+
+**PART F — Programming**
+
+Nothing here is quadriceps-specific except where stated; the general dose–response evidence lives in
+`strength-and-body-composition.md` and is summarized rather than re-derived.
+
+### F.1 Volume
+
+Counted as [hard sets](#hardset) per week that load the quadriceps directly — the operationalization
+used throughout Part III.
+
+| Training age | Weekly hard sets for the quadriceps | Note |
+|---|---|---|
+| Beginner | 6–10 | Two exercises is enough |
+| Intermediate | 10–18 | The productive middle for most people |
+| Advanced | 14–22 | Recovery, and specifically lower-back and connective-tissue recovery, is the limiter |
+| Maintenance or deficit | 4–6 | Hold load and depth, cut sets |
+
+**A quadriceps-specific caution about the top of that range.** Resistance-trained individuals who
+could squat more than twice body mass were assigned 12, 18 or 24 weekly lower-body sets for eight
+weeks. Anterior thigh muscle thickness increased in all three groups with **no difference between
+them**, and the middle dose produced the largest raw squat 1RM increase — though that
+group-by-time interaction was a **non-significant trend** (p = 0.052), not a finding
+(Aube et al., 2022).
+**Moderate evidence** — one trial, eight weeks, thirty-five participants. It does not overturn the
+general dose–response curve; it is a reminder that this muscle group's sets are expensive, and that
+the systemic cost of a squat set is not comparable to the cost of a pulldown set.
+
+**Two counting rules specific to this muscle group:**
+
+- **Count squat-pattern sets and knee-extension sets in the same currency**, but do not assume they are interchangeable. Twenty squat sets and zero knee-extension sets is not the same prescription as fourteen and six, and Part III §B.4 says the second one trains more of the group.
+- **Deadlifts, hip thrusts and leg curls do not count** (Part III §D.4).
+
+---
+
+### F.2 Frequency
+
+**2×/week is the default.** [Frequency](#trainingfrequency) mostly distributes volume rather than
+adding an independent stimulus, and for this muscle group the practical argument for splitting is
+that per-session quality *is* depth quality, which degrades with fatigue faster here than almost
+anywhere else.
+
+1×/week works at low volumes and is common for lifters whose squat sessions are systemically
+expensive. 3×/week is useful at high volumes, and works best when the sessions differ in category —
+squat pattern, knee extension, unilateral — rather than repeating the same one.
+
+---
+
+### F.3 Load and rep range
+
+The general finding is in Part II §F.3: roughly 5–30 reps produces similar hypertrophy if sets are
+taken close to failure, with a floor below which very light loads underperform. Three considerations
+specific to the quadriceps narrow the practical band:
+
+- **Below ~5 reps on a free squat**, depth degrades before the muscle is meaningfully closer to failure, and the trunk becomes the limiter. This is a strength rep range, and it is a fine one — it is just not the efficient way to grow a group with 86 cm² of PCSA.
+- **Above ~15 reps on a free squat**, breathing and [effort tolerance](#efforttolerance) end the set rather than the quadriceps (Part III §C.5). On a supported machine that ceiling is much higher, which is one of the main reasons to use one.
+- **The knee-extension slot tolerates higher reps well**, because nothing systemic limits it.
+
+| Slot | Reps | Note |
+|---|---|---|
+| Main squat-pattern exercise | 6–12 | Depth is the constraint that sets the load |
+| Second squat-pattern or unilateral | 8–15 | Systemic fatigue is the constraint |
+| Knee extension, full range | 10–20 | No systemic limit; take it close to failure |
+| Long-length partial knee extension | 12–25 | Cheap volume; the deep half only (Part III §D.3) |
+
+**[Tempo](#tempo) is primarily a range control here, not a stimulus variable.** A 2–3 s descent exists
+to make the deep position a loaded position rather than a rebound, which is the entire mechanical
+argument of Part III §B.6. There is a hint it does more: seven weeks of squats with a 4 s eccentric beat
+the same squats with a 1 s eccentric for squat strength, and the authors report a vastus lateralis
+hypertrophy advantage alongside it (Kojic et al., 2024). **Promising but under-replicated** — eighteen
+untrained participants, against a meta-analysis finding 0.5–8 s repetition durations equivalent in
+general. Take the 2–3 s descent for the range-control reason and treat anything further as a bonus.
+
+---
+
+### F.4 Proximity to failure
+
+The general finding is in Part II §F.4 and holds here. The direct quadriceps test is worth stating
+because it used exactly the two exercises in Part III §D: resistance-trained men and women trained one limb to
+momentary failure and the other at 2-RIR on the leg press and 1-RIR on the leg extension, twice weekly
+for eight weeks. **Quadriceps thickness increased essentially identically** — 0.181 cm versus 0.182 cm
+— while velocity loss and repetition loss were consistently greater in the failure condition
+(Refalo et al., 2024).
+
+| Exercise type | Target [RIR](#rir) |
+|---|---|
+| Leg extension, leg press, hack squat | 0–2 on the last set, 1–3 earlier |
+| Free barbell squat | 2–3 always; depth and the trunk are the limiters, not the quadriceps |
+| Bulgarian split squat and unilateral work | 1–3; balance degrades before the muscle does |
+| Sissy squat and reverse Nordic | 2–4; the eccentric load is high and the position is unforgiving |
+
+**One interaction the table hides.** A free squat capped at 2–3 RIR is a less potent set than a
+machine set at 0–1 RIR, so an advanced lifter running 22 weekly sets with half of them on a free squat
+is doing less effective volume than the number suggests. That is a reason to put the near-failure work
+on the supported exercises and count the free squat as the strength and skill component — not a reason
+to take the free squat closer to failure.
+
+**The quadriceps-specific rule that overrides the table:** if the next repetition would be shallower
+than the first, the set is over. Depth is the stimulus (Part III §B.7), and a shallower rep is a different
+exercise, not a harder one.
+
+---
+
+### F.5 Progression
+
+```
+QUADRICEPS PROGRESSION - DEFAULT
+  Load          2.5-5 kg increment, squat pattern
+                1.25-2.5 kg increment, leg extension
+  Tempo         2-3 s descent / 1-2 s ascent, held constant
+  Sets/reps     3-4 x 6-12 squat pattern | 3-4 x 10-20 knee extension
+  Rest          2-3 min squat pattern / 1.5-2 min knee extension
+  Total         10-18 hard sets per week
+  Frequency     2x/week
+  Timeline      8-12 wks to measurable change; 6-12 months to visible change
+```
+
+The scheme is [double progression](#doubleprogression) applied to load and repetitions: fill the rep
+range at a fixed load at the target RIR, then add one increment and drop to the bottom of the range.
+Raise weekly sets only once the session is at the top of the Part III §F.1 band for your training age,
+and reassess the whole prescription every 8–12 weeks.
+
+**The one rule that is different from every other muscle in this document.** Depth is not something
+you progress; it is something you hold fixed while everything else progresses. A load increase bought
+by 10° of lost depth is a reduction in stimulus recorded in the logbook as an increase. Film one set
+from the side every few weeks; it is the only reliable audit, because the feeling of depth changes
+with fatigue and the actual depth does not follow it.
+
+---
+
+### F.6 Session templates
+
+Every template contains one squat-pattern exercise and one knee-extension exercise, for the reason in
+Part III §D.5.
+
+```
+TEMPLATE A - TWO SESSIONS, INTERMEDIATE, ~15 SETS/WEEK
+  Session 1     Hack squat            4 x 6-10   @ 1-2 RIR
+                Reclined leg ext.     3 x 12-20  @ 0-1 RIR
+  Session 2     High-bar back squat   3 x 6-10   @ 2-3 RIR
+                Bulgarian split squat 3 x 8-12   @ 1-2 RIR
+                Long-length leg ext.  2 x 15-25  @ 0-1 RIR
+```
+
+```
+TEMPLATE B - ONE SESSION, TIME-LIMITED, ~8 SETS/WEEK
+  Session 1     Hack squat            4 x 6-10   @ 1-2 RIR
+                Reclined leg ext.     4 x 12-20  @ 0-1 RIR
+```
+
+```
+TEMPLATE C - BARBELL AND RACK ONLY, ~12 SETS/WEEK
+  Session 1     Front squat           4 x 6-10   @ 2 RIR
+                Sissy squat           3 x 8-15   @ 2-3 RIR
+  Session 2     High-bar back squat   3 x 8-12   @ 2 RIR
+                Reverse Nordic curl   2 x 6-12   @ 2-3 RIR
+```
+
+```
+TEMPLATE D - LOWER BACK IS THE LIMITER, ~14 SETS/WEEK
+  Session 1     Leg press             4 x 8-12   @ 1-2 RIR
+                Reclined leg ext.     3 x 12-20  @ 0-1 RIR
+  Session 2     Belt squat            4 x 8-12   @ 1-2 RIR
+                Long-length leg ext.  3 x 15-25  @ 0-1 RIR
+```
+
+---
+
+### F.7 Timeline, measurement and expectations
+
+| Horizon | What to expect |
+|---|---|
+| Weeks 1–3 | Strength rises, depth improves, size does not change. Early strength gain is neural |
+| Weeks 4–8 | Strength and depth still improving; thickness change is usually below what ultrasound can resolve. Pooled across ten training studies, quadriceps thickness effects reached significance only **after** eight weeks (Soares et al., 2024) |
+| Weeks 8–16 | The window in which the training studies in Part III §B.7 detected 4–7% cross-sectional-area differences. Averaged across those same ten studies, resistance training raised quadriceps thickness ~16.6% (Soares et al., 2024) |
+| Months 6–12 | Regional differences between programs become visible; rectus femoris development separates lifters who trained it from lifters who did not |
+| Years | Diminishing annual returns; depth discipline and exercise coverage matter more than any new method |
+
+**How to measure, and what not to trust.** The measurement caveats in Part II §F.7 apply without
+modification, and the quadriceps is where they bite hardest, because thigh girth responds to fat
+mass, to glycogen and to the hamstrings and adductors at the same time. A tape at mid-thigh is nearly
+useless alone. Ultrasound thickness at a single site is unreliable for judging an individual's
+eight-week change. **The measurement that actually works for this muscle group is a photograph from
+the front and the side, in the same light and the same position, every eight weeks** — plus load at
+fixed depth in the logbook, which is a training-quality record rather than a size measurement.
+
+**One region-specific warning.** A single measurement site cannot represent a quadriceps, because the
+evidence in Part III §A.6 says the region that grows depends on the exercise — one site does not fit
+all (Nunes et al., 2024). Measuring only mid-thigh will under-report a program that produced distal
+growth, and vice versa. This is also the practical reason the templates in Part III §F.6 pair a squat
+pattern with a knee extension: the two grow different regions, and a single-site measurement of a
+single-exercise program will mislead you about both.
+
+---
+## partiiigsynthesis
+
+**PART G — Synthesis**
+
+### G.1 The rules that hold
+
+1. **The quadriceps is a force muscle.** Fifteen times the latissimus dorsi's cross-section, one third its fascicle length (Part III §A.4). Load first, range second — the inverse of Part II.
+2. **Depth is a threshold, not a dose.** Reach roughly 90–110° of knee flexion under load and you have collected nearly all of the depth effect (Part III §B.7).
+3. **Every squat-pattern exercise is already stretch-loaded.** Peak torque demand arrives at the bottom without any setup trick (Part III §B.8).
+4. **The last 10–20° toward a locked knee is joint stress with almost no stimulus** (Part III §B.6).
+5. **Squatting trains the rectus femoris far less than it trains the vasti** — at any load, at any depth, at any proximity to failure (Part III §B.4). Seven studies, six laboratories, three measurement methods, with one dissent recorded.
+6. **Rectus femoris is trained by knee extension with the hip open**, and hip angle is the variable that governs it (Part III §B.5). Note the evidence tests 40° of hip flexion against 90°, not full hip extension against 90° — "open" means reclined, not lying flat.
+7. **A complete prescription is therefore two exercises, not one** — one deep squat pattern and one open-hip knee extension (Part III §D.5).
+8. **Depth is held constant while load progresses**, never traded for it (Part III §F.5).
+9. **Restricting forward knee travel makes a squat a worse quadriceps exercise** and a heavier hip and back exercise (Part III §B.10).
+10. **What ends the set decides which exercise you should be doing.** If the trunk or balance ends it, use the supported version (Part III §C.5).
+
+---
+
+### G.2 What the evidence does **not** support
+
+| Claim | Status |
+|---|---|
+| "Squats train the whole quadriceps" | **Not supported.** No rectus femoris hypertrophy after 8 weeks of heavy squats and jump squats (Earp et al., 2015); rectus femoris volume did not change after 10 weeks of squatting at either 140° or 90° of knee flexion, while the knee extensors as a whole grew ~5% (Kubo et al., 2019) |
+| "Deeper is always better" | **Not supported** as a continuum. Leg press to 154° produced no more growth than to 100° (Larsen et al., 2025b). Depth matters until it does not |
+| "You can target the vastus medialis oblique" | **Not supported.** Whether it is even a distinct structure is unresolved (Smith et al., 2009), and no exercise has been shown to grow it preferentially |
+| "Knees should not pass the toes" | **Not supported** for hypertrophy. It transfers load to the hip and back (Fry et al., 2003) |
+| "Deep squats damage the knees" | **Contested**, and the two sides are named in Part III §E.4. Not a settled prohibition either way |
+| "Leg extensions are dangerous for the knee" | **Not supported** for a healthy knee — but not for the reason usually given. Anterior cruciate ligament tension *is* present in open-chain knee extension and absent in the squat and leg press, and it occurs near full extension (Escamilla et al., 1998). A healthy ligament tolerates it; the open-chain restriction is a graft-protection rule from post-ACL-reconstruction protocols, and it applies to the shallow end of the range rather than to the exercise |
+| "Toes out or toes forward changes which part of the quadriceps is trained" | **Not supported.** No differences in activity or knee forces between foot angles (Escamilla et al., 2001b) |
+| "High reps build the 'inner' quad, low reps the 'outer'" | **Not supported.** No evidence of rep-range-specific regional targeting within a head |
+| "Feeling it more means training it more" | **Not supported.** Subjective sensation did not track the MRI measure of which region was worked (Mitsuya et al., 2023) |
+| "Fibre type should set your rep range" | **Not supported** (Part III §A.7, Part II §A.6) |
+| "More sets always means more growth for legs" | **Moderate evidence** against, in trained lifters at this dose. 12, 18 and 24 weekly sets produced statistically indistinguishable anterior-thigh thickness change in people squatting over twice body mass (Aube et al., 2022) — one 8-week trial in 35 participants, not a refutation of the general dose–response curve |
+| "You must train to failure to grow quadriceps" | **Not supported.** 0-RIR and 1–2-RIR produced identical quadriceps thickness change (Refalo et al., 2024) |
+
+**Two open questions this document cannot close.** No study has titrated [squat depth](#squatdepth) in fine steps
+against quadriceps hypertrophy, so the ~90–110° threshold in Part III §B.7 is inferred across studies rather
+than measured within one. And no training study has measured rectus femoris hypertrophy from a
+sissy squat — the exercise whose mechanics best fit what Part III §B.5 says the head needs. The reverse
+Nordic has been measured once, without a control group (Alonso-Fernández et al., 2019), which is not
+enough to rank it against a reclined leg extension. Both gaps are answerable with existing methods, and
+neither has been answered properly.
+
+---
+
+### G.3 The one-paragraph version
+
+The quadriceps is a large, short-fibred, high-force group with one job: straightening the knee. Load
+it heavily through a deep knee bend — anything that reaches roughly 90–110° of knee flexion with the
+resistance peaking there, which every squat, hack squat and leg press already does — and stop short of
+locking out, where the stress is high and the stimulus is not. Hold depth constant and progress load
+against it, never the reverse. Then add the exercise that no squat can substitute for: a knee
+extension performed with the hip open rather than folded, because three of the four heads answer to
+the knee alone but the fourth crosses the hip, and every squat you have ever done shortened it at one
+end while lengthening it at the other. Two exercises, twice a week, ten to eighteen hard sets, taken
+near enough to failure that the last repetition is genuinely difficult but not so near that the next
+one would be shallower. That is the whole prescription; everything above it is the reason each clause
+is there.
+
+---
+
+# partivglutealmuscles
+
+**Part IV — Gluteal Muscles**
+
+> Scope: the anatomy, mechanics, technique, exercise selection, context modifiers and programming
+> for maximal [hypertrophy](#hypertrophy) of the [gluteus maximus](#gluteusmaximus), together with the
+> [gluteus medius](#gluteusmedius) and [gluteus minimus](#gluteusminimus) that sit beneath and beside
+> it. Almost everything here also loads the [hamstrings](#hamstrings) and the
+> [adductor magnus](#adductormagnus), which are hip extensors in their own right, and much of it loads
+> the [quadriceps femoris](#quadricepsfemoris) — the share set by how much the knee bends while the hip
+> does. **General education only.** Lateral hip pain, deep buttock pain, groin pain that catches at
+> depth, and any hip diagnosis are assessment problems before they are programming problems — see
+> Part IV §E.4.
+>
+> **Angle convention, fixed for the whole Part.** Hip angle is measured as **flexion from a straight
+> body line**: 0° is standing upright, 90° is sitting upright, and roughly 110–125° is the bottom of a
+> deep squat. Knee angle keeps the convention of Part III — **flexion from full extension**, where 0°
+> is a straight leg. Every angle below uses these two conventions and no others.
+
+---
+
+## partivaanatomyandarchitecture
+
+**PART A — Anatomy and Architecture**
+
+### A.1 What the gluteal muscles are
+
+Three muscles stacked on the back and side of the [pelvis](#pelvis), running from the pelvis to the
+top of the thigh bone. The largest sits on the surface and drives the thigh backwards. The two beneath
+it run out to the side and hold the pelvis level when you stand on one leg.
+
+The big one — the gluteus maximus — is **the heaviest single muscle in the human body**, and the fact
+that dictates everything below is that it spends that mass in an unusual way. It is not built like the
+[latissimus dorsi](#latissimusdorsi), which bought a long reach with almost no force. It is not built
+like the [quadriceps femoris](#quadricepsfemoris), which bought enormous force with almost no reach. It
+bought **both**, and it is the only muscle in this document that did.
+
+The second fact is that it does not have its job to itself. Straightening the hip is shared work: the
+hamstrings and the adductor magnus do it too, and how much of it lands on the gluteus maximus depends
+on what the knee is doing at the same time. Almost every practical disagreement about gluteal training
+is a disagreement about that share.
+
+---
+
+### A.2 Attachments — the map you load
+
+| Muscle | Origin (fixed end) | Insertion | Nerve | Practical note |
+|---|---|---|---|---|
+| [Gluteus maximus](#gluteusmaximus) | Posterior ilium of the [pelvis](#pelvis) behind the posterior gluteal line, the [sacrum](#sacrum), the coccyx, the [sacrotuberous ligament](#sacrotuberousligament), the [thoracolumbar fascia](#thoracolumbarfascia) and the erector spinae [aponeurosis](#aponeurosis) | Superficial ~¾ into the [iliotibial tract](#iliotibialtract); deep ~¼ into the gluteal tuberosity of the [femur](#femur) | [Inferior gluteal](#inferiorglutealnerve) (L5–S2) | The only major muscle producing [hip extension](#hipextension) with a fascial origin *and* a partly fascial insertion — **contested** how much of it reaches the femur directly (Part IV §A.5) |
+| [Gluteus medius](#gluteusmedius) | Outer surface of the ilium between the posterior and anterior gluteal lines | [Greater trochanter](#greatertrochanter), lateral facet | [Superior gluteal](#superiorglutealnerve) (L4–S1) | The primary [hip abductor](#hipabduction) and the muscle that stops the pelvis dropping in single-leg stance |
+| [Gluteus minimus](#gluteusminimus) | Outer ilium between the anterior and inferior gluteal lines | Greater trochanter, anterior facet | Superior gluteal | Deep to the medius, largely hidden from surface measurement; abductor and hip-joint stabilizer |
+| [Tensor fasciae latae](#tensorfascialatae) | Anterior iliac crest and anterior superior iliac spine of the [pelvis](#pelvis) | Iliotibial tract | Superior gluteal | Not a gluteal muscle, but shares the iliotibial tract with the gluteus maximus and the nerve with the other two |
+
+**Read the first row twice, because it is the unusual one.** Every other muscle in this document runs
+bone to bone. The gluteus maximus runs **fascia and ligament to fascia**, with bone at only part of
+each end. Dissection of eleven embalmed limbs found fascicles arising from the gluteus medius fascia,
+the ilium, the thoracolumbar fascia, the erector spinae aponeurosis, the sacrum, the coccyx, and the
+dorsal sacroiliac and sacrotuberous ligaments — **in every specimen** (Barker et al., 2014). That is
+not an anatomical curiosity. It is why this muscle appears in Part II's
+[posterior oblique sling](#posteriorobliquesling), why its contraction compresses the sacroiliac joint,
+and why "glutes" and "lower back" are not the cleanly separable training targets that "quadriceps" and
+"hamstrings" are.
+
+---
+
+### A.3 The two halves of the gluteus maximus
+
+The muscle is usually described as having an upper and a lower portion, and the description earns its
+keep for one geometric reason: **the hip's front-to-back axis of rotation runs through the middle of
+the muscle.**
+
+- Fibres passing **above** that axis produce hip extension **and abduction**, and they are the ones that insert into the iliotibial tract.
+- Fibres passing **below** it produce hip extension **and adduction**, and they carry most of the femoral attachment.
+- Both halves **externally rotate a hip that is near straight**, which is why a gluteal contraction in standing has a turning-out component you can feel. **Contested at depth:** in the only direct measurement of hip rotation moment arms across flexion angles, the anterior compartments of the gluteus maximus reverse to *internal* rotation as the hip folds, and the posterior compartments keep external rotation with a shrunken moment arm — a trend shared by 15 of the 18 hip compartments measured (Delp et al., 1999). The authors flag that their method may understate external rotation for this muscle. Treat external rotation as an action of the upright hip, not of the deep one.
+
+**What the split does and does not license.** It licenses the claim that hip abduction loads the upper
+portion in a way that pure sagittal-plane hip extension does not — and, with the hip near straight,
+external rotation too. It does
+**not** license the reverse: no exercise has been shown to load the lower portion preferentially,
+because every hip extension exercise loads both (Krause Neto et al., 2025). And it does not license
+reading acute regional [EMG](#emg) as a prediction of where growth will land — see Part IV §B.11.
+
+**Where growth landed, when it was measured.** The only trial to measure three gluteal sites found no
+detectable between-exercise difference at any of them after nine weeks of squatting or hip thrusting,
+and its largest point estimate — favouring the hip thrust — was at the **lower** site, which is where
+the upper-portion EMG numbers predicted the smallest difference (Plotkin et al., 2023). **Moderate
+evidence** — one trial, 34 untrained participants, three measurement sites, and every estimate smaller
+than its own confidence interval.
+
+---
+
+### A.4 Architecture — the only muscle here that is both
+
+This is the single most consequential fact in Part IV. Measured by disassembly of 21 human lower
+extremities (Ward et al., 2009a):
+
+```
+HUMAN GLUTEAL MUSCLES - MEASURED ARCHITECTURE (mean +/- SD)
+                            Mass      Muscle    Fascicle   Sarcomere  Pennation   PCSA     Lf/Lm
+                            (g)       len(cm)   len(cm)    len(um)    (deg)       (cm2)
+  Gluteus maximus (n=18)    547.2     26.95     15.69      2.60       21.9        33.4     0.62
+  Gluteus medius  (n=16)    273.5     19.99      7.33      2.40       20.5        33.8     0.37
+  ----------------------------------------------------------------------------------------------
+  For scale, same study, same specimens:
+  Vastus lateralis          375.9     27.34      9.94      2.14       18.4        35.1     0.38
+  Adductor magnus           324.7     37.90     14.44      2.19       15.5        20.5     0.39
+  Soleus                    275.8     40.54      4.40      2.12       28.3        51.8     0.11
+  Rectus femoris            110.6     36.28      7.59      2.42       13.9        13.5     0.21
+```
+
+Read the gluteus maximus row against the two beneath it. The soleus bought its 51.8 cm² of
+[PCSA](#pcsa) by making its fascicles 4.4 cm long. The [rectus femoris](#rectusfemoris) has fascicles
+nearly twice as long and a quarter of the cross-section. **The gluteus maximus has more mass than any
+other muscle in the table, a cross-section within 5% of the vastus lateralis, and fascicles more than
+half again as long as any quadriceps head.** It did not make the trade.
+
+The number that states this most compactly is the last column. The **fascicle-to-muscle-length ratio**
+is what fraction of a muscle's length is actually contractile rather than tendon and
+[aponeurosis](#aponeurosis). For the quadriceps heads it runs 0.21–0.38. For the soleus it is 0.11.
+For the gluteus maximus it is **0.62** — the highest of any large muscle measured. Almost two thirds
+of this muscle's length is muscle.
+
+> Maximum isometric force ≈ PCSA × [specific tension](#specifictension)
+> ≈ 33.4 cm² × ~22.5 N·cm⁻² ≈ **~750 N**, or × ~45 N·cm⁻² ≈ **~1,500 N**
+>
+> As in Part III §A.4, these are forces **along the tendon**: the pennation cosine is already inside
+> the PCSA figure and must not be applied a second time.
+
+**Interpretive caution — four things about this block.** The pennation figure for the gluteus maximus
+is 21.9 ± **26.2**°, a standard deviation larger than the mean, which means the measurement did not
+resolve a consistent fibre angle across specimens; treat it as "appreciably pennated, quantity
+unsettled" rather than as 21.9°. The specimens were elderly cadavers (83 ± 9 years) whose PCSAs the
+authors expect to be **smaller** than a living adult's. The sarcomere length of 2.60 µm was measured
+with the hip near neutral, and the authors specifically flag that their fixation position made the
+sarcomere-length data more trustworthy for the hip *flexors* than for the hip *extensors* — so the
+force–length inference in Part IV §B.3 rests on a weaker measurement than the mass and length figures
+do. And the between-specimen spread is large: ±162 g on a 547 g mean. Two further points inherited from
+Part III §A.4: the fascicle lengths are normalized to a 2.7 µm reference sarcomere length, which makes
+muscles comparable to one another rather than describing any one limb — the gluteus maximus's own
+measured sarcomere length was 2.60 µm, so its fascicles at the position measured were nearer 15.1 cm
+than 15.7 cm. And **the slack-fixation problem covers the abductors as well as the extensors**: Ward's
+sentence names the hip extensors, hip abductors, knee extensors and ankle plantarflexors as slack, so
+the gluteus medius's 2.40 µm is exactly as weak a number as the maximus's 2.60 µm, and its pennation
+figure of 20.5 ± 17.3° has the same mean-swamped-by-standard-deviation problem.
+
+**What this dictates:**
+
+| Architectural fact | Training consequence |
+|---|---|
+| Largest mass of any single muscle (~547 g) | There is a great deal here to grow, and it will not be grown by an accessory dose |
+| Large PCSA (~33 cm²), comparable to vastus lateralis | Force capacity is high; light loads under-stimulate it, whatever the burn suggests |
+| Long fascicles (~15.7 cm) — longest of any large lower-limb muscle | Very large active [excursion](#excursion); **range matters here as much as load does** |
+| Lf/Lm ratio 0.62, the highest of any muscle in the limb above 100 g | Little in-series tendon to absorb the excursion — joint range translates almost directly into fibre length change |
+| Gluteus medius PCSA (33.8 ± 14.4 cm²) is of the same order as the maximus's (33.4 ± 8.8 cm²) | The abductor is not a small muscle; it is simply short-fibred, and it answers to a different joint action entirely |
+
+The rule that comes out of this table, and which the rest of Part IV elaborates:
+**the gluteus maximus is the one muscle in this document that needs load and range at the same time.**
+Part II's rule was range first. Part III's rule was load first. Here neither substitutes for the other,
+and the exercises that fail are the ones that supply only one.
+
+---
+
+### A.5 The iliotibial tract — the insertion that is partly not on the bone
+
+Some large part of the gluteus maximus delivers its force into fascia rather than onto bone. **How
+large is contested, and the textbook answer is now under direct challenge.** The classical description
+— the upper three quarters of the muscle, plus the superficial fibres of the lower quarter, blending
+into the [iliotibial tract](#iliotibialtract), and the deep fibres of the lower quarter reaching the
+gluteal tuberosity of the [femur](#femur) — has stood for a century [consensus — no single source]. A
+re-dissection of 25 cadavers reversed it: the superior three quarters formed a plate-like tendon
+inserting **mostly into the gluteal tuberosity**, with only partial adhesion to the iliotibial tract,
+and the authors argue that kinesiological data on this muscle should be reinterpreted accordingly
+(Anetai et al., 2025). **Contested** — one recent study in one population against a long-standing
+consensus, not yet replicated.
+
+What is not in dispute is that a real fraction of this muscle's force reaches the
+[iliotibial tract](#iliotibialtract) — the thick fascial band running down the outside of the thigh to
+the [tibia](#tibia) — rather than the femur directly. Three consequences follow from that alone, and
+only the first is obvious.
+
+1. **The muscle's line of pull on the femur is partly indirect.** Force delivered into the iliotibial tract acts on the whole thigh's fascial envelope and reaches the tibia, not just the femur — which is why gluteal force has effects at the knee that no gluteal exercise is aimed at. **How much force takes that route is the part Anetai et al. dispute.**
+2. **Its force is shared with the [tensor fasciae latae](#tensorfascialatae)**, which pulls the same band from the front. The two act as opposing tensioners of one structure, which is the anatomical basis of the lateral hip problems in Part IV §E.4.
+3. **The proximal end compresses the sacroiliac joint.** Seventy per cent of the muscle's [PCSA](#pcsa) arises from attachments that cross that joint, and the maximum force those attachments could generate was estimated at 891 N per side (range 572–1,215), of which 702 N (range 450–1,009) could act perpendicular to the joint's plane (Barker et al., 2014). **Moderate evidence** — a cadaveric estimate of *capacity* in eleven limbs, not a measurement of force during any exercise. **Caveat:** that study's whole-muscle PCSA was 26 cm² (range 16–36) against the 33.4 cm² of Part IV §A.4 — two cadaveric estimates of one quantity, 28% apart. The same study put the muscle's capacity to extend the lower lumbar segments at only **4 N·m** (range 2–9.5), which is the size of the mechanical contribution gluteal work makes to the spine itself.
+
+None of this changes the prescription. It is here because it explains why the gluteus maximus behaves
+like a trunk muscle as much as a limb muscle, and why Part IV §C.6 spends more time on the pelvis than
+Part III did.
+
+---
+
+### A.6 Regions — where a gluteus maximus actually grows
+
+The honest summary is that this has been measured far less than it has been asserted.
+
+- **Between upper, mid and lower portions.** Nine weeks of back squats and nine weeks of barbell hip thrusts both produced their largest cross-sectional-area increase at the **lower** measurement site, with the between-exercise differences at every site smaller than the variance around them (Plotkin et al., 2023). **Moderate evidence** — one trial, 34 untrained participants, MRI.
+- **Along the muscle's length.** Nineteen male sprinters carried more gluteus maximus volume than twenty untrained men at every region, and the difference was largest in the **distal** region (p = 0.048, partial η² = 0.187) (Takahashi et al., 2022). **Moderate evidence** — a cross-sectional athlete comparison rather than a training study, but it points the same way as the only trial that measured three sites.
+- **Upper portion specifically.** Exercises adding hip abduction and external rotation recruit the upper portion in a way that sagittal-plane hip extension does not, and a six-week programme of kneeling banded hip extension raised upper-portion thickness (reported in Krause Neto et al., 2025). **Promising but under-replicated** — the primary report is a single small non-indexed study, read here through the meta-analysis that included it.
+- **Lower portion specifically.** **Not supported** as a target. No exercise has been shown to load the lower portion preferentially; the sagittal-plane exercises that produce most of its growth produce upper-portion growth alongside.
+
+**What has not been measured at all.** Nobody has reported gluteal fascicle length or pennation angle
+before and after a training programme [consensus — no single source]. For the quadriceps, Part III §A.6
+could at least say that twelve weeks changed pennation and not fascicle length. For the gluteus
+maximus — the muscle whose architecture makes that question most interesting, because it has the
+longest fascicles and the least tendon to hide behind — there is no answer.
+
+For what [regional hypertrophy](#regionalhypertrophy) can and cannot be inferred from, see
+Part IV §B.11.
+
+---
+
+### A.7 Fibre type — an even split, and it still does not tell you what to do
+
+The gluteus maximus is close to an even split between slow and fast fibres, with the wide
+between-person variation seen everywhere else (Johnson et al., 1973). The gluteus medius is similar.
+
+**This changes nothing about the prescription**, for the reasons already set out in Part II §A.6 and
+Part III §A.7: fibre type is a poor predictor of which rep range grows a given person's muscle, the
+between-person spread swamps the between-muscle spread, and no training study has ever allocated by
+biopsy and beaten a study that did not. The fact is here because it is asked about.
+
+**One genuinely different fact about this muscle's day-to-day duty cycle**, which is often mistaken for
+a fibre-type argument: the gluteus maximus is **mostly quiescent during level and uphill walking**, and
+increases sharply in activity during running, where its jobs are to control trunk flexion on the stance
+side and to decelerate the swinging leg (Lieberman et al., 2006). **Caveat:** "uphill" there means the
+treadmill grades that study used; stair climbing and steep ascent are a different demand and this
+finding does not cover them. It is not an endurance postural
+muscle that is constantly working. It is a large muscle that is mostly idle and is recruited for fast
+and forceful things — which is an argument for training it with load, not for training it with high
+repetitions.
+
+---
+
+### A.8 The muscles you cannot separate it from
+
+| Muscle | Relationship | Consequence for training |
+|---|---|---|
+| [Hamstrings](#hamstrings) | Hip extensors that also cross the knee; their three [PCSA](#pcsa)s sum to slightly **more** than the gluteus maximus's | Their share of a hip extension rises as the knee straightens and falls as it bends — the single most useful lever in Part IV (Part IV §B.5) |
+| [Adductor magnus](#adductormagnus) | A powerful hip extensor from a flexed hip, 20.5 cm² of PCSA | Takes a real share of every deep squat; grew 6.2% in ten weeks of full squatting (Kubo et al., 2019) |
+| [Quadriceps femoris](#quadricepsfemoris) | Knee extensors sharing every squat-pattern exercise | The more the knee bends, the larger their share of the total demand — the mirror of the row above |
+| [Gluteus medius](#gluteusmedius) and [gluteus minimus](#gluteusminimus) | Abductors and pelvic stabilizers, not hip extensors | Every unilateral exercise loads them whether you intend it or not; no bilateral exercise loads them much |
+| [Tensor fasciae latae](#tensorfascialatae) | Shares the iliotibial tract and the superior gluteal nerve | Its tension and the upper gluteus maximus's tension oppose each other across the same band (Part IV §E.4) |
+| [Erector spinae](#erectorspinae) | Continuous with the gluteus maximus through the thoracolumbar fascia | In every hinge-pattern exercise it is the joint that ends the set, not the hip (Part IV §C.5) |
+
+Only the bridge-pattern exercises in Part IV §D.3 and the abduction exercises in Part IV §D.4 remove
+the quadriceps from the picture; **nothing removes the hamstrings and the adductor magnus**, because
+they perform the same joint action.
+
+---
+
+### A.9 What the anatomy dictates, in nine lines
+
+1. The gluteus maximus is the heaviest muscle in the body, and it is built for force **and** excursion at once — the only muscle in this document that is.
+2. Almost two thirds of its length is contractile tissue, so joint range converts into fibre length change with unusually little loss.
+3. Its main action is [hip extension](#hipextension), shared with the hamstrings and the adductor magnus; it supplies about half the group's cross-section and no more.
+4. Knee angle decides how much of a hip extension the hamstrings can take, and therefore how much is left for the gluteus maximus.
+5. Its upper fibres also abduct and its lower fibres also adduct; every fibre externally rotates a hip that is near straight, and the anterior ones stop doing so as it folds.
+6. Three quarters of it inserts into fascia rather than bone, and 70% of its origin crosses the sacroiliac joint.
+7. The gluteus medius and minimus are abductors, not extensors, and no hip extension exercise trains them meaningfully.
+8. The gluteus medius has as much cross-section as the maximus, in fascicles less than half as long — it is a short-range, high-force stabilizer.
+9. Therefore a complete gluteal prescription needs at least two hip extension exercises loading different parts of the range, plus one abduction exercise that no hip extension exercise substitutes for.
+
+---
+## partivbbiomechanics
+
+**PART B — Biomechanics: what actually loads the glutes**
+
+### B.1 The joint actions, ranked
+
+| Action | Which muscle | Which muscles can supply it | Verdict |
+|---|---|---|---|
+| [Hip extension](#hipextension) | Gluteus maximus, both portions | Shared with the hamstrings and adductor magnus; the gluteal share falls as the hip folds (Part IV §B.2) | **The action worth building most of the prescription around** |
+| [Hip abduction](#hipabduction) | Gluteus medius, minimus, upper maximus | The only action these two muscles have; roughly half the hip's abduction force is gluteus maximus | **The action that needs its own exercise**, because no hip extension supplies it (Part IV §B.2a) |
+| [Hip external rotation](#hipexternalrotation) | The maximus with the hip near straight; posterior medius | Reverses toward internal rotation in the anterior fibres as the hip folds | Real, but a modifier of the two above rather than a category |
+| [Hip adduction](#hipadduction) | Lower maximus only | A minority of one muscle, and only near full extension | Not a training target; it is a geometric by-product |
+| Pelvic and sacroiliac stabilization | Gluteus maximus via fascia; medius and minimus in stance | Not separable from the two actions above | A consequence of them, never an exercise |
+
+Two things this table settles immediately. **The gluteal muscles are two training targets, not one** —
+an extensor group and an abductor group that overlap only in the gluteus maximus's upper fibres. **The
+overlap is not trivial:** in ten people, selectively blocking the nerve to the gluteus maximus cut
+isometric hip abduction force by 43–56%, so roughly half the hip's abduction force comes from the
+muscle this Part otherwise treats as an extensor (Hoch et al., 2025). **Moderate evidence** — ten
+participants, isometric, one laboratory, but a causal measurement rather than a modelled one. The
+consequence runs one way only: an abduction exercise loads part of the maximus, while no hip extension
+exercise loads the medius or minimus, because hip extension does not produce abduction. And **external
+rotation is not a fourth exercise category**; it is a way of biasing the upper portion within the first
+two, and it does that best with the hip near straight (Part IV §A.3).
+
+---
+
+### B.2 Moment arms — a lever that shrinks as you fold
+
+Measured in vivo by computed tomography in twenty people, combined with ten autopsy specimens, across
+hip flexion from 0° to 90° (Németh & Ohlsén, 1985):
+
+```
+HIP EXTENSION MOMENT ARMS, MEASURED (mm, men / women)   Nemeth & Ohlsen 1985
+  Hip flexion        0 deg    30      45      60      75      90
+  Gluteus maximus    82/76   71/66   63/59   54/51   44/41   33/31
+  Hamstrings         64/58   79/70   79/69   74/64   63/54   48/40
+  Adductor magnus    10/19   39/45   50/54   58/59   62/60   61/57
+```
+
+| Muscle | At 0° | At 90° | Behaviour across the range |
+|---|---|---|---|
+| Gluteus maximus | **79 mm** | **31–33 mm** | Falls monotonically, to under half its standing value |
+| Hamstrings | 61 mm | 40–48 mm | Rises to a peak near 35–40°, then falls |
+| [Adductor magnus](#adductormagnus) | 15 mm | 57–61 mm | **Quadruples**, peaking near 75–85°, and ends the largest of the three |
+
+Four things follow, and the fourth is the one that is almost never said.
+
+**First, the lever is large at the top.** 79 mm is nearly twice the patellar tendon's ~40–60 mm
+(Part III §A.5). Standing upright, the hip extensors convert muscle force into joint torque efficiently
+— one reason hip extension torque figures dwarf knee extension torque figures for the same person.
+
+**Second, the lever shrinks exactly where the exercise demands most.** Every squat, hinge and lunge
+reaches its highest hip extension torque demand near its deepest hip flexion, and that is the position
+in which the gluteus maximus has its **worst** leverage. This is structurally the same situation as the
+quadriceps in Part III §B.2 — worst leverage where the demand peaks — and it has the same consequence:
+**tension per newton-metre of demand is highest at depth.**
+
+**Third, the three extensors do not shrink together, and the ordering reverses.** The hamstrings' arm
+rises to a peak near 35–40° and falls after it. The [adductor magnus](#adductormagnus)'s does the
+opposite of the gluteus maximus's: it *gains* leverage as the hip folds, quadrupling from 15 mm to
+about 60 mm. **The two curves cross at roughly 55–60° of hip flexion** — a little past a half squat —
+and past that point the adductor magnus is the best-levered hip extensor in the body, which is
+consistent with its being described as an effective hip extensor regardless of hip position
+(Neumann, 2010). By 90° the gluteus maximus has the *smallest* moment arm of the three.
+
+**Fourth, the gluteal share of a hip extension therefore falls as the hip folds.** The deep position is
+not merely one where the gluteus maximus is badly levered; it is one where both of the other hip
+extensors are better levered than it is — the hamstrings from about 5° onward, the adductor magnus from
+about 55–60°. That is the mechanical explanation for a training result this Part reports and
+otherwise leaves unexplained: ten weeks of deep squatting grew the adductors as much as it grew the
+gluteus maximus (Kubo et al., 2019). Part IV §B.4 attributes that to cross-section. Leverage is at least
+as much of it.
+
+---
+
+### B.2a Abduction — a short lever holding a long one
+
+The extensors get the rest of Part IV §B. The abductors get this, and they need it, because
+Part IV §D.4 otherwise asks you to choose between abduction exercises with nothing but a
+rehabilitation [EMG](#emg) threshold — which Part IV §B.11 spends a whole section explaining is not a
+valid basis.
+
+**Their loading case is not an exercise; it is standing on one leg.** Body weight acts down through the
+midline, roughly two to three times further from the hip joint than the abductors' own moment arm, so
+holding the pelvis level costs roughly two to three times body weight in abductor tension. **Caveat:**
+that ratio is a textbook free-body estimate from segment geometry, not a measurement. The measured
+quantity is what it produces — hip contact force recorded directly through instrumented prostheses
+reached **238% of body weight** in ordinary walking (Bergmann et al., 2001), most of it not the weight
+above the joint but the abductors squeezing the femoral head into the socket.
+
+**The abduction [moment arm](#momentarm) is short, and it moves.** Subject-specific models put the
+anterior [gluteus medius](#gluteusmedius) at about **42 mm in early stance and 53 mm in late stance**,
+and about 6 mm shorter throughout in a dysplastic hip (Song et al., 2020). **Moderate evidence** —
+fifteen hips per group, modelled from MRI rather than measured. Like the extensor arms in Part IV §B.2,
+these are neither constant across the movement nor constant across people.
+
+**Two consequences for the exercise catalogue.** A bilateral exercise supplies almost no abduction
+demand, because the two sides largely cancel in the frontal plane — and what little there is does not
+respond to the setting people expect: measured frontal-plane hip moments in a back squat did not differ
+across narrow, medium and wide stances (Hopkins et al., 2024). **That is the whole reason abduction
+needs its own slot.** And the demand in a unilateral exercise is set by how far the load line sits from
+the stance hip, not by how hard the movement feels — so a loaded single-leg squat or a step-up loads
+these muscles by the same geometry a side-lying raise does, at far higher absolute force.
+
+---
+
+**One finding in that table this document did not expect.** The sex differences are statistically
+significant for all three muscles (Németh & Ohlsén, 1985). Men carried a longer gluteus maximus moment
+arm than women at every angle and a longer hamstring arm throughout, while women carried a longer
+adductor magnus arm until about 55° of hip flexion. The differences are small in absolute terms — a few
+millimetres — but they run in the direction that would make the adductor magnus a slightly larger share
+of a woman's hip extension in the shallow half of a squat. **Moderate evidence**, and no training study
+has tested whether it matters.
+
+**Caveats on all four, and they are substantial.** These are 1985 in vivo measurements in twenty people
+plus ten autopsy specimens, and **90° is the deepest angle measured** — every claim about a deeper hip
+than that is extrapolation. A systematic compilation of every published hip moment-arm dataset found
+only six studies covering the hip at all, with most hip muscles measured in exactly one of them
+(Chen & Franklin, 2025). And "the" gluteus maximus moment arm is a convenient fiction: a
+three-dimensional model built from MR images found peak hip-extension moment arms varying from **1 cm
+to 7 cm across fibres within the one muscle** (Blemker & Delp, 2005). Treat every number in the table as
+a scale for a distribution, and the *direction* of each curve as the finding.
+
+**One model disagrees, and it is worth naming.** A musculoskeletal model built on this same architecture
+data also finds hip extension moment falling with hip flexion, but its authors note that another
+published model finds it *rising*, and flag the discrepancy as unresolved (Arnold et al., 2010).
+
+---
+
+### B.3 Force–length — where the gluteus maximus actually sits
+
+**What is established.** The muscle lengthens as the hip flexes, and it does so more completely than
+almost any muscle in the body, because its fascicle-to-muscle-length ratio of 0.62 (Part IV §A.4) leaves
+little in-series tendon to absorb the excursion. At group level, Ward's group named the hip extensors
+and the hip **adductors** as the two largest-excursion groups in the lower limb, with the extensors
+behind the hip flexors on mean fibre length (Ward et al., 2009a) — a pairing worth keeping, because the
+adductors are the group that shares this muscle's job (Part IV §B.2). A deep squat takes the gluteus
+maximus through a very large fraction of its available fibre length —
+larger than a deep squat takes the quadriceps through, and for the opposite architectural reason.
+
+**What is not established is where on the curve that range sits.** Three lines of evidence point in
+three directions:
+
+- The measured [sarcomere](#sarcomere) length was **2.60 µm with the hip near neutral** (Ward et al., 2009a), which is at or just below the human plateau — implying the muscle is near optimum standing up, and moves onto the **descending** limb as the hip folds. **The same paper flags this figure as its least reliable**, because its specimens were fixed in a position that gave good sarcomere data for the hip flexors and poor data for the hip extensors.
+- Modelled torque contribution from EMG in thirteen people was **highest at 45° of hip flexion**, the deeper of the two hip angles that study tested (Liu et al., 2022) — implying an optimum somewhere above neutral rather than at it.
+- Maximal voluntary [EMG](#emg) of the gluteus maximus fell monotonically with hip flexion — 94 ± 10% of its own maximum at 0°, 84 ± 13% at 30°, 80 ± 14% at 60°, and **64 ± 20% at 90°** (Worrell et al., 2001). The authors' own reading is that this is *not* a length effect but an activation effect: "motor unit activation was not maintained at a constant, maximal level throughout the range of motion."
+
+That third finding is the important one, and it is easy to misread. It does **not** say the muscle is
+weak at depth. It says that in a maximal isometric test, people cannot fully drive this muscle in a
+deeply flexed hip — which contaminates every strength-versus-angle measurement ever made on it, and
+means the shape of the true force–length curve for the human gluteus maximus in vivo **has not been
+measured**. **Contested**, and likely to stay that way until someone applies stimulation rather than
+volition.
+
+**What has been measured is the joint, not the muscle, and the distinction is the whole point.** Whole-hip
+extension torque against angle is straightforwardly measurable and has been measured many times; it peaks
+somewhere in mid-flexion rather than at either end. But hip extension torque is the sum of a committee
+whose membership shifts with angle (Part IV §B.2), so a joint-level curve cannot be read as a muscle-level
+one — and the curve itself is not even fixed within a person: sprint cyclists produced more hip extension
+torque per unit of muscle volume at 120° of hip flexion than sprint runners did, and more gluteal activity
+there (Yamaguchi et al., 2025). **Moderate evidence** — twenty athletes, cross-sectional. The torque–angle
+relationship of a trained hip is partly a training history.
+
+**Why the prescription does not wait for the answer.** The training evidence settles the practical
+question independently of the mechanism. Ten weeks of squatting to 140° of knee flexion grew gluteus
+maximus volume **6.7 ± 3.5%**; the same training to 90° grew it **2.2 ± 2.6%**; the between-group
+difference was large (p = 0.008, effect size 1.50) (Kubo et al., 2019). **Moderate evidence** —
+seventeen untrained men in one laboratory, eight against nine, high-bar squats at shoulder-width stance,
+six hard sets a week, never replicated in this muscle. Whatever the muscle's force–length position at
+depth, depth is where it grew — and the direction is the part to act on, not the ratio.
+
+---
+
+### B.4 Hip extension is a committee — and that is the central fact of Part IV
+
+The quadriceps has a monopoly. Nothing else extends the knee, so every newton-metre of knee extension
+torque is quadriceps work, and Part III could treat "knee extension demand" and "quadriceps stimulus"
+as nearly the same quantity.
+
+**Hip extension is not like that.** Summing the group from the same architecture data:
+
+```
+HIP EXTENSOR GROUP - SHARE OF FORCE-GENERATING CROSS-SECTION
+                                 PCSA        Share of the four
+  Gluteus maximus              33.4 cm2      49%
+  Semimembranosus              18.4 cm2      27%
+  Biceps femoris, long head    11.3 cm2      17%
+  Semitendinosus                4.8 cm2       7%
+  ------------------------------------------------------------
+  Sum of the four              67.9 cm2     100%
+  The three hamstrings alone   34.5 cm2      51%   <- more than the
+                                                      gluteus maximus
+  Adductor magnus, which
+  extends a flexed hip         20.5 cm2     +30%   on top of the group
+```
+
+**The gluteus maximus supplies about half of the group's cross-section, and the three hamstrings
+together supply slightly more than it does** — before the adductor magnus, which is not in the group at
+all by Ward's classification, adds a further 30% once the hip is flexed enough for its line of pull to
+extend rather than adduct. This is the reason a hip extension exercise is a much weaker guarantee of
+gluteal stimulus than a knee extension exercise is of quadriceps stimulus, and the reason "posterior
+chain work" and "glute work" are not synonyms.
+
+**Arithmetic note.** The four muscles sum to 67.9 cm² here, while the source's own hip-extensor group
+figure is 73.4 ± 20.5 cm², because that figure was computed per specimen and then averaged
+(Ward et al., 2009a). The shares are the point, not the third significant figure.
+
+**The measurement that shows it costs you.** In the same ten-week squat study, adductor volume rose
+6.2 ± 2.6% on the full squat — a gain the same size as the gluteus maximus's (Kubo et al., 2019). The
+deep squat did not fail to train the glutes; it trained a committee, and the glutes were one member of
+it.
+
+---
+
+### B.5 Knee angle is the steering wheel
+
+The share is not fixed. It moves, and one variable moves it: **how much the knee is bent while the hip
+extends.**
+
+The three hamstrings cross both joints. Bending the knee shortens them at their lower end; extending it
+lengthens them. So:
+
+| Knee position during hip extension | What happens to the hamstrings | Consequence |
+|---|---|---|
+| Knee near **straight** — Romanian deadlift, stiff-leg deadlift, 45° back extension, good morning | Long at the knee, and lengthening further at the hip | They are in a strong position and take a large share |
+| Knee **bent to ~90°** — hip thrust, glute bridge, kneeling hip extension, single-leg bridge | Already shortened at the knee | They lose force capacity, and the gluteus maximus's share rises |
+| Knee **bending with the hip** — squat, leg press, lunge, split squat | Hip flexion lengthens them while knee flexion shortens them; the two changes largely cancel | Their net length change over a deep squat is only one to three centimetres of lengthening — computed from the moment arms in Part IV §B.2 — which is small against the hip's own excursion; they act mainly as co-contractors, and the quadriceps enters instead |
+
+The third row is the one already stated in Part III §A.8 from the other side. It is the mirror image of
+the [rectus femoris](#rectusfemoris) problem — and unlike that problem, this one works in your favour,
+because the muscle that goes untrained by the cancellation is the hamstring, not the glute.
+
+**The direct measurement.** Modelling the torque split from EMG in thirteen people, the ratio of gluteus
+maximus contribution to hamstring contribution was **highest with the hip at 0° and the knee flexed to
+90°** — the hip thrust's position — and the authors recommend exactly that configuration for isolating
+gluteal torque in strength testing (Liu et al., 2022). **Moderate evidence** — thirteen participants,
+isometric, modelled rather than measured contributions.
+
+> **The rule, in one line.** To move share toward the gluteus maximus, bend the knee. To move it toward
+> the hamstrings, straighten it. That is the single most useful mechanical lever in Part IV, and it is
+> the reason the exercise catalogue in Part IV §D is organized by what the knee is doing.
+
+---
+
+### B.6 The stimulus map for the gluteus maximus
+
+Overlaying Part IV §B.2, Part IV §B.3 and Part IV §B.5 onto the arc the hip actually travels:
+
+```
+HIP POSITION          GMAX LENGTH    LEVERAGE   ACTIVE FORCE   TENSION PER    WHAT IT NEEDS
+                                                               N.m OF DEMAND
+------------------------------------------------------------------------------------------------
+Deep flexion          Longest        LOWEST     Disputed       HIGHEST        Heavy torque, full
+(100-125 deg)         (+ passive                (Part IV                      control, no bounce.
+                       tension)                  section B.3)                 The productive end
+
+Mid-range             Long           Moderate   Near peak      High           The heaviest absolute
+(40-90 deg)                                                                   load the exercise can
+                                                                              deliver
+
+Shallow               Shortening     High       High           Low            Cheap volume; low
+(10-40 deg)                                                                   systemic cost per set
+
+Shallow to near-      Shortening     HIGHEST    Falling        LOWEST         Two families reach this
+neutral (20-0 deg)    to shortest               (short-length                 end: the bridge pattern
+                                                 limb)                        and the 45 deg back
+                                                                              extension. Nothing here
+                                                                              loads a hip past neutral
+```
+
+**Two columns to read carefully.** The fifth is torque demand divided by moment arm — how much tension
+the muscle carries per newton-metre the exercise asks for — and it runs opposite to leverage, exactly
+as in Part II §B.4 and Part III §B.6. The fourth is left honestly unresolved, because Part IV §B.3
+could not resolve it — and it is the muscle's own force–length position that is unresolved, not the
+joint's torque–angle curve, which has been measured many times and belongs to the committee rather
+than to this muscle.
+
+**And that is why this map is used differently from the quadriceps' one.** In Part III, the fourth and
+fifth columns pointed the same way and the conclusion was clean: train the deep end. Here the fifth
+column points hard at depth and the fourth column shrugs. The training evidence breaks the tie in
+depth's favour (Kubo et al., 2019), so **depth still wins** — but the margin is an empirical result
+rather than a mechanical deduction, and the last row is the reason this Part does not simply reproduce
+Part III's conclusion.
+
+**The last row is the interesting one, and it is smaller than it is usually described.** In Part III,
+terminal extension was "joint stress bought with almost no stimulus" and the advice was to avoid it.
+Here, the shallow end of hip extension is a position that **no squat, hinge or lunge loads under
+meaningful torque** — they have all run out of demand before they get there — and that two other
+exercise families do load. **Validity caveat:** how far into extension those families actually reach
+has been measured once, and the answer is less far than the folklore. Nineteen trained men instructed
+to drive a barbell hip thrust to full hip extension covered 75 ± 19° of hip extension from a start near
+90° of flexion, which leaves the lift finishing near 15–20° of flexion rather than at neutral
+(Brazil et al., 2021). **Nothing in this document has been shown to load a hip past neutral**, and the
+row is written accordingly.
+
+**A third column would say the same thing the second does.** The gluteal *share* of hip extension falls
+as the hip folds, because the adductor magnus gains leverage over the same arc that the gluteus maximus
+loses it (Part IV §B.2). So the deep position is simultaneously the highest-tension position for this
+muscle within an exercise and the position in which it supplies the smallest fraction of the joint's
+work. That tension is why depth had to be settled by a trial rather than deduced from the mechanics —
+and Part IV §B.7 is where it was.
+
+**The single most useful sentence in this Part:** the gluteus maximus's productive range runs from
+deep hip flexion up to roughly 30–40°, the exercises that cover it are the ones that fold the hip
+under load, and the shallow remainder is worth adding on purpose because nothing in the first group
+reaches it.
+
+---
+
+### B.7 Range — what the evidence actually says
+
+Less has been tested here than for the quadriceps, and what exists is one good study plus a
+meta-analysis of a thin literature.
+
+| Study | Comparison | Result |
+|---|---|---|
+| Kubo et al., 2019 | Full squat (140° knee flexion) vs half squat (90°), [repetition](#repetition)-matched, 10 weeks, MRI volume | Gluteus maximus volume **+6.7 ± 3.5% vs +2.2 ± 2.6%**; between-group p = 0.008, effect size 1.50. Adductors similarly favoured the full squat (p = 0.026) |
+| Plotkin et al., 2023 | Back squat to **the deepest depth each participant could reach** vs barbell hip thrust, set-equated, 34 untrained participants (23 women, 11 men), 9 weeks at 2×/week, MRI cross-sectional area | **No detectable difference** at lower, mid or upper gluteus maximus, or at gluteus medius plus minimus. Squat superior for quadriceps and adductors |
+| Kassiano et al., 2024 | 45° leg press + stiff-leg deadlift (2 exercises, 4 sets per session) vs the same plus barbell hip thrust (3 exercises, 6 sets per session), 33 untrained women, 10 weeks, 3×/week | Adding the third exercise: **+9.3% vs +6.0%** gluteus maximus thickness, p = 0.016. **Interpretive caution:** the added-exercise arm also performed 50% more weekly hard sets, so exercise selection and volume are confounded |
+| Krause Neto et al., 2025 | Meta-analysis, 12 trials included and 11 pooled, 318 participants (144 women, 174 men) | Resistance training raises gluteus maximus size with a moderate pooled effect, SMD 0.71 (95% CI 0.50–0.91), low heterogeneity (I² = 22%). **Caveat:** no between-exercise comparison was performed, so the review's own recommendation to prioritise the barbell hip thrust is a reading of its included studies, not a pooled result — and this document does not follow it |
+
+**The one replication attempt is partly negative.** A volume-load-matched full-versus-half squat trial in
+twenty-eight highly trained adolescent tennis players found both depths grew the muscles it measured
+equally, with the full squat better for body fat and movement velocity (Hammami et al., 2025).
+**Validity caveat:** thigh, calf and leg volume only — no gluteal measurement was taken. Depth *for the
+gluteus maximus specifically* still rests on Kubo et al., 2019 alone.
+
+**The reconciliation, in one line.** Depth pays, and the part of the range that pays is the deep part —
+but unlike the quadriceps, the shallow end is not worthless here, because one exercise family loads a
+position the deep exercises never reach and adding it produced more growth than not adding it.
+
+> **Range for the gluteus maximus is not a threshold like [squat depth](#squatdepth) is for the
+> quadriceps.** It behaves more like coverage: the deep portion carries most of the effect, the shallow
+> portion carries a real remainder, and the two are collected by different exercises.
+
+**The bracket, as the evidence leaves it.** Squatting to 90° of knee flexion collected roughly a third
+of the gluteal growth that squatting to 140° collected (Kubo et al., 2019). Adding a third hip extension
+exercise to a programme that already contained two added about half again to the result
+(Kassiano et al., 2024). Both are single trials, in untrained people, with ultrasound or MRI as the
+measure.
+
+**Interpretive caution on the second of those, and it is a large one.** The exercise that was added
+loaded the shallow end of the range — but adding it also raised weekly hard sets from twelve to
+eighteen, and the trial cannot separate exercise selection from volume. Read as an argument for
+*coverage* it is **promising but under-replicated**; read as an argument for *more sets* it says what
+the general volume literature already says. A reader already doing twelve hard sets might get the same
+result by adding two sets of what they are already doing, and nothing in this literature rules that
+out.
+
+**What has not been tested.** No study has manipulated hip thrust range of motion directly, none has
+compared a deficit hip extension against a standard one, and none has titrated squat depth in fine
+steps against gluteal size. The claim that a fuller hip thrust beats a shorter one is
+**promising but under-replicated** — it follows from Part IV §B.8, not from a trial.
+
+---
+
+### B.8 Resistance profiles — and the exercise everybody has backwards
+
+The muscle's capability curve is fixed. The **[resistance profile](#resistanceprofile)** is chosen by
+the exercise. For the hip:
+
+> τ_demanded = F_resistance × d⊥
+>
+> where d⊥ = the perpendicular distance (m) from the hip joint centre to the [line of action](#lineofaction) of the resistance
+
+For every standing exercise the line of action is vertical, so d⊥ reduces to **the horizontal distance
+from the hip joint to the vertical line through the supported mass** — which is why torso inclination
+governs hip torque so completely (Part IV §B.10).
+
+| Exercise family | Where hip extension torque demand peaks | Where it falls to near zero | Profile |
+|---|---|---|---|
+| [Back squat](#backsquat), [front squat](#frontsquat), [leg press](#legpress), [hack squat](#hacksquat) | Just out of the bottom — measured at 74 ± 8° of hip flexion in a 6RM squat (Otsuka et al., 2021) | Lockout | Stretch-loaded |
+| [Split squat](#splitsquat), [lunge](#lunge), [step-up](#stepup) | Bottom | Top | Stretch-loaded, one leg |
+| [Romanian deadlift](#romaniandeadlift), [good morning](#goodmorning), [stiff-leg deadlift](#deadlift) | Bottom, torso nearest horizontal | Standing | Stretch-loaded, knee near straight |
+| [45° back extension](#backextension) | Mid-range, as the torso sweeps through horizontal | Neither end — about 70% of peak at both, over a normal range | Mid-range-loaded, near-symmetric, and it **does** load full hip extension |
+| [Cable pull-through](#cablepullthrough) | Bottom | Standing | Stretch-loaded, light |
+| Conventional and sumo [deadlift](#deadlift) | Off the floor and again at mid-shin | Lockout | Stretch-loaded, but shared with the whole body |
+| [Hip thrust](#hipthrust), [glute bridge](#glutebridge) | **~83° of hip flexion — near the bottom, not the top** | Neither end; demand falls to about a third at lockout | Mid-range-loaded, with the only meaningful load at full extension |
+| [Kickback](#kickback), [reverse hyperextension](#reversehyperextension) | Varies with the machine's geometry — check it | Varies | Variable |
+
+**The row that overturns the folklore.** The barbell hip thrust is universally described — by its
+advocates as a virtue and by its critics as a defect — as the exercise that loads peak contraction at
+lockout. It does not. Measured in nineteen resistance-trained men at 70% of a 189 ± 42 kg one-repetition
+maximum, the peak hip extensor moment was **3.52 ± 0.57 N·m·kg⁻¹, reached at 14.3 ± 3.1% of the lifting
+phase, with the hip at 83 ± 16° of flexion** — and it then **fell by about two thirds** on the way to
+lockout (Brazil et al., 2021).
+
+So the hip thrust's demand curve peaks near its bottom, in a moderately flexed hip, and falls away as it
+extends. Three conclusions follow, and they resolve most of the argument about this exercise:
+
+1. **It is not a short-length exercise.** Its peak lands at roughly the hip angle a squat passes through on the way down. Criticisms that it loads only the shortened position are wrong on the measurement.
+2. **It is not a peak-contraction exercise either.** Its advocates' mechanism is also wrong on the measurement. What it does have is *residual* demand at full extension, where every other exercise has none — a third of a large peak is still load, applied where nothing else applies any.
+3. **This is exactly what the training results look like.** Nine weeks of hip thrusts and nine weeks of parallel squats produced statistically indistinguishable gluteal hypertrophy (Plotkin et al., 2023), and adding hip thrusts to a programme of deep hip extension exercises added growth on top (Kassiano et al., 2024). Two exercises whose demand curves overlap in the middle and diverge at the ends should produce similar results alone and better results together — and they do.
+
+**The one profile that is usually described backwards** is the 45° back extension, and this document
+described it backwards too until it was checked. Hip torque here is the trunk's weight multiplied by the
+**horizontal** distance from the hip to the trunk's centre of mass, so it peaks as the torso sweeps
+through horizontal and falls away on both sides of that. On a 45° bench the torso starts about 45° above
+horizontal and finishes about 45° below it, which leaves roughly **70% of the peak demand at each end —
+including at full hip extension**, where otherwise only the bridge family reaches. The load line passes
+through the hip when the trunk hangs *vertically*, not when it is horizontal, and that takes more hip
+flexion than the exercise is performed through. The horizontal "Roman chair" version is the asymmetric
+one: maximal at the top, falling to zero at the bottom (Contreras et al., 2013). **Neither version is
+stretch-loaded**, and the real limitation of both is the opposite of the one usually named — not that the
+top is empty, but that the bottom is.
+
+---
+
+### B.9 A worked example, so the numbers are not abstract
+
+```
+GLUTEUS MAXIMUS TENSION - BOTTOM OF A DEEP BACK SQUAT (one leg, quasi-static)
+  Free body                         everything above the hip joint: barbell plus
+                                    trunk, head and arms
+  Barbell load                      140 kg
+  Body mass above the hip           ~0.68 x 90 kg = 61 kg
+  Total supported                   201 kg  ->  1,972 N
+  Effective moment arm at the hip   ~0.21 m  (the barbell's own offset weighted
+                                    with the trunk's, whose centre of mass sits
+                                    nearer the hip; the same figure inverse
+                                    dynamics returns for a real 6RM back squat)
+  --------------------------------------------------------------------------
+  Hip extension torque, both legs   1,972 N x 0.21 m  =  414 N.m
+  Per leg                                              =  207 N.m
+  Gluteus maximus share of hip
+  extension TORQUE capacity at
+  deep hip flexion                  ~28-35%            =  ~58 - 72 N.m
+  Divided by the deepest MEASURED gluteal
+  moment arm, 3.1-3.3 cm at 90 deg of hip
+  flexion - still falling steeply there                =  1,750 - 2,350 N
+```
+
+**Three things about this block, because the previous version of it was wrong in two of them.** The
+share is a **torque-capacity** share, not a PCSA share: torque capacity scales with PCSA multiplied by
+moment arm, and once the moment arms are taken at a folded hip rather than a straight one — where the
+adductor magnus out-levers the gluteus maximus (Part IV §B.2) — the gluteal share of the group falls
+from about half to roughly a third. The moment arm at the bottom of a deep squat has **never been
+measured** — but the deepest angle anyone has reported, 90°, is now a measured figure rather than a
+guess: 33 mm in men and 31 mm in women, and still falling by about half a millimetre per degree at that
+point (Németh & Ohlsén, 1985). A squat bottoms out nearer 110–125° of hip flexion, so the true value
+there is **smaller** than 3.1–3.3 cm, which makes the force estimate above a floor rather than a
+ceiling. And the torque figure itself is the soundest part of the block: it implies an
+effective moment arm of about 0.21 m, which is what inverse dynamics returns from force plates in a real
+6RM squat (Otsuka et al., 2021).
+
+**What the number means.** The architectural ceiling from Part IV §A.4 is ~1,500 N at the liberal
+[specific tension](#specifictension) constant. The mid-estimate above sits at or above it — which tells
+you a modelling input is wrong, not that the muscle is producing impossible force. The arithmetic points
+at one input in particular: about 2,050 N over Ward's 33.4 cm² implies a specific tension near
+61 N·cm⁻², which nobody has measured; over the ~45 cm² a trained adult plausibly carries it implies
+about 46 N·cm⁻², which is ordinary. **The cadaveric cross-section from 83-year-olds, not the mechanics,
+is the loose parameter.** Two smaller ones remain: the share is a capacity share rather than a measured
+one, and the passive structures around a deeply flexed hip carry a part that no muscle model counts.
+
+**The claim that survives the uncertainty is comparative, and it is enough:** the bottom of a heavy deep
+squat asks the gluteus maximus for tension at or above its own architectural maximum, in the position
+where its leverage is worst and where two other hip extensors are better levered than it is. That is a
+serious mechanical stimulus and a shared one at the same time.
+
+**And the comparison with the hip thrust runs the other way from the usual telling.** Measurement handles
+this better than argument does: in eleven sprinters lifting their own six-repetition maximum in each
+exercise, the barbell hip thrust produced a peak hip extension moment **42% larger** than the back
+squat's — 237 ± 26 N·m against 172 ± 37 N·m — and reached it at 59 ± 13° of hip flexion against the
+squat's 74 ± 8° (Otsuka et al., 2021). **Moderate evidence** — eleven participants, one session, and each
+exercise at its own relative load rather than a matched absolute one. What separates the two exercises is
+therefore not the size of the peak but where the demand sits afterwards: the squat's falls away as the
+lifter stands up, the hip thrust's decays more slowly and keeps about a third of its peak near full
+extension (Brazil et al., 2021), and the deep half of the squat's range is a place the hip thrust never
+visits.
+
+---
+
+### B.10 Stance width, foot turnout, torso angle and hip travel
+
+Four setup variables change how much of a squat-pattern exercise lands on the hip rather than the knee.
+They are the hip's equivalent of Part III §B.10, and they run in the opposite direction.
+
+**Torso inclination is the variable you actually control.** The hip extension torque demand is the
+supported weight multiplied by the horizontal distance from the hip to the load line, and leaning
+further forward increases that distance. **Strictly, the distance is the cause and the lean is a
+proxy** — a lifter with a long femur reaches the same offset at less lean, and a lifter who lets the
+knees travel forward reduces it at the same lean. Every technique choice below is a way of buying that
+horizontal distance, or of paying for it.
+
+| Variable | Toward the hip | Toward the knee | Evidence |
+|---|---|---|---|
+| Bar position | Low-bar | High-bar, front squat | Mechanical; the direct EMG comparison found **no difference** between front, full and parallel squats in upper or lower gluteus maximus (Contreras et al., 2016a) |
+| Torso angle | More inclined | More upright | The mechanism above |
+| [Knee travel](#kneetravel) | Restricted | Free | Restricting it hands work to the hip and back — the same finding as Part III §B.10, read from the other side |
+| [Stance width](#stancewidth) | Wide | Narrow | Of eight muscles measured across three stance widths and three loads, stance width changed **only** the gluteus maximus, which was higher at the widest stance (Paoli et al., 2009) |
+| Foot turnout | More turned out | Neutral | Adds an external-rotation component that biases the upper portion; **evidence remains limited and inconsistent** |
+| Hip flexion reached | Deeper | Shallower | Ten weeks: 6.7% vs 2.2% (Kubo et al., 2019) |
+
+**On stance width, the one caveat that matters — and it extends to the whole configuration.** Paoli's
+result is six experienced lifters, acute EMG, no hypertrophy outcome, and the effect appeared at no load
+and at 70% but not at 30%. The ten-week study that *did* measure hypertrophy deliberately held stance
+width at shoulder width in both groups, so the depth effect it found is not a stance-width effect in
+disguise (Kubo et al., 2019). There is now a kinetic measurement in the same direction: hip extensor
+joint moments were greater at a wide stance than at either a medium or a narrow one in twenty-four
+lifters (Hopkins et al., 2024). **Moderate evidence** for the mechanics, and none at all for the
+outcome. Widening the stance is a **reasonable** way to bias a squat toward the hip; it is not a
+demonstrated one, and neither is the low-bar, feet-turned-out, feet-high configuration this Part
+recommends as its default. **Every hypertrophy trial in Part IV used a different setup:** Kubo's was a
+high-bar squat at shoulder width, and Kassiano's leg press used a hip- to shoulder-width foot position
+rather than a high and wide one. Depth is the part that has been tested.
+
+**On the trade you are actually making.** Every row above that moves work to the hip moves it away from
+the knee. A low-bar, wide-stance, restricted-knee-travel squat is a better gluteal exercise and a worse
+quadriceps exercise than a high-bar, narrow, free-knee squat — the same barbell, the same weight, a
+different exercise. Part IV §D.6 and Part III §D.5 have to be read together for this reason.
+
+---
+
+### B.11 What EMG can and cannot settle here
+
+**This is the clearest case of the [EMG–hypertrophy dissociation](#emghypertrophydissociation) in this
+document, and it is worth stating in full because the gluteal literature is where surface EMG has done
+the most damage.**
+
+Sixteen studies, 231 participants and 24 exercise variations were pooled into a single ranking by
+gluteus maximus activity, normalized to maximal voluntary contraction (Neto et al., 2020). The top of
+the list and the bottom of the list are both instructive:
+
+```
+GLUTEUS MAXIMUS EMG - SELECTED ROWS FROM A 24-EXERCISE RANKING (% MVIC)
+  Step-up                        169.2 +/- 101.5     <- 1st of 24
+  Barbell hip thrust              82.4 +/-  18.7
+  Belt squat                      71.3 +/-  29.4
+  Split squat                     70.0 +/-  15.0
+  Conventional deadlift           64.5 +/-  41.7
+  Parallel back squat             59.8 +/-  22.5
+  Front squat                     40.5 +/-   4.7
+  Partial back squat              28.2 +/-  10.3
+  FULL BACK SQUAT                 26.6 +/-  12.3     <- 24th of 24, last
+```
+
+**How thin each row is.** That ranking pools between one and five studies per exercise. The step-up row
+is one study of fifteen participants and the belt squat row one study of thirty-one, while the squat and
+hip thrust rows are four and five studies of seventy-eight and fifty-eight (Neto et al., 2020). The
+comparison below is between rows of very unequal weight.
+
+**The full back squat ranks dead last of twenty-four exercises** — and the full back squat is the
+exercise with the largest measured gluteus maximus volume increase in the depth literature, +6.7% in ten
+weeks (Kubo et al., 2019). The step-up ranks first by a factor of two over the hip thrust, and no
+training study has ever measured gluteal hypertrophy from step-ups at all.
+
+Four more failures of the method, all from within the gluteal literature itself, and the first of them
+tests the question directly:
+
+- **The rank order itself has been checked against muscle force, and it does not survive.** Fourteen trained women performed eight hip exercises at body weight and at a 12-repetition maximum while a neuromusculoskeletal model estimated gluteal muscle force from their own EMG. Ranking the exercises by EMG amplitude produced a **different order** from ranking them by estimated force (Spearman's ρ = 0.29–0.51), and peak EMG amplitude alone explained **5% of the variance in peak gluteus maximus force** (Collings et al., 2025).
+- **The rankings do not replicate between laboratories.** The pooled review puts the step-up first of twenty-four exercises. A study comparing a single-leg squat, a forward lunge and a lateral step-up at matched relative loads found the **single-leg squat higher than both others in every muscle measured but the rectus femoris**, with gluteus maximus activity ranking below both vasti and below the gluteus medius (Muyor et al., 2020).
+- **The same comparison, opposite answers.** One study found the gluteus maximus taking a larger *share of four measured muscles' total activity* as squat depth increased, at a fixed absolute load of 100–125% of body weight (Caterisano et al., 2002). Another, normalizing to a maximal contraction and equating load on a relative basis at a 10-repetition maximum, found gluteus maximus activity significantly higher in the **partial** squat (p = 0.004) (da Silva et al., 2017). Both are competent studies. They disagree because normalization and load-matching choices decide the answer.
+- **EMG predicted the wrong exercise.** In thirteen trained women at estimated 10-repetition-maximum loads, the barbell hip thrust produced roughly **double** the back squat's mean gluteus maximus activity — upper portion 69.5% versus 29.4% of maximum, lower portion 86.8% versus 45.4% (Contreras et al., 2015). Nine weeks of set- and repetition-matched training with those two exercises produced gluteal hypertrophy that could not be told apart (Plotkin et al., 2023), and that study's own analysis found surface EMG amplitudes could not predict hypertrophic outcomes under several analytical approaches. **One exception is worth recording**, because the argument does not need the help: across participants, mean activity at the *upper* site did correlate with growth at that site (r = 0.50, 95% CI 0.03–0.81), while the other three sites did not.
+- **EMG predicted the wrong region.** The hip thrust's activity advantage over the squat was largest at the **upper** portion and smallest at the lower one. The between-group growth estimate ran the other way: it favoured the hip thrust most at the **lower** site and least at the upper one — though every one of those estimates was dwarfed by its own variance (Plotkin et al., 2023).
+
+**What surface EMG over this muscle can legitimately be used for.** Confirming that a movement loads
+the gluteus maximus at all; comparing two variants of the *same* movement in the *same* session on the
+same electrodes, as when the barbell hip thrust beat the band and American variants (Contreras et al.,
+2016b); and rehabilitation dosing, where the question is whether an exercise clears a threshold rather
+than which of two exercises is better (Moore et al., 2020). The study that broke the rankings says the
+same thing from the other side: once exercise and participant are accounted for, peak EMG explained
+80–85% of peak normalized gluteal muscle force, and its authors conclude that EMG "may only be useful
+when comparing within an individual and between biomechanically similar exercises"
+(Collings et al., 2025). That is precisely the barbell-versus-band hip thrust comparison, and precisely
+not the step-up-versus-squat one.
+
+**What it cannot be used for.** Ranking exercises for hypertrophy. Every claim of the form "exercise X
+activates the glutes N% more, therefore it builds more muscle" in the popular literature descends from
+the table above, and the table above puts the full squat last.
+
+---
+
+### B.12 The mechanical checklist
+
+An exercise is a good gluteus maximus exercise to the degree that it satisfies these. Nothing satisfies
+all of them, which is why Part IV §D.6 asks for more than one.
+
+1. It reaches deep hip flexion under load — the position with the highest tension per newton-metre of demand (Part IV §B.6).
+2. Its peak torque demand arrives at or near that position rather than at the top (Part IV §B.8).
+3. It bends the knee, or holds it bent, so the hamstrings cannot take the share (Part IV §B.5).
+4. It can be loaded heavily enough to matter to a 33 cm² muscle (Part IV §A.4).
+5. It is limited by the hip, not by the lower back, the balance or the breath (Part IV §C.5).
+6. Somewhere in the programme, something reaches full hip extension under load (Part IV §B.6, last row).
+7. Somewhere in the programme, something loads hip **abduction**, which none of the above does (Part IV §B.1).
+
+---
+## partivctherepspecified
+
+**PART C — The rep, specified**
+
+### C.1 The universal gluteal rep
+
+Every prescription in Part IV §D is this rep with the setup changed. It is written for a hip-flexing
+exercise — squat, hinge, lunge or leg press; the bridge-pattern version is the same rep run through a
+shorter, shallower arc, and it is written out separately below.
+
+```
+THE GLUTEAL REP - DEFAULT FOR HYPERTROPHY
+  Start           Hip near extension, pelvis neutral, load line over the midfoot
+  Descent         2-3 s, controlled; hip folds first and keeps folding
+  Bottom          Deepest hip flexion you reach with the pelvis still neutral
+  Reversal        Deliberate, from muscular tension, not from tissue rebound
+  Ascent          1-2 s; hips and shoulders rise together
+  Top             Hip fully extended; spine unchanged from the start position
+  Breathing       Inhale and brace at the top; exhale through the second half of the ascent
+```
+
+```
+THE BRIDGE-PATTERN REP - HIP THRUST AND GLUTE BRIDGE
+  Start           Hip at 70-90 deg of flexion, shins vertical, ribs down
+  Descent         2 s; hip folds, pelvis and ribcage move as one unit
+  Bottom          Full available hip flexion for the setup; no rest on the floor
+  Reversal        Deliberate; the peak demand is here, not at the top (Part IV section B.8)
+  Ascent          1 s to full hip extension
+  Top             Hip straight, lumbar spine neutral, 1 s hold
+  Breathing       Exhale on the ascent; do not brace against a locked-out spine
+```
+
+**Why each line is there.** The descent is slow because the deep position is where tension per unit of
+demand is highest (Part IV §B.6), and arriving there fast converts stimulus into a rebound off the
+passive tissues. **The bottom is defined by pelvic position rather than by a joint angle**, because the
+last few degrees of apparent hip flexion in most people are not hip flexion at all — they are the pelvis
+rotating under the spine, and they lengthen nothing gluteal while loading a flexed lumbar spine under
+compression. The top of the bridge rep specifies a neutral lumbar spine because the most common way to
+"finish" a hip thrust is to extend the back instead of the hip, which removes the last part of the range
+the exercise exists to supply.
+
+---
+
+### C.2 The technical errors, in order of how much they cost
+
+| # | Error | What it costs | Fix |
+|---|---|---|---|
+| 1 | Cutting hip flexion as the load rises | The productive end of the range — the largest single loss available (Part IV §B.7) | Fix the depth, let the load follow it |
+| 2 | Reaching depth by tucking the pelvis under | Trades hip range for spinal flexion under load: no gluteal gain, real lumbar cost | Stop at the depth the pelvis holds; widen the stance and turn the feet out first (Part IV §C.3) |
+| 3 | Straightening the knee during a hip extension you meant to be gluteal | Hands the share to the hamstrings (Part IV §B.5) | Keep the knee angle fixed through the rep; check it on video |
+| 4 | Finishing a hip thrust with the lower back instead of the hip | Removes the only part of the range the bridge family exists to load | Ribs down, chin tucked, stop when the hip is straight |
+| 5 | Training only bridge-pattern exercises | Never loads deep hip flexion, where tension per newton-metre is highest | One deep hip-flexion exercise is not optional (Part IV §D.6) |
+| 6 | Training only deep hip-flexion exercises | Never loads the shallow end, and adding a third exercise that does produced measurably more growth — though that trial also added 50% more sets (Kassiano et al., 2024) — see Part IV §B.7 | Add one bridge-pattern exercise |
+| 7 | Never loading hip abduction | Leaves the gluteus medius and minimus untrained; no hip extension exercise covers them | One abduction exercise per week, minimum (Part IV §D.4) |
+| 8 | Set ends because the lower back gave out | Trained the erectors to momentary failure and the glutes to about 5 [RIR](#rir) | Move part of the weekly volume to a supported or bridge-pattern exercise (Part IV §C.5) |
+| 9 | Loading too light because it "activates" well | A 33 cm² muscle is not stimulated by band tension (Part IV §A.4) | Bands and body weight are warm-ups and finishers, not the prescription |
+| 10 | Bouncing the plates off the floor at the bottom of a hip thrust | Unloads the fibres at the exercise's own peak-demand angle | Touch and reverse, or stop 2 cm short |
+
+---
+
+### C.3 Prerequisites — can you actually reach the position?
+
+Three checks, in the order they usually fail.
+
+**1. Hip flexion with a neutral pelvis.** Lie on your back and pull one knee toward the same-side
+armpit, keeping the other leg flat and the lower back in contact with the floor. The thigh should reach
+past 110° of hip flexion before the pelvis starts to roll. If it does not, the depth you reach in a
+squat is being borrowed from the spine.
+
+*If it fails:* widen the stance, turn the feet out more, and re-test. Hip socket depth and femoral neck
+orientation are skeletal and not trainable [consensus — no single source]; stance and turnout are the
+adjustments that are actually available. Do not stretch into a position the pelvis cannot hold under
+load.
+
+**2. Hinge without the lower back doing the folding.** Stand with a broom held along the spine touching
+the back of the head, the mid-back and the sacrum. Push the hips backward with the knees softly bent.
+All three contact points must stay in contact through at least 60–70° of torso inclination.
+
+*If it fails:* the hinge is coming from the lumbar spine, and every Romanian deadlift you perform will
+be a lumbar exercise with gluteal intentions. Train the pattern unloaded before loading it.
+
+**3. Ankle and knee tolerance for the deep position.** The ankle test in Part III §C.3 applies without
+modification, because reaching deep hip flexion in a squat requires the shin to travel.
+
+---
+
+### C.4 Cues — which ones work and which ones harm
+
+| Cue | Verdict |
+|---|---|
+| "Push the floor away" | **Useful** — an external focus, which improves force output |
+| "Spread the floor / knees out" | **Useful here**, unlike in Part III — it adds hip abduction, which does load the upper portion. The external-rotation half of the usual argument does not survive at depth (Part IV §A.3) |
+| "Sit back, not down" | **Useful for glutes** — it inclines the torso, which raises hip torque demand. It is the cue Part III §C.4 lists as *harmful*, for exactly the same mechanical reason |
+| "Ribs down" at the top of a hip thrust | **Useful** — it is the difference between finishing the hip and extending the spine |
+| "Tuck the pelvis at lockout" | **Situational** — it does prevent lumbar hyperextension, and it also shortens the top of the range slightly. Use it if the alternative is arching; do not use it as a way to "peak-contract" |
+| "Squeeze the glutes" | **Situational** — an internal focus. It raises activity and does not isolate (Part II §C.4); useful on light bridge-pattern work, counterproductive on a heavy squat where external focus produces more force |
+| "Drive through the heels" | **Situational** — it inclines the torso toward the hip, which is right for a hinge and wrong for a squat you meant to be quadriceps-dominant |
+| "Chest up" | **Harmful for glutes** — it uprights the torso and moves demand to the knee |
+| "Knees behind toes" | **Situational** — a barrier at the toes raised hip torque from 28 to 303 N·m and lowered knee torque from 150 to 117 N·m in seven trained men at body-weight load (Fry et al., 2003). That is the trade Part IV §B.10 recommends, bought at its steepest, and the lumbar objection is that paper's inference rather than its measurement. Use it as a temporary teaching constraint; do not build a heavy squat around it, because the trunk becomes the limiter (Part IV §C.5) |
+
+The general finding on [attentional focus](#attentionalfocus) is in Part II §C.4 and is not repeated
+here. The one gluteal-specific note is that this is the muscle most often trained on the strength of
+sensation rather than load, and sensation is the least reliable guide available — for the reasons in
+Part IV §B.11.
+
+---
+
+### C.5 The limiting links
+
+A gluteal set should end because the glutes ran out. In practice it very often ends for one of these
+reasons instead:
+
+The thing that ends it first is its
+**[limiting link](#limitinglink)**, and for this muscle group the common ones are:
+
+- **The lower back.** In every hinge-pattern exercise the [erector spinae](#erectorspinae) work isometrically against the same torso inclination that generates the hip torque, and they fatigue first. This is the single strongest argument for keeping some gluteal volume on bridge-pattern and machine exercises.
+- **Bar discomfort on the hips.** The barbell hip thrust is often terminated by the bar, not the muscle. A thick pad or a dedicated machine removes the limit entirely and changes nothing mechanically.
+- **Breathing.** As in Part III §C.5, above roughly 10 repetitions per set on a free squat the breath ends the set.
+- **Balance and the rear leg in split-stance work.** The same limit as Part III §C.5, and the same fix.
+- **Grip, in the hinge family.** A Romanian deadlift set ended by the hands is a forearm set. Use straps; the general treatment is in Part II §C.5.
+
+**None of these are character failures and none are fixed by trying harder.** They are reasons to
+distribute gluteal volume across at least two exercise families, which is what the templates in
+Part IV §F.6 do.
+
+---
+
+### C.6 Bracing, the pelvis and the spine
+
+More than any other muscle in this document, gluteal training is limited by what the pelvis and lumbar
+spine will tolerate — because the muscle attaches to both. Four points:
+
+- **[Posterior pelvic tilt](#pelvictilt) at the bottom of a squat is a range limit, not a technique flaw to be cued away.** When the pelvis rotates under the spine at depth, hip flexion has ended and lumbar flexion has begun. Under load, that is where the range should end too.
+- **[Anterior pelvic tilt](#pelvictilt) at the top of a hip thrust is the same error in reverse.** The rep looks finished and the hip is not extended.
+- **A belt does not change which muscle is trained.** It changes how much load the trunk can support while it is trained.
+- **The gluteus maximus compresses the sacroiliac joint when it contracts** (Part IV §A.5). This is a reason that gluteal training is often part of a low-back rehabilitation programme; it is **not** a reason to expect gluteal training to fix a painful back, and no claim of that kind is made in this document.
+
+The general treatment of spinal loading lives in `strength-and-body-composition.md`.
+
+---
+
+### C.7 How to know it worked
+
+The set was a gluteal set if, at the end of it:
+
+- the fatigue and the point at which the set ended were in the buttock, not the lower back, the front of the thigh or the hamstrings;
+- hip depth on the last repetition matched hip depth on the first, and the pelvis stayed neutral on both;
+- the knee angle at the bottom was the same on the last repetition as on the first, so the share did not drift to the hamstrings mid-set (Part IV §B.5);
+- you could not have completed the target depth again, but could have completed a shallower one.
+
+That last test again separates **[technical failure](#technicalfailure)** at depth from
+**[momentary failure](#momentaryfailure)** of the muscle. For the bridge family the equivalent test is
+different and simpler: **if the last repetition finished with the back rather than the hip, the set was
+over one repetition ago.**
+
+---
+## partivdexercisecatalogue
+
+**PART D — Exercise catalogue**
+
+Every entry gives its resistance profile (Part IV §B.8), the setup detail that actually matters, and
+the failure mode. **Entries are grouped by what the knee does while the hip extends**, because that —
+not the equipment name — is what decides how much of the hip extension the gluteus maximus takes
+(Part IV §B.5).
+
+---
+
+### D.1 Deep hip-flexion exercises — the knee bends with the hip
+
+Everything in this group folds the hip past 90° under load, peaks at the bottom, and brings the
+quadriceps and the adductors along. It supplies the part of the range that carries most of the effect
+(Part IV §B.7), and it is the group people are most likely to already be doing.
+
+#### Back squat, low-bar
+**Profile:** stretch-loaded, hip-dominant. **Role:** the highest-load gluteal exercise available to
+most people.
+
+*Setup.* Bar on the rear deltoids across the spine of the scapula, stance wider than shoulder width,
+feet turned out. Torso inclined.
+*Execution.* Descend 2–3 s to the deepest hip flexion the pelvis holds. Hips and shoulders rise
+together.
+*Why it works.* The inclined torso maximizes the horizontal hip-to-load-line distance, which is the
+entire hip torque term (Part IV §B.8). Wide stance added gluteal activity where it changed nothing else
+(Paoli et al., 2009).
+*Failure mode.* Depth drifting shallower as load climbs — error 1 in Part IV §C.2 — and pelvic tuck at
+the bottom, which is error 2.
+
+#### Back squat, high-bar
+**Profile:** stretch-loaded, balanced between hip and knee.
+*Trade.* A more upright torso, less hip torque, more knee. Still a strong gluteal exercise: ten weeks of
+it to 140° of knee flexion produced **+6.7 ± 3.5%** gluteus maximus volume, against +2.2 ± 2.6% at 90°
+(Kubo et al., 2019). That is the single largest measured gluteal gain from one exercise in the depth
+literature.
+*Note.* No EMG difference was found between front, full and parallel squats in upper or lower gluteus
+maximus (Contreras et al., 2016a), so the choice within the barbell family is about load, depth and
+comfort rather than about muscle selection.
+
+#### Front squat (barbell)
+**Profile:** stretch-loaded, knee-dominant.
+*Role.* A quadriceps exercise that also trains the glutes, rather than the reverse. Choose it when the
+same session has to serve both.
+
+#### Leg press (sled), feet high and wide
+**Profile:** stretch-loaded, trunk unloaded. **Role:** the highest-volume deep hip-flexion exercise.
+
+*Setup.* Feet high on the platform and wider than hip width, turned out. This is the exact inverse of
+the quadriceps setup in Part III §D.1.
+*Why it works.* Foot placement moves the demand between hip and knee, and the sled removes the trunk
+as a limiter, so the set can end at the hip. A 45° leg press with a **hip- to shoulder-width** foot
+position — not a high and wide one — was one of the two base exercises in the study that measured adding
+a hip thrust on top (Kassiano et al., 2024).
+*Failure mode.* Pelvic tuck at the bottom, which loads a flexed lumbar spine under compression. That,
+not depth itself, sets the range.
+
+#### Hack squat and pendulum squat, feet high
+**Profile:** stretch-loaded, path fixed.
+*Note.* Same logic as the leg press: feet high and forward on the platform increases hip flexion and
+reduces knee travel. No training study has measured gluteal hypertrophy from either machine
+[consensus — no single source].
+
+#### Belt squat (hip-loaded)
+**Profile:** stretch-loaded, spine unloaded.
+*Role.* The answer when lower-back fatigue is the binding constraint (Part IV §C.5). It ranked ninth of
+twenty-four exercises for gluteal activity (Neto et al., 2020), which for an exercise with no axial
+load is a favourable trade rather than a ranking to act on.
+
+#### Bulgarian split squat (rear foot elevated)
+**Profile:** stretch-loaded, long range, one leg.
+
+*Setup.* **Front foot further forward than the quadriceps setup**, torso inclined over the front thigh.
+The further forward the foot and the more the torso leans, the more hip and the less knee — which is
+the setup Part III §D.2 tells you to avoid, used deliberately.
+*Why it matters.* A single-leg squat pattern produced greater gluteus maximus activity than either a
+bilateral squat or a stiff-leg deadlift at matched 8RM loads, in eighteen trained women
+(McCurdy et al., 2018). **Interpretive caution:** acute EMG, a modified single-leg squat rather than this
+exercise, and Part IV §B.11 applies. The stronger argument is that it loads hip extension and
+frontal-plane pelvic control in the same set — one of three exercises in this Part that do, alongside the
+single-leg Romanian deadlift and the single-leg glute bridge (Part IV §D.4).
+*Failure mode.* The set ends on balance or on the rear leg (Part IV §C.5). Hold a rack upright with one
+hand.
+
+#### Walking and reverse lunge, deficit reverse lunge
+*Profile.* Stretch-loaded, one leg. The reverse lunge is more hip-dominant than the walking lunge at the
+same load; performing it from a 10–15 cm platform adds hip flexion at the bottom.
+*Role.* Useful, and limited by systemic fatigue and coordination rather than by gluteal capacity.
+
+#### Step-up (box)
+*Profile.* Stretch-loaded at the bottom, torque falling steeply as you rise.
+*Note.* **This is the exercise the EMG literature ranks first of twenty-four, at 169 ± 101% of maximal
+voluntary contraction — more than double the barbell hip thrust** (Neto et al., 2020). It is also an
+exercise from which **no gluteal hypertrophy has ever been measured** [consensus — no single source],
+and the standard deviation on that figure is more than half the mean. Use a high box, load it, and treat
+it as a good unilateral option — not as the best gluteal exercise, which is a claim the ranking cannot
+support (Part IV §B.11).
+
+#### Smith-machine squat, feet forward
+**Profile:** stretch-loaded, hip-shifted, path fixed.
+*Note.* Feet placed **forward** of the bar line slope the shin backwards and hand the work to the hip.
+Part III §D.1 calls this "the single most common way this machine is set up wrong" for quadriceps
+training; for gluteal training it is the correct setup. Same machine, opposite instruction.
+
+#### Goblet squat
+*Role.* A teaching tool and a depth-finder. The counterweight makes an upright torso easy, which is
+exactly what a gluteal squat does not want — so use it to find depth, then move the load to the back.
+
+---
+
+### D.2 Hinge-pattern exercises — the knee stays near straight
+
+Everything here loads deep hip flexion with the knee nearly extended, which means the hamstrings are
+long at both ends and take a large share (Part IV §B.5). These are **posterior-chain exercises**, and
+they are gluteal exercises second. They are in Part IV because they are unavoidable, useful and
+routinely miscategorized.
+
+#### Romanian deadlift (barbell)
+**Profile:** stretch-loaded, knee near straight. **Role:** the best hinge for gluteal purposes, because
+its range is bounded by hip flexion rather than by the floor.
+
+*Setup.* Knees softly bent and **held at that angle for the whole set**. Bar close to the legs. Hips
+back until the hamstrings stop the descent with the spine unchanged.
+*Evidence note.* At one-repetition maximum, gluteus maximus activity in the Romanian deadlift was not
+statistically different from the barbell hip thrust, while vastus lateralis activity was far lower than
+in a squat (Delgado et al., 2019). Eight men, acute EMG.
+*Failure mode.* The knee angle drifting open across the set, which converts it into a stiff-leg deadlift
+mid-set; and the lower back, which usually ends the set before the hip does.
+
+#### Stiff-leg deadlift, from a deficit
+*Profile.* As above, with more hip flexion available.
+*Note.* A plain barbell stiff-leg deadlift was one of the two base exercises in the trial that added a
+hip thrust on top and found the addition worth **+3.3 percentage points** of gluteus maximus thickness
+over ten weeks (Kassiano et al., 2024), with the volume caveat in Part IV §B.7. Performing it from a
+deficit adds hip flexion at the bottom and has not been tested.
+
+#### Conventional, sumo and hex-bar deadlift
+*Profile.* Stretch-loaded, shared with the entire body.
+*Reality.* In a systematic review of deadlift electromyography, **erector spinae and quadriceps activity
+exceeded gluteus maximus and hamstring activity** across the deadlift and its variants
+(Martín-Fuentes et al., 2020). The deadlift is a superb exercise for many purposes. It is not an
+efficient way to buy gluteal hypertrophy, because the fatigue is systemic and the share is small.
+
+#### Good morning (barbell)
+*Profile.* Stretch-loaded, hip-dominant, spinally expensive.
+*Role.* A strong hip extension pattern with a low load ceiling set by the lower back rather than by the
+hip. A reasonable accessory, a poor main lift for this purpose.
+
+#### 45° back extension (hip extension)
+**Profile:** mid-range-loaded, peaking as the torso passes through horizontal, and holding about 70% of
+that peak at full hip extension (Part IV §B.8).
+
+*Setup.* Pad below the anterior superior iliac spines so the hip can move. Round the upper back
+deliberately or keep it neutral; either way the movement must come from the hip.
+*Why it is here.* It is the cheapest hinge in the catalogue: no axial load, no grip limit, no balance
+requirement, and it can be loaded to failure safely. **Its real limit is the opposite of the one usually
+named** — not that the top is empty, but that the bottom is: the deeper the torso hangs, the more the
+load line closes on the hip, so this exercise never loads deep hip flexion under meaningful torque.
+*Evidence note.* Six weeks of 45° hip extension training in thirty-two resistance-trained men raised hip
+extensor strength under both gravitational and inertial loading (Martín-San Agustín et al., 2025).
+**Moderate evidence** — no gluteal measurement was taken, so this says the exercise trains the hip
+extensor group hard, not how the group's work is shared.
+*How to use it.* As high-repetition hinge volume — and as a genuine, cheap way to load the shallow end of
+the range if a bridge-pattern exercise is unavailable.
+
+#### Cable pull-through (low pulley)
+*Profile.* Stretch-loaded, light, hip-dominant.
+*Role.* A hinge with the load line running backwards between the legs rather than downward, which lets
+the torso stay more upright and removes most of the spinal cost. Its ceiling is the cable stack and your
+ability to stay anchored to the floor.
+
+#### Single-leg Romanian deadlift
+*Profile.* Stretch-loaded, one leg, balance-limited.
+*Role.* The only exercise in this Part that appears in the top tier of estimated muscle force for the
+gluteus maximus, the gluteus medius **and** the gluteus minimus at once (Collings et al., 2023).
+**Moderate evidence** — musculoskeletal modelling in fourteen trained women, no hypertrophy outcome.
+*Failure mode.* Balance, not the hip. Hold a rack upright with the free hand and the load ceiling rises
+considerably.
+
+#### Reverse hyperextension (machine)
+*Profile.* Machine-dependent — check where the arc puts peak demand.
+*Note.* Popular, lightly researched. No training study has measured gluteal hypertrophy from it
+[consensus — no single source]. Treat it as a low-cost hinge-pattern accessory.
+
+---
+
+### D.3 Bridge-pattern exercises — the knee stays bent, and the hip reaches the shallow end
+
+**This is the group most programmes are missing, and it is missing for the wrong reason.** Everything
+here holds the knee at roughly 90°, which removes the hamstrings' contribution (Part IV §B.5), and
+loads the shallow end of hip extension — which nothing in Part IV §D.1 reaches under meaningful torque.
+**Two qualifications the folklore drops.** The barbell hip thrust does not reach anatomical neutral:
+measured, it covers 75 ± 19° of hip extension from a start near 90° of flexion, finishing near 15–20°
+of flexion (Brazil et al., 2021). And it is not the only exercise that loads this end — the 45° back
+extension in Part IV §D.2 holds a larger fraction of its own peak there (Part IV §B.8), with the knee
+open and the hamstrings taking their share.
+
+#### Barbell hip thrust
+**Profile:** peak demand at **~83° of hip flexion**, falling by about two thirds to lockout
+(Brazil et al., 2021). **Role:** the default end-range gluteal exercise.
+
+*Setup.* Shoulder blades on a bench at about knee height, feet placed so the shins are vertical at the
+top, stance about hip width, feet turned out slightly. Pad the bar.
+*Execution.* Descend 2 s under control to full available hip flexion; do not rest the plates on the
+floor. Reverse deliberately — **the peak demand is at the bottom, not the top**. Finish with the hip
+straight and the ribs down; hold 1 s.
+*Evidence note.* Nine weeks of set- and repetition-matched training produced **gluteal hypertrophy indistinguishable
+from the back squat's** at lower, mid and upper measurement sites, while the squat was superior for
+quadriceps and adductors (Plotkin et al., 2023). Adding it to a programme of leg press and stiff-leg
+deadlift produced **+9.3% versus +6.0%** gluteus maximus thickness over ten weeks
+(Kassiano et al., 2024). Both trials used untrained participants.
+*The dissent, recorded.* One twelve-week trial in trained women reported the **back squat superior** for
+gluteus maximus thickness, +9.4% versus +3.7% (Barbalho et al., 2020). **Contested** on two independent
+grounds. Methodologically, the squat arm trained through a full range while the hip thrust arm trained
+through a partial one, at one session and six sets a week — so the comparison is between a full-range
+exercise and a short-range one rather than between two exercises. And that trial's data have been the
+subject of a published integrity analysis documenting improbable patterns across this research group's
+output, including a perfect correlation between baseline squat and hip thrust strength
+(Vigotsky et al., 2020), with several papers by the same group since retracted. The one comparison in
+trained lifters free of both problems found no difference: six weeks of repetition-equated
+horizontally-loaded versus vertically-loaded training raised gluteal thickness similarly in nineteen
+resistance-trained participants (Bartolomei et al., 2025).
+*Failure mode.* Finishing with the lumbar spine instead of the hip — error 4 in Part IV §C.2 — and
+setting the bench too high, which shortens the range at the bottom where the demand actually peaks.
+
+#### Machine hip thrust
+**Profile:** as above, with the demand curve set by the manufacturer.
+*Role.* Removes the bar discomfort and the setup time that end most barbell hip thrust sets
+(Part IV §C.5). **Promising but under-replicated** — no trial has compared the two, and the argument is
+that removing a non-muscular limiter should let the set end at the hip. The one caution is that some
+machines shorten the bottom of the range, which is where the demand peaks (Part IV §B.8).
+
+#### Barbell glute bridge
+*Profile.* As the hip thrust, through a shorter arc — the shoulders are on the floor rather than a
+bench, so the hip starts nearer extension.
+*Evidence note.* In a direct comparison in ten men, the glute bridge produced **greater** upper and
+lower gluteus maximus activity than the hip thrust, and less vastus lateralis
+(Kennedy et al., 2024). **Promising but under-replicated** — acute EMG, ten participants, no
+hypertrophy outcome, and Part IV §B.11 applies to it in full.
+*Role.* A reasonable substitute when no bench is available; not a demonstrated improvement.
+
+#### Single-leg hip thrust and B-stance hip thrust
+*Profile.* As the hip thrust, one leg at a time or with one leg lightly assisting.
+*Role.* Useful for adding volume without adding external load, and for addressing a side-to-side
+difference. The B-stance keeps most of the stability of the bilateral version.
+
+#### Kneeling banded hip extension
+*Profile.* Peak demand near full hip extension; light.
+*Evidence note.* Six weeks raised upper gluteus maximus thickness, with blood flow restriction adding a
+clinically meaningful increment (reported in Krause Neto et al., 2025). **Promising but
+under-replicated** — a single small study in a non-indexed journal, read here through the meta-analysis
+that included it.
+*Role.* The best low-equipment option for the upper portion, and a genuine one — but a band is not a
+substitute for load on a 33 cm² muscle (Part IV §A.4).
+
+#### Cable or machine kickback (standing hip extension)
+*Profile.* Machine-dependent; typically peaks near mid-range and holds some demand toward extension.
+*Role.* Single-joint hip extension with the trunk supported. Its value is that it can be taken to
+[momentary failure](#momentaryfailure) at no systemic cost; its limit is that the load ceiling is low
+and the stabilizing leg often fails first.
+
+---
+
+### D.4 Abduction — the exercises for the gluteus medius and minimus
+
+**No *bilateral* exercise in Part IV §D.1 to Part IV §D.3 trains these muscles meaningfully**, because
+none of them loads [hip abduction](#hipabduction), which is what these muscles do. The unilateral
+exercises in those groups are the exception: modelling of fourteen trained women put the loaded
+single-leg squat and the loaded single-leg Romanian deadlift in the top tier of estimated gluteus medius
+force, alongside the body-weight side plank (Collings et al., 2023). **Moderate evidence** — modelled
+force rather than measured hypertrophy. A programme built only on bilateral squats, hinges and bridges
+contains no gluteus medius work, whatever it contains for the maximus.
+
+The evidence base here is rehabilitation electromyography rather than hypertrophy, and it should be read
+that way: it tells you which exercises exceed the ~40% of maximal voluntary contraction conventionally
+taken as a strengthening threshold, in which segment (Moore et al., 2020). **The segments themselves are
+less securely established than that reporting suggests** — a systematic review of the gross anatomy of
+these three muscles concluded that methodological limitations make the existence of anatomical
+compartments within them difficult to assess at all (Flack et al., 2012). **Five studies have measured
+gluteus medius or minimus size before and after a training programme, and none of them was a hypertrophy
+trial.** Twelve weeks of targeted gluteal exercise in people with hip osteoarthritis raised gluteus
+minimus volume against a sham programme while leaving the gluteus medius unchanged
+(Rostron et al., 2022); twelve weeks of standard strength and flexibility training in people with
+hip-related groin pain raised gluteus medius volume by about 4% (Koch et al., 2022). Three others found
+no change — nine weeks of squats or hip thrusts (Plotkin et al., 2023), ten weeks of aquatic or standard
+therapy (Montpetit et al., 2026), and eight weeks of band exercise (Fukumoto et al., 2014). **Evidence
+remains limited and inconsistent**: two small positive results out of five, all in clinical populations,
+none designed to grow a healthy abductor. Gluteus medius size and gluteus medius strength are also not
+the same target — one trial raised abductor strength 39% while the muscle's volume did not rise at all
+(Montpetit et al., 2026).
+
+| Exercise | What it loads best | Note |
+|---|---|---|
+| Side plank, top-leg raise optional | Gluteus medius and minimus together | Top tier for **both** muscles at body weight in the only study to model gluteal forces across these exercises (Collings et al., 2023); the best no-equipment option |
+| [Hip abduction machine](#hipabductionmachine), seated | Both muscles, loadable, progressable | The only abduction exercise with a real load ceiling. **Lean the torso forward** to bias the posterior fibres, upright for the anterior |
+| Single-leg Romanian deadlift | Gluteus medius, minimus **and** maximus | Top tier for all three (Collings et al., 2023); it overlaps with Part IV §D.2, which makes it the most efficient single exercise in the Part |
+| Standing cable hip abduction | Both, one side at a time | Loads the stance leg's abductors at the same time, which is a bonus and a confound |
+| Hip hitch / pelvic drop | **Every segment of both muscles** above threshold (Moore et al., 2020) | The most complete single option in the review, and it needs a step and nothing else |
+| Side-lying hip abduction with hip internal rotation | Middle gluteus medius | Body weight only; add an ankle weight or a band |
+| Resisted lateral walk / side-step | Middle gluteus medius | Load ceiling is the band; a warm-up and a finisher rather than a growth driver |
+| Single-leg glute bridge | Middle gluteus medius, plus gluteus maximus | Overlaps with Part IV §D.3, which makes it efficient |
+| Lateral step-up | Middle gluteus medius | Also a Part IV §D.1 exercise; the same efficiency argument |
+
+**One number to hold onto before loading the abduction slot heavily.** Adding a 12-repetition-maximum
+external load to these exercises raised peak modelled gluteal force by only **28–150 N** over body weight
+(Collings et al., 2023). **Moderate evidence** — modelled, one cohort. Load the machine like any other
+exercise, but do not expect load to buy as much here as it does in a squat.
+
+**The practical reading.** If you have a machine, use it and progress the load like any other exercise.
+If you do not, the hip hitch is the highest-coverage option and a single-leg bridge covers both gluteal
+jobs at once. **What does not work is treating a band circuit as the abduction prescription** — it
+clears an activation threshold, which is not the same as loading a 33.8 cm² muscle (Part IV §A.4).
+
+---
+
+### D.5 Exercises that are not gluteal exercises
+
+| Exercise | Why people believe it is | Reality |
+|---|---|---|
+| Leg extension | It is a leg machine | The hip does not move. Trains the antagonist's neighbour |
+| Leg curl | The hamstrings are "posterior chain" | Knee flexion only; the hip does not move |
+| Clamshell | It burns in the right place | A hip-external-rotation drill with a load ceiling near zero. It appears in none of the recommended lists for any gluteus medius or minimus segment in the review that assessed them, and most of its reported values sit below that review's 40% threshold (Moore et al., 2020) |
+| Band circuits before lifting | "Activating the glutes" | See below — the effect is real, and it is not what people think it is |
+| Sissy squat | It is a leg exercise | The hip is held **extended**; this is the rectus femoris exercise of Part III §D.3 |
+| Calf raise | It is a posterior-chain exercise | Trains the plantar flexors |
+| Conventional deadlift | It is heavy and hip-driven | Erector spinae and quadriceps out-activate the glutes in it (Martín-Fuentes et al., 2020); the fatigue is systemic and the gluteal share is small |
+| Walking, and step counts | The glutes are "used" all day | The gluteus maximus is **mostly quiescent in level and uphill walking** (Lieberman et al., 2006) |
+
+**On "glute activation" work, stated fairly rather than dismissively.** A one-week programme of
+band-resisted isometric hip extension, performed twice daily, raised gluteus maximus activity during a
+double-leg squat by 57% and during a single-leg squat by 53% (Cannon et al., 2022). That is a real
+finding, well designed, and it is the strongest version of the case. **Promising but
+under-replicated** — twelve participants, no control group, no hypertrophy outcome, and the entire
+argument of Part IV §B.11 applies to the outcome measure. What it supports is using activation work as a
+*preparation* for loaded hip extension in someone who cannot feel or drive the muscle. What it does not
+support is activation work as a substitute for load, and it says nothing at all about "gluteal amnesia",
+which is not a diagnosis this document recognizes.
+
+**The general rule:** an exercise builds gluteal size to the degree that it puts high tension on the
+muscle while the hip is moving through a large range. Both halves are load-bearing. An exercise with a
+large range and no load is a warm-up; an exercise with a large load and no hip motion is a different
+muscle's exercise.
+
+---
+
+### D.6 Selection rules
+
+1. **Pick one deep hip-flexion exercise you can load and reproduce.** Low-bar squat, leg press with the feet high and wide, hack squat with the feet high, or a Bulgarian split squat. This is the largest single block of the effect (Part IV §B.7). **Interpretive caution:** the low-bar, wide-stance, feet-high configuration is a mechanical inference plus acute electromyography in six lifters — the trial that produced the largest measured gluteal gain here used a high-bar squat at shoulder-width stance (Kubo et al., 2019). Choose the setup you can load and reproduce; **depth is the part that has been tested.**
+2. **Pick one bridge-pattern exercise.** Hip thrust or machine hip thrust. It supplies the shallow end of the range that the first exercise does not load, and adding a third exercise to a programme that already had two produced measurably more growth — though that trial added 50% more weekly sets at the same time and cannot separate the two (Kassiano et al., 2024) — see Part IV §B.7. A 45° back extension is the cheap substitute (Part IV §B.8).
+3. **Add one abduction exercise.** Nothing in rules 1 and 2 trains the gluteus medius or minimus (Part IV §D.4). One exercise, once or twice a week, is the whole requirement.
+4. **Add a hinge only if there is volume left after those three,** or if you want it for its own sake. It is a posterior-chain exercise that pays a gluteal dividend, not the reverse (Part IV §D.2).
+5. **Do not pick two exercises from the same group instead of one from each.** Two squat variants cover the same part of the range twice; two bridge variants cover the other part twice. The evidence for coverage is stronger than the evidence for any individual exercise.
+6. **Choose within a group by what limits the set,** not by what activates most (Part IV §B.11). If your lower back ends the set, the supported version is the better exercise for you even if the free-weight version is "better" in the abstract.
+7. **Do not choose by EMG ranking.** The exercise at the bottom of that ranking has the best hypertrophy result in the literature (Part IV §B.11).
+
+---
+## partivecontextmodifiers
+
+**PART E — Context modifiers: when "perfect" changes**
+
+Part IV §C gives the default for hypertrophy in a healthy trained adult. This Part lists every context
+that changes it, and what it changes it to. Find the rows that describe you; they compose.
+
+---
+
+### E.1 Goal contexts
+
+| Context | What changes | Why |
+|---|---|---|
+| Hypertrophy only | The default in Part IV §C, unchanged | — |
+| Hypertrophy on limited time | Low-bar squat or leg press with the feet high, plus a hip thrust. Two exercises cover both ends of the range | The two halves of Part IV §B.6, with no redundancy |
+| Glutes prioritized over quadriceps | Feet high and wide on every sled; low-bar over high-bar; torso inclined; hip thrust rather than a second squat | Every setting in Part IV §B.10 moved toward the hip |
+| Glutes and quadriceps both | Two different setups of the same pattern, in different sessions, rather than one compromise setup | A single mid-setting squat is a mediocre version of both exercises |
+| Maximal strength (a bigger squat or deadlift) | The competition lift becomes the main exercise; gluteal work becomes accessory | Specificity |
+| Sprint and jump performance | Keep depth, add the bridge family, add unilateral work | Gluteal cross-sectional area was larger in high-impact, odd-impact and high-magnitude loading athletes than in controls (Niinimäki et al., 2016). **Moderate evidence** — 91 female athletes against 20 controls, cross-sectional, with body size and strength also tracking cross-sectional area. **Caveat:** the transfer evidence is null — pooled squat and hip thrust training changed neither sprint time nor change-of-direction performance, and the squat was the better of the two for vertical jump (Asghari et al., 2025). Train the muscle for size; do not expect the exercise choice to buy the sport quality |
+| Hip abductor strength specifically | Part IV §D.4 becomes the priority and gets progressive load, not a band | The abduction exercises are the only ones that train it |
+| Fat-loss phase | Volume held, load held, range held; expect maintenance | Detail in `strength-and-body-composition.md` |
+| Rehabilitation from lateral hip pain | Governed by Part IV §E.4, not by this table | Different problem, different loading rules |
+
+---
+
+### E.2 Body contexts
+
+| Context | What changes | Why |
+|---|---|---|
+| Long femurs relative to torso | Expect more forward lean at the same depth — which for gluteal purposes is an **advantage**, not a fault | The lean is the hip torque term (Part IV §B.8) |
+| Hip socket depth or femoral neck orientation limiting flexion | Accept the depth at which the pelvis stays neutral; widen the stance and turn the feet out first | Skeletal, not trainable (Part IV §C.3) |
+| Pelvis tucks under early in a squat | The squat is not your deep hip-flexion exercise. Use a leg press with the feet high, where the pelvis is supported | The tuck is where hip range ends and lumbar range begins (Part IV §C.6) |
+| Limited [ankle dorsiflexion](#ankledorsiflexion) | Matters less here than in Part III; a hip-dominant squat needs less shin travel | The trade-off runs the other way |
+| Untrained | Almost anything works; establish depth and pelvic control before load | Eight of the twelve trials in the meta-analysis used untrained or detrained participants (Krause Neto et al., 2025) |
+| Well trained | Expect small annual changes; coverage of the range and honest load progression matter more than novelty | Three of the twelve trials used trained participants, and the pooled effect in them was statistically indistinguishable from the untrained subgroup — SMD 0.64 (95% CI 0.30–0.98) against 0.74 (0.47–1.01) (Krause Neto et al., 2025). **Interpretive caution:** two of those three come from the research group with a published integrity analysis against it (Part IV §D.3), so the trained subgroup is not an estimate to lean on. What is true is that almost nothing has been measured in trained lifters |
+| Female | **No change to the mechanics or the prescription** | No sex-specific gluteal response has been shown, and the reverse of the usual caveat applies to part of this literature: the exercise-selection trials were run mostly or entirely in women, so those results generalize to women better than most chapters of this document. The pooled base is closer to even (144 women, 174 men across twelve trials), and the squat-depth trial this Part leans on hardest was seventeen men (Kubo et al., 2019). **Two measured differences worth knowing**, neither of which has been shown to change a prescription: relative gluteal muscle mass differs by sex, and the cadaveric architecture Part IV §A.4 rests on came from elderly specimens of both (Maarleveld et al., 2025); and hip extensor moment arms differ significantly by sex at every angle measured, with women carrying a shorter gluteal lever and a longer adductor magnus lever through the shallow half of a squat (Németh & Ohlsén, 1985) |
+| Male | No change | As above |
+| Older adults | Same pattern, more attention to control at the bottom and to single-leg work | Detail in `strength-and-body-composition.md` |
+| Postpartum, or any pelvic-floor symptom | Professional assessment before loaded hinging and bracing | Outside the scope of this document |
+| Large body mass | Machine and bridge-pattern variants earlier in the session | Set termination shifts to the trunk and the joints sooner (Part IV §C.5) |
+| Marked side-to-side difference in single-leg stance | Add unilateral work and an abduction exercise; re-test rather than assume it resolves | Frontal-plane control is a gluteus medius and minimus job (Part IV §B.1) |
+
+---
+
+### E.3 Equipment contexts
+
+| Context | Prescription | Note |
+|---|---|---|
+| Full gym | Low-bar squat or leg press feet-high, plus machine hip thrust, plus the abduction machine | The default |
+| Barbell and rack only | Low-bar squat, barbell hip thrust off a bench, plus a banded or side-lying abduction option | The abduction slot is the one that suffers |
+| Machines only | Leg press feet high and wide, machine hip thrust, seated abduction machine | No trial has compared a machine-only gluteal programme with a free-weight one; what machines demonstrably buy is reproducibility of depth and of the limiting link (Part IV §C.5) |
+| Dumbbells only | Bulgarian split squat, dumbbell hip thrust or glute bridge, side-lying abduction | Load becomes the limit before the muscle does |
+| Cable stack only | Cable pull-through, standing cable abduction, cable kickback, split squat holding the handle | A complete gluteal programme is possible; the deep-flexion slot is the weak one |
+| Home, no equipment | Bulgarian split squat, single-leg hip thrust off a sofa, deficit reverse lunge, hip hitch off a step | **The load ceiling is real.** Progress by adding a loaded backpack, elevating the front foot, moving to single-leg versions, and slowing the eccentric. Six weeks of progressive body-weight squat variations raised gluteus maximus thickness in previously sedentary women, and the trial could not tell it apart from barbell back squats (Wei et al., 2023). **Interpretive caution:** thirteen participants in total, six against seven, allocated by self-selection through a course-enrolment system — far too small to establish equivalence. What it shows is that body-weight training grows an untrained gluteus maximus, not that it matches a barbell. **Promising but under-replicated.** Without added load it becomes a maintenance prescription within a few months |
+| Bands only | Poor fit for the maximus, adequate for the abduction slot | Band tension is lowest at the bottom, which is where hip extension demand should peak (Part IV §B.8) |
+| Smith machine only | Feet placed **forward** of the bar path; deep range | The fixed path is an advantage here, unusually |
+| Blood flow restriction available | An option for adding volume at light load, and the one context where band-resisted hip extension has an outcome behind it | Reported in Krause Neto et al., 2025; **promising but under-replicated** |
+
+---
+
+### E.4 Pain and pathology contexts
+
+**Nothing in this section is medical advice, and none of it substitutes for assessment.** It lists what
+is commonly modified and why, so that a conversation with a clinician starts further along.
+
+| Context | Common modification | Evidence note |
+|---|---|---|
+| [Gluteal tendinopathy](#glutealtendinopathy) — pain over the [greater trochanter](#greatertrochanter) | **Reduce compressive positions first**: no sitting with the legs crossed, no standing hung on one hip, a pillow between the knees at night, and stop the adduction stretches. Then load the abductors progressively, starting isometric | The tendons are compressed against the trochanter by the [iliotibial tract](#iliotibialtract) as the hip adducts, which is why stretching it worsens the problem (Grimaldi & Fearon, 2015). In 204 people, education plus exercise beat one corticosteroid injection and beat waiting, at 8 weeks and again at 52 weeks (Mellor et al., 2018) |
+| [Femoroacetabular impingement](#femoroacetabularimpingement) symptoms — groin pain that catches at depth | Reduce depth to the pain-free range; widen the stance and turn the feet out; use a bridge-pattern exercise for the volume that depth used to supply | The syndrome requires symptoms, clinical signs **and** imaging findings together — imaging alone does not make the diagnosis (Griffin et al., 2016) |
+| [Hip osteoarthritis](#hiposteoarthritis) | Loaded hip extension in the tolerated range; depth guided by symptoms rather than by a rule | Individual assessment governs; the general exercise-therapy case is in `strength-and-body-composition.md` |
+| Deep buttock pain with referral down the leg | Stop. This is a neural-symptom presentation and needs assessment before any loading decision | Not a training problem |
+| Sacroiliac or low-back pain provoked by hinging | Move volume to bridge-pattern and machine exercises, which produce hip torque without torso inclination | The mechanism is in Part IV §B.8; hinges buy hip torque with spinal load |
+| History of a hamstring muscle-strain injury | Keep the knee bent in gluteal work — bridge-pattern rather than hinge — until the hamstring is separately rehabilitated | Knee flexion removes the hamstrings' contribution (Part IV §B.5), which is exactly what is wanted here |
+| After hip replacement | Governed by the surgical protocol and the clinician, not by this document | Deep flexion, adduction and internal rotation combinations are commonly restricted |
+| Lateral hip pain lying on that side at night | Treat as gluteal tendinopathy until assessed | It is the single most characteristic symptom |
+| Pain at the bottom of a squat that disappears with a wider stance | A position problem, not a tissue problem, until proven otherwise | Reproduce it, adjust it, re-test it |
+
+**The one place this literature is unusually clear, and the one place it is not.** For lateral hip pain,
+a physiotherapist-led programme of education and exercise — fourteen sessions over eight weeks —
+produced better global improvement than a corticosteroid injection at eight weeks and held that
+advantage at a year, while doing nothing was worse than both (Mellor et al., 2018). It is a 204-person
+randomized trial with 92.6% follow-up at a year, which by the standards of everything else cited in this
+Part is a very strong piece of evidence.
+
+**Interpretive caution: what it tested was the whole package.** Trials that isolated the loading
+component found it did not separate from a sham exercise programme when both arms received the same
+education (Ganderton et al., 2018); a 2 × 2 factorial trial found no effect of exercise *type*
+(McMillan et al., 2022); and the parent trial's own mediator analysis attributed the benefit to
+patient-specific function, pain constancy and pain self-efficacy rather than to hip muscle torque
+(Mellor et al., 2022). Load the abductors because the package that contains loading works. Do not
+promise that the loading is the active ingredient.
+
+**A dose, because "load progressively" is not one.** The heaviest published protocol for this condition:
+
+```
+GLUTEAL TENDINOPATHY - THE HEAVIEST PUBLISHED LOADING PROTOCOL
+  Load          12RM weeks 1-4 / 10RM weeks 5-8 / 8RM weeks 9-12
+  Tempo         3 s concentric / 3 s eccentric
+  Sets/reps     3 sets per exercise, five hip exercises
+  Total dose    15 sets per session
+  Frequency     2-3 supervised sessions per week
+  Timeline      12 weeks
+```
+
+Nineteen people with clinically diagnosed gluteal tendinopathy, 79% women, mean age 52, completed this
+at 100% median session adherence with one drop-out, no serious adverse events, and median pain
+tolerability of 100% before, during and 24 h after sessions; every secondary outcome improved
+(Grigat et al., 2025). **Promising but under-replicated** — a single-arm feasibility study with no
+control group, so read it as evidence that heavy loading is *tolerated* in this condition, not that it
+beats a lighter programme. **Caveat:** the compression rules in the row above come first.
+
+---
+
+### E.5 Sport contexts
+
+**This table is coaching synthesis, not evidence** [consensus — no single source]. No study has compared
+gluteal prescriptions between sports.
+
+| Sport | Modification | Reason |
+|---|---|---|
+| Sprinting | Keep depth, add bridge-pattern work, add unilateral | The gluteus maximus is largely idle in walking and heavily recruited in running, where it controls trunk flexion on the stance side and decelerates the swing leg (Lieberman et al., 2006) |
+| Jumping and court sports | Deep squat pattern plus a bridge pattern; add velocity work as a separate quality | Cross-sectional area was greater in high-impact and odd-impact athletes than in controls (Niinimäki et al., 2016) |
+| Powerlifting | Low-bar squat and the competition deadlift; hip thrust as an accessory | Specificity of the competition lifts |
+| Weightlifting | Deep front and high-bar squats; the receiving position requires the depth | The sport supplies the range demand |
+| Distance running | Moderate volume; unilateral and abduction work for frontal-plane control | Endurance runners' gluteal cross-sectional area did not differ from controls (Niinimäki et al., 2016) — the sport does not build this muscle |
+| Swimming | Full programme; the sport contributes nothing here | As above |
+| Combat sports | Squat pattern plus bridge pattern; manage total fatigue tightly | Weight-class and session-density constraints |
+| Physique competition | All four groups in Part IV §D, with abduction explicitly programmed | Upper-portion development and hip width are visible and are not trained by hip extension |
+| Field sports with cutting | Unilateral work and abduction load are not optional | Change of direction loads one leg in the frontal plane |
+
+---
+
+### E.6 Session and cycle contexts
+
+| Context | What changes |
+|---|---|
+| Glutes first in the session | The default when the glutes are the priority — put the deep hip-flexion exercise first |
+| Glutes after heavy quadriceps work | Use bridge-pattern and machine exercises; the deep-flexion slot is already spent |
+| Glutes in the same session as deadlifts | Treat the deadlift as the hinge slot and do not add another; the lower back is the shared resource (Part IV §C.5) |
+| Two gluteal sessions per week | Split by group: deep hip flexion in one, bridge pattern and abduction in the other |
+| Three or more per week | Rotate the three groups rather than repeating one |
+| Late in a training block | Hip depth and pelvic control degrade first — audit them before adding load |
+| [Deload](#deload) week | Hold range and depth, reduce sets and load. Never shorten the range to make a deload easier |
+| Returning from a layoff | Rebuild pelvic control at depth before rebuilding load |
+| In a caloric deficit | Hold [hard sets](#hardset) and range; accept slower progression |
+
+---
+
+### E.7 The context decision table
+
+The fastest route to a prescription: read down until you find the first row that is true of you, apply
+it, then continue.
+
+| If this is true | Then |
+|---|---|
+| You have lateral hip pain, or pain lying on that side at night | Stop here. Part IV §E.4, and get assessed |
+| Groin pain that catches at the bottom of a squat | Stop here. Part IV §E.4 |
+| Your pelvis tucks under before you reach depth | That is your range limit, not a technique flaw. Part IV §C.3 and Part IV §C.6 |
+| You train only squats and deadlifts | Add a bridge-pattern exercise. Largest available gain (Kassiano et al., 2024) |
+| You train only hip thrusts and machines | Add a deep hip-flexion exercise. That is where most of the effect is (Kubo et al., 2019) |
+| You have never loaded hip abduction | Add one exercise from Part IV §D.4. Nothing else covers it |
+| Your lower back ends every gluteal set | Move volume to bridge-pattern and supported exercises (Part IV §C.5) |
+| You have all three groups covered and are stalled | Check [proximity to failure](#proximitytofailure) (Part IV §F.4) and progression (Part IV §F.5) |
+| None of the above | You are on the default. Progress it (Part IV §F.5) |
+
+---
+## partivfprogramming
+
+**PART F — Programming**
+
+Nothing here is gluteal-specific except where stated; the general dose–response evidence lives in
+`strength-and-body-composition.md` and is summarized rather than re-derived.
+
+### F.1 Volume
+
+Counted as [hard sets](#hardset) per week that load hip extension directly — the operationalization
+used throughout Part IV.
+
+| Training age | Weekly hard sets, gluteus maximus | Weekly hard sets, abductors | Note |
+|---|---|---|---|
+| Beginner | 6–10 | 2–3 | Two exercises is enough |
+| Intermediate | 10–18 | 3–6 | The productive middle for most people |
+| Advanced | 14–22 | 4–8 | Lower-back and connective-tissue recovery is the limiter, not the muscle |
+| Maintenance or deficit | 4–6 | 2 | Hold load and range, cut sets |
+
+**These bands are transferred from the general dose–response literature, not derived from gluteal
+data.** No study has compared weekly set counts against gluteal hypertrophy. The twelve trials in the
+meta-analysis used between three and twelve sets per session at one to three sessions a week, and none
+of them varied it (Krause Neto et al., 2025). For scale, the three trials this Part relies on ran at six
+weekly sets (Kubo et al., 2019), eight rising to twelve (Plotkin et al., 2023), and twelve to eighteen
+(Kassiano et al., 2024) — all inside the beginner and intermediate bands, and all in untrained people.
+**The abductor column is weaker still:** it is a convention rather than a band, because the hip
+abductors have no dose–response literature to transfer from at all (Part IV §D.4). Treat the table as a
+starting point with the same status as Part III §F.1's, minus the one dose-comparison trial that
+Part III had.
+
+**Four counting rules specific to this muscle group, and they matter more here than anywhere else in
+this document**, because more exercises partially qualify:
+
+- **A deep hip-flexion set and a bridge-pattern set each count as one.** These are the two groups the evidence is built on.
+- **A hinge set counts as one only if the hip ended it.** If the lower back ended it, you trained the erectors to [momentary failure](#momentaryfailure) and the glutes to about 5 [RIR](#rir), and the set should be counted at something less than one — or the exercise should be changed.
+- **A conventional or sumo deadlift set counts at less than one, on grounds of cost rather than of activation.** The systemic and lower-back fatigue is charged to the whole week, and the hip extension it buys is shared with the erector spinae and the quadriceps (Martín-Fuentes et al., 2020). **Interpretive caution:** that comparison is surface EMG, and Part IV §B.11 rules EMG out as a ranking method — so this is a fatigue-accounting rule, not an evidence-based demotion. No trial has measured gluteal hypertrophy from any deadlift variant.
+- **Abduction sets are counted separately and do not substitute.** They train different muscles at a different joint action (Part IV §B.1). Twelve gluteus maximus sets and zero abduction sets is not "twelve gluteal sets"; it is twelve of one and none of the other.
+
+**The quadriceps overlap, stated plainly.** A squat set counts toward both the quadriceps and the
+glutes, and the setup decides the split (Part IV §B.10). If you are running Part III and Part IV at the
+same time, count the set once in each column and set the *total* lower-body volume against your
+recovery, not the sum of the two columns.
+
+---
+
+### F.2 Frequency
+
+**2×/week is the default.** [Frequency](#trainingfrequency) mostly distributes volume rather than adding
+an independent stimulus, and the trials this Part relies on used two or three sessions a week — nine
+weeks at 2×/week (Plotkin et al., 2023), ten weeks at 3×/week (Kassiano et al., 2024), ten weeks at
+2×/week (Kubo et al., 2019).
+
+1×/week works at low volumes. 3×/week is useful at higher volumes and works best when the sessions
+differ by **group** — deep hip flexion, bridge pattern, abduction — rather than repeating the same one.
+The bridge and abduction groups recover fastest, because neither loads the spine; they are the ones to
+put on the extra day.
+
+---
+
+### F.3 Load and rep range
+
+The general finding is in Part II §F.3: roughly 5–30 repetitions produces similar hypertrophy if sets
+are taken close to failure. Three considerations specific to this muscle group narrow the practical
+band:
+
+- **The deep hip-flexion slot is limited by breath and lower back above ~12 repetitions** on a free squat, and much higher than that on a sled.
+- **The bridge-pattern slot tolerates high repetitions unusually well**, because nothing systemic limits it. This is also where the load is most easily progressed, and it is the slot where people most often stall by adding repetitions instead of weight.
+- **The abduction slot needs load, not repetitions.** A 33.8 cm² muscle is not trained by a band at 40 repetitions (Part IV §A.4). If the machine is available, treat it exactly like any other loaded exercise.
+
+| Slot | Reps | Note |
+|---|---|---|
+| Deep hip-flexion, free weight | 6–12 | Depth and the trunk set the load |
+| Deep hip-flexion, machine or sled | 8–20 | No trunk limit; take it closer to failure |
+| Bridge pattern | 8–20 | Progress the load, not the reps |
+| Hinge | 6–12 | Above this the lower back, not the hip, ends the set |
+| Abduction | 10–20 | Load it; a burn is not the target |
+
+**[Tempo](#tempo) is a range control here, not a stimulus variable.** A 2–3 s descent exists to make the
+deep position a loaded position rather than a rebound, which is the mechanical argument of
+Part IV §B.6. The bridge family gets a 1 s hold at the top for a different reason: it is the only
+exercise family that reaches that position at all, and letting it pass through quickly wastes the one
+thing it uniquely supplies.
+
+---
+
+### F.4 Proximity to failure
+
+The general finding is in Part II §F.4 and holds here: sets stopped a few repetitions short of
+[momentary failure](#momentaryfailure) produce hypertrophy comparable to sets taken to it, at a lower
+fatigue cost. There is **no gluteal-specific test of proximity to failure**
+[consensus — no single source]. What can be said is that all three trials behind Part IV §B.7 trained at
+or within a repetition of failure — volitional muscular failure (Plotkin et al., 2023), momentary
+concentric failure (Kassiano et al., 2024) and 8-repetition-maximum loads (Kubo et al., 2019) — so the
+results in this Part were produced at the hard end of the range, and the table below is an inference from
+the general literature about how much softer you can go.
+
+| Exercise type | Target [RIR](#rir) |
+|---|---|
+| Machine hip thrust, leg press, hack squat, abduction machine | 0–2 on the last set, 1–3 earlier |
+| Barbell hip thrust | 0–2; the bar, not the muscle, is usually the limit anyway |
+| Free barbell squat | 2–3 always; depth and the trunk are the limiters |
+| Romanian deadlift and good morning | 2–4; the lower back's fatigue is not a useful currency |
+| Bulgarian split squat and unilateral work | 1–3; balance degrades before the muscle does |
+
+**The gluteal-specific rule that overrides the table:** if the next repetition would be shallower at the
+hip, or would finish with the back instead of the hip, the set is over. Range is the stimulus
+(Part IV §B.7), and a shorter repetition is a different exercise rather than a harder one.
+
+---
+
+### F.5 Progression
+
+```
+GLUTEAL PROGRESSION - DEFAULT
+  Load          5-10 kg increment, hip thrust and leg press
+                2.5-5 kg increment, squat pattern
+                2.5-5 kg increment, abduction machine
+  Tempo         2-3 s descent / 1-2 s ascent, held constant
+                Bridge pattern: add a 1 s hold at full extension
+  Sets/reps     3-4 x 6-12 deep hip flexion | 3-4 x 8-20 bridge | 2-3 x 10-20 abduction
+  Rest          2-3 min deep hip flexion / 1.5-2 min bridge and abduction
+  Total         10-18 hard sets per week, plus 3-6 abduction sets
+  Frequency     2x/week
+  Timeline      8-12 wks to measurable change; 6-12 months to visible change
+```
+
+The scheme is [double progression](#doubleprogression) applied to load and repetitions: fill the rep
+range at a fixed load at the target [RIR](#rir), then add one increment and drop to the bottom of the
+range. Raise weekly sets only once the session is at the top of the Part IV §F.1 band for your training
+age, and reassess the whole prescription every 8–12 weeks.
+
+**Two rules that are different from every other muscle in this document.**
+
+**Hip depth is held fixed while load progresses**, never traded for it — the same rule as Part III §F.5
+and for the same reason. But there is a second, gluteal-specific version of it: **the knee angle is also
+held fixed.** A Romanian deadlift whose knees straighten a little more each week is a set of different
+exercises with a rising hamstring share (Part IV §B.5), recorded in the logbook as one exercise getting
+heavier. Film one set from the side every few weeks; it is the only reliable audit of either variable.
+
+---
+
+### F.6 Session templates
+
+Every template contains one deep hip-flexion exercise and one bridge-pattern exercise, for the reason in
+Part IV §D.6, plus at least one abduction slot.
+
+```
+TEMPLATE A - TWO SESSIONS, INTERMEDIATE, ~15 SETS/WEEK + 4 ABDUCTION
+  Session 1     Low-bar back squat      4 x 6-10   @ 2-3 RIR
+                Machine hip thrust      3 x 8-12   @ 0-1 RIR
+                Seated hip abduction    2 x 12-20  @ 0-1 RIR
+  Session 2     Leg press, feet high    4 x 10-15  @ 1-2 RIR
+                Barbell hip thrust      4 x 8-12   @ 0-2 RIR
+                Hip hitch off a step    2 x 12-15  each side
+```
+
+```
+TEMPLATE B - ONE SESSION, TIME-LIMITED, ~8 SETS/WEEK
+  Session 1     Leg press, feet high    4 x 10-15  @ 1-2 RIR
+                Machine hip thrust      4 x 8-12   @ 0-1 RIR
+                Seated hip abduction    2 x 12-20  @ 0-1 RIR
+```
+
+```
+TEMPLATE C - BARBELL AND RACK ONLY, ~14 SETS/WEEK + 4 ABDUCTION
+  Session 1     Low-bar back squat      4 x 6-10   @ 2-3 RIR
+                Barbell hip thrust      4 x 8-12   @ 0-2 RIR
+                Side-lying abduction    2 x 15-20  each side
+  Session 2     Bulgarian split squat   3 x 8-12   @ 1-2 RIR
+                Romanian deadlift       3 x 8-10   @ 2-3 RIR
+                Side plank + leg raise  2 x 10-15  each side
+```
+
+```
+TEMPLATE D - GLUTES PRIORITIZED, THREE SESSIONS, ~20 SETS/WEEK
+  Session 1     Low-bar back squat      4 x 6-10   @ 2-3 RIR
+                Seated hip abduction    3 x 12-20  @ 0-1 RIR
+  Session 2     Machine hip thrust      4 x 8-12   @ 0-1 RIR
+                45 deg back extension   3 x 12-20  @ 1-2 RIR
+                Standing cable abd.     2 x 12-15  each side
+  Session 3     Leg press, feet high    4 x 10-15  @ 1-2 RIR
+                Bulgarian split squat   3 x 8-12   @ 1-2 RIR
+                Single-leg hip thrust   2 x 10-15  each side
+```
+
+```
+TEMPLATE E - LOWER BACK IS THE LIMITER, ~15 SETS/WEEK + 4 ABDUCTION
+  Session 1     Leg press, feet high    4 x 10-15  @ 1-2 RIR
+                Machine hip thrust      4 x 8-12   @ 0-1 RIR
+                Seated hip abduction    2 x 12-20  @ 0-1 RIR
+  Session 2     Belt squat              4 x 8-12   @ 1-2 RIR
+                Cable kickback          3 x 12-20  @ 0-1 RIR
+                Seated hip abduction    2 x 12-20  @ 0-1 RIR
+```
+
+---
+
+### F.7 Timeline, measurement and expectations
+
+| Horizon | What to expect |
+|---|---|
+| Weeks 1–3 | Strength rises and depth improves; size does not change. Early strength gain is neural |
+| Weeks 4–8 | Strength and control still improving. Ultrasound has detected gluteal thickness change by six weeks in untrained people (Wei et al., 2023), but individual change is smaller than the measurement error of the method, so treat any single scan in this window as uninformative |
+| Weeks 8–12 | The window in which every trial cited in Part IV §B.7 detected its effect: +6.7% volume over 10 weeks (Kubo et al., 2019), +9.3% thickness over 10 weeks (Kassiano et al., 2024), a detectable cross-sectional-area change over 9 weeks (Plotkin et al., 2023) |
+| Months 6–12 | Coverage differences between programs become visible; people who trained abduction separate from people who did not |
+| Years | Diminishing annual returns; range coverage and honest load progression matter more than any new exercise |
+
+**How to measure, and what not to trust.** This is the muscle where the measurement problem is worst in
+this document, for four separate reasons:
+
+- **Hip circumference is not a gluteal measurement.** It responds to fat mass, to the quadriceps and to the adductors at the same time. A tape at the widest point is close to useless for judging a training block.
+- **Ultrasound thickness at a single site is the standard outcome in this literature and is worse than its reputation.** Against MRI in 39 men over 15 weeks of leg training, individual change in **quadriceps** thickness showed **no significant correlation** with change in cross-sectional area or volume (Balshaw et al., 2026). **Validity caveat:** that validation was done on the quadriceps, not the gluteus maximus, and no equivalent validation exists for this muscle — where a thicker overlying fat layer makes the border harder to resolve, not easier. **Eight** of the twelve trials pooled by the gluteal meta-analysis used thickness (Krause Neto et al., 2025).
+- **Position changes the number.** The meta-analysis flags measuring the gluteus maximus with the subject supine as a source of bias, because the muscle is compressed under body weight (Krause Neto et al., 2025).
+- **One site cannot represent this muscle**, for the same reason as Part III §F.7 — the region that grows depends on the exercise (Nunes et al., 2024), and the one trial that measured three sites found the lower one growing most (Plotkin et al., 2023).
+
+**What actually works for this muscle group is a photograph from the side and the rear, in the same
+light, the same clothing and the same stance, every eight weeks** — plus load at fixed depth in the
+logbook, which is a training-quality record rather than a size measurement. This is one of the few
+muscles where the visual measure is genuinely more informative than the instrumental one available to
+you.
+
+---
+## partivgsynthesis
+
+**PART G — Synthesis**
+
+### G.1 The rules that hold
+
+1. **The gluteus maximus is the only muscle in this document that is built for force and excursion at once.** Largest mass in the body, a cross-section within 5% of the vastus lateralis, and the longest fascicles of any large lower-limb muscle (Part IV §A.4). It needs load and range together, and neither substitutes for the other.
+2. **Hip extension is shared work.** The gluteus maximus supplies about half the group's cross-section, the hamstrings slightly more than it, and the adductor magnus another 30% on top (Part IV §B.4). "Posterior chain" and "glutes" are not synonyms.
+3. **Knee angle decides the share.** Bend the knee and the hamstrings lose force capacity, so the gluteal share rises; straighten it and the share falls (Part IV §B.5). This is the most useful lever in the Part.
+4. **Its leverage is worst where the demand is highest, and its share is smallest there too.** The gluteal extension moment arm falls as the hip folds while the adductor magnus's rises, so tension per newton-metre of demand peaks at depth *and* the gluteal fraction of the joint's work is at its lowest there (Németh & Ohlsén, 1985), as set out in Part IV §B.2. That tension is why depth had to be settled by a trial rather than deduced.
+5. **Depth pays, and it has been measured once.** Ten weeks of full squats grew gluteus maximus volume 6.7 ± 3.5% against 2.2 ± 2.6% for half squats, at six hard sets a week (Kubo et al., 2019). **Moderate evidence** — a single trial in seventeen untrained men, eight against nine, never replicated in this muscle. The direction is the part to act on; the ratio is not a number to plan around.
+6. **The hip thrust's peak demand is at 83° of hip flexion, not at lockout**, and its lift finishes near 15–20° of flexion rather than at neutral (Brazil et al., 2021). Everything usually said about this exercise, for and against, rests on the opposite belief. Nothing in this document has been shown to load a hip past neutral.
+7. **A complete prescription is therefore three exercises, not one** — one deep hip-flexion, one bridge-pattern, one abduction (Part IV §D.6).
+8. **Range and depth are held constant while load progresses**, and so is knee angle (Part IV §F.5).
+9. **Torso inclination is the hip torque term.** Every setup choice that inclines the torso, widens the stance or restricts knee travel moves work from the knee to the hip — and away from the quadriceps (Part IV §B.10).
+10. **Surface EMG cannot rank exercises for this muscle**, and the gluteal literature is where believing that it can has done the most damage (Part IV §B.11).
+
+---
+
+### G.2 What the evidence does **not** support
+
+| Claim | Status |
+|---|---|
+| "The hip thrust is the best glute exercise" | **Not supported.** Nine weeks of set- and repetition-matched training produced gluteal hypertrophy indistinguishable from the back squat's (Plotkin et al., 2023). It is a *necessary* exercise for range coverage, not a superior one |
+| "Squats build glutes better than hip thrusts" | **Contested.** One trial reports it (Barbalho et al., 2020); that trial's research group has a published integrity analysis against it (Vigotsky et al., 2020) and multiple retractions elsewhere. The better-controlled trial found parity |
+| "The hip thrust loads peak contraction at lockout" | **Not supported.** Peak hip extensor moment occurred at 83 ± 16° of hip flexion and fell by about two thirds by lockout (Brazil et al., 2021) |
+| "The hip thrust only trains the shortened position" | **Not supported**, and for the same measurement. Its peak lands at a hip angle a squat passes through |
+| "Squats are enough for glutes" | **Not supported.** Adding a hip thrust to a programme of leg press and stiff-leg deadlift produced +9.3% against +6.0% (Kassiano et al., 2024) |
+| "Step-ups are the best glute exercise, EMG proves it" | **Not supported.** The exercise ranked first by EMG has no hypertrophy data at all, and the exercise ranked **last** of twenty-four has the best (Part IV §B.11) |
+| "Deadlifts are a glute exercise" | **Evidence remains limited and inconsistent.** No trial has measured gluteal hypertrophy from any deadlift variant. Erector spinae and quadriceps out-activate the glutes in it (Martín-Fuentes et al., 2020), but Part IV §B.11 disallows that as a ranking method — so the honest answer is that the deadlift is untested here rather than refuted |
+| "You can target the lower glutes" | **Not supported.** No exercise loads the lower portion preferentially, and both the squat and the hip thrust produced their largest change there anyway (Plotkin et al., 2023) |
+| "You can target the upper glutes" | **Promising but under-replicated**, and still the strongest of the regional claims — via hip abduction, which sagittal-plane hip extension does not supply (Part IV §A.3). The only outcome data come from a single small report in a non-indexed journal, which tested a sagittal-plane exercise and so does not test the mechanism at all (Part IV §A.6) |
+| "Glute activation work before lifting builds glutes" | **Not supported** as a growth stimulus. It does raise subsequent activity by ~55% (Cannon et al., 2022), which is a preparation effect measured by the instrument Part IV §B.11 rejects for growth claims |
+| "Gluteal amnesia" / "dormant butt syndrome" | **Not supported.** Not a diagnosis. The gluteus maximus is *normally* quiet in walking (Lieberman et al., 2006) — that is its design, not a pathology |
+| "Walking builds glutes" | **Not supported**, for the same reason |
+| "Stretching the IT band helps lateral hip pain" | **Not supported**, and likely harmful. The mechanism is compression of the gluteal tendons against the trochanter as the hip adducts (Grimaldi & Fearon, 2015); adduction stretches increase it |
+| "Bands are enough for the glutes" | **Not supported** for the gluteus maximus. Adequate for the abduction slot, inadequate for a 33 cm² extensor (Part IV §A.4) |
+| "Squeezing harder at the top makes the exercise work" | **Not supported.** The demand at the top of a hip thrust is about a third of its own peak (Brazil et al., 2021) |
+
+**Three open questions this document cannot close.** **No study has measured the force–length curve of
+the human gluteus maximus in vivo**, because voluntary activation of it falls with hip flexion
+(Worrell et al., 2001) and contaminates every strength-versus-angle measurement — so Part IV §B.6's
+fourth column is left blank on purpose. **No study has measured gluteus medius or minimus hypertrophy
+in a healthy trained population**, and the five that measured it in clinical populations produced two
+small positive results and three nulls (Part IV §D.4) — so the whole of Part IV §D.4 rests on
+rehabilitation electromyography, musculoskeletal modelling and mechanical reasoning. And **no study has manipulated hip thrust range of motion**, which is the most
+obvious experiment in this literature and the one that would settle whether the bottom of that exercise
+or the top of it is doing the work. All three are answerable with existing methods.
+
+---
+
+### G.3 The one-paragraph version
+
+The gluteus maximus is the heaviest muscle in the body and the only one in this document that bought
+both a large cross-section and long fibres, so it needs heavy load and a long range at the same time —
+and it does not have its job to itself, because the hamstrings and the adductor magnus extend the hip
+alongside it. Fold the hip deeply under load, with the knee bending too, and you get most of the
+effect: a low-bar squat, or a leg press with the feet high and wide, taken to the depth your pelvis
+holds rather than the depth your spine allows. Then add the thing that no deep exercise loads,
+which is the shallow end of hip extension with the knee bent — a hip thrust, whose demand actually peaks
+near its bottom rather than at its top, and which added measurable growth on top of two deep exercises
+when it was tested, though that trial added sets as well as an exercise. Then add one abduction exercise, because the gluteus medius has as much cross-section as
+the maximus and nothing above trains it. Three exercises, twice a week, ten to eighteen hard sets for
+the extensor and three to six for the abductors, taken near enough to failure that the last repetition
+is genuinely hard but not so near that the next one would be shallower or would finish with your back.
+Ignore every ranking of these exercises by muscle activation: the one that ranks last has the best
+result in the literature.
+
+---
+
+# partvdeltoids
+
+**Part V — Deltoids**
+
+> Scope: the anatomy, mechanics, technique, exercise selection, context modifiers and programming
+> for maximal [hypertrophy](#hypertrophy) of the [deltoid](#deltoid) — the muscle that caps the
+> shoulder — treated throughout as the three separate muscles it mechanically is: the
+> [anterior](#anteriordeltoid), [middle](#middledeltoid) and [posterior](#posteriordeltoid) heads.
+> Almost everything here also loads the [rotator cuff](#rotatorcuff), which is not a training target
+> in this document but is the structure that decides how much load the joint will accept; much of §D.2
+> also loads the [pectoralis major](#pectoralismajor) and the [triceps brachii](#tricepsbrachii), and
+> much of §D.3 also loads the [trapezius](#trapezius). **General education only.** Shoulder pain that
+> catches at a particular height, pain lying on that side at night, any history of dislocation, and any
+> rotator-cuff diagnosis are assessment problems before they are programming problems — see
+> Part V §E.4.
+>
+> **Angle convention, fixed for the whole Part.** [Humeral elevation](#humeralelevation) is measured
+> from the arm hanging at the side: **0° is the arm alongside the body, 90° is the arm horizontal, and
+> ~180° is fully overhead.** [Plane of elevation](#planeofelevation) keeps the convention of Part II —
+> **0° is the [frontal plane](#frontalplane)** (straight out to the side), **90° is the
+> [sagittal plane](#sagittalplane)** (straight in front), and the scapular plane sits at roughly 30–45°
+> between them. Every angle below uses these two conventions and no others.
+
+---
+
+## partvaanatomyandarchitecture
+
+**PART A — Anatomy and Architecture**
+
+### A.1 What the deltoid is
+
+The muscle that caps the shoulder. It runs from the collarbone, the point of the shoulder and the ridge
+on the back of the shoulder blade, down to a rough patch halfway along the outside of the upper arm
+bone, and it raises the arm in whatever direction its fibres happen to pull.
+
+It is **the largest muscle of the upper limb.** Measured by MRI in ten living adults spanning a 20th
+percentile female to a 97th percentile male, the deltoid held the largest volume fraction of all
+thirty-two muscles crossing the shoulder, elbow, forearm and wrist — **15.2 ± 1% of the limb's total
+muscle volume** — and that fraction was highly conserved across a three-fold range of total muscle
+volume (Holzbaur et al., 2007).
+
+The fact that dictates everything below is that this one muscle **wraps a ball joint from three sides
+at once.** The front third crosses in front of the joint's centre, the back third crosses behind it,
+and the middle third crosses directly over the top. Their [lines of action](#lineofaction) therefore
+point in three different directions, and for most arm movements **their [moment arms](#momentarm) do
+not merely differ in size — they differ in sign.** The front head and the back head are, over a large
+part of the range, antagonists of each other that happen to share an insertion.
+
+That is why this Part is written about three muscles rather than one, why no single exercise trains all
+of it, and why the deltoid is the muscle in this document most often trained with two thirds of the
+work missing.
+
+---
+
+### A.2 Attachments — the map you load
+
+| Muscle | Origin (fixed end) | Insertion | Nerve | Practical note |
+|---|---|---|---|---|
+| [Anterior deltoid](#anteriordeltoid) | Anterior border of the lateral third of the [clavicle](#clavicle) | [Deltoid tuberosity](#deltoidtuberosity) of the [humerus](#humerus) | [Axillary](#axillarynerve) (C5–C6) | The head with the largest [flexion](#shoulderflexion) [moment arm](#momentarm) of any deltoid sub-region — though the clavicular [pectoralis major](#pectoralismajor)'s is larger still — and an abduction moment arm that overtakes the middle head's above 90° (Part V §B.2) |
+| [Middle deltoid](#middledeltoid) | Lateral border of the [acromion](#acromion) | Deltoid tuberosity | Axillary | Multipennate, short-fibred, high [PCSA](#pcsa); the only head whose organizing action is pure [abduction](#shoulderabduction) |
+| [Posterior deltoid](#posteriordeltoid) | Lower lip of the crest of the spine of the [scapula](#scapula) | Deltoid tuberosity | Axillary | Long-fibred; an **adductor** at low elevation and an extensor throughout — the mechanical opposite of the front head (Part V §B.2) |
+| [Supraspinatus](#supraspinatus) | Supraspinous fossa of the scapula | Greater tuberosity of the humerus | Suprascapular (C5–C6) | Not a deltoid, but it out-levers the whole deltoid in the first 20° of abduction (Part V §A.5) |
+| The rest of the [rotator cuff](#rotatorcuff) | Subscapular and infraspinous fossae, lateral scapular border | Greater and lesser tuberosities | Suprascapular, subscapular, axillary | Not a training target here; they are what stops the deltoid pushing the ball out of the socket |
+
+**Read the nerve column, because it is unusual.** All three heads are supplied by **one nerve** — the
+axillary — and that nerve wraps the surgical neck of the humerus, which is why a fracture or a
+dislocation there can denervate the entire muscle at once. Nothing about training follows from it. What
+follows is a warning for Part V §E.4: a deltoid that will not contract after a shoulder injury is a
+neurological question, not a technique question.
+
+**And read the insertion column, because it is the reason the three heads are one muscle at all.** They
+converge on a single patch of bone roughly halfway down the humerus. Everything that separates them
+happens at the *origin* end, which is why the only lever you have over which head is loaded is **the
+direction the arm travels**, and never the grip, the equipment or the intent.
+
+---
+
+### A.3 Seven segments, not three heads
+
+The three-head description is a convenience. The muscle's actual internal architecture is finer than
+that, and it has been measured.
+
+Careful dissection of **sixty cadaveric shoulders** found three discrete tendinous insertions on the
+humerus; tracing each intramuscular tendon back to its origin divided the muscle into **seven
+anatomical segments**. Six healthy volunteers then performed scapular-plane elevation and were scanned
+with FDG-PET: glucose uptake was **not uniform across the muscle**, and the high-uptake areas
+corresponded to the individual segments separated by the intramuscular tendons (Sakoma et al., 2011).
+
+Two independent lines of evidence say the same thing about function:
+
+- Recording nineteen muscle segments across the deltoid, pectoralis major and latissimus dorsi during rapid isometric force impulses in twenty men, segment timing and intensity tracked **each segment's own moment arm and line of action** relative to the intended direction — and the same segment could be classified as prime mover, synergist or antagonist depending on the task (Brown et al., 2007).
+- Recording five deltoid regions during abduction in body postures that changed how gravity acted on the arm, the muscle's action was "highly differentiated in its different regions" and was not confined to producing abduction — the clavicular and spinal regions contributed to **stabilizing the joint and controlling the plane the arm travelled in** (Michiels & Bodem, 1992).
+
+**What this licenses and what it does not.** It licenses the claim that "the deltoid" is not a single
+functional unit, and that a movement's *direction* selects which parts of it work. It does **not**
+license reading seven trainable targets off a diagram: no study has measured growth in any deltoid
+segment finer than "the lateral head at two heights along its length" (Part V §A.6), and the
+[EMG](#emg) argument that would be needed to bridge the gap is disallowed for exactly this purpose in
+Part V §B.11.
+
+---
+
+### A.4 Architecture — the least-measured muscle in this document
+
+**There is no Ward et al. (2009a) for the shoulder that this document could obtain.** Parts III and IV
+rested on one dataset that measured mass, [fascicle length](#fasciclelength),
+[sarcomere](#sarcomere) length, [pennation angle](#pennationangle) and [PCSA](#pcsa) for every muscle
+of the lower limb in the same twenty-one specimens. **One comparable study exists for the shoulder and
+elbow** — musculoskeletal parameters measured in a cadaver model with sarcomere lengths taken by laser
+diffraction at 120 samples per muscle, reported in tabular form (Langenderfer et al., 2004) — but it is
+paywalled with no accessible table, so its values enter this Part only through the pooled comparison in
+Garner & Pandy's tables rather than directly. What is otherwise available is a scatter of small
+cadaveric studies that disagree with each other by a factor of three.
+
+```
+HUMAN DELTOID - WHAT HAS ACTUALLY BEEN MEASURED
+                                       Value               Source
+  Share of the whole upper limb's
+  muscle volume                        15.2 +/- 1%         Holzbaur 2007, MRI, 10 living
+                                       (largest of 32)     adults
+  Whole-muscle volume                  314 - 475 cm3       3 cadaver studies, pooled in
+                                                           Garner & Pandy 2003 Table 1
+  Whole-muscle PCSA                    12.2 - 43.1 cm2     5 cadaver studies, pooled in
+                                       (a 3.5x spread)     Garner & Pandy 2003 Table 2
+  Optimal fibre length, whole muscle    7.9 - 13.2 cm      2 cadaver studies, same source
+  Posterior head, fibre bundle length  12.31 +/- 0.78 cm   Friden & Lieber 2001,
+                                                           10 fresh cadavers
+  Anatomical segments                  7                   Sakoma 2011, 60 shoulders
+```
+
+For scale: the gluteus maximus's PCSA is 33.4 cm² and the vastus lateralis's 35.1 cm² in Part IV §A.4.
+The deltoid's *upper* estimate sits above both and its *lower* estimate sits at a third of either. **The
+honest statement is that nobody knows this muscle's force-generating cross-section to better than a
+factor of three**, and every calculation in Part V §B.9 is bounded accordingly.
+
+**What is nevertheless agreed, and it is the important part.** Two independent cadaveric studies, using
+different methods, describe the heads as architecturally *different muscles*:
+
+| Head | Architecture | Built like |
+|---|---|---|
+| Middle | **Short fibres, complex multipennate structure, high PCSA** (Peterson & Rayan, 2011) | The [quadriceps femoris](#quadricepsfemoris) — a force muscle |
+| Posterior | **Fibre bundles of 12.3 cm, longer than any head of the triceps**, and a PCSA delivering only ~20% of the combined triceps' isometric tension (Fridén & Lieber, 2001); fibre lengths greater than any part of the triceps (Peterson & Rayan, 2011) | The [latissimus dorsi](#latissimusdorsi) — an excursion muscle |
+| Anterior | Not separately characterized in either study | Unknown |
+
+**And one finding that has no parallel anywhere else in this document.** Peterson & Rayan measured
+*required excursion* — how much the muscle must shorten to complete its own joint action — against
+fibre length, in eleven shoulder and arm muscles. In every muscle but two, required excursion was
+**less** than fibre length. The two exceptions were the teres major and **the middle deltoid in
+abduction** (Peterson & Rayan, 2011).
+
+That single sentence is the architectural centre of Part V. A muscle whose job demands more travel than
+its fibres comfortably supply must operate across **most of its own [force–length curve](#forcelengthrelationship)
+within a single repetition** — strong somewhere in the middle of the arc and weaker at both ends, for
+purely mechanical reasons. It is the opposite of the gluteus maximus case in Part IV §A.4, where
+fibres 15.7 cm long absorb a very large joint excursion with room to spare; and it is not the soleus
+case either, where short fibres serve a joint whose excursion demand is small to begin with.
+
+**One complete dataset exists, and it comes from a single 104-year-old cadaver** (Ruggiero et al.,
+2016). It is reproduced here because it is the only place all three heads have been measured together,
+and it should be read for its **ratios only**:
+
+```
+ONE SPECIMEN, AGE 104 - THE ONLY COMPLETE THREE-HEAD DATASET
+                       Mass    Muscle    Fascicle  Sarcomere  Normalized  PCSA
+                       (g)     len(cm)   len(cm)   len(um)    Lf (cm)     (cm2)
+  Anterior deltoid     32.6    18.6      6.8       1.88       9.7         2.6
+  Middle deltoid       77.5    16.8      6.4       1.87       9.2         7.6
+  Posterior deltoid    30.3    19.7      5.0       1.61       8.4         3.0
+  ------------------------------------------------------------------------------
+  Middle head's share of the deltoid:   55% of its mass, 57% of its PCSA
+  Same specimen, for scale:  latissimus dorsi 163.3 g   pectoralis major 105.5 g
+```
+
+**Interpretive caution.** One specimen, aged 104, whose whole-deltoid PCSA of 13.2 cm² sits at the very
+bottom of the cadaveric range above. **The specimen is less degraded than its age suggests**, which
+cuts both ways: its latissimus dorsi mass of 163.3 g is 96% of the 170.4 g healthy adult figure in
+Part II §A.4, so the table is not obviously an outlier — and that makes the disagreement in the next
+paragraph harder to dismiss, not easier. The measured sarcomere lengths of 1.6–1.9 µm are
+far below the human plateau of ~2.6–2.8 µm, which means the arm was fixed **at the side** — the
+deltoid's shortest position — so the raw fascicle lengths understate the muscle and the normalized
+column is the one to read. The one thing this table is good for is the **middle head's share**, which
+is the only estimate of it that exists.
+
+**What this dictates:**
+
+| Architectural fact | Training consequence |
+|---|---|
+| Largest muscle of the upper limb, 15.2% of its volume | It is a primary target, not an accessory to pressing |
+| The three heads are architecturally different muscles | One prescription cannot serve all three (Part V §D.5) |
+| Middle head: short-fibred, multipennate, high PCSA | It answers to **load**, and light "burn" work under-stimulates it |
+| Middle head: required abduction excursion **exceeds** fibre length | It works across most of its force–length curve in every repetition — so the ends of the range are genuinely different physiology, not just different leverage |
+| Posterior head: long fibres, modest PCSA | It answers to **range**, and it is the head most likely to be trained through a stump of its available excursion |
+| Whole-muscle PCSA uncertain by 3.5× | Every force estimate in Part V §B.9 is a bracket, not a number |
+
+The rule that comes out of this table: **the middle head is a Part III muscle and the posterior head is
+a Part II muscle, and they are two centimetres apart.**
+
+---
+
+### A.5 The deltoid–rotator cuff force couple — the constraint on every prescription
+
+At the bottom of an abduction movement the deltoid's line of pull runs **almost parallel to the shaft
+of the humerus.** A muscle pulling along a bone does not rotate it; it slides it. So with the arm at
+the side, most of the deltoid's force is directed at pulling the head of the humerus **straight up into
+the [subacromial space](#subacromialspace)**, and only a small component turns the joint.
+
+The measured [moment arms](#momentarm) state this precisely. In eight cadaveric upper extremities, at
+2.5° of coronal-plane abduction:
+
+- The **middle deltoid's** abduction moment arm was **8.3 mm**, rising to 29.1 mm at 86° (Ackland et al., 2008).
+- The **supraspinatus's** peaked at **28.2 ± 1.6 mm in very early abduction** and fell thereafter, pooled across three studies (Hik & Ackland, 2019).
+
+**At the start of the range the rotator cuff out-levers the deltoid by more than three to one, and by
+the middle of the range the ordering has reversed.** That is the mechanical content of the
+century-old description of the shoulder as a force couple (Inman et al., 1996): the cuff compresses and
+depresses the humeral head into the socket while the deltoid elevates it, and the pair produce rotation
+that neither produces alone. The review that pooled the moment-arm literature draws exactly this
+conclusion — because the deltoid's moment arms are small in early elevation, the supraspinatus's
+prominent leverage there suggests it behaves as the **initiator** of elevation (Hik & Ackland, 2019).
+
+**And the load that couple puts through the joint has been measured, not modelled.** Instrumented
+shoulder prostheses telemetered in vivo give glenohumeral contact forces reaching roughly **one to one
+and a half times body weight** in unloaded forward flexion and abduction, rising steeply with anything
+carried in the hand (Bergmann et al., 2011). A companion dataset from the same implant series reports
+the same magnitudes across ordinary daily tasks (Westerhoff et al., 2009). **Moderate evidence** — a handful
+of elderly arthroplasty patients, whose joints are not healthy ones, which is the standing caveat on
+every instrumented-implant dataset including the hip figures in Part IV §B.2a. The direction is the
+usable part: **the shoulder carries far more load than the weight in the hand**, because the deltoid
+and the cuff are pulling against each other across it.
+
+Three consequences follow, and they run through the whole Part:
+
+1. **The bottom of an abduction exercise is where the joint, not the muscle, sets the limit.** The tension the deltoid must produce per newton-metre of demand is at its maximum there (Part V §B.6), and the fraction of that tension pointed at the joint capsule rather than at rotation is also at its maximum. This is the only muscle in this document where the lengthened position is mechanically expensive at the *joint*.
+2. **Loading the very bottom hard is a deliberate choice with a cost, not a free win.** The rest of this document argues for the lengthened position by default. Part V does not, and Part V §B.7 is where the one trial that tested it comes in.
+3. **A cuff that cannot do its half changes what the deltoid can be asked to do.** That is a clinical statement, and it lives in Part V §E.4.
+
+---
+
+### A.6 Regions — where a deltoid actually grows
+
+Less has been measured here than for any other muscle in this document.
+
+- **Along the middle head's length.** Eight weeks of unilateral lateral raises grew the lateral deltoid **3.3–3.4% at the proximal site and 3.9–4.6% at the distal site**, and the two resistance profiles compared produced no detectable regional difference between them (Larsen et al., 2025c). **Moderate evidence** — twenty-four resistance-trained participants, within-participant design, ultrasound at two sites. The authors record that theirs is the first resistance-training study to measure lateral deltoid thickness directly at all.
+- **Between heads, from a pressing exercise.** Ten weeks of bench-press training in thirteen men, against eleven controls, raised MRI cross-sectional area of the pectoralis major, pectoralis minor, **anterior deltoid** and triceps brachii above control — and the **middle deltoid's increase was smaller than every other muscle measured** (p ≤ 0.016), and did not separate from control (Lanza et al., 2024). **Moderate evidence** — one trial, MRI, horizontal bench press only, 50–55% of one-repetition maximum.
+- **The posterior head.** **Not measured.** No training study has reported posterior deltoid size before and after a programme [consensus — no single source].
+- **Any finer regional target.** **Not supported.** The seven anatomical segments of Part V §A.3 are real; no growth measurement has ever been made at that resolution, and Part V §B.11 disallows inferring one from activation.
+
+**What has not been measured at all.** Deltoid fascicle length and pennation angle before and after
+training; whole-muscle deltoid volume before and after training; any comparison of a press against a
+raise for deltoid size. For [regional hypertrophy](#regionalhypertrophy) in general, and why activation
+maps do not predict it, see Part V §B.11.
+
+---
+
+### A.7 Fibre type — an even split, and it still does not tell you what to do
+
+Biopsies of fourteen muscles crossing the human glenohumeral joint found fast-glycolytic fibres
+occupying 22–40% of cross-sectional area, fast-oxidative-glycolytic 17–51%, and slow-oxidative 23–56%,
+with **twelve of the fourteen falling between 35% and 50% slow** (Srinivasan et al., 2007). Four
+cadavers. The autopsy series that Parts II–IV draw on reports the deltoid in the same territory
+(Johnson et al., 1973).
+
+**This changes nothing about the prescription**, for the reasons already set out in Part II §A.6,
+Part III §A.7 and Part IV §A.7. The fact is here because it is asked about.
+
+---
+
+### A.8 The muscles you cannot separate it from
+
+| Muscle | Relationship | Consequence for training |
+|---|---|---|
+| [Supraspinatus](#supraspinatus) and the rest of the [rotator cuff](#rotatorcuff) | Co-contract in every elevation; out-lever the deltoid in early range | They set the load ceiling at the bottom of the range (Part V §A.5) |
+| [Pectoralis major](#pectoralismajor), clavicular head | Shares [shoulder flexion](#shoulderflexion) with the anterior deltoid; peak flexor moment arm 53.7 ± 2.1 mm, larger than any deltoid sub-region's (Ackland et al., 2008) | Every press and every front raise is shared work; the anterior deltoid never has flexion to itself |
+| [Triceps brachii](#tricepsbrachii), long head | Crosses the shoulder as an extensor and the elbow as an extensor | It ends most pressing sets before the deltoid does (Part V §C.5) |
+| [Trapezius](#trapezius), upper | Produces [scapular upward rotation](#scapularupwardrotation), without which the arm cannot pass ~120° | It is a prerequisite for the top of a press, and a confounder in a lateral raise taken above 90° |
+| [Latissimus dorsi](#latissimusdorsi) and [teres major](#teresmajor) | The shoulder's principal adductors and extensors | Direct antagonists of the middle and anterior heads; direct **synergists** of the posterior head |
+| [Serratus anterior](#serratusanterior) | Upward rotation and protraction of the scapula | Same role as upper trapezius at the top of a press |
+| [Infraspinatus and teres minor](#rotatorcuff) | Largest horizontal-extension moment arms at 90° of elevation, alongside the posterior deltoid (Kuechle et al., 1997) | Nothing isolates the posterior deltoid from them |
+
+**Nothing on this list can be removed by technique.** The only thing technique does is change the
+*direction* the humerus travels, which changes which of them are prime movers — which is the entire
+content of Part V §B.5.
+
+---
+
+### A.9 What the anatomy dictates, in nine lines
+
+1. The deltoid is the largest muscle of the upper limb — 15.2% of its total muscle volume, the largest fraction of any of thirty-two.
+2. It wraps the joint from three sides, so its heads' moment arms differ **in sign**, not merely in size.
+3. All three heads insert on one patch of bone, so the only lever over which head is loaded is the direction the arm travels.
+4. Internally it is seven tendon-separated segments, and glucose uptake follows those segments rather than the three-head map.
+5. The middle head is short-fibred, multipennate and high-PCSA — a force muscle.
+6. The posterior head has fibres longer than any triceps head and a modest PCSA — an excursion muscle.
+7. The middle head's required abduction excursion **exceeds its own fibre length**, which is true of no other muscle in this document.
+8. Nobody knows the whole muscle's PCSA to better than a factor of three.
+9. At the bottom of the range the rotator cuff out-levers the deltoid three to one and the deltoid's force is aimed mostly at the joint — so the lengthened position here is not the free stimulus it is everywhere else in this document.
+
+---
+## partvbbiomechanics
+
+**PART B — Biomechanics: what actually loads the deltoids**
+
+### B.1 The joint actions, ranked
+
+| Action | Which head | Which muscles can supply it | Verdict |
+|---|---|---|---|
+| [Shoulder abduction](#shoulderabduction) | Middle below 90°, the anterior above it | Shared with the [supraspinatus](#supraspinatus), which out-levers both in early range; **opposed** by the posterior head below ~40° | **The action to build the middle head's prescription around** |
+| [Shoulder flexion](#shoulderflexion) | Anterior | Shared with the clavicular [pectoralis major](#pectoralismajor), whose flexor moment arm is the largest at the joint | **The action the anterior head is trained by**, and never alone |
+| [Shoulder horizontal abduction](#shoulderhorizontalabduction) | Posterior | Shared with infraspinatus and teres minor, which have comparable moment arms at 90° of elevation (Kuechle et al., 1997) | **The action that needs its own exercise**, because nothing in the two rows above supplies it |
+| [Shoulder extension](#shoulderextension) | Posterior | Shared with [latissimus dorsi](#latissimusdorsi) and [teres major](#teresmajor), which have far larger extensor moment arms (Part II §B.2) | Real, and the reason rowing trains the rear head incidentally (Part V §D.3) |
+| [Shoulder external rotation](#shoulderexternalrotation) and [internal rotation](#internalrotation) | All three, sign depending on position | The deltoid "behaved either as an internal rotator or an external rotator, depending on the degree of humeral abduction and axial rotation" (Ackland & Pandy, 2011) | Not a training target; it is a **modifier** of the three above (Part V §B.5) |
+
+Three things this table settles immediately. **The deltoid is three training targets, not one** — and
+unlike the gluteal case in Part IV §B.1, where the overlap between extensor and abductor was real, here
+the overlap between the front and back heads is **negative**: through the lower half of coronal
+abduction the posterior deltoid's moment arm has the opposite sign to the middle head's, so it resists
+the movement rather than assisting it (Ackland et al., 2008). **The anterior head is a better abductor
+than folklore allows** — its peak abduction moment arm exceeds the middle head's, though it arrives
+above 90° rather than within a raise's range (Part V §B.2), which is why a press is not merely a
+"front delt" exercise. And **axial rotation is not a fourth exercise category**; it is a way of choosing which head
+a raise loads, and Part V §B.5 is where that is settled.
+
+---
+
+### B.2 Moment arms — a lever that grows as you lift
+
+This is the section that separates Part V from every Part before it. Measured by the tendon-excursion
+method in eight entire upper-extremity cadaver specimens, through 2.5° to 120° of elevation, in three
+planes, with all values normalized to humeral-head radius (Ackland et al., 2008):
+
+```
+DELTOID MOMENT ARMS, MEASURED (mm; positive = elevation, negative = depression)
+                       SCAPTION          CORONAL ABDUCTION       FLEXION
+                     max @deg  min @deg   max @deg  min @deg   max @deg  min @deg
+  Anterior deltoid   39.3 @120  2.1 @2.5  30.2 @120  2.0 @2.5  40.0 @120 11.6 @2.5
+  Middle deltoid     33.1 @120  6.7 @2.5  29.1 @86   8.3 @2.5  12.2 @120  0.0 @2.5
+  Posterior deltoid -14.9 @34   3.0 @120 -15.9 @5    2.0 @120 -33.0 @30 -16.3 @120
+  ------------------------------------------------------------------------------
+  For contrast, same specimens, same method:
+  Supraspinatus (ant) 32.4 @2.5  9.2 @120  23.2 @10   5.6 @120  41.8 @2.5  0.6 @120
+  Teres major       -47.3 @87 -18.6 @15  -46.1 @83 -12.1 @10  -54.4 @56 -19.7 @120
+```
+
+Pooling every published measurement of the glenohumeral moment arms — the only systematic review of
+this literature — gives the peak magnitudes as means across studies (Hik & Ackland, 2019):
+
+| Muscle | Coronal abduction | Scaption | Flexion | Studies pooled |
+|---|---|---|---|---|
+| [Anterior deltoid](#anteriordeltoid) | **36.2 ± 8.0 mm** | 33.9 ± 5.0 mm | **35.5 ± 3.3 mm** | 4–5 |
+| [Middle deltoid](#middledeltoid) | 26.8 ± 1.7 mm | **33.4 ± 1.5 mm** | 21.5 ± 4.8 mm | 3–6 |
+| [Posterior deltoid](#posteriordeltoid) | 14.5 ± 6.2 mm, biphasic | 16.9 ± 4.8 mm, biphasic | **36.4 ± 10.5 mm extensor**, peaking in early flexion | 3–6 |
+| [Supraspinatus](#supraspinatus) | 28.2 ± 1.6 mm, peaking in **very early** abduction | 26.4 ± 1.3 mm | 27.1 ± 15.6 mm | 3 |
+
+Four things follow, and the first is the one that reorganizes the whole Part.
+
+**First, the lever grows as the arm rises — the opposite of every muscle in Parts III and IV.** The
+middle deltoid's abduction moment arm rises from 8.3 mm at 2.5° to 29.1 mm at 86°, a three-and-a-half
+fold increase across the working range. The review states the mechanism in one sentence — written of
+the anterior head, and true of the middle one for the same geometric reason: its moment arm increases
+with elevation angle, "thus demonstrating greater leverage in the later stages of humeral elevation
+when more torque is required to lift the upper limb against its own weight" (Hik & Ackland, 2019). The quadriceps and the gluteus maximus have their **worst** leverage
+where demand peaks. The deltoid has its **best** leverage where demand peaks. That single reversal is
+why the "load the lengthened position" default of Parts II to IV does not transfer here.
+
+**Second, the anterior head is a real abductor — but it becomes one late, and the pooled figure that
+appears to make it the better one is an artefact.** The review's coronal peak of 36.2 mm is a
+four-study mean containing the single 60 mm outlier this section flags three paragraphs down; **the
+three concordant studies give 26–30 mm**, which is the middle head's territory, and the review's own
+discussion says the two heads' moment arms "were similar in the coronal plane and scapular planes"
+(Hik & Ackland, 2019). In the primary dataset they are 30.2 mm against 29.1 mm. So the defensible claim
+is that the two heads are **comparable abductors whose peaks arrive at different angles**, not that
+the front one out-levers the side one. Both sources name the anterior and middle deltoid together as
+the largest humeral elevators of all the muscles measured —
+the primary study (Ackland et al., 2008) and the review that pooled it with the rest
+(Hik & Ackland, 2019) agree on that. **Where the peaks fall is the usable part.** The anterior head's
+arrives at **120°** and the middle head's at **86°**, and the anterior head starts from 2.0 mm at 2.5°
+against the middle head's 8.3 mm. Interpolating between the measured endpoints, the middle head
+out-levers the anterior one through the whole 0–90° arc a lateral raise covers — roughly 19 mm against
+12 mm at 45° — and the anterior head overtakes it only **above** 90°, in the range only a press reaches.
+That is the leverage argument for the split in Part V §D: the raise's range belongs to the middle head
+and the press's range belongs to the front one, and it does not need [EMG](#emg) to make it.
+**Caveat:** these are peak magnitudes, not areas under a curve, the interpolation is mine rather than
+measured, and the anterior head's own [PCSA](#pcsa) appears to be roughly a third of the middle head's
+(Part V §A.4) — leverage is not capacity.
+
+**Third, the posterior head is an antagonist of the movement its neighbours perform.** Its coronal
+moment arm is **negative** — adducting — from the start of abduction until it crosses zero late in the
+range, reaching an adductor peak of 15.9 mm at 5°. In flexion it is an extensor throughout, peaking at
+33.0 mm at 30°. There is no arm position in which a lateral raise or a press meaningfully trains it,
+and this is a measurement rather than an argument.
+
+**Fourth, the supraspinatus and the deltoid trade places.** The supraspinatus peaks in very early
+abduction and declines; the deltoid starts at a third of that and climbs. Their curves cross somewhere
+in the first quarter of the range. This is the moment-arm content of Part V §A.5.
+
+**Caveats on all of it, and they are substantial.** The primary dataset is **eight cadavers aged 81 to
+98**, mean 87, which is older than Ward's lower-limb specimens and older than any population this
+document is written for. **The angle convention is not the one this Part declares, and the difference
+is not small.** Those moment arms were obtained on a rig that pivoted the scapula to simulate
+scapulohumeral rhythm, so the angles are not the thoracohumeral elevation defined at the head of
+Part V; if they are read as glenohumeral, an 86° peak corresponds to something nearer 110–115° of arm
+elevation. Every angle quoted from this dataset should be treated as carrying that ±25° ambiguity, and
+the *shape* of each curve — which is what the argument rests on — is unaffected by it. The systematic review found **notable between-study variation in moment-arm
+magnitudes even for the same muscle at the same joint position** (Hik & Ackland, 2019), and one
+high-quality study reports the anterior deltoid as an *adductor* below 45° with a peak of 60 mm at 90°
+— a curve of a different shape from everyone else's. And the gap that matters most for training:
+the review names **elevation beyond 120°** as one of the literature's notable blank spots. **Every
+angle an overhead press passes through in its top third has never had a moment arm measured in it.**
+
+---
+
+### B.3 Force–length — the muscle that has to span its own curve
+
+**What is established.** The middle deltoid's required excursion in abduction **exceeds its own fibre
+length** (Peterson & Rayan, 2011) — one of only two exceptions among eleven shoulder and arm muscles.
+A muscle in that position cannot stay near its plateau: it must run down onto the ascending limb at one
+end of the joint's range and out onto the descending limb at the other. That is a structural fact about
+this muscle, and it holds regardless of where the plateau actually sits.
+
+**What is not established is where on the curve each arm position lands.** The estimate the training
+literature leans on comes from a musculoskeletal model of the upper limb built on the Visible Human
+Male and calibrated against measured joint torques (Garner & Pandy, 2003). That model publishes an
+operating-range diagram for every muscle, and the trial in Part V §B.7 read the deltoid's bars from it
+as reaching the **descending limb with the humerus parallel to the torso** — that is, the muscle is
+*longer than optimal with the arm at the side* (as cited in Larsen et al., 2025c). **Contested**, and
+for three separate reasons: the reading is an inference from a figure rather than a stated result; the
+same paper reports the deltoid's own optimal fibre length as anywhere between 7.9 and 13.2 cm depending
+on which cadaver study you believe; and its authors state plainly that their model's volume and PCSA
+estimates run larger than the dissection studies they compare against.
+
+**What has been measured is the joint, and it points the other way from the folklore.** Maximum
+voluntary isometric shoulder torque was recorded at eight elevation angles from 90° to 160° in fourteen
+healthy men (Aronis et al., 2025):
+
+```
+MAXIMUM VOLUNTARY SHOULDER TORQUE vs ELEVATION ANGLE (sagittal plane, standing)
+  Elevation                90 deg  ->  160 deg
+  Absolute torque          77.2 N.m -> 43.2 N.m      linear, R2 = 0.99
+  As % of each person's own maximum   99.6% -> 55.3%
+  Middle deltoid activity  87.5 +/- 19.9%  ->  109.4 +/- 25.6%  (at 150 deg)
+  Pectoralis major activity 68.9 +/- 24.2%  ->   19.8 +/-  5.6%
+  Anterior deltoid activity  no systematic change with angle
+```
+
+**Two readings, and both matter.** You are **almost half as strong overhead as you are at shoulder
+height**, and the decline is linear. And the reason is partly a handover: the pectoralis major drops
+out of the movement across that arc while the middle deltoid's activity *rises*, so the top of a press
+is both the weakest position and the one in which the deltoid's share is largest. **Moderate
+evidence** — fourteen men, isometric, one plane, and the range covered starts at 90°, so nothing here
+speaks to the bottom half of an elevation.
+
+**Why the prescription does not wait for the answer.** The only trial that manipulated where in the
+range the load sat found no difference in growth (Part V §B.7). Whatever the muscle's force–length
+position, the practical question was settled empirically before the mechanism was.
+
+---
+
+### B.4 The deltoid is three muscles — and that is the central fact of Part V
+
+Part III's organizing fact was that the quadriceps has a monopoly on knee extension. Part IV's was that
+hip extension is a committee. Part V's is different again and is the strongest version of the problem
+in this document: **the deltoid's own heads are on opposite sides of the committee.**
+
+```
+WHAT EACH HEAD DOES DURING A CORONAL-PLANE LATERAL RAISE
+  Coronal-plane abduction moment arms, Ackland 2008. Positive = abducting.
+                       Near the bottom        Near the top            Role
+  Anterior deltoid      +2.0 mm at 2.5 deg    +30.2 mm at 120 deg     Agonist, weak then strong
+  Middle deltoid        +8.3 mm at 2.5 deg    +29.1 mm at  86 deg     Agonist throughout
+  Posterior deltoid    -15.9 mm at 5   deg     +2.0 mm at 120 deg     ANTAGONIST, then neutral
+  Supraspinatus (ant)  +23.2 mm at 10  deg     +5.6 mm at 120 deg     Agonist, strong then weak
+```
+
+Read the third row twice. **At the bottom of a lateral raise the posterior deltoid has a larger moment
+arm than the middle deltoid — pointing the other way.** No other muscle in this document contains a
+region that opposes its own principal action with better leverage than the region performing it.
+
+Three consequences run through the rest of Part V:
+
+1. **No exercise trains the whole deltoid.** Not a press, not a raise, not a row. A complete prescription needs one exercise per head, and Part V §D.5 says so.
+2. **The heads cannot be "balanced" by adding load to one movement.** They are loaded by *direction*, and direction is a discrete choice.
+3. **A programme built on horizontal pressing trains one third of the muscle.** Ten weeks of **flat bench pressing** raised anterior deltoid cross-sectional area above control and left the middle deltoid's increase smaller than that of every other muscle measured (Lanza et al., 2024). **Interpretive caution:** that trial used the flat bench press only, at 50–55% of one-repetition maximum for twelve repetitions — well short of failure — and a horizontal press supplies no abduction and no elevation above 90°. It does not license the same conclusion about overhead pressing, where this Part's own cited data show middle deltoid activity *rising* through elevation (Aronis et al., 2025).
+
+---
+
+### B.5 Plane of elevation and humeral rotation are the steering wheels
+
+The share is not fixed. Two variables move it, and they are the only two that do.
+
+**Plane of elevation.** Moment arms differ between planes at the same elevation angle. Measured across
+four glenohumeral motions in the same specimens: "the anterior deltoid has a larger moment arm in the
+anterior planes, whereas the midportion is greater in the scapular and coronal planes" (Kuechle et al.,
+1997). Pooled across the literature, the middle head's peak is largest in **scaption** (33.4 mm) and
+the anterior head's in **flexion** (35.5 mm) and coronal abduction (36.2 mm) (Hik & Ackland, 2019).
+
+| Where the arm travels | Which head leads | Exercise |
+|---|---|---|
+| Straight out to the side, [frontal plane](#frontalplane) | Middle, with the anterior a distant second below 90° | Lateral raise |
+| ~30–45° forward of the side, the scapular plane | Middle, at its own best leverage | Scaption raise; most machine presses |
+| Straight in front, [sagittal plane](#sagittalplane) | Anterior | Front raise; press |
+| Backwards from 90° of elevation | Posterior, with infraspinatus and teres minor | Reverse fly, face pull |
+
+**Humeral rotation.** Rotating the upper arm turns each head's fibres relative to the joint's axes, and
+the deltoid "behaved either as an internal rotator or an external rotator, depending on the degree of
+humeral abduction and axial rotation" (Ackland & Pandy, 2011). Measured directly on the exercise, in
+ten competitive bodybuilders performing four lateral-raise variants and a front raise (Coratella et al.,
+2020):
+
+| Variant | Highest [EMG](#emg) | What it actually loads |
+|---|---|---|
+| **Neutral** rotation (thumb pointing forward) | **Middle deltoid** — higher than the externally rotated, elbow-flexed and front-raise versions | The version to use if the middle head is the target |
+| **Internal** rotation (little finger up, "pour the pitcher") | **Posterior deltoid**, and also the highest **upper trapezius** and **triceps** of any variant | Not the middle head, and not what the cue promises |
+| **External** rotation (thumb up) | Anterior deltoid raised; middle head **below** the neutral version concentrically | A partial front raise |
+| **Front raise** | Anterior deltoid and clavicular pectoralis major, by a very large margin | A pectoral exercise with a deltoid share |
+
+**Interpretive caution, and it is unusually important here.** The effect sizes in that study run from
+1.5 to 34 — figures that arise from a within-subject computation on ten highly practised lifters, not
+from differences of that practical magnitude. The direction of each comparison is the usable part; the
+size is not. And this is acute [EMG](#emg), which Part V §B.11 disallows as a basis for ranking
+exercises by growth. What it is legitimately used for here is the narrow thing it is good at: comparing
+variants of the **same** movement, in the same session, on the same electrodes.
+
+**Even so, one popular cue is contradicted by its own evidence base.** "Pour the pitcher" — internally
+rotating so the little finger leads — is taught to bias the middle head. Measured, it produced the
+**highest posterior deltoid and the highest upper trapezius** activity of the five variants and left
+the highest posterior deltoid and upper trapezius activity of the five variants. **But it did not
+reduce middle deltoid activity, and that is the part the cue's critics get wrong too.** Concentrically
+the neutral version beat the externally rotated, elbow-flexed and front-raise versions and was **not
+distinguishable from the internally rotated one**; eccentrically the internally rotated version was the
+**highest** of the five for the middle head (Coratella et al., 2020). So the honest verdict is narrower
+than either camp's: internal rotation does not buy middle deltoid activity, it does recruit the
+posterior head and the trapezius, and it is the arm position Part V §E.4 lists as least tolerated. What neither supports is
+internal rotation as the middle head's best position. It is also the arm position that Part V §E.4
+lists as the shoulder's least tolerant.
+
+---
+
+### B.6 The stimulus map for the deltoid
+
+Overlaying Part V §B.2, Part V §B.3 and Part V §A.5 onto the arc an arm actually travels:
+
+```
+ARM POSITION        HEAD LENGTH   LEVERAGE   ACTIVE FORCE   TENSION PER    WHAT IT NEEDS
+(coronal abduction) (middle)                                N.m OF DEMAND
+------------------------------------------------------------------------------------------------
+0-20 deg            Longest       LOWEST     Disputed       HIGHEST        Almost nothing loads
+arm at the side                   (8-13 mm)  (section B.3)  (75-120 N      it, and the joint is
+                                                            per N.m)       least tolerant here.
+                                                                           The problem end
+
+20-45 deg           Long          Rising     Near peak      High           Cable and lean-away
+                                                                           versions live here
+
+45-90 deg           Shortening    HIGH       High           Moderate       Where a dumbbell
+                                  (19-29 mm)                               raise puts its work.
+                                                                           The productive end
+
+90-135 deg          Shortening    UNMEASURED Falling        Unknown        Only a press reaches
+                    to shortest   (no moment  (55% of its                  it, and this is the
+                                   arm past    own maximum                 part of it that is
+                                   120 deg)    at 160 deg)                 actually loaded
+
+135-180 deg         Shortest      UNMEASURED FALLING        NONE           Nothing loads it.
+to lockout                                                                 Demand goes to zero
+                                                                           at lockout while
+                                                                           capacity is still
+                                                                           55% (section D.2)
+```
+
+**Two columns to read carefully.** The fifth is torque demand divided by moment arm — how much tension
+the muscle carries per newton-metre the exercise asks for — and, exactly as in Parts II, III and IV, it
+runs opposite to leverage wherever it can be computed at all. What is new is the **fourth row**, whose
+leverage and tension columns are left unresolved on purpose: **no moment arm has ever been measured
+past 120° of elevation** (Hik & Ackland, 2019), so the top third of a press is the one region of one
+muscle in this document whose mechanics are simply unknown. It is also the region only a press reaches — which makes the deltoid the only muscle
+here with a productive range above what its isolation exercise can cover, and the only one whose
+exercise catalogue has to be split by **elevation angle** rather than by joint action.
+
+**And that is why this map is used differently from the gluteal one.** In Part IV the fifth column
+pointed hard at depth and the training evidence broke the tie in depth's favour. Here the fifth column
+points at 0–20° of abduction, and three separate things say not to build the prescription there: the
+demand curve of every exercise collapses at that angle (Part V §B.8), the joint's tolerance is at its
+lowest (Part V §A.5), and the one trial that deliberately loaded it found no advantage (Part V §B.7).
+**This is the one muscle in this document where the lengthened position is not the answer.**
+
+**The single most useful sentence in this Part:** the middle deltoid's productive range runs from about
+30° of abduction to roughly 135°, a raise covers the lower half of it and a press covers the upper
+half, the two are not substitutes for each other, and **nothing loads the last third of elevation at
+all** — the same shape of gap as Part IV's hip past neutral.
+
+---
+
+### B.7 Range and resistance profile — what the evidence actually says
+
+Almost nothing has been tested. The entire experimental literature on deltoid hypertrophy is two
+trials, and only one of them had the deltoid as its target.
+
+| Study | Comparison | Result |
+|---|---|---|
+| Larsen et al., 2025c | Cable vs dumbbell lateral raise, **within-participant** (one arm each), shoulder [range of motion](#rangeofmotion) standardized at 0–90° and matched, 10 weekly sets to momentary failure at 12–16RM, 24 resistance-trained adults, 8 weeks, ultrasound at two lateral deltoid sites | Lateral deltoid thickness **+3.3% to +4.6%**; no difference between conditions. Univariate [Bayes factors](#bayesfactor) 0.22 and 0.27 (moderate support for the null); multivariate BF < 0.01 (extreme support for the null) |
+| Lanza et al., 2024 | Bench press training vs control, 10 weeks, 13 training + 11 control men, MRI cross-sectional area | **Anterior deltoid** grew above control; **middle deltoid's increase was smaller than that of every other muscle measured** and did not separate from control |
+
+**Read the first row for what it actually manipulated.** Not range of motion — range was held identical
+— but **[resistance profile](#resistanceprofile)**. The dumbbell version's demand rises as the arm
+rises, peaking at 90° where the muscle is shortest. The cable version, with the pulley set level with
+the hand, does the reverse: peak demand at the bottom, where the muscle is longest. The hypothesis was
+that the cable version would win, because it puts torque on the muscle at length. It did not, and the
+evidence for the null was strong rather than merely absent.
+
+**What that does and does not establish.** It establishes that, **within the 0–90° range a lateral
+raise covers, where the load peaks does not change how much the lateral deltoid grows** in trained
+lifters over eight weeks. It does not establish that range itself is irrelevant, because range was
+never varied. The trial's own authors identify that as the obvious next experiment: allow the cable
+version the extra adduction range it can access and compare again.
+
+**Four caveats, recorded because the trial deserves an accurate reading.** Eight weeks in trained
+lifters is a short window for a small effect. The ultrasound typical error of ~0.4 mm was large against
+observed changes of 0.5–1.0 mm. **The participants were in a deliberate energy surplus** — the protocol
+asked for a modest caloric increase and 23 of 24 gained weight, about 2.1–2.3 kg over the eight weeks
+— so the 3.3–4.6% figure is a growth rate obtained under favourable conditions and should not be read
+as a maintenance-calorie expectation. And the study was industry-funded; **this document does not
+attempt to infer a direction of bias from that**, because the funder's product line and the declared
+conflicts point different ways, and an argument that a funding source makes a null *more* trustworthy
+is not one this document can support in general.
+
+**The general range literature does not settle it either, and the disagreement is on the record.** Two
+meta-analyses of long-length versus short-length partial training reach different conclusions — one
+finding long-length training superior (Strey et al., 2026), one finding the contrast trivial at every
+site measured (Varovic et al., 2025a) — and a trial in trained lifters found lengthened partials and
+full range equivalent in the elbow flexors and extensors (Wolf et al., 2025). **No study in any of
+those reviews measured the deltoid.**
+
+> **Range for the deltoid is not a threshold and not a coverage problem within one exercise.** It is a
+> coverage problem **between** exercises: 0–90° belongs to the raise, 90–160° belongs to the press, and
+> no single movement covers both.
+
+**What has not been tested.** Nobody has compared a press against a raise for deltoid size. Nobody has
+manipulated lateral raise range of motion. Nobody has measured posterior deltoid hypertrophy from
+anything. Nobody has measured deltoid volume, fascicle length or pennation angle before and after any
+programme. Every prescription in Part V §D and Part V §F that goes beyond those two trials is a
+mechanical inference, and is labelled as one.
+
+---
+
+### B.8 Resistance profiles — why nothing loads the bottom
+
+The muscle's capability curve is fixed. The **[resistance profile](#resistanceprofile)** is chosen by
+the exercise. For the shoulder:
+
+> τ_demanded = F_resistance × d⊥
+>
+> where d⊥ = the perpendicular distance (m) from the glenohumeral joint centre to the [line of action](#lineofaction) of the resistance
+
+For a free weight the line of action is vertical, so for any elevation the demand reduces to
+**F × L × sin(elevation angle)** — zero with the arm at the side, maximal with the arm horizontal, and
+falling again above 90°. That one equation explains most of the table.
+
+| Exercise | Where demand peaks | Where it falls to near zero | Profile |
+|---|---|---|---|
+| [Dumbbell lateral raise](#lateralraise) | 90° of abduction | Arm at the side, and again overhead | Short-length-loaded |
+| Cable lateral raise, pulley at hand height | Bottom of the range | 90° | Stretch-loaded, and **necessarily light** (Part V §B.9) |
+| Lean-away cable lateral raise | Below 90°, angle set by the lean | Depends on the lean | Adjustable; the only free control over this profile |
+| [Machine lateral raise](#lateralraise) with pads on the upper arm | Set by the cam — check it | Set by the cam | Variable, and usually flatter than either free version |
+| [Front raise](#frontraise) | 90° of flexion | Arm at the side | Short-length-loaded, and mostly pectoral (Coratella et al., 2020) |
+| [Overhead press](#overheadpress), barbell or dumbbell | Just off the shoulders, ~90–110° of elevation | Lockout | Loaded through the range the raise cannot reach |
+| [Machine shoulder press](#overheadpress) | Set by the cam | Set by the cam | Variable |
+| [Bench press](#benchpress) and incline press | Bottom, chest level | Lockout | Stretch-loaded for the pectoralis; anterior deltoid share rises with the incline (Rodríguez-Ridao et al., 2020) |
+| [Reverse fly](#reversefly), dumbbell, chest supported | Arms horizontal, at full horizontal abduction | Arms hanging | Short-length-loaded |
+| Cable reverse fly and [face pull](#facepull) | Roughly constant through the arc | Neither end | Mid-range-loaded; the only even profile in the posterior category |
+| [Upright row](#uprightrow) | Mid-range | Bottom and top | Mid-range-loaded, in the shoulder's least tolerant position (Part V §D.4) |
+
+**The row that matters most is the one that was missing from an earlier version of this table.** Two
+free-weight exercises **do** load 0–20° of abduction: a **side-lying dumbbell raise**, in which the
+load line is perpendicular to the arm at the bottom and the demand goes as the cosine of the elevation
+angle, and the same movement performed **face-down on an inclined bench**, which puts peak demand
+wherever the bench angle chooses. So the correct statement is not that the bottom cannot be loaded —
+it is that **loading it caps the weight severely**, because the moment arm there is 8–13 mm
+(Part V §B.2) and any torque applied costs the muscle three to four times what it costs at 90°.
+**Torso angle, not the choice of cable versus dumbbell, is the real control over this profile**, and it
+moves the peak continuously along the arc. Part V §B.9 is the arithmetic of what that trade buys.
+
+**A note on the incline bench, because it is the anterior head's cheapest volume.** Across five bench
+inclinations at 60% of one-repetition maximum in thirty trained adults, anterior deltoid activity was
+highest at **60°**, and inclinations above 45° raised it significantly while reducing the pectoralis
+major's contribution (Rodríguez-Ridao et al., 2020). A high incline press is, mechanically, a
+seated shoulder press with a shorter range — which is why it belongs in Part V §D.2 and not only in a
+chest session.
+
+---
+
+### B.9 A worked example, so the numbers are not abstract
+
+Take an 85 kg lifter, a 6 kg dumbbell held with a softly bent elbow so the load sits ~0.50 m from the
+shoulder joint, and an upper limb of ~4 kg whose centre of mass sits ~0.28 m out. Demand at any
+elevation angle θ is (58.9 N × 0.50 m + 39.2 N × 0.28 m) × sin θ = **40.4 × sin θ N·m**.
+
+```
+DUMBBELL LATERAL RAISE - MIDDLE DELTOID TENSION THROUGH THE RANGE
+  Elevation angle           15     30     45     60     75     90   deg
+  Moment arm r *            11.4   15.2   18.9   22.6   26.4   29.1  mm
+  Tension per N.m of demand 88     66     53     44     38     34    N per N.m
+  Torque demand             10.5   20.2   28.6   35.0   39.0   40.4  N.m
+  --------------------------------------------------------------------------
+  Middle deltoid tension **  920   1330   1510   1550   1480   1390  N
+    Peak at ~60 deg; within 5 per cent of peak from 45 to 75 deg;
+    59 per cent of peak at 15 deg
+
+  * linear interpolation between the two MEASURED endpoints, 8.3 mm at 2.5 deg
+    and 29.1 mm at 86 deg (Ackland 2008), held flat from 86 to 90 deg because
+    86 deg is where the measurement stops rising. The real curve is monotonic
+    but not straight.
+  ** the tension required IF the middle deltoid carried the whole demand. The
+    anterior deltoid and supraspinatus take a real share, so these are ceilings
+    on this one head, not estimates of it.
+```
+
+**Now the same lifter on a cable, with the pulley level with the hand so that peak demand lands at the
+bottom.** The load is no longer free to choose: it is set by the hardest point of the movement, and the
+hardest point is the **bottom of the range**, where the moment arm is 8.3 mm rather than 29 mm. Setting
+the cable so that its **peak tension matches the dumbbell's peak tension** — which is what taking both
+to the same [proximity to failure](#proximitytofailure) does — gives a cable tension of about
+**24.8 N, roughly 2.5 kg**:
+
+```
+CABLE LATERAL RAISE, PULLEY AT HAND HEIGHT - PEAKS MATCHED AT 1,550 N
+  Elevation angle          2.5     15     30     45     60     75     90   deg
+  Middle deltoid tension  1549   1298   1071    875    694    524    378   N
+  Dumbbell, for comparison 212    916   1333   1513   1547   1480   1388   N
+  --------------------------------------------------------------------------
+  Mean across the trial's actual 0-90 deg range:
+      dumbbell ~1,300 N     cable ~890 N     ratio 1.46
+  Mean across 15-90 deg only:
+      dumbbell ~1,410 N     cable ~800 N     ratio 1.77
+```
+
+**Read the two means, because the difference between them is a lesson about the calculation rather than
+about the exercise.** Truncating the window at 15° — which an earlier version of this block did —
+throws away the only part of the range where the cable version leads, and overstates the dumbbell's
+advantage by about a fifth. The full-range figure is the one to use.
+
+**What the arithmetic says, and it is the point of this section.** A resistance profile that peaks
+where the moment arm is smallest **forces a much lighter absolute load** — 2.5 kg against 6 kg here —
+and the lighter load then under-loads the rest of the range. The stretch-loaded version buys tension at long
+length and pays for it everywhere else. Mechanically, the two effects very nearly cancel, and by this
+calculation the dumbbell version delivers **more** total tension over the arc, not less.
+
+**Both mechanical readings were available before the trial ran, and they pointed in opposite
+directions.** Loading the muscle at length should favour the cable; area under the tension curve should
+favour the dumbbell. **The measurement found neither** (Larsen et al., 2025c), which sits between them,
+and is the outcome a reader should expect whenever two profiles trade peak position against peak
+magnitude.
+
+**Four things this block is not.** The moment-arm interpolation is derived from two measured endpoints,
+not measured across the range. The cable load of 3 kg is lower than lifters actually use, because a real
+repetition arrives at the bottom with momentum, does not start at true 0°, and is performed by a living
+trained shoulder rather than an 87-year-old cadaveric one — the trial's own authors raise the momentum
+point explicitly as a candidate explanation for their null. The share taken by the anterior deltoid and
+supraspinatus is not modelled. And the whole-muscle [PCSA](#pcsa) underlying any architectural ceiling
+is uncertain by a factor of three (Part V §A.4), so **no** absolute force here should be compared with a
+capacity figure the way Part IV §B.9 does.
+
+**The claim that survives all of that is comparative, and it is enough:** within a lateral raise, moving
+the peak of the resistance profile toward the lengthened position costs you load in proportion, and the
+one trial that tested the trade found it a wash.
+
+---
+
+### B.10 Elbow bend, torso lean, grip width, bench angle and seat back
+
+Five setup variables change what a shoulder exercise loads. They are the deltoid's equivalent of
+Part III §B.10 and Part IV §B.10.
+
+| Variable | Effect | Evidence |
+|---|---|---|
+| **Elbow bend** in a raise | Shortens the load's moment arm, so the same dumbbell produces less shoulder torque | Mechanical. Measured, the flexed-elbow lateral raise produced **less** middle deltoid activity than the neutral straight-arm version (Coratella et al., 2020) |
+| **Torso lean** in a cable raise | Rotates the whole demand curve: leaning away from the stack moves peak demand toward the bottom, leaning toward it moves peak demand up | Mechanical; the only continuous control anyone has over this profile. Untested for hypertrophy |
+| **Grip width** in a press | Wider grips **raise** the shoulder net joint moment and lower the elbow's; narrower grips do the reverse, and allow more load and more shoulder and elbow range | Eleven resistance-trained men, three grip widths, statistical parametric mapping across the whole concentric phase (Gundersen et al., 2026) |
+| **Bench inclination** | Anterior deltoid activity is highest at 60°; above 45° it rises significantly while pectoralis major performance falls | Thirty trained adults at 60% of one-repetition maximum (Rodríguez-Ridao et al., 2020) |
+| **Seat back / bar in front or behind the head** | Behind-the-neck pressing raised middle and posterior deltoid activity over the front version, and the front version raised pectoralis major | Eight competitive bodybuilders, four press variants at matched relative load (Coratella et al., 2022) |
+
+**On the last row, because it is the one with a safety argument attached.** The measurement is real: in
+that study the behind-the-neck barbell press produced greater middle **and** posterior deltoid activity
+than the front version, with no difference in upper trapezius, and it was performed at a lower absolute
+load (76 ± 7 kg against 82 ± 8 kg). What the measurement does not settle is whether that is worth
+having. The position it requires — maximal elevation with the humerus externally rotated and the head
+pushed forward — is the one the shoulder-injury literature repeatedly names as vulnerable
+(Kolber et al., 2010), and Part II §D.4 already rejects the corresponding pulldown on the same grounds.
+**Promising but under-replicated** as an activation finding, and **not recommended** here, for a reason
+that is about the joint rather than the muscle.
+
+**On the trade you are actually making.** Every row above that moves work to the shoulder moves it away
+from somewhere else — the elbow, the pectoralis major, or the load on the bar. A wide-grip press is a
+better deltoid exercise and a worse triceps exercise than a narrow-grip press with the same barbell.
+A 60° incline press is a better anterior deltoid exercise and a worse pectoral one than a 30° incline.
+There is no setting that improves everything.
+
+---
+
+### B.11 What EMG can and cannot settle here
+
+**Every practical claim about the deltoid in the popular literature descends from surface
+electromyography, and the [EMG–hypertrophy dissociation](#emghypertrophydissociation) is more
+consequential here than anywhere else in this document — because unlike the gluteal case in
+Part IV §B.11, there is almost no hypertrophy evidence to check the rankings against.**
+
+The situation, stated plainly:
+
+```
+DELTOID EVIDENCE BASE, COMPLETE
+  Acute EMG studies comparing shoulder exercises        dozens
+  Training studies measuring deltoid size                    2
+    - lateral deltoid, as the target        Larsen 2025c, n = 24, 8 weeks
+    - anterior + middle, as a by-product    Lanza 2024,   n = 24, 10 weeks
+  Training studies measuring the POSTERIOR deltoid           0
+  Studies comparing a press against a raise                  0
+```
+
+Four specific reasons the rankings cannot be used the way they are used:
+
+- **No EMG prediction has ever been checked against growth in this muscle.** Surface EMG ranks the front raise well above every lateral raise variant for the anterior deltoid and places the middle deltoid far behind (Coratella et al., 2020); the only trial to measure both heads trained a **bench press** and found the anterior deltoid growing and the middle deltoid not (Lanza et al., 2024). Those are different exercises, and the second was not run to test the first. Every ranking in this literature is therefore **unfalsified rather than validated** — a weaker position than it sounds, because the rankings that *have* been checked, in other muscles, failed (Part II §B.11).
+- **Regional activation does not predict regional growth**, tested directly and in general (Zabaleta-Korta et al., 2024). The seven segments of Part V §A.3 are anatomically real and are exactly the kind of structure this failure applies to.
+- **Amplitude is not recruitment.** The general argument is in Part II §B.11 and holds unchanged: surface EMG amplitude is not a valid proxy for motor unit recruitment across different exercises (Vigotsky et al., 2017), and acutely measured amplitude is not a valid proxy for longitudinal adaptation (Vigotsky et al., 2022).
+- **The effect sizes in this literature are not interpretable at face value.** The lateral raise study reports effect sizes from 1.5 to 34 and the press study from 1.4 to 20.5, computed within-subject on eight to ten highly practised bodybuilders. Those are properties of the denominator, not of the difference.
+
+**What surface EMG over this muscle can legitimately be used for.** Confirming that a movement loads a
+given head at all — which for the posterior deltoid is genuinely useful, because that is the whole of
+the evidence that a reverse fly beats a row for it (Franke et al., 2015). Comparing variants of the
+**same** movement in the **same** session on the same electrodes — the neutral-versus-rotated lateral
+raise comparison, and the front-versus-back press comparison, both qualify. And confirming that an
+exercise you think is a deltoid exercise involves the deltoid, which for the upright row and the
+shrug it does not, in the way people assume.
+
+**What it cannot be used for.** Ranking exercises for hypertrophy, choosing between a press and a
+raise, or claiming that any exercise targets a portion of a head.
+
+---
+
+### B.12 The mechanical checklist
+
+An exercise is a good deltoid exercise to the degree that it satisfies these. Nothing satisfies all of
+them, which is why Part V §D.5 asks for three.
+
+1. It moves the humerus in a plane where the target head has a positive moment arm (Part V §B.2).
+2. Its peak torque demand arrives somewhere the joint can actually produce torque — which for abduction means above ~30° (Part V §B.6).
+3. It can be loaded heavily enough to matter to the largest muscle in the upper limb (Part V §A.4).
+4. It is limited by the deltoid, not by the trapezius, the triceps, the grip or the lower back (Part V §C.5).
+5. Somewhere in the programme, something loads **elevation between about 90° and 135°**, which no raise reaches and which a press loads only up to that point (Part V §D.2).
+6. Somewhere in the programme, something loads **horizontal abduction**, which neither of the above supplies (Part V §B.1).
+7. It does not require the shoulder's least tolerant position to deliver its stimulus (Part V §E.4).
+
+---
+## partvctherepspecified
+
+**PART C — The rep, specified**
+
+### C.1 The three deltoid reps
+
+There is no universal deltoid rep, because there is no movement that loads the muscle. There are three,
+one per head, and every prescription in Part V §D is one of these with the setup changed.
+
+```
+THE ABDUCTION REP - LATERAL RAISE, MIDDLE HEAD
+  Start           Arm hanging, dumbbell just off the thigh, elbow softly bent
+                  and FIXED at that angle for the whole set
+  Ascent          1-2 s to 90 deg of elevation; upper arm leads, hand follows
+  Plane           Straight out to the side, or up to 30 deg forward - not across
+  Rotation        Neutral: thumb points forward through the whole arc
+  Top             Upper arm level with the shoulder. No higher
+  Descent         2-3 s under control, to just short of touching the thigh
+  Torso           Still. If it is moving, the load is choosing the exercise
+  Breathing       Free; this is never a bracing exercise
+```
+
+```
+THE PRESSING REP - OVERHEAD PRESS, ANTERIOR HEAD
+  Start           Bar or dumbbells at shoulder height, elbows slightly in front
+                  of the bar, ribs down, glutes and abdomen braced
+  Ascent          1-2 s; bar travels close past the face, head moves through
+                  once the bar clears it
+  Top             Elbows straight, upper arms beside the ears, shoulder blades
+                  allowed to rotate upward. This is the range the raise cannot reach
+  Descent         2-3 s to the collarbones, elbows finishing under the bar
+  Bottom          Upper arms roughly level with the floor; no bounce off the chest
+  Breathing       Inhale and brace at the bottom, exhale at the top of the ascent
+```
+
+```
+THE HORIZONTAL ABDUCTION REP - REVERSE FLY, POSTERIOR HEAD
+  Start           Torso supported and roughly horizontal, or cables crossed in
+                  front at shoulder height; arms hanging or reaching forward
+  Elbow           Softly bent and FIXED, as in the raise
+  Ascent          1-2 s; upper arms sweep out and back until level with the torso
+  Top             Upper arms in line with the shoulders. Stop there
+  Descent         2-3 s to a full reach across, not to a slack arm
+  Scapula         Allowed to move. This is not a squeeze-the-blades exercise
+  Breathing       Free
+```
+
+**Why each line is there.** The elbow angle is fixed in both single-joint reps because opening it
+mid-set lengthens the load's moment arm and converts the set into a series of different exercises with
+a rising demand — the same failure mode as the drifting knee angle in Part IV §F.5. The lateral raise
+stops at 90° because above that the load's moment arm falls again (Part V §B.8) while the trapezius's
+share rises, so the extra travel buys shrug and not deltoid. The press is the exercise that covers
+90–160°, and the shoulder blades are **allowed to rotate upward** at the top for the reason in
+Part II §C.2: blocking [scapular upward rotation](#scapularupwardrotation) does not add deltoid work, it
+removes the top of the range. And the reverse fly stops with the upper arms in line with the torso
+because past that the [glenohumeral joint](#glenohumeraljoint) has run out of horizontal abduction and
+the movement continues by pinching the shoulder blades, which trains the [trapezius](#trapezius) and
+rhomboids instead.
+
+---
+
+### C.2 The technical errors, in order of how much they cost
+
+| # | Error | What it costs | Fix |
+|---|---|---|---|
+| 1 | Training only presses | Two thirds of the muscle. Ten weeks of bench pressing grew the anterior head above control and left the middle head indistinguishable from it (Lanza et al., 2024) | One raise and one horizontal-abduction exercise, every week (Part V §D.5) |
+| 2 | Never training horizontal abduction | The posterior head has a **negative** moment arm in the lower half of every raise and every press (Part V §B.2) — no amount of the other two reaches it | One reverse fly, face pull or chest-supported row variant per week |
+| 3 | Letting the elbow open through a raise | Turns one exercise into several with a rising demand; the log becomes unreadable | Fix the elbow angle; film one set from the front |
+| 4 | Raising above 90° on a lateral raise | The load's moment arm falls, the trapezius's share rises, and the set gets longer without getting harder | Stop at shoulder height |
+| 5 | Turning the raise into a shrug | Moves the whole exercise to the upper trapezius | Lower the load until the shoulder stays down; the load was the cause |
+| 6 | "Pouring the pitcher" on a lateral raise | Internal rotation put the **posterior** deltoid and the **upper trapezius** at their highest of five variants without raising the middle head above the neutral version (Coratella et al., 2020) — and it is the shoulder's least tolerant position | Neutral rotation, thumb forward |
+| 7 | Ending a press with the lower back | An arched lumbar spine under an overhead load, and a range that finished in the spine rather than the shoulder | Ribs down, glutes braced; if it still arches, sit down |
+| 8 | Turning a reverse fly into a scapular squeeze | Trains rhomboids and mid-trapezius; the posterior deltoid stops moving | Stop when the upper arms line up with the torso, and let the blades travel |
+| 9 | Loading a raise so heavily that the torso swings | See below — the cost is smaller than usually claimed, but the record becomes unreadable | Keep the swing deliberate if you use it at all |
+| 10 | Training the deltoid last, always | The largest muscle in the upper limb, trained on the fatigue left over from pressing | Rotate what goes first (Part V §E.6) |
+
+**On error 9, stated fairly.** Externally supplied momentum — "cheating" — was tested directly in a
+within-participant trial: thirty adults trained one arm strictly and the other with deliberate body
+English on biceps curls and triceps pushdowns, four sets to momentary failure twice a week for eight
+weeks. Muscle thickness increased **similarly in both conditions at every site**, with Bayes factors of
+0.06 to 0.61 supporting the null, despite markedly greater volume load in the cheating condition
+(Augustin et al., 2025). **Promising but under-replicated**, and **it was not the deltoid** — but it is
+the only direct test of the question in an upper-limb single-joint exercise, and it does not support
+the claim that a swung repetition wastes the set. What it does not licence is swinging on a lateral
+raise for a different reason: momentum applied at the bottom of an abduction is applied in the position
+Part V §A.5 identifies as the joint's least tolerant.
+
+---
+
+### C.3 Prerequisites — can you actually reach the positions?
+
+Three checks, in the order they usually fail.
+
+**1. Overhead reach.** The wall test in Part II §C.3 applies without modification: stand with your back
+flat to a wall, heels a few centimetres out, lower back in contact, and raise both arms overhead with
+the elbows straight and the thumbs back. The backs of the hands should reach the wall without the ribs
+flaring or the lower back arching off it.
+
+*If it fails:* the overhead press is not your anterior deltoid exercise yet. Use a landmine press or a
+high incline press, which finish below the range that is failing, while the reach is addressed
+separately.
+
+**2. Horizontal abduction with a still torso.** Lie face down on an incline bench set at about 30°,
+arms hanging. Sweep the arms out and back until the upper arms are in line with the torso, without the
+chest lifting off the pad.
+
+*If it fails:* it is almost always the load. Halve it and re-test before concluding anything about the
+shoulder.
+
+**3. A pain-free arc.** Raise the arm slowly to the side, unloaded, through the full range. Pain that
+appears in a band somewhere between roughly 60° and 120° and disappears above and below it is the
+classic painful-arc pattern, and it is an assessment question rather than a technique question — see
+Part V §E.4.
+
+*If it fails:* do not work around it by choosing a different raise. Get it looked at.
+
+---
+
+### C.4 Cues — which ones work and which ones harm
+
+| Cue | Verdict |
+|---|---|
+| "Lead with the elbow" on a raise | **Useful** — it keeps the load's moment arm at the upper arm rather than the hand, which is where the exercise is |
+| "Thumb forward" on a raise | **Useful** — neutral rotation gave the highest middle deltoid activity of five variants (Coratella et al., 2020) |
+| "Shoulder down, away from the ear" | **Useful** — it is the only reliable way to tell whether the load has recruited the trapezius to finish the rep |
+| "Ribs down" at the top of a press | **Useful** — it is the difference between finishing overhead and finishing in the lumbar spine |
+| "Pour the pitcher" / "empty the can" | **Harmful.** It buys no middle deltoid activity over a neutral grip and raises upper trapezius and posterior deltoid activity instead (Coratella et al., 2020), in the elevation-plus-internal-rotation combination Part V §E.4 lists as the least tolerated |
+| "Squeeze the shoulder blades" on a reverse fly | **Harmful for the posterior deltoid** — it substitutes [scapular retraction](#scapularretraction) for glenohumeral horizontal abduction, which is a different muscle group |
+| "Squeeze the delt at the top" | **Situational** — an internal focus. It raises activity and does not isolate (Part II §C.4); reasonable on a light raise, counterproductive on a heavy press where external focus produces more force |
+| "Push the ceiling away" on a press | **Useful** — an external focus, and it also produces the upward scapular rotation the top of the range needs |
+| "Keep the elbow straight" on a raise | **Situational** — a straight arm lengthens the load's moment arm, so it is a way of making a light dumbbell hard. It also raises the demand fastest at the top, where the muscle is shortest |
+| "Raise until you feel a pinch, then stop" | **Harmful as a rule.** A painful arc is a reason to be assessed, not a range prescription (Part V §C.3) |
+
+The general finding on [attentional focus](#attentionalfocus) is in Part II §C.4 and is not repeated
+here. The deltoid-specific note is that this is the muscle where the largest fraction of the popular
+cueing advice descends from acute [EMG](#emg) comparisons between *different* exercises — which
+Part V §B.11 rules out — rather than between variants of the same one, which is the narrow use those
+studies support.
+
+---
+
+### C.5 The limiting links
+
+A deltoid set should end because the deltoid ran out. In practice it very often ends for one of these
+reasons instead. The thing that ends it first is the set's **[limiting link](#limitinglink)**, and for
+this muscle the common ones are:
+
+- **The [upper trapezius](#trapezius), in every raise.** The moment a lateral raise passes shoulder height, or the moment the load exceeds what the deltoid can move without help, the shoulder girdle elevates and the trapezius finishes the repetition. This is the single most common way a lateral raise stops being a lateral raise.
+- **The [triceps brachii](#tricepsbrachii), in every press.** The long head crosses both the shoulder and the elbow, and the elbow extension it has to supply near lockout is what usually fails first. It is the reason a wide grip — which lowers the elbow's net joint moment and raises the shoulder's (Gundersen et al., 2026) — is the more deltoid-biased press.
+- **The lower back, in a standing press.** The overhead load is supported by the trunk, and an arched lumbar spine is the last thing to give way. Sitting down removes the limit entirely and changes nothing at the shoulder.
+- **The grip, in dumbbell work.** As in Part II §C.5. Straps are legitimate on a heavy dumbbell press; they are pointless on a raise, which is never grip-limited.
+- **The [rotator cuff](#rotatorcuff), at the very bottom of a heavy raise.** Not fatigue but tolerance: the position where the cuff's share of the work is largest is also the position where the deltoid's pull on the joint is most vertical (Part V §A.5).
+
+**None of these are character failures and none are fixed by trying harder.** They are reasons to
+distribute deltoid volume across a seated press, a machine or cable raise, and a chest-supported
+posterior exercise — which is what the templates in Part V §F.6 do.
+
+---
+
+### C.6 The scapula, the ribs and the neck
+
+More than any other muscle in this document, deltoid training is limited by what the shoulder girdle is
+doing rather than by what the arm is doing. Four points:
+
+- **The shoulder blade must be free to rotate upward at the top of a press.** Roughly a third of overhead reach is scapular, and more than a third of the *last* third of it (Part II, [scapulohumeral rhythm](#scapulohumeralrhythm)). Pinning the blades down does not concentrate work on the deltoid; it stops the arm reaching the position the press exists to load.
+- **The shoulder blade must be free to move in a reverse fly too, and for the opposite reason.** Here the risk is the reverse: retraction *replacing* horizontal abduction rather than accompanying it. The test is whether the upper arms are still travelling when the blades stop.
+- **"Ribs down" is not a cue about the abdomen.** An overhead press finished with a lumbar arch has substituted spinal extension for the last 20° of shoulder elevation. The arm did not get higher; the ribcage tilted under it.
+- **The neck is not a training variable.** Any cue that requires the head to be pushed forward — behind-the-neck pressing is the main one — should be evaluated on the joint's terms, not the muscle's (Part V §B.10).
+
+The general treatment of trunk bracing lives in `strength-and-body-composition.md`.
+
+---
+
+### C.7 How to know it worked
+
+The set was a deltoid set if, at the end of it:
+
+- the fatigue was in the cap of the shoulder, not in the neck, the upper back, the elbow or the lower back;
+- the shoulder girdle finished the last repetition at the same height it started the first — no creeping shrug;
+- the elbow angle on the last repetition matched the first, so the demand curve did not drift mid-set (Part V §C.1);
+- on a raise, the last repetition reached the same height as the first, and the next one would not have;
+- on a press, the last repetition locked out overhead rather than in the lumbar spine.
+
+That last pair separates **[technical failure](#technicalfailure)** — the range or the position going
+first — from **[momentary failure](#momentaryfailure)** of the muscle. For the deltoid the distinction
+matters more than for any other muscle in this document, because both of the muscles that take over
+when it fails, the trapezius above and the triceps beyond, will let the repetition finish looking
+approximately correct.
+
+---
+## partvdexercisecatalogue
+
+**PART D — Exercise catalogue**
+
+Every entry gives its resistance profile (Part V §B.8), the setup detail that actually matters, and the
+failure mode. **Entries are grouped by which direction the humerus travels**, because that — not the
+equipment, the grip or the intent — is what decides which head is loaded (Part V §B.5).
+
+A warning that applies to the whole Part and to no other: **two training studies exist for this entire
+muscle** (Part V §B.7). Everything below that is not one of those two is a mechanical inference from
+measured moment arms, and is written as one.
+
+---
+
+### D.1 Abduction — the middle head's category
+
+Everything here elevates the humerus in or near the [frontal plane](#frontalplane), covers roughly
+0–90°, and is loaded by the middle head with the anterior head close behind (Part V §B.2). This is the
+only group that trains the middle head at all, because pressing does not (Lanza et al., 2024).
+
+#### Dumbbell lateral raise
+**Profile:** demand rises as the sine of the elevation angle, peaking at 90°. **Role:** the default
+middle-deltoid exercise, and the one the only relevant trial used.
+
+*Setup.* Stand tall, dumbbells just off the thighs, elbow softly bent and fixed. Thumbs forward.
+*Execution.* Lead with the upper arm to shoulder height over 1–2 s, lower over 2–3 s, stop just short
+of the thigh.
+*Why it works.* Its peak demand lands at 90°, where the middle head's moment arm is largest and the
+joint most tolerant — and the tension curve is flat within 5% from 45° to 75°, so most of the range does
+real work (Part V §B.9).
+*Evidence note.* Eight weeks at ten weekly sets to momentary failure raised lateral deltoid thickness
+**3.9% distally and 3.4% proximally** in resistance-trained adults (Larsen et al., 2025c).
+*Failure mode.* The shoulder shrugging to finish the repetition, and the elbow opening across the set.
+
+#### Cable lateral raise
+**Profile:** set by the pulley height. At hand height it is the mirror image of the dumbbell — peak
+demand at the bottom, near zero at the top.
+*Evidence note.* Compared directly against the dumbbell version, with range standardized and each arm
+randomized within the same person, it produced **the same growth**, with strong support for the null
+(Larsen et al., 2025c). Its theoretical advantage — torque at long muscle length — is paid for by a
+much lighter load, and the two cancel (Part V §B.9).
+*Role.* A genuine equal, chosen for preference, for joint comfort, or for the one thing it can do that a
+dumbbell cannot: continue past the body's midline into adduction, which adds range at the bottom. **That
+extra range has not been tested** — it is the experiment the trial's own authors name as the next one.
+
+#### Lean-away cable lateral raise
+*Profile.* Adjustable. Leaning away from the stack shifts peak demand toward the bottom of the arc;
+standing upright leaves it near the middle. **This is the only continuous control anyone has over a
+deltoid resistance profile**, and nothing has been measured about it.
+*Role.* Useful, unproven, and cheap to try.
+
+#### Side-lying dumbbell raise, and the incline-supported version
+**Profile:** the mirror image of the standing dumbbell raise — demand goes as the **cosine** of the
+elevation angle, so it is maximal with the arm at the side and falls to zero at 90°.
+*Role.* The free-weight way to load 0–20° of abduction, which Part V §B.8 says nothing else in the
+catalogue does. Performed face-down on an inclined bench, the bench angle moves the demand peak
+continuously along the arc, which makes **torso angle the real control over this exercise's resistance
+profile** — more so than the choice between cable and dumbbell.
+*The honest limit.* The moment arm at the bottom is 8–13 mm, so the load has to be small
+(Part V §B.9). **Promising but under-replicated** — nothing has been measured, and the one trial that
+loaded the bottom of the range with a cable found no advantage (Larsen et al., 2025c).
+
+#### Machine lateral raise, pads on the upper arm
+**Profile:** set by the cam, and usually flatter than either free version.
+*Role.* The best option when the set should end at the deltoid rather than at the grip or the balance,
+and the easiest place in the catalogue to progress load in small steps. **Promising but
+under-replicated** — no trial has compared a machine raise with a free one for this muscle.
+
+#### Scaption raise (dumbbell)
+*Profile.* As the lateral raise, performed 30–45° forward of the frontal plane.
+*Note.* The middle head's moment arm is **larger in the scapular plane than in the coronal plane** —
+33.4 mm against 26.8 mm across the pooled literature (Hik & Ackland, 2019). It is also the plane in which
+the shoulder is generally most comfortable at height. **Promising but under-replicated** as a
+hypertrophy choice; mechanically it is the better-levered version of the same exercise.
+
+#### Upright row, wide grip, to sternum height only
+*Profile.* Mid-range-loaded.
+*Note.* A wide grip and a low finish removes most of the elevation-plus-internal-rotation combination
+that makes the narrow, high version a problem (Part V §D.4). What remains is a raise with a large
+trapezius share. **Not recommended as a middle-deltoid exercise** when a lateral raise is available;
+listed here because it is not the same exercise as the version this document rejects.
+
+---
+
+### D.2 Pressing and flexion — the anterior head's category
+
+Everything here elevates the humerus with a forward component, and — uniquely in this Part — reaches
+**above 90°**, which is the half of the range no raise covers (Part V §B.6). The anterior head leads;
+the middle head's share rises as the arm passes overhead (Aronis et al., 2025).
+
+#### Seated barbell overhead press
+**Profile:** peak demand just off the shoulders, falling to lockout. **Role:** the highest-load
+anterior deltoid exercise available to most people.
+
+*Setup.* Upright bench with a near-vertical back, feet planted, ribs down. Grip wide enough that the
+forearms are vertical at the bottom.
+*Execution.* Press the bar past the face, move the head through once it clears, finish with the upper
+arms beside the ears. Lower to the collarbones over 2–3 s.
+*Why it works.* It is the only exercise in the catalogue that takes the deltoid above 90° of elevation
+under load at all. **How much of that range it actually loads is smaller than this document first
+claimed.** Torque *capacity* falls linearly to 55% of its 90° value by 160° (Aronis et al., 2025), but
+*demand* falls faster: with the forearm vertical the external moment at the shoulder goes as the sine
+of the upper arm's elevation, so it reaches zero at lockout. Dividing one by the other, relative effort
+peaks at about **105–120°**, is roughly 60% of peak at 160°, and is **nothing at lockout** — which is
+why a press's sticking region is at eye level and why lockout is a rest. The press's working range is
+roughly **90–135°**, and that is still a range no raise reaches.
+*Grip width.* Wider raises the shoulder's net joint moment and lowers the elbow's. **The rest of that
+finding matters too:** narrower grips allowed **more load lifted and greater shoulder and elbow range
+of motion**, while wider grips raised lateral barbell forces (Gundersen et al., 2026). So wide biases
+the shoulder per repetition and narrow buys load and range — a trade, not a recommendation, and one
+this Part's own coverage argument should make you think twice about, since range above 90° is what the
+press is in the programme for.
+*Failure mode.* The triceps at lockout, and the lumbar spine if performed standing.
+
+#### Standing barbell overhead press
+*Profile.* As above, with the trunk added.
+*Trade.* A superb whole-body exercise and a worse deltoid exercise than the seated version, because the
+load ceiling is set by the trunk. Use it when it is the goal; do not use it as the deltoid's volume.
+
+#### Dumbbell shoulder press, seated
+*Profile.* As the barbell version, with the humeral path free.
+*Role.* Allows the arms to press in the scapular plane rather than the coronal, which most shoulders
+prefer at height. Load ceiling lower; range at the bottom slightly greater.
+
+#### Machine shoulder press
+**Profile:** set by the cam.
+*Role.* Removes the balance, the trunk and the setup, so the set ends at the shoulder. In direct
+comparison the barbell versions produced greater deltoid activity than the machine versions at matched
+relative load (Coratella et al., 2022) — **acute [EMG](#emg), eight bodybuilders, and Part V §B.11
+applies**. The machine's argument is not activation; it is that the set can be taken to
+[momentary failure](#momentaryfailure) safely and progressed in small increments.
+
+#### High-incline barbell or dumbbell press
+**Profile:** stretch-loaded at the chest, with the anterior deltoid's share rising with the incline.
+*Evidence note.* Across five bench angles at 60% of one-repetition maximum in thirty trained adults,
+anterior deltoid activity was **highest at 60°**, and every inclination above 45° raised it
+significantly while reducing pectoralis major performance (Rodríguez-Ridao et al., 2020).
+*Role.* Mechanically a shoulder press with a shorter top range and a much higher load ceiling. The best
+way to give the anterior head heavy work when the overhead position is unavailable.
+
+#### Landmine press
+*Profile.* Peak demand mid-range; the bar's arc keeps the humerus in the scapular plane and finishes
+below true overhead.
+*Role.* The substitute when the overhead reach test in Part V §C.3 fails. It trains the anterior head
+hard and does not reach the range the press exists for — an honest partial, not an equal.
+
+#### Front raise (cable or dumbbell)
+*Profile.* Short-length-loaded, peak at 90° of flexion.
+*Reality.* Measured against four lateral raise variants, the front raise produced the highest anterior
+deltoid activity **and** by far the highest clavicular pectoralis major activity, with effect sizes
+against every other variant above 17 (Coratella et al., 2020). It is a pectoral exercise that pays an
+anterior deltoid dividend.
+*Role.* **Largely redundant.** Anyone who presses or benches is already training the anterior head
+through a longer range under more load. Reach for it only if neither is available.
+
+#### Bench press and incline bench press
+*Profile.* Stretch-loaded for the pectoralis major.
+*Evidence note.* Ten weeks of flat bench press raised **anterior deltoid** cross-sectional area above
+control, alongside the pectoralis major, pectoralis minor and triceps — while the **middle deltoid's**
+increase was the smallest of the four muscles and did not separate from control (Lanza et al., 2024).
+*Role.* It is why a lifter who benches heavily does not need much dedicated anterior deltoid work — and
+it is the direct evidence that the same lifter's middle deltoid is untrained.
+
+---
+
+### D.3 Horizontal abduction and extension — the posterior head's category
+
+**This is the group most programmes are missing, and it is missing for a mechanical reason rather than
+a cultural one.** The posterior head's moment arm in coronal abduction is **negative** through the
+lower half of the range — it is an antagonist of the lateral raise, not an under-trained participant in
+it (Ackland et al., 2008). Nothing in Part V §D.1 or Part V §D.2 loads it. **No training study has ever
+measured posterior deltoid size** [consensus — no single source], so this whole subsection rests on
+moment arms and acute [EMG](#emg).
+
+#### The posterior head's lengthened position, measured
+Everything else in this category is inferred from [moment arms](#momentarm). One thing has been
+measured directly. The [shear elastic modulus](#shearelasticmodulus) of the posterior deltoid — a
+stiffness proxy that tracks passive muscle tension — was recorded in fifteen healthy men at rest and in
+thirteen positions (Mukai et al., 2022):
+
+| Variable | Effect on posterior deltoid stiffness | Practical reading |
+|---|---|---|
+| **Horizontal adduction** | Significant main effect; higher with it than without it at every flexion angle | **The lengthening variable.** Reaching across the body is what stretches this head |
+| **Flexion angle** | Significant main effect; **90° > 60° and > 120°** | Shoulder height — not overhead, not low |
+| **Internal rotation** | No significant main effect | Adds nothing to the stretch |
+| Maximum shoulder flexion alone | The only position **not** stiffer than rest | Reaching straight up does not load this head at all |
+
+**What this changes.** The bottom of a reverse fly should be a **reach across the body at shoulder
+height** — roughly 90° of flexion with the arm crossing the midline — not a reach downward, not
+overhead, and not rotated. **Moderate evidence** — fifteen men, one laboratory, a passive-stiffness
+proxy rather than a growth outcome, and it agrees with the moment-arm argument in Part V §B.2 rather
+than adding an independent one.
+
+#### Chest-supported dumbbell reverse fly
+**Profile:** short-length-loaded, peaking with the arms horizontal.
+*Setup.* Chest on an incline bench set at ~30°, arms hanging, elbow softly bent and fixed.
+*Execution.* Sweep the upper arms out until they are in line with the torso. Stop there. Let the
+shoulder blades travel; do not squeeze them together.
+*Why it works.* At 90° of elevation the posterior deltoid, infraspinatus and teres minor have the
+largest horizontal-extension moment arms at the joint (Kuechle et al., 1997), and the chest support
+removes the trunk as a limiter.
+*Failure mode.* Turning into a scapular retraction exercise — error 8 in Part V §C.2.
+
+#### Reverse pec deck
+**Profile:** set by the cam; typically flatter than the dumbbell version.
+*Evidence note.* Against a seated row and an inclined lat pulldown in twelve trained men, the reverse pec
+deck produced the greatest **posterior** deltoid activity (p = 0.001), and the reverse pec deck and the
+seated row both beat the pulldown for the middle deltoid (Franke et al., 2015). **Moderate evidence**
+for the narrow claim it supports: that a horizontal-abduction machine loads this head more than a
+vertical pull does.
+*Role.* The most reliable posterior deltoid exercise in the catalogue, and the easiest to progress.
+
+#### Cable reverse fly (crossed)
+*Profile.* Roughly constant through the arc — the only even profile in this category.
+*Role.* Standing, cables crossed in front at shoulder height, sweeping out and back. The cable's line
+of action stays roughly perpendicular to the arm throughout, so demand does not collapse at either end.
+**Promising but under-replicated** — the profile argument is mechanical, and nothing has been measured.
+
+#### Face pull (rope, high pulley)
+*Profile.* Mid-range-loaded, combining horizontal abduction with external rotation.
+*Role.* A reasonable posterior deltoid exercise with a low load ceiling, popular for the rotator-cuff
+work it adds rather than for the deltoid work it does. Treat it as a finisher, not as the category's
+main lift.
+
+#### Rear-delt row on an incline bench
+*Profile.* As the reverse fly, with the elbow bending.
+*Note.* Bending the elbow shortens the load's moment arm at the shoulder and adds the
+[elbow flexors](#elbowflexors), which is how a rear-delt row becomes an arm exercise. Its advantage is
+a higher load ceiling; its cost is that the share is less certain. Keep the upper arm path wide and the
+finish at torso level.
+
+#### Chest-supported row with a wide, high elbow path
+*Profile.* Stretch-loaded, shared with the whole upper back.
+*Reality.* Part II §D.4 lists this movement under "not a lat exercise" precisely because the humerus
+travels the wrong way for the latissimus dorsi — which makes it the right way for the posterior deltoid.
+**The elbow-path claim is a mechanical inference, not that study's finding** — Franke compared three
+whole exercises and never varied grip or elbow path (Franke et al., 2015). What it does establish is
+the endpoint: a horizontal-abduction machine loaded the posterior head more than a vertical pull did.
+The reading that follows from the moment arms in Part V §B.2 is that a wide, high-elbow row gives the
+posterior deltoid work and a narrow, low-elbow row does not.
+
+---
+
+### D.4 Exercises that are not deltoid exercises
+
+| Exercise | Why people believe it is | Reality |
+|---|---|---|
+| Barbell shrug | It is a shoulder exercise | Pure scapular elevation. The humerus does not move; this trains the [trapezius](#trapezius) |
+| Narrow-grip upright row to the chin | It "hits side delts and traps" | Elevation combined with [internal rotation](#internalrotation), which is the shoulder's least tolerant loaded position (Part V §E.4). A wide, low version is a different exercise (Part V §D.1) |
+| Behind-the-neck press | It activates the middle and posterior heads more | The activation finding is real (Coratella et al., 2022). The position it requires is the one the injury literature names as vulnerable (Kolber et al., 2010), and Part II §D.4 rejects the matching pulldown on the same grounds. **The gain does not justify the position** |
+| Lat pulldown and chin-up | "Shoulder" work | Adduction and extension — the antagonist action for the middle and anterior heads, and only an incidental load for the posterior one (Franke et al., 2015) |
+| Dips | The front delt stretches at the bottom | A pectoral and triceps exercise. Shoulder extension past neutral under load, which is a position rather than a stimulus |
+| Cable external rotation | It "works the rear delt" | It trains infraspinatus and teres minor. Useful for other reasons; the posterior deltoid's moment arm in axial rotation is the smallest of the three heads' (Hik & Ackland, 2019) |
+| Push-up and its variants | Pressing is pressing | An anterior deltoid exercise with a low ceiling and no range above 90°. Fine as volume, not as the category |
+| Overhead carries and holds | "Time under tension overhead" | An isometric at the shortest length, in the position of lowest torque capacity (Aronis et al., 2025). Trains stability, not size |
+
+**On "rear delt work" that is really rowing.** A great deal of what is programmed as posterior deltoid
+work is a row with the elbows tucked, which travels in the wrong plane. The test is the **path of the
+upper arm**: if the elbow travels backwards close to the ribs, it is an extension movement and the
+latissimus dorsi and teres major dominate; if the upper arm sweeps out and back at roughly shoulder
+height, it is horizontal abduction and the posterior deltoid leads. The equipment does not decide this.
+The elbow's path does.
+
+**The general rule:** an exercise builds a given deltoid head to the degree that the humerus travels in
+a direction where that head has a positive [moment arm](#momentarm), under enough load to matter to the
+largest muscle in the upper limb. Both halves are load-bearing, and the first half is the one people
+get wrong.
+
+---
+
+### D.5 Selection rules
+
+1. **Pick one abduction exercise you can load and reproduce.** Dumbbell, cable or machine lateral raise; all three are defensible and two of them have been compared and found equal (Larsen et al., 2025c). This is the only slot that trains the middle head.
+2. **Pick one press.** Seated barbell or dumbbell, machine, or a high-incline press if overhead is unavailable. It supplies the roughly 90–135° range no raise reaches, and gives the anterior head its heavy work. **It does not load the last third of elevation** — demand there falls to zero at lockout (Part V §D.2), so nothing in this document loads a fully overhead arm.
+3. **Add one horizontal-abduction exercise.** Reverse pec deck, chest-supported reverse fly or cable reverse fly. Nothing in rules 1 and 2 trains the posterior head, and its moment arm in those movements has the **wrong sign** (Part V §B.2).
+4. **Do not count bench pressing as deltoid work beyond the anterior head.** It grows that head and leaves the middle one where it found it (Lanza et al., 2024).
+5. **Do not pick two exercises from the same group instead of one from each.** Two raises cover the same 90° twice; two presses cover the same head twice. Coverage between groups is the whole argument of Part V.
+6. **Choose within a group by what limits the set,** not by what activates most (Part V §B.11). If the trapezius finishes every raise, the machine version is the better exercise for you.
+7. **Do not choose by EMG ranking.** For this muscle the rankings have essentially never been checked against growth, and the two occasions on which growth was measured did not need them (Part V §B.11).
+
+---
+## partvecontextmodifiers
+
+**PART E — Context modifiers: when "perfect" changes**
+
+Part V §C gives the default for hypertrophy in a healthy trained adult. This Part lists every context
+that changes it, and what it changes it to. Find the rows that describe you; they compose.
+
+---
+
+### E.1 Goal contexts
+
+| Context | What changes | Why |
+|---|---|---|
+| Hypertrophy only | The default in Part V §C, unchanged | — |
+| Hypertrophy on limited time | One lateral raise and one reverse fly. **Drop the press before you drop either** if you already bench or incline press | Pressing already covers the anterior head (Lanza et al., 2024); nothing else covers the other two |
+| Shoulder width specifically | The middle head is the only one that adds width. Raise volume goes up, press volume stays | The middle head's share of the muscle's mass is roughly 55% and it sits directly lateral (Part V §A.4) |
+| Rear shoulder development | Part V §D.3 becomes the priority slot and gets progressive load, not a band | It is the only slot that trains the head, and the head with the longest fibres (Part V §A.4) |
+| Maximal pressing strength | The competition or target press becomes the main exercise; raises become accessory | Specificity |
+| Overhead sport performance | Keep the press, keep the reverse fly, and add rotator-cuff work as a separate quality | Train the muscle for size; do not expect exercise choice to buy the sport quality — the same caution as Part IV §E.1 |
+| Shoulder rehabilitation | Governed by Part V §E.4, not by this table | Different problem, different loading rules |
+| Fat-loss phase | Volume held, load held, range held; expect maintenance | Detail in `strength-and-body-composition.md` |
+
+---
+
+### E.2 Body contexts
+
+| Context | What changes | Why |
+|---|---|---|
+| Long arms relative to torso | The same dumbbell produces more shoulder torque, so expect lower absolute loads on raises and no conclusion about strength from them | Demand is force × arm length × sine of the angle (Part V §B.8) |
+| Overhead reach limited | Use a landmine or high-incline press until the reach is available; do not force the position | The press's value is the range above 90°, and a range you reach by arching the lumbar spine is not that range (Part V §C.6) |
+| Painful arc between roughly 60° and 120° | Stop and get assessed before choosing a workaround | Part V §C.3 and Part V §E.4 |
+| Untrained | Almost anything works; establish the three directions before worrying about the profile | The only comparison ever run in trained lifters found no difference between two profiles (Larsen et al., 2025c) |
+| Well trained | Expect small annual changes. The trial in trained lifters produced **3.3–4.6% in eight weeks** at ten weekly sets to failure (Larsen et al., 2025c) | That is the realistic scale for this muscle in this population |
+| Female | **No change to the mechanics or the prescription** | No sex-specific deltoid response has been shown. The one relevant trial included eight women and sixteen men and did not analyse them separately (Larsen et al., 2025c). The moment-arm data come from four male and four female cadavers pooled (Ackland et al., 2008), and no sex difference in deltoid moment arms has been reported |
+| Male | No change | As above |
+| Older adults | Same three directions; more attention to the overhead position and to load progression in small steps | Older adults carried ~16.5% less total upper-limb muscle volume than young adults, and where young adults were strongest at the shoulder, older adults were not (Vidt et al., 2012) |
+| History of shoulder dislocation | Professional assessment before overhead or behind-the-neck loading | Outside the scope of this document |
+| Large body mass | No change at the shoulder | The deltoid's loading is set by the implement, not by body mass |
+| Marked side-to-side difference | Use unilateral versions of all three slots and re-test rather than assume it resolves | Dumbbell, cable and machine versions all allow it |
+
+---
+
+### E.3 Equipment contexts
+
+| Context | Prescription | Note |
+|---|---|---|
+| Full gym | Machine or cable lateral raise, seated press, reverse pec deck | The default, and the version in which every slot can be progressed in small steps |
+| Barbell and rack only | Seated barbell press, and **the raise slot suffers** — a barbell cannot perform abduction | Add dumbbells or a cable for the raise, or accept that the middle head is under-served |
+| Machines only | Machine lateral raise, machine shoulder press, reverse pec deck | The one equipment context in which all three slots are equally well served |
+| Dumbbells only | Lateral raise, seated dumbbell press, chest-supported reverse fly | A complete deltoid programme. The load ceiling is only a problem on the press |
+| Cable stack only | Cable lateral raise, cable reverse fly, and no true press | Complete for two heads out of three; a high-pulley press substitutes poorly |
+| Home, no equipment | The raise and reverse fly slots collapse to near nothing | **The load ceiling is the whole problem.** Bands work for the reverse fly, badly for the raise, and not at all for the press. Progress by adding load, not repetitions; a full water bottle in each hand is a real lateral raise and a push-up is not a press |
+| Bands only | Adequate for the posterior head, poor for the middle, useless above 90° | Band tension is lowest at the bottom and highest at the top, which for a raise coincidentally matches the dumbbell profile — and for a press does the opposite of what is wanted |
+| Blood flow restriction available | An option for adding raise volume at light load | Nothing has been measured in this muscle; the general case is in `strength-and-body-composition.md` |
+
+---
+
+### E.4 Pain and pathology contexts
+
+**Nothing in this section is medical advice, and none of it substitutes for assessment.** It lists what
+is commonly modified and why, so that a conversation with a clinician starts further along.
+
+**The scale of the problem, first, because it is larger here than for any other muscle in this
+document.** Up to **36%** of documented resistance-training injuries and disorders occur at the shoulder
+complex (Kolber et al., 2010). In a national emergency-department surveillance analysis of 3,189
+weightlifting-related upper-extremity presentations between 2021 and 2024, the **shoulder was the most
+frequently injured region at 33.8%**, and overhead movements were the third most common mechanism at
+8.3% (Lee et al., 2026). **Moderate evidence** — both are descriptive epidemiology without a denominator
+of exposure, so they establish where injuries land, not how likely they are.
+
+| Context | Common modification | Evidence note |
+|---|---|---|
+| [Rotator cuff-related shoulder pain](#rotatorcuffpain) — a painful arc, pain reaching overhead, pain lying on that side | **Reduce the provoking arc first**, then load progressively in the pain-free range. Keep the press below the painful band or replace it with a landmine press; keep raises in the scapular plane | Rehabilitation improved shoulder strength in this population across twenty-eight studies, and **interventions that did not include exercise had no effect at all** (Zhang et al., 2026). The active ingredient is loading |
+| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part VII, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
+| History of dislocation or [shoulder instability](#shoulderinstability) | Overhead and behind-the-neck positions are commonly restricted; abduction with external rotation is the classic apprehension position | Governed by the clinician, not by this document |
+| Acromioclavicular joint pain — point tenderness on top of the shoulder | Reduce [horizontal adduction](#shoulderhorizontaladduction) across the body; raises and presses are usually well tolerated | The joint is compressed by reaching across, not by reaching out |
+| Long head of biceps pain — front-of-shoulder pain with a defined tender line | Reduce front raises and dips; the tendon runs in the [bicipital groove](#bicipitalgroove) directly under them | Mechanism, not trial evidence |
+| Pain only at the very bottom of a heavy cable raise | Move the peak of the profile up: raise the pulley, or switch to dumbbells | The bottom is where the deltoid's pull on the joint is most vertical and the cuff's share largest (Part V §A.5) |
+| Neck symptoms provoked by pressing | Stop; this is a neural-symptom presentation and needs assessment before any loading decision | Not a training problem |
+| A deltoid that will not contract after a shoulder injury | Assessment, urgently. All three heads share one nerve, which wraps the surgical neck of the humerus (Part V §A.2) | Neurological, not technical |
+| After rotator-cuff repair | Governed by the surgical protocol and the clinician | Deltoid loading is usually staged over months |
+
+**The two positions this document declines to program**, and both for the joint's sake rather than the
+muscle's:
+
+1. **Elevation combined with internal rotation** — the narrow-grip upright row to the chin, and "pour the pitcher" on a raise. It is the provoking combination named in the [impingement](#impingement) entry, and it is the position Part II §D.4 already rejects the behind-the-neck pulldown for.
+2. **Behind-the-neck pressing.** The activation advantage is measured and real (Coratella et al., 2022); the position is the one the shoulder-injury review repeatedly identifies as vulnerable (Kolber et al., 2010). **The gain is a few percent of activation in an instrument Part V §B.11 rejects for growth claims. The exchange is not favourable.**
+
+---
+
+### E.5 Sport contexts
+
+**This table is coaching synthesis, not evidence** [consensus — no single source]. No study has compared
+deltoid prescriptions between sports.
+
+| Sport | Modification | Reason |
+|---|---|---|
+| Overhead throwing | Keep all three slots; add external rotation work as a separate quality; be conservative with maximal overhead loading in season | The sport already supplies extreme elevation and rotation |
+| Swimming | Emphasize Part V §D.3; the stroke supplies adduction and internal rotation in volume | Balance of directions, not balance of muscles |
+| Powerlifting | The competition press or bench becomes the main exercise; raises and reverse flies stay as accessories | Specificity |
+| Weightlifting | The sport supplies the overhead range; the raise and reverse fly slots are the additions worth making | The press slot is already covered by the sport |
+| Gymnastics and calisthenics | Straight-arm work supplies large deltoid loads at unusual lengths; the middle head still needs a loaded raise | Body-weight movements cover flexion and extension, not abduction |
+| Combat sports | All three slots at moderate volume; manage total fatigue | Weight-class and session-density constraints |
+| Physique competition | All three slots explicitly programmed, with the raise slot carrying the most volume | The middle head is what changes the silhouette (Part V §E.1) |
+| Rowing and paddling | The sport supplies horizontal abduction in volume; the raise slot is the gap | The opposite gap from most programmes |
+
+---
+
+### E.6 Session and cycle contexts
+
+| Context | What changes |
+|---|---|
+| Deltoids first in the session | The default when they are the priority — put the press first, since it is the only slot that is load-limited |
+| Deltoids after heavy pressing | Raises and reverse flies only; the press slot is already spent, and the anterior head with it |
+| Deltoids after heavy pulling | Presses and raises; the posterior head has had incidental work if the elbow path was wide (Part V §D.3) |
+| Two deltoid sessions per week | Split by direction: press and raise in one, raise and reverse fly in the other |
+| Three or more per week | Rotate the three directions rather than repeating one. The raise slot recovers fastest and can appear in all three |
+| Late in a training block | The shrug creeping into the raise is the first thing to degrade — audit it on video before adding load |
+| [Deload](#deload) week | Hold range and direction, reduce sets and load. Never shorten the raise to make a deload easier |
+| Returning from a layoff | Rebuild the overhead position before rebuilding the press load |
+| In a caloric deficit | Hold [hard sets](#hardset) and range; accept slower progression |
+
+---
+
+### E.7 The context decision table
+
+The fastest route to a prescription: read down until you find the first row that is true of you, apply
+it, then continue.
+
+| If this is true | Then |
+|---|---|
+| You have a painful arc, or pain lying on that shoulder at night | Stop here. Part V §E.4, and get assessed |
+| A deltoid will not contract after a shoulder injury | Stop here. Part V §E.4, urgently |
+| You train only presses and bench presses | Add a lateral raise. Your middle head is untrained (Lanza et al., 2024) |
+| You train only raises | Add a press. Nothing else loads elevation above 90° (Part V §B.6) |
+| You have never trained horizontal abduction | Add one exercise from Part V §D.3. Its moment arm in everything else has the wrong sign |
+| The trapezius finishes every raise | Lower the load, or move to a machine version (Part V §C.5) |
+| You cannot reach overhead against a wall | The press slot is a landmine or high-incline press for now (Part V §C.3) |
+| You have all three directions covered and are stalled | Check [proximity to failure](#proximitytofailure) (Part V §F.4) and progression (Part V §F.5) |
+| None of the above | You are on the default. Progress it (Part V §F.5) |
+
+---
+## partvfprogramming
+
+**PART F — Programming**
+
+Nothing here is deltoid-specific except where stated; the general dose–response evidence lives in
+`strength-and-body-composition.md` and is summarized rather than re-derived. **The gap between what is
+known generally and what is known about this muscle is wider here than in any previous Part**, and
+every table below says which is which.
+
+### F.1 Volume
+
+Counted as [hard sets](#hardset) per week that load each **direction** directly — the operationalization
+used throughout Part V.
+
+| Training age | Abduction (middle) | Pressing (anterior) | Horizontal abduction (posterior) | Note |
+|---|---|---|---|---|
+| Beginner | 4–8 | 4–8, or 0 if benching heavily | 4–6 | Three exercises is enough |
+| Intermediate | 8–16 | 4–10 | 6–12 | The productive middle for most people |
+| Advanced | 12–22 | 4–10 | 8–16 | The raise and reverse fly slots tolerate more than the press does |
+| Maintenance or deficit | 4–6 | 2–4 | 4 | Hold load and range, cut sets |
+
+**These bands are transferred from the general dose–response literature, not derived from deltoid
+data.** No study has compared weekly set counts against deltoid hypertrophy.
+
+**Read the columns as one muscle, not three.** Summed across the three directions the advanced row runs
+**24–48 weekly sets for a single muscle**, which is the largest per-muscle dose anywhere in this
+document and sits at or beyond the top of the general dose–response literature. The columns are split
+by direction because the heads are mechanically separate (Part V §B.4), **not** because each head
+independently earns a full muscle's volume allowance. If you are at the top of all three columns at
+once, treat the total rather than any column as the number to justify. For scale, the one trial
+that grew the lateral deltoid on purpose used **ten weekly sets** of a single exercise, twice a week,
+every set to momentary failure, and produced 3.3–4.6% in eight weeks in trained lifters
+(Larsen et al., 2025c). That figure is the only anchor this table has.
+
+**Three counting rules specific to this muscle, and they matter more here than anywhere else in this
+document**, because the three columns are genuinely separate muscles:
+
+- **The columns do not substitute for each other.** Sixteen raise sets and zero horizontal-abduction sets is not "sixteen deltoid sets"; it is sixteen of one head and none of another. This is the same rule as Part IV §F.1's abduction column, made stronger by the fact that the untrained head is an *antagonist* in the trained movement.
+- **A bench or incline press set counts in the pressing column and nowhere else.** It grows the anterior head and does not detectably grow the middle one (Lanza et al., 2024). A programme with heavy pressing can legitimately run the pressing column at its lower bound or at zero.
+- **A wide, high-elbow row counts as a partial horizontal-abduction set.** A narrow, low-elbow row counts as none. The elbow's path decides it (Part V §D.3).
+
+**The pectoral and triceps overlap, stated plainly.** A press set counts toward the anterior deltoid,
+the pectoralis major and the triceps at once. If you are running a chest and a shoulder session in the
+same week, count the set once in each column and set the **total** upper-body pressing volume against
+your recovery, not the sum of the columns.
+
+---
+
+### F.2 Frequency
+
+**2×/week is the default.** [Frequency](#trainingfrequency) mostly distributes volume rather than adding
+an independent stimulus, and the one relevant trial used **two sessions a week** (Larsen et al., 2025c).
+
+1×/week works at low volumes. 3×/week is useful at higher volumes and works best when the sessions
+differ by **direction** rather than repeating one. The raise and reverse fly slots recover fastest,
+because neither loads the spine, the elbow or the grip; they are the ones to put on the extra day. The
+press slot is the one that competes with everything else you press.
+
+---
+
+### F.3 Load and rep range
+
+The general finding is in Part II §F.3: roughly 5–30 repetitions produces similar hypertrophy if sets
+are taken close to failure. Three considerations specific to this muscle narrow the practical band:
+
+- **The raise slot is unusually hard to load heavily and easy to load badly.** Beyond a certain weight the trapezius finishes every repetition (Part V §C.5), so the practical ceiling is set by technique rather than by the muscle. Higher repetitions at a load the shoulder stays down under beat lower repetitions at a load it does not.
+- **The press slot behaves like any other heavy compound** and is limited by the triceps and the trunk rather than the deltoid.
+- **The posterior slot needs load, not repetitions.** It is the head with the longest fibres and it is routinely trained with band tension. That is a warm-up, not a stimulus.
+
+| Slot | Reps | Note |
+|---|---|---|
+| Lateral raise, free weight | 10–20 | The trial that grew this head used 12–16 to failure |
+| Lateral raise, machine or cable | 10–25 | No balance limit; take it closer to failure |
+| Overhead press, barbell or dumbbell | 5–12 | Above this the trunk or the breath ends the set |
+| Machine or high-incline press | 8–15 | No trunk limit |
+| Reverse fly and face pull | 10–20 | Load it; a burn is not the target |
+
+**[Tempo](#tempo) is a range control here, not a stimulus variable.** A 2–3 s descent on a raise exists
+to stop the last third of the set becoming a swing; the trial that grew this muscle standardized
+**about one second in each direction** and produced its result anyway (Larsen et al., 2025c), so nothing
+about a slow eccentric is load-bearing. What is load-bearing is that the elbow angle and the finishing
+height do not drift.
+
+---
+
+### F.4 Proximity to failure
+
+The general finding is in Part II §F.4 and holds here: sets stopped a few repetitions short of
+[momentary failure](#momentaryfailure) produce hypertrophy comparable to sets taken to it, at a lower
+fatigue cost. There is **no deltoid-specific test of proximity to failure** [consensus — no single
+source]. What can be said is that the one trial that grew this muscle took **every set to momentary
+failure**, defined as the inability to reach 90° of abduction (Larsen et al., 2025c) — so the result in
+Part V §B.7 was produced at the hard end of the range, and the table below is an inference from the
+general literature about how much softer you can go.
+
+| Exercise type | Target [RIR](#rir) |
+|---|---|
+| Machine lateral raise, machine press, reverse pec deck | 0–2 on the last set, 1–3 earlier |
+| Dumbbell or cable lateral raise | 0–2; the trapezius, not the deltoid, is the thing to watch |
+| Seated barbell or dumbbell press | 1–3 |
+| Standing barbell press | 2–3 always; the trunk is the limiter |
+| Chest-supported reverse fly | 0–2 |
+
+**The deltoid-specific rule that overrides the table:** if the next repetition would finish with a shrug,
+with an arched lower back, or lower than the last one, the set is over. Direction and range are the
+stimulus (Part V §B.6), and a repetition that reaches its height by a different route is a different
+exercise rather than a harder one.
+
+---
+
+### F.5 Progression
+
+```
+DELTOID PROGRESSION - DEFAULT
+  Load          2.5-5 kg increment, press
+                0.5-2 kg increment, lateral raise and reverse fly
+                One plate, machine raise and reverse pec deck
+  Tempo         1-2 s up / 2-3 s down, held constant
+  Sets/reps     3-4 x 10-20 raise | 3-4 x 6-12 press | 3-4 x 10-20 reverse fly
+  Rest          2-3 min press / 1-2 min raise and reverse fly
+  Total         8-16 raise, 4-10 press, 6-12 reverse fly - hard sets per week
+  Frequency     2x/week
+  Timeline      8-12 wks to measurable change; 6-12 months to visible change
+```
+
+The scheme is [double progression](#doubleprogression) applied to load and repetitions: fill the rep
+range at a fixed load at the target [RIR](#rir), then add one increment and drop to the bottom of the
+range. Raise weekly sets only once the session is at the top of the Part V §F.1 band for your training
+age, and reassess the whole prescription every 8–12 weeks.
+
+**Two rules that are different from every other muscle in this document.**
+
+**The load increments on the raise slot must be small — smaller than most gyms stock.** A 6 kg dumbbell
+going to 8 kg is a 33% jump on an exercise whose whole demand term is the dumbbell. That is why cable
+and machine versions progress better than dumbbells here, and why adjustable dumbbells or magnetic
+add-on plates are worth more in this slot than in any other in this document.
+
+**Finishing height is held fixed while load progresses**, and so is elbow angle. A lateral raise whose
+finish creeps downward as the weight goes up is a set of different exercises recorded in the logbook as
+one exercise getting heavier — the same failure as the drifting knee angle in Part IV §F.5. Film one
+set from the front every few weeks; it is the only reliable audit of either variable.
+
+---
+
+### F.6 Session templates
+
+Every template contains one exercise from each of the three directions, for the reason in Part V §D.5.
+
+```
+TEMPLATE A - TWO SESSIONS, INTERMEDIATE, ~21 SETS/WEEK ACROSS THREE DIRECTIONS
+  Session 1     Seated dumbbell press    3 x 8-12   @ 1-2 RIR
+                Machine lateral raise    4 x 12-20  @ 0-1 RIR
+                Reverse pec deck         3 x 12-20  @ 0-1 RIR
+  Session 2     Cable lateral raise      4 x 12-20  @ 0-1 RIR
+                Chest-supported rev fly  4 x 12-20  @ 0-1 RIR
+                High-incline press       3 x 8-12   @ 1-2 RIR
+```
+
+```
+TEMPLATE B - ONE SESSION, TIME-LIMITED, ~10 SETS/WEEK
+  Session 1     Machine shoulder press   3 x 8-12   @ 1-2 RIR
+                Machine lateral raise    4 x 12-20  @ 0-1 RIR
+                Reverse pec deck         3 x 12-20  @ 0-1 RIR
+```
+
+```
+TEMPLATE C - ALREADY BENCH PRESSING HEAVILY, ~16 SETS/WEEK, NO PRESS SLOT
+  Session 1     Dumbbell lateral raise   4 x 12-20  @ 0-1 RIR
+                Chest-supported rev fly  4 x 12-20  @ 0-1 RIR
+  Session 2     Cable lateral raise      4 x 12-20  @ 0-1 RIR
+                Cable reverse fly        4 x 12-20  @ 0-1 RIR
+                (the anterior head is covered by the bench and incline work)
+```
+
+```
+TEMPLATE D - SHOULDER WIDTH PRIORITIZED, THREE SESSIONS, ~26 SETS/WEEK
+  Session 1     Seated barbell press     4 x 6-10   @ 1-2 RIR
+                Machine lateral raise    4 x 12-20  @ 0-1 RIR
+  Session 2     Cable lateral raise      4 x 12-20  @ 0-1 RIR
+                Reverse pec deck         4 x 12-20  @ 0-1 RIR
+  Session 3     Dumbbell lateral raise   4 x 12-20  @ 0-1 RIR
+                Scaption raise           3 x 12-20  @ 0-1 RIR
+                Cable reverse fly        3 x 12-20  @ 0-1 RIR
+```
+
+```
+TEMPLATE E - DUMBBELLS ONLY, ~18 SETS/WEEK
+  Session 1     Seated dumbbell press    4 x 8-12   @ 1-2 RIR
+                Dumbbell lateral raise   4 x 12-20  @ 0-1 RIR
+                Chest-supported rev fly  3 x 12-20  @ 0-1 RIR
+  Session 2     Dumbbell lateral raise   4 x 12-20  @ 0-1 RIR
+                Chest-supported rev fly  3 x 12-20  @ 0-1 RIR
+```
+
+---
+
+### F.7 Timeline, measurement and expectations
+
+| Horizon | What to expect |
+|---|---|
+| Weeks 1–3 | Load on the raise rises quickly and size does not change. Early strength gain is neural, and on this exercise a large part of it is learning not to shrug |
+| Weeks 4–8 | The window in which the only relevant trial detected its effect: **+3.3% to +4.6%** lateral deltoid thickness over 8 weeks in trained lifters at ten weekly sets (Larsen et al., 2025c) |
+| Weeks 8–12 | Anterior deltoid change becomes detectable from pressing alone by MRI over 10 weeks (Lanza et al., 2024) |
+| Months 6–12 | Direction coverage becomes visible; people who trained horizontal abduction separate from people who did not |
+| Years | Diminishing annual returns; the middle head is the slowest of the three to change and the one that changes the silhouette |
+
+**How to measure, and what not to trust.**
+
+- **Shoulder circumference is not a deltoid measurement.** A tape around the widest point of the shoulders captures the trapezius, the pectoralis major, the ribcage and subcutaneous fat at the same time.
+- **[Biacromial width](#biacromialwidth) does not change.** It is bone. Anyone reporting "wider shoulders" in weeks is reporting muscle sitting on top of an unchanged skeleton — which is the point, but it is not a width measurement.
+- **Ultrasound [muscle thickness](#musclethickness) at a standardized lateral deltoid site is the only validated deltoid measure that exists**, and the protocol is a single paper's: transverse images at 25% and 40% of the distance from the [acromion](#acromion) to the lateral epicondyle, taken supine after ten minutes' rest, with typical error below 0.47 mm and intraclass correlations above 0.98 (Larsen et al., 2025c). **Validity caveat, and it runs against this Part's own expectation.** Individual change in *quadriceps* ultrasound thickness showed no significant correlation with change in cross-sectional area or volume over 15 weeks, and thickness **substantially underestimated** the growth the criterion MRI measures recorded (Balshaw et al., 2026). No equivalent validation exists for the deltoid. Two consequences: a single scan cannot tell you anything about one person's block, given a typical error of 0.4 mm against a real change of 0.5–1.0 mm; and the "expect 3–5% in eight weeks" figure in Part V §F.7 may itself be an underestimate of the true change, because it was measured by the method that undercounts.
+- **One site cannot represent this muscle**, for the same reason as Part III §F.7 and Part IV §F.7 — and here the problem is worse, because the three heads are three muscles and a lateral site says nothing at all about the other two.
+
+**What actually works for this muscle is a photograph from the front and the rear, arms relaxed at the
+sides, in the same light, the same distance and the same stance, every eight weeks** — plus load at
+fixed finishing height in the logbook. The middle head is visible in a front photograph and the
+posterior head only in a rear one, which is the practical reason people notice the first and never
+notice the second.
+
+---
+
+## partvgsynthesis
+
+**PART G — Synthesis**
+
+### G.1 The rules that hold
+
+1. **The deltoid is the largest muscle of the upper limb** — 15.2 ± 1% of its total muscle volume, the largest fraction of any of thirty-two muscles measured (Holzbaur et al., 2007). It is a primary target, not an accessory to pressing.
+2. **It is three muscles, and their moment arms differ in sign.** Through the lower half of a lateral raise the posterior head has a *larger* moment arm than the middle head, pointing the other way (Ackland et al., 2008). No other muscle in this document contains a region that opposes its own principal action with better leverage than the region performing it.
+3. **Its leverage grows as the arm rises**, from 8.3 mm at 2.5° to 29.1 mm at 86° of abduction. That is the reverse of the quadriceps and the gluteus maximus, and it is why the "load the lengthened position" default of Parts II to IV does not transfer here (Part V §B.2).
+4. **The bottom of an abduction is the joint's problem, not the muscle's opportunity.** The rotator cuff out-levers the deltoid by more than three to one there, and the deltoid's line of pull is nearly parallel to the humerus, so most of its force is aimed at the joint rather than at rotation (Part V §A.5).
+5. **The middle head's required abduction excursion exceeds its own fibre length** (Peterson & Rayan, 2011) — true of no other muscle in this document. It works across most of its force–length curve in every repetition.
+6. **Where the load peaks within a lateral raise does not change how much it grows.** Cable and dumbbell versions, range-matched and compared within the same person, produced 3.3–4.6% growth and strong evidence for the null (Larsen et al., 2025c).
+7. **Horizontal pressing trains the anterior head and not the middle one.** Ten weeks of flat bench pressing raised anterior deltoid cross-sectional area above control while the middle head's increase was the smallest of four muscles measured (Lanza et al., 2024). The claim is about the bench press, which supplies no abduction; it has not been tested for the overhead press.
+8. **A complete prescription is therefore three exercises, not one** — one abduction, one press, one horizontal abduction (Part V §D.5).
+9. **Direction and finishing height are held constant while load progresses**, and so is elbow angle (Part V §F.5).
+10. **Surface EMG cannot rank exercises for this muscle**, and here the problem is at its worst, because there is almost no hypertrophy evidence against which to check the rankings (Part V §B.11).
+
+---
+
+### G.2 What the evidence does **not** support
+
+| Claim | Status |
+|---|---|
+| "Presses build the whole deltoid" | **Not supported.** Bench pressing grew the anterior head and left the middle head indistinguishable from control (Lanza et al., 2024) |
+| "Only the middle head abducts; the front head just presses" | **Not supported.** All three sub-regions were measured through coronal abduction, and the anterior head's *peak* abduction moment arm is the larger of the two — it simply arrives above 90°, where only a press goes (Ackland et al., 2008). The heads divide by elevation angle, not by exercise category (Part V §B.2) |
+| "Cable lateral raises are better because they load the stretch" | **Not supported.** Compared within-participant against dumbbells with range matched, they produced the same growth, with extreme evidence for the null in the combined analysis (Larsen et al., 2025c) |
+| "Dumbbell lateral raises are better because the load is heavier" | **Not supported**, by the same trial and the same measurement |
+| "Pour the pitcher to hit the side delt" | **Not supported.** Internal rotation produced the highest **posterior** deltoid and **upper trapezius** activity of five variants and did not raise the middle head above a neutral grip in either phase (Coratella et al., 2020) |
+| "Rows train the rear delt" | **Depends entirely on the elbow path.** A wide, high-elbow row does; a narrow, low-elbow row does not, and the same measurement supports both halves (Franke et al., 2015) |
+| "Behind-the-neck pressing is worth it for the extra activation" | **Not supported as a trade.** The activation difference is real (Coratella et al., 2022) and it is measured by an instrument Part V §B.11 rejects for growth claims, in a position the injury literature names as vulnerable (Kolber et al., 2010) |
+| "The upright row is a side delt exercise" | **Not supported** in its narrow, high form, which is elevation with internal rotation. A wide, low version is a different and unremarkable raise (Part V §D.1) |
+| "You can target the front, middle and rear of the side delt" | **Not supported.** The seven anatomical segments are real (Sakoma et al., 2011); no growth measurement has ever been made at that resolution, and regional activation does not predict regional growth (Zabaleta-Korta et al., 2024) |
+| "Shrugs build shoulders" | **Not supported.** The humerus does not move; that is a trapezius exercise |
+| "Lateral raises above shoulder height finish the movement off" | **Not supported.** The load's moment arm falls above 90° while the trapezius's share rises (Part V §B.8) |
+| "Light, high-rep raises are enough because the deltoid is a postural muscle" | **Not supported.** It is the largest muscle of the upper limb (Holzbaur et al., 2007), the middle head is a short-fibred high-PCSA force muscle (Peterson & Rayan, 2011), and the only trial that grew it used loads taken to momentary failure at 12–16 repetitions |
+
+**Four open questions this document cannot close, and they are larger than in any other Part.**
+**No study has measured posterior deltoid hypertrophy from anything**, so the whole of Part V §D.3
+rests on moment arms and acute electromyography. **No study has compared a press against a raise**,
+which is the most obvious experiment in this literature and the one that would settle whether the
+90–160° range is worth a slot of its own. **No study has manipulated lateral raise range of motion** —
+the one trial in this muscle deliberately held range constant and varied the load's position within it.
+And **nobody has measured this muscle's architecture the way Ward et al. measured the lower limb**: its
+whole-muscle cross-section is uncertain by a factor of three, and its three heads have never been
+measured together in a healthy adult population. All four are answerable with existing methods.
+
+---
+
+### G.3 The one-paragraph version
+
+The deltoid is the biggest muscle in your arm and it is really three muscles that share one insertion
+and pull in three different directions — so far apart that through the bottom half of a lateral raise
+the rear head is working *against* the side head. That is why one exercise cannot train it and why
+nearly every programme trains a third of it: pressing grows the front head and measurably does not grow
+the side head. Unlike every other muscle in this document, its leverage improves as the arm rises, and
+the bottom of the range — where a stretch-loaded exercise would put its work — is where the rotator
+cuff is doing most of the levering and the deltoid's pull is aimed mostly into the joint. So do not
+chase the stretch here: the one trial that tried, by putting a cable's peak resistance at the longest
+muscle length, grew exactly as much as plain dumbbells. Pick one raise you can load in small increments
+and finish without shrugging, one press for the range above shoulder height that no raise reaches, and
+one movement that sweeps the upper arms out and back for the head nothing else touches. Twice a week,
+eight to sixteen hard sets for the side, four to ten for the front, six to twelve for the rear, taken
+near enough to failure that the last repetition is genuinely hard but not so near that it finishes with
+your traps. Expect three to five per cent in eight weeks if you are already trained, and ignore every
+ranking of these exercises by muscle activation — for this muscle, almost none of them has ever been
+checked against growth.
+
+---
+# partvithecore
+
+**Part VI — The Core**
+
+> Scope: the anatomy, mechanics, technique, exercise selection, context modifiers and programming for
+> maximal [hypertrophy](#hypertrophy) of the muscles that surround and control the lumbar spine — the
+> [abdominal wall](#abdominalwall) in front and at the sides ([rectus abdominis](#rectusabdominis),
+> [external](#externaloblique) and [internal oblique](#internaloblique),
+> [transversus abdominis](#transversusabdominis)), and the [multifidus](#multifidus),
+> [erector spinae](#erectorspinae) and [quadratus lumborum](#quadratuslumborum) behind. **General
+> education only.** Back pain — especially pain that radiates below the knee, wakes you at night, or
+> follows a fall — is an assessment problem before it is a programming problem, and this Part is not a
+> substitute for one. See Part VI §E.4.
+>
+> **Two conventions, fixed for the whole Part.** **Trunk flexion** means the ribcage moving toward the
+> pelvis and is measured from a neutral standing spine, where 0° is neutral. **Spinal load** is always
+> reported as either **compression** (force along the spine's long axis, newtons) or **shear** (force
+> across it), never as a single "load" figure, because the two have different tolerances and different
+> causes.
+
+---
+
+## partviaanatomyandarchitecture
+
+**PART A — Anatomy and Architecture**
+
+### A.1 What "the core" is — and the definition is the first problem
+
+There is no muscle called the core. The word is a training term, not an anatomical one, and it has
+been stretched to mean anything from the four abdominal muscles to every muscle between the knees and
+the nipples. **Part VI uses it for one thing: the muscles that cross the lumbar spine and control what
+it does.** Seven muscles, in two groups.
+
+**In front and at the sides, the [abdominal wall](#abdominalwall)** — four layered sheets that together
+form a single fascial cylinder. From the surface inwards: the [rectus abdominis](#rectusabdominis)
+running vertically down the front, then the [external oblique](#externaloblique), the
+[internal oblique](#internaloblique) and the [transversus abdominis](#transversusabdominis) wrapping
+around from the sides, their tendons meeting in the midline.
+
+**Behind, the spinal extensors** — the [multifidus](#multifidus) deep against the vertebrae, the
+[erector spinae](#erectorspinae) columns running the length of the back, and the
+[quadratus lumborum](#quadratuslumborum) bridging the last rib to the pelvis at the side.
+
+Three facts organize everything below, and each one is unlike anything in Parts II to V.
+
+1. **These muscles spend most of their working life resisting movement rather than producing it.** That is a statement about function, and it is well supported. It is also the source of the Part's central problem, because the exercises built on it are isometric — and isometric loading is a narrower [hypertrophy](#hypertrophy) stimulus than loaded movement, not an absent one (Part VI §B.4).
+2. **The flexors and the extensors sit on opposite limbs of the [force–length curve](#forcelengthrelationship) across the same motion.** Measured, in both cases. Bending forward makes the abdominal wall stronger and the multifidus stronger at the same time, for opposite reasons (Part VI §B.3). No other region in this document does this.
+3. **The limiting structure is the spine, not the muscle.** Every exercise here is paid for in disc compression and shear, by a structure that does not adapt on a training timescale the way muscle does (Part VI §B.5).
+
+---
+
+### A.2 Attachments — the map you load
+
+| Muscle | Origin | Insertion | Nerve | Principal action |
+|---|---|---|---|---|
+| [Rectus abdominis](#rectusabdominis) | Pubic crest and symphysis | 5th–7th costal cartilages and xiphoid process, through the [rectus sheath](#rectussheath) | Thoracoabdominal (T7–T12) | [Trunk flexion](#trunkflexion) |
+| [External oblique](#externaloblique) | Outer surfaces of ribs 5–12 | [Linea alba](#lineaalba), pubic tubercle, anterior iliac crest | Thoracoabdominal (T7–T12), subcostal | Trunk flexion; **contralateral** [rotation](#trunkrotation); [lateral flexion](#trunklateralflexion) |
+| [Internal oblique](#internaloblique) | [Thoracolumbar fascia](#thoracolumbarfascia), iliac crest, inguinal ligament | Ribs 10–12, linea alba | Thoracoabdominal, iliohypogastric, ilioinguinal | Trunk flexion; **ipsilateral** rotation; lateral flexion |
+| [Transversus abdominis](#transversusabdominis) | Thoracolumbar fascia, iliac crest, inguinal ligament, costal cartilages 7–12 | Linea alba, pubic crest | As above | Compresses the abdomen; raises [intra-abdominal pressure](#intraabdominalpressure) |
+| [Multifidus](#multifidus) | [Sacrum](#sacrum), posterior iliac spine, mamillary processes | Spinous processes two to four segments above | Dorsal rami | Segmental [trunk extension](#trunkextension) and rotation control |
+| [Erector spinae](#erectorspinae) | Sacrum, iliac crest, spinous processes | Ribs and transverse processes, up to the skull | Dorsal rami | Trunk extension, lateral flexion |
+| [Quadratus lumborum](#quadratuslumborum) | Iliac crest and iliolumbar ligament | 12th rib, transverse processes L1–L4 | Subcostal, lumbar plexus (T12–L4) | Lateral flexion; anchors the 12th rib for breathing |
+
+**Read the fourth column, because it explains a surprise in the sixth.** The two oblique layers run at
+roughly right angles to each other, and each rotates the trunk **toward the opposite side of the body
+from the one it sits on** in the external layer, and **toward its own side** in the internal layer. A
+rotation to the **right** uses the right internal oblique and the left external oblique together, and a
+right-handed throw — which rotates the trunk leftward — uses the mirror pair. Nothing
+in this Part isolates one from the other, and the pairing is why rotation exercises always train both
+sides at once.
+
+**And read the insertion column, because the abdominal wall does not attach to bone in front.** All
+four sheets converge on the [linea alba](#lineaalba) — a seam of connective tissue running down the
+midline from the sternum to the pubis, formed by the interleaving aponeuroses of the three flat
+muscles. The abdominal wall is a **fascial cylinder with muscles in it**, not four independent straps,
+and that is why Part VI §A.3 is about a structure rather than a muscle.
+
+---
+
+### A.3 The rectus abdominis is short muscles in series, and it has been measured
+
+The vertical strap down the front of the abdomen is interrupted at three to four points by
+**tendinous intersections** — transverse bands of connective tissue fused to the front wall of the
+[rectus sheath](#rectussheath). They are what make a lean abdomen look segmented. They are also a real
+mechanical feature: they divide one long muscle into a **chain of short muscles arranged end to end**
+(Brown et al., 2011).
+
+That study dissected the wall of eleven cadavers segment by segment:
+
+```
+RECTUS ABDOMINIS, SEGMENT BY SEGMENT (Brown 2011, 11 cadavers)
+                    Mass    Fascicle    PCSA     Optimal fascicle
+                    (g)     len (cm)    (cm2)    length (cm)
+  RA1 (top)         12.4     6.7        1.7       5.7
+  RA2               15.6     6.6        2.3       5.5
+  RA3               25.0    10.6        2.1       8.6
+  RA4               27.8    12.1        2.2       9.7
+  RA5 (n=1, bottom) 69.2    13.2        5.0       9.7
+  ----------------------------------------------------------------
+  Whole muscle      80.8    34.2        2.8      26.7
+    The whole-muscle fascicle length is the sum of the segments in
+    series, not the length of any single fibre.
+```
+
+**Three things follow, and the third settles an old argument.**
+
+**The segments are not equal.** Mass rises more than twofold from the top segment to the fourth, and
+fascicle length nearly doubles. Whatever else is true, the "six-pack" is not six copies of one thing.
+
+**The whole-muscle number is a fiction that models use.** A fascicle length of 34.2 cm for the rectus
+abdominis — the longest of any trunk muscle, and longer than the [latissimus dorsi](#latissimusdorsi)'s
+26.4 cm in Part II §A.4 — is a **sum of segments in series**, not a fibre you could find. The
+independent dataset that reports 28.3 ± 4.2 cm treats the muscle as continuous and says so
+(Delp et al., 2001). Real fascicles here are **6.6 to 13.2 cm**, which is ordinary.
+
+**"Upper abs" and "lower abs" are a better question than they are usually given credit for — and still
+not a settled one.** The segments are anatomically distinct, unequal in size, and separated by
+connective tissue rather than blending into one another. That is a stronger anatomical basis for
+regional training than exists for the gluteal portions in Part IV §A.3. And regional development **has** been measured: in professional tennis
+players the side-to-side difference in rectus abdominis volume rose **linearly from the first lumbar
+disc to the pubic symphysis (r = 0.97)**, which its authors read as evidence that the upper and lower
+regions of the muscle can be recruited differentially (Sanchis-Moysi et al., 2010). What is missing is
+a trial: nobody has manipulated exercise selection and measured the segments before and after.
+**Promising but under-replicated**, and Part VI §B.11 is why the [EMG](#emg) studies that appear to
+settle it do not.
+
+---
+
+### A.4 Architecture — a small-force, huge-excursion wall in front of a large-force, tiny-excursion column behind
+
+This is the most consequential block in Part VI, and unlike the deltoid in Part V §A.4 the data are
+good. The abdominal wall was measured in eleven cadavers by micro-dissection (Brown et al., 2011); the
+multifidus in eight, with sarcomere lengths taken **intraoperatively from living patients**
+(Ward et al., 2009b); the remaining trunk muscles in five (Delp et al., 2001).
+
+```
+THE TRUNK, MEASURED
+                          Mass    Fascicle   PCSA     Sarcomere   Source
+                          (g)     len (cm)   (cm2)    len (um)
+  FRONT AND SIDES
+  Rectus abdominis        80.8    34.2 *     2.8      3.29        Brown 2011
+  External oblique       104.6    17.0       5.8      3.18        Brown 2011
+  Internal oblique        74.4     7.9       9.5      2.61        Brown 2011
+  Transversus abdominis   50.6     9.5       5.2      2.58        Brown 2011
+  ---------------------------------------------------------------------------
+  Whole abdominal wall     311    -         23.3      -           sum, one side
+  BEHIND
+  Multifidus               146     5.66     23.9      2.27        Ward 2009
+  Erector spinae (3 cols)   -      6.4-14.2 11.6      -           Delp 2001
+  Quadratus lumborum        -      5.6-8.5   2.8      -           Delp 2001
+  ---------------------------------------------------------------------------
+  * in series across the tendinous intersections (Part VI section A.3)
+```
+
+**Read the PCSA column first, because it is the column that decides the prescription.** The
+[rectus abdominis](#rectusabdominis) — the muscle every abdominal exercise is named after — has a
+[PCSA](#pcsa) of **2.8 cm²**. For scale, from Parts III to V: gluteus maximus 33.4 cm², vastus
+lateralis 35.1 cm², the whole deltoid somewhere between 12 and 43 cm². **The rectus abdominis is one of
+the smallest force-producing muscles in this document.** The largest muscle of the abdominal wall is
+not the one you can see; it is the [internal oblique](#internaloblique), at 9.5 cm².
+
+**Now read it against the row below.** The [multifidus](#multifidus) alone has a PCSA of **23.9 cm²** —
+more than eight times the rectus abdominis, and about as much as the entire abdominal wall put
+together. Add the erector spinae and the back of the trunk out-muscles the front by roughly three to
+two, in a much smaller volume. **The trunk is not symmetrical, and the side that is trained least is
+the stronger one.**
+
+**Now read the fascicle column, which runs the other way.** The abdominal wall is built for
+[excursion](#excursion): 34.2 cm of series fascicle in the rectus abdominis, 17.0 cm in the external
+oblique. The multifidus is built for the opposite — 5.66 cm fascicles and a
+fascicle-to-muscle-length ratio of **0.21**, the same architectural signature as the
+[quadriceps femoris](#quadricepsfemoris) in Part III §A.4 and the [soleus](#pcsa). Its own authors
+describe it as "uniquely designed as a stabilizer to produce large forces" (Ward et al., 2009b).
+
+```
+WHAT THE ARCHITECTURE BLOCK ASSUMES
+  Fixation      All three datasets are fixed cadaveric tissue, and PCSA uses
+                the fixed-muscle density 1.112 g/cm3 throughout - correct for
+                fixed tissue, not for living muscle
+  Donors        Brown 11 donors, Ward 8 (mean age 84), Delp 5. All understate
+                a trained adult
+  Posture       Fixed supine and described as neutral. Supine flattens the
+                lordosis, so the wall is slightly SHORTER than in standing -
+                which if anything understates how far down the descending limb
+                the rectus abdominis sits in a standing neutral spine
+  Laterality    Every figure in the block is ONE SIDE
+  Comparability The three datasets used different dissection protocols,
+                different regionalization and different specimens. They are
+                comparable on normalized fascicle length and on nothing else
+```
+
+**Interpretive caution — four things about this block.** The abdominal specimens were **elderly
+cadavers**, as in Parts III to V, so the absolute masses understate a trained adult. The three datasets
+used different methods and different specimens, so the front-versus-back comparison is between
+studies, not within one — the erector spinae PCSA of 11.6 cm² in particular sits oddly low beside the
+multifidus's 23.9 cm² and the two were measured by different groups. The rectus abdominis's
+fascicle length is a series sum and must not be used as a fibre length. And the abdominal wall PCSAs
+are **per side**; a whole person has twice the figure quoted.
+
+**What this dictates:**
+
+| Architectural fact | Training consequence |
+|---|---|
+| Rectus abdominis PCSA ~2.8 cm² per side | **The absolute loads are small, and always will be.** A 20 kg cable crunch is a heavy set here |
+| Longest series excursion of any trunk muscle | Range is available and worth using — the wall shortens and lengthens a long way |
+| Internal oblique has the largest PCSA of the wall | The muscle with the most force to give is the one no exercise is named after (Part VI §D.3) |
+| Multifidus PCSA 23.9 cm², Lf/Lm 0.21 | A force muscle, trained by load through a short range — a Part III muscle at the back of a Part II muscle |
+| Multifidus fascicles 5.66 cm, in a muscle that spans 2–4 segments | Its range is small in absolute centimetres, so "full range" here is a few degrees, not a big arc |
+| All of it is small in absolute terms | The exercise is chosen for **where it puts tension**, never for how much weight it moves |
+
+The rule that comes out of this table: **the front of the trunk is a Part II problem and the back of it
+is a Part III problem, and they are eight centimetres apart.**
+
+---
+
+### A.5 The abdominal wall is one structure, and it is under tension before you contract it
+
+The three flat muscles do not end at the edge of the rectus abdominis. Their aponeuroses split, pass in
+front of and behind it, and interweave at the midline to form the [linea alba](#lineaalba). Pulling on
+any one of them therefore tensions the whole envelope.
+
+Three consequences, and the second is the one that matters most for training:
+
+1. **There is no such thing as an oblique exercise that does not load the rectus sheath**, and no rectus abdominis exercise that leaves the obliques slack. The wall is loaded as a unit; what changes between exercises is which part of it is loaded *most*.
+2. **[Intra-abdominal pressure](#intraabdominalpressure) is a structural force, not a by-product.** Contracting the wall against a closed glottis pressurizes the abdominal cavity, and that pressure pushes outward on the whole cylinder — including forward on the lumbar spine. Modelled on a physical analogue of the spine, raising intra-abdominal pressure together with abdominal muscle force increased the load the column could carry before buckling, and did so **without the extra [erector spinae](#erectorspinae) co-contraction** that the alternative stabilizing strategy requires (Cholewicki et al., 1999). **Moderate evidence** — a mechanical model plus theory, not a measurement in a person.
+3. **The wall has a seam that can separate.** Widening of the linea alba is normal in late pregnancy and common afterwards, and it changes what the front of the trunk can be asked to do — Part VI §E.2.
+
+**And that has been tested rather than only argued.** Fourteen channels of torso electromyography were
+recorded through seven stabilization exercises, driven through a lumbar spine model, and each muscle's
+signal replaced in turn to see how much stability was lost. **No single muscle dominated**: every
+muscle's share changed from task to task, and the authors conclude that "if the goal is to train for
+stability, enhancing motor patterns that incorporate many muscles rather than targeting just a few is
+justifiable" (Kavcic et al., 2004). **Moderate evidence** — a modelling study driven by measured
+activity in a small sample. It is the reason Part VI never prescribes an exercise for a named deep
+muscle.
+
+This is also why Part VI never prescribes "hollowing" — drawing the navel inward — as a loading
+strategy. It is a way of preferentially recruiting the deepest layer, and it *reduces* the pressure the
+cylinder can generate compared with bracing the whole wall. As a rehabilitation cue it has a
+literature; as a hypertrophy prescription it has none.
+
+---
+
+### A.6 Regions — where a core actually grows
+
+Less has been measured than the volume of abdominal training in the world would suggest, but **more
+than this Part first claimed**, and the regional evidence is unexpectedly the best in the document.
+
+- **The whole rectus abdominis grows from training.** Thirty-six weeks of Pilates in previously inactive women raised rectus abdominis volume markedly and the obliques-plus-transversus by 8%, measured by **MRI before and after** (Dorado et al., 2012). **Moderate evidence** — nine participants, untrained, and a modality rather than a loading prescription.
+- **And from training that never targets it.** Eight weeks of a squat, bench press, prone row and shoulder press programme — **no direct abdominal work at all** — raised rectus abdominis cross-sectional area in **thirty-eight resistance-trained men** (Hernández-Belmonte et al., 2023). **Moderate evidence**, and the population this document is written for.
+- **Between rectus abdominis segments, the answer is the strongest regional finding in this document.** MRI of eight professional tennis players against six non-active controls found rectus abdominis volume **58% greater** in the players, **35% greater on the non-dominant side than the dominant one** within them, and — the key number — **the side-to-side asymmetry increasing linearly from the first lumbar disc to the pubic symphysis (r = 0.97)** (Sanchis-Moysi et al., 2010). The authors read it as evidence that people can differentially recruit the upper and lower regions of each rectus abdominis, and it is hard to read it any other way.
+- **Between the abdominal wall muscles.** Segmental MRI in professional tennis and soccer players found the hypertrophy of the lateral wall and [quadratus lumborum](#quadratuslumborum) to be **sport-specific** in its distribution (Sanchis-Moysi et al., 2013). **Moderate evidence** — cross-sectional athlete comparisons, not training studies.
+- **The multifidus.** Real training data, from clinical populations: multifidus size responds to loaded extension training, summarized in Part VI §E.4 rather than here because every study of it was designed around pain rather than size.
+
+**What is still missing, stated precisely.** No trial has **manipulated exercise selection or range and
+measured abdominal segments before and after** — the tennis evidence is cross-sectional, and the two
+longitudinal trials measured whole muscles from programmes that were not designed to test anything about
+the wall. So the honest position is not "nobody has looked"; it is that **the muscle demonstrably grows,
+regional development demonstrably differs, and nobody has yet joined the two with a controlled
+comparison.** Prescriptions in Part VI §D and §F that go beyond that are mechanical inference, and are
+labelled as such.
+
+---
+
+### A.7 Fibre type — and here it genuinely is different
+
+**The abdominal wall is not the slow-twitch endurance tissue it is usually described as.** Biopsies of
+the human abdominal muscles put them close to an even split, at roughly 55–58% type I
+(Häggmark & Thorstensson, 1979) — the same territory as the gluteus maximus in Part IV §A.7 and the
+deltoid in Part V §A.7, and not a basis for training them differently. The **lumbar back** muscles do
+run higher in type I (Thorstensson & Carlson, 1987), consistent with tissue that works at a low level
+all day.
+
+**This changes nothing about the prescription**, for the reasons already set out in Part II §A.6,
+Part III §A.7, Part IV §A.7 and Part V §A.7. **It does remove an argument** that is made constantly for
+this region: "abs are endurance muscle, so train them with high repetitions" has no support from the
+fibre-type data, and none from the rep-range literature either (Part VI §F.3).
+
+---
+
+### A.8 The muscles you cannot separate it from
+
+| Muscle | Relationship | Consequence for training |
+|---|---|---|
+| [Psoas major](#psoasmajor) and iliacus | Hip flexors that attach to the lumbar spine and pull it into extension when they contract | **They drive every straight-leg or hanging-leg exercise**, and the abdominal wall's job in those is to stop the pull, not to produce the movement (Part VI §D.1) |
+| [Rectus femoris](#rectusfemoris) | Hip flexor, and the muscle Part III §B.4 is built around | High activity in sit-ups and hanging knee-ups (Escamilla et al., 2006); a sit-up is partly a hip flexor exercise |
+| [Erector spinae](#erectorspinae) and [multifidus](#multifidus) | Direct antagonists of the abdominal wall, and co-contractors with it in every braced position | Nothing trains one without loading the other; the "stiffness" both produce is the same quantity |
+| [Diaphragm](#diaphragm) and [pelvic floor](#pelvicfloor) | The lid and the floor of the pressurized cylinder | Without both, [intra-abdominal pressure](#intraabdominalpressure) cannot be generated; this is why breathing is a technique variable here (Part VI §C.6) |
+| [Gluteus maximus](#gluteusmaximus) | Continuous with the [thoracolumbar fascia](#thoracolumbarfascia) via the [posterior oblique sling](#posteriorobliquesling) | Part IV §A.5 from the other side: gluteal contraction tensions the same sheet the abdominal wall pulls on |
+| [Latissimus dorsi](#latissimusdorsi) | Also attaches to the thoracolumbar fascia | The same sheet again; a heavy pulldown loads it |
+
+**The practical reading of this table is unusual.** For every other muscle in this document the
+neighbours are a nuisance — they take a share you wanted. Here two of them are the point: the
+[diaphragm](#diaphragm) and [pelvic floor](#pelvicfloor) are not competitors but **prerequisites**, and
+an exercise performed without them is a different exercise.
+
+---
+
+### A.9 What the anatomy dictates, in nine lines
+
+1. "The core" is seven muscles that cross the lumbar spine, in two opposed groups, and the word means nothing more precise than that.
+2. The abdominal wall is a **fascial cylinder**, not four straps: all four sheets converge on one midline seam.
+3. The rectus abdominis is a **chain of short muscles in series**, with measurably unequal segments — the strongest anatomical basis for regional training anywhere in this document, and no growth data behind it.
+4. Its [PCSA](#pcsa) is **2.8 cm² per side** — among the smallest in this document. Absolute loads here are small and always will be.
+5. The largest muscle of the abdominal wall is the **internal oblique**, which no exercise is named after.
+6. The **multifidus** has more cross-section than the entire abdominal wall, in fascicles a sixth as long — a force muscle behind an excursion muscle.
+7. The two oblique layers run at right angles and rotate the trunk in opposite directions, so no rotation exercise trains one alone.
+8. [Intra-abdominal pressure](#intraabdominalpressure) is a structural force the wall generates, and it requires the diaphragm and pelvic floor to work at all.
+9. Therefore the prescription needs flexion, rotation and extension separately, at loads that will never look impressive, and the limit is what the spine tolerates rather than what the muscle can pull (Part VI §B.5).
+
+---
+
+### A.10 The psoas major — the muscle that ends most core sets
+
+[Psoas major](#psoasmajor) is not a core muscle in this Part's sense: its measured lever on the lumbar
+spine is **0.58 ± 0.40 cm**, the smallest of any trunk muscle, and effectively nothing (McGill et al.,
+1988). It gets a section anyway, because it is the muscle that ends most leg-raise and sit-up sets, and
+because it is **larger than anything else in the region**.
+
+```
+PSOAS MAJOR AGAINST THE MUSCLES IT COMPETES WITH
+  CT at the L4/L5 disc, 13 living active men, PCSA per side (McGill 1988)
+    Psoas major              17.6 +/- 4.0 cm2   <- the largest single muscle
+    Sacrospinalis            15.9 +/- 2.5
+    External oblique          9.4 +/- 2.7
+    Internal oblique          8.1 +/- 2.3
+    Rectus abdominis          7.9 +/- 2.5
+    Multifidus                4.2 +/- 0.7
+    Transversus abdominis     2.9 +/- 1.3
+  ----------------------------------------------------------------------
+  Sagittal moment arm about L4/L5
+    Rectus abdominis         10.28 cm     Psoas major   0.58 cm
+```
+
+**Two things follow, and the second is the honest account of what a leg raise costs.**
+
+**It out-muscles the thing it is competing with, by more than two to one.** In every exercise where the
+legs move and the trunk holds — leg raise, hanging knee raise, sit-up above about 30° — psoas is the
+prime mover and the [abdominal wall](#abdominalwall) is a stabilizer, and the prime mover has more
+cross-section than the rectus abdominis and external oblique combined. That is why these exercises end
+at the front of the hip (Part VI §C.5) and why the leg travel is not a measure of the trunk's work.
+
+**Its lever on the spine is nil and its compression is not.** Modelled on radiographs of ten men, psoas
+exerts "only very small moments that tend to extend the upper lumbar spine and to flex the lower lumbar
+spine", while at maximum contraction applying **"severe compression forces on the lumbar segments, and
+large shear forces"** (Bogduk et al., 1992). So a straight-leg raise buys a large compressive and
+shearing bill on the lumbar spine, with almost no spinal movement and almost no abdominal work — the
+worst ratio in Part VI §D.1, and the reason that category is written around loaded trunk flexion
+instead.
+
+---
+## partvibbiomechanics
+
+**PART B — Biomechanics: what actually loads the core**
+
+### B.1 The joint actions, ranked
+
+| Action | Which muscles | Verdict |
+|---|---|---|
+| [Trunk flexion](#trunkflexion) | Whole [abdominal wall](#abdominalwall); the [rectus abdominis](#rectusabdominis) supplies between a quarter and a half of its torque capacity (Part VI §B.9) | **The action to build the anterior prescription around** |
+| [Trunk rotation](#trunkrotation) | The two oblique layers, working as a diagonal pair. The lumbar back muscles contribute **about 5%** of the total and "none of them can be considered a rotator" (Macintosh et al., 1993a) | **The action that needs its own exercise**, and the only one that loads the largest muscle of the wall |
+| [Trunk lateral flexion](#trunklateralflexion) | [Quadratus lumborum](#quadratuslumborum), obliques, [erector spinae](#erectorspinae) of the same side | Real, cheaply trained, and the slot most often missing |
+| [Trunk extension](#trunkextension) | [Multifidus](#multifidus), erector spinae | **The action with the most muscle behind it and the least attention** (Part VI §A.4) |
+| Resisting each of the above | The same muscles, isometrically | Not a fifth action — it is the four above with the range removed (Part VI §B.4) |
+| Raising [intra-abdominal pressure](#intraabdominalpressure) | [Transversus abdominis](#transversusabdominis) and the obliques, with the [diaphragm](#diaphragm) and [pelvic floor](#pelvicfloor) | A structural function, never an exercise |
+
+**Two things this table settles.** **The obliques are the rotators, and this is a measurement rather
+than an argument** — modelling forty-nine fascicles of the lumbar back muscles on radiographs of nine
+men found no single fascicle exceeding 2 N·m of axial torque and no segment exceeding 5 N·m, about 5%
+of the trunk's total, with the authors concluding that rehabilitation for torsion should target the
+abdominal muscles rather than the back muscles (Macintosh et al., 1993a). And **the largest muscle
+group here is the one behind you**, which is why Part VI §D.5 exists and why most "core programmes"
+train roughly a third of the region.
+
+---
+
+### B.2 Moment arms — short levers, and the geometry barely moves
+
+The trunk muscles have **small moment arms and a lot of them.** Where a limb muscle acts across one
+joint with one lever, the back muscles act across five lumbar segments through dozens of separate
+fascicles, each with its own line of action — the model that established this represents the lumbar
+back muscles as **forty-nine fascicles** rather than as three muscles (Bogduk et al., 1992).
+
+Comprehensive moment arms have been measured by MRI from T8 to S1 in twenty women and ten men, with
+**males showing larger moment arms than females for most muscles at most levels** (Jorgensen et al.,
+2001). **Usable values exist for every muscle of the wall, and an earlier version of this section wrongly said
+they did not.** CT at the L4/L5 disc in thirteen living active men gives sagittal moment arms of
+**10.28 cm for the [rectus abdominis](#rectusabdominis)**, 5.94 and 2.08 cm for the anterior and
+posterior [external oblique](#externaloblique), 6.92 and 3.85 cm for the [internal
+oblique](#internaloblique), 5.90 cm for the erector mass and **0.58 cm for [psoas
+major](#psoasmajor)** (McGill et al., 1988). A second dataset, MRI of five women standing in an upright
+neutral posture, puts the rectus abdominis at **9.7, 9.1, 8.5, 8.5 and 9.8 cm** from L1/L2 to L5/S1
+(Jorgensen et al., 2005). **That measurement matters twice over.** It is the lever Part VI §B.9 uses. And it is
+consistently **larger than the same muscle measured supine** — by 7% at L1/L2 rising to **44% at
+L5/S1** — because lying down lets the abdominal wall fall toward the spine. Every biomechanical model
+built on supine imaging therefore understates the anterior wall's leverage, and so did an earlier
+version of this section.
+
+**What has been established about how these levers behave, and it is the opposite of Part V's
+finding.**
+
+**First, the extensor lever barely changes through the range.** Plotting twenty-nine fascicles of the
+multifidus and erector spinae onto radiographs of nine volunteers in full flexion, moment arms
+decreased only slightly — enough for **no more than an 18% fall in maximum extensor moment** across the
+lumbar spine (Macintosh et al., 1993b). Compare the middle deltoid's three-and-a-half-fold change in
+Part V §B.2, or the gluteus maximus halving in Part IV §B.2. **The trunk is the one region in this
+document where leverage is roughly constant**, which means the [force–length relationship](#forcelengthrelationship),
+not geometry, is what varies through the range.
+
+**Second, what does change dramatically is shear.** The same model found compression in full flexion
+statistically indistinguishable from upright, but a **reversal from net anterior to net posterior
+shear force at the L5/S1 segment** (Macintosh et al., 1993b). That is the mechanical content of the
+warning against loaded spinal flexion, and it is a change in the *direction* of a force on a joint, not
+in the amount of work a muscle does.
+
+**Third, and the reason the second matters:** flexion elongates the back muscles, which lowers their
+active tension — but once the passive tension that elongation creates is added back, the compression
+and the moment they produce in full flexion are **not significantly different** from upright
+(Macintosh et al., 1993b). The load does not go away when you round your back. It moves from muscle
+into connective tissue, and the shear it applies reverses.
+
+---
+
+### B.3 Force–length — the one region where it has been measured on both sides
+
+**This is the best force–length evidence in this document.** For the latissimus dorsi it was inferred,
+for the gluteus maximus it was contested, for the deltoid it was read off a modelling figure. Here it
+was measured directly, in two muscles, one of them **in living patients during surgery**.
+
+```
+WHERE THE TRUNK'S SARCOMERES ACTUALLY SIT
+  Human plateau, for reference                        ~2.6 - 2.8 um
+
+  ABDOMINAL WALL, post-mortem neutral spine    (Brown 2011, 11 cadavers)
+    Rectus abdominis          3.29 +/- 0.07 um   DESCENDING limb
+    External oblique          3.18 +/- 0.11 um   DESCENDING limb
+    Internal oblique          2.61 +/- 0.06 um   plateau
+    Transversus abdominis     2.58 +/- 0.05 um   plateau
+  Modelled consequence: rectus abdominis, external oblique and
+  transversus abdominis reach OPTIMAL force-generating length in the
+  MID-RANGE OF LUMBAR FLEXION; internal oblique makes ~90% there.
+
+  MULTIFIDUS, measured intraoperatively         (Ward 2009, 8 specimens)
+    In spinal extension        1.98 +/- 0.15 um   ASCENDING limb
+    In spinal flexion          2.70 +/- 0.11 um   plateau
+  Consequence in the authors' words: the muscle becomes STRONGER as the
+  spine assumes a forward-leaning posture.
+```
+
+**Read the two blocks together, because their conclusion is the same and their mechanism is opposite.**
+Bending forward moves the **abdominal wall** from the descending limb *down* toward its plateau, and it
+moves the **multifidus** from the ascending limb *up* toward its plateau. Both get stronger. Flexing
+the lumbar spine is the position in which the trunk's muscles are collectively at their most capable —
+and, from Part VI §B.2, it is also the position in which the shear on the lowest segment reverses.
+**The strongest position for the muscle is the least comfortable one for the joint.** That single
+sentence is Part VI.
+
+**What this overturns, and what it does not.** It overturns the idea that the abdominal wall is
+"stretched" in extension and should be trained there by analogy with Parts II to IV: with the spine
+neutral the rectus abdominis is **already past its optimum**, and extending further takes it further
+onto the descending limb where active force falls. It does **not** license training in end-range
+flexion, because the joint's tolerance runs the other way (Part VI §B.5). The productive window is the
+**middle**, and Part VI is the only Part in this document that ends up there.
+
+**Interpretive caution.** The abdominal sarcomere lengths are post-mortem measurements in elderly
+cadavers with the spine in a neutral posture, and the optimum positions are a **modelled** consequence
+of them rather than a measured torque curve. The multifidus figures are far stronger — intraoperative
+biopsies from living spines in two positions — but come from eight patients undergoing surgery, who
+are not a healthy trained population.
+
+---
+
+### B.4 The core's job is to resist movement — and that is the central problem of Part VI
+
+Every previous Part had a muscle whose job was to move a joint, and training it meant loading that
+movement. This region is different, and the difference is not a detail.
+
+**In life, these muscles mostly hold still.** Walking, carrying, lifting, throwing and standing all ask
+the trunk to *resist* being bent, twisted or extended by something else — the load in your hands, the
+leg swinging beneath you, the ground pushing back. The function literature is built on that
+observation, and it is correct.
+
+**But the exercises built on that observation are isometric, and isometric training is a weaker and
+narrower hypertrophy stimulus than loaded movement — not an absent one.** Isometric training does grow
+muscle, and grows it most at long muscle lengths (Oranchuk et al., 2019); what it does not do well is
+produce growth across a muscle's whole length from a single joint angle. The two facts are in tension,
+and most core programming resolves the tension
+by ignoring one of them. This document resolves it explicitly:
+
+| If your goal is | Then |
+|---|---|
+| The trunk's **function** — carrying, bracing, resisting | Isometric anti-movement work is appropriate, and the load is the point |
+| The trunk's **size** | You need tension through a range, which means the muscle must actually shorten and lengthen against resistance |
+| **Both** | They are different exercises, not different intensities of the same exercise, and Part VI §D programs them separately |
+
+**The honest statement of the evidence.** For function, the case is real but smaller than it is sold
+as: pooling fifteen correlation studies and sixteen training studies in **trained** individuals, trunk
+muscle strength showed only **small relationships with physical performance (−0.05 ≤ r ≤ 0.18)**, and
+core strength training produced **large gains in trunk strength (SMD 1.07) but only small-to-medium
+changes in performance (0 ≤ SMD ≤ 0.71)** (Prieske et al., 2016). **Moderate evidence** — the authors
+rate the methodological quality of the training studies as low (median PEDro 4). Their own conclusion
+is that trunk strength "plays only a minor role for physical fitness and athletic performance in trained
+individuals."
+
+For size, there is no evidence at all in this population (Part VI §A.6). **So Part VI recommends
+training this region for the reasons the evidence supports — because it is muscle, and muscle
+responds to loading — and not because doing so will make you faster, jump higher or stop your back
+hurting.** The last of those has its own section, and its own answer, in Part VI §E.4.
+
+---
+
+### B.4a How much of a "core" exercise the hip flexors take
+
+Part VI says four separate times that the hip flexors take over. Both *how much* and *when* are
+derivable from geometry, and both change exercise selection.
+
+**When the trunk moves and the legs are fixed** — crunch, sit-up, decline sit-up, cable crunch — the
+trunk's own weight acts at a horizontal distance from the spine that shrinks as you curl up, so the
+flexion demand falls as the **cosine** of the trunk's angle from horizontal. Above roughly 30° the
+lumbar spine has run out of range and [psoas major](#psoasmajor) carries the rest by rotating the whole
+trunk about the hip.
+
+```
+TRUNK ANGLE FROM HORIZONTAL, LEGS FIXED
+   0 deg   100% of peak flexion demand   the spine supplies the movement
+  15 deg    97%                          spine
+  30 deg    87%                          handover
+  45 deg    71%                          hip flexors
+  60 deg    50%                          hip flexors
+  90 deg     0%                          nothing; you are sitting up
+```
+
+**When the legs move and the trunk is fixed** — hanging knee raise, leg raise, reverse crunch — it runs
+the other way. Hip flexion demand rises as the **sine** of hip flexion and peaks with the thighs
+horizontal; trunk flexion demand is zero at the hang and rises only once the pelvis begins to curl.
+
+```
+HIP FLEXION ANGLE, TRUNK FIXED
+   0 deg     0% hip demand     0% trunk demand    dead hang
+  45 deg    71%                low                hip
+  90 deg   100%                rising             hip, thighs horizontal
+ 120 deg    87%                high               pelvis curling; trunk
+```
+
+**The consequence for selection.** An exercise that loads the trunk flexors through their productive
+window has to keep the trunk between roughly 0° and 35° of flexion **against resistance**, which is a
+narrow band. That is why the loadable options in Part VI §D.1 are so few, and why "more range" in this
+category almost always means "more hip flexor" (Part VI §A.10).
+
+---
+
+### B.5 The limiting structure is the spine, and it does not adapt like muscle
+
+Every exercise in this Part is paid for twice: once in muscular effort, and once in load transmitted
+through the intervertebral discs. That second bill is the reason core training has a literature about
+*safety* that no other muscle group in this document has.
+
+Nine volunteers performed twelve abdominal exercises while lumbar compression and abdominal
+[EMG](#emg) were computed simultaneously, and each exercise scored as a **ratio of muscular challenge
+to spinal compression cost** (Axler & McGill, 1997). Two findings, and the second is the one usually
+dropped:
+
+- **Partial curl-ups produced the best challenge-to-cost ratios** of the twelve.
+- **No single exercise trained all of the abdominal muscles while keeping joint loads low.** The authors' explicit conclusion is that a *variety* of exercises is required — which is the same conclusion Part VI §D.7 reaches from the anatomy.
+
+**What sets the tolerance is repetition, not peak force.** Porcine spinal segments taken through up to
+**86,400 cycles** of flexion and extension at modest compression herniated posteriorly, and raising the
+compression made the injuries more frequent and more severe; the authors concluded that herniation "may
+be more linked to repeated flexion extension motions than applied joint compression"
+(Callaghan & McGill, 2001). **Interpretive caution, and it is very large:** these are pig cervical
+segments, in vitro, cycled tens of thousands of times without the recovery, remodelling or muscular
+control a living spine has. The finding is a mechanism, not a dose. Treating it as evidence that a set
+of ten crunches damages a human disc is an extrapolation of roughly four orders of magnitude, and this
+document does not make it.
+
+**How Part VI uses this, stated plainly.** Not as a prohibition. Spinal flexion under load is a
+**cost**, and costs are worth paying for a stimulus you cannot get otherwise and not worth paying for
+one you can. That is why Part VI §D.1 keeps flexion work in the middle of the range, at moderate
+repetitions, on a small number of exercises, and why it does not ask for hundreds of daily
+repetitions of anything.
+
+---
+
+### B.6 The stimulus map for the core
+
+Overlaying Part VI §B.2, §B.3 and §B.5 onto the arc the trunk actually travels:
+
+```
+TRUNK POSITION      WALL LENGTH   LEVERAGE   ACTIVE FORCE   SPINE COST    WHAT IT NEEDS
+------------------------------------------------------------------------------------------------
+Extended            Longest       Near       FALLING        Rising        Almost nothing loads
+(past neutral)                    constant   (descending    (facet and    it, and the wall is
+                                             limb, both     extension     weakest here. Not a
+                                             RA and EO)     load)         target
+
+Neutral             Long          Near       Below peak     Lowest        Where anti-extension
+                                  constant   (RA 3.29 um)                 work lives. Isometric
+                                                                          by definition
+
+Mid flexion         Optimal       Near       PEAK           Moderate      The productive window
+(the middle third)                constant   (all four                    for BOTH groups
+                                             wall muscles                 (section B.3)
+                                             at or near
+                                             optimum;
+                                             multifidus
+                                             at plateau)
+
+End-range flexion   Shortest      Near       Falling        HIGHEST       Shear reverses at
+                                  constant   (past plateau  (shear        L5/S1. Cheap range,
+                                             on the         reversal)     expensive joint.
+                                             ascending                    Not worth buying
+                                             side)
+```
+
+**One column is missing here that every other Part has, and its absence is the finding.** There is no
+"tension per newton-metre" column, because leverage is roughly constant (Part VI §B.2) — so unlike
+Parts III, IV and V, **the muscle's tension tracks the exercise's demand directly** and the two do not
+come apart. What varies through the range is the muscle's own capability and the joint's tolerance,
+and those two point in opposite directions.
+
+**And that is why this map produces a different prescription from every one before it.** In Parts II to
+IV the answer was to load the lengthened position. In Part V the answer was that the lengthened
+position could not be usefully loaded. Here the answer is neither: **the productive window is the
+middle third of the range**, because that is where the muscle is strongest and the joint is not yet
+paying, and both ends are worth less than the middle for different reasons.
+
+**The single most useful sentence in this Part:** train the trunk through the middle of its range under
+load, hold the ends isometrically if you want them at all, and stop treating the number of repetitions
+as the measure of the work.
+
+---
+
+### B.7 Range and load — what the evidence actually says
+
+**The muscle grows; nothing about *how* to train it has been tested.** That is the honest summary, and
+it is a different summary from the deltoid's in Part V §B.7.
+
+| Question | Evidence |
+|---|---|
+| Does the rectus abdominis grow from training at all? | **Yes.** MRI volume increase over 36 weeks in untrained women (Dorado et al., 2012); cross-sectional area increase over 8 weeks in **resistance-trained men**, from a programme with no direct abdominal work (Hernández-Belmonte et al., 2023) |
+| Does trunk flexion training specifically grow it? | **Untested.** Neither trial isolated or manipulated abdominal exercise |
+| Full range versus partial? | **None** |
+| Isometric versus dynamic? | **None** for this region. The general isometric case is real (Part VI §B.4) |
+| Loaded versus body-weight? | **None** |
+| Do the segments grow differently? | **Yes, cross-sectionally** — asymmetry rising linearly from L1 to the pubic symphysis in tennis players, r = 0.97 (Sanchis-Moysi et al., 2010). **Untested longitudinally** |
+| Does any of it change abdominal appearance? | **Tested, and no** — see below |
+
+**The one thing that has been tested is the thing people actually want, and the answer is no.**
+Twenty-four sedentary adults were randomized to six weeks of seven abdominal exercises, two sets of ten,
+five days a week, on an isocaloric diet, against a no-exercise control. Abdominal exercise produced
+**no change in body weight, body fat percentage, android fat, abdominal circumference, abdominal
+skinfold or suprailiac skinfold.** Abdominal endurance improved substantially (Vispute et al., 2011).
+**Moderate evidence** — twenty-four participants, six weeks, sedentary, and the training dose is far
+below what this document would prescribe. What it establishes is the direction: **abdominal exercise
+does not remove abdominal fat**, and visible abdominal muscle is a body-composition outcome that belongs
+to `strength-and-body-composition.md`, not to this Part.
+
+**What follows for the rest of Part VI.** The existence of growth is established; the *comparison*
+between exercises, ranges and loading strategies is not, and that is what §D and §F have to prescribe.
+Those prescriptions are therefore mechanical inference resting on unusually good mechanics — better
+than the deltoid's — and the Part is written that way throughout.
+
+> **Range for the core is not a threshold and not a coverage problem between exercises.** It is a
+> **window**: the middle third, where the muscle is strongest and the joint is not yet paying
+> (Part VI §B.6).
+
+---
+
+### B.8 Resistance profiles — and why most core exercises have almost none
+
+The muscle's capability curve is fixed. The **[resistance profile](#resistanceprofile)** is chosen by
+the exercise. For the trunk:
+
+> τ_demanded = F_resistance × d⊥
+>
+> where d⊥ = the perpendicular distance (m) from the lumbar spine to the [line of action](#lineofaction) of the resistance
+
+**The problem specific to this region:** for body-weight exercises the resistance *is* your own upper
+body or legs, so its weight is fixed and the only variable is d⊥ — geometry. That caps the load
+severely, and it is why the useful core exercises are the ones that let you add resistance or change
+leverage.
+
+| Exercise | Where demand peaks | Where it falls to near zero | Profile |
+|---|---|---|---|
+| [Crunch](#crunch) (body weight) | At the very start, torso flat | As soon as the shoulders lift | **Descending, and steeply** — most of the movement is nearly unloaded |
+| [Cable crunch](#cablecrunch) | Roughly constant, set by the cable's line | Neither end | **The only near-constant profile in the flexion category** |
+| Weighted decline [sit-up](#situp) | Torso lowest | Torso vertical | Stretch-loaded, at the joint's expense |
+| [Hanging knee raise](#hangingkneeraise) | Thighs horizontal | Knees at the chest, and hanging straight | Mid-range-loaded; mostly a hip flexor exercise below ~60° of hip flexion |
+| Reverse crunch, 30° incline | Pelvis leaving the bench | Both ends | Mid-range |
+| [Ab wheel](#abwheel) rollout | Arms extended, torso near horizontal | Kneeling upright | **Stretch-loaded anti-extension**, and the highest-demand exercise in the catalogue |
+| [Plank](#plank) | Constant by definition | Nowhere | Isometric; demand set by lever length, not by time |
+| [Side plank](#sideplank) | Constant | Nowhere | Isometric lateral flexion |
+| [Pallof press](#pallofpress) | Arms fully extended | Hands at the chest | Anti-rotation, ascending with reach |
+| [Suitcase carry](#suitcasecarry) | Constant | Nowhere | Isometric lateral flexion, loadable without limit |
+| Cable [woodchop](#woodchop) | Mid-rotation | Both ends | Mid-range rotation |
+| [Back extension](#backextension), 45° | Torso through horizontal, ~70% of peak at both ends | Neither | Mid-range, near-symmetric (Part IV §B.8) |
+
+**The row that explains why body-weight crunches disappoint.** With the torso flat, the upper body's
+centre of mass is a long way horizontally from the lumbar spine and the demand is at its highest. The
+moment the shoulders leave the floor that distance starts shrinking, and by 30° of trunk flexion most
+of it is gone. **A body-weight crunch loads the position the muscle is weakest in and unloads the
+position it is strongest in** — the exact inverse of what Part VI §B.3 asks for. Adding repetitions
+does not fix a profile; it only adds repetitions.
+
+**And the row that fixes it.** A cable or machine keeps the resistance line roughly perpendicular to
+the torso throughout, so demand stays near-constant while the muscle passes through its optimum. That
+is the mechanical argument for loaded flexion over body-weight flexion, and it is an argument, not a
+trial.
+
+---
+
+### B.9 A worked example, so the numbers are not abstract
+
+The question worth answering is not how much torque a sit-up needs. It is **how much of the abdominal
+wall's capacity the muscle everyone trains actually supplies.**
+
+A share of **torque** is not a share of cross-section. Torque capacity is PCSA multiplied by the
+**moment arm**, and every one of those moment arms has been measured — by CT, in thirteen living active
+men, at the L4/L5 disc (McGill et al., 1988):
+
+```
+TRUNK FLEXION TORQUE CAPACITY, ONE SIDE - ALL LEVERS MEASURED
+                     Sagittal moment arm      Torque index (PCSA x arm)
+                     (cm, McGill 1988)     McGill PCSA    Brown PCSA
+  Rectus abdominis        10.28                 81            29
+  External oblique         4.01 *                38            23
+  Internal oblique         5.39 *                44            51
+  Transversus abdominis    none                   0             0
+                                                              ^ transverse
+                                                                fibres, no
+                                                                sagittal lever
+  ---------------------------------------------------------------------------
+  RECTUS ABDOMINIS SHARE OF THE WALL'S FLEXION CAPACITY
+        on McGill's own CT cross-sections (13 living men)      50%
+        on Brown's dissection cross-sections (11 cadavers)     28%
+  ---------------------------------------------------------------------------
+  * anterior and posterior portions averaged; McGill reports them separately
+    (EO 5.94 and 2.08 cm, IO 6.92 and 3.85 cm)
+```
+
+**What the number means, and what the earlier version of this block got wrong.** The rectus abdominis
+contributes **between a quarter and a half** of the abdominal wall's trunk-flexion torque capacity —
+not the eighth this Part previously claimed. That figure was a **cross-section** share presented as a
+**torque** share; it used a moment arm about 40% too low, taken from supine imaging; and it put the
+[transversus abdominis](#transversusabdominis) into the denominator of a flexion sum even though its
+fibres run transversely and its measured sagittal lever is nil. Correcting all three moves the rectus
+abdominis from a bit-player to something between a third and half of the wall's flexion capacity.
+
+```
+HOW MUCH THE ANSWER MOVES, AND WHAT DOES NOT MOVE IT
+  Count all four muscles on cross-section alone            12%  <- the old figure
+  Exclude transversus abdominis                            15%
+  ...and weight each muscle by its MEASURED moment arm   28-50%
+  ---------------------------------------------------------------------------
+  The remaining spread is entirely the PCSA dataset: CT of living men
+  against dissection of elderly cadavers, for the same seven muscles.
+  What does NOT move the answer is specific tension - it cancels between
+  numerator and denominator, and only sets the absolute ceiling.
+```
+
+**Three things this block is still not.** The two PCSA datasets disagree by up to threefold on the same
+muscle, which is the whole of the remaining uncertainty and is not resolvable from here. McGill's
+moment arms were taken **supine**, and upright MRI puts the rectus abdominis's lever 7–44% higher
+(Jorgensen et al., 2005), so the true share is likely at the upper end of the bracket. And the capacity
+is a **ceiling**, not a prediction of what any exercise elicits.
+
+**Three consequences, and they reorganize the exercise catalogue.**
+
+1. **"Ab training" and "rectus abdominis training" are not the same thing**, and the gap is larger than for any muscle in this document — larger than the gluteus maximus's half-share of hip extension in Part IV §B.4.
+2. **Rotation work is not accessory.** It is the only category that loads the wall's largest muscle in the action that muscle is built for (Part VI §B.1).
+3. **The compression bill is paid by the whole wall regardless of which exercise you picked**, because all four sheets tension the same fascial cylinder (Part VI §A.5). You cannot choose an exercise that gets the stimulus without the cost; you can only choose the ratio, which is what Axler & McGill measured.
+
+**Four things this block is not.** The moment arm is geometric rather than measured, for the reason
+stated. Specific tension is the same 22.5–45 N·cm⁻² bracket used throughout this document and is itself
+uncertain by a factor of two. The PCSAs are from elderly cadavers and understate a trained adult. And
+the capacity is a **ceiling**, not a prediction of what any exercise elicits — no exercise recruits the
+whole wall maximally.
+
+**The claim that survives all of that is comparative, and it is enough:** the muscle you can see
+supplies between a quarter and a half of the wall's flexion torque and none of its rotation, so an exercise
+catalogue organized around it is organized around one action of one muscle among four.
+
+---
+
+### B.10 Trunk position, leg position, breath and load placement
+
+Four setup variables change what a core exercise loads. They are this Part's equivalent of
+Part III §B.10, Part IV §B.10 and Part V §B.10.
+
+| Variable | Effect | Evidence |
+|---|---|---|
+| **Where the load sits** | Moving a plate from the chest to overhead lengthens d⊥ and raises the demand without changing the weight | Mechanical; the cheapest progression available in this Part |
+| **Leg position in flexion work** | Hip and knee flexed shortens [psoas major](#psoasmajor) and reduces its pull on the lumbar spine; straight legs increase it | Rectus femoris activity was high in bent-knee sit-ups, hanging knee-ups and 30° reverse crunches (Escamilla et al., 2006) — a sit-up is partly a hip flexor exercise |
+| **Lever length in isometrics** | A plank on the forearms is easier than one on the hands, and both are trivially harder with the feet elevated | Mechanical; the only way to progress an isometric without adding time |
+| **Breath and bracing** | Bracing the whole wall against a closed glottis raises [intra-abdominal pressure](#intraabdominalpressure) and stiffens the column; hollowing does not | (Cholewicki et al., 1999). **Moderate evidence** — a physical model, not a measurement in a person |
+
+**On the second row, because it is the most misunderstood.** The [psoas major](#psoasmajor) attaches to
+the lumbar vertebrae and to the femur. When it contracts hard against a long lever — legs straight,
+hanging — it loads the lumbar spine heavily while flexing the hip. **The mechanism is not the one
+usually given.** Modelled on radiographs of ten men, psoas exerts "only very small moments that tend to
+extend the upper lumbar spine and to flex the lower lumbar spine", but at maximum contraction it
+applies **severe compression and large shear forces** to the lumbar segments (Bogduk et al., 1992). So
+the abdominal wall's job in a straight-leg raise is to hold the trunk against a large compressive and
+shearing load, not to oppose an extension moment that is barely there — and the movement itself is a
+hip action. That is not an argument against the exercise. It is
+an argument against calling it a rectus abdominis exercise and against judging it by how far the legs
+travel.
+
+**On the trade you are actually making.** Every setting above that raises the muscular demand also
+raises the spinal load, because both scale with the same d⊥. **There is no free progression in this
+Part** — which is the sense in which the spine, not the muscle, is the limiter (Part VI §B.5).
+
+---
+
+### B.11 What EMG can and cannot settle here
+
+**The core is where surface [EMG](#emg) has been used most and can support least**, for two reasons
+that are specific to this region and additional to the general
+[EMG–hypertrophy dissociation](#emghypertrophydissociation) set out in Part II §B.11.
+
+**First, the deep muscles cannot be reached by surface electrodes at all.** The
+[transversus abdominis](#transversusabdominis) lies under two other sheets and the
+[multifidus](#multifidus) lies under the erector spinae. Every surface reading attributed to them is
+crosstalk from something shallower unless it was taken with fine-wire electrodes, and most were not.
+
+**Second, the ranking studies rank the wrong thing.** The most-cited comparison of abdominal exercises
+tested twenty-one adults across traditional and non-traditional movements and found the Power Wheel
+roll-out, pike and knee-up, the hanging knee-up with straps, and the 30° reverse crunch highest for
+upper and lower rectus abdominis (Escamilla et al., 2006). The same study found those exercises also
+highest for **extraneous** muscles — [rectus femoris](#rectusfemoris) and
+[latissimus dorsi](#latissimusdorsi) — and its own authors flag the rectus femoris activity as
+"problematic for some people with low back problems." An activation ranking that does not carry the
+cost alongside it is not a selection criterion, which is precisely why the other major study in this
+area reported a **ratio** instead (Axler & McGill, 1997).
+
+**What surface EMG over this region can legitimately be used for.** Confirming that an exercise loads
+the abdominal wall at all; comparing two variants of the *same* movement in the *same* session on the
+same electrodes; and pairing with a simultaneous spinal-load estimate to produce a challenge-to-cost
+ratio, which is the one genuinely useful thing the core EMG literature has produced.
+
+**What it cannot be used for.** Ranking exercises for hypertrophy. Claiming that an exercise trains the
+"lower abs" — the segments are real (Part VI §A.3) but regional activation does not predict regional
+growth (Zabaleta-Korta et al., 2024). **Caveat:** that study measured the **biceps brachii**, so its
+application here is an extrapolation from a limb muscle to a segmented trunk one. Or claiming anything at all about the transversus abdominis from
+a surface electrode.
+
+---
+
+### B.12 The mechanical checklist
+
+An exercise is a good core exercise to the degree that it satisfies these. Nothing satisfies all of
+them, which is why Part VI §D.7 asks for four.
+
+1. It loads the **middle third** of the range, where the muscle is strongest and the joint is not yet paying (Part VI §B.6).
+2. Its resistance profile does not collapse as the trunk moves — which rules out most body-weight flexion (Part VI §B.8).
+3. It can be **progressively loaded**, by weight or by lever length, rather than only by repetitions (Part VI §F.5).
+4. Its challenge-to-compression ratio is favourable (Axler & McGill, 1997).
+5. It is limited by the trunk, not by the hip flexors, the grip or the shoulders (Part VI §C.5).
+6. Somewhere in the programme, something loads **rotation** — the action of the wall's largest muscle (Part VI §B.9).
+7. Somewhere in the programme, something loads **extension** — the group with more cross-section than the whole abdominal wall (Part VI §A.4).
+
+---
+## partvictherepspecified
+
+**PART C — The rep, specified**
+
+### C.1 The four core reps
+
+There is no universal core rep, because there is no single joint action. There are four, and every
+prescription in Part VI §D is one of these with the setup changed.
+
+```
+THE FLEXION REP - CABLE CRUNCH AND ITS RELATIVES
+  Start           Spine neutral to slightly extended, hips fixed, load taut
+  Descent         1-2 s; the RIBCAGE travels toward the pelvis. Hips do not move
+  Bottom          Middle third of the available flexion range - about the point
+                  where the lower back starts to round rather than the ribs
+  Reversal        Deliberate, from the wall rather than from a rebound
+  Ascent          2-3 s back to neutral. Do not extend past it under load
+  Breathing       Exhale through the shortening phase; the wall cannot both
+                  brace maximally and shorten maximally
+```
+
+```
+THE ANTI-EXTENSION REP - AB WHEEL, PLANK AND ITS RELATIVES
+  Start           Ribs down, pelvis level, spine neutral. This is the position
+                  the exercise exists to hold
+  Loading         Lengthen the lever, do not extend the spine. The wheel travels
+                  as far as the ribs and pelvis stay in the SAME relationship
+  End point       The instant the lower back starts to arch. Not a distance,
+                  not a time, not a burn
+  Return          Under control, spine unchanged
+  Breathing       Shallow and continuous. If you cannot breathe, the position is
+                  too long a lever, not a better exercise
+```
+
+```
+THE ROTATION REP - CABLE WOODCHOP, PALLOF PRESS
+  Start           Feet planted, hips square, load taut across the body
+  Action          Rotate through the RIBCAGE, or resist rotation without moving
+  Range           The middle third. Lumbar rotation is small; most trunk rotation
+                  is thoracic, and forcing it low is where the cost is
+  Tempo           1-2 s out, 2-3 s back, no swing
+  Breathing       Exhale on the effort
+```
+
+```
+THE EXTENSION REP - LOADED BACK EXTENSION AND ITS RELATIVES
+  Start           Torso hanging, spine neutral, load held at the chest
+  Ascent          1-2 s to torso in line with the legs. NOT past it
+  Top             Spine neutral, glutes and hamstrings finishing the movement
+  Descent         2-3 s to the start, spine unchanged
+  Breathing       Inhale at the bottom, exhale through the ascent
+```
+
+**Why each line is there.** The flexion rep stops in the middle third because that is where the wall is
+strongest and the joint is not yet paying (Part VI §B.6), and because the last part of the range is
+bought with a shear reversal at the lowest lumbar segment (Part VI §B.2). The anti-extension rep is
+defined by a *position* rather than a distance or a duration, because the whole exercise is the
+position — everything the lever adds is load, and the moment the position fails the exercise has
+ended. The rotation rep specifies the ribcage because the lumbar segments contribute very little
+rotation, and because the muscles doing the work are the obliques, which attach to the ribs
+(Macintosh et al., 1993a). And the extension rep stops at neutral because past it the demand keeps
+rising while the muscle is on the wrong side of its own optimum (Part VI §B.3).
+
+---
+
+### C.2 The technical errors, in order of how much they cost
+
+| # | Error | What it costs | Fix |
+|---|---|---|---|
+| 1 | Counting repetitions instead of loading the movement | The only progression available becomes "more", and more of a body-weight crunch is more of an unloaded movement (Part VI §B.8) | Put resistance on it, or change the lever |
+| 2 | Training only the front | Leaves the group with the most cross-section in the region untrained (Part VI §A.4) | One extension exercise, every week (Part VI §D.5) |
+| 3 | Never loading rotation | Leaves the wall's largest muscle untrained in the action it is built for (Part VI §B.9) | One rotation or anti-rotation exercise per week |
+| 4 | Hip-flexing and calling it trunk flexion | The pelvis and femur move, the ribcage does not, and the wall works isometrically at best | Fix the hips; move the ribs toward them |
+| 5 | Holding a plank for time until it is a breathing test | Progresses endurance of a position, not the muscle | Shorten the hold, lengthen the lever, add load |
+| 6 | Loading end-range flexion because it "feels like more range" | Buys a few degrees at the point where the shear reverses (Part VI §B.2) and the muscle is past optimum | Stop in the middle third |
+| 7 | Bracing so hard on every set that nothing moves | Turns a hypertrophy exercise into an isometric with a rep count attached | Brace for the anti-movement work; breathe and move for the rest |
+| 8 | "Hollowing" — drawing the navel in — as the loading strategy | Bracing the whole wall produced 32% more spinal stability than hollowing, and the transversus abdominis contributed 0.14% of it (Grenier & McGill, 2007) | Brace the whole wall |
+| 9 | Training the core last, always, at the end of everything | The region that most needs deliberate loading gets whatever is left | Rotate what goes first (Part VI §E.6) |
+| 10 | Doing abdominal work to lose abdominal fat | Six weeks of it changed no measure of body composition (Vispute et al., 2011) | That is a nutrition and energy-balance problem — `strength-and-body-composition.md` |
+
+---
+
+### C.3 Prerequisites — can you actually reach the positions?
+
+Three checks, in the order they usually fail.
+
+**1. Can you separate ribcage from pelvis?** Lie on your back, knees bent, feet flat, one hand under
+the small of your back. Flatten the lower back onto your hand by tilting the pelvis, then let it return
+— without your feet, knees or shoulders moving.
+
+*If it fails:* every "core" exercise you perform is a hip exercise with a trunk along for the ride, and
+the flexion category will not work until this does.
+
+**2. Can you hold a neutral spine while a limb moves?** From the same position, lift one foot a few
+centimetres without the lower back changing its relationship to the floor.
+
+*If it fails:* the anti-extension category starts here, at this exact position, rather than at a plank.
+
+**3. Can you breathe in the position you are about to load?** Hold whatever position the exercise
+starts in and take three quiet breaths through the nose.
+
+*If it fails:* the lever is too long or the load is too heavy. This is not a warm-up test; it is the
+loading test, because [intra-abdominal pressure](#intraabdominalpressure) requires the
+[diaphragm](#diaphragm) to work (Part VI §A.8).
+
+---
+
+### C.4 Cues — which ones work and which ones harm
+
+| Cue | Verdict |
+|---|---|
+| "Ribs to hips" on flexion work | **Useful** — it names the joint action, which is the thing most often substituted away |
+| "Ribs down" on anti-extension work | **Useful** — it is the position the exercise exists to hold |
+| "Brace like you are about to be punched" | **Useful** — it produces whole-wall bracing rather than hollowing (Part VI §A.5) |
+| "Push the floor away" on a plank | **Useful** — it adds serratus and turns a sag into a position |
+| "Draw the navel to the spine" | **Harmful as a loading cue.** Bracing beat hollowing for stability by 32%, and there is "no mechanical rationale" for the hollow (Grenier & McGill, 2007). It has a rehabilitation literature; it has no hypertrophy case |
+| "Squeeze at the top of a crunch" | **Situational** — harmless on light work, and it is not where the muscle is strongest (Part VI §B.3) |
+| "Suck in and hold" during heavy work | **Harmful** — it removes the pressure that stiffens the column at the moment it is needed |
+| "Feel it in the lower abs" | **Situational.** The segments are real (Part VI §A.3); the sensation is not evidence about which one is working, and no growth measurement exists at that resolution |
+| "Keep your back flat on the floor" | **Useful for beginners, limiting later** — it is a way of guaranteeing the pelvis is controlled, at the cost of most of the flexion range |
+| "More reps, feel the burn" | **Harmful** — it substitutes a sensation for a load, which is error 1 in Part VI §C.2 |
+
+---
+
+### C.5 The limiting links
+
+A core set should end because the trunk ran out. In practice it very often ends for one of these
+reasons instead:
+
+- **The [hip flexors](#psoasmajor), in every leg-raise and sit-up variant.** They are the prime movers of the movement you are performing, and the abdominal wall is working isometrically against the compression and shear they apply to the lumbar spine (Part VI §B.10). A set ended by burning at the front of the hips trained the hip flexors.
+- **The grip and the shoulders, in hanging work.** As in Part II §C.5. Straps make a hanging knee raise a trunk exercise again.
+- **The breath, in every isometric.** A plank ends when the position fails, which is often the same moment breathing does. That is a signal to shorten the lever, not to hold longer.
+- **The lower back, in flexion work with the pelvis unanchored.** If the erectors are working hard during a crunch, the pelvis is moving and the exercise has become a hip hinge.
+- **Skin, elbows and equipment.** The most common reason a plank ends is discomfort at the forearms. It is not a training variable; pad it.
+
+**None of these are character failures and none are fixed by trying harder.** They are reasons to
+distribute core volume across loaded flexion, an anti-extension exercise, a rotation exercise and an
+extension exercise, which is what Part VI §F.6 does.
+
+---
+
+### C.6 Breathing, bracing and pressure
+
+More than any other Part in this document, technique here is about **what the breath is doing**, because
+the cylinder cannot be pressurized without it.
+
+- **Bracing and breathing are not mutually exclusive**, but maximal bracing and full breathing are. Brace hard for a heavy anti-extension hold or a heavy carry; breathe and move for hypertrophy work.
+- **The [diaphragm](#diaphragm) is the lid and the [pelvic floor](#pelvicfloor) is the floor.** Both must hold for [intra-abdominal pressure](#intraabdominalpressure) to rise. This is why the pressure strategy is unavailable to someone with pelvic-floor symptoms, and why Part VI §E.2 routes them elsewhere.
+- **The pressure strategy and the co-contraction strategy are alternatives, not the same thing.** Raising pressure together with abdominal force stiffened a spine model without requiring the extra [erector spinae](#erectorspinae) co-contraction the alternative needs (Cholewicki et al., 1999) — which is the mechanical reason a braced lift feels different from a merely tense one.
+- **A belt does not change which muscle is trained.** It gives the abdominal wall something to press against, which raises achievable pressure. It changes how much load the trunk can support while it is trained, and nothing else — the same statement as Part IV §C.6.
+
+The general treatment of bracing under heavy external load lives in
+`strength-and-body-composition.md`.
+
+---
+
+### C.7 How to know it worked
+
+The set was a core set if, at the end of it:
+
+- the fatigue was in the abdominal wall or the low back muscles themselves, not the front of the hips, the grip or the shoulders;
+- the ribcage moved relative to the pelvis on flexion and rotation work, and did **not** on anti-extension work;
+- the last repetition covered the same range as the first, through the same part of the range;
+- on anti-extension work, the set ended when the position failed rather than when the clock did;
+- you could have held or moved for a little longer, but not with the spine unchanged.
+
+That last test separates **[technical failure](#technicalfailure)** — the position going first — from
+**[momentary failure](#momentaryfailure)** of the muscle. For this region the distinction matters more
+than anywhere else in this document, because the thing that fails first is usually the position, and
+the cost of continuing past it is paid by a joint rather than by a muscle.
+
+---
+## partvidexercisecatalogue
+
+**PART D — Exercise catalogue**
+
+Every entry gives its resistance profile (Part VI §B.8), the setup detail that actually matters, and the
+failure mode. **Entries are grouped by joint action**, because that — not the equipment and not the
+muscle the exercise is named after — is what decides which part of the wall is loaded (Part VI §B.1).
+
+A warning that applies to this whole Part and to no other: **no training study has measured abdominal
+or oblique hypertrophy in healthy trained adults** (Part VI §A.6). Every selection argument below is
+mechanical inference from architecture, moment arms and challenge-to-cost ratios, and is written as
+one.
+
+---
+
+### D.1 Trunk flexion — loading the wall through the middle
+
+Everything here brings the ribcage toward the pelvis against resistance. It is the only category in
+which the [rectus abdominis](#rectusabdominis) is a prime mover — and even here it supplies between a
+quarter and a half of the wall's torque capacity (Part VI §B.9).
+
+#### Cable crunch (kneeling)
+**Profile:** near-constant demand through the range — the only flexion exercise in the catalogue with
+that property. **Role:** the default loaded flexion exercise.
+
+*Setup.* Kneel facing a high pulley, rope at the head, hips fixed at roughly 90° and **held there**.
+*Execution.* Curl the ribcage toward the pelvis over 1–2 s to the middle third of the range; return
+over 2–3 s to neutral, not past it.
+*Why it works.* The cable's line stays roughly perpendicular to the torso, so demand does not collapse
+as the trunk flexes — which is exactly what a body-weight crunch fails to do (Part VI §B.8) — and the
+load is adjustable in small increments, which nothing body-weight is.
+*Failure mode.* The hips travelling backwards, which converts it into a lat pulldown with a rounded
+back. Film it from the side.
+
+#### Weighted decline sit-up
+*Profile.* Stretch-loaded, at the joint's expense.
+*Note.* It reaches more range than the cable crunch and pays for it: the deepest part of the movement
+is where the shear reverses at the lowest lumbar segment (Part VI §B.2), and the hip flexors do most of
+the work above about 30° of trunk flexion. **A reasonable exercise, a poor default**, and not one to
+take to high repetitions.
+
+#### Machine abdominal crunch
+*Profile.* Set by the cam; usually flatter than body weight and less even than a cable.
+*Role.* The most reproducible loaded flexion option and the easiest to progress in small steps. Its
+limit is that most machines fix the hips and the pelvis for you, which is convenient and also removes
+the thing Part VI §C.3 asks you to control.
+
+#### Reverse crunch on a 30° incline
+*Profile.* Mid-range-loaded; the pelvis moves toward the ribcage rather than the reverse.
+*Evidence note.* Among the highest for upper and lower rectus abdominis and internal oblique activity
+of the exercises tested — and also among the highest for [rectus femoris](#rectusfemoris), which its
+authors flag as a problem for some people with low back trouble (Escamilla et al., 2006). **Acute
+[EMG](#emg), twenty-one participants, and Part VI §B.11 applies.**
+*Role.* A genuine flexion exercise whose load is your own pelvis and legs, so the only progression is
+the incline.
+
+#### Hanging knee raise (strict)
+*Profile.* Mid-range; **mostly a hip flexor exercise below about 60° of hip flexion**, and a trunk
+flexion exercise only once the pelvis begins to tilt.
+*Setup.* Straps, so the grip does not end the set (Part VI §C.5). Start from a dead hang with the ribs
+down.
+*Execution.* The repetition that counts begins where the **pelvis** starts to curl toward the ribs.
+Knees reaching hip height is the hip's contribution and is not the exercise.
+*Failure mode.* Swinging, and calling the leg travel the range.
+
+#### Jefferson curl and other deliberately loaded spinal flexion
+*Profile.* **Stretch-loaded at the spine**, and the only entry in this Part that deliberately takes the
+lumbar spine to end range under an external load. Demand peaks with the torso near horizontal.
+*Reality.* This is the exercise Part VI §B.5's cost argument is really about. It buys spinal flexion
+range under load, at the point where the extensors have gone electrically silent —
+[flexion relaxation](#flexionrelaxation) — and the moment is carried by the posterior annulus and the
+ligaments (Colloca & Hinrichs, 2005), which is the tissue that failed in the repeated-flexion model
+(Callaghan & McGill, 2001). **No training study has measured either its benefits or its harms**
+[consensus — no single source].
+*Verdict.* **Not a hypertrophy exercise for this region** on any of Part VI §B.12's criteria: demand
+peaks where the wall is not the mover and where the joint cost is highest, and the loads that make it a
+range exercise are far below the loads that would make it a growth stimulus. If you want it for range
+or for confidence in a flexed position, that is a different goal with a different justification, at
+very light loads and low volume.
+
+#### Body-weight crunch and floor sit-up
+*Profile.* **Descending, steeply.** Demand is highest with the torso flat and is largely gone by 30° of
+trunk flexion (Part VI §B.8).
+*Reality.* The partial curl-up scored among the best **challenge-to-compression ratios** of twelve
+abdominal exercises (Axler & McGill, 1997), which is a real virtue and a different claim from being a
+good hypertrophy exercise. It loads the position the muscle is weakest in and unloads the position it
+is strongest in, and it cannot be progressed except by adding repetitions. **Keep it as a warm-up or a
+no-equipment option; do not build the category on it.**
+
+---
+
+### D.2 Anti-extension — the isometric category
+
+Everything here resists the spine being extended by a load or a lever. Nothing in this category moves
+through a range, so by Part VI §B.4 it is a **narrower** hypertrophy stimulus than the loaded
+categories rather than an absent one — with one exception, which is the first entry.
+
+#### Ab wheel rollout (from the knees)
+**Profile:** stretch-loaded anti-extension, and the highest-demand exercise in the catalogue.
+*Setup.* Knees padded, ribs down, pelvis level. Roll out only as far as that relationship holds.
+*Why it is the exception.* Unlike a plank, the wheel **moves through a range under increasing load** —
+the demand rises continuously as the lever lengthens — so it is the one anti-extension exercise that
+looks like a hypertrophy stimulus rather than a hold. Its activity was among the highest measured for
+every abdominal muscle tested (Escamilla et al., 2006), with the same extraneous-muscle caveat as the
+rest of that study.
+*Failure mode.* The lower back arching, which is the exercise ending, not a rep. Progress by rolling
+further, then from standing — never by adding repetitions to a range you cannot hold.
+
+#### Front plank
+*Profile.* Isometric; demand set by lever length, never by time.
+*Role.* A position test and a beginner's entry point. **Progress it by lengthening the lever or adding
+load, not by adding minutes** — a three-minute plank trains a three-minute plank.
+*Note.* It appears in every programme and is the weakest hypertrophy exercise in this Part, for the
+reason in Part VI §B.4.
+
+#### Dead bug (supine)
+*Profile.* Isometric anti-extension with a moving limb.
+*Role.* The exercise that prerequisite 2 in Part VI §C.3 turns into. Useful for learning the position
+and for people who cannot yet hold it under any load; a maintenance exercise thereafter.
+
+#### Bird dog (quadruped)
+*Profile.* Isometric anti-extension and anti-rotation together.
+*Note.* Among the low-compression stabilization exercises quantified for tissue load and stability
+(Kavcic et al., 2004). A reasonable warm-up; a poor growth stimulus, and not a substitute for
+Part VI §D.5.
+
+#### Hollow-body hold, and the dragon flag it progresses into
+*Profile.* Isometric anti-extension with the longest lever available at body weight, and the one
+body-weight progression in this category that does not run out.
+*Setup.* Supine, lower back pressed flat, arms and legs extended and lifted just clear of the floor.
+The lever is set by how straight the limbs are.
+*Progression.* Tuck → one leg extended → both legs extended → arms overhead → the whole body pivoting
+about the shoulders, which is the dragon flag. Each step is a longer lever at the same body weight,
+which is the only progression an unloaded anti-extension exercise has (Part VI §F.5).
+*Why it is here.* It is the answer to Part VI §E.3's floor-only reader, who otherwise has nothing to
+progress into. **Interpretive caution:** like everything in this category it holds the wall near a
+neutral-spine length, which Part VI §B.3 puts past the [rectus abdominis](#rectusabdominis)'s optimum,
+and no study has measured hypertrophy from any of it [consensus — no single source].
+*Failure mode.* The lower back leaving the floor, which is the set ending.
+
+#### Overhead loaded carry
+*Profile.* Isometric, and the demand rises with how far overhead the load sits (Part VI §B.10).
+*Role.* An honest anti-extension progression with a real load ceiling, and the only one in this
+category that scales indefinitely.
+
+---
+
+### D.3 Rotation and anti-rotation — the largest muscle of the wall
+
+**This is the category most programmes are missing, and the one with the strongest mechanical case for
+including it.** The obliques are the trunk's rotators — the lumbar back muscles supply about 5% of
+axial torque and "none of them can be considered a rotator" (Macintosh et al., 1993a) — and the
+[internal oblique](#internaloblique) is the largest muscle of the abdominal wall by
+[PCSA](#pcsa) (Part VI §A.4). Nothing in Part VI §D.1 or §D.2 loads it in the action it is built for.
+
+#### Cable woodchop (high to low, and low to high)
+**Profile:** mid-range-loaded rotation.
+*Setup.* Feet planted, hips square, arms long. Rotate through the **ribcage**; the arms are a lever, not
+the movement.
+*Why it works.* It is the only loaded, progressive, full-range rotation exercise in common use, and
+rotation is the action that pairs the external oblique of one side with the internal oblique of the
+other (Part VI §A.2) — so a single set trains both layers on both sides across two repetitions.
+*Failure mode.* Turning it into an arm exercise, and rotating from the lumbar segments rather than the
+thorax.
+
+#### Pallof press (half-kneeling)
+*Profile.* Anti-rotation, demand rising as the arms extend.
+*Role.* The isometric counterpart. Half-kneeling removes the hips from the equation and makes the
+trunk do the work. Progress by moving further from the stack or extending further, not by holding
+longer.
+
+#### Landmine rotation
+*Profile.* Mid-range rotation with a fixed arc and a real load ceiling.
+*Role.* The heaviest rotation option most gyms allow. Keep the range in the middle third; the ends are
+where the lumbar segments get asked for rotation they do not have.
+
+#### Rotary torso machine (seated, pelvis restrained)
+*Profile.* Cam-dependent, usually mid-range-loaded, and the only loaded rotation option in which the
+pelvis is fixed for you.
+*Role.* The most reproducible rotation exercise and the easiest to progress in small increments —
+exactly what the woodchop is not. Its limit mirrors the machine crunch's: restraining the pelvis
+removes the thing Part VI §C.3 asks you to control, and some machines rotate the pelvis rather than the
+thorax, which asks the lumbar segments for rotation they do not have.
+*Failure mode.* Loading the end of the machine's arc because the machine allows it.
+
+#### Cable or band anti-rotation hold
+*Profile.* Isometric.
+*Role.* The entry-level version, and where the category starts if the position in Part VI §C.3 is not
+yet solid.
+
+---
+
+### D.4 Lateral flexion — the quadratus lumborum slot
+
+Small category, cheap to cover, and almost always absent.
+
+#### Suitcase carry (one side)
+**Profile:** isometric lateral flexion, loadable without limit.
+*Role.* The best exercise in this category and one of the few in Part VI whose load can be progressed
+like any other lift. Walk with a heavy weight in one hand, ribs down, shoulders level, without leaning
+away from it.
+*Failure mode.* The grip (Part VI §C.5). Straps are legitimate.
+
+#### Side plank (elbow)
+*Profile.* Isometric.
+*Note.* Quantified for tissue load and stability alongside the other stabilization exercises
+(Kavcic et al., 2004), and it appears in the top tier for gluteus medius force in Part IV §D.4 as well
+— which makes it the most efficient body-weight exercise across two Parts of this document.
+
+#### Loaded side bend
+*Profile.* Mid-range-loaded lateral flexion, through a range.
+*Role.* The only exercise here that moves through a range under load, so by Part VI §B.4 it is the only
+one with a hypertrophy argument. Keep the range moderate and the load moderate; the same shear
+considerations as Part VI §B.2 apply off the midline.
+
+---
+
+### D.5 Trunk extension — the group with the most muscle behind it
+
+The [multifidus](#multifidus) alone has more [PCSA](#pcsa) than the entire abdominal wall
+(Part VI §A.4), and it is trained by almost nobody deliberately. This slot overlaps Part IV §D.2, and
+that overlap is the point: it is the most efficient slot in the document.
+
+#### 45° back extension, loaded
+**Profile:** mid-range-loaded, near-symmetric, holding about 70% of peak demand at both ends
+(Part IV §B.8).
+*Setup.* Pad below the anterior superior iliac spines. Hold a plate at the chest.
+*Execution.* Rise to torso in line with the legs; **not past it**. Lower under control.
+*Why it is here.* It loads spinal extension through a range, it can be progressed by load, and it does
+it with no axial load on a standing spine.
+*Note.* It is simultaneously a gluteal and hamstring exercise (Part IV §D.2). One exercise, two Parts.
+
+#### Reverse hyperextension (machine)
+*Profile.* Machine-dependent.
+*Role.* A low-cost extension option with the trunk fixed and the legs moving. As in Part IV §D.2, no
+training study has measured hypertrophy from it [consensus — no single source].
+
+#### Isolated lumbar extension machine
+*Profile.* Cam-dependent; the pelvis is restrained so the lumbar spine does the movement.
+*Evidence note.* This is the one core exercise with a genuine outcome literature, and it is a clinical
+one: isolated lumbar extension resistance training has been reviewed for chronic low back pain, where
+it improves strength and symptoms (Steele et al., 2015). **Moderate evidence**, in a clinical
+population, for pain and strength rather than for size — see Part VI §E.4.
+*Role.* If your gym has one, it is the most direct extension exercise available. Most do not.
+
+#### Loaded good morning and Romanian deadlift
+*Profile.* Stretch-loaded, spinally expensive.
+*Reality.* These load the extensors isometrically against a hip movement, which is a different demand
+from moving the spine. Part IV §D.2 treats them as hip exercises, and that is what they are. **They
+count toward this slot only partially**, and they carry the largest compression bill in the document.
+
+---
+
+### D.5a Six more exercises, assessed on the same geometry
+
+Each is common enough that a reader will ask, and each has a profile derivable from Part VI §B.8.
+
+| Exercise | Where demand peaks | Profile | Verdict |
+|---|---|---|---|
+| Hanging straight-leg raise, toes-to-bar | Trunk at the top as the pelvis curls; hip with the thighs horizontal | Ascending for the trunk, mid-range for the hip | **A harder hanging knee raise, not a different exercise.** The longer lever raises the demand and [psoas major](#psoasmajor)'s bill on the lumbar spine together (Part VI §A.10) |
+| Dragon flag | Body horizontal, furthest from the shoulders | Mid-range anti-extension, eccentric-dominant | Very high demand, no load ceiling below body weight, and no regression except bending the knees. An advanced substitute for the ab wheel |
+| Body saw, stir-the-pot | Arms furthest overhead | Rising-load anti-extension | **The ab wheel's regression**, and the one that scales in small steps. Quantified for tissue load alongside the other stabilization exercises (Kavcic et al., 2004) |
+| GHD or Roman-chair sit-up | Torso through horizontal, with the range below horizontal adding demand and spinal cost together | Mid-range, extended below horizontal | **The highest-cost exercise in the flexion category** — end-range extension *and* end-range flexion in one repetition, on a hip-flexor-driven movement. Not a default |
+| Medicine-ball rotational throw | Mid-rotation, demand set by acceleration rather than weight | Ballistic mid-range rotation | The loaded-at-speed rotation Part VI §E.5 asks for and never names. **Every torque figure in this document is quasi-static** (Part I §2), so its demand is not comparable with the rest of the catalogue |
+| Suitcase deadlift | Off the floor | Stretch-loaded anti-lateral-flexion | The suitcase carry's heavy cousin, and the only lateral-flexion exercise that **loads** the position rather than holding it |
+
+---
+
+### D.6 Exercises that are not core exercises
+
+| Exercise | Why people believe it is | Reality |
+|---|---|---|
+| Straight-leg raise from the floor | It burns in the abdomen | A [psoas major](#psoasmajor) exercise. The abdominal wall works isometrically against the compression and shear psoas applies to the lumbar spine (Part VI §B.10) |
+| Russian twist with a weight | It is rotation | Mostly arm swing around a fixed trunk. If the ribcage is not rotating relative to the pelvis, the obliques are not the movers |
+| Sit-up test performed for time | It measures the core | It measures hip flexor endurance and pain tolerance |
+| Electrical stimulation belts and pads | Passive "activation" | **Not loading, and it has been measured.** Twelve weeks of 20 Hz stimulation — sixty sessions, five days a week — in collegiate track and field athletes changed **neither rectus abdominis nor oblique cross-sectional area on MRI**, and did not change subcutaneous fat thickness (Wakahara & Shiraogawa, 2019) |
+| Crunches for fat loss | Spot reduction | **Not supported.** Same trial, same result |
+| "Stability" work on unstable surfaces | Harder is better | It lowers the load the prime movers can handle in exchange for balance demand. The review of it concludes that unstable devices "are not recommended as the primary exercises for hypertrophy, absolute strength, or power, especially in trained athletes" (Behm et al., 2010). Fine as variety, poor as a growth stimulus |
+| Heavy squats and deadlifts as "all the core work you need" | The trunk is braced hard | They load the extensors **isometrically** and train rotation and flexion not at all. They are a real part of the extension slot and none of the other three (Part VI §D.7) |
+| Breathing drills alone | The diaphragm is a core muscle | It is, and it is a prerequisite rather than a target (Part VI §A.8) |
+
+**On the last row of that table, because it is the most consequential.** "Squats and deadlifts train
+your core" is half true in a way that misleads: they load spinal **extension** isometrically and under
+very large compression, and they supply essentially nothing for flexion, rotation or lateral flexion.
+A programme built on them has one of the four actions covered.
+
+---
+
+### D.7 Selection rules
+
+1. **Pick one loaded flexion exercise.** Cable crunch, machine crunch or weighted decline sit-up. It must be loadable in small increments, because repetitions are not a progression here (Part VI §C.2, error 1).
+2. **Pick one rotation or anti-rotation exercise.** This is the only slot that loads the wall's largest muscle in its own action (Part VI §B.9), and it is the one most often missing.
+3. **Pick one extension exercise.** The group behind you has more cross-section than the whole abdominal wall (Part VI §A.4). A loaded 45° back extension covers this slot and a gluteal slot at once (Part IV §D.2).
+4. **Add one anti-extension exercise,** and make it the ab wheel if you can hold the position — it is the only one in that category that moves through a range under rising load (Part VI §D.2).
+5. **Add lateral flexion if there is room.** A suitcase carry costs one set and covers it.
+6. **Do not count heavy compound lifting as core training beyond the extension slot** (Part VI §D.6).
+7. **Choose within a category by challenge-to-compression, not by activation** (Axler & McGill, 1997; Part VI §B.11), and by whether the exercise can be loaded at all.
+
+---
+## partviecontextmodifiers
+
+**PART E — Context modifiers: when "perfect" changes**
+
+Part VI §C gives the default for hypertrophy in a healthy trained adult. This Part lists every context
+that changes it, and what it changes it to. Find the rows that describe you; they compose.
+
+---
+
+### E.1 Goal contexts
+
+| Context | What changes | Why |
+|---|---|---|
+| Hypertrophy only | The default in Part VI §C, unchanged | — |
+| Hypertrophy on limited time | One loaded flexion exercise and one rotation exercise. **Drop the plank first** | A single-angle isometric under a body-weight-capped load is the narrowest stimulus in the Part (Part VI §B.4) |
+| Visible abdominal definition | **This is not a training variable.** Body composition is; the muscle underneath is trained as above | Six weeks of abdominal exercise changed no measure of abdominal fat (Vispute et al., 2011). Detail in `strength-and-body-composition.md` |
+| Trunk strength for carrying and bracing | Isometric anti-movement work, loaded, becomes the priority | Different goal, and the one the function literature actually supports (Part VI §B.4) |
+| Sport performance | Keep the region trained; **do not expect the transfer** | In trained individuals trunk strength correlated with performance at −0.05 ≤ r ≤ 0.18, and core training produced large trunk-strength gains with small-to-medium performance changes (Prieske et al., 2016) |
+| Back-pain management | Governed by Part VI §E.4, not by this table | Different problem, different rules |
+| Powerlifting or weightlifting | The competition lifts cover extension isometrically; add flexion and rotation deliberately | They train one of the four actions (Part VI §D.6) |
+| Fat-loss phase | Volume held, load held; expect maintenance | As every other Part |
+
+---
+
+### E.2 Body contexts
+
+| Context | What changes | Why |
+|---|---|---|
+| Long torso | Longer levers in every isometric, so the same plank is harder; loaded work is unaffected | Demand scales with d⊥ (Part VI §B.8) |
+| Cannot separate ribcage from pelvis | Start at Part VI §C.3, not at an exercise | Every flexion exercise becomes a hip exercise until this is available |
+| [Diastasis recti](#diastasisrecti) — a palpable midline gap, most often postpartum | **Professional assessment first.** Loaded flexion and any exercise that domes the midline are commonly deferred; loaded anti-extension and carries are commonly kept | The [linea alba](#lineaalba) is the seam all four sheets converge on (Part VI §A.5) |
+| Any pelvic-floor symptom | Assessment first, and the pressure strategy in Part VI §C.6 is **not** available until it is resolved | Intra-abdominal pressure requires an intact floor (Part VI §A.8) |
+| Pregnancy | Outside the scope of this document | — |
+| Untrained | Almost anything works; establish position before load | The prerequisites in Part VI §C.3 are the programme for the first weeks |
+| Well trained | Expect small changes and **no published expectation to compare against** | No trial has measured abdominal hypertrophy in this population (Part VI §A.6) |
+| Female | **No change to the mechanics or the prescription** | The one relevant measured difference is that trunk muscle moment arms are larger in males than females at most spinal levels (Jorgensen et al., 2001), which changes modelled spinal loads and not the exercise selection |
+| Male | No change | As above |
+| Older adults | Same four actions, more attention to the position and less to end-range flexion | General case in `strength-and-body-composition.md` |
+| History of disc injury | Part VI §E.4, and an assessment | Not a programming decision |
+| Large abdominal circumference | Loaded flexion through a cable rather than body-weight flexion | Body-weight demand scales with the mass you are lifting, and the lever is fixed |
+
+---
+
+### E.3 Equipment contexts
+
+| Context | Prescription | Note |
+|---|---|---|
+| Full gym | Cable crunch, cable woodchop, loaded 45° back extension, ab wheel, suitcase carry | The default; every slot loadable in small increments |
+| Cables only | Cable crunch, woodchop, Pallof press, standing lateral flexion | The best single piece of equipment for this Part |
+| Barbell and rack only | Loaded good morning for extension, landmine rotation, weighted decline sit-up, suitcase carry with a plate | Workable; the flexion slot is the weak one |
+| Dumbbells only | Weighted decline sit-up, loaded side bend, suitcase carry, dumbbell woodchop | Rotation is the slot that suffers |
+| Machines only | Machine crunch, isolated lumbar extension if available, rotary torso machine | Well served, unusually |
+| Home, no equipment | Ab wheel, side plank, bird dog, body-weight crunch, and a loaded backpack for carries | **The ab wheel is the highest-value cheap purchase in this document** — it is the only anti-extension exercise that moves through a range under rising load |
+| Bands only | Adequate for anti-rotation, poor for loaded flexion | Band tension is lowest where the flexion demand should be highest |
+| Nothing but a floor | Body-weight flexion and isometrics, and accept the ceiling | Progression runs out within weeks; Part VI §C.2 error 1 applies |
+
+---
+
+### E.4 Pain and pathology contexts
+
+**Nothing in this section is medical advice, and none of it substitutes for assessment.** It lists what
+the evidence says and what is commonly modified, so that a conversation with a clinician starts further
+along.
+
+> **Red flags — stop training and get assessed.** These are reasons to see a clinician before the next
+> session, not reasons to modify an exercise. None is common, and the point of listing them is that a
+> training document must not absorb them into a programming decision.
+>
+> - **Any change in bladder or bowel control, or numbness in the saddle area** — this one is an emergency, not an appointment.
+> - **Progressive weakness in a leg or foot**, as distinct from pain.
+> - **Pain radiating below the knee**, or new numbness in a band down the leg.
+> - **Pain after a fall or collision** — or after minor trauma, in someone with low bone density or on long-term corticosteroids.
+> - **Unexplained weight loss, fever or night sweats, or a history of cancer.**
+> - **Unrelenting night pain** not relieved by any position.
+> - **A first significant episode before about 20 or after about 55.**
+>
+> **Interpretive caution:** taken individually most of these have poor diagnostic accuracy. A systematic
+> review found only a few that substantially raise the probability of serious pathology — a history of
+> malignancy for cancer, and older age with prolonged corticosteroid use or significant trauma for
+> fracture (Downie et al., 2013). They are a threshold for asking, not a diagnosis.
+
+**The headline, and it is unusually well established.** Exercise works for chronic low back pain, and
+it works about as well as the other conservative things you might do instead. Pooling **249 randomized
+trials**, exercise beat no treatment, usual care or placebo for pain by a clinically important margin
+(MD −15.2, 95% CI −18.3 to −12.2 on a 0–100 scale) at earliest follow-up, with **moderate-certainty
+evidence**. For functional limitations the effect was real but **did not reach the threshold the
+reviewers had prespecified as clinically important** (MD −6.8, 95% CI −8.3 to −5.3). Against other
+conservative treatments the advantage was small and not clinically important, and there was **no
+difference from manual therapy** (Hayden et al., 2021).
+
+**Which kind of exercise, and the answer is less specific than the industry implies.** A network
+meta-analysis of 89 trials in 5,578 patients ranked Pilates highest for pain (standardized mean
+difference −1.86), resistance training and stabilization/motor-control training highest for physical
+function (−1.14 and −1.13), and resistance and aerobic training highest for mental health
+(Owen et al., 2020). Stretching and McKenzie exercise did not differ from control for pain or function.
+**Low-quality evidence** by the authors' own grading. **A note on the record, because this document
+records such things:** an expression of concern was issued against that paper in 2020 and then
+**rescinded by the journal**, which stated that the analysis required no changes and that the editors
+had full confidence in it. The paper stands, and this is the correct account of it.
+
+| Context | Common modification | Evidence note |
+|---|---|---|
+| [Chronic non-specific low back pain](#lowbackpain) | Load something, and prefer the kind you will keep doing | Exercise beats no exercise; the specific mode matters less than the reviews' rankings suggest (Hayden et al., 2021) |
+| The same, with weak extensors | Loaded lumbar extension is a defensible priority | Isolated lumbar extension resistance training improves strength and symptoms in this population (Steele et al., 2015). **Moderate evidence** |
+| Pain that radiates below the knee, or any neurological symptom | **Stop. Assessment before any loading decision** | Not a training problem |
+| Pain reproduced reliably by loaded flexion | Move the flexion slot to the middle third, or to isometrics, and keep the other three slots | The shear reversal at L5/S1 is a mechanism, not a diagnosis (Part VI §B.2) |
+| Pain reproduced by extension | Reduce the extension range; keep the load | The mirror of the row above |
+| Morning pain and stiffness after a night's sleep | Commonly modified by deferring loaded flexion to later in the day | Mechanistic reasoning only; **evidence remains limited and inconsistent** |
+| After a disc injury | Governed by the clinician and the stage; loaded flexion is usually the last thing restored | Not a programming decision |
+| [Diastasis recti](#diastasisrecti) | Part VI §E.2 | — |
+| Uncontrolled hypertension, known cardiac disease, or a recent eye or abdominal procedure | **Do not use the closed-glottis bracing strategy.** Exhale through the shortening phase of every set, keep anti-movement work at a lever you can breathe through (Part VI §C.3, prerequisite 3), and drop the heaviest carries | Bracing against a closed glottis produces the largest acute blood-pressure excursions in resistance training; the general case and its sourcing are in `strength-and-body-composition.md` |
+
+**Why the extension slot matters after an episode, and it is not the reason usually given.**
+Thirty-nine patients with acute, first-episode, unilateral low back pain were randomized to medical
+treatment alone or medical treatment plus localized exercise, with blinded assessors measuring
+[multifidus](#multifidus) cross-sectional area. **Symptoms resolved in both groups; muscle size did
+not** — the medical-treatment group still had a smaller multifidus at ten weeks despite resuming normal
+activity, while the exercise group's recovered faster and more completely (Hides et al., 1996).
+**Moderate evidence** — one trial, thirty-nine patients, ultrasound. Two readings, and this Part takes
+both: it is direct evidence that the small muscle of a painful back is a **consequence** as much as a
+cause, and it is the reason "the pain went away" is not a reason to skip the extension slot.
+
+**The two claims this section explicitly declines to make.**
+
+1. **"A weak core causes back pain."** **Not supported** as a general statement. Trunk strength and back pain are related in cross-section, treatment that strengthens the trunk helps, and neither of those establishes the direction — the muscles of a painful back are also a *consequence* of the pain and of not moving.
+2. **"Core stability training is superior to other exercise for back pain."** **Not supported.** Stabilization/motor-control training ranks well for function (Owen et al., 2020), and it does not clearly beat resistance training, Pilates or aerobic exercise, and general exercise does not clearly beat manual therapy (Hayden et al., 2021). What the evidence supports is *doing something*, progressively, for long enough.
+
+**On the crunch question, stated once and properly.** Repetitive lumbar flexion under compression
+herniated porcine spinal segments in vitro over tens of thousands of cycles, and more compression made
+it worse (Callaghan & McGill, 2001). That is a mechanism and it is real. It is also pig cervical
+spines, in vitro, cycled 86,400 times without recovery or muscular control, and the argument from it to
+"never flex your spine under load" has been examined critically and found to overreach
+(Contreras & Schoenfeld, 2011). **Contested**, and Part VI's position is the one in Part VI §B.5:
+spinal flexion under load is a cost worth paying in the middle of the range, at moderate volume, on a
+small number of exercises, and not worth paying for hundreds of daily repetitions of an exercise that
+was barely loaded anyway.
+
+---
+
+### E.5 Sport contexts
+
+**This table is coaching synthesis, not evidence** [consensus — no single source], and it is written
+against a finding that should temper all of it: trunk strength explains very little of athletic
+performance in trained individuals (Prieske et al., 2016).
+
+| Sport | Modification | Reason |
+|---|---|---|
+| Rotational sports — throwing, striking, racket, golf | The rotation slot carries the most volume, loaded and at speed as a separate quality | It is the sport's own action, and the obliques are its movers (Macintosh et al., 1993a) |
+| Powerlifting | Extension is covered by the lifts; add flexion and rotation | Part VI §D.6 |
+| Weightlifting | As above, plus overhead carries for the anti-extension slot | The receiving position is an anti-extension task under load |
+| Combat sports | All four actions; manage total volume against the sport's own trunk work | The sport already supplies a great deal |
+| Distance running and cycling | Modest volume, all four actions | No specific case beyond the general one |
+| Gymnastics and calisthenics | The sport supplies anti-extension in volume; loaded flexion and rotation are the gaps | The opposite gap from most programmes |
+| Field sports with cutting | Anti-rotation and lateral flexion are the slots to keep | Change of direction is a frontal- and transverse-plane trunk task |
+| Physique competition | All four, with the flexion slot loaded and progressed like any other lift | Visibility is a body-composition outcome (Part VI §E.1) |
+
+---
+
+### E.6 Session and cycle contexts
+
+| Context | What changes |
+|---|---|
+| Core first in the session | Reasonable when it is the priority. It will reduce what you can brace against later that day |
+| Core after heavy squatting or deadlifting | The extension slot is already spent; use flexion and rotation |
+| Core at the end of every session | The default, and the reason most people's core work is untracked and unprogressed |
+| Two core sessions per week | Split by action: flexion and rotation in one, extension and anti-extension in the other |
+| Three or more per week | The region tolerates this better than the limb muscles (Part VI §A.7) — rotate the four actions rather than repeating one |
+| Late in a training block | Position degrades before strength does; audit the ribs-versus-pelvis relationship on video |
+| [Deload](#deload) week | Hold the positions and the range, cut the load and the sets |
+| Returning from back pain | Rebuild position and isometrics before loaded flexion; Part VI §E.4 |
+| In a caloric deficit | Hold [hard sets](#hardset) and load; the appearance change you are chasing is coming from the deficit, not from the sets |
+
+---
+
+### E.7 The context decision table
+
+The fastest route to a prescription: read down until you find the first row that is true of you, apply
+it, then continue.
+
+| If this is true | Then |
+|---|---|
+| You have pain radiating below the knee, or any neurological symptom | Stop here. Part VI §E.4, and get assessed |
+| You have a palpable midline gap, or any pelvic-floor symptom | Stop here. Part VI §E.2, and get assessed |
+| You cannot separate your ribcage from your pelvis | That is the programme for now. Part VI §C.3 |
+| You are doing abdominal work to reveal abdominal muscle | It will not. Part VI §E.1, and `strength-and-body-composition.md` |
+| Your core work is only planks | Add a loaded flexion exercise. A single-angle isometric is the narrowest stimulus here (Part VI §B.4) |
+| Your core work is only flexion | Add rotation. It is the wall's largest muscle (Part VI §B.9) |
+| You have never trained extension deliberately | Add it. That group has more cross-section than the whole abdominal wall (Part VI §A.4) |
+| You count reps and never add load | That is not progression. Part VI §C.2, error 1 |
+| You believe heavy squats cover it | They cover one of four actions (Part VI §D.6) |
+| None of the above | You are on the default. Progress it (Part VI §F.5) |
+
+---
+## partvifprogramming
+
+**PART F — Programming**
+
+Nothing here is core-specific except where stated; the general dose–response evidence lives in
+`strength-and-body-composition.md` and is summarized rather than re-derived. **The gap between what is
+known generally and what is known about this region is the widest in the document** — there is no
+hypertrophy trial at all (Part VI §A.6) — and every table below says which is which.
+
+### F.1 Volume
+
+Counted as [hard sets](#hardset) per week that load each **action** directly.
+
+| Training age | Flexion | Rotation | Extension | Anti-extension / lateral | Note |
+|---|---|---|---|---|---|
+| Beginner | 3–5 | 2–3 | 3–5 | 2–3 | Position before load |
+| Intermediate | 5–9 | 3–6 | 5–9 | 3–5 | The productive middle for most people |
+| Advanced | 6–12 | 4–8 | 6–12 | 3–6 | The extension slot may be partly covered by hip work |
+| Maintenance or deficit | 3–4 | 2 | 3–4 | 2 | Hold load, cut sets |
+
+**These bands are transferred from the general dose–response literature and are not derived from core
+data**, because no dose–response study exists for this region. They are set **deliberately lower than
+the corresponding bands in Parts IV and V** for one reason that *is* core-specific: **every set here
+carries a spinal load** (Part VI §B.5), and the structure paying that bill does not adapt the way muscle
+does. This is the only Part in this document where the volume ceiling is set by something other than
+recovery of the target muscle.
+
+**The arithmetic, so the claim can be checked.** Summed across all four actions, the advanced row here
+runs **19–38 weekly sets**, against Part V's 24–48 for three deltoid directions and Part IV's 18–30 for
+the gluteal extensor and abductor columns. An earlier version of this table asserted the same rationale
+while carrying the **highest** totals in the document, which is the error this note exists to prevent
+recurring.
+
+**Four counting rules specific to this region:**
+
+- **The four actions do not substitute for each other.** Twenty sets of flexion and none of rotation is twenty sets of one action, not twenty core sets. This is the same rule as Part IV §F.1's abduction column and Part V §F.1's three directions, and it applies here to four columns.
+- **An isometric hold is counted as a set, and it is the weakest kind you have.** It belongs in the anti-extension column and nowhere else (Part VI §B.4).
+- **A loaded 45° back extension counts in the extension column here and in the gluteal column of Part IV §F.1 at the same time.** One set, two ledgers — and, unusually in this document, that is legitimate rather than double-counting, because it loads both.
+- **Heavy squatting and deadlifting count toward the extension column at a fraction of a set, and toward nothing else.** They load spinal extension isometrically under very large compression (Part VI §D.6). Charge the compression to the week even if you do not charge the set.
+
+---
+
+### F.2 Frequency
+
+**2–3×/week is the default, and this is the one region in the document where the higher figure is the
+easier recommendation.** These muscles have a high proportion of type I fibres and a duty cycle of
+frequent low-level activity (Part VI §A.7), and — more practically — the loads are small enough that
+systemic fatigue is not the constraint.
+
+What *is* the constraint is the spinal load, which accumulates across every session in the week
+including the ones that are not core sessions. A programme with three heavy squat or deadlift sessions
+has already spent a great deal of the week's compression budget before the first crunch.
+
+1×/week works at low volumes. 4×/week is defensible if the actions are rotated and the loads are
+moderate. Distributing the four actions across sessions beats repeating one.
+
+---
+
+### F.3 Load and rep range
+
+The general finding is in Part II §F.3: roughly 5–30 repetitions produces similar hypertrophy if sets
+are taken close to failure. Two considerations specific to this region shape the practical band:
+
+- **The absolute loads are small and always will be** (Part VI §A.4). A cable crunch at 30 kg is a heavy set. Judging the exercise by the number on the stack is a category error here.
+- **Very high repetitions are the region's default failure mode**, and they are the specific thing Part VI §C.2 error 1 warns against. Fifty body-weight crunches is fifty repetitions of a movement that is nearly unloaded through most of its range (Part VI §B.8).
+
+| Slot | Reps | Note |
+|---|---|---|
+| Loaded flexion, cable or machine | 8–20 | Load it; the rep range is not the problem, the load is |
+| Weighted decline sit-up | 8–15 | Above this the joint cost accumulates faster than the stimulus |
+| Rotation, loaded | 8–15 per side | Controlled; rotation is the action most easily turned into a swing |
+| Extension, loaded | 8–15 | Stop at neutral (Part VI §C.1) |
+| Anti-extension, dynamic (ab wheel) | 5–15 | The rep ends when the position does |
+| Anti-extension, isometric | 20–45 s | **Progress the lever or the load, never the clock past ~45 s** |
+| Lateral flexion carries | 20–40 m or 30–60 s | Progress the weight |
+
+**[Tempo](#tempo) matters more here than in any other Part**, for a mechanical reason rather than a
+metabolic one: a fast repetition in the flexion category is one in which the trunk's own momentum, not
+the muscle, carries it through the middle of the range — which is precisely the part the exercise
+exists to load (Part VI §B.6).
+
+---
+
+### F.4 Proximity to failure
+
+The general finding is in Part II §F.4 and holds here. There is **no core-specific test of proximity to
+failure** [consensus — no single source], and no hypertrophy trial in which to embed one.
+
+| Exercise type | Target [RIR](#rir) |
+|---|---|
+| Cable or machine flexion | 0–2 |
+| Weighted decline sit-up | 2–3; the joint cost rises faster than the stimulus near failure |
+| Loaded rotation | 1–3 |
+| Loaded extension | 1–3 |
+| Ab wheel and other dynamic anti-extension | **Position, not RIR** — the set ends when the ribs and pelvis separate |
+| Isometric holds | Position, not RIR — same rule |
+| Carries | 1–2, or the grip |
+
+**The core-specific rule that overrides the table:** in every anti-movement exercise, the set ends when
+the **position** ends, and no repetition performed after that counts as anything but spinal load. This
+is the clearest case of **[technical failure](#technicalfailure)** preceding
+**[momentary failure](#momentaryfailure)** in the document, and it is the one place where continuing
+past it has a cost beyond a wasted set.
+
+---
+
+### F.5 Progression
+
+```
+CORE PROGRESSION - DEFAULT
+  Load          2.5-5 kg increment, cable and machine flexion
+                2.5 kg increment, weighted extension and decline sit-up
+                2.5-5 kg increment, carries
+                Ab wheel: distance, then from the knees to standing
+  Tempo         1-2 s shortening / 2-3 s lengthening, held constant
+  Sets/reps     3-4 x 8-20 flexion | 3 x 8-15 rotation per side
+                3-4 x 8-15 extension | 3 x 5-15 anti-extension
+  Rest          1-2 min
+  Total         6-12 flexion, 4-8 rotation, 6-12 extension,
+                3-6 anti-extension - hard sets per week
+  Frequency     2-3x/week
+  Timeline      8-12 wks to measurable change; appearance is a
+                body-composition question, not a training one
+```
+
+The scheme is [double progression](#doubleprogression) applied to load and repetitions, as elsewhere.
+Raise weekly sets only once the session is at the top of the Part VI §F.1 band, and reassess every 8–12
+weeks.
+
+**Three rules that are different from every other Part in this document.**
+
+**Repetitions are not a progression here, and the temptation to treat them as one is stronger than
+anywhere else.** Going from 20 to 40 body-weight crunches is not progressive overload; it is twice as
+much of an unloaded movement (Part VI §B.8). If an exercise cannot take load, it has a ceiling, and the
+answer is a different exercise rather than more of it.
+
+**Isometrics progress by lever and load, never by time past about 45 seconds.** A longer plank trains a
+longer plank. This is the one place the document sets a hard cap on a variable.
+
+**Range is held fixed in the middle third while load progresses.** Not at the ends. The productive
+window is the middle (Part VI §B.6), and creeping into end-range flexion as the load rises is the one
+progression error here that has a joint cost rather than a wasted-set cost.
+
+---
+
+### F.6 Session templates
+
+Every template covers all four actions across the week, for the reason in Part VI §D.7.
+
+```
+TEMPLATE A - TWO SESSIONS, INTERMEDIATE, ~19 SETS/WEEK
+  Session 1     Cable crunch            4 x 10-15  @ 0-2 RIR
+                Cable woodchop          3 x 10-12  each side
+                Ab wheel rollout        3 x 6-12   position-limited
+  Session 2     Loaded 45 deg back ext  4 x 10-15  @ 1-2 RIR
+                Pallof press            3 x 30-45 s each side
+                Suitcase carry          2 x 30 m   each side
+```
+
+```
+TEMPLATE B - ONE SESSION, TIME-LIMITED, ~10 SETS/WEEK
+  Session 1     Cable crunch            4 x 10-15  @ 0-2 RIR
+                Cable woodchop          3 x 10-12  each side
+                Loaded 45 deg back ext  3 x 10-15  @ 1-2 RIR
+```
+
+```
+TEMPLATE C - ALREADY SQUATTING AND DEADLIFTING HEAVILY, ~14 SETS/WEEK
+  Session 1     Cable crunch            4 x 10-15  @ 0-2 RIR
+                Landmine rotation       3 x 10-12  each side
+  Session 2     Machine crunch          4 x 12-20  @ 0-2 RIR
+                Pallof press            3 x 30-45 s each side
+                (the extension slot is partly covered by the barbell work;
+                 the compression bill is already large - see section F.1)
+```
+
+```
+TEMPLATE D - HOME, AB WHEEL AND A LOADED BACKPACK, ~19 SETS/WEEK
+  Session 1     Ab wheel rollout        4 x 6-12   position-limited
+                Side plank              3 x 30-45 s each side
+                Loaded backpack carry   2 x 40 m   one side at a time
+  Session 2     Ab wheel rollout        4 x 6-12   position-limited
+                Bird dog                3 x 8-10   each side
+                Reverse crunch, incline 3 x 12-20
+```
+
+```
+TEMPLATE E - ROTATIONAL SPORT, ~20 SETS/WEEK
+  Session 1     Cable woodchop          4 x 10-12  each side
+                Cable crunch            3 x 10-15  @ 0-2 RIR
+                Loaded 45 deg back ext  3 x 10-15  @ 1-2 RIR
+  Session 2     Landmine rotation       4 x 10-12  each side
+                Pallof press            3 x 30-45 s each side
+                Suitcase carry          3 x 30 m   each side
+```
+
+---
+
+### F.7 Timeline, measurement and expectations
+
+| Horizon | What to expect |
+|---|---|
+| Weeks 1–3 | Position and control improve quickly; load rises fast on the cable exercises. Size does not change |
+| Weeks 4–8 | Strength and load still climbing. **No published expectation exists for size in this region** (Part VI §A.6) |
+| Weeks 8–12 | The window in which change would be detectable elsewhere in this document. Here, nobody has looked |
+| Months 6–12 | Coverage differences show up as strength differences between the four actions, which is the only thing you can actually track |
+| Years | The extension slot is the one that keeps paying, and the one most people never started |
+
+**How to measure, and what not to trust.**
+
+- **Waist circumference is not a core measurement.** It is dominated by fat mass and by what you ate. It is the single most misleading number in this Part.
+- **Visible definition is a body-composition outcome**, established negatively: six weeks of abdominal training changed no measure of abdominal fat, circumference or skinfold (Vispute et al., 2011).
+- **Ultrasound thickness of the individual wall layers is measurable and is used constantly in rehabilitation research** — almost always as an acute activation index rather than as a growth outcome, and the general caveat in Part V §F.7 about ultrasound thickness against MRI applies here with no validation study of its own (Balshaw et al., 2026).
+- **What you can actually track is load at a fixed range**, in all four actions. That is a training-quality record rather than a size measurement, and in this Part it is the only honest one available.
+
+**The practical measure for this region is the logbook, not the mirror and not the tape** — which is
+the reverse of Part IV §F.7's conclusion about the glutes, and it follows from the same reasoning
+applied to a muscle whose visibility is governed by something other than its size.
+
+---
+
+## partvigsynthesis
+
+**PART G — Synthesis**
+
+### G.1 The rules that hold
+
+1. **"The core" is seven muscles crossing the lumbar spine, in two opposed groups** — and the group with more cross-section than the whole abdominal wall is the one behind you (Part VI §A.4).
+2. **The [rectus abdominis](#rectusabdominis) supplies between a quarter and a half of the wall's trunk-flexion torque capacity, and none of its rotation.** Its [PCSA](#pcsa) is the smallest of the four, but its moment arm is by far the longest — **10.28 cm against the obliques' 4–5 cm**, measured by CT (McGill et al., 1988). The muscle you can see is the smallest part of the structure and a bigger part of it than cross-section alone suggests.
+3. **It is a chain of short muscles in series**, with measurably unequal segments (Part VI §A.3) — the best anatomical case for regional training in this document, and no growth data behind it.
+4. **Leverage is roughly constant through the range**, unlike every other Part: no more than an 18% fall in extensor moment through full flexion (Macintosh et al., 1993b). What varies is the muscle's own capability and the joint's tolerance.
+5. **Both muscle groups get stronger as the spine flexes, for opposite reasons.** The abdominal wall sits on the descending limb with the spine neutral and reaches optimum in mid-flexion (Brown et al., 2011); the multifidus sits on the ascending limb and reaches its plateau in flexion (Ward et al., 2009b). **The strongest position for the muscle is the least comfortable one for the joint.**
+6. **The productive window is therefore the middle third of the range** — not the lengthened end, which is where every other Part in this document points (Part VI §B.6).
+7. **The limiting structure is the spine**, and it does not adapt on a training timescale. That is why the volume bands here are lower than anywhere else in the document (Part VI §F.1).
+8. **The obliques are the rotators.** The lumbar back muscles supply about 5% of axial torque and none of them can be considered a rotator (Macintosh et al., 1993a). Rotation is not accessory work.
+9. **Repetitions are not a progression.** Load is, and lever length is (Part VI §F.5).
+10. **A complete prescription is four actions** — loaded flexion, rotation, extension and anti-extension — because no exercise covers more than two (Part VI §D.7).
+
+---
+
+### G.2 What the evidence does **not** support
+
+| Claim | Status |
+|---|---|
+| "Abdominal exercise reduces abdominal fat" | **Not supported.** Six weeks, seven exercises, five days a week, isocaloric diet: no change in body fat, android fat, circumference or skinfolds (Vispute et al., 2011) |
+| "A strong core makes you a better athlete" | **Not supported** at the size usually claimed. In trained individuals, trunk strength correlated with performance at −0.05 ≤ r ≤ 0.18, and core training produced large trunk-strength gains with small-to-medium performance changes (Prieske et al., 2016) |
+| "A weak core causes back pain" | **Not supported** as a causal statement. The association is real and the direction is not established (Part VI §E.4) |
+| "Core stability training is the best exercise for back pain" | **Not supported.** It ranks well for function, and does not clearly beat resistance training, Pilates or aerobic exercise (Owen et al., 2020), and exercise in general does not beat manual therapy (Hayden et al., 2021) |
+| "Never flex your spine under load" | **Contested**, and overreaching. The mechanism is real — repetitive flexion under compression herniated porcine segments over 86,400 cycles (Callaghan & McGill, 2001) — and the extrapolation to a set of ten has been examined critically and found wanting (Contreras & Schoenfeld, 2011) |
+| "Squats and deadlifts are all the core work you need" | **Not supported.** They load spinal extension isometrically and supply nothing for flexion, rotation or lateral flexion — one of four actions (Part VI §D.6) |
+| "Planks build abdominal muscle" | **Evidence remains limited and inconsistent.** Isometric training does grow muscle, most reliably at long muscle lengths (Oranchuk et al., 2019), so the premise that a plank cannot work is wrong. What is true is that a plank holds one joint angle under a load capped by body weight, which is a narrow stimulus — and that no trial has tested it for this region |
+| "Hollowing is the way to brace" | **Not supported.** Bracing improved stability by 32% against the hollow, and the authors conclude there is "no mechanical rationale" for hollowing or for isolating the transversus abdominis to enhance stability (Grenier & McGill, 2007). **Caveat:** bracing bought that stability at a **15% increase in lumbar compression** |
+| "You can train the lower abs" | **Promising but under-replicated**, and the strongest regional claim in this document. The segments are anatomically real, unequal and separated by connective tissue (Brown et al., 2011), and regional development **has** been measured: rectus abdominis asymmetry in professional tennis players rose linearly from L1 to the pubic symphysis, r = 0.97 (Sanchis-Moysi et al., 2010). What is missing is any trial that manipulated exercise selection and measured segments before and after — and regional activation does not predict regional growth (Zabaleta-Korta et al., 2024) |
+| "High reps are what abs respond to" | **Not supported**, and its usual rationale is wrong. The recommendation is published — a core-training review suggests "multiple sets with high repetitions" and rests it explicitly on the region's supposed type I dominance (Behm et al., 2010) — but the abdominal wall is 55–58% type I, indistinguishable from limb muscle (Häggmark & Thorstensson, 1979), and fibre type does not predict which rep range grows a given person's muscle anyway (Part VI §A.7) |
+| "Surface EMG shows which exercise trains the transversus abdominis" | **Not supported.** It lies under two other sheets; a surface electrode cannot reach it (Part VI §B.11) |
+
+**Four open questions this document cannot close.** **No study has compared loaded flexion against
+isometric anti-extension for size**, which is the question the whole Part turns on. **No trial has
+manipulated exercise selection and measured the rectus abdominis segments before and after**, despite
+the anatomy and the tennis-player gradient making that the best regional question in this document.
+**No study has established a spinal-load dose–response for training**, so Part VI §F.1's lower volume
+bands are a judgement rather than a derivation. And **the obliques' flexion moment arms have never been
+measured the way the rectus abdominis's have** (Jorgensen et al., 2005), which is the loose input in
+Part VI §B.9. All four are answerable with existing methods.
+
+---
+
+### G.3 The one-paragraph version
+
+The core is seven muscles around the lumbar spine, and almost everything you have been told about
+training them is aimed at the smallest one. The rectus abdominis — the six-pack — has a
+force-producing cross-section of under 3 cm² and supplies somewhere between a quarter and a half of the
+wall's flexion torque and none of its rotation; the biggest muscle in that wall is the internal
+oblique, which rotates you, and the biggest
+muscle in the whole region is the multifidus behind you, which has more cross-section than the entire
+front of your abdomen. So train four things, not one: loaded flexion, rotation, extension, and
+something that resists being bent backwards. Load them, because repetitions are not progression here
+and a body-weight crunch is nearly unloaded through most of its range. Work in the **middle** of the
+range rather than at the ends — this is the one muscle group in this document where the stretched
+position is not the answer, because the wall is already past its optimum with your spine neutral and
+the joint starts charging you at the other end. Keep the volume lower than you would elsewhere, because
+the bill is paid by discs rather than by muscle, and discs do not adapt the way muscle does. Two or
+three sessions a week, six to twelve hard sets in each of the main actions, taken to the point where
+the position fails rather than where the count runs out. And do not do any of it to see your abdominal
+muscles: that is decided by how much fat is over them, and six weeks of abdominal training has been
+shown to change none of it.
+
+---
+# partviimasterglossary
+
+**Part VII — Master Glossary**
+
+Every technical term used anywhere in this document, defined formally with formula and units where
+the quantity is physically or operationally defined.
+
+**Entries are in dependency order, not alphabetical order.** Each entry uses only terms already
+defined above it, so the glossary can be read straight through from the first entry to the last with
+no forward reference and nothing taken on trust. Thirteen layers build from spatial frames of
+reference, through anatomy, joint actions, muscle structure and growth, to training variables and
+finally to named exercises. The alphabetical index below is for lookup; the order below it is for
+reading.
+
+**One deliberate exception to the ordering.** Entries throughout refer to the document's subject
+muscles — the *latissimus dorsi* and *teres major*, the *quadriceps femoris* together with its
+individual heads, and the three *gluteal muscles* — before their own entries appear at Layer 8. Their
+formal entries have to sit that late because they depend on the anatomy, architecture and joint actions
+defined above them. All of them are described in plain prose in Part II §A.1, Part III §A.1,
+Part III §A.2 and Part IV §A.2, well before this glossary is reached, so nothing is actually taken on
+trust; where such a name appears early it is written as plain text rather than as a link, so no entry
+ever points forward.
+
+**The same licence extends to the bare names of other skeletal muscles, of the nerves that supply them, and of named exercises**, which are ordinary
+anatomical nouns rather than technical terms: an entry at Layer 3 may say that a structure receives
+*gluteus maximus* without having defined it, because the sentence uses only the muscle's location, not
+any property established in its own entry. What is never done is the reverse — no entry uses a
+*measured or derived property* of anything defined below it. Outside these two licences, no term is
+used before it is defined.
+
+Every entry follows the same three-part pattern: a plain-English opening sentence, then the formal
+definition, then why it matters in practice. Every in-text mention links here, and every link is a
+plain same-file heading anchor.
+
+**Alphabetical index.** Layer numbers show where each entry sits in the dependency order below.
+
+| Term | Layer | Term | Layer |
+|---|---|---|---|
+| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Multifidus](#multifidus) | 9 |
+| [45° back extension (hip extension)](#backextension) | 12 | [Muscle thickness](#musclethickness) | 5 |
+| [Ab wheel](#abwheel) | 13 | [Muscle volume](#musclevolume) | 5 |
+| [Abdominal wall](#abdominalwall) | 9 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
+| [ACL reconstruction](#aclreconstruction) | 13 | [Net joint moment](#netjointmoment) | 11 |
+| [Acromion](#acromion) | 3 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
+| [Adductor magnus](#adductormagnus) | 8 | [Open kinetic chain exercise](#openkineticchain) | 11 |
+| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Overhead press (shoulder press, military press)](#overheadpress) | 13 |
+| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Painful arc](#painfularc) | 12 |
+| [Anterior deltoid](#anteriordeltoid) | 9 | [Pallof press](#pallofpress) | 13 |
+| [Aponeurosis](#aponeurosis) | 3 | [Passive tension](#passivetension) | 5 |
+| [Apophysis](#apophysis) | 3 | [Patella (kneecap)](#patella) | 3 |
+| [Attentional focus](#attentionalfocus) | 10 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
+| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
+| [Axillary nerve](#axillarynerve) | 9 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
+| [Back squat](#backsquat) | 12 | [Patellofemoral pain](#patellofemoralpain) | 13 |
+| [Bar position](#barposition) | 11 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
+| [Barbell glute bridge](#glutebridge) | 12 | [Pectoralis major](#pectoralismajor) | 9 |
+| [Barbell hip thrust](#hipthrust) | 12 | [Pelvic floor](#pelvicfloor) | 9 |
+| [Bayes factor (BF)](#bayesfactor) | 9 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
+| [Belt squat](#beltsquat) | 12 | [Pelvis](#pelvis) | 3 |
+| [Bench press](#benchpress) | 13 | [Pennation angle](#pennationangle) | 5 |
+| [Biacromial width](#biacromialwidth) | 3 | [Plane of elevation](#planeofelevation) | 4 |
+| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Plank](#plank) | 13 |
+| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Posterior deltoid](#posteriordeltoid) | 9 |
+| [Cable crunch](#cablecrunch) | 13 | [Posterior oblique sling](#posteriorobliquesling) | 8 |
+| [Cable or machine kickback (standing hip extension)](#kickback) | 12 | [Progressive overload](#progressiveoverload) | 10 |
+| [Cable pull-through](#cablepullthrough) | 12 | [Pronated (overhand) grip](#pronatedgrip) | 11 |
+| [Chin-up](#chinup) | 12 | [Proximity to failure](#proximitytofailure) | 10 |
+| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Psoas major](#psoasmajor) | 9 |
+| [Clavicle (collarbone)](#clavicle) | 3 | [Pull-up](#pullup) | 12 |
+| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Pullover](#pullover) | 12 |
+| [Compound exercise](#compound) | 11 | [Quadratus lumborum](#quadratuslumborum) | 9 |
+| [Concentric contraction](#concentriccontraction) | 6 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
+| [Contralateral](#contralateral) | 1 | [Quadriceps tendon](#quadricepstendon) | 3 |
+| [Crunch](#crunch) | 13 | [Range of motion (ROM)](#rangeofmotion) | 4 |
+| [Deadlift](#deadlift) | 12 | [Rectus abdominis](#rectusabdominis) | 9 |
+| [Deep hip external rotators](#hipexternalrotators) | 8 | [Rectus femoris](#rectusfemoris) | 8 |
+| [Deload](#deload) | 10 | [Rectus sheath](#rectussheath) | 3 |
+| [Deltoid](#deltoid) | 9 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
+| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Repetition (rep)](#repetition) | 10 |
+| [Diaphragm](#diaphragm) | 9 | [Resistance profile](#resistanceprofile) | 11 |
+| [Diastasis recti](#diastasisrecti) | 13 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 13 |
+| [Dose–response relationship](#doseresponserelationship) | 10 | [Reverse hyperextension](#reversehyperextension) | 12 |
+| [Double progression](#doubleprogression) | 10 | [Reverse Nordic curl](#reversenordic) | 12 |
+| [Eccentric contraction](#eccentriccontraction) | 6 | [RIR (repetitions in reserve)](#rir) | 10 |
+| [Effect size](#effectsize) | 9 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
+| [Effort tolerance](#efforttolerance) | 10 | [Rotator cuff](#rotatorcuff) | 9 |
+| [Elbow flexors](#elbowflexors) | 8 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
+| [Elbow path](#elbowpath) | 11 | [Row](#row) | 12 |
+| [EMG (electromyography)](#emg) | 9 | [RPE (rating of perceived exertion)](#rpe) | 10 |
+| [Erector spinae](#erectorspinae) | 8 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
+| [Excursion](#excursion) | 4 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
+| [External oblique](#externaloblique) | 9 | [Sacrum](#sacrum) | 3 |
+| [Face pull](#facepull) | 13 | [Sagittal plane](#sagittalplane) | 1 |
+| [Fascicle length](#fasciclelength) | 5 | [Sarcomere](#sarcomere) | 5 |
+| [Femoral nerve](#femoralnerve) | 8 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
+| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Scapula (shoulder blade)](#scapula) | 3 |
+| [Femur (thigh bone)](#femur) | 3 | [Scapular depression](#scapulardepression) | 4 |
+| [Flexion relaxation](#flexionrelaxation) | 11 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
+| [Force–length relationship](#forcelengthrelationship) | 5 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
+| [Front raise](#frontraise) | 13 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
+| [Front squat](#frontsquat) | 12 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
+| [Frontal (coronal) plane](#frontalplane) | 1 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
+| [Gastrocnemius](#gastrocnemius) | 8 | [Serratus anterior](#serratusanterior) | 8 |
+| [Glenohumeral joint](#glenohumeraljoint) | 3 | [Sesamoid bone](#sesamoid) | 3 |
+| [Gluteal tendinopathy (greater trochanteric pain syndrome)](#glutealtendinopathy) | 13 | [Set](#set) | 10 |
+| [Gluteus maximus](#gluteusmaximus) | 8 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
+| [Gluteus medius](#gluteusmedius) | 8 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
+| [Gluteus minimus](#gluteusminimus) | 8 | [Shoulder abduction](#shoulderabduction) | 4 |
+| [Good morning](#goodmorning) | 12 | [Shoulder adduction](#shoulderadduction) | 4 |
+| [Greater trochanter](#greatertrochanter) | 3 | [Shoulder extension](#shoulderextension) | 4 |
+| [Grip width](#gripwidth) | 11 | [Shoulder external (lateral) rotation](#shoulderexternalrotation) | 4 |
+| [Hack squat](#hacksquat) | 12 | [Shoulder flexion](#shoulderflexion) | 4 |
+| [Hamstrings](#hamstrings) | 8 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
+| [Hanging knee raise](#hangingkneeraise) | 13 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
+| [Hard set](#hardset) | 10 | [Shoulder instability](#shoulderinstability) | 13 |
+| [Hip abduction](#hipabduction) | 4 | [Side plank](#sideplank) | 13 |
+| [Hip adduction](#hipadduction) | 4 | [Sissy squat](#sissysquat) | 12 |
+| [Hip adductors](#hipadductors) | 8 | [Sit-up](#situp) | 13 |
+| [Hip extension](#hipextension) | 4 | [Size principle](#sizeprinciple) | 6 |
+| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Smith machine squat](#smithmachinesquat) | 12 |
+| [Hip flexion](#hipflexion) | 4 | [Specific tension](#specifictension) | 5 |
+| [Hip hinge](#hiphinge) | 11 | [Split squat](#splitsquat) | 12 |
+| [Hip internal (medial) rotation](#hipinternalrotation) | 4 | [Squat depth](#squatdepth) | 11 |
+| [Hip joint (acetabulofemoral joint)](#hipjoint) | 3 | [Stance width](#stancewidth) | 11 |
+| [Hip osteoarthritis](#hiposteoarthritis) | 13 | [Step-up](#stepup) | 12 |
+| [Horizontal pull](#horizontalpull) | 11 | [Straight-arm pulldown](#straightarmpulldown) | 12 |
+| [Humeral elevation](#humeralelevation) | 4 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
+| [Humerus (upper arm bone)](#humerus) | 3 | [Subacromial impingement](#impingement) | 13 |
+| [Hypertrophy](#hypertrophy) | 7 | [Subacromial space](#subacromialspace) | 3 |
+| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [Suitcase carry](#suitcasecarry) | 13 |
+| [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
+| [Internal (medial) rotation](#internalrotation) | 4 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
+| [Internal oblique](#internaloblique) | 9 | [Supraspinatus](#supraspinatus) | 9 |
+| [Intra-abdominal pressure (IAP)](#intraabdominalpressure) | 3 | [T2-weighted MRI (transverse relaxation time)](#t2mri) | 9 |
+| [Inverted row](#invertedrow) | 12 | [Technical failure](#technicalfailure) | 10 |
+| [Ischial tuberosity](#ischialtuberosity) | 3 | [Tempo](#tempo) | 10 |
+| [Isolation exercise](#isolation) | 11 | [Tensor fasciae latae (TFL)](#tensorfascialatae) | 8 |
+| [Kipping](#kipping) | 12 | [Tensor vastus intermedius](#tensorvastusintermedius) | 8 |
+| [Knee extension](#kneeextension) | 4 | [Teres major](#teresmajor) | 8 |
+| [Knee flexion](#kneeflexion) | 4 | [The EMG–hypertrophy dissociation](#emghypertrophydissociation) | 9 |
+| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
+| [Knee travel](#kneetravel) | 11 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
+| [Lat pulldown](#latpulldown) | 12 | [Tibia (shin bone)](#tibia) | 3 |
+| [Lateral raise](#lateralraise) | 13 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
+| [Latissimus dorsi](#latissimusdorsi) | 8 | [Torque (moment)](#torque) | 2 |
+| [Leg extension](#legextension) | 12 | [Torso inclination](#torsoinclination) | 11 |
+| [Leg press](#legpress) | 12 | [Training frequency](#trainingfrequency) | 10 |
+| [Lengthened partials](#lengthenedpartials) | 7 | [Training volume](#trainingvolume) | 10 |
+| [Lengthened position](#lengthenedposition) | 7 | [Transverse (horizontal) plane](#transverseplane) | 1 |
+| [Limiting link](#limitinglink) | 10 | [Transversus abdominis](#transversusabdominis) | 9 |
+| [Line of action](#lineofaction) | 2 | [Trapezius](#trapezius) | 9 |
+| [Linea alba](#lineaalba) | 3 | [Triceps brachii](#tricepsbrachii) | 9 |
+| [Load](#load) | 10 | [Trunk extension](#trunkextension) | 5 |
+| [Lumbar compression](#lumbarcompression) | 11 | [Trunk flexion](#trunkflexion) | 5 |
+| [Lumbopelvic rhythm](#lumbopelvicrhythm) | 4 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
+| [Lunge](#lunge) | 12 | [Trunk rotation](#trunkrotation) | 5 |
+| [Mechanical tension](#mechanicaltension) | 6 | [Upright row](#uprightrow) | 13 |
+| [Mechanotransduction](#mechanotransduction) | 6 | [Vastus intermedius](#vastusintermedius) | 8 |
+| [Middle deltoid](#middledeltoid) | 9 | [Vastus lateralis](#vastuslateralis) | 8 |
+| [Moment arm](#momentarm) | 2 | [Vastus medialis](#vastusmedialis) | 8 |
+| [Momentary (muscular) failure](#momentaryfailure) | 10 | [Vertical pull](#verticalpull) | 11 |
+| [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 | [Volume load](#volumeload) | 10 |
+| [Motor unit](#motorunit) | 6 | [Woodchop](#woodchop) | 13 |
+
+---
+
+> **LAYER 1 — Frames of reference.** Where things are and which way they move. Nothing precedes these.
+
+## sagittalplane
+
+*Biomechanics & Mechanics*
+
+**Sagittal plane** — The plane that divides you into left and right halves; movements in it go forward and backward. Formally: the vertical anatomical plane separating the body into left and right portions, containing forward-and-backward movements of the limbs. Raising the arm in front of you and driving it back down behind you — the actions of a row and of the pulling phase of a pulldown — are sagittal-plane actions, and the "horizontal offset from the shoulder to the hand" used in every resistance-profile calculation in this document is measured in this plane.
+
+## frontalplane
+
+*Biomechanics & Mechanics*
+
+**Frontal (coronal) plane** — The plane that divides you into front and back halves; movements in it go out to the side and back in. Formally: the vertical anatomical plane separating the body into anterior and posterior portions, containing abduction and adduction movements. A wide-grip pulldown with the elbows flared approximates a pure frontal-plane pull.
+
+## transverseplane
+
+*Biomechanics & Mechanics*
+
+**Transverse (horizontal) plane** — The plane that divides you into top and bottom halves; movements in it are twists. Formally: the horizontal anatomical plane separating superior from inferior portions, containing rotation movements. Humeral internal and external rotation occur in this plane when the arm hangs at the side, as does turning the torso.
+
+## contralateral
+
+*Anatomy & Structure*
+
+**Contralateral** — On the opposite side of the body. Formally: pertaining to the side opposite the reference structure; the counterpart of *ipsilateral*. It is used in this document to specify trunk motion during unilateral work: *contralateral rotation* means the trunk turns away from the working arm's side.
+
+---
+
+> **LAYER 2 — Mechanics primitives.** The quantities that make every later mechanical claim measurable.
+
+## lineofaction
+
+*Biomechanics & Mechanics*
+
+**Line of action** — The straight line along which a force pulls or pushes, extended infinitely in both directions. Formally: the line collinear with a force vector, passing through its point of application; a force's rotational effect about any point depends only on the magnitude of the force and the perpendicular distance from that point to this line, not on where along the line the force is applied. For a hanging weight the line of action is vertical and passes through the hand; for a cable it runs from the hand to the pulley; for a band, from the hand to the anchor; for a muscle it is the tangent to the muscle's path at its insertion — which is why a muscle that wraps over bone has a line of action that swings as the joint moves, and therefore a leverage about that joint which changes with joint angle. It matters because it is the thing you actually control when you set up an exercise: moving your body relative to an anchor moves the line of action, and that changes the exercise more than changing the weight does.
+
+## torque
+
+*Biomechanics & Mechanics*
+
+**Torque (moment)** — The twisting effect a force has about a joint. Formally: the product of a force and the perpendicular distance from the joint's axis of rotation to that force's line of action:
+
+> τ = F × d⊥   (N·m; F in N, d⊥ in m)
+
+It is the correct currency for comparing exercises, because the same weight produces wildly different joint torque depending on where the limb is. A 30 kg dumbbell held straight out from the shoulder and the same dumbbell held directly above it impose the same force and completely different torques.
+
+## momentarm
+
+*Biomechanics & Mechanics*
+
+**Moment arm** — The lever a muscle has at a joint: how much [torque](#torque) it produces per unit of force. Formally: the perpendicular distance from a joint's axis of rotation to a muscle's line of action, equivalently defined as the rate of change of muscle–tendon length with joint angle:
+
+> r(θ) = ∂L_MTU / ∂θ   (m; L in m, θ in rad)
+> τ_muscle = F_muscle × r(θ)   (N·m)
+
+It is not a constant — it changes continuously through a joint's range, which is why a muscle can be strong at one joint angle and weak at another for purely geometric reasons, independent of how much force its fibres can generate. It also has a **sign**, which is the direction the muscle turns the joint, and it can pass through zero and reverse within a single range: a muscle that is an adductor at one arm position may contribute nothing, or the opposite action, at another. "What a muscle does" is therefore a statement about a joint angle, not about a muscle.
+
+---
+
+> **LAYER 3 — Skeletal and connective anatomy.** The structures the muscle attaches to and pulls on.
+
+## intraabdominalpressure
+
+*Biomechanics & Mechanics*
+
+**Intra-abdominal pressure (IAP)** — The pressure inside your belly, which rises when you brace and which helps hold your spine steady. Formally: the hydrostatic pressure within the abdominal cavity (kPa, or mmHg in the clinical literature), generated when the muscular walls of the cavity contract against a closed lid and floor — the diaphragm above, the pelvic floor below, the abdominal muscles in front and at the sides. Because the cavity is closed and its contents are near-incompressible, that pressure acts outward on every wall of it, including forward against the front of the lumbar spine:
+
+> P = F_wall / A_wall   (Pa; F in N, A in m²)
+
+Raising it together with abdominal muscle force increased the load a physical model of the lumbar spine could carry before buckling, and did so **without** the extra co-contraction of the spinal extensors that the alternative stabilizing strategy requires (Cholewicki et al., 1999). It is what a lifting belt gives the abdominal wall something to press against, and it is why breathing is a technique variable rather than an afterthought in Part VI §C.6.
+
+## scapula
+
+*Anatomy & Structure*
+
+**Scapula (shoulder blade)** — The flat triangular bone that floats on the back of the ribcage and carries the socket the arm sits in. Formally: a triangular flat bone articulating with the humerus at the glenoid fossa and with the collarbone at the acromioclavicular joint, held against the thorax by muscle rather than by a joint capsule, and therefore capable of translation and rotation in three planes. Its inferior angle is the landmark that the latissimus dorsi glides over during overhead reaching, and its mobility is what determines whether the arm can reach true end-range elevation at all.
+
+## acromion
+
+*Anatomy & Structure*
+
+**Acromion** — The bony shelf you can feel at the very top of your shoulder, sticking out from the shoulder blade. Formally: the lateral, flattened projection of the [scapular](#scapula) spine, forming the roof of the space beneath it and articulating anteriorly with the collarbone. It matters because the rotator-cuff tendons pass beneath it, and because it is the landmark from which every grip-width prescription is measured.
+
+## biacromialwidth
+
+*Measurement & Research Methods*
+
+**Biacromial width** — The distance across the top of your shoulders, from the bony point of one to the bony point of the other. Formally: the straight-line distance between the lateral borders of the left and right [acromion](#acromion) processes (cm). It is the standard normalizing reference for grip prescriptions in the resistance-training literature: "wide grip" in a study means a defined multiple of the participant's own biacromial width — typically 1.5× or 2× — not a fixed distance. Any grip recommendation stated in absolute centimetres is unusable across body sizes.
+
+## glenohumeraljoint
+
+*Anatomy & Structure*
+
+**Glenohumeral joint** — The main shoulder joint: the ball on top of the arm bone sitting in a shallow socket on the shoulder blade. Formally: the ball-and-socket articulation between the humeral head and the glenoid fossa of the [scapula](#scapula), the most mobile and least intrinsically stable joint in the body, restrained by the labrum, capsule, glenohumeral ligaments and rotator cuff. Every latissimus dorsi action occurs here, and it is the joint about which every [torque](#torque) calculation in this document is taken.
+
+## clavicle
+
+*Anatomy & Structure*
+
+**Clavicle (collarbone)** — The bone you can feel running from the base of your throat out to the point of your shoulder. Formally: the S-shaped strut articulating medially with the sternum and laterally with the [acromion](#acromion), and the only bony connection between the arm and the axial skeleton; the whole shoulder girdle otherwise hangs on muscle. Its lateral third is the origin of the front of the deltoid, which is why the front of the shoulder pulls the arm forward and the back of it pulls the arm backward.
+
+## humerus
+
+*Anatomy & Structure*
+
+**Humerus (upper arm bone)** — The single long bone of the upper arm, from shoulder to elbow. Formally: the bone articulating proximally with the [scapula](#scapula) at the [glenohumeral joint](#glenohumeraljoint) and distally with the radius and ulna at the elbow, carrying the greater and lesser tuberosities proximally and the medial and lateral epicondyles distally. Everything a shoulder exercise does is described by where this bone travels and how it is rotated about its own long axis.
+
+## deltoidtuberosity
+
+*Anatomy & Structure*
+
+**Deltoid tuberosity** — The roughened patch on the outside of the upper arm bone, about halfway down, where the whole deltoid attaches. Formally: the V-shaped elevation on the anterolateral surface of the [humerus](#humerus) at approximately its midpoint, receiving the converged tendons of all three deltoid heads. Its position matters twice: it is far enough down the bone to give the muscle a workable [moment arm](#momentarm), and it is a **single** attachment shared by heads whose origins are 20 cm apart — which is why the three heads' different actions come entirely from where they start, not from where they finish.
+
+## subacromialspace
+
+*Anatomy & Structure*
+
+**Subacromial space** — The narrow gap between the top of the arm bone and the bony shelf above it, through which the rotator-cuff tendons pass. Formally: the interval bounded above by the [acromion](#acromion), the coracoacromial ligament and the coracoid process, and below by the head of the [humerus](#humerus), containing the supraspinatus tendon, the long head of biceps tendon and the subacromial bursa; its height is conventionally measured as the acromiohumeral distance (mm). It is the structure the deltoid drives the humeral head toward when it contracts with the arm near the side, and the reason a shoulder exercise's bottom position is a joint question as well as a muscle question (Part V §A.5).
+
+## bicipitalgroove
+
+*Anatomy & Structure*
+
+**Bicipital (intertubercular) groove** — The vertical channel on the front of the upper arm bone that the long head of the biceps tendon runs through. Formally: the sulcus on the proximal humerus between the greater and lesser tubercles, bounded by lips into which three muscles insert: its **floor** receives the latissimus dorsi, its **medial lip** teres major, and its **lateral lip** pectoralis major. That tightly clustered shared insertion is the anatomical reason no exercise can separate the latissimus dorsi from teres major.
+
+## apophysis
+
+*Anatomy & Structure*
+
+**Apophysis** — A growth centre on a bone where a tendon pulls, present only until skeletal maturity. Formally: a secondary ossification centre serving as a tendon or ligament attachment site in the skeletally immature, separated from the parent bone by a growth plate. In adolescents this plate, not the muscle or the tendon, is often the mechanically weakest link in the chain — which is why maximal loading is inappropriate before skeletal maturity regardless of how strong the muscle has become.
+
+## aponeurosis
+
+*Anatomy & Structure*
+
+**Aponeurosis** — A flat, sheet-like tendon that spreads across a muscle instead of forming a rope. Formally: a broad, thin sheet of dense collagenous connective tissue into which muscle fibers insert, mechanically continuous with the muscle belly and transmitting its force. It matters here because the latissimus dorsi's lower origin is aponeurotic rather than bony, which makes the muscle's fixed end depend on the tension of a fascial sheet rather than on a rigid bony anchor.
+
+## thoracolumbarfascia
+
+*Anatomy & Structure*
+
+**Thoracolumbar fascia (TLF)** — The thick, tough sheet of connective tissue covering the lower back, into which several large muscles blend. Formally: a multilayered [aponeurotic](#aponeurosis) structure spanning the lumbar and lower thoracic region, whose posterior layer receives the latissimus dorsi from one side and gluteus maximus from the other, and which attaches to the lumbar spinous processes, the sacrum and the iliac crest. Practical consequence: a large part of the latissimus dorsi's "origin" is a tensionable sheet rather than bone, so how firmly the trunk is braced determines whether the origin actually stays put when the muscle pulls.
+
+---
+
+## lineaalba
+
+*Anatomy & Structure*
+
+**Linea alba** — The seam of connective tissue running straight down the middle of your abdomen, from the breastbone to the pubic bone. Formally: the midline raphe formed by the interlacing [aponeuroses](#aponeurosis) of the external oblique, internal oblique and transversus abdominis as they pass in front of and behind the rectus abdominis to meet their counterparts from the opposite side. It is the reason the abdominal wall behaves as **one structure**: every one of those muscles pulls on it, so none of them can be tensioned in isolation (Part VI §A.5). Widening of it is near-universal in late pregnancy and common afterwards, and it changes what the front of the trunk can be asked to do (Part VI §E.2).
+
+## rectussheath
+
+*Anatomy & Structure*
+
+**Rectus sheath** — The fibrous envelope that wraps the vertical muscle at the front of the abdomen and holds it in place. Formally: the compartment formed around the rectus abdominis by the splitting [aponeuroses](#aponeurosis) of the three flat abdominal muscles, complete in front and behind above the arcuate line and deficient behind it below; it fuses to the muscle at the **tendinous intersections**, the transverse bands that divide the muscle into segments and that give a lean abdomen its blocked appearance. The sheath is why those segments are mechanically real rather than cosmetic: they anchor the muscle to its envelope at three to four points along its length, so it behaves as short muscles in series rather than as one long one (Part VI §A.3).
+
+## pelvis
+
+*Anatomy & Structure*
+
+**Pelvis** — The ring of bone at the base of the trunk that your legs hang from and your spine sits on. Formally: the bony ring formed by the two hip bones — each fusing an ilium, ischium and pubis — together with the sacrum and coccyx behind; the ilium's upper rim is the *iliac crest*, and its outer surface is the origin of all three gluteal muscles. It matters because it is the fixed end of every gluteal muscle and the moving end of every hip exercise: when the pelvis rotates instead of the hip, the range you appeared to gain came from the spine.
+
+## sacrum
+
+*Anatomy & Structure*
+
+**Sacrum** — The wedge of fused vertebrae at the back of the pelvis, between the two hip bones. Formally: five fused vertebrae forming the posterior wall of the [pelvis](#pelvis), articulating with the fifth lumbar vertebra above, the coccyx below, and each ilium on either side. Part of the gluteus maximus arises directly from it, which is the anatomical reason a gluteal contraction changes the loading of the junction between spine and pelvis.
+
+## sacroiliacjoint
+
+*Anatomy & Structure*
+
+**Sacroiliac joint (SIJ)** — The joint on each side where the sacrum meets the hip bone. Formally: a paired articulation between the auricular surfaces of the [sacrum](#sacrum) and the ilium of the [pelvis](#pelvis), partly synovial and partly ligamentous, with very little available movement and very large load transfer between trunk and legs. Seventy per cent of the gluteus maximus's physiological cross-sectional area arises from attachments crossing it, and the force those attachments could direct perpendicular to the joint's plane was estimated at around 700 N per side (Barker et al., 2014) — which is why gluteal work appears in pelvic and low-back rehabilitation programmes.
+
+## ischialtuberosity
+
+*Anatomy & Structure*
+
+**Ischial tuberosity** — The bone you sit on. Formally: the thickened, roughened inferior part of the ischium of the [pelvis](#pelvis), serving as the common origin of the hamstrings and of the posterior part of adductor magnus. It matters because it is the fixed end of the hamstrings, and therefore the reference point for every claim in Part IV §B.5 about how much of a hip movement the hamstrings can take at a given knee angle.
+
+## sacrotuberousligament
+
+*Anatomy & Structure*
+
+**Sacrotuberous ligament** — A strong band running from the back of the sacrum down to the sitting bone. Formally: a broad ligament connecting the posterior [sacrum](#sacrum) and coccyx to the [ischial tuberosity](#ischialtuberosity), resisting forward rotation of the sacrum relative to the ilium. It receives fibres of the gluteus maximus and is continuous with the hamstrings' origin, making it one of the structural links through which gluteal force reaches the pelvic ring.
+
+## femur
+
+*Anatomy & Structure*
+
+**Femur (thigh bone)** — The single long bone of the thigh, running from the hip socket to the knee. Formally: the longest and strongest bone in the human body, articulating proximally with the acetabulum of the pelvis and distally at the knee. Its shaft carries a raised ridge on the back — the linea aspera — from which three of the four classical quadriceps heads originate, which is why those three heads can only ever act on the knee.
+
+## tibia
+
+*Anatomy & Structure*
+
+**Tibia (shin bone)** — The large weight-bearing bone of the lower leg, between the knee and the ankle. Formally: the medial bone of the leg, articulating proximally with the femoral condyles and distally with the talus. Its front surface carries the tibial tuberosity, the bump a few centimetres below the kneecap where the whole quadriceps group ultimately attaches.
+
+## sesamoid
+
+*Anatomy & Structure*
+
+**Sesamoid bone** — A bone that grows inside a tendon rather than joining two bones together. Formally: an ossification embedded within a tendon at a site where the tendon passes over a bony surface, functioning to reduce friction and to increase the tendon's perpendicular distance from the joint's axis. The patella is the largest example. It does not make the quadriceps stronger — a sesamoid changes no muscle's force capacity — but by holding the extensor tendon further from the knee's axis it converts that unchanged force into more [torque](#torque), which is why the [moment arm](#momentarm) figures in Part III §A.5 are as large as they are.
+
+## patella
+
+*Anatomy & Structure*
+
+**Patella (kneecap)** — The small flat bone at the front of the knee, sitting inside the tendon of the thigh muscles rather than attaching to anything itself. Formally: the largest [sesamoid](#sesamoid) bone in the body, embedded in the common tendon of the thigh-front extensors and articulating with the femoral trochlear groove. Its function is purely geometric: by holding the tendon away from the knee's axis of rotation it lengthens the extensor [moment arm](#momentarm), so the same muscle force produces more [torque](#torque).
+
+## quadricepstendon
+
+*Anatomy & Structure*
+
+**Quadriceps tendon** — The thick tendon into which all the thigh-front muscles merge just above the kneecap. Formally: the common distal tendon of the quadriceps femoris, formed by the convergence of the [aponeuroses](#aponeurosis) of each head in layers, enclosing the [patella](#patella) and continuing below it to the tibial tuberosity of the [tibia](#tibia). Because the heads merge into one structure, no head can be loaded without loading that structure — which is why quadriceps training is a knee-tendon loading question as well as a muscle question.
+
+## patellartendon
+
+*Anatomy & Structure*
+
+**Patellar tendon (patellar ligament)** — The short, strong band running from the bottom of the kneecap to the front of the shin. Formally: the continuation of the [quadriceps tendon](#quadricepstendon) below the [patella](#patella), inserting on the tibial tuberosity; it is called a ligament in some anatomical texts because it connects two bones, but it is functionally the quadriceps' distal tendon. Its perpendicular distance from the knee's axis of rotation sets the extensor [moment arm](#momentarm) that governs every torque calculation in Part III, reduced near full extension by the tendon's obliquity to that axis (Part III §A.5).
+
+## tibiofemoraljoint
+
+*Anatomy & Structure*
+
+**Tibiofemoral joint** — The main hinge of the knee, where the thigh bone meets the shin bone. Formally: the articulation between the femoral condyles and the tibial plateau, permitting flexion and extension with coupled rotation and translation; its instantaneous axis of rotation moves through the range, which is why the extensor moment arm is not constant. Its stability is supplied by the cruciate and collateral ligaments and the menisci, not by bony congruence.
+
+## patellofemoraljoint
+
+*Anatomy & Structure*
+
+**Patellofemoral joint** — Where the back of the kneecap presses against the groove in the front of the thigh bone. Formally: the articulation between the posterior facets of the [patella](#patella) and the femoral trochlear groove. The compressive force across it rises steeply as the knee bends and as quadriceps tension rises, which is why the deep position is the one most often modified when the front of the knee hurts. On a machine where the resistance pushes against the shin and the thigh is supported, the profile is reversed — the demand peaks with the leg nearly straight, while the contact area is at its smallest — which is why the two kinds of exercise need different range prescriptions when the front of the knee is symptomatic (Part III §E.4).
+
+## greatertrochanter
+
+*Anatomy & Structure*
+
+**Greater trochanter** — The bony lump you can feel on the outside of the hip. Formally: the large lateral prominence at the upper end of the [femur](#femur), carrying the insertions of gluteus medius and gluteus minimus on separate facets along with the deep external rotators of the hip. It matters clinically as well as mechanically: the gluteal tendons are compressed against it whenever the hip is drawn toward the midline, which is the mechanism behind lateral hip pain.
+
+## hipjoint
+
+*Anatomy & Structure*
+
+**Hip joint (acetabulofemoral joint)** — The ball-and-socket joint between the thigh bone and the pelvis. Formally: a multiaxial synovial joint between the head of the [femur](#femur) and the acetabulum of the [pelvis](#pelvis), deepened by a fibrocartilaginous labrum, permitting flexion and extension, abduction and adduction, and internal and external rotation. Socket depth and the orientation of the femoral neck vary substantially between people and are not trainable, which is why the depth at which the pelvis begins to rotate under the spine is an individual limit rather than a technique fault.
+
+## iliotibialtract
+
+*Anatomy & Structure*
+
+**Iliotibial tract (IT band)** — The thick strap of fascia running down the outside of the thigh from the hip to below the knee. Formally: the longitudinally thickened lateral portion of the fascia lata, receiving a substantial but disputed fraction of the gluteus maximus and the whole of tensor fasciae latae above, and inserting on Gerdy's tubercle of the [tibia](#tibia) below. It is not a muscle and does not lengthen usefully with stretching. What it does do is transmit gluteal force past the knee, and press the gluteal tendons against the [greater trochanter](#greatertrochanter) whenever the hip is drawn toward the midline.
+
+> **LAYER 4 — Joint actions and kinematics.** What the shoulder, shoulder blade, hip and knee can do, and how much of it a rep uses.
+
+## humeralelevation
+
+*Biomechanics & Mechanics*
+
+**Humeral elevation** — How far your upper arm has been raised from your side, regardless of which direction it went. Formally: the angle (degrees) between the long axis of the humerus and the trunk's vertical axis, independent of the direction the arm travelled to get there — so 90° in front of you, 90° out to the side, and 90° between the two are all 90° of elevation. It is the standard independent variable in shoulder [moment-arm](#momentarm) studies, and the axis along which the latissimus dorsi's leverage rises and then falls.
+
+## planeofelevation
+
+*Biomechanics & Mechanics*
+
+**Plane of elevation** — Which direction you raise your arm in, as distinct from how far you raise it. Formally: the angle (degrees) between the plane containing the elevated humerus and the [frontal plane](#frontalplane) — 0° is pure abduction out to the side, 90° is pure flexion straight in front, and the scapular plane sits roughly 30–45° between them. It matters because moment arms differ between planes at the same [elevation](#humeralelevation) angle (Kuechle et al., 1997): "arm at 120°" is not one mechanical state but three, which is why varying the plane of a pull changes more than varying the grip.
+
+
+## shoulderextension
+
+*Anatomy & Structure*
+
+**Shoulder extension** — Driving the upper arm backward and downward, so the elbow travels from in front of you to beside and behind you. Formally: [sagittal-plane](#sagittalplane) rotation of the humerus at the [glenohumeral joint](#glenohumeraljoint) in the posterior direction, from a flexed position toward and past the neutral hanging position. It is the latissimus dorsi action that produces the muscle's highest measured activation (Park & Yoo, 2014), and it is the organizing action of every row, and of any movement that sweeps a straight arm down from overhead.
+
+## shoulderadduction
+
+*Anatomy & Structure*
+
+**Shoulder adduction** — Pulling the upper arm in toward the midline, so the elbow travels from out at the side down toward the ribs. Formally: [frontal-plane](#frontalplane) rotation of the humerus at the [glenohumeral joint](#glenohumeraljoint) toward the body's midline. It is the action in which the latissimus dorsi has its **largest [moment arms](#momentarm)** of any glenohumeral action, with the lumbar-vertebral and iliac-crest fibres the most effective adductors of the entire shoulder complex (Hik & Ackland, 2019). It is the organizing action of a wide-grip pulldown.
+
+## internalrotation
+
+*Anatomy & Structure*
+
+**Internal (medial) rotation** — Turning the upper arm inward, so the elbow crease rotates toward the body. Formally: rotation of the humerus about its own long axis in the direction that carries its anterior surface medially, occurring in the [transverse plane](#transverseplane) when the arm hangs at the side. It is a genuine latissimus dorsi action but never the organizing action of an exercise, and cueing it is counterproductive because internal rotation combined with elevation and abduction is the shoulder's most vulnerable loaded position.
+
+## shoulderexternalrotation
+
+*Anatomy & Structure*
+
+**Shoulder external (lateral) rotation** — Turning the upper arm outward, so the elbow crease rotates away from the body. Formally: rotation of the [humerus](#humerus) about its own long axis in the direction that carries its anterior surface laterally; the reverse of [internal rotation](#internalrotation). It is produced principally by the two muscles on the back of the shoulder blade rather than by any part of the deltoid, whose rotation moment arms reverse sign depending on how far the arm is elevated. Combined with elevation it is the position a behind-the-neck press requires, and combined with abduction it is the classic apprehension position after a dislocation.
+
+## shoulderflexion
+
+*Anatomy & Structure*
+
+**Shoulder flexion** — Raising the upper arm forward and up, in front of you. Formally: [sagittal-plane](#sagittalplane) rotation of the humerus at the [glenohumeral joint](#glenohumeraljoint) in the anterior direction; the reverse of [shoulder extension](#shoulderextension). It is a position the latissimus dorsi is lengthened *into* rather than an action it produces, and it is what the top of an overhead reach consists of.
+## shoulderabduction
+
+*Anatomy & Structure*
+
+**Shoulder abduction** — Raising the upper arm out to the side, away from the midline. Formally: [frontal-plane](#frontalplane) rotation of the humerus at the [glenohumeral joint](#glenohumeraljoint) away from the body's midline; the reverse of [shoulder adduction](#shoulderadduction). Like flexion it is a lengthening position for the latissimus dorsi rather than one of its actions, and it is the plane in which the lat's moment arms have actually been measured.
+## scaption
+
+*Biomechanics & Mechanics*
+
+**Scaption (scapular-plane elevation)** — Raising the arm out to the side but angled about a third of the way forward, in the plane the shoulder blade actually sits in. Formally: [humeral elevation](#humeralelevation) in the scapular plane, roughly 30–45° anterior to the [frontal plane](#frontalplane), which is the plane of the [scapula](#scapula) at rest. It matters because it is the plane in which the middle deltoid's [moment arm](#momentarm) is largest — a pooled peak of 33.4 mm against 26.8 mm in the coronal plane (Hik & Ackland, 2019) — and because the [glenohumeral joint](#glenohumeraljoint) is congruent there, so the capsule is not wound up as it is in pure coronal abduction.
+
+## shoulderhorizontalabduction
+
+*Biomechanics & Mechanics*
+
+**Shoulder horizontal abduction (horizontal extension)** — With the arm already raised to shoulder height, sweeping it out and backwards. Formally: [transverse-plane](#transverseplane) rotation of the [humerus](#humerus) away from the midline while the arm is held at approximately 90° of [elevation](#humeralelevation), so that the upper arm travels from in front of the chest to in line with, or slightly behind, the shoulders. It is the organizing action of every reverse fly and face pull, and the only action in which the back of the deltoid is a prime mover rather than an antagonist (Part V §B.1).
+
+## shoulderhorizontaladduction
+
+*Biomechanics & Mechanics*
+
+**Shoulder horizontal adduction (horizontal flexion)** — With the arm already raised to shoulder height, sweeping it in across the front of the body. Formally: [transverse-plane](#transverseplane) rotation of the [humerus](#humerus) toward and across the midline at approximately 90° of [elevation](#humeralelevation); the reverse of [horizontal abduction](#shoulderhorizontalabduction). It is the organizing action of a chest fly and a large part of a bench press, and it is the direction that compresses the joint at the outer end of the collarbone — which is why point tenderness there is aggravated by reaching across rather than by reaching out.
+
+## scapularupwardrotation
+
+*Biomechanics & Mechanics*
+
+**Scapular upward rotation** — The shoulder blade tilting so that its socket turns to face more upward, which is what lets your arm go fully overhead. Formally: rotation of the [scapula](#scapula) about an axis perpendicular to its plane, such that the glenoid fossa is directed superiorly and the inferior angle swings laterally; produced principally by the upper and lower trapezius together with the broad muscle that wraps the ribcage beneath the shoulder blade. Without it the humerus cannot reach true end-range [elevation](#humeralelevation) — which is why blocking it at the top of a pull silently converts a full-range exercise into a partial one.
+
+## scapulardownwardrotation
+
+*Biomechanics & Mechanics*
+
+**Scapular downward rotation** — The shoulder blade tilting back so its socket faces more sideways again, as your arm comes down. Formally: rotation of the [scapula](#scapula) in the direction opposite to [upward rotation](#scapularupwardrotation), returning the glenoid fossa toward a lateral orientation; produced principally by rhomboids, levator scapulae and pectoralis minor. It is the scapular half of the pulling phase, and the thing the cue "pull your shoulder blade down as you start the pull" is actually asking for.
+
+## scapulardepression
+
+*Biomechanics & Mechanics*
+
+**Scapular depression** — The shoulder blade sliding straight down the ribcage, the opposite of a shrug. Formally: inferior translation of the [scapula](#scapula) along the thorax, produced principally by the lower trapezius, the lower fibres of the muscle wrapping the ribcage, and pectoralis minor. **It is not a latissimus dorsi action** — the latissimus dorsi has no reliable scapular attachment, and what feels like depression during a pull is the humerus being drawn downward and carrying the shoulder girdle with it. Tested directly, isometric shoulder depression was **no better than** the other non-extension tasks for total latissimus dorsi activation — only shoulder extension exceeded the rest (Park & Yoo, 2014).
+
+## scapularretraction
+
+*Biomechanics & Mechanics*
+
+**Scapular retraction (adduction)** — Drawing the shoulder blades together toward the spine. Formally: medial translation of the [scapula](#scapula) along the thorax, produced principally by the rhomboids and the middle fibres of the muscle that covers the upper back; the reverse of protraction, in which the blade slides forward around the ribcage. It matters here for one reason: it is what a reverse fly turns into when the load is too heavy, and it is a **different movement at a different joint** from the [horizontal abduction](#shoulderhorizontalabduction) the exercise was chosen for (Part V §C.1).
+
+## scapulohumeralrhythm
+
+*Biomechanics & Mechanics*
+
+**Scapulohumeral rhythm** — The fixed ratio in which the arm bone and the shoulder blade share the job of raising your arm. Formally: the coordination ratio between [glenohumeral](#glenohumeraljoint) motion and scapulothoracic motion during [humeral elevation](#humeralelevation), conventionally quoted as approximately **2:1** through the mid-range — two degrees of glenohumeral motion for each degree of [scapular upward rotation](#scapularupwardrotation). **Caveat:** the ratio is not constant across the full range and varies between individuals and between measurement methods. **And the non-uniformity runs against you here:** the first ~30° is glenohumeral-dominant and the scapular share rises through the last third of elevation. Practical reading: roughly a third of your overhead reach is scapular overall, and **more than a third of the last third of it** — so a scapula held still does not cost an even slice of the range, it costs the top of it, which is the part this muscle is trained for.
+
+## excursion
+
+*Biomechanics & Mechanics*
+
+**Excursion** — How far a muscle actually shortens and lengthens as the joint moves, measured in centimetres of muscle rather than degrees of joint. Formally: the change in length of a muscle–tendon unit over a joint's angular range, equal to the integral of the [moment arm](#momentarm) over that range:
+
+> ΔL_MTU = ∫ r(θ) dθ   (m; r in m, θ in rad)
+
+Three quantities are routinely confused and are not the same. **Joint excursion** is degrees. **Muscle–tendon excursion** is the formula above. **Fascicle excursion** is smaller than muscle–tendon excursion, because the tendon and [aponeurosis](#aponeurosis) stretch under load and absorb part of the length change. Excursion is the quantity that makes a long-fascicled muscle different from a short-fascicled one: two muscles of identical volume can differ several-fold in how far they can shorten while still producing force.
+
+## rangeofmotion
+
+*Training Variables & Prescription*
+
+**Range of motion (ROM)** — How far the joint actually travels during one rep, from one end of the movement to the other. Formally: the angular excursion (degrees) traversed by the working joint between the start and end positions of one rep, and by extension the length range over which the target muscle is loaded. **Full ROM** means the complete excursion the joint can safely achieve; a **partial** is any restriction of it, and partials are not one thing — restricting reps to the *stretched* half behaves very differently from restricting them to the *shortened* half. For the latissimus dorsi, ROM is the primary training variable rather than a technicality: shortening the range to move more weight is not progression, it is the removal of the stimulus.
+
+---
+
+## kneeextension
+
+*Biomechanics & Mechanics*
+
+**Knee extension** — Straightening the knee, so the shin moves forward relative to the thigh. Formally: [sagittal-plane](#sagittalplane) rotation of the tibia relative to the femur that decreases the flexion angle toward 0°, produced by the quadriceps femoris group and by no other muscle. Throughout Part III the angle is stated as **flexion from full extension**: 0° is a straight leg, 90° a right angle, 140° the bottom of a deep squat.
+
+## kneeflexion
+
+*Biomechanics & Mechanics*
+
+**Knee flexion** — Bending the knee, so the heel travels toward the buttock. Formally: sagittal-plane rotation of the tibia relative to the femur that increases the flexion angle from 0°, produced by the muscles of the back of the thigh and the calf. It is the action that *lengthens* the quadriceps, so the depth of a squat's descent, not the effort of its ascent, sets the muscle length at which the set's tension is delivered (Part III §B.6).
+
+## hipflexion
+
+*Biomechanics & Mechanics*
+
+**Hip flexion** — Bringing the thigh toward the front of the trunk. Formally: sagittal-plane rotation of the femur relative to the pelvis that folds the thigh toward the front of the trunk, measured throughout this document as degrees of flexion from a straight body line — 0° standing upright, 90° sitting upright, 110–125° at the bottom of a deep squat. It shortens any muscle crossing the front of the hip, which is the whole mechanism behind the rectus femoris problem in Part III §B.4.
+
+## hipextension
+
+*Biomechanics & Mechanics*
+
+**Hip extension** — Driving the thigh backward, or driving the trunk upright over a fixed thigh. Formally: sagittal-plane rotation of the femur relative to the pelvis in the opposite sense, reducing the measured flexion angle toward 0° and, passively, a little beyond it; produced principally by the buttock, hamstring and inner-thigh musculature. It lengthens any muscle crossing the front of the hip, which is why it is the setup condition for loading the rectus femoris.
+
+## ankledorsiflexion
+
+*Biomechanics & Mechanics*
+
+**Ankle dorsiflexion** — Bringing the top of the foot toward the shin, or equivalently the shin forward over a planted foot. Formally: sagittal-plane rotation at the talocrural joint that decreases the angle between the shin and the foot. In a squat it is the motion that lets the knee move forward over the foot, so the available range at this joint sets a hard ceiling on how deep a squat can go for a given foot position — the reason a 1.5–2.5 cm heel elevation changes depth immediately for some people and not at all for others.
+
+## hipabduction
+
+*Biomechanics & Mechanics*
+
+**Hip abduction** — Moving the thigh out to the side, away from the midline. Formally: [frontal-plane](#frontalplane) rotation of the [femur](#femur) relative to the [pelvis](#pelvis) that increases the angle between the thigh and the body's midline — or, in single-leg stance, the action that stops the opposite side of the pelvis dropping. It is the action of gluteus medius and gluteus minimus, and **no hip extension exercise produces it**, which is why it needs an exercise of its own (Part IV §D.4).
+
+## hipadduction
+
+*Biomechanics & Mechanics*
+
+**Hip adduction** — Bringing the thigh back toward, or across, the midline. Formally: frontal-plane rotation of the femur relative to the pelvis that decreases the angle between the thigh and the midline, produced by the inner-thigh muscle group and by the lower fibres of gluteus maximus. Sustained adducted positions — sitting with the legs crossed, standing hung on one hip, lying on one side without a pillow between the knees — compress the gluteal tendons against the [greater trochanter](#greatertrochanter), which is why they are the first thing removed in lateral hip pain.
+
+## hipexternalrotation
+
+*Biomechanics & Mechanics*
+
+**Hip external (lateral) rotation** — Turning the thigh so that the kneecap and foot point outward. Formally: [transverse-plane](#transverseplane) rotation of the femur about its own long axis, away from the midline. Every fibre of gluteus maximus produces it with the hip near straight; **contested** in a flexed hip, where the anterior fibres' moment arm reverses toward internal rotation (Delp et al., 1999). Adding it to a hip extension — turning the feet out, driving the knees apart — has mechanical grounds for biasing the muscle's upper portion in the shallow part of the range, and those grounds weaken as the hip folds.
+
+## hipinternalrotation
+
+*Biomechanics & Mechanics*
+
+**Hip internal (medial) rotation** — Turning the thigh so that the kneecap and foot point inward. Formally: transverse-plane rotation of the femur about its long axis, toward the midline, produced by the anterior fibres of gluteus medius and minimus and by tensor fasciae latae. It is added to side-lying abduction in rehabilitation programmes because it biases the middle segment of gluteus medius.
+
+## pelvictilt
+
+*Biomechanics & Mechanics*
+
+**Pelvic tilt (anterior and posterior)** — Rotating the pelvis forward or backward, like a bucket of water tipping. Formally: [sagittal-plane](#sagittalplane) rotation of the [pelvis](#pelvis) about the transverse axis through both hip joints; *anterior* tilt rotates the top of the pelvis forward and increases lumbar extension, *posterior* tilt rotates it backward and increases lumbar flexion. It matters because it is the most common way a hip exercise's range is faked: posterior tilt at the bottom of a squat and anterior tilt at the top of a hip thrust both add apparent range that came from the spine rather than from the hip.
+
+## lumbopelvicrhythm
+
+*Biomechanics & Mechanics*
+
+**Lumbopelvic rhythm** — How the pelvis and the lower back divide the job of bending you forward. Formally: the relative contribution of [hip flexion](#hipflexion) and lumbar flexion to total trunk inclination during a forward bend, conventionally expressed as the ratio between them. It is the quantity a hinge-pattern exercise exists to control: such an exercise is a hip-dominant rhythm held deliberately, and it stops being a hip exercise at the point where the lumbar contribution takes over.
+
+> **LAYER 5 — Muscle structure.** What a muscle is built from, and the numbers that describe its build.
+
+## trunkflexion
+
+*Anatomy & Structure*
+
+**Trunk flexion** — Curling forward, bringing your ribcage toward your hips. Formally: [sagittal-plane](#sagittalplane) rotation of the thorax toward the [pelvis](#pelvis), summed across the thoracic and lumbar segments, measured from a neutral standing spine where 0° is neutral. It is the organizing action of every crunch and sit-up, and it must be distinguished from [hip flexion](#hipflexion), which moves the pelvis and femur toward each other and leaves the spine unchanged — the substitution that Part VI §C.2 lists as its fourth error.
+
+## trunkextension
+
+*Anatomy & Structure*
+
+**Trunk extension** — Straightening up from a bent-forward position, and continuing to arch backward past neutral. Formally: [sagittal-plane](#sagittalplane) rotation of the thorax away from the [pelvis](#pelvis); the reverse of [trunk flexion](#trunkflexion). It is the action of the muscles behind the spine, which together carry more force-generating cross-section than the whole abdominal wall (Part VI §A.4), and it is the action most often left untrained.
+
+## trunklateralflexion
+
+*Anatomy & Structure*
+
+**Trunk lateral flexion** — Bending sideways at the waist. Formally: [frontal-plane](#frontalplane) rotation of the thorax toward one side relative to the [pelvis](#pelvis). It is produced by the muscles of one side acting alone, and it is resisted — rather than produced — in every one-sided carry, which is what makes those the cheapest way to load it.
+
+## trunkrotation
+
+*Anatomy & Structure*
+
+**Trunk rotation** — Twisting, so the shoulders turn relative to the hips. Formally: [transverse-plane](#transverseplane) rotation of the thorax relative to the [pelvis](#pelvis), the great majority of it thoracic rather than lumbar — the lumbar segments permit only a few degrees each. Its movers are the two oblique layers acting as a **diagonal pair**, one side's outer layer with the other side's inner layer; modelling forty-nine fascicles of the lumbar back muscles found none of them capable of being called a rotator, and put their share of the trunk's axial torque at about 5% (Macintosh et al., 1993a).
+
+## sarcomere
+
+*Muscle Architecture & Physiology*
+
+**Sarcomere** — The smallest repeating unit of a muscle: two sets of interleaved protein filaments that slide past each other to shorten. Formally: the contractile unit of striated muscle, bounded by two Z-discs, containing overlapping thin (actin) and thick (myosin) filaments plus the giant elastic protein titin; force is generated by cyclic cross-bridge attachment between myosin heads and actin. Human sarcomeres are roughly **2.6–2.8 µm** long at their optimal overlap. Sarcomeres in series along a fibre determine how far the muscle can shorten; sarcomeres in parallel determine how much force it can produce.
+
+## forcelengthrelationship
+
+*Muscle Architecture & Physiology*
+
+**Force–length relationship** — A muscle produces its greatest force at one particular length, and less when it is shorter or longer than that. Formally: the relation between [sarcomere](#sarcomere) length and active isometric force, arising from the degree of overlap between actin and myosin filaments, with three regions:
+
+> ascending limb (< ~2.6 µm — filaments interfere, force reduced)
+> plateau (~2.6–2.8 µm — optimal overlap, maximum force)
+> descending limb (> ~2.8 µm — declining overlap, force falls)
+
+Total force is the sum of this active component and a **passive** component from titin and connective tissue, which rises steeply at long lengths. For the latissimus dorsi it settles a common confusion: extension and adduction hold the sarcomeres near the plateau, while shoulder flexion and abduction push them onto the **descending limb**, with active force capacity falling to ~70–85% (Gerling & Brown, 2013). You are weak overhead for a mechanical reason, not a technical one.
+
+## passivetension
+
+*Muscle Architecture & Physiology*
+
+**Passive tension** — The pull a muscle produces just by being stretched, with nothing switched on. Formally: the force borne by a muscle's non-contractile elastic elements — principally the giant intramuscular protein titin, plus the surrounding connective tissue — as a function of length, independent of cross-bridge activity. It is near zero at short and optimal lengths and rises steeply on the [descending limb](#forcelengthrelationship), so total tension is active plus passive:
+
+> F_total(L) = F_active(L) + F_passive(L)   (N)
+
+It is the reason a muscle at long length is not under low tension merely because its *active* force capacity has fallen — the two components trade off — and it is the mechanical basis of the growth advantage claimed for training at long muscle lengths (Part II §B.3).
+
+## fasciclelength
+
+*Muscle Architecture & Physiology*
+
+**Fascicle length** — How long the individual bundles of muscle fibres are, measured along the fibre rather than along the muscle. Formally: the length of a muscle fascicle from origin aponeurosis to insertion aponeurosis (cm), determining the number of [sarcomeres](#sarcomere) in series and therefore the muscle's excursion and its maximum shortening velocity. Approximate active excursion:
+
+> n_sarcomeres = fascicle length / sarcomere length   (dimensionless)
+> ΔL_active ≈ n_sarcomeres × sarcomere operating range   (cm) — conventionally approximated as ~0.5 × fascicle length
+
+The human latissimus dorsi measures **26.4 ± 1.0 cm** (Gerling & Brown, 2013) — among the longest fascicles in the body, roughly 0.7 of total muscle length, implying an active shortening range of around 13 cm. That single number is why range of motion rather than load is the primary training variable for this muscle.
+
+## pennationangle
+
+*Muscle Architecture & Physiology*
+
+**Pennation angle** — The angle at which the muscle fibres run relative to the line the tendon pulls in. Formally: the angle (degrees) between a muscle's fascicles and the line of action of its tendon. A pennate arrangement packs more fascicles into a given volume — raising force capacity — but each fascicle's force reaches the tendon reduced by cos θ, and the fascicles are shorter, so excursion falls. The latissimus dorsi is near-parallel with a low pennation angle, meaning force transmits almost fully along the fascicle and there is no packing bonus to exploit.
+
+## musclevolume
+
+*Muscle Architecture & Physiology*
+
+**Muscle volume** — How much space a whole muscle takes up, from one end to the other. Formally: the total volume of a muscle (cm³ or mL), obtained in practice by measuring its cross-sectional area on each of a series of MRI slices from origin to insertion and summing them along the muscle's length. It is the most complete size measure available in a training study, and the only one that cannot be misled by a growth pattern that happened to avoid the measurement site — which is why the strongest range-of-motion results in this document are volume results and the weakest are single-site thickness results.
+
+## pcsa
+
+*Muscle Architecture & Physiology*
+
+**PCSA (physiological cross-sectional area)** — The total slice-through area of all a muscle's fibres taken perpendicular to the fibres themselves — the honest measure of how much force it can make. Formally: the area (cm²) obtained by dividing muscle volume by [fascicle length](#fasciclelength), corrected for [pennation](#pennationangle):
+
+> PCSA = (muscle volume × cos θ_p) / fascicle length   (cm²; volume in cm³, length in cm)
+> muscle volume = mass / 1.056   (cm³; mass in g, using muscle density 1.056 g·cm⁻³)
+
+It is the correct predictor of maximum force, and it differs sharply from *anatomical* cross-section — a wide, thin, long-fibred muscle can look enormous and have a small PCSA. The latissimus dorsi is exactly that case at **5.6 ± 0.5 cm²** for a **170 g** muscle (Gerling & Brown, 2013).
+
+## specifictension
+
+*Muscle Architecture & Physiology*
+
+**Specific tension** — How much force a muscle makes per unit of its own cross-section; it is similar enough across human muscles that differences in strength are mostly differences in size rather than in tissue quality. Formally: maximum isometric force normalized to [PCSA](#pcsa), conventionally **~22–35 N·cm⁻²** in the muscle-architecture literature, though musculoskeletal models commonly assume 45–61 N·cm⁻²:
+
+> F_max ≈ PCSA × specific tension   (N; PCSA in cm², specific tension in N·cm⁻²)
+
+Because it is roughly constant across muscles, differences in force capacity between muscles are differences in PCSA, not in tissue quality. Applied to the latissimus dorsi's measured 5.6 cm², it yields a maximum isometric force of roughly **130 N** — a striking figure for a muscle that covers half the back, and the quantitative core of the claim that this is an excursion muscle rather than a force muscle. **The choice of constant is not cosmetic:** the quadriceps force demand computed in Part III §B.9 exceeds the capacity implied by 45 N·cm⁻² and closes only near the top of the modelled range, which is one of the reasons this document treats every absolute force figure as a bracket rather than a number.
+
+## musclethickness
+
+*Measurement & Research Methods*
+
+**Muscle thickness** — How deep a muscle is at a given spot, measured with an ultrasound probe on the skin. Formally: the linear distance (cm or mm) between the superficial and deep aponeuroses of a muscle at a standardized anatomical site, measured by B-mode ultrasonography. It is the standard practical outcome measure in muscle-growth trials — cheap, repeatable, and well correlated with cross-sectional area when the site and probe orientation are standardized. **Validity caveat:** it is a one-dimensional sample of a three-dimensional change, and the sample is worse than its reputation. Against MRI in 39 men trained for 15 weeks, change in thickness underestimated change in cross-sectional area and volume, and individual change in thickness showed **no significant correlation** with either MRI measure (Balshaw et al., 2026). Reliability depends on the operator: an experienced assessor achieves an inter-day smallest detectable change of 0.01–0.09 cm, an inexperienced one 0.07–0.19 cm (Warneke et al., 2025). **Moderate evidence.** Usable for group means with a standardized site and a practised operator; unreliable for judging your own 8-week change.
+
+---
+
+## monoarticularmuscle
+
+*Muscle Architecture & Physiology*
+
+**Monoarticular (single-joint) muscle** — A muscle that crosses only one joint, so only one angle changes its length. Formally: a muscle whose origin and insertion lie on segments separated by a single articulation; its length is a function of that joint's angle alone. The three vasti are monoarticular, which is why nothing done at the hip changes how stretched they are.
+
+## biarticularmuscle
+
+*Muscle Architecture & Physiology*
+
+**Biarticular (two-joint) muscle** — A muscle that crosses two joints, so its length depends on two angles at once. Formally: a muscle whose origin and insertion lie on segments separated by two articulations; its length is a function of both joint angles, so a movement that lengthens it at one joint while shortening it at the other can leave it near-isometric. The rectus femoris is the case that matters here: a squat flexes the knee and the hip together, and the two changes largely cancel.
+
+## anatomicalcsa
+
+*Measurement & Research Methods*
+
+**Anatomical cross-sectional area (ACSA)** — The area of a slice cut straight across a muscle, as it appears on a scan. Formally: the cross-sectional area of a muscle measured in a plane perpendicular to its longitudinal axis, in cm², typically from magnetic resonance imaging or computed tomography.
+
+> ACSA ≠ [PCSA](#pcsa)   (ACSA is a single geometric slice; PCSA sums the areas of all fascicles perpendicular to their own line of pull)
+
+The two diverge as [pennation angle](#pennationangle) rises, which is exactly what happens as a muscle grows — so a study reporting ACSA growth and a study reporting PCSA are not reporting the same quantity, and the gap widens with the size of the effect.
+
+> **LAYER 6 — Muscle function.** How a muscle is switched on, how it contracts, and how loading becomes growth.
+
+## motorunit
+
+*Muscle Architecture & Physiology*
+
+**Motor unit** — One nerve cell plus every muscle fibre it controls; the smallest thing the nervous system can switch on. Formally: a single alpha motor neuron together with all the muscle fibers it innervates, which contract together in an all-or-nothing fashion. Units vary from small and fatigue-resistant to large and forceful, and force is graded by how many are active and how fast each is firing. It is the physiological unit that the recruitment ordering defined next is about.
+
+## sizeprinciple
+
+*Muscle Architecture & Physiology*
+
+**Size principle** — Your body recruits its small, weak muscle units first and its big, strong ones only when the job demands it. Formally: [motor units](#motorunit) are recruited in ascending order of motor-neuron size and force output as required force rises (Henneman et al., 1965). The practical consequence for training is that high-threshold units are recruited once force demand is high enough — which occurs well before a set can no longer be continued when the resistance is moderate or heavy, and only very near that point when it is light. That asymmetry is why light-load sets must be taken nearer to failure to be equivalent.
+
+## concentriccontraction
+
+*Muscle Architecture & Physiology*
+
+**Concentric contraction** — The part of a rep where the muscle shortens and the weight moves the way you are pulling it. Formally: a contraction in which muscle force exceeds the external load and the muscle–tendon unit shortens — pulling an overhead handle down. Force capacity is lower concentrically than eccentrically at matched velocity, which is why the concentric is the phase that gives out first.
+
+## eccentriccontraction
+
+*Muscle Architecture & Physiology*
+
+**Eccentric contraction** — The part of a rep where the weight is winning and the muscle lengthens under load while you resist it. Formally: a contraction in which the external load exceeds muscle force and the muscle–tendon unit lengthens — letting an overhead handle rise back under control. It matters disproportionately for the latissimus dorsi because it is the phase during which the muscle reaches its longest length while still loaded — which is why letting the weight drop back discards not just half the time under tension but the whole of the loaded lengthening.
+
+## neuromuscularcompartment
+
+*Muscle Architecture & Physiology*
+
+**Neuromuscular compartment** — A region of one muscle with its own nerve branch, which can therefore be switched on somewhat independently of the rest. Formally: a subvolume of a single muscle supplied by a discrete primary branch of its motor nerve, capable of partially independent activation. The latissimus dorsi has genuine compartments — its nerve divides into two or three major branches before entering the muscle, which is the anatomical basis of the segmental latissimus flap in reconstructive surgery and the reason regional activation differences within this muscle are real rather than an artefact.
+
+## mechanotransduction
+
+*Muscle Architecture & Physiology*
+
+**Mechanotransduction** — How a cell notices it is being pulled on and turns that into a chemical instruction. Formally: the conversion of a mechanical stimulus into a biochemical signalling cascade, mediated in skeletal muscle by candidate sensors at the sarcolemma, the costameres and the titin filament, converging on pathways including mTORC1 that raise muscle protein synthesis (Wackerhage et al., 2019). **Moderate evidence** for the framework; which sensor dominates in human muscle is unresolved.
+
+## mechanicaltension
+
+*Muscle Architecture & Physiology*
+
+**Mechanical tension** — The pulling force experienced along a muscle fibre — the actual stimulus that tells a muscle to grow. Formally: the force (N) borne along the line of pull by the contractile and elastic elements of a muscle fibre, comprising an **active** component from cross-bridge cycling and a **passive** component from titin and connective tissue at long lengths, and sensed via [mechanotransduction](#mechanotransduction). Where fibres or muscles of different size are compared it is normalized to cross-section as a stress (N·cm⁻²), which is the quantity [specific tension](#specifictension) measures. It is the primary driver of muscle growth; metabolic stress and muscle damage are secondary and largely act through it rather than independently of it. **Moderate evidence** for that tension-primacy framing.
+
+---
+
+> **LAYER 7 — Growth.** What adaptation is, and the length at which it is best provoked.
+
+## hypertrophy
+
+*Muscle Architecture & Physiology*
+
+**Hypertrophy** — A muscle getting bigger. Formally: an increase in the cross-sectional area or volume of a muscle, produced principally by accretion of myofibrillar protein enlarging existing fibers rather than by an increase in fiber number. Measured in humans as [muscle thickness](#musclethickness) by ultrasound, [anatomical cross-sectional area](#anatomicalcsa) by MRI, or whole-muscle volume. Driven principally by [mechanical tension](#mechanicaltension) applied over a [range of motion](#rangeofmotion) and repeated until the tissue adapts.
+
+## lengthenedposition
+
+*Training Variables & Prescription*
+
+**Lengthened position** — The part of an exercise where the target muscle is stretched longest — usually the bottom, or in a pulling movement the fully overhead reach. Formally: the portion of a movement's [range of motion](#rangeofmotion) in which the target muscle's [sarcomeres](#sarcomere) are at their greatest length, typically on the [descending limb](#forcelengthrelationship) of the force–length curve where active force is reduced and passive tension is high. For the latissimus dorsi it is the fully elevated arm position, and it is simultaneously the position of greatest length, lowest leverage and lowest active force capacity — three facts that must be held together rather than traded off.
+
+## stretchmediatedhypertrophy
+
+*Muscle Architecture & Physiology*
+
+**Stretch-mediated hypertrophy** — The finding that training a muscle while it is long grows it more than training it while it is short. Formally: the greater [hypertrophic](#hypertrophy) response to resistance training performed at long muscle lengths, attributed to elevated total [mechanical tension](#mechanicaltension) — active plus passive — at long [sarcomere](#sarcomere) lengths in the [lengthened position](#lengthenedposition). Best-supported evidence: 12 weeks of overhead versus neutral-position elbow extension produced **19.9% versus 13.5%** triceps growth despite lower absolute loads (Maeo et al., 2023), with a parallel result in the hamstrings (Maeo et al., 2021). **Caveat:** the mechanism is well supported in those muscles and has **never been tested in the latissimus dorsi**; the related claim that long-length training adds sarcomeres in series is **weak and contested** (Wolf et al., 2026).
+
+## lengthenedpartials
+
+*Training Variables & Prescription*
+
+**Lengthened partials** — Doing only the bottom, stretched half of each rep instead of the whole rep. Formally: repetitions deliberately restricted to the lengthened portion of the [range of motion](#rangeofmotion), excluding the shortened portion. In trained individuals they produced adaptations similar to full-ROM training over 8 weeks (Wolf et al., 2025). **Promising but under-replicated.** Practical reading: a legitimate additional tool once full ROM is established, not a substitute for establishing it — and note that the trial establishing this measured the arm muscles, not the latissimus dorsi.
+
+## regionalhypertrophy
+
+*Muscle Architecture & Physiology*
+
+**Regional hypertrophy** — One part of a muscle growing more than another part of the same muscle. Formally: non-uniform [hypertrophy](#hypertrophy) along the length or across the regions of a single muscle in response to a given exercise, attributed to non-uniform mechanical strain distribution and to differential activation of [neuromuscular compartments](#neuromuscularcompartment). Demonstrated in several limb muscles. For the latissimus dorsi, regional *activation* differences are measured (Muñoz-Garcés et al., 2026) but regional *growth* has never been measured — **promising but under-replicated**, and not a basis for claiming a given exercise sculpts a given part of the muscle.
+
+---
+
+> **LAYER 8 — The muscles themselves.** Everything above is needed to state what these are.
+
+## thoracodorsalnerve
+
+*Anatomy & Structure*
+
+**Thoracodorsal nerve** — The single nerve that drives the latissimus dorsi. Formally: a branch of the posterior cord of the brachial plexus carrying fibres from **C6, C7 and C8**, running down the posterior axillary wall with the thoracodorsal artery to enter the deep surface of the latissimus dorsi, where it divides into two or three major branches. That division is what creates the muscle's [neuromuscular compartments](#neuromuscularcompartment), and it is the reason surgeons can transfer part of the muscle while leaving the rest functional.
+
+## teresmajor
+
+*Anatomy & Structure*
+
+**Teres major** — A short, thick muscle running from the outer lower edge of the shoulder blade to the front of the upper arm bone, doing exactly what the latissimus dorsi does. Formally: a muscle originating on the dorsal surface of the inferior angle and lateral border of the [scapula](#scapula) and inserting on the **medial lip** of the [bicipital groove](#bicipitalgroove), innervated by the lower subscapular nerve, producing [shoulder extension](#shoulderextension), [adduction](#shoulderadduction) and [internal rotation](#internalrotation). Because its actions and its insertion are effectively identical to the latissimus dorsi's, **no exercise can separate the two** — every latissimus dorsi set is also a teres major set, and the visible posterior axillary fold is formed by both together.
+
+## elbowflexors
+
+*Anatomy & Structure*
+
+**Elbow flexors** — The muscles on the front of the upper arm and forearm that bend the elbow: biceps brachii, brachialis, and brachioradialis. Formally: the muscle group producing flexion [torque](#torque) at the humeroulnar and humeroradial joints, with brachialis the largest contributor by cross-section, biceps brachii additionally supinating the forearm and flexing the shoulder, and brachioradialis contributing most in a neutral forearm position. They are the principal synergists in every multi-joint pull and the principal reason a latissimus dorsi set can end before the latissimus dorsi is trained.
+
+## serratusanterior
+
+*Anatomy & Structure*
+
+**Serratus anterior** — The fan of finger-like muscle slips wrapping the side of the ribcage under the shoulder blade. Formally: a muscle originating from the outer surfaces of ribs 1–9 and inserting along the medial border of the [scapula](#scapula), innervated by the long thoracic nerve, producing scapular protraction and — critically — [upward rotation](#scapularupwardrotation). It is not a latissimus dorsi synergist, but it is a prerequisite: without serratus-driven upward rotation, the arm cannot reach the overhead position that the latissimus dorsi's training depends on. Its visible slips over the ribs also form part of what is read as "lat" development.
+
+## latissimusdorsi
+
+*Anatomy & Structure*
+
+**Latissimus dorsi** — The large, thin, fan-shaped muscle covering the lower half of the back, running from the pelvis and lower spine up and out to the front of the upper arm bone. It is the only muscle that directly connects the upper limb to the pelvis. Formally: a broad, flat muscle arising from the spinous processes of T7–T12, the [thoracolumbar fascia](#thoracolumbarfascia) down to the sacrum, the posterior third of the iliac crest, ribs 9–12, and — in 43 of 100 cadaveric specimens (Pouliart & Gagey, 2005) — the inferior angle of the [scapula](#scapula); its tendon rotates through approximately 180° before inserting on the **floor of the [bicipital groove](#bicipitalgroove)**; innervated by the [thoracodorsal nerve](#thoracodorsalnerve) (C6–C8). Actions: [shoulder extension](#shoulderextension), [adduction](#shoulderadduction) and [internal rotation](#internalrotation); with the arm fixed it raises the trunk toward the arm.
+
+Measured architecture, from 12 human cadavers (Gerling & Brown, 2013):
+
+> mass 170.4 ± 15.6 g | normalized [fascicle length](#fasciclelength) 26.4 ± 1.0 cm | [PCSA](#pcsa) 5.6 ± 0.5 cm² | [sarcomere](#sarcomere) length 2.69 ± 0.06 µm
+
+The ± figures are standard errors of the mean, not between-specimen spread, and PCSA was computed per specimen and then averaged — which is why it does not equal the mean mass divided by the mean fascicle length. Individual PCSA ranged 3.7–8.1 cm² across the sample.
+
+That combination — very long fascicles, very small PCSA — defines it as an **excursion muscle rather than a force muscle**, which is the origin of every training recommendation in this document. Roughly 64% of its PCSA lies in the lumbar–pelvic–costal region below the ribcage. Fibre type is fast-dominant, with MyHC 1 at only 33% (Paoli et al., 2013).
+
+## posteriorobliquesling
+
+*Anatomy & Structure*
+
+**Posterior oblique sling** — The diagonal chain linking one shoulder to the opposite hip through the tough sheet in the lower back. Formally: the functional linkage of the [latissimus dorsi](#latissimusdorsi) on one side, through the posterior layer of the [thoracolumbar fascia](#thoracolumbarfascia), to the contralateral gluteus maximus, proposed to generate force closure across the sacroiliac joint during gait and rotational loading. **Moderate evidence:** the anatomical continuity is not disputed; the functional magnitude is. Dissection with force-vector analysis found the latissimus dorsi capable of acting on the shoulder, the lumbar spine and the sacroiliac joint but with only a small capacity to extend the lumbar spine in isolation (Bogduk et al., 1998). Training-relevant only in that the muscle's origin is a tensionable structure, so trunk bracing is part of its mechanics rather than a safety flourish.
+
+## axillaryarch
+
+*Anatomy & Structure*
+
+**Axillary arch (Langer's arch)** — An extra strip of muscle that some people have running across the armpit from the latissimus dorsi to the chest or upper arm. Formally: an anatomical variant in which a muscular or tendinous slip arises from the [latissimus dorsi](#latissimusdorsi) near the inferior [scapular](#scapula) angle and inserts into pectoralis major, coracobrachialis, the biceps or the coracoid process, crossing the axilla superficial to the neurovascular bundle. Reported in a small minority of cadaveric specimens. Clinically relevant because it can compress the axillary contents; training-relevant only as one source of the wide individual variation in how the posterior axillary fold looks.
+
+---
+
+## femoralnerve
+
+*Anatomy & Structure*
+
+**Femoral nerve** — The nerve that supplies the muscles on the front of the thigh. Formally: a nerve arising from the L2–L4 roots of the lumbar plexus, entering the thigh beneath the inguinal ligament and dividing into branches that innervate each head of the quadriceps femoris separately, as well as sartorius and the skin of the front of the thigh. The head-by-head branching is why each head has genuine [neuromuscular compartment](#neuromuscularcompartment) independence, and it is how the fifth head was identified as a separate muscle.
+
+## rectusfemoris
+
+*Anatomy & Structure*
+
+**Rectus femoris** — The quadriceps head that runs straight down the middle of the front of the thigh, from the pelvis to the kneecap. Formally: the [biarticular](#biarticularmuscle) head of the quadriceps femoris, originating on the anterior inferior iliac spine and the groove above the acetabulum, inserting via the [quadriceps tendon](#quadricepstendon); it both flexes the hip and extends the knee. Measured architecture: 110.6 g mass, 7.59 cm [fascicle length](#fasciclelength), 13.9° [pennation](#pennationangle), 13.5 cm² [PCSA](#pcsa) (Ward et al., 2009a). It is the smallest head and the only one whose length is set by two joints, which is the reason almost every quadriceps program under-trains it.
+
+## vastuslateralis
+
+*Anatomy & Structure*
+
+**Vastus lateralis** — The large outer head of the quadriceps, forming the sweep on the outside of the thigh. Formally: a [monoarticular](#monoarticularmuscle) head originating on the greater trochanter and the lateral lip of the linea aspera of the [femur](#femur). Measured architecture: 375.9 g, 9.94 cm fascicle length, 18.4° pennation, 35.1 cm² PCSA — the largest [PCSA](#pcsa) in the group and one of the three largest in the lower limb (Ward et al., 2009a). It is also the most-biopsied and most-ultrasounded muscle in human physiology, which is why most claims about "muscle" in the training literature are in fact claims about this muscle.
+
+## vastusmedialis
+
+*Anatomy & Structure*
+
+**Vastus medialis** — The inner head of the quadriceps, forming the teardrop-shaped bulge just above and inside the knee. Formally: a monoarticular head originating along the intertrochanteric line and the medial lip of the linea aspera. Measured architecture: 239.4 g, 9.68 cm fascicle length, 29.6° pennation — the steepest fibre angle in the group — and 20.6 cm² PCSA (Ward et al., 2009a). Its distal fibres run far more obliquely than its proximal fibres; whether this makes it two anatomically separate muscles remains unresolved (Smith et al., 2009), and no exercise has been shown to grow either portion preferentially.
+
+## vastusintermedius
+
+*Anatomy & Structure*
+
+**Vastus intermedius** — The quadriceps head buried directly under the one you can see, against the front of the thigh bone. Formally: a monoarticular head originating on the anterior and lateral surfaces of the femoral shaft, lying deep to [rectus femoris](#rectusfemoris). Measured architecture: 171.9 g, 9.93 cm fascicle length, 4.5° pennation — the flattest fibre angle in the group — and 16.7 cm² PCSA (Ward et al., 2009a). It is invisible from outside and cannot be palpated, so it contributes roughly a fifth of the group's force capacity with no visible signature at all.
+
+## tensorvastusintermedius
+
+*Anatomy & Structure*
+
+**Tensor vastus intermedius** — A fifth quadriceps head, lying between the outer head and the deep one, described only in 2016. Formally: a distinct muscle belly between [vastus lateralis](#vastuslateralis) and [vastus intermedius](#vastusintermedius), supplied by its own muscular branch of the [femoral nerve](#femoralnerve) and its own vascular branch, forming a separate [aponeurosis](#aponeurosis) that merges into the [quadriceps tendon](#quadricepstendon) and inserts on the medial aspect of the [patella](#patella); found in all 26 limbs of the describing dissection series, in four morphological types (Grob et al., 2016). Nothing in training practice acts on it directly; it matters because every published quadriceps cross-sectional area measurement silently includes it.
+
+## quadricepsfemoris
+
+*Anatomy & Structure*
+
+**Quadriceps femoris** — The muscle group on the front of the thigh that straightens the knee. Formally: the group comprising [rectus femoris](#rectusfemoris), [vastus lateralis](#vastuslateralis), [vastus medialis](#vastusmedialis), [vastus intermedius](#vastusintermedius) and, in the modern description, [tensor vastus intermedius](#tensorvastusintermedius), converging on the [quadriceps tendon](#quadricepstendon) and innervated by the [femoral nerve](#femoralnerve); summed measured [PCSA](#pcsa) ≈ 86 cm² and mass ≈ 900 g across the four classical heads (Ward et al., 2009a) — a measurement that predates the fifth head's description and therefore contains it, distributed among the vasti (Part III §A.3). It is the sole extensor of the knee — no other muscle can perform the action at all — and one of its five heads also crosses the hip.
+
+## gluteusmaximus
+
+*Anatomy & Structure*
+
+**Gluteus maximus** — The large muscle of the buttock, and the heaviest single muscle in the human body. Formally: the most superficial and largest gluteal muscle, arising from the posterior ilium of the [pelvis](#pelvis), the [sacrum](#sacrum), the coccyx, the [sacrotuberous ligament](#sacrotuberousligament) and the [thoracolumbar fascia](#thoracolumbarfascia), and inserting partly into the [iliotibial tract](#iliotibialtract) and partly into the gluteal tuberosity of the [femur](#femur), with the proportions **contested** (Part IV §A.5); supplied by the inferior gluteal nerve. Its principal action is [hip extension](#hipextension), with external rotation throughout, abduction by the fibres passing above the joint's axis, and adduction by those passing below it. Measured architecture: mass 547.2 ± 162.2 g, [fascicle length](#fasciclelength) 15.69 ± 2.57 cm, [PCSA](#pcsa) 33.4 ± 8.8 cm², and a fascicle-to-muscle-length ratio of 0.62 — the highest of any lower-limb muscle above 100 g (Ward et al., 2009a). That combination is what makes it unique in this document: it is built for force **and** for excursion, so unlike the latissimus dorsi and unlike the quadriceps femoris it needs load and range at the same time.
+
+## hamstrings
+
+*Anatomy & Structure*
+
+**Hamstrings** — The muscle group on the back of the thigh. Formally: biceps femoris, semitendinosus and semimembranosus; the long head of biceps femoris, semitendinosus and semimembranosus cross both the hip and the knee, producing [hip extension](#hipextension) and [knee flexion](#kneeflexion), while the short head of biceps femoris crosses the knee only and is excluded from every hip extensor calculation in Part IV §B.4. In a squat they act mainly as co-contractors stabilizing the knee rather than as movers, because hip extension lengthens them at the same rate knee extension shortens them — the mirror image of the [rectus femoris](#rectusfemoris) situation.
+
+## hipadductors
+
+*Anatomy & Structure*
+
+**Hip adductors** — The muscle group on the inside of the thigh that pulls the leg toward the midline. Formally: adductor magnus, longus and brevis, pectineus and gracilis, originating on the pubis and ischium and inserting along the medial femur; adductor magnus in particular is a powerful hip extensor from a flexed hip. They grow substantially from deep squatting (Kubo et al., 2019), which is one reason deep squats produce more total lower-limb development than shallow ones without producing proportionally more quadriceps.
+
+## gastrocnemius
+
+*Anatomy & Structure*
+
+**Gastrocnemius** — The two-headed calf muscle that forms the visible bulge at the back of the lower leg. Formally: a [biarticular](#biarticularmuscle) muscle originating on the posterior femoral condyles and inserting via the Achilles tendon on the calcaneus, producing ankle plantar flexion and [knee flexion](#kneeflexion). Because it crosses the knee, its tension rises in a deep squat, and because it crosses the ankle, its length limits [ankle dorsiflexion](#ankledorsiflexion) — so it appears twice in the list of things that cap how deep a squat can go.
+
+## gluteusmedius
+
+*Anatomy & Structure*
+
+**Gluteus medius** — The muscle on the side of the hip, above and in front of the buttock. Formally: a fan-shaped muscle arising from the outer surface of the ilium between the posterior and anterior gluteal lines and inserting on the lateral facet of the [greater trochanter](#greatertrochanter), supplied by the superior gluteal nerve; the principal [hip abductor](#hipabduction), with anterior fibres that also internally rotate and posterior fibres that also externally rotate. Its [PCSA](#pcsa) of 33.8 ± 14.4 cm² is of the same order as the gluteus maximus's 33.4 ± 8.8 cm², in [fascicles](#fasciclelength) less than half as long (Ward et al., 2009a) — a short-range, high-force stabilizer, and a muscle that no hip extension exercise trains.
+
+## gluteusminimus
+
+*Anatomy & Structure*
+
+**Gluteus minimus** — The smallest and deepest of the three gluteal muscles, lying underneath the medius. Formally: a fan-shaped muscle arising from the outer ilium between the anterior and inferior gluteal lines and inserting on the anterior facet of the [greater trochanter](#greatertrochanter), supplied by the superior gluteal nerve; a [hip abductor](#hipabduction) whose line of pull runs close enough to the joint that it also acts to hold the femoral head in its socket. Being deep to the [gluteus medius](#gluteusmedius), it cannot be measured or loaded separately in practice, and the same exercises train both.
+
+## tensorfascialatae
+
+*Anatomy & Structure*
+
+**Tensor fasciae latae (TFL)** — A small muscle at the front of the hip that tightens the band running down the outside of the thigh. Formally: a short muscle arising from the anterior iliac crest and the anterior superior iliac spine of the [pelvis](#pelvis) and inserting into the [iliotibial tract](#iliotibialtract), supplied by the superior gluteal nerve; it flexes, abducts and internally rotates the hip. It is not a gluteal muscle, but it tensions the same fascial band as the upper gluteus maximus from the opposite direction, which is why the two are considered together whenever lateral hip pain is being assessed.
+
+## hipexternalrotators
+
+*Anatomy & Structure*
+
+**Deep hip external rotators** — A group of small muscles lying behind the hip joint that turn the thigh outward. Formally: piriformis, superior and inferior gemellus, obturator internus and externus, and quadratus femoris, running from the [sacrum](#sacrum) and ischium to the [greater trochanter](#greatertrochanter) and producing [external rotation](#hipexternalrotation) with the hip near straight, together with a compressive stabilization of the [hip joint](#hipjoint). Only obturator internus, obturator externus and quadratus femoris keep an external rotation moment arm across the whole range; the piriformis reverses to **internal** rotation in a flexed hip, from a 29 mm external moment arm at 0° to a 14 mm internal one at 90° (Delp et al., 1999). They are not a hypertrophy target — they are small, deep, and not measurable in practice — and they appear in this document only because deep buttock pain is often attributed to them.
+
+## adductormagnus
+
+*Anatomy & Structure*
+
+**Adductor magnus** — The largest muscle of the inner thigh, whose rear portion behaves like a hamstring. Formally: a large triangular muscle arising from the inferior pubic ramus and the [ischial tuberosity](#ischialtuberosity) and inserting along the linea aspera of the [femur](#femur) and at the adductor tubercle; its posterior, ischiocondylar part shares the hamstrings' origin and produces [hip extension](#hipextension), particularly from a flexed hip. With a [PCSA](#pcsa) of 20.5 cm² (Ward et al., 2009a) it adds about 30% again to the hip extensor group, and it grew 6.2% in ten weeks of full squatting (Kubo et al., 2019) — which is a large part of why a deep squat is not a pure gluteal exercise.
+
+## erectorspinae
+
+*Anatomy & Structure*
+
+**Erector spinae** — The columns of muscle running either side of the spine that hold you upright. Formally: the iliocostalis, longissimus and spinalis columns, arising from the sacrum, iliac crest and lumbar spine and inserting on the ribs, transverse processes and skull, producing spinal extension and resisting spinal flexion; continuous below with the [thoracolumbar fascia](#thoracolumbarfascia) and therefore with the [gluteus maximus](#gluteusmaximus). In every hinge-pattern exercise they work isometrically against the same trunk inclination that generates the hip torque, which is why they, and not the hip, usually end the set.
+
+## inferiorglutealnerve
+
+*Anatomy & Structure*
+
+**Inferior gluteal nerve** — The nerve that supplies the gluteus maximus, and nothing else. Formally: a branch of the sacral plexus (L5, S1, S2) leaving the pelvis below the piriformis to enter the deep surface of the [gluteus maximus](#gluteusmaximus). Its exclusivity is the useful part: unlike the [thoracodorsal nerve](#thoracodorsalnerve) or the [femoral nerve](#femoralnerve), it has exactly one muscle to supply, so weakness following injury to it is isolated and unmistakable.
+
+## superiorglutealnerve
+
+*Anatomy & Structure*
+
+**Superior gluteal nerve** — The nerve that supplies both hip abductors and the muscle in front of them. Formally: a branch of the sacral plexus (L4, L5, S1) leaving the pelvis above the piriformis to supply the [gluteus medius](#gluteusmedius), the [gluteus minimus](#gluteusminimus) and the [tensor fasciae latae](#tensorfascialatae). Because all three share it, injury to it produces the characteristic dropping of the opposite side of the pelvis in single-leg stance, and it is the reason the three are treated as one functional group.
+
+> **LAYER 9 — Measurement.** How the claims above and below are actually observed, and what those observations cannot say.
+
+## axillarynerve
+
+*Anatomy & Structure*
+
+**Axillary nerve** — The nerve that supplies the whole deltoid, and the one most often injured by a shoulder dislocation. Formally: a terminal branch of the posterior cord of the brachial plexus (C5, C6) that passes through the quadrangular space and wraps the surgical neck of the [humerus](#humerus) to supply all three deltoid heads and teres minor, plus a patch of skin over the shoulder. Two consequences: **all three heads share one nerve**, so a deltoid cannot be selectively denervated; and the nerve's path around the bone is why a fracture or dislocation at that level can silence the entire muscle at once (Part V §A.2).
+
+## rotatorcuff
+
+*Anatomy & Structure*
+
+**Rotator cuff** — The four small muscles that wrap the ball of the shoulder joint and hold it in its socket while the big muscles move the arm. Formally: supraspinatus, infraspinatus, teres minor and subscapularis, arising from the [scapula](#scapula) and inserting as a continuous tendinous sleeve onto the greater and lesser tuberosities of the [humerus](#humerus); their combined [line of action](#lineofaction) compresses and depresses the humeral head into the glenoid fossa. They are not a hypertrophy target in this document, and they set the ceiling on what the deltoid can be asked to do: their opposing rotations form a transverse-plane force couple that stabilizes the head while the deltoid elevates it, and the infraspinatus and subscapularis carry the largest axial-rotation [moment arms](#momentarm) at the joint — though not larger than every deltoid sub-region's, since the anterior deltoid's pooled rotation arm of 22.2 mm exceeds the subscapularis's 20.6 mm and the supraspinatus's 4.0 mm (Hik & Ackland, 2019).
+
+## supraspinatus
+
+*Anatomy & Structure*
+
+**Supraspinatus** — The [rotator cuff](#rotatorcuff) muscle that runs across the top of the shoulder blade and starts the arm moving away from your side. Formally: arising from the supraspinous fossa of the [scapula](#scapula), passing beneath the [acromion](#acromion) through the [subacromial space](#subacromialspace) to insert on the superior facet of the greater tuberosity of the [humerus](#humerus); supplied by the suprascapular nerve. Its abduction [moment arm](#momentarm) peaks at **28.2 ± 1.6 mm in very early abduction** and falls thereafter (Hik & Ackland, 2019), which is more than three times the deltoid's at the same angle — the measurement behind the description of this muscle as the **initiator** of elevation, and behind the whole of Part V §A.5. Its tendon is the most commonly torn in the body, and it is the structure a painful arc most often implicates.
+
+## anteriordeltoid
+
+*Anatomy & Structure*
+
+**Anterior deltoid** — The front third of the shoulder cap, running from the collarbone to the outside of the upper arm. Formally: the clavicular head of the deltoid, arising from the anterior border of the lateral third of the [clavicle](#clavicle) and inserting on the [deltoid tuberosity](#deltoidtuberosity) of the [humerus](#humerus); supplied by the [axillary nerve](#axillarynerve). It has the largest [shoulder flexion](#shoulderflexion) [moment arm](#momentarm) of any deltoid sub-region — 35.5 ± 3.3 mm pooled — and an abduction moment arm that equals or exceeds the middle head's, both rising with [elevation](#humeralelevation) angle (Hik & Ackland, 2019). It is the one head that heavy pressing demonstrably grows without any dedicated work (Lanza et al., 2024).
+
+## middledeltoid
+
+*Anatomy & Structure*
+
+**Middle deltoid** — The outer third of the shoulder cap, the part that makes shoulders look wide. Formally: the acromial head of the deltoid, arising from the lateral border of the [acromion](#acromion) and inserting on the [deltoid tuberosity](#deltoidtuberosity); supplied by the [axillary nerve](#axillarynerve). Architecturally it is short-fibred, complexly multipennate and high-[PCSA](#pcsa) — a force muscle — and it is one of only two muscles of the shoulder and arm whose **required [excursion](#excursion) in its own action exceeds its own [fascicle length](#fasciclelength)** (Peterson & Rayan, 2011), so it works across most of its [force–length curve](#forcelengthrelationship) in a single repetition. Its abduction moment arm rises from 8.3 mm at 2.5° to 29.1 mm at 86° (Ackland et al., 2008), which is the reverse of every lower-limb muscle in this document, and the reason [abduction](#shoulderabduction) rather than pressing is the action that trains it (Part V §B.2).
+
+## posteriordeltoid
+
+*Anatomy & Structure*
+
+**Posterior deltoid** — The rear third of the shoulder cap, running from the ridge on the back of the shoulder blade to the outside of the upper arm. Formally: the spinal head of the deltoid, arising from the lower lip of the crest of the spine of the [scapula](#scapula) and inserting on the [deltoid tuberosity](#deltoidtuberosity); supplied by the [axillary nerve](#axillarynerve). Its fibre bundles measure **12.31 ± 0.78 cm**, longer than any head of the triceps (Fridén & Lieber, 2001), which makes it an excursion muscle rather than a force one. Its distinguishing mechanical fact is a **negative** abduction [moment arm](#momentarm) through the lower half of coronal abduction — it opposes a lateral raise rather than assisting it — and an extensor moment arm peaking at 33.0 mm in early flexion (Ackland et al., 2008). [Horizontal abduction](#shoulderhorizontalabduction) is the only action that trains it.
+
+## deltoid
+
+*Anatomy & Structure*
+
+**Deltoid** — The muscle that caps the shoulder and raises the arm in whatever direction its fibres pull. Formally: the triangular muscle formed by the [anterior](#anteriordeltoid), [middle](#middledeltoid) and [posterior](#posteriordeltoid) heads, all three converging on the [deltoid tuberosity](#deltoidtuberosity) of the [humerus](#humerus) and all three supplied by the [axillary nerve](#axillarynerve); internally divided by intramuscular tendons into **seven** anatomical segments whose boundaries correspond to differences in metabolic activity during elevation (Sakoma et al., 2011). It is the **largest muscle of the upper limb**, holding 15.2 ± 1% of the limb's total muscle volume — the largest fraction of the thirty-two muscles measured by MRI in living adults (Holzbaur et al., 2007). Its defining property for training is that its heads wrap the joint from three sides, so their moment arms differ in **sign** rather than merely in size, and no single exercise loads more than one of them well (Part V §B.4).
+
+## pectoralismajor
+
+*Anatomy & Structure*
+
+**Pectoralis major** — The large fan-shaped muscle of the chest. Formally: arising from the medial [clavicle](#clavicle), the sternum and the upper costal cartilages, converging to insert on the lateral lip of the [bicipital groove](#bicipitalgroove) of the [humerus](#humerus); supplied by the medial and lateral pectoral nerves. Its clavicular fibres are a powerful [shoulder flexor](#shoulderflexion) — peak flexion [moment arm](#momentarm) 53.7 ± 2.1 mm, the largest at the joint and larger than any deltoid sub-region's (Ackland et al., 2008) — while its sternal and lower-costal fibres behave as a stabilizer and an extensor respectively. For Part V it matters as the muscle the [anterior deltoid](#anteriordeltoid) shares every press and every front raise with, and never has flexion to itself.
+
+## trapezius
+
+*Anatomy & Structure*
+
+**Trapezius** — The large diamond-shaped muscle of the upper back and neck that moves the shoulder blade. Formally: arising from the occiput, the nuchal ligament and the spinous processes of C7 to T12, inserting on the [clavicle](#clavicle), the [acromion](#acromion) and the spine of the [scapula](#scapula); supplied by the accessory nerve. Its upper fibres elevate the shoulder girdle and, with the lower fibres, produce [scapular upward rotation](#scapularupwardrotation); its middle fibres produce [scapular retraction](#scapularretraction). It appears twice in Part V and for opposite reasons: it is a **prerequisite** for the top of an overhead press, and it is what ends most lateral raises, by turning them into shrugs (Part V §C.5).
+
+## tricepsbrachii
+
+*Anatomy & Structure*
+
+**Triceps brachii** — The muscle on the back of the upper arm that straightens the elbow. Formally: the long, lateral and medial heads on the posterior [humerus](#humerus), converging on the olecranon of the ulna and supplied by the radial nerve; the **long head alone crosses the shoulder**, arising from the infraglenoid tubercle of the [scapula](#scapula) and acting as a [shoulder extensor](#shoulderextension) as well as an elbow extensor. For Part V it matters as the muscle that ends most pressing sets before the deltoid does, and as the reason how widely you grip a press trades shoulder [torque](#torque) against elbow torque (Gundersen et al., 2026).
+
+## rectusabdominis
+
+*Anatomy & Structure*
+
+**Rectus abdominis** — The vertical strap of muscle down the front of the abdomen; the "six-pack". Formally: paired muscles running from the pubic crest to the fifth to seventh costal cartilages and the xiphoid process, enclosed in the [rectus sheath](#rectussheath) and separated in the midline by the [linea alba](#lineaalba); supplied by the thoracoabdominal nerves (T7–T12). It is interrupted by three to four **tendinous intersections** that divide it into a chain of short muscles arranged end to end, so its whole-muscle [fascicle length](#fasciclelength) of 34.2 cm is a sum of segments in series and not the length of any fibre — real fascicles measure 6.6 to 13.2 cm (Brown et al., 2011). Its [PCSA](#pcsa) is **2.8 cm² per side**, among the smallest in this document, but it carries the wall's longest flexion [moment arm](#momentarm) at 8.5–9.8 cm measured upright (Jorgensen et al., 2005) — so it supplies between a quarter and a half of the wall's [trunk flexion](#trunkflexion) torque capacity (Part VI §B.9) while contributing nothing to rotation, and the loads in this category will never look impressive.
+
+## externaloblique
+
+*Anatomy & Structure*
+
+**External oblique** — The outermost of the three sheets that wrap around the side of the abdomen, its fibres running downward and forward as if into a front pocket. Formally: arising from the outer surfaces of ribs 5–12 and inserting into the [linea alba](#lineaalba), the pubic tubercle and the anterior iliac crest. It produces [trunk flexion](#trunkflexion), [lateral flexion](#trunklateralflexion) to its own side, and [rotation](#trunkrotation) toward the **opposite** side — so a rightward twist uses the left external oblique. Measured mass 104.6 g, [fascicle length](#fasciclelength) 17.0 cm, [PCSA](#pcsa) 5.8 cm² (Brown et al., 2011).
+
+## internaloblique
+
+*Anatomy & Structure*
+
+**Internal oblique** — The middle of the three wrapping sheets, its fibres running roughly at right angles to the layer above it. Formally: arising from the [thoracolumbar fascia](#thoracolumbarfascia), the iliac crest and the inguinal ligament, inserting on ribs 10–12 and the [linea alba](#lineaalba). It produces [trunk flexion](#trunkflexion), [lateral flexion](#trunklateralflexion) and [rotation](#trunkrotation) toward its **own** side, pairing with the opposite side's external oblique. **It is the largest muscle of the abdominal wall by [PCSA](#pcsa) — 9.5 cm² against the rectus abdominis's 2.8** (Brown et al., 2011), which makes it the muscle with the most force to give in a region whose exercises are all named after a smaller one (Part VI §B.9).
+
+## transversusabdominis
+
+*Anatomy & Structure*
+
+**Transversus abdominis** — The deepest of the three wrapping sheets, its fibres running horizontally like a belt. Formally: arising from the [thoracolumbar fascia](#thoracolumbarfascia), the iliac crest, the inguinal ligament and the lower costal cartilages, inserting into the [linea alba](#lineaalba) and pubic crest; [PCSA](#pcsa) 5.2 cm², [fascicle length](#fasciclelength) 9.5 cm (Brown et al., 2011). Its line of action produces almost no spinal movement; what it does is **compress the abdominal contents**, raising [intra-abdominal pressure](#intraabdominalpressure). It cannot be reached by a surface electrode, which is why almost every claim made about it from surface electromyography is crosstalk from the layers above it (Part VI §B.11).
+
+## abdominalwall
+
+*Anatomy & Structure*
+
+**Abdominal wall** — The four layered muscles that enclose the front and sides of the abdomen, working as one structure rather than four. Formally: the [rectus abdominis](#rectusabdominis) enclosed in its [sheath](#rectussheath), with the [external oblique](#externaloblique), [internal oblique](#internaloblique) and [transversus abdominis](#transversusabdominis) wrapping from behind and converging on the [linea alba](#lineaalba); total [PCSA](#pcsa) about 23.3 cm² per side (Brown et al., 2011). Because all four converge on one midline seam it behaves as a **fascial cylinder with muscles in it**: pulling on any one of them tensions the whole envelope, so no exercise loads one in isolation, and the compression cost of an exercise is paid whichever muscle you meant to train (Part VI §A.5).
+
+## multifidus
+
+*Anatomy & Structure*
+
+**Multifidus** — The deep muscle packed against the back of the vertebrae, running in short spans from one vertebra to another two to four levels above. Formally: arising from the [sacrum](#sacrum), the posterior iliac spine and the mamillary processes, inserting on spinous processes two to four segments higher; supplied by the dorsal rami. Its architecture is the opposite of the abdominal wall's — mass 146 g, normalized [fascicle length](#fasciclelength) 5.66 cm, [PCSA](#pcsa) **23.9 cm²** and a fascicle-to-muscle-length ratio of 0.21 — which its authors describe as "uniquely designed as a stabilizer to produce large forces" (Ward et al., 2009b). It has **more cross-section than the entire abdominal wall**, and sarcomere lengths measured intraoperatively show it operating from 1.98 µm in spinal extension to 2.70 µm in flexion, on the ascending limb of its [force–length curve](#forcelengthrelationship) — so it becomes stronger as the spine leans forward.
+
+## quadratuslumborum
+
+*Anatomy & Structure*
+
+**Quadratus lumborum** — The flat muscle bridging the back of the pelvis to the lowest rib, at the side of the lumbar spine. Formally: arising from the iliac crest and iliolumbar ligament, inserting on the 12th rib and the transverse processes of L1–L4; [PCSA](#pcsa) about 2.8 cm² with optimal [fascicle lengths](#fasciclelength) of 5.6–8.5 cm depending on the segment (Delp et al., 2001). It produces [trunk lateral flexion](#trunklateralflexion) and anchors the 12th rib so the diaphragm has something to pull against — which is why it is a breathing muscle as well as a postural one, and why the loaded carry that trains it is the cheapest slot in Part VI §D.4.
+
+## psoasmajor
+
+*Anatomy & Structure*
+
+**Psoas major** — The thick muscle running from the lumbar spine, through the pelvis, to the inside of the thigh bone. Formally: arising from the bodies and transverse processes of T12–L5 and inserting with iliacus on the lesser trochanter of the [femur](#femur); supplied by the lumbar plexus (L1–L3). It is a powerful [hip flexor](#hipflexion), and because its upper end attaches to the lumbar vertebrae it loads them whenever it contracts. **What that load is has been modelled and it is not what folklore says:** psoas exerts "only very small moments that tend to extend the upper lumbar spine and to flex the lower lumbar spine", while at maximum contraction applying **severe compression and large shear** to the segments (Bogduk et al., 1992). That is the reason a straight-leg or hanging leg raise is not an abdominal exercise in the way it is usually described — the wall is holding the trunk against a large compressive and shearing load rather than producing the movement (Part VI §B.10).
+
+## diaphragm
+
+*Anatomy & Structure*
+
+**Diaphragm** — The dome of muscle under the lungs that does most of your breathing. Formally: the musculotendinous sheet separating the thoracic from the abdominal cavity, arising from the lower ribs, the xiphoid process and the lumbar vertebrae by its crura and converging on a central tendon; supplied by the phrenic nerve (C3–C5). For Part VI it matters as the **lid of the pressurized cylinder**: without it holding, [intra-abdominal pressure](#intraabdominalpressure) cannot rise, which makes it a prerequisite for bracing rather than a training target (Part VI §A.8).
+
+## pelvicfloor
+
+*Anatomy & Structure*
+
+**Pelvic floor** — The sling of muscle across the bottom of the [pelvis](#pelvis) that supports the abdominal and pelvic organs. Formally: principally levator ani and coccygeus with their fasciae, spanning the pelvic outlet from the pubis to the coccyx; supplied by branches of S2–S4. It is the **floor of the pressurized cylinder**, and it must hold for [intra-abdominal pressure](#intraabdominalpressure) to be generated at all — which is why any pelvic-floor symptom removes the bracing strategy from the available options until it is assessed (Part VI §E.2), rather than merely making it uncomfortable.
+
+## emg
+
+*Measurement & Research Methods*
+
+**EMG (electromyography)** — Recording the electrical signals muscles produce when they contract, usually with adhesive electrodes on the skin. Formally: measurement of the myoelectric signal generated by [motor-unit](#motorunit) action potentials, expressed after rectification and smoothing as a root-mean-square or integrated amplitude, and conventionally normalized to a maximal reference contraction. **High-density EMG** replaces the single electrode pair with a grid, permitting the spatial distribution of activity across a muscle to be mapped. It reliably answers "does this muscle participate, and roughly when."
+
+## mvic
+
+*Measurement & Research Methods*
+
+**MVIC (maximal voluntary isometric contraction)** — The hardest you can push or pull against something that will not move, used as the 100% mark for everything else. Formally: the reference contraction against which [EMG](#emg) amplitudes are normalized:
+
+> %MVIC = (RMS amplitude during the task / RMS amplitude during MVIC) × 100
+
+Values above 100% are possible and common, because a dynamic contraction can exceed an isometric reference — latissimus dorsi activation during pull-ups was reported at 117–130% MVIC (Youdas et al., 2010). **Validity caveat:** the normalization is only as good as the reference contraction, and there is no consensus MVIC test for the latissimus dorsi, which is one reason activation values for this muscle vary widely between laboratories.
+
+## emghypertrophydissociation
+
+*Measurement & Research Methods*
+
+**The EMG–hypertrophy dissociation** — A bigger electrical signal does not mean a bigger muscle later. Formally: the principle that surface [EMG](#emg) amplitude cannot be used to infer [motor-unit](#motorunit) recruitment, [mechanical tension](#mechanicaltension), or [hypertrophic](#hypertrophy) potential, because amplitude is confounded by electrode position relative to moving tissue, subcutaneous fat, the [reference contraction](#mvic) chosen, fibre-length change beneath the sensor, and signal cancellation (Vigotsky et al., 2018). Two problems are specific to the [latissimus dorsi](#latissimusdorsi): its fascicles shorten by roughly 13 cm, so a fixed electrode samples different tissue at different joint angles; and amplitude is blind to *muscle length*, which is the variable that appears to matter most for growth. Every activation figure in this document is reported subject to this constraint, and none of them is used to rank exercises.
+
+## shearelasticmodulus
+
+*Measurement & Research Methods*
+
+**Shear elastic modulus** — A number from an ultrasound scanner that says how stiff a muscle currently is, used as a proxy for how much it is being stretched. Formally: the tissue stiffness (kPa) computed from shear-wave propagation velocity in shear-wave elastography:
+
+> G = ρ · c²   (Pa; ρ = tissue density ≈ 1000 kg·m⁻³, c = shear-wave speed in m·s⁻¹; divide by 1000 to report in kPa, as the literature does)
+
+**Note also** that many scanners report Young's modulus E ≈ 3G rather than G, so a value labelled "elastic modulus" can be three times a value labelled "shear modulus" for the same tissue.
+
+In a passively stretched muscle it rises monotonically with muscle length, which makes it the standard non-invasive index of *which position stretches a muscle most*. It is how the trunk positions in Part II §B.10 were ranked (Asayama et al., 2021). **Validity caveat:** it measures stiffness at one small sample volume, not the whole muscle, and passive stiffness under no load is not the same thing as tension under load.
+
+---
+
+## t2mri
+
+*Measurement & Research Methods*
+
+**T2-weighted MRI (transverse relaxation time)** — A magnetic resonance measurement that shows which parts of a muscle have just been working, by detecting the fluid shift that exercise causes. Formally: the transverse relaxation time constant of the MRI signal, which rises transiently after contractile activity in proportion to intracellular fluid accumulation; the pre-to-post change in T2 is used as a spatially resolved index of which muscle regions were recruited by a bout. It is a far better instrument than surface [EMG](#emg) for the *regional* question, because it reads the whole muscle volume rather than the field beneath one electrode — but it is still an acute measure, and Part II §B.11's warning against inferring growth from acute measures applies to it in full.
+
+## bayesfactor
+
+*Measurement & Research Methods*
+
+**Bayes factor (BF)** — A number saying how much more strongly the data support one hypothesis than another. Formally: the ratio of the marginal likelihood of the data under one model to that under a competing model, conventionally reported as BF₁₀ for the alternative against the null.
+
+> BF₁₀ > 100 = "extreme" support for the alternative; BF₁₀ < 0.1 = "strong" support for the null
+
+Its practical advantage over a p-value is that it can express support **for** a null rather than only failure to reject one — which is why the two quadriceps trials reporting nulls in Part III §B.7 and Part III §B.5 can state that a difference is *absent* rather than merely undetected.
+
+## effectsize
+
+*Measurement & Research Methods*
+
+**Effect size** — A number saying how big a difference is, in units that allow comparison across studies. Formally: a standardized measure of the magnitude of a difference or association; the two used in this document are the Cohen's *d*-family effect size (ES) and the standardized mean difference (SMD), each computed as a difference between group means divided by a pooled standard deviation, with 0.2, 0.5 and 0.8 conventionally read as small, moderate and large. It matters because a *p*-value reports only whether an effect was distinguishable from zero in that sample, while an effect size reports how much of it there was — and in a small trial the two routinely point in different directions.
+
+> **LAYER 10 — Training variables.** The quantities a program is written in.
+
+## load
+
+*Training Variables & Prescription*
+
+**Load** — The weight on the bar or the stack. Formally: the external resistance moved during one rep, expressed in kg or as a percentage of the maximum that can be moved once. In this document, bare "load" always means the weight itself; the cumulative sense — how much total work a period of training represents — is always written "training load", and "**intensity of load**" is used where a percentage of maximum is meant, never bare "intensity".
+
+## repetition
+
+*Training Variables & Prescription*
+
+**Repetition (rep)** — One complete execution of a movement, out and back. Formally: one full cycle of a resistance exercise, comprising a [concentric](#concentriccontraction) and an [eccentric](#eccentriccontraction) phase through the prescribed [range of motion](#rangeofmotion). A **rep range** (for example 8–12) prescribes a band rather than a fixed count, which decouples progression from daily readiness — you still progress at the low end on a bad day. Crucially, a repetition is only a repetition at the prescribed range: a shortened rep is a different exercise, not a bonus.
+
+## set
+
+*Training Variables & Prescription*
+
+**Set** — A block of [repetitions](#repetition) done back to back without stopping. Formally: a series of consecutive repetitions performed without intervening rest, terminated by a prescribed rep count, a prescribed effort level, or failure. It is the base unit of training prescription and, once qualified by effort, the base unit in which hypertrophy dose–response is counted.
+
+## onerepmax
+
+*Training Variables & Prescription*
+
+**1RM (one-repetition maximum)** — The heaviest [load](#load) you can lift once with acceptable technique. Formally: the maximal external resistance that can be moved through a full [range of motion](#rangeofmotion) for a single [repetition](#repetition) (kg), used as the reference for percentage-based prescription. **Validity caveat:** day-to-day variation in true maximal strength is commonly ±5–10%, so a fixed percentage prescription is systematically wrong on most days; and for the latissimus dorsi specifically there is no standard 1RM test, since machine and bodyweight pulling maxima are not interchangeable.
+
+## tempo
+
+*Training Variables & Prescription*
+
+**Tempo** — How fast each phase of the rep is performed, usually written as seconds per phase. Formally: the prescribed duration (s) of the [eccentric](#eccentriccontraction), the bottom pause, the [concentric](#concentriccontraction) and the top pause, in that conventional order. Repetition durations from roughly 0.5 to 8 s produce similar hypertrophy (Schoenfeld et al., 2015), so tempo is a minor variable for growth in general. It is not minor for the latissimus dorsi, but for a different reason: a controlled eccentric is what keeps the muscle loaded through its longest length, so tempo here is a **range-of-motion control**, not a stimulus variable in itself.
+
+## momentaryfailure
+
+*Training Variables & Prescription*
+
+**Momentary (muscular) failure** — The point in a set where you cannot complete another rep no matter how hard you try. Formally: the point at which the [concentric](#concentriccontraction) phase of a [repetition](#repetition) cannot be completed despite maximal voluntary effort, distinct from **volitional termination** (you chose to stop) and from the breakdown of form covered in the next entry. Reaching it is not required for hypertrophy but it is the only unambiguous anchor for calibrating how far from failure you actually are.
+
+## technicalfailure
+
+*Training Variables & Prescription*
+
+**Technical failure** — The point where you could do another rep, but not a *correct* one. Formally: the point at which the prescribed movement pattern can no longer be maintained — [range of motion](#rangeofmotion) shortens, the trunk angle changes, or the elbow's path deviates — even though force production could continue. For the latissimus dorsi, **technical failure is the operative stopping criterion and it overrides repetition targets**: the specific technical failure that matters is the reach shortening at the top, because that removes exactly the portion of the range the exercise exists to train.
+
+## limitinglink
+
+*Training Variables & Prescription*
+
+**Limiting link** — The thing that actually stops a set, which is often not the muscle you meant to train. Formally: the first structure, system or skill in the chain of a multi-joint exercise to reach its own tolerance under the prescribed load, terminating the set before the target muscle reaches [momentary failure](#momentaryfailure). Common limiting links in hip extension work are the [erector spinae](#erectorspinae) in every hinge, the bar against the pelvis in a barbell hip thrust, the breath above roughly ten repetitions on a free squat, balance in split-stance work, and the hands in the hinge family. It matters because a set terminated by its limiting link delivers the target muscle a smaller stimulus than the logbook implies, and because changing exercise is usually the fix rather than trying harder.
+
+## rir
+
+*Training Variables & Prescription*
+
+**RIR (repetitions in reserve)** — How many more reps you believe you could have done. Formally: the estimated number of additional [repetitions](#repetition) that could have been completed at the point a set was terminated, where 0 RIR is [momentary failure](#momentaryfailure). **Validity caveat:** people are poor at this, and the error runs toward stopping earlier than they believe. Accuracy improves as a set approaches failure and as [loads](#load) get heavier, but resistance-training *experience* does **not** measurably improve it (Halperin et al., 2022) — so the familiar claim that beginners are inaccurate while trained lifters are reliable is **not supported**.
+
+## rpe
+
+*Training Variables & Prescription*
+
+**RPE (rating of perceived exertion)** — A 1-to-10 rating of how hard a set felt. Formally: a subjective effort scale; in resistance training the repetition-based form is used, which is simply the inverse of [RIR](#rir):
+
+> RPE = 10 − RIR
+
+So RPE 8 means two repetitions were left. It carries every validity limitation of RIR, since it is the same estimate expressed on a different scale.
+
+## proximitytofailure
+
+*Training Variables & Prescription*
+
+**Proximity to failure** — How close to your limit you take a set. Formally: the distance from [momentary failure](#momentaryfailure) at which a set is terminated, operationalized as [RIR](#rir) or [RPE](#rpe). Training to failure and stopping a few repetitions short produce nearly the same hypertrophy (Refalo et al., 2023), with a slight gradient favouring closer-to-failure for size; **for strength the same meta-regression found no detectable relationship**, its intervals containing the null and its two models disagreeing on sign (Robinson et al., 2024). Its relevance rises at light loads, where by the [size principle](#sizeprinciple) high-threshold [motor units](#motorunit) are otherwise not recruited at all.
+
+## efforttolerance
+
+*Training Variables & Prescription*
+
+**Effort tolerance** — How much discomfort you are willing and able to push through before a set ends. Formally: the psychological and perceptual limit on [proximity to failure](#proximitytofailure), distinct from the physiological one. It becomes the binding constraint at high repetition counts, where sets end from accumulated discomfort well before [motor-unit](#motorunit) recruitment is exhausted — which is why 30-repetition sets are hypertrophically equivalent to 10-repetition sets only when they are genuinely taken close to failure, and rarely are.
+
+## hardset
+
+*Training Variables & Prescription*
+
+**Hard set** — A working [set](#set) taken close enough to failure that it counts as a growth stimulus. Formally: a set performed to within approximately 0–4 [RIR](#rir), used as the unit in which weekly training dose is counted throughout this document. Warm-up sets, technique sets, and sets left further than about four repetitions short do not count. Every volume prescription in this document is denominated in hard sets.
+
+## trainingvolume
+
+*Training Variables & Prescription*
+
+**Training volume** — How much work you do for a muscle, counted in sets. Formally: in this document, **[hard sets](#hardset) per muscle per week** — the operationalization with the strongest dose–response evidence. Two competing operationalizations exist and are named explicitly wherever used: total kilograms lifted, covered in the next entry, and total reps. For the latissimus dorsi, one counting rule is specific: indirect involvement counts as a fraction of a set, so heavy rows are credited toward the total, while isometric work such as the deadlift is not credited at all.
+
+## volumeload
+
+*Training Variables & Prescription*
+
+**Volume load** — Total kilograms moved: weight times reps times sets. Formally:
+
+> volume load = Σ ([sets](#set) × [repetitions](#repetition) × [load](#load))   (kg)
+
+It is the most precise-looking measure of training dose and the least useful for hypertrophy, because it rewards light high-repetition work and heavy short-range work identically and rewards a shortened [range of motion](#rangeofmotion) directly. Use it to track a single exercise's progression, never to compare exercises or to prescribe dose.
+
+## trainingfrequency
+
+*Training Variables & Prescription*
+
+**Training frequency** — How many times a week you train a given muscle. Formally: the number of sessions per week in which a target muscle receives at least one [hard set](#hardset). It functions mostly as a way to distribute [training volume](#trainingvolume) rather than as an independent stimulus (Schoenfeld et al., 2019). Its practical value for the latissimus dorsi is that splitting a weekly volume across two sessions keeps per-session quality high — and for this muscle, session quality means range quality, which is what degrades first under fatigue.
+
+## doseresponserelationship
+
+*Measurement & Research Methods*
+
+**Dose–response relationship** — How much more you get for doing more. Formally: the functional relation between the magnitude of an intervention and the magnitude of the outcome, here between weekly [hard sets](#hardset) per muscle and [hypertrophy](#hypertrophy). The measured curve rises from roughly 4 to 20+ sets per muscle per week with clearly diminishing returns past ~10–20 (Pelland et al., 2026). **Interpretive caution:** the curve rises and then flattens; no meta-analysis has observed a group-level decline at high volumes, so the familiar inverted-U is an expectation rather than a finding. Individual recovery capacity remains the practical limiter.
+
+## progressiveoverload
+
+*Training Variables & Prescription*
+
+**Progressive overload** — The stimulus has to keep exceeding what the tissue has already adapted to, or adaptation stops. Formally: the requirement that training demand increase over time relative to current capacity; *how* it is increased — [load](#load), [repetitions](#repetition), [sets](#set), [range of motion](#rangeofmotion), [proximity to failure](#proximitytofailure), rest — appears largely interchangeable when volume and effort are equated. It is the only genuinely non-negotiable principle in resistance training. For the latissimus dorsi it carries one binding constraint: **range of motion is never the variable that gets traded away** to permit an increase in another.
+
+## doubleprogression
+
+*Training Variables & Prescription*
+
+**Double progression** — Add repetitions until you hit the top of your rep range on every set, then add weight and start again at the bottom. Formally: a [progressive-overload](#progressiveoverload) scheme in which [repetitions](#repetition) are the first progression variable within a fixed rep range and [load](#load) is the second, incremented only when every prescribed [set](#set) reaches the range ceiling with acceptable technique. It is the most durable progression model in practice. Applied to the latissimus dorsi it acquires a third criterion — the **ROM ratchet**: [range of motion](#rangeofmotion) must hold at every repetition, and a load increase that shortens the reach is by definition premature.
+
+## deload
+
+*Training Variables & Prescription*
+
+**Deload** — A planned easy week that lets accumulated fatigue drop without losing what you built. Formally: a temporary reduction in training dose, conventionally a 40–60% cut in [training volume](#trainingvolume) with [load](#load) held near normal, intended to dissipate fatigue while preserving adaptation. Cutting volume rather than load is the conventional lever, and the volume half of that is demonstrated: with load held constant at 8–12RM, young adults retained muscle size on one-third, and even one-ninth, of their original dose across 32 weeks (Bickel et al., 2011). **Validity caveat:** load was never varied in that trial, so it cannot rank load against volume; older adults lost size at both reduced doses, and the muscle studied was the knee extensors. One rule is specific to this muscle: **never deload by shortening [range of motion](#rangeofmotion)**, which removes the stimulus rather than the fatigue.
+
+## sfr
+
+*Training Variables & Prescription*
+
+**SFR (stimulus-to-fatigue ratio)** — How much growth stimulus an exercise gives you per unit of tiredness, joint stress and recovery cost it charges. Formally: the ratio of [hypertrophic](#hypertrophy) stimulus delivered to a target muscle against total systemic, axial and local fatigue incurred. It is a **heuristic, not a measured quantity** — no study has quantified it — but it is the correct frame for choosing between two exercises that train the same muscle. The clearest latissimus dorsi application: a chest-supported row and a barbell bent-over row train the same muscle, and one of them also charges a large spinal-loading fee.
+
+## attentionalfocus
+
+*Training Variables & Prescription*
+
+**Attentional focus** — Whether you think about the muscle you are trying to work (internal) or about the movement and the weight (external). Formally: the directed target of conscious attention during a [repetition](#repetition). Internal focus raised latissimus dorsi [EMG](#emg) by 17.6% in eight untrained women at 30% of maximum (Snyder & Leech, 2009) and produced greater elbow-flexor growth over 8 weeks in a controlled comparison (Schoenfeld et al., 2018), while external focus tends to produce better performance on heavy and explosive lifts. **Moderate evidence.** One correction to how it is usually stated: the same study found instruction did **not** reduce biceps activity — nor teres major — so an internal focus adds activation; it does not isolate.
+
+---
+
+> **LAYER 11 — Exercise mechanics.** How a movement is classified once everything above is available.
+
+## resistanceprofile
+
+*Biomechanics & Mechanics*
+
+**Resistance profile** — Where in a movement the weight actually feels heaviest. Formally: the function relating [torque](#torque) demand at the working joint to joint angle across an exercise's [range of motion](#rangeofmotion). For gravity-driven resistance the line of action is vertical, so the demand at any angle is:
+
+> τ_demanded(θ) = F_resistance × d⊥(θ)   (N·m)
+> d⊥(θ) = L(θ) × sin φ(θ)   (m; L = glenohumeral-joint-centre-to-hand distance, m; φ = angle between that segment and the resistance [line of action](#lineofaction), rad)
+
+For gravity-driven resistance the line of action is vertical and this reduces to the horizontal shoulder-to-hand offset in the plane of the pull; for a cable or a band the line runs from the hand to the anchor, so the profile is set by where you stand.
+
+Exercises are classified by where that function peaks: **stretch-loaded** (peak near the [lengthened position](#lengthenedposition)), **mid-range-loaded**, or **short-loaded**. It is the most neglected variable in exercise selection, because a muscle can have excellent leverage at a joint angle and receive almost no load there.
+
+## compound
+
+*Training Variables & Prescription*
+
+**Compound exercise** — A lift that moves more than one joint at a time. Formally: a multi-joint resistance exercise in which [torque](#torque) is produced simultaneously at two or more articulations. Every pulling exercise in this document is compound: the shoulder extends or adducts while the elbow flexes. The consequence for the latissimus dorsi is that a synergist — usually the [elbow flexors](#elbowflexors) or the grip — can terminate the [set](#set) before the target is near failure.
+
+## isolation
+
+*Training Variables & Prescription*
+
+**Isolation exercise** — A lift that moves essentially one joint. Formally: a single-joint resistance exercise in which [torque](#torque) is produced at one articulation, limiting the number of contributing muscles. For the latissimus dorsi the isolation category is [shoulder extension](#shoulderextension) performed with the elbow held at a fixed angle, which removes the [elbow flexors](#elbowflexors) and, in machine versions with elbow pads, the grip as well. **Strict isolation of this muscle is impossible:** [teres major](#teresmajor), posterior deltoid and the long head of triceps share every one of its actions.
+
+## elbowpath
+
+*Exercises & Technique*
+
+**Elbow path** — Where the point of your elbow travels through a repetition. Formally: the trajectory of the elbow relative to the trunk during a pull, specified by three things — the **plane of elevation** the humerus travels in (degrees anterior to the [frontal plane](#frontalplane)), the **elevation angle** it passes through (degrees of [humeral elevation](#humeralelevation)), and its **endpoint** relative to the trunk. It is the operative technique variable for the latissimus dorsi because the muscle inserts on the humerus and is therefore blind to hand position. The default prescription: from full overhead, at 30–60° from the torso, travelling down and slightly in, finishing beside the lower ribs and stopping there.
+
+## gripwidth
+
+*Exercises & Technique*
+
+**Grip width** — How far apart your hands are, expressed as a multiple of your own shoulder width. Formally: the inter-hand distance during a pulling exercise, normalized to [biacromial width](#biacromialwidth) — conventionally *narrow* = 1×, *medium* = 1.5×, *wide* = 2×. Narrow, medium and wide produced similar latissimus dorsi activation, with narrow and medium permitting a heavier 6RM than wide (Andersen et al., 2014), and seven grip and trunk-angle variants produced no significant difference at all (Buonsenso et al., 2025). Its one real consequence is on [range of motion](#rangeofmotion): a wider grip shortens the movement, which for this muscle is a genuine cost.
+
+## pronatedgrip
+
+*Exercises & Technique*
+
+**Pronated (overhand) grip** — Palms facing away from you. Formally: a grip in which the forearm is pronated, the radius crossing the ulna, so the dorsum of the hand faces the lifter. It produced greater latissimus dorsi activation than an underhand grip irrespective of [width](#gripwidth) in one direct comparison (Lusk et al., 2010), though a broader seven-variant comparison found no grip effect at all (Buonsenso et al., 2025). **Moderate evidence**, and small either way: choose grip for joint comfort and for the range it permits.
+
+## supinatedgrip
+
+*Exercises & Technique*
+
+**Supinated (underhand) grip** — Palms facing toward you. Formally: a grip in which the forearm is supinated, radius and ulna parallel, so the palm faces the lifter; it places the shoulder in relative external rotation and biceps brachii in a mechanically advantageous position. Practically it permits a deeper pull for most people at the cost of much larger [elbow flexor](#elbowflexors) involvement, which frequently makes the arms rather than the latissimus dorsi the limiting tissue.
+
+## verticalpull
+
+*Exercises & Technique*
+
+**Vertical pull** — Any exercise that starts with the arms overhead and brings them down toward the body. Formally: a movement pattern in which the humerus begins at or near full [elevation](#humeralelevation) and the resultant motion is predominantly [shoulder adduction](#shoulderadduction) with an [extension](#shoulderextension) component — pulldowns, pull-ups, chin-ups. It is one of the two pulling patterns — the other is defined next — and it is the only one that loads the latissimus dorsi through the top of its excursion, which is why a program containing only rows is incomplete for this muscle whatever its volume.
+## horizontalpull
+
+*Exercises & Technique*
+
+**Horizontal pull** — Any exercise where you pull something toward your torso with the upper arm travelling backward rather than downward. Formally: a movement pattern in which the resultant humeral motion relative to the trunk is predominantly [shoulder extension](#shoulderextension) in the [sagittal plane](#sagittalplane). It loads the latissimus dorsi's highest-activation action but through a shorter portion of the muscle's excursion than a vertical pull, because the arm never reaches full [elevation](#humeralelevation). Its counterpart is the [vertical pull](#verticalpull), in which the arm starts overhead and the motion is predominantly [adduction](#shoulderadduction) — the two together are the whole of latissimus dorsi training. A complete program contains both; neither substitutes for the other.
+
+
+## lumbarcompression
+
+*Pathology & Clinical*
+
+**Lumbar compression** — How hard the weight of your trunk plus the load is squashing your lower-back discs. Formally: the axial force (N) transmitted through the lumbar intervertebral discs during a task, estimated by biomechanical modelling from measured joint moments and muscle forces. It is the standard measure by which exercises are compared for spinal cost: of three rows instrumented for it, the standing bent-over row was the high-compression option while the supine bodyweight row achieved the highest latissimus dorsi activation at a modest cost (Fenwick et al., 2009). It is the quantity that a poor [SFR](#sfr) is usually paying for. **Compression is only half of it.** The same modelling reports anteroposterior **shear** (N) — the force sliding one vertebra across the next — which rises with trunk inclination and is the component least tolerated by the posterior elements. An exercise that is acceptable on compression can be the worse choice on shear.
+
+---
+
+## closedkineticchain
+
+*Exercises & Technique*
+
+**Closed kinetic chain exercise** — An exercise in which the far end of the limb is planted against something that does not move — the floor, a footplate. Formally: a movement in which the distal segment meets substantial external resistance, so joint motions are mechanically coupled and cannot be varied independently; every squat-pattern movement is of this kind. The coupling is why an upright squat cannot load the [rectus femoris](#rectusfemoris) selectively: the centre of mass must stay over the foot, which forces the hip to flex as the knee flexes. It is escapable only by giving up the upright torso and the flat heel, which is exactly what the knee-dominant variants in Part III §D.3 do.
+
+## openkineticchain
+
+*Exercises & Technique*
+
+**Open kinetic chain exercise** — An exercise in which the far end of the limb moves freely through the air. Formally: a movement in which the distal segment is unconstrained, so a single joint's angle can be varied while the others are held; the knee extension machine is the quadriceps example. Its value is exactly the freedom the closed chain lacks — the hip can be positioned independently of the knee, which is the setup condition in Part III §B.5.
+
+## squatdepth
+
+*Exercises & Technique*
+
+**Squat depth** — How far down you go in a squat. Formally: the maximum [knee flexion](#kneeflexion) angle reached under load, in degrees from full extension; commonly but unreliably described by thigh position ("parallel"), which is a statement about femur length rather than about joint angle and should not be used as a prescription. In Part III it is always stated in degrees, and it is treated as a threshold variable rather than a continuous dose (Part III §B.7).
+
+## stancewidth
+
+*Exercises & Technique*
+
+**Stance width** — How far apart the feet are in a standing exercise. Formally: the mediolateral distance between the feet, conventionally normalized to shoulder or biacromial width because absolute centimetres are not comparable between people. It redistributes demand between the hip, knee and ankle rather than changing the total, and it is not a strong quadriceps lever (Part III §B.10).
+
+## kneetravel
+
+*Exercises & Technique*
+
+**Knee travel** — How far the knee moves forward over the foot during a squat. Formally: the anterior horizontal displacement of the knee joint centre relative to the foot, which sets the horizontal distance from the knee to the resistance line and therefore the knee's [torque](#torque) demand. Restricting it lowers knee torque and raises hip torque by a larger amount (Fry et al., 2003), so it is a control that trades quadriceps stimulus for hip and lower-back load.
+
+## barposition
+
+*Exercises & Technique*
+
+**Bar position** — Where the barbell sits on the body in a squat. Formally: the location of the load relative to the trunk — on the front deltoids, on the upper trapezius, or on the rear deltoids — which sets the trunk angle required to keep the load over the midfoot, and through it the split of demand between knee and hip. It is a [resistance profile](#resistanceprofile) control operating through geometry, not a difference in muscle recruitment intent.
+
+## hiphinge
+
+*Exercises & Technique*
+
+**Hip hinge** — Bending forward by pushing the hips backward, with the knees nearly straight and the spine unchanged. Formally: a movement pattern in which trunk inclination is produced almost entirely by [hip flexion](#hipflexion) rather than by lumbar flexion, with the knee held at a small, fixed flexion angle throughout. It is the defining constraint of the hinge family catalogued in Part IV §D.2; because the knee stays open, the [hamstrings](#hamstrings) are long at both ends and take a large share of the hip extension (Part IV §B.5).
+
+## torsoinclination
+
+*Exercises & Technique*
+
+**Torso inclination** — How far forward you are leaning. Formally: the angle of the trunk's long axis from vertical in the [sagittal plane](#sagittalplane) during a loaded exercise. It is the single variable that governs hip [torque](#torque) demand in every standing exercise, because the hip's resistance [moment arm](#momentarm) is the horizontal distance from the hip joint to the resistance's [line of action](#lineofaction), and leaning further forward increases that distance directly.
+
+## netjointmoment
+
+*Biomechanics & Mechanics*
+
+**Net joint moment** — The total turning effect a joint has to produce, after everything pulling in both directions has been added up. Formally: the resultant [torque](#torque) about a joint axis computed by inverse dynamics from segment kinematics and external forces, equal to the sum of all muscular, ligamentous and contact contributions:
+
+> M_net(θ) = Σ (F_i × r_i)   (N·m)
+
+It is what a biomechanics study reports when it says an exercise "loads the shoulder more", and it is **not** the force in any one muscle: a net moment can stay constant while agonist and antagonist forces both rise, and it says nothing about how the work is shared. That distinction is why a rise in net joint moment (Gundersen et al., 2026) is evidence about the joint's demand and only indirect evidence about a muscle's stimulus — the division by [moment arm](#momentarm) and by the target's share, set out in Part I §2, is what converts one into the other.
+
+## flexionrelaxation
+
+*Biomechanics & Mechanics*
+
+**Flexion relaxation** — The point in bending forward at which the muscles of your lower back switch off and the weight of your upper body is held by ligaments and discs instead. Formally: the abrupt fall of lumbar erector spinae [EMG](#emg) amplitude to near baseline at approximately 80–90% of full trunk flexion, past which the extensor moment supporting the trunk is supplied by passive structures — the posterior ligamentous system, the [thoracolumbar fascia](#thoracolumbarfascia) and the intervertebral discs — rather than by active muscle (Colloca & Hinrichs, 2005). It is the mechanical content of the warning against loading end-range spinal flexion: past this point additional load is applied to tissue that does not adapt within a training block, and the muscle that would otherwise share it has stopped contributing.
+
+> **LAYER 12 — Named exercises.** Every term above is needed to specify these precisely.
+
+## latpulldown
+
+*Exercises & Technique*
+
+**Lat pulldown** — Sitting at a machine with your thighs pinned, pulling an overhead bar down to your chest. Formally: a seated, thigh-anchored vertical pull performed against a high pulley, in which the arms begin fully elevated and the humerus is drawn down and in by [shoulder adduction](#shoulderadduction) with an [extension](#shoulderextension) component. Its [resistance profile](#resistanceprofile) is **mid-range-loaded**: with the torso vertical the hands begin nearly directly above the shoulders, so torque demand at the [lengthened position](#lengthenedposition) is close to zero. It is the default latissimus dorsi exercise because the load is precisely adjustable, the trunk is anchored so a lean can be held, and — unlike hanging from a fixed bar — the stretched position can be controlled rather than merely passed through.
+
+## pullup
+
+*Exercises & Technique*
+
+**Pull-up** — Hanging from a bar with palms facing away and pulling yourself up until your chin clears it. Formally: a bodyweight vertical pull performed with a [pronated grip](#pronatedgrip) from a full hang. Latissimus dorsi activation is high — 117–130% [MVIC](#mvic) across variants (Youdas et al., 2010) — and statistically indistinguishable from a [lat pulldown](#latpulldown) in the one comparison available, which used a supinated grip (Doma et al., 2013). Its [resistance profile](#resistanceprofile) is mid-range-loaded, with **little rotational torque at the stretch at a shoulder-width grip**, where the hands sit almost directly above the shoulders and the resistance line passes close to the joint centre. A wider grip restores some of it: each hand sits lateral to its shoulder, giving the vertical bar reaction a real frontal-plane moment arm (Part II §B.5). Excellent exercise; incomplete on its own.
+
+## chinup
+
+*Exercises & Technique*
+
+**Chin-up** — A [pull-up](#pullup) done with the palms facing you. Formally: a bodyweight vertical pull performed with a [supinated grip](#supinatedgrip). Latissimus dorsi activation is statistically similar to the pull-up; the chin-up recruits substantially more pectoralis major and biceps brachii, and the pull-up more lower trapezius (Youdas et al., 2010). It is a legitimate latissimus dorsi exercise that is simultaneously a strong biceps exercise, which is either a feature or the reason your set ends early.
+
+## kipping
+
+*Exercises & Technique*
+
+**Kipping** — Swinging the hips and legs to help throw yourself up to the bar. Formally: the deliberate use of a hip-driven whole-body oscillation to generate momentum during a bodyweight vertical pull, converting a strength task into a coordination and elastic-energy task. It is a legitimate competitive technique in some sports and a defect in a hypertrophy [set](#set): momentum unloads the muscle at exactly the joint angles where [torque](#torque) demand should be highest, and it makes the set impossible to compare week to week, which forecloses [progressive overload](#progressiveoverload).
+
+## row
+
+*Exercises & Technique*
+
+**Row** — Pulling a weight toward your torso while the torso stays still. Formally: the exercise family implementing the [horizontal pull](#horizontalpull) pattern, spanning barbell, dumbbell, cable, machine and bodyweight variants and differing principally in how the trunk is supported and therefore in [lumbar compression](#lumbarcompression). Rows load the latissimus dorsi's highest-activation action through a shorter excursion than vertical pulls; **for latissimus dorsi emphasis specifically**, the [elbow path](#elbowpath) must finish at the lower ribs rather than being completed by hard scapular retraction, which is a rhomboid and mid-trapezius action.
+
+## invertedrow
+
+*Exercises & Technique*
+
+**Inverted row** — Lying under a fixed bar and pulling your chest up to it with your feet on the floor. Formally: a bodyweight [row](#row) performed supine and suspended, in which the effective [load](#load) is set continuously by the angle of the body and the height of the feet. It elicited the **highest latissimus dorsi activation** of three rowing variants tested, at a modest [lumbar compression](#lumbarcompression) cost (Fenwick et al., 2009) — which makes it both the highest-value bodyweight row and the correct row for anyone with a lumbar diagnosis.
+
+## pullover
+
+*Exercises & Technique*
+
+**Pullover** — Lying on a bench and lowering a weight back over your head with nearly straight arms, then pulling it back. Formally: a near-single-joint [shoulder extension](#shoulderextension) exercise performed supine with the elbow held at a fixed small angle, in dumbbell, barbell, cable or machine form. It is the archetypal **stretch-loaded** [resistance profile](#resistanceprofile): the perpendicular distance from the shoulder to the weight equals the shoulder-to-hand distance — shorter than a fully extended arm, since the elbow is held slightly bent. [Torque](#torque) follows τ = W × L × sin θ with θ the arm's angle from vertical, so it is zero with the arms vertical, maximal with the humerus horizontal, and **falls again past horizontal**. Peak torque coincides with the [lengthened position](#lengthenedposition) only if your end range stops at or before humerus-horizontal; go deeper and the deepest part of the rep is the least loaded. It loads latissimus dorsi and pectoralis major together and makes no attempt to separate them (Marchetti & Uchida, 2011) — the pectoralis share being larger than in its standing cable counterpart (Muyor et al., 2022).
+
+## straightarmpulldown
+
+*Exercises & Technique*
+
+**Straight-arm pulldown** — Standing at a high pulley and sweeping a bar or rope down to your thighs with the arms kept nearly straight. Formally: a near-single-joint [shoulder extension](#shoulderextension) exercise performed standing against a high pulley with the elbow at a fixed small angle, removing the [elbow flexors](#elbowflexors) from the movement. Its [resistance profile](#resistanceprofile) depends on trunk position: hinged forward 30–45° it is **stretch-loaded**, upright it is mid-range-loaded. Compared directly against a barbell [pullover](#pullover), it produced the greater latissimus dorsi and triceps activation while the pullover produced greater activation in every other muscle measured, with grip width making no difference (Muyor et al., 2022) — making it the more latissimus-selective of the two.
+
+---
+
+## backsquat
+
+*Exercises & Technique*
+
+**Back squat** — Standing up and down with a barbell across the shoulders. Formally: a [closed-kinetic-chain](#closedkineticchain) bilateral squat with the load supported on the upper back, in a high-bar variant (bar on the upper trapezius, more upright trunk) or a low-bar variant (bar on the rear deltoids, more inclined trunk); its [resistance profile](#resistanceprofile) is stretch-loaded for the quadriceps, with peak knee torque demand at the bottom. The high-bar variant places a larger share of the demand at the knee, the low-bar variant a larger share at the hip.
+
+## frontsquat
+
+*Exercises & Technique*
+
+**Front squat** — A squat with the barbell held across the front of the shoulders. Formally: a closed-kinetic-chain bilateral squat with the load anterior to the trunk, which forces a near-vertical torso and therefore the largest knee-to-load-line offset — and the largest knee share — of the barbell squat family (Part III §B.10). Its practical limit is usually the rack position or upper-back fatigue rather than the quadriceps.
+
+## hacksquat
+
+*Exercises & Technique*
+
+**Hack squat** — A machine squat in which your back is supported against an angled sled that runs on rails. Formally: a closed-kinetic-chain machine squat with the trunk supported and the movement path constrained to a fixed line, which removes balance and axial spinal loading while holding the knee-to-load-line offset open deep into the range. Those four properties together are why it is placed first among squat patterns in Part III §D.1 — a judgement about fatigue cost and depth reproducibility, not a measured hypertrophy ranking.
+
+## smithmachinesquat
+
+*Exercises & Technique*
+
+**Smith machine squat** — A squat performed with the barbell running in fixed vertical rails. Formally: a closed-kinetic-chain squat with the bar path constrained, permitting the feet to be placed forward of the bar line and thereby increasing [knee travel](#kneetravel) beyond what free balance allows. The fixed path removes the balance demand of a free squat; it does not otherwise change what is trained.
+
+## beltsquat
+
+*Exercises & Technique*
+
+**Belt squat** — A squat in which the load hangs from a belt at the hips instead of resting on the shoulders. Formally: a closed-kinetic-chain squat loaded below the trunk, removing axial spinal compression while retaining the joint pattern. It is the answer when trunk fatigue rather than the quadriceps is ending the set (Part III §C.5).
+
+## legpress
+
+*Exercises & Technique*
+
+**Leg press** — A machine in which you push a weighted platform away with your feet while seated or lying. Formally: a closed-kinetic-chain bilateral or unilateral knee-and-hip extension performed against a sled, with the trunk supported; stretch-loaded, with peak knee torque at deep knee flexion. Foot placement is its main control — low and narrow increases the knee share, high and wide shifts demand to the hip and [hip adductors](#hipadductors).
+
+## legextension
+
+*Exercises & Technique*
+
+**Leg extension** — A machine in which you straighten your knee against a pad on the shin while seated. Formally: an [open-kinetic-chain](#openkineticchain) single-joint [knee extension](#kneeextension), with the resistance profile set by the machine's cam rather than by the geometry of the body. It is the only common exercise in which hip angle can be set independently of knee angle, which makes it the practical [rectus femoris](#rectusfemoris) exercise (Part III §B.5).
+
+## splitsquat
+
+*Exercises & Technique*
+
+**Split squat** — A squat performed with one foot forward and one behind, loading mainly the front leg. Formally: a unilateral closed-kinetic-chain squat in a staggered stance; in the rear-foot-elevated ("Bulgarian") variant the trailing foot is raised, which increases the front leg's share and the range available to it. A shorter front-foot position increases the knee's share of the demand; a longer one increases the hip's.
+
+## lunge
+
+*Exercises & Technique*
+
+**Lunge** — A step forward or backward into a split position and back out of it. Formally: a unilateral closed-kinetic-chain squat pattern entered dynamically rather than from a fixed stance; the reverse (stepping backward) variant is more knee-dominant than the walking variant at the same load. Its limit is systemic fatigue and coordination rather than quadriceps capacity.
+
+## stepup
+
+*Exercises & Technique*
+
+**Step-up** — Stepping onto a raised platform under load and back down. Formally: a unilateral closed-kinetic-chain knee-and-hip extension whose starting [knee flexion](#kneeflexion) angle is set by the height of the platform; knee torque demand is highest at the bottom and falls steeply through the ascent.
+
+## sissysquat
+
+*Exercises & Technique*
+
+**Sissy squat** — Leaning back and bending only at the knees, letting the heels rise, with the hips kept straight. Formally: a knee-dominant squat performed with the hip held in extension, so [knee flexion](#kneeflexion) lengthens the [rectus femoris](#rectusfemoris) distally while the extended hip lengthens it proximally — the longest position that head reaches in any exercise. Its hypertrophy effect has not been measured in a training study.
+
+## reversenordic
+
+*Exercises & Technique*
+
+**Reverse Nordic curl** — Kneeling upright and leaning backwards under control, then returning. Formally: an eccentric-dominant knee flexion–extension performed from a kneeling position with the hip extended, loading the quadriceps — and the [rectus femoris](#rectusfemoris) in particular — at long muscle length using body mass alone. Load is adjustable only through range and [tempo](#tempo), which is both its convenience and its ceiling.
+
+## deadlift
+
+*Exercises & Technique*
+
+**Deadlift** — Lifting a loaded barbell from the floor to a standing position. Formally: a [closed kinetic chain](#closedkineticchain) whole-body lift in which the bar is raised from the floor by simultaneous [hip extension](#hipextension) and [knee extension](#kneeextension) until the lifter stands upright, in a conventional (feet inside the hands), sumo (feet outside the hands) or hex-bar (load in line with the body) variant. It is an excellent strength exercise and an inefficient hypertrophy exercise for any single muscle: [erector spinae](#erectorspinae) and quadriceps activity exceed gluteal and hamstring activity across its variants (Martín-Fuentes et al., 2020), while the fatigue cost is charged against the whole training week.
+
+## hipthrust
+
+*Exercises & Technique*
+
+**Barbell hip thrust** — Lying with the upper back against a bench and a loaded barbell across the hips, driving the hips upward until the body is straight. Formally: a bridge-pattern [hip extension](#hipextension) exercise performed with the shoulders supported, the knees held near 90° and the resistance applied over the pelvis. Two things usually said about it are wrong on the measurement: it does **not** place peak demand at lockout — the peak hip extensor moment occurs at 83 ± 16° of [hip flexion](#hipflexion) and has fallen by about two thirds by the top (Brazil et al., 2021) — and it is not superior to the back squat for gluteal size, but equivalent to it and additive with it (Plotkin et al., 2023).
+
+## glutebridge
+
+*Exercises & Technique*
+
+**Barbell glute bridge** — The same movement as a hip thrust, performed with the shoulders on the floor rather than on a bench. Formally: a bridge-pattern hip extension exercise performed supine on the floor, so that the hip starts nearer extension and travels through a shorter arc than in a [hip thrust](#hipthrust). In the one direct comparison available it produced greater upper and lower gluteus maximus [EMG](#emg) than the hip thrust in ten men (Kennedy et al., 2024) — an acute activation result with no hypertrophy outcome behind it.
+
+## romaniandeadlift
+
+*Exercises & Technique*
+
+**Romanian deadlift (RDL)** — A hinge performed from standing, lowering the bar down the legs without letting it touch the floor. Formally: a [hip hinge](#hiphinge) performed with the knee held at a small constant flexion angle, descending until [hip flexion](#hipflexion) is limited by hamstring extensibility with the spine unchanged, then reversing. Its range is bounded by the hip rather than by the floor, which is what distinguishes it from the [deadlift](#deadlift); at one-repetition maximum its gluteal activity did not differ statistically from the [hip thrust](#hipthrust)'s (Delgado et al., 2019).
+
+## goodmorning
+
+*Exercises & Technique*
+
+**Good morning** — A hinge performed with a barbell resting on the upper back. Formally: a [hip hinge](#hiphinge) loaded across the shoulders rather than in the hands, so that the entire load acts at the far end of the trunk lever. The long lever makes it a strong hip extension pattern with a low load ceiling — and the ceiling is set by the [erector spinae](#erectorspinae) and the spine rather than by the hip.
+
+## backextension
+
+*Exercises & Technique*
+
+**45° back extension (hip extension)** — A hinge performed face-down on an angled pad, raising the torso until it lines up with the legs. Formally: a [hip hinge](#hiphinge) performed prone against a support inclined at roughly 45°, with the pad set below the anterior superior iliac spines so that the hip is free to move. Its distinguishing mechanical property is that its [resistance profile](#resistanceprofile) is **inverted relative to every other hinge**: [torque](#torque) demand is the trunk's weight times the *horizontal* distance from the hip to its centre of mass, so it peaks as the trunk sweeps through horizontal and falls toward the bottom, where the trunk hangs vertically and the resistance's [line of action](#lineofaction) runs down the trunk's own long axis through the hip. On a 45° bench roughly 70% of the peak demand is still present with the hip straight — more than the [hip thrust](#hipthrust) retains there.
+
+## cablepullthrough
+
+*Exercises & Technique*
+
+**Cable pull-through** — A hinge performed facing away from a low pulley, with the handle passed between the legs. Formally: a [hip hinge](#hiphinge) in which the resistance's [line of action](#lineofaction) is horizontal and directed backward rather than vertical, so that the trunk can stay more upright for the same hip [torque](#torque). Its practical value is that it removes most of the spinal cost of a hinge; its limit is the cable stack and the friction holding you to the floor.
+
+## kickback
+
+*Exercises & Technique*
+
+**Cable or machine kickback (standing hip extension)** — Driving one leg backward against a cable or a machine's pad, with the trunk supported. Formally: a single-joint [hip extension](#hipextension) exercise performed one leg at a time with the trunk fixed, so that no other joint contributes to the movement. It is the only gluteal exercise that can be taken to [momentary failure](#momentaryfailure) at essentially no systemic cost; its limits are a low load ceiling and a stance leg that often fatigues first.
+
+## reversehyperextension
+
+*Exercises & Technique*
+
+**Reverse hyperextension** — Lying face-down on a high bench and raising the legs behind you against resistance. Formally: a [hip extension](#hipextension) exercise performed with the trunk fixed and the legs moving, on a machine whose arc of resistance determines where the [torque](#torque) demand peaks. It is popular and lightly researched: no training study has measured gluteal hypertrophy from it [consensus — no single source].
+
+## hipabductionmachine
+
+*Exercises & Technique*
+
+**Seated hip abduction machine** — A seated machine that resists pushing the knees apart. Formally: a loaded [hip abduction](#hipabduction) exercise performed with the hip flexed and the trunk supported, resisting at the distal thigh. It is the only abduction exercise with a load ceiling high enough to progress like any other lift, which is its entire justification; leaning the torso forward biases the posterior fibres of the [gluteus medius](#gluteusmedius), sitting upright biases the anterior fibres.
+
+> **LAYER 13 — Clinical.** Defined last because it presupposes the anatomy and the joint actions above.
+
+## lateralraise
+
+*Exercises & Technique*
+
+**Lateral raise** — Raising a weight out to the side with a nearly straight arm until the upper arm is level with the shoulder. Formally: a single-joint [shoulder abduction](#shoulderabduction) exercise performed in or near the [frontal plane](#frontalplane) with the elbow at a fixed small angle, covering roughly 0–90° of [humeral elevation](#humeralelevation). Its [resistance profile](#resistanceprofile) is set entirely by the direction of the resistance: with a dumbbell the demand rises as the sine of the elevation angle and peaks at 90°, where the [middle deltoid](#middledeltoid) is shortest; with a cable pulling horizontally at hand height it peaks at the bottom instead. Compared within the same person with range matched, the two versions produced the same growth (Larsen et al., 2025c). It is the only exercise category that trains the middle deltoid at all.
+
+## frontraise
+
+*Exercises & Technique*
+
+**Front raise** — Raising a weight straight out in front of you with a nearly straight arm. Formally: a single-joint [shoulder flexion](#shoulderflexion) exercise performed in the [sagittal plane](#sagittalplane), peaking at 90° of [elevation](#humeralelevation). Measured against four lateral raise variants in competitive bodybuilders it produced the highest [anterior deltoid](#anteriordeltoid) activity **and** by far the highest clavicular [pectoralis major](#pectoralismajor) activity (Coratella et al., 2020) — which makes it a chest exercise that pays an anterior deltoid dividend, and largely redundant for anyone who already presses (Part V §D.2).
+
+## overheadpress
+
+*Exercises & Technique*
+
+**Overhead press (shoulder press, military press)** — Pressing a weight from shoulder height to arms' length above the head. Formally: a multi-joint [shoulder flexion](#shoulderflexion) and [abduction](#shoulderabduction) exercise combined with elbow extension, performed seated or standing with a barbell, dumbbells or a machine, and reaching **elevation angles above 120° that no raise covers**. Its [resistance profile](#resistanceprofile) peaks just off the shoulders and falls to zero at lockout, because with the forearm vertical the external moment at the shoulder goes as the sine of the upper arm's elevation. The shoulder's own maximum torque also falls across that arc — linearly to 55% of its 90° value by 160° (Aronis et al., 2025) — but demand falls faster than capacity, so **relative effort peaks near 105–120° and lockout is unloaded**. The exercise's useful range is roughly 90–135°. Wider grips raise the shoulder's net joint moment and lower the elbow's (Gundersen et al., 2026); the behind-the-neck variant raises middle and posterior deltoid activity (Coratella et al., 2022) at a joint position this document declines to program (Part V §E.4).
+
+## benchpress
+
+*Exercises & Technique*
+
+**Bench press** — Lying on a bench and pressing a weight up from the chest. Formally: a multi-joint [shoulder horizontal adduction](#shoulderhorizontaladduction) and flexion exercise combined with elbow extension, performed supine at a bench inclination from 0° (flat) upward; its [resistance profile](#resistanceprofile) is stretch-loaded for the [pectoralis major](#pectoralismajor), with peak demand at the chest. The [anterior deltoid](#anteriordeltoid)'s share rises with the inclination, peaking at **60°** and rising significantly above 45° while pectoralis major performance falls (Rodríguez-Ridao et al., 2020). Ten weeks of flat bench pressing raised anterior deltoid cross-sectional area above control while the [middle deltoid](#middledeltoid)'s increase was the smallest of four muscles measured (Lanza et al., 2024) — which is the direct evidence that pressing trains one third of the deltoid.
+
+## reversefly
+
+*Exercises & Technique*
+
+**Reverse fly (rear-delt fly, reverse pec deck)** — Sweeping the arms out and backwards at shoulder height against resistance, with the elbows nearly straight. Formally: a single-joint [shoulder horizontal abduction](#shoulderhorizontalabduction) exercise performed with the torso supported and horizontal, or standing against crossed cables, with the elbow at a fixed small angle. Its [resistance profile](#resistanceprofile) with dumbbells peaks with the arms horizontal and falls to zero with them hanging; with crossed cables it is close to constant across the arc. Against a seated row and an inclined lat pulldown it produced the greatest [posterior deltoid](#posteriordeltoid) activation (Franke et al., 2015). Its characteristic failure is turning into [scapular retraction](#scapularretraction), which is a different movement at a different joint.
+
+## facepull
+
+*Exercises & Technique*
+
+**Face pull** — Pulling a rope from a high pulley toward the face with the elbows high and wide. Formally: a combined [shoulder horizontal abduction](#shoulderhorizontalabduction) and [external rotation](#shoulderexternalrotation) exercise performed against a high pulley, with a mid-range-loaded [resistance profile](#resistanceprofile). It loads the [posterior deltoid](#posteriordeltoid) alongside the external rotators of the [rotator cuff](#rotatorcuff), which is its usual justification; its load ceiling is low, so it belongs in a programme as a finisher rather than as the horizontal-abduction slot's main exercise.
+
+## uprightrow
+
+*Exercises & Technique*
+
+**Upright row** — Pulling a barbell or cable straight up the front of the body with the elbows leading. Formally: a multi-joint exercise combining [shoulder abduction](#shoulderabduction), [internal rotation](#internalrotation) and elbow flexion, with a mid-range-loaded [resistance profile](#resistanceprofile). **The narrow-grip version taken to chin height is the elevation-plus-internal-rotation combination this document declines to program** (Part V §E.4). A wide grip finishing at sternum height removes most of that combination and leaves an unremarkable raise with a large [trapezius](#trapezius) share (Part V §D.1).
+
+## crunch
+
+*Exercises & Technique*
+
+**Crunch** — Curling the shoulders and ribcage off the floor toward the hips. Formally: a body-weight [trunk flexion](#trunkflexion) exercise performed supine with the hips and knees flexed, in which the resistance is the mass of the head, arms and upper trunk. Its [resistance profile](#resistanceprofile) is **steeply descending**: demand is highest with the torso flat, because that is where the upper body's centre of mass sits furthest horizontally from the lumbar spine, and most of it is gone by about 30° of flexion — so it loads the position the [abdominal wall](#abdominalwall) is weakest in and unloads the position it is strongest in (Part VI §B.3). Its one real virtue is a favourable challenge-to-compression ratio: partial curl-ups scored among the best of twelve abdominal exercises on that index (Axler & McGill, 1997). Its limitation is that it cannot be progressed except by adding repetitions, which is not progression (Part VI §F.5).
+
+## cablecrunch
+
+*Exercises & Technique*
+
+**Cable crunch** — Kneeling at a high pulley and curling the ribcage down toward the hips against the stack. Formally: a loaded [trunk flexion](#trunkflexion) exercise performed against a cable whose line of action stays roughly perpendicular to the torso through the movement, giving a **near-constant [resistance profile](#resistanceprofile)** — the only flexion exercise in common use with that property. That, plus a load adjustable in small increments, is why Part VI §D.1 makes it the default: it keeps tension on the wall through the middle third of the range, which is where the muscle is at its optimum (Part VI §B.6). Its characteristic error is the hips travelling backwards, which converts it into a pulldown performed with a rounded back.
+
+## situp
+
+*Exercises & Technique*
+
+**Sit-up** — Rising from lying to sitting, usually with the feet anchored. Formally: a combined [trunk flexion](#trunkflexion) and [hip flexion](#hipflexion) exercise in which the abdominal wall flexes the trunk through roughly the first 30° and the hip flexors carry the trunk the rest of the way. Because [psoas major](#psoasmajor) attaches to the lumbar vertebrae, the second half loads the lumbar spine while the abdominal wall works isometrically to resist it — which is why the exercise is partly a hip flexor exercise and why [rectus femoris](#rectusfemoris) activity is high in it (Escamilla et al., 2006). Weighted and performed on a decline it is a legitimate loaded flexion exercise; performed for time and for repetitions it is a test of hip flexor endurance.
+
+## hangingkneeraise
+
+*Exercises & Technique*
+
+**Hanging knee raise** — Hanging from a bar and drawing the knees up toward the chest. Formally: a combined [hip flexion](#hipflexion) and [trunk flexion](#trunkflexion) exercise performed from a dead hang; **below roughly 60° of hip flexion it is a hip flexor exercise**, and it becomes a trunk flexion exercise only once the pelvis begins to curl toward the ribs. Judging it by how high the knees travel therefore measures the wrong joint. Its [resistance profile](#resistanceprofile) peaks with the thighs near horizontal and falls at both ends, and its usual [limiting link](#limitinglink) is the grip rather than the trunk, which straps remove.
+
+## abwheel
+
+*Exercises & Technique*
+
+**Ab wheel** — A small wheel with handles, rolled out along the floor from the knees or the feet while the trunk stays straight. Formally: a dynamic anti-extension exercise in which the resistance is the lifter's own body weight acting through a lever that lengthens continuously as the wheel travels, giving a **rising [resistance profile](#resistanceprofile)** through the range. It is the one exercise in the anti-extension category that moves through a range under increasing load rather than holding a position, which is why Part VI §D.2 treats it as the exception with a hypertrophy argument. The set ends when the ribs and pelvis stop holding their relationship — a position, not a repetition count.
+
+## plank
+
+*Exercises & Technique*
+
+**Plank** — Holding a straight body position on the forearms and toes. Formally: an isometric anti-extension exercise in which the abdominal wall resists the lumbar spine being extended by gravity acting on the pelvis and legs; demand is set by **lever length**, not by duration. Because nothing moves, it loads one joint angle only, under a resistance capped by body weight — a genuine but **narrow** [hypertrophy](#hypertrophy) stimulus rather than an absent one (Part VI §B.4), and a reasonable position test. It is progressed by lengthening the lever or adding load; adding time past roughly 45 s trains the ability to hold it for longer and little else (Part VI §F.5).
+
+## sideplank
+
+*Exercises & Technique*
+
+**Side plank** — Holding the body straight on one forearm and the side of the feet. Formally: an isometric anti-[lateral-flexion](#trunklateralflexion) exercise loading the [quadratus lumborum](#quadratuslumborum), obliques and hip abductors of the down side; quantified for tissue load and spinal stability alongside the other stabilization exercises (Kavcic et al., 2004). It is the most efficient body-weight exercise across two Parts of this document: it appears here and in the top tier of estimated [gluteus medius](#gluteusmedius) force in Part IV §D.4.
+
+## pallofpress
+
+*Exercises & Technique*
+
+**Pallof press** — Standing side-on to a cable and pressing the handle straight out from the chest without letting the torso turn. Formally: an isometric anti-[rotation](#trunkrotation) exercise in which demand rises as the arms extend and the load's [moment arm](#momentarm) about the spine lengthens. It loads the obliques in the action they are built for without requiring the lumbar segments to rotate, which they barely can. It is progressed by extending further or standing further from the stack, not by holding longer.
+
+## suitcasecarry
+
+*Exercises & Technique*
+
+**Suitcase carry** — Walking with a heavy weight in one hand and nothing in the other. Formally: an isometric anti-[lateral-flexion](#trunklateralflexion) exercise in which the load's [moment arm](#momentarm) about the spine is fixed by the lifter's width and the demand is set entirely by the weight — which makes it, unusually for this region, **loadable without limit and progressible like any other lift**. Its [limiting link](#limitinglink) is the grip, and straps are legitimate.
+
+## woodchop
+
+*Exercises & Technique*
+
+**Woodchop** — Pulling a cable diagonally across the body, high to low or low to high, turning the ribcage as you go. Formally: a loaded [trunk rotation](#trunkrotation) exercise with a mid-range-loaded [resistance profile](#resistanceprofile), pairing one side's [external oblique](#externaloblique) with the other side's [internal oblique](#internaloblique) — so a single set trains both layers on both sides across two repetitions. It is the only loaded, progressive, full-range rotation exercise in common use, which matters because the obliques are the trunk's rotators and the lumbar back muscles supply about 5% of its axial torque (Macintosh et al., 1993a). Its characteristic error is rotating with the arms around a still ribcage.
+
+## impingement
+
+*Pathology & Clinical*
+
+**Subacromial impingement** — Pain from the rotator-cuff tendons being compressed in the narrow space beneath the bony shelf at the top of the shoulder. Formally: symptomatic compression of the subacromial contents — supraspinatus tendon, long head of biceps tendon, subacromial bursa — between the humeral head and the coracoacromial arch beneath the [acromion](#acromion), provoked by [humeral elevation](#humeralelevation) combined with [internal rotation](#internalrotation). **Interpretive caution:** the term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized. Training-relevant because that provoking combination — elevation, abduction and internal rotation — is exactly the position a behind-the-neck pulldown creates and exactly what an "internally rotate to feel the lat" cue asks for.
+
+---
+
+## painfularc
+
+*Pathology & Clinical*
+
+**Painful arc** — Shoulder pain that appears through a band in the middle of raising the arm and disappears above and below it. Formally: pain reproduced between approximately 60° and 120° of [humeral elevation](#humeralelevation) and absent at either end, classically attributed to compression of the [subacromial](#subacromialspace) contents as the greater tuberosity passes beneath the [acromion](#acromion). It is a clinical sign rather than a diagnosis — the band's position varies, and the mechanical account of it is contested along with the [impingement](#impingement) label itself — but it is the single most useful thing a lifter can notice, because it is reproducible, it is testable unloaded in a few seconds (Part V §C.3), and it is a reason to be assessed rather than a range prescription.
+
+## patellofemoralpain
+
+*Pathology & Clinical*
+
+**Patellofemoral pain** — Pain at the front of the knee, around or behind the kneecap, typically worse with squatting, stairs and prolonged sitting. Formally: a clinical diagnosis of retropatellar or peripatellar pain reproduced by loaded knee flexion, in the absence of structural findings sufficient to explain it; it is a symptom pattern rather than a single tissue diagnosis. Hip-plus-knee and hip-only exercise programmes are comparably effective and both outperform knee-only programmes (Manojlović et al., 2021) — so it is a loading-modification problem, not a stop-training problem, and the hip is usually the part being missed.
+
+## patellartendinopathy
+
+*Pathology & Clinical*
+
+**Patellar tendinopathy ("jumper's knee")** — Pain and thickening at the tendon just below the kneecap, localized to a point you can put a finger on. Formally: a load-related degenerative and reactive condition of the [patellar tendon](#patellartendon), typically at its proximal attachment, presenting with focal tenderness and pain that warms up during activity and worsens afterwards. Progressive loading is the established treatment and rest is not; heavy-slow resistance through both phases of the rep has more evidence behind it than isolating the eccentric (Malliaras et al., 2013).
+
+## kneeosteoarthritis
+
+*Pathology & Clinical*
+
+**Knee osteoarthritis** — Age- and load-related degeneration of the knee's cartilage and surrounding structures, causing pain and stiffness. Formally: a whole-joint condition of the [tibiofemoral joint](#tibiofemoraljoint), the [patellofemoral joint](#patellofemoraljoint) or both, involving cartilage loss, subchondral bone change and synovial involvement. Quadriceps strengthening in the tolerated range is a first-line intervention. The argument that deep flexion is not inherently harmful was made about healthy knees (Hartmann et al., 2013) and does not transfer here; the depth prescription belongs to an assessing clinician rather than to this document.
+
+## aclreconstruction
+
+*Pathology & Clinical*
+
+**ACL reconstruction** — Surgery to replace a torn anterior cruciate ligament with a graft. Formally: surgical reconstruction of the anterior cruciate ligament of the [tibiofemoral joint](#tibiofemoraljoint) using a tendon graft, after which quadriceps strength deficits typically persist far longer than the graft's healing timeline. Loading after it is governed entirely by the surgical protocol; the relevant mechanical fact from this document is that anterior cruciate ligament tension was present **only** in open-chain knee extension, near full extension, and was absent from the squat and the leg press (Escamilla et al., 1998) — which is why post-surgical protocols restrict the shallow end of open-chain work rather than the closed-chain pattern.
+
+## glutealtendinopathy
+
+*Pathology & Clinical*
+
+**Gluteal tendinopathy (greater trochanteric pain syndrome)** — Pain on the outside of the hip, worst when lying on that side at night or standing on that leg. Formally: a painful degenerative condition of the [gluteus medius](#gluteusmedius) and [gluteus minimus](#gluteusminimus) tendons at their insertion on the [greater trochanter](#greatertrochanter), now recognized as the primary local source of lateral hip pain in place of the older label "trochanteric bursitis" (Grimaldi & Fearon, 2015). The mechanism that governs its management is **compression**: the [iliotibial tract](#iliotibialtract) presses the tendons against the trochanter whenever the hip moves into [adduction](#hipadduction), so adduction stretches make it worse, while removing compressive positions and adding progressive abductor loading makes it better — the latter beating a corticosteroid injection at eight weeks and again at a year (Mellor et al., 2018).
+
+## femoroacetabularimpingement
+
+*Pathology & Clinical*
+
+**Femoroacetabular impingement (FAI) syndrome** — Groin pain that catches when the hip is bent deeply, in someone whose hip bones are shaped so that the femur meets the socket early. Formally: a motion-related clinical disorder of the [hip joint](#hipjoint) defined by a triad of symptoms, clinical signs and imaging findings, arising from premature contact between the proximal [femur](#femur) and the acetabulum — most often with a cam morphology of the femoral head–neck junction, a pincer morphology of the acetabular rim, or both (Griffin et al., 2016). The definitional point that matters for training is that **imaging alone does not make the diagnosis**: cam and pincer morphology are common in people with no symptoms whatever.
+
+## hiposteoarthritis
+
+*Pathology & Clinical*
+
+**Hip osteoarthritis** — Wear-related hip pain and stiffness that builds over years and is worst on weight-bearing. Formally: a whole-joint disorder of the [hip joint](#hipjoint) involving articular cartilage loss, subchondral bone change and capsular thickening, diagnosed clinically and supported rather than defined by imaging. It appears in this document only as a training context: it does not prohibit loaded hip extension, it does mean that range is set by symptoms rather than by a rule, and the depth prescriptions of Part IV §B.7 were written for healthy hips.
+
+## rotatorcuffpain
+
+*Pathology & Clinical*
+
+**Rotator cuff-related shoulder pain** — The umbrella term for shoulder pain that hurts through part of the arc of raising the arm and eases above and below it. Formally: a clinical category covering pain and reduced function attributed to the [rotator cuff](#rotatorcuff) and related [subacromial](#subacromialspace) structures, encompassing what was previously separated into subacromial [impingement](#impingement), rotator cuff tendinopathy and partial-thickness tears, and defined by symptoms and clinical testing rather than by imaging. It is the most common shoulder presentation in a training population, and the evidence on what to do about it is unusually consistent in one respect: across twenty-eight studies, rehabilitation improved shoulder strength, interventions **that included active exercise or strength training** produced small-to-moderate effects on every strength outcome, and interventions without exercise produced **none** (Zhang et al., 2026).
+
+## shoulderinstability
+
+*Pathology & Clinical*
+
+**Shoulder instability** — A shoulder that slips, or feels as though it is about to, when the arm is put in certain positions. Formally: symptomatic excessive translation of the head of the [humerus](#humerus) relative to the glenoid fossa, ranging from subluxation to frank dislocation, most commonly anterior and most commonly provoked by [abduction](#shoulderabduction) combined with [external rotation](#shoulderexternalrotation). Training-relevant for two reasons: that provoking position is the one a behind-the-neck press requires, and the [axillary nerve](#axillarynerve) that supplies the whole deltoid is the one most often injured by a dislocation (Part V §E.4).
+
+## lowbackpain
+
+*Pathology & Clinical*
+
+**Chronic non-specific low back pain** — Back pain lasting more than three months that cannot be attributed to a specific identifiable cause. Formally: pain localized between the costal margins and the gluteal folds, persisting beyond twelve weeks, without an identified specific pathology such as fracture, infection, inflammatory disease, radicular syndrome or cauda equina — a diagnosis of exclusion that covers the large majority of presentations. It matters to this document for one reason: exercise treats it. Pooling **249 randomized trials**, exercise beat no treatment, usual care or placebo for pain by a clinically important margin (mean difference −15.2 on a 0–100 scale, 95% CI −18.3 to −12.2), with **moderate-certainty evidence**; the effect on functional limitations was real but below the reviewers' own threshold for clinical importance, and exercise did not differ from manual therapy (Hayden et al., 2021). What the evidence does **not** establish is that any particular mode is best, or that weak trunk muscles caused the pain (Part VI §E.4).
+
+## diastasisrecti
+
+*Pathology & Clinical*
+
+**Diastasis recti** — A widening of the seam down the middle of the abdomen, so the two halves of the front abdominal muscle sit further apart than usual. Formally: separation of the [rectus abdominis](#rectusabdominis) bellies through stretching of the [linea alba](#lineaalba) beyond a conventional inter-recti distance threshold, near-universal in late pregnancy and common postpartum, and also seen with prolonged raised [intra-abdominal pressure](#intraabdominalpressure) from other causes. It matters here because the linea alba is the structure all four [abdominal wall](#abdominalwall) muscles converge on (Part VI §A.5), so its integrity conditions what the front of the trunk can be asked to do. It is an assessment question before it is a programming one, and Part VI §E.2 routes it accordingly rather than prescribing around it.
+
+---
+
+# partviiibibliography
+
+**Part VIII — Bibliography**
+
+Every source cited in this document: **226 papers**, each with a DOI you can paste into a search box
+or a library request form — with two exceptions, noted at their entries, for which no DOI was ever
+issued and a PubMed or PubMed Central identifier is given instead. Alphabetical by first author, so an in-text citation like
+*(Gerling & Brown, 2013)* is found by scanning for **Gerling**.
+
+**100 are open access** — free to read now. **126 are paywalled**; any university or public library can
+obtain those through interlibrary loan at no cost, usually in a few days, and authors may legally
+share their own accepted manuscripts if you email them. Every DOI below was verified against
+Crossref, and open-access status against Unpaywall, at the time of writing.
+
+**How to read a citation here.** A reference is a pointer, not a guarantee. Where a claim rests on a
+small sample, a cadaveric model, an acute measurement, or a muscle other than the one under
+discussion, the text says so at the claim itself — that context matters more than the presence of a reference.
+*[consensus — no single source]* marks textbook material with no single origin paper. *[UNVERIFIED]*
+marks claims that could not be traced to a source we could read; they are flagged rather than quietly
+dropped. **Twenty-two of these papers measured the latissimus dorsi directly, twenty-eight measured the
+quadriceps femoris directly, thirty-eight measured a gluteal muscle directly, twenty-one measured a
+deltoid or another shoulder muscle directly, and thirty-two measured a trunk muscle directly**; the rest supply general training principles or the mechanical
+framework. Where a paper's own research group has been
+the subject of a published data-integrity analysis, its entry says so. Where two or more papers by the same first author share a year, the bibliography entry
+records the `a`/`b`/`c` suffix used in the text.
+
+---
+
+Ackland DC, Pak P, Richardson M, Pandy MG. Moment arms of the muscles crossing the anatomical shoulder. Journal of Anatomy. 2008;213(4):383-390. doi:10.1111/j.1469-7580.2008.00965.x · **open access**
+
+Ackland DC, Pandy MG. Moment arms of the shoulder muscles during axial rotation. Journal of Orthopaedic Research. 2011;29(5):658-667. doi:10.1002/jor.21269 · *paywalled*
+
+Afonso J, Ramirez-Campillo R, Moscão J, Rocha T, Brandão A, Pereira J, et al. Strength Training versus Stretching for Improving Range of Motion: A Systematic Review and Meta-Analysis. Healthcare. 2021;9(4):427. doi:10.3390/healthcare9040427 · **open access**
+
+Ahtiainen JP, Walker S, Peltonen H, Holviala J, Sillanpää E, Karavirta L, et al. Heterogeneity in resistance training-induced muscle strength and mass responses in men and women of different ages. Age. 2016;38(1):10. doi:10.1007/s11357-015-9870-1 · **open access**
+
+Alonso-Fernández D, Fernández-Rodríguez R, Abalo-Núñez R. Changes in rectus femoris architecture induced by the reverse nordic hamstring exercises. The Journal of Sports Medicine and Physical Fitness. 2019;59(4):640-647. doi:10.23736/S0022-4707.18.08873-4 · **open access**
+
+Andersen V, Fimland MS, Wiik E, Skoglund A, Saeterbakken AH. Effects of Grip Width on Muscle Strength and Activation in the Lat Pull-Down. Journal of Strength and Conditioning Research. 2014;28(4):1135-1142. doi:10.1097/JSC.0000000000000232 · *paywalled*
+
+Anetai H, Kato K, Kudoh H, Sakai T, Ichimura K. Structural re-evaluation of the human gluteus maximus. Scientific Reports. 2025;15(1):21251. doi:10.1038/s41598-025-05361-x · **open access**
+
+Arnold EM, Ward SR, Lieber RL, Delp SL. A Model of the Lower Limb for Analysis of Human Movement. Annals of Biomedical Engineering. 2010;38(2):269-279. doi:10.1007/s10439-009-9852-5 · **open access**
+
+Aronis G, Kurz M, Wimmer F, Hackl H, Angeli T, Gföhler M. Maximum Shoulder Torque and Muscle Activation During Standing Arm Flexion: Reference Data for Biomechanical and Ergonomic Applications. Journal of Functional Morphology and Kinesiology. 2025;11(1):20. doi:10.3390/jfmk11010020 · **open access**
+
+Asayama A, Tateuchi H, Ota M, Motomura Y, Yanase K, Komamura T, et al. Differences in shear elastic modulus of the latissimus dorsi muscle during stretching among varied trunk positions. Journal of Biomechanics. 2021;118:110324. doi:10.1016/j.jbiomech.2021.110324 · *paywalled*
+
+Asghari SH, Wong A, Comfort P, Mirghani SJ, Sharifian S, Ghaderi M. Comparing the impact of hip thrust versus squat training on lower limb performance in sub-elite athletes: a systematic review and meta-analysis. Sports Biomechanics. 2025;24(12):3473-3492. doi:10.1080/14763141.2025.2553700 · *paywalled*
+
+Aube D, Wadhi T, Rauch J, Anand A, Barakat C, Pearson J, et al. Progressive Resistance Training Volume: Effects on Muscle Thickness, Mass, and Strength Adaptations in Resistance-Trained Individuals. Journal of Strength and Conditioning Research. 2022;36(3):600-607. doi:10.1519/JSC.0000000000003524 · *paywalled*
+
+Augustin F, Piñero A, Mohan AE, Sapuppo M, Coleman M, Wolf M, et al. Do Cheaters Prosper? Effect of Externally Supplied Momentum During Resistance Training on Measures of Upper Body Muscle Hypertrophy. International Journal of Exercise Science. 2025;18(3):329-342. doi:10.70252/gdbl2230 · **open access**
+
+Axler CT, McGill SM. Low back loads over a variety of abdominal exercises: searching for the safest abdominal challenge. Medicine & Science in Sports & Exercise. 1997;29(6):804-811. doi:10.1097/00005768-199706000-00011 · *paywalled*
+
+Balshaw TG, Funnell MP, McDermott EJ, Maden-Wilkinson TM, Massey GJ, Abela S, et al. Ultrasound Muscle Thickness Is a Poor Index of Criterion Magnetic Resonance Imaging Measures of Resistance Training-Induced Muscle Growth. Medicine & Science in Sports & Exercise. 2026. doi:10.1249/MSS.0000000000004078 · *paywalled*
+
+Barbalho M, Coswig V, Souza D, Serrão JC, Hebling Campos M, Gentil P. Back Squat vs. Hip Thrust Resistance-training Programs in Well-trained Women. International Journal of Sports Medicine. 2020;41(5):306-310. doi:10.1055/a-1082-1126 · *paywalled* — *data-integrity concerns; see Vigotsky et al., 2020*
+
+Barker PJ, Hapuarachchi KS, Ross JA, Sambaiew E, Ranger TA, Briggs CA. Anatomy and biomechanics of gluteus maximus and the thoracolumbar fascia at the sacroiliac joint. Clinical Anatomy. 2014;27(2):234-240. doi:10.1002/ca.22233 · *paywalled*
+
+Bartolomei S, Rosaci G, Latini D, Nigro F. Effects of horizontally versus vertically loaded resistance exercises on performance and muscle architecture. The Journal of Sports Medicine and Physical Fitness. 2025;65(3):312-319. doi:10.23736/S0022-4707.24.16218-4 · *paywalled*
+
+Bassett RW, Browne AO, Morrey BF, An KN. Glenohumeral muscle force and moment mechanics in a position of shoulder instability. Journal of Biomechanics. 1990;23(5):405-415. doi:10.1016/0021-9290(90)90295-E · *paywalled*
+
+Baz-Valle E, Schoenfeld BJ, Torres-Unda J, Santos-Concejero J, Balsalobre-Fernández C. The effects of exercise variation in muscle thickness, maximal strength and motivation in resistance trained men. PLOS ONE. 2019;14(12):e0226989. doi:10.1371/journal.pone.0226989 · **open access**
+
+Behm DG, Drinkwater EJ, Willardson JM, Cowley PM. The use of instability to train the core musculature. Applied Physiology, Nutrition, and Metabolism. 2010;35(1):91-108. doi:10.1139/h09-127 · **open access**
+
+Bergmann G, Deuretzbacher G, Heller M, Graichen F, Rohlmann A, Strauss J, et al. Hip contact forces and gait patterns from routine activities. Journal of Biomechanics. 2001;34(7):859-871. doi:10.1016/S0021-9290(01)00040-9 · *paywalled*
+
+Bergmann G, Graichen F, Bender A, Rohlmann A, Halder A, Beier A, et al. In vivo gleno-humeral joint loads during forward flexion and abduction. Journal of Biomechanics. 2011;44(8):1543-1552. doi:10.1016/j.jbiomech.2011.02.142 · *paywalled*
+
+Bickel CS, Cross JM, Bamman MM. Exercise Dosing to Retain Resistance Training Adaptations in Young and Older Adults. Medicine & Science in Sports & Exercise. 2011;43(7):1177-1187. doi:10.1249/MSS.0b013e318207c15d · *paywalled*
+
+Blemker SS, Delp SL. Three-Dimensional Representation of Complex Muscle Architectures and Geometries. Annals of Biomedical Engineering. 2005;33(5):661-673. doi:10.1007/s10439-005-1433-7 · *paywalled*
+
+Bloomquist K, Langberg H, Karlsen S, Madsgaard S, Boesen M, Raastad T. Effect of range of motion in heavy load squatting on muscle and tendon adaptations. European Journal of Applied Physiology. 2013;113(8):2133-2142. doi:10.1007/s00421-013-2642-7 · **open access**
+
+Bogduk N, Johnson G, Spalding D. The morphology and biomechanics of latissimus dorsi. Clinical Biomechanics. 1998;13(6):377-385. doi:10.1016/S0268-0033(98)00102-8 · *paywalled*
+
+Bogduk N, Macintosh JE, Pearcy MJ. A Universal Model of the Lumbar Back Muscles in the Upright Position. Spine. 1992;17(8):897-913. doi:10.1097/00007632-199208000-00007 · *paywalled*
+
+Bogduk N, Pearcy M, Hadfield G. Anatomy and biomechanics of psoas major. Clinical Biomechanics. 1992;7(2):109-119. doi:10.1016/0268-0033(92)90024-X · *paywalled*
+
+Brazil A, Needham L, Palmer JL, Bezodis IN. A comprehensive biomechanical analysis of the barbell hip thrust. PLOS ONE. 2021;16(3):e0249307. doi:10.1371/journal.pone.0249307 · **open access**
+
+Brown JMM, Wickham JB, McAndrew DJ, Huang XF. Muscles within muscles: Coordination of 19 muscle segments within three shoulder muscles during isometric motor tasks. Journal of Electromyography and Kinesiology. 2007;17(1):57-73. doi:10.1016/j.jelekin.2005.10.007 · *paywalled*
+
+Brown SHM, Ward SR, Cook MS, Lieber RL. Architectural analysis of human abdominal wall muscles: implications for mechanical function. Spine. 2011;36(5):355-362. doi:10.1097/BRS.0b013e3181d12ed7 · **open access**
+
+Buonsenso A, Di Fonza D, Di Claudio G, et al. Electromyographic Analysis of Back Muscle Activation During Lat Pulldown Exercise: Effects of Grip Variations and Forearm Orientation. Journal of Functional Morphology and Kinesiology. 2025;10(3):345. doi:10.3390/jfmk10030345 · **open access**
+
+Callaghan JP, McGill SM. Intervertebral disc herniation: studies on a porcine model exposed to highly repetitive flexion/extension motion with compressive force. Clinical Biomechanics. 2001;16(1):28-37. doi:10.1016/S0268-0033(00)00063-2 · *paywalled*
+
+Cannon J, Weithman BA, Powers CM. Activation training facilitates gluteus maximus recruitment during weight-bearing strengthening exercises. Journal of Electromyography and Kinesiology. 2022;63:102643. doi:10.1016/j.jelekin.2022.102643 · *paywalled*
+
+Caterisano A, Moss RF, Pellinger TK, Woodruff K, Lewis VC, Booth W, et al. The Effect of Back Squat Depth on the EMG Activity of 4 Superficial Hip and Thigh Muscles. Journal of Strength and Conditioning Research. 2002;16(3):428-432. doi:10.1519/00124278-200208000-00014 · *paywalled*
+
+Chen X, Sanchez GN, Schnitzer MJ, Delp SL. Changes in sarcomere lengths of the human vastus lateralis muscle with knee flexion measured using in vivo microendoscopy. Journal of Biomechanics. 2016;49(13):2989-2994. doi:10.1016/j.jbiomech.2016.07.013 · *paywalled*
+
+Chen Z, Franklin DW. Muscle Moment Arm–Joint Angle Relations in the Hip, Knee, and Ankle: A Visualization of Datasets. Annals of Biomedical Engineering. 2025;53(8):1757-1776. doi:10.1007/s10439-025-03735-w · **open access**
+
+Cholewicki J, Juluru K, McGill SM. Intra-abdominal pressure mechanism for stabilizing the lumbar spine. Journal of Biomechanics. 1999;32(1):13-17. doi:10.1016/S0021-9290(98)00129-8 · **open access**
+
+Collings TJ, Bourne MN, Barrett RS, Meinders E, Gonçalves BAM, Shield AJ, et al. Gluteal Muscle Forces during Hip-Focused Injury Prevention and Rehabilitation Exercises. Medicine & Science in Sports & Exercise. 2023;55(4):650-660. doi:10.1249/MSS.0000000000003091 · **open access**
+
+Collings TJ, Bourne MN, Barrett RS, Meinders E, Gonçalves B, Shield AJ, et al. Reconsidering Exercise Selection with EMG: Poor Agreement between Ranking Hip Exercises with Gluteal EMG and Muscle Force. Medicine & Science in Sports & Exercise. 2025;57(9):1829-1837. doi:10.1249/MSS.0000000000003733 · *paywalled*
+
+Colloca CJ, Hinrichs RN. The Biomechanical and Clinical Significance of the Lumbar Erector Spinae Flexion-Relaxation Phenomenon: A Review of Literature. Journal of Manipulative and Physiological Therapeutics. 2005;28(8):623-631. doi:10.1016/j.jmpt.2005.08.005 · *paywalled*
+
+Contreras B, Vigotsky AD, Schoenfeld BJ, Beardsley C, Cronin J. A Comparison of Gluteus Maximus, Biceps Femoris, and Vastus Lateralis Electromyographic Activity in the Back Squat and Barbell Hip Thrust Exercises. Journal of Applied Biomechanics. 2015;31(6):452-458. doi:10.1123/jab.2014-0301 · *paywalled*
+
+Contreras B, Vigotsky AD, Schoenfeld BJ, Beardsley C, Cronin J. A Comparison of Gluteus Maximus, Biceps Femoris, and Vastus Lateralis Electromyography Amplitude in the Parallel, Full, and Front Squat Variations in Resistance-Trained Females. Journal of Applied Biomechanics. 2016a;32(1):16-22. doi:10.1123/jab.2015-0113 · *paywalled*
+
+Contreras B, Vigotsky AD, Schoenfeld BJ, Beardsley C, Cronin J. A Comparison of Gluteus Maximus, Biceps Femoris, and Vastus Lateralis Electromyography Amplitude for the Barbell, Band, and American Hip Thrust Variations. Journal of Applied Biomechanics. 2016b;32(3):254-260. doi:10.1123/jab.2015-0091 · *paywalled*
+
+Contreras B, Cronin JB, Schoenfeld BJ, Nates RJ, Tiryaki Sonmez G. Are All Hip Extension Exercises Created Equal? Strength & Conditioning Journal. 2013;35(2):17-22. doi:10.1519/SSC.0b013e318289fffd · *paywalled*
+
+Contreras B, Schoenfeld B. To Crunch or Not to Crunch: An Evidence-Based Examination of Spinal Flexion Exercises, Their Potential Risks, and Their Applicability to Program Design. Strength and Conditioning Journal. 2011;33(4):8-18. doi:10.1519/SSC.0b013e3182259d05 · *paywalled*
+
+Coratella G, Tornatore G, Longo S, Esposito F, Cè E. An Electromyographic Analysis of Lateral Raise Variations and Frontal Raise in Competitive Bodybuilders. International Journal of Environmental Research and Public Health. 2020;17(17):6015. doi:10.3390/ijerph17176015 · **open access**
+
+Coratella G, Tornatore G, Longo S, Esposito F, Cè E. Front vs Back and Barbell vs Machine Overhead Press: An Electromyographic Analysis and Implications For Resistance Training. Frontiers in Physiology. 2022;13:825880. doi:10.3389/fphys.2022.825880 · **open access**
+
+Currier BS, D'Souza AC, Fiatarone Singh MA, Kirk B, Phillips SM, et al. American College of Sports Medicine Position Stand. Resistance Training Prescription for Muscle Function, Hypertrophy, and Physical Performance in Healthy Adults: An Overview of Reviews. Medicine & Science in Sports & Exercise. 2026;58(4):851-872. doi:10.1249/MSS.0000000000003897 · **open access**
+
+da Silva JJ, Schoenfeld BJ, Marchetti PN, Pecoraro SL, Greve JMD, Marchetti PH. Muscle Activation Differs Between Partial and Full Back Squat Exercise With External Load Equated. Journal of Strength and Conditioning Research. 2017;31(6):1688-1693. doi:10.1519/JSC.0000000000001713 · *paywalled*
+
+Damas F, Phillips SM, Libardi CA, Vechin FC, Lixandrão ME, Jannig PR, et al. Resistance training-induced changes in integrated myofibrillar protein synthesis are related to hypertrophy only after attenuation of muscle damage. The Journal of Physiology. 2016;594(18):5209-5222. doi:10.1113/JP272472 · **open access**
+
+Delgado J, Drinkwater EJ, Banyard HG, Haff GG, Nosaka K. Comparison Between Back Squat, Romanian Deadlift, and Barbell Hip Thrust for Leg and Hip Muscle Activities During Hip Extension. Journal of Strength and Conditioning Research. 2019;33(10):2595-2601. doi:10.1519/JSC.0000000000003290 · **open access**
+
+Delp SL, Hess WE, Hungerford DS, Jones LC. Variation of rotation moment arms with hip flexion. Journal of Biomechanics. 1999;32(5):493-501. doi:10.1016/S0021-9290(99)00032-9 · *paywalled*
+
+Delp SL, Suryanarayanan S, Murray WM, Uhlir J, Triolo RJ. Architecture of the rectus abdominis, quadratus lumborum, and erector spinae. Journal of Biomechanics. 2001;34(3):371-375. doi:10.1016/S0021-9290(00)00202-5 · *paywalled*
+
+Deng W, Lin M, Yu S, Liang H, Zhang Z, Tang C, et al. Effects of Hip Joint Angle on Quadriceps Recruitment Pattern During Knee Extension in Healthy Individuals: Analysis by Ultrasound-Based Shear-Wave Elastography. Frontiers in Physiology. 2022;13:836435. doi:10.3389/fphys.2022.836435 · **open access**
+
+Doma K, Deakin GB, Ness KF. Kinematic and electromyographic comparisons between chin-ups and lat-pull down exercises. Sports Biomechanics. 2013;12(3):302-313. doi:10.1080/14763141.2012.760204 · *paywalled*
+
+Dorado C, Calbet JAL, Lopez-Gordillo A, Alayon S, Sanchis-Moysi J. Marked Effects of Pilates on the Abdominal Muscles: A Longitudinal Magnetic Resonance Imaging Study. Medicine & Science in Sports & Exercise. 2012;44(8):1589-1594. doi:10.1249/MSS.0b013e31824fb6ae · *paywalled*
+
+Downie A, Williams CM, Henschke N, Hancock MJ, Ostelo RWJG, de Vet HCW, et al. Red flags to screen for malignancy and fracture in patients with low back pain: systematic review. BMJ. 2013;347:f7095. doi:10.1136/bmj.f7095 · **open access**
+
+Earp JE, Newton RU, Cormie P, Blazevich AJ. Inhomogeneous Quadriceps Femoris Hypertrophy in Response to Strength and Power Training. Medicine & Science in Sports & Exercise. 2015;47(11):2389-2397. doi:10.1249/MSS.0000000000000669 · **open access**
+
+Ema R, Wakahara T, Miyamoto N, Kanehisa H, Kawakami Y. Inhomogeneous architectural changes of the quadriceps femoris induced by resistance training. European Journal of Applied Physiology. 2013;113(11):2691-2703. doi:10.1007/s00421-013-2700-1 · *paywalled*
+
+Ema R, Sakaguchi M, Akagi R, Kawakami Y. Unique activation of the quadriceps femoris during single- and multi-joint exercises. European Journal of Applied Physiology. 2016;116(5):1031-1041. doi:10.1007/s00421-016-3363-5 · *paywalled*
+
+Enes A, Oneda G, Leonel DF, Lemos L, Alves F, Ferreira LHB, et al. The effects of squat variations on strength and quadriceps hypertrophy adaptations in recreationally trained females. European Journal of Sport Science. 2024;24(1):6-15. doi:10.1002/ejsc.12042 · **open access**
+
+Escamilla RF, Fleisig GS, Zheng N, Barrentine SW, Wilk KE, Andrews JR. Biomechanics of the knee during closed kinetic chain and open kinetic chain exercises. Medicine and Science in Sports and Exercise. 1998;30(4):556-569. doi:10.1097/00005768-199804000-00014 · *paywalled*
+
+Escamilla RF. Knee biomechanics of the dynamic squat exercise. Medicine & Science in Sports & Exercise. 2001;33(1):127-141. doi:10.1097/00005768-200101000-00020 · *paywalled*
+
+Escamilla RF, Fleisig GS, Lowry TM, Barrentine SW, Andrews JR. A three-dimensional biomechanical analysis of the squat during varying stance widths [cited as Escamilla et al., 2001a]. Medicine and Science in Sports and Exercise. 2001;33(6):984-998. doi:10.1097/00005768-200106000-00019 · *paywalled*
+
+Escamilla RF, Fleisig GS, Zheng N, Lander JE, Barrentine SW, Andrews JR, et al. Effects of technique variations on knee biomechanics during the squat and leg press [cited as Escamilla et al., 2001b]. Medicine & Science in Sports & Exercise. 2001;33(9):1552-1566. doi:10.1097/00005768-200109000-00020 · *paywalled*
+
+Escamilla RF, Babb E, DeWitt R, Jew P, Kelleher P, Burnham T, et al. Electromyographic Analysis of Traditional and Nontraditional Abdominal Exercises: Implications for Rehabilitation and Training. Physical Therapy. 2006;86(5):656-671. doi:10.1093/ptj/86.5.656 · **open access**
+
+Fenwick CMJ, Brown SHM, McGill SM. Comparison of Different Rowing Exercises: Trunk Muscle Activation and Lumbar Spine Motion, Load, and Stiffness. Journal of Strength and Conditioning Research. 2009;23(5):1408-1417. doi:10.1519/JSC.0b013e3181b07334 · *paywalled*
+
+Flack NAMS, Nicholson HD, Woodley SJ. A review of the anatomy of the hip abductor muscles, gluteus medius, gluteus minimus, and tensor fascia lata. Clinical Anatomy. 2012;25(6):697-708. doi:10.1002/ca.22004 · *paywalled*
+
+Franke RA, Botton CE, Rodrigues R, Pinto RS, Lima CS. Analysis of anterior, middle and posterior deltoid activation during single and multijoint exercises. The Journal of Sports Medicine and Physical Fitness. 2015;55(7-8):714-721. PMID:24947920 · *paywalled* — *no DOI was ever issued for this article; the PubMed identifier reaches the record and the abstract*
+
+Fridén J, Lieber RL. Quantitative evaluation of the posterior deltoid to triceps tendon transfer based on muscle architectural properties. The Journal of Hand Surgery. 2001;26(1):147-155. doi:10.1053/jhsu.2001.20161 · *paywalled*
+
+Fry AC, Smith JC, Schilling BK. Effect of Knee Position on Hip and Knee Torques During the Barbell Squat. Journal of Strength and Conditioning Research. 2003;17(4):629-633. doi:10.1519/00124278-200311000-00001 · *paywalled*
+
+Fukumoto Y, Tateuchi H, Ikezoe T, Tsukagoshi R, Akiyama H, So K, et al. Effects of high-velocity resistance training on muscle function, muscle properties, and physical performance in individuals with hip osteoarthritis: a randomized controlled trial. Clinical Rehabilitation. 2014;28(1):48-58. doi:10.1177/0269215513492161 · *paywalled*
+
+Ganderton C, Semciw A, Cook J, Moreira E, Pizzari T. Gluteal Loading Versus Sham Exercises to Improve Pain and Dysfunction in Postmenopausal Women with Greater Trochanteric Pain Syndrome: A Randomized Controlled Trial. Journal of Women's Health. 2018;27(6):815-829. doi:10.1089/jwh.2017.6729 · *paywalled*
+
+Garner BA, Pandy MG. Estimation of Musculotendon Properties in the Human Upper Limb. Annals of Biomedical Engineering. 2003;31(2):207-220. doi:10.1114/1.1540105 · *paywalled*
+
+Gerling ME, Brown SHM. Architectural analysis and predicted functional capability of the human latissimus dorsi muscle. Journal of Anatomy. 2013;223(2):112-122. doi:10.1111/joa.12074 · **open access**
+
+Graichen H, Hinterwimmer S, von Eisenhart-Rothe R, Vogl T, Englmeier KH, Eckstein F. Effect of abducting and adducting muscle activity on glenohumeral translation, scapular kinematics and subacromial space width in vivo. Journal of Biomechanics. 2005;38(4):755-760. doi:10.1016/j.jbiomech.2004.05.020 · *paywalled*
+
+Gray HA, Guan S, Thomeer LT, Pandy MG. Moment arm of the knee-extensor mechanism measured in vivo across a range of daily activities. Journal of Biomechanics. 2021;123:110484. doi:10.1016/j.jbiomech.2021.110484 · *paywalled*
+
+Grenier SG, McGill SM. Quantification of Lumbar Stability by Using 2 Different Abdominal Activation Strategies. Archives of Physical Medicine and Rehabilitation. 2007;88(1):54-62. doi:10.1016/j.apmr.2006.10.014 · *paywalled*
+
+Griffin DR, Dickenson EJ, O'Donnell J, Agricola R, Awan T, Beck M, et al. The Warwick Agreement on femoroacetabular impingement syndrome (FAI syndrome): an international consensus statement. British Journal of Sports Medicine. 2016;50(19):1169-1176. doi:10.1136/bjsports-2016-096743 · **open access**
+
+Grigat JM, Kjeldsen T, Jørgensen SL, Mechlenburg I, Dalgas U. Heavy slow resistance training combined with patient education in patients with gluteal tendinopathy: A feasibility study. Musculoskeletal Science and Practice. 2025;80:103425. doi:10.1016/j.msksp.2025.103425 · **open access**
+
+Grimaldi A, Fearon A. Gluteal Tendinopathy: Integrating Pathomechanics and Clinical Features in Its Management. Journal of Orthopaedic & Sports Physical Therapy. 2015;45(11):910-922. doi:10.2519/jospt.2015.5829 · *paywalled*
+
+Grob K, Ackland T, Kuster MS, Manestar M, Filgueira L. A newly discovered muscle: The tensor of the vastus intermedius. Clinical Anatomy. 2016;29(2):256-263. doi:10.1002/ca.22680 · *paywalled*
+
+Gundersen AH, Krosshaug T, Mausehund L, van den Tillaar R, Larsen S. The impact of grip width on kinetics and kinematics in the shoulder press among resistance-trained men. Sports Biomechanics. 2026;25(6):841-854. doi:10.1080/14763141.2025.2590028 · **open access**
+
+Häggmark T, Thorstensson A. Fibre types in human abdominal muscles. Acta Physiologica Scandinavica. 1979;107(4):319-325. doi:10.1111/j.1748-1716.1979.tb06482.x · *paywalled*
+
+Halperin I, Malleron T, Har-Nir I, Androulakis-Korakakis P, Wolf M, Fisher J, et al. Accuracy in Predicting Repetitions to Task Failure in Resistance Exercise: A Scoping Review and Exploratory Meta-analysis. Sports Medicine. 2022;52(2):377-390. doi:10.1007/s40279-021-01559-x · **open access**
+
+Hammami R, Jerez-Martínez A, Jiménez-Martínez P, Alix-Fages C, Rebai H, Kassis O, et al. Full Squats Enhance Performance and Body Composition, but Not Hypertrophy, Compared to Half Squats in Elite Young Tennis Players. Journal of Functional Morphology and Kinesiology. 2025;10(4):440. doi:10.3390/jfmk10040440 · **open access**
+
+Hartmann H, Wirth K, Klusemann M. Analysis of the Load on the Knee Joint and Vertebral Column with Changes in Squatting Depth and Weight Load. Sports Medicine. 2013;43(10):993-1008. doi:10.1007/s40279-013-0073-6 · *paywalled*
+
+Hayden JA, Ellis J, Ogilvie R, Malmivaara A, van Tulder MW. Exercise therapy for chronic low back pain. Cochrane Database of Systematic Reviews. 2021;9(9):CD009790. doi:10.1002/14651858.CD009790.pub2 · **open access**
+
+Henneman E, Somjen G, Carpenter DO. Functional significance of cell size in spinal motoneurons. Journal of Neurophysiology. 1965;28(3):560-580. doi:10.1152/jn.1965.28.3.560 · *paywalled*
+
+Hernández-Belmonte A, Martínez-Cava A, Buendía-Romero Á, Franco-López F, Pallarés JG. Free-Weight and Machine-Based Training Are Equally Effective on Strength and Hypertrophy: Challenging a Traditional Myth. Medicine & Science in Sports & Exercise. 2023;55(12):2316-2327. doi:10.1249/MSS.0000000000003271 · *paywalled*
+
+Hides JA, Richardson CA, Jull GA. Multifidus Muscle Recovery Is Not Automatic After Resolution of Acute, First-Episode Low Back Pain. Spine. 1996;21(23):2763-2769. doi:10.1097/00007632-199612010-00011 · *paywalled*
+
+Hik F, Ackland DC. The moment arms of the muscles spanning the glenohumeral joint: a systematic review. Journal of Anatomy. 2019;234(1):1-15. doi:10.1111/joa.12903 · **open access**
+
+Hoch A, Dimitriou D, Wolf-Wettstein J, Rosner J, Schubert M, Aguirre J, et al. Tensor Fasciae Latae and Gluteus Maximus Muscles: Do They Contribute to Hip Abduction? Journal of Orthopaedic Research. 2025;43(4):828-833. doi:10.1002/jor.26036 · **open access**
+
+Holzbaur KRS, Murray WM, Gold GE, Delp SL. Upper limb muscle volumes in adult subjects. Journal of Biomechanics. 2007;40(4):742-749. doi:10.1016/j.jbiomech.2006.11.011 · *paywalled*
+
+Hopkins JE, Hopkins CE, Chiu LZF. Greater squat stance width alters three-dimensional hip moment demands. Journal of Biomechanics. 2024;177:112391. doi:10.1016/j.jbiomech.2024.112391 · **open access**
+
+Huberti HH, Hayes WC, Stormont TJ, Chao EY. Force ratios in the quadriceps tendon and ligamentum patellae. Journal of Orthopaedic Research. 1984;2(1):49-54. doi:10.1002/jor.1100020108 · *paywalled*
+
+Inman VT, Saunders JB, Abbott LC. Observations of the Function of the Shoulder Joint. Clinical Orthopaedics and Related Research. 1996;330:3-12. doi:10.1097/00003086-199609000-00002 · *paywalled* — *reprint of the 1944 original, The Journal of Bone and Joint Surgery 1944;26(1):1-30*
+
+Johnson MA, Polgar J, Weightman D, Appleton D. Data on the distribution of fibre types in thirty-six human muscles: An autopsy study. Journal of the Neurological Sciences. 1973;18(1):111-129. doi:10.1016/0022-510X(73)90023-3 · *paywalled*
+
+Jorgensen MJ, Marras WS, Granata KP, Wiand JW. MRI-derived moment-arms of the female and male spine loading muscles. Clinical Biomechanics. 2001;16(3):182-193. doi:10.1016/S0268-0033(00)00087-5 · *paywalled*
+
+Jorgensen MJ, Marras WS, Smith FW, Pope MH. Sagittal plane moment arms of the female lumbar region rectus abdominis in an upright neutral torso posture [cited as Jorgensen et al., 2005]. Clinical Biomechanics. 2005;20(3):242-246. doi:10.1016/j.clinbiomech.2004.10.009 · *paywalled*
+
+Kassiano W, Costa B, Nunes JP, Ribeiro AS, Schoenfeld BJ, Cyrino ES. Which ROMs Lead to Rome? A Systematic Review of the Effects of Range of Motion on Muscle Hypertrophy. Journal of Strength and Conditioning Research. 2023;37(5):1135-1144. doi:10.1519/JSC.0000000000004415 · *paywalled*
+
+Kassiano W, Costa B, Kunevaliki G, Lisboa F, Prado A, Alves L, et al. Comparison of Muscle Hypertrophy and Strength Adaptations Induced by Back Squat and Leg Extension Resistance Exercises. Journal of Strength and Conditioning Research. 2026;40(4):367-376. doi:10.1519/JSC.0000000000005338 · *paywalled*
+
+Kassiano W, Kunevaliki G, Costa B, Nunes JP, Castro-e-Souza P, Tricoli I, et al. Addition of The Barbell Hip Thrust Elicits Greater Increases in Gluteus Maximus Muscle Thickness in Untrained Young Women. International Journal of Strength and Conditioning. 2024;4(1). doi:10.47206/ijsc.v4i1.284 · **open access**
+
+Kavcic N, Grenier S, McGill SM. Quantifying Tissue Loads and Spine Stability While Performing Commonly Prescribed Low Back Stabilization Exercises. Spine. 2004;29(20):2319-2329. doi:10.1097/01.brs.0000142222.62203.67 · *paywalled*
+
+Kennedy D, Casebolt JB, Farren GL, Fiaud V, Bartlett M, Strong L. Electromyographic differences of the gluteus maximus, gluteus medius, biceps femoris, and vastus lateralis between the barbell hip thrust and barbell glute bridge. Sports Biomechanics. 2024;23(12):2935-2949. doi:10.1080/14763141.2022.2074875 · *paywalled*
+
+Koch K, Semciw AI, Commean PK, Hillen TJ, Fitzgerald GK, Clohisy JC, et al. Comparison between movement pattern training and strengthening on muscle volume, muscle fat, and strength in patients with hip-related groin pain: An exploratory analysis. Journal of Orthopaedic Research. 2022;40(6):1375-1386. doi:10.1002/jor.25158 · **open access**
+
+Kojic F, Ranisavljev I, Obradovic M, Mandic D, Pelemis V, Paloc M, et al. Does Back Squat Exercise Lead to Regional Hypertrophy among Quadriceps Femoris Muscles? International Journal of Environmental Research and Public Health. 2022;19(23):16226. doi:10.3390/ijerph192316226 · **open access**
+
+Kojic F, Mandic D, Duric S. The effects of eccentric phase tempo in squats on hypertrophy, strength, and contractile properties of the quadriceps femoris muscle. Frontiers in Physiology. 2024;15:1531926. doi:10.3389/fphys.2024.1531926 · **open access**
+
+Kolber MJ, Beekhuizen KS, Cheng MS, Hellman MA. Shoulder Injuries Attributed to Resistance Training: A Brief Review. Journal of Strength and Conditioning Research. 2010;24(6):1696-1704. doi:10.1519/JSC.0b013e3181dc4330 · *paywalled*
+
+Krause Neto W, Krause TLV, Gama EF. The impact of resistance training on gluteus maximus hypertrophy: a systematic review and meta-analysis. Frontiers in Physiology. 2025;16:1542334. doi:10.3389/fphys.2025.1542334 · **open access**
+
+Krevolin JL, Pandy MG, Pearce JC. Moment arm of the patellar tendon in the human knee. Journal of Biomechanics. 2004;37(5):785-788. doi:10.1016/j.jbiomech.2003.09.010 · *paywalled*
+
+Kubo K, Ikebukuro T, Yata H. Effects of squat training with different depths on lower limb muscle volumes. European Journal of Applied Physiology. 2019;119(9):1933-1942. doi:10.1007/s00421-019-04181-y · *paywalled*
+
+Kuechle DK, Newman SR, Itoi E, Morrey BF, An KN. Shoulder muscle moment arms during horizontal flexion and elevation. Journal of Shoulder and Elbow Surgery. 1997;6(5):429-439. doi:10.1016/S1058-2746(97)70049-1 · *paywalled*
+
+Langenderfer J, Jerabek SA, Thangamani VB, Kuhn JE, Hughes RE. Musculoskeletal parameters of muscles crossing the shoulder and elbow and the effect of sarcomere length sample size on estimation of optimal muscle length. Clinical Biomechanics. 2004;19(7):664-670. doi:10.1016/j.clinbiomech.2004.04.009 · *paywalled*
+
+Lanza MB, Prado GC, Lacerda LT, Dinardi RR, Carvalho Junior LH, Diniz RC, et al. Muscle hypertrophy response across four muscles involved in the bench press exercise: Randomized 10 weeks training intervention. Journal of Bodywork and Movement Therapies. 2024;40:1417-1422. doi:10.1016/j.jbmt.2024.07.054 · *paywalled*
+
+Larsen S, Sandvik Kristiansen B, Swinton PA, Wolf M, Bao Fredriksen A, Nygaard Falch H, et al. The effects of hip flexion angle on quadriceps femoris muscle hypertrophy in the leg extension exercise [cited as Larsen et al., 2025a]. Journal of Sports Sciences. 2025;43(2):210-221. doi:10.1080/02640414.2024.2444713 · **open access**
+
+Larsen S, Wolf M, Schoenfeld BJ, Sandberg NØ, Fredriksen AB, Kristiansen BS, et al. Knee flexion range of motion does not influence muscle hypertrophy of the quadriceps femoris during leg press training in resistance-trained individuals [cited as Larsen et al., 2025b]. Journal of Sports Sciences. 2025;43(10):986-994. doi:10.1080/02640414.2025.2481534 · **open access**
+
+Larsen S, Wolf M, Schoenfeld BJ, Sandberg NØ, Fredriksen AB, Kristiansen BS, et al. Dumbbell versus cable lateral raises for lateral deltoid hypertrophy: an experimental study [cited as Larsen et al., 2025c]. Frontiers in Physiology. 2025;16:1611468. doi:10.3389/fphys.2025.1611468 · **open access**
+
+Lasevicius T, Ugrinowitsch C, Schoenfeld BJ, Roschel H, Tavares LD, De Souza EO, et al. Effects of different intensities of resistance training with equated volume load on muscle strength and hypertrophy. European Journal of Sport Science. 2018;18(6):772-780. doi:10.1080/17461391.2018.1450898 · *paywalled*
+
+Lee PM, Underhill J, Nishida C, Agonias K, Levine SB, Obana KK, et al. A National Evaluation of Upper Extremity Weightlifting Injury Surveillance: The High Risk in Youth and Adults With an Underutilization in Older Adults. Orthopaedic Journal of Sports Medicine. 2026;14(1):23259671251387730. doi:10.1177/23259671251387730 · **open access**
+
+Lees MJ, McLeod JC, Morton RW, Fatouros IG, Phillips SM, et al. Resistance training load does not determine resistance training-induced hypertrophy across upper and lower limbs in healthy young males. The Journal of Physiology. 2025. doi:10.1113/JP289684 · **open access**
+
+Lieberman DE, Raichlen DA, Pontzer H, Bramble DM, Cutright-Smith E. The human gluteus maximus and its role in running. Journal of Experimental Biology. 2006;209(11):2143-2155. doi:10.1242/jeb.02255 · **open access**
+
+Liu J, Teng HL, Selkowitz DM, Asavasopon S, Powers CM. Influence of hip and knee positions on gluteus maximus and hamstrings contributions to hip extension torque production. Physiotherapy Theory and Practice. 2022;38(13):2650-2657. doi:10.1080/09593985.2021.1975338 · *paywalled*
+
+Lopez P, Radaelli R, Taaffe DR, Newton RU, Galvão DA, Trajano GS, et al. Resistance Training Load Effects on Muscle Hypertrophy and Strength Gain: Systematic Review and Network Meta-analysis. Medicine & Science in Sports & Exercise. 2021;53(6):1206-1216. doi:10.1249/MSS.0000000000002585 · *paywalled*
+
+Lusk SJ, Hale BD, Russell DM. Grip Width and Forearm Orientation Effects on Muscle Activity During the Lat Pull-Down. Journal of Strength and Conditioning Research. 2010;24(7):1895-1900. doi:10.1519/JSC.0b013e3181ddb0ab · *paywalled*
+
+Maarleveld R, Veeger HEJ, van der Helm FCT, Son J, Lieber RL, van der Kruk E. What the PCSA? Addressing diversity in lower-limb musculoskeletal models: age- and sex-related differences in PCSA and muscle mass. Journal of Biomechanics. 2025;193:112976. doi:10.1016/j.jbiomech.2025.112976 · **open access**
+
+Macintosh JE, Pearcy MJ, Bogduk N. The axial torque of the lumbar back muscles: torsion strength of the back muscles [cited as Macintosh et al., 1993a]. Australian and New Zealand Journal of Surgery. 1993;63(3):205-212. doi:10.1111/j.1445-2197.1993.tb00520.x · *paywalled*
+
+Macintosh JE, Bogduk N, Pearcy MJ. The Effects of Flexion on the Geometry and Actions of the Lumbar Erector Spinae [cited as Macintosh et al., 1993b]. Spine. 1993;18(7):884-893. doi:10.1097/00007632-199306000-00013 · *paywalled*
+
+Maeo S, Huang M, Wu Y, Sakurai H, Kusagawa Y, Sugiyama T, et al. Greater Hamstrings Muscle Hypertrophy but Similar Damage Protection after Training at Long versus Short Muscle Lengths. Medicine & Science in Sports & Exercise. 2021;53(4):825-837. doi:10.1249/MSS.0000000000002523 · **open access**
+
+Maeo S, Wu Y, Huang M, Sakurai H, Kusagawa Y, Sugiyama T, et al. Triceps brachii hypertrophy is substantially greater after elbow extension training performed in the overhead versus neutral arm position. European Journal of Sport Science. 2023;23(7):1240-1250. doi:10.1080/17461391.2022.2100279 · **open access**
+
+Malliaras P, Barton CJ, Reeves ND, Langberg H. Achilles and Patellar Tendinopathy Loading Programmes: A Systematic Review Comparing Clinical Outcomes and Identifying Potential Mechanisms for Effectiveness. Sports Medicine. 2013;43(4):267-286. doi:10.1007/s40279-013-0019-z · *paywalled*
+
+Manojlović D, Kozinc Ž, Šarabon N. Trunk, Hip and Knee Exercise Programs for Pain Relief, Functional Performance and Muscle Strength in Patellofemoral Pain: Systematic Review and Meta-Analysis. Journal of Pain Research. 2021;14:1431-1449. doi:10.2147/JPR.S301448 · **open access**
+
+Marchetti PH, Uchida MC. Effects of the Pullover Exercise on the Pectoralis Major and Latissimus Dorsi Muscles as Evaluated by EMG. Journal of Applied Biomechanics. 2011;27(4):380-384. doi:10.1123/jab.27.4.380 · *paywalled*
+
+Martín-Fuentes I, Oliva-Lozano JM, Muyor JM. Electromyographic activity in deadlift exercise and its variants. A systematic review. PLOS ONE. 2020;15(2):e0229507. doi:10.1371/journal.pone.0229507 · **open access**
+
+Martín-San Agustín R, Castillo-Ballesta L, Esbri-Navarro R, Garvín JH. Comparison of Architectural and Performance Adaptations of Hip Extension Exercise Under Gravitational or Inertial Loading Conditions: A Randomized Controlled Trial. European Journal of Sport Science. 2025;25(10):e70048. doi:10.1002/ejsc.70048 · **open access**
+
+McCurdy K, Walker J, Yuen D. Gluteus Maximus and Hamstring Activation During Selected Weight-Bearing Resistance Exercises. Journal of Strength and Conditioning Research. 2018;32(3):594-601. doi:10.1519/JSC.0000000000001893 · *paywalled*
+
+McGill SM, Patt N, Norman RW. Measurement of the trunk musculature of active males using CT scan radiography: implications for force and moment generating capacity about the L4/L5 joint. Journal of Biomechanics. 1988;21(4):329-341. doi:10.1016/0021-9290(88)90262-X · *paywalled*
+
+McMillan RM, Ganderton CL, Cook J, Semciw AI, Long DM, Pizzari T. Does Menopausal Hormone Therapy, Exercise, or Both Improve Pain and Function in Postmenopausal Women With Greater Trochanteric Pain Syndrome? A 2x2 Factorial Randomized Clinical Trial. The American Journal of Sports Medicine. 2022;50(2):515-525. doi:10.1177/03635465211061142 · **open access**
+
+Mellor R, Bennell K, Grimaldi A, Nicolson P, Kasza J, Hodges P, et al. Education plus exercise versus corticosteroid injection use versus a wait and see approach on global outcome and pain from gluteal tendinopathy: prospective, single blinded, randomised clinical trial. BMJ. 2018;361:k1662. doi:10.1136/bmj.k1662 · **open access**
+
+Mellor R, Kasza J, Grimaldi A, Hodges P, Bennell K, Vicenzino B. Mediators and Moderators of Education Plus Exercise on Perceived Improvement in Individuals With Gluteal Tendinopathy: An Exploratory Analysis of a 3-Arm Randomized Trial. Journal of Orthopaedic & Sports Physical Therapy. 2022;52(12):826-836. doi:10.2519/jospt.2022.11261 · *paywalled*
+
+Michiels I, Bodem F. The deltoid muscle: an electromyographical analysis of its activity in arm abduction in various body postures. International Orthopaedics. 1992;16(3):268-271. doi:10.1007/BF00182709 · *paywalled*
+
+Mitsuya H, Nakazato K, Hakkaku T, Okada T. Hip flexion angle affects longitudinal muscle activity of the rectus femoris in leg extension exercise. European Journal of Applied Physiology. 2023;123(6):1299-1309. doi:10.1007/s00421-023-05156-w · *paywalled*
+
+Montpetit C, Vaillancourt N, Rosenstein B, Wesselink EO, Dover G, Weiss C, et al. Effects of aquatic therapy vs. standard care on gluteal muscle morphology and function in individuals with chronic low back pain: a randomized controlled trial. BMC Sports Science, Medicine and Rehabilitation. 2026;18(1):241. doi:10.1186/s13102-026-01666-0 · **open access**
+
+Moore D, Semciw AI, Pizzari T. A Systematic Review and Meta-Analysis of Common Therapeutic Exercises That Generate Highest Muscle Activity in the Gluteus Medius and Gluteus Minimus Segments. International Journal of Sports Physical Therapy. 2020;15(6):856-881. doi:10.26603/ijspt20200856 · **open access**
+
+Morton RW, Murphy KT, McKellar SR, Schoenfeld BJ, Henselmans M, Helms E, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults. British Journal of Sports Medicine. 2018;52(6):376-384. doi:10.1136/bjsports-2017-097608 · **open access**
+
+Mukai H, Umehara J, Yagi M, Yanase K, Itsuda H, Ichihashi N. Effective stretching position for the posterior deltoid muscle evaluated by shear wave elastography. Journal of Shoulder and Elbow Surgery. 2022;31(8):1658-1665. doi:10.1016/j.jse.2022.01.143 · **open access**
+
+Muñoz-Garcés M, Peñailillo L, Mendez-Rebolledo G. Regional Activation of the Latissimus Dorsi Muscle by High-Density Surface Electromyography During Isometric Shoulder and Trunk Exercises. Sports Health. 2026;18(4):841-850. doi:10.1177/19417381251393643 · **open access**
+
+Murphy C, Koehler K. Energy deficiency impairs resistance training gains in lean mass but not strength: A meta-analysis and meta-regression. Scandinavian Journal of Medicine & Science in Sports. 2022;32(1):125-137. doi:10.1111/sms.14075 · **open access**
+
+Muyor JM, López-Miñarro PA, Alacid F. Comparison of Electromyographic Activity during Barbell Pullover and Straight Arm Pulldown Exercises. Applied Sciences. 2022;12(21):11138. doi:10.3390/app122111138 · **open access**
+
+Muyor JM, Martín-Fuentes I, Rodríguez-Ridao D, Antequera-Vique JA. Electromyographic activity in the gluteus medius, gluteus maximus, biceps femoris, vastus lateralis, vastus medialis and rectus femoris during the Monopodal Squat, Forward Lunge and Lateral Step-Up exercises. PLOS ONE. 2020;15(4):e0230841. doi:10.1371/journal.pone.0230841 · **open access**
+
+Németh G, Ohlsén H. In vivo moment arm lengths for hip extensor muscles at different angles of hip flexion. Journal of Biomechanics. 1985;18(2):129-140. doi:10.1016/0021-9290(85)90005-3 · *paywalled*
+
+Neto WK, Soares EG, Vieira TL, Aguiar R, Chola TA, Sampaio VL, et al. Gluteus Maximus Activation during Common Strength and Hypertrophy Exercises: A Systematic Review. Journal of Sports Science and Medicine. 2020;19(1):195-203. PMCID:PMC7039033 · **open access** — *no DOI was issued for this article; the PubMed Central identifier reaches the free full text. Same first author as Krause Neto et al., 2025, indexed under a shorter form of the surname*
+
+Neumann DA. Kinesiology of the Hip: A Focus on Muscular Actions. Journal of Orthopaedic & Sports Physical Therapy. 2010;40(2):82-94. doi:10.2519/jospt.2010.3025 · *paywalled*
+
+Niinimäki S, Härkönen L, Nikander R, Abe S, Knüsel C, Sievänen H. The cross-sectional area of the gluteus maximus muscle varies according to habitual exercise loading: Implications for activity-related and evolutionary studies. HOMO. 2016;67(2):125-137. doi:10.1016/j.jchb.2015.06.005 · *paywalled*
+
+Nisell R, Ekholm J. Patellar forces during knee extension. Scandinavian Journal of Rehabilitation Medicine. 1985;17(2):63-74. doi:10.2340/1650197785176374 · *paywalled*
+
+Nunes JP, Blazevich AJ, Schoenfeld BJ, Kassiano W, Costa BDV, Ribeiro AS, et al. Determining Changes in Muscle Size and Architecture After Exercise Training: One Site Does Not Fit All. Journal of Strength and Conditioning Research. 2024;38(4):787-790. doi:10.1519/JSC.0000000000004722 · *paywalled*
+
+Oranchuk DJ, Storey AG, Nelson AR, Cronin JB. Isometric training and long-term adaptations: Effects of muscle length, intensity, and intent: A systematic review. Scandinavian Journal of Medicine & Science in Sports. 2019;29(4):484-503. doi:10.1111/sms.13375 · **open access**
+
+Otsuka M, Honjo T, Nagano A, Isaka T. Kinetics in lumbosacral and lower-limb joints of sprinters during barbell hip thrust compared to deadlift and back squat. PLOS ONE. 2021;16(7):e0251418. doi:10.1371/journal.pone.0251418 · **open access**
+
+Owen PJ, Miller CT, Mundell NL, Verswijveren SJJM, Tagliaferri SD, Brisby H, et al. Which specific modes of exercise training are most effective for treating low back pain? Network meta-analysis. British Journal of Sports Medicine. 2020;54(21):1279-1287. doi:10.1136/bjsports-2019-100886 · **open access** — *an expression of concern was issued in 2020 and subsequently rescinded by the journal, which stated the analysis required no changes*
+
+Padovan R, Toninelli N, Longo S, et al. High-Density Electromyography Excitation in Front vs. Back Lat Pull-Down Prime Movers. Journal of Human Kinetics. 2024;91:47-60. doi:10.5114/jhk/185211 · **open access**
+
+Pagan-Rosado R, Kindle B, Onishi K, et al. Ultrasound Imaging Protocol for Latissimus Dorsi and Teres Major in Overhead Athletes. Journal of Ultrasound in Medicine. 2025;44(5):945-954. doi:10.1002/jum.16654 · **open access**
+
+Paksoy A, Akgün D, Gebauer H, et al. The latissimus dorsi creates a dynamic track for the inferior angle of the scapula during arm abduction in humans. Journal of Orthopaedic Surgery and Research. 2024;19(1):193. doi:10.1186/s13018-024-04659-2 · **open access**
+
+Pallarés JG, Hernández-Belmonte A, Martínez-Cava A, Vetrovsky T, Steffl M, Courel-Ibáñez J. Effects of range of motion on resistance training adaptations: A systematic review and meta-analysis. Scandinavian Journal of Medicine & Science in Sports. 2021;31(10):1866-1881. doi:10.1111/sms.14006 · **open access**
+
+Paoli A, Pacelli QF, Cancellara P, Toniolo L, Moro T, Canato M, et al. Myosin Isoforms and Contractile Properties of Single Fibers of Human Latissimus Dorsi Muscle. BioMed Research International. 2013;2013:249398. doi:10.1155/2013/249398 · **open access**
+
+Paoli A, Pacelli QF, Cancellara P, Toniolo L, Moro T, Canato M, et al. Protein Supplementation Does Not Further Increase Latissimus Dorsi Muscle Fiber Hypertrophy after Eight Weeks of Resistance Training in Novice Subjects, but Partially Counteracts the Fast-to-Slow Muscle Fiber Transition. Nutrients. 2016;8(6):331. doi:10.3390/nu8060331 · **open access**
+
+Paoli A, Marcolin G, Petrone N. The Effect of Stance Width on the Electromyographical Activity of Eight Superficial Thigh Muscles During Back Squat With Different Bar Loads. Journal of Strength and Conditioning Research. 2009;23(1):246-250. doi:10.1519/JSC.0b013e3181876811 · **open access**
+
+Park SY, Yoo WG. Differential activation of parts of the latissimus dorsi with various isometric shoulder exercises. Journal of Electromyography and Kinesiology. 2014;24(2):253-257. doi:10.1016/j.jelekin.2013.12.004 · *paywalled*
+
+Pedrosa GF, Lima FV, Schoenfeld BJ, Lacerda LT, Simões MG, Pereira MR, et al. Partial range of motion training elicits favorable improvements in muscular adaptations when carried out at long muscle lengths. European Journal of Sport Science. 2022;22(8):1250-1260. doi:10.1080/17461391.2021.1927199 · *paywalled*
+
+Pelland JC, Remmert JF, Robinson ZP, Hinson SR, Zourdos MC. The Resistance Training Dose Response: Meta-Regressions Exploring the Effects of Weekly Volume and Frequency on Muscle Hypertrophy and Strength Gains. Sports Medicine. 2026;56(2):481-505. doi:10.1007/s40279-025-02344-w · *paywalled*
+
+Peterson SL, Rayan GM. Shoulder and Upper Arm Muscle Architecture. The Journal of Hand Surgery. 2011;36(5):881-889. doi:10.1016/j.jhsa.2011.01.008 · *paywalled*
+
+Plotkin DL, Rodas MA, Vigotsky AD, McIntosh MC, Breeze E, Ubrik R, et al. Hip thrust and back squat training elicit similar gluteus muscle hypertrophy and transfer similarly to the deadlift. Frontiers in Physiology. 2023;14:1279170. doi:10.3389/fphys.2023.1279170 · **open access**
+
+Pouliart N, Gagey OJ. Significance of the latissimus dorsi for shoulder instability. I. Variations in its anatomy around the humerus and scapula. Clinical Anatomy. 2005;18(7):493-499. doi:10.1002/ca.20185 · *paywalled*
+
+Prieske O, Muehlbauer T, Granacher U. The Role of Trunk Muscle Strength for Physical Fitness and Athletic Performance in Trained Individuals: A Systematic Review and Meta-Analysis. Sports Medicine. 2016;46(3):401-419. doi:10.1007/s40279-015-0426-4 · *paywalled*
+
+Psilander N, Eftestøl E, Cumming KT, Juvkam I, Ekblom MM, Sunding K, et al. Effects of training, detraining, and retraining on strength, hypertrophy, and myonuclear number in human skeletal muscle. Journal of Applied Physiology. 2019;126(6):1636-1645. doi:10.1152/japplphysiol.00917.2018 · **open access**
+
+Refalo MC, Helms ER, Trexler ET, Hamilton DL, Fyfe JJ. Influence of Resistance Training Proximity-to-Failure on Skeletal Muscle Hypertrophy: A Systematic Review with Meta-analysis. Sports Medicine. 2023;53(3):649-665. doi:10.1007/s40279-022-01784-y · **open access**
+
+Refalo MC, Helms ER, Robinson ZP, Hamilton DL, Fyfe JJ. Similar muscle hypertrophy following eight weeks of resistance training to momentary muscular failure or with repetitions-in-reserve in resistance-trained individuals. Journal of Sports Sciences. 2024;42(1):85-101. doi:10.1080/02640414.2024.2321021 · **open access**
+
+Roberts BM, Nuckols G, Krieger JW. Sex Differences in Resistance Training: A Systematic Review and Meta-Analysis. Journal of Strength and Conditioning Research. 2020;34(5):1448-1460. doi:10.1519/JSC.0000000000003521 · *paywalled*
+
+Robinson ZP, Pelland JC, Remmert JF, Refalo MC, Jukic I, Steele J, et al. Exploring the Dose–Response Relationship Between Estimated Resistance Training Proximity to Failure, Strength Gain, and Muscle Hypertrophy: A Series of Meta-Regressions. Sports Medicine. 2024;54(9):2209-2231. doi:10.1007/s40279-024-02069-2 · *paywalled*
+
+Rodríguez-Ridao D, Antequera-Vique JA, Martín-Fuentes I, Muyor JM. Effect of Five Bench Inclinations on the Electromyographic Activity of the Pectoralis Major, Anterior Deltoid, and Triceps Brachii during the Bench Press Exercise. International Journal of Environmental Research and Public Health. 2020;17(19):7339. doi:10.3390/ijerph17197339 · **open access**
+
+Rostron ZPJ, Zacharias A, Semciw AI, Kingsley M, Pizzari T, Woodley SJ, et al. Effects of a targeted resistance intervention compared to a sham intervention on gluteal muscle hypertrophy, fatty infiltration and strength in people with hip osteoarthritis: analysis of secondary outcomes from a randomised clinical trial. BMC Musculoskeletal Disorders. 2022;23(1):944. doi:10.1186/s12891-022-05907-4 · **open access**
+
+Ruggiero M, Cless D, Infantolino B. Upper and Lower Limb Muscle Architecture of a 104 Year-Old Cadaver. PLOS ONE. 2016;11(9):e0162963. doi:10.1371/journal.pone.0162963 · **open access**
+
+Sakoma Y, Sano H, Shinozaki N, Itoigawa Y, Yamamoto N, Ozaki T, et al. Anatomical and functional segments of the deltoid muscle. Journal of Anatomy. 2011;218(2):185-190. doi:10.1111/j.1469-7580.2010.01325.x · **open access**
+
+Sanchis-Moysi J, Idoate F, Olmedillas H, Guadalupe-Grau A, Alayón S, Carreras A, et al. Large Asymmetric Hypertrophy of Rectus Abdominis Muscle in Professional Tennis Players [cited as Sanchis-Moysi et al., 2010]. PLoS ONE. 2010;5(12):e15858. doi:10.1371/journal.pone.0015858 · **open access**
+
+Sanchis-Moysi J, Idoate F, Izquierdo M, Calbet JAL, Dorado C. The hypertrophy of the lateral abdominal wall and quadratus lumborum is sport-specific: an MRI segmental study in professional tennis and soccer players [cited as Sanchis-Moysi et al., 2013]. Sports Biomechanics. 2013;12(1):54-67. doi:10.1080/14763141.2012.725087 · *paywalled*
+
+Schoenfeld BJ, Ogborn D, Krieger JW. Effect of Repetition Duration During Resistance Training on Muscle Hypertrophy: A Systematic Review and Meta-Analysis. Sports Medicine. 2015;45(4):577-585. doi:10.1007/s40279-015-0304-0 · *paywalled*
+
+Schoenfeld BJ, Pope ZK, Benik FM, Hester GM, Sellers J, Nooner JL, et al. Longer Interset Rest Periods Enhance Muscle Strength and Hypertrophy in Resistance-Trained Men. Journal of Strength and Conditioning Research. 2016;30(7):1805-1812. doi:10.1519/JSC.0000000000001272 · *paywalled*
+
+Schoenfeld BJ, Grgic J, Ogborn D, Krieger JW. Strength and Hypertrophy Adaptations Between Low- vs. High-Load Resistance Training: A Systematic Review and Meta-analysis. Journal of Strength and Conditioning Research. 2017;31(12):3508-3523. doi:10.1519/JSC.0000000000002200 · *paywalled*
+
+Schoenfeld BJ, Vigotsky A, Contreras B, Golden S, Alto A, Larson R, et al. Differential effects of attentional focus strategies during long-term resistance training. European Journal of Sport Science. 2018;18(5):705-712. doi:10.1080/17461391.2018.1447020 · **open access**
+
+Schoenfeld BJ, Grgic J, Krieger J. How many times per week should a muscle be trained to maximize muscle hypertrophy? A systematic review and meta-analysis of resistance training frequency. Journal of Sports Sciences. 2019;37(11):1286-1295. doi:10.1080/02640414.2018.1555906 · *paywalled*
+
+Smith TO, Nichols R, Harle D, Donell ST. Do the vastus medialis obliquus and vastus medialis longus really exist? A systematic review. Clinical Anatomy. 2009;22(2):183-199. doi:10.1002/ca.20737 · *paywalled*
+
+Snyder BJ, Leech JR. Voluntary Increase in Latissimus Dorsi Muscle Activity During the Lat Pull-Down Following Expert Instruction. Journal of Strength and Conditioning Research. 2009;23(8):2204-2209. doi:10.1519/JSC.0b013e3181bb7213 · *paywalled*
+
+Soares ALC, Carvalho RF, Mogami R, Meirelles CM, Gomes PSC. Effect of resistance training on quadriceps femoris muscle thickness obtained by ultrasound: A systematic review with meta-analysis. Journal of Bodywork and Movement Therapies. 2024;38:270-278. doi:10.1016/j.jbmt.2024.02.007 · *paywalled*
+
+Song K, Gaffney BMM, Shelburne KB, Pascual-Garrido C, Clohisy JC, Harris MD. Dysplastic hip anatomy alters muscle moment arm lengths, lines of action, and contributions to joint reaction forces during gait. Journal of Biomechanics. 2020;110:109968. doi:10.1016/j.jbiomech.2020.109968 · **open access**
+
+Srinivasan RC, Lungren MP, Langenderfer JE, Hughes RE. Fiber type composition and maximum shortening velocity of muscles crossing the human shoulder. Clinical Anatomy. 2007;20(2):144-149. doi:10.1002/ca.20349 · **open access**
+
+Steele J, Bruce-Low S, Smith D. A Review of the Clinical Value of Isolated Lumbar Extension Resistance Training for Chronic Low Back Pain. PM&R. 2015;7(2):169-187. doi:10.1016/j.pmrj.2014.10.009 · *paywalled*
+
+Strey B, Irigoyen A, McMahon G, Pinto RS. Muscle hypertrophy from partial repetition at long vs. short muscle length: A systematic review and meta-analysis. Sport Sciences for Health. 2026;22(1):33. doi:10.1007/s11332-025-01586-5 · **open access**
+
+Takahashi K, Kamibayashi K, Wakahara T. Gluteus and posterior thigh muscle sizes in sprinters: their distributions along muscle length. European Journal of Sport Science. 2022;22(6):799-807. doi:10.1080/17461391.2021.1907450 · *paywalled*
+
+Thorstensson A, Carlson H. Fibre types in human lumbar back muscles. Acta Physiologica Scandinavica. 1987;131(2):195-202. doi:10.1111/j.1748-1716.1987.tb08226.x · *paywalled*
+
+Tsaopoulos DE, Baltzopoulos V, Richards PJ, Maganaris CN. A comparison of different two-dimensional approaches for the determination of the patellar tendon moment arm length. European Journal of Applied Physiology. 2009;105(5):809-814. doi:10.1007/s00421-008-0968-3 · *paywalled*
+
+Valério DF, Berton R, Conceição MS, Canevarolo RR, Chacon-Mikahil MPT, Cavaglieri CR, et al. The effects of lifting straps in maximum strength, number of repetitions and muscle activation during lat pull-down. Sports Biomechanics. 2021;20(7):858-865. doi:10.1080/14763141.2019.1610490 · *paywalled*
+
+Varovic D, Wolf M, Schoenfeld BJ, Steele J, Grgic J, Mikulic P. Does Muscle Length Influence Regional Hypertrophy? A Systematic Review and Meta-Analysis [cited as Varovic et al., 2025a]. International Journal of Sports Medicine. 2025;46(14):1027-1036. doi:10.1055/a-2615-4935 · *paywalled*
+
+Varovic D, Zganjer K, Wolf M, Androulakis-Korakakis P, Schoenfeld BJ, Mikulic P. The effects of long muscle length isometric versus full range of motion isotonic training on regional quadriceps femoris hypertrophy in resistance-trained individuals [cited as Varovic et al., 2025b]. Applied Physiology, Nutrition, and Metabolism. 2025;50:1-14. doi:10.1139/apnm-2025-0238 · *paywalled*
+
+Vidt ME, Daly M, Miller ME, Davis CC, Marsh AP, Saul KR. Characterizing upper limb muscle volume and strength in older adults: a comparison with young adults. Journal of Biomechanics. 2012;45(2):334-341. doi:10.1016/j.jbiomech.2011.10.007 · *paywalled*
+
+Vigotsky AD, Beardsley C, Contreras B, Steele J, Ogborn D, Phillips SM. Greater Electromyographic Responses Do Not Imply Greater Motor Unit Recruitment and "Hypertrophic Potential" Cannot Be Inferred. Journal of Strength and Conditioning Research. 2017;31(1):e1-e4. doi:10.1519/JSC.0000000000001249 · *paywalled*
+
+Vigotsky AD, Halperin I, Lehman GJ, Trajano GS, Vieira TM. Interpreting Signal Amplitudes in Surface Electromyography Studies in Sport and Rehabilitation Sciences. Frontiers in Physiology. 2018;8:985. doi:10.3389/fphys.2017.00985 · **open access**
+
+Vigotsky AD, Halperin I, Trajano GS, Vieira TM. Longing for a Longitudinal Proxy: Acutely Measured Surface EMG Amplitude is not a Validated Predictor of Muscle Hypertrophy. Sports Medicine. 2022;52(2):193-199. doi:10.1007/s40279-021-01619-2 · *paywalled*
+
+Vigotsky AD, Nuckols GL, Fisher JP, Heathers J, Krieger J, Schoenfeld BJ, et al. Improbable data patterns in the work of Barbalho et al. SportRxiv. 2020. doi:10.31236/osf.io/sg3wm · **open access** — *preprint; not peer reviewed*
+
+Vispute SS, Smith JD, LeCheminant JD, Hurley KS. The Effect of Abdominal Exercise on Abdominal Fat. Journal of Strength and Conditioning Research. 2011;25(9):2559-2564. doi:10.1519/JSC.0b013e3181fb4a46 · *paywalled*
+
+Wackerhage H, Schoenfeld BJ, Hamilton DL, Lehti M, Hulmi JJ. Stimuli and sensors that initiate skeletal muscle hypertrophy following resistance exercise. Journal of Applied Physiology. 2019;126(1):30-43. doi:10.1152/japplphysiol.00685.2018 · **open access**
+
+Wakahara T, Shiraogawa A. Effects of neuromuscular electrical stimulation training on muscle size in collegiate track and field athletes. PLOS ONE. 2019;14(11):e0224881. doi:10.1371/journal.pone.0224881 · **open access**
+
+Ward SR, Eng CM, Smallwood LH, Lieber RL. Are Current Measurements of Lower Extremity Muscle Architecture Accurate? [cited as Ward et al., 2009a] Clinical Orthopaedics and Related Research. 2009;467(4):1074-1082. doi:10.1007/s11999-008-0594-8 · **open access**
+
+Ward SR, Kim CW, Eng CM, Gottschalk LJ, Tomiya A, Garfin SR, et al. Architectural Analysis and Intraoperative Measurements Demonstrate the Unique Design of the Multifidus Muscle for Lumbar Spine Stability [cited as Ward et al., 2009b]. The Journal of Bone and Joint Surgery-American Volume. 2009;91(1):176-185. doi:10.2106/JBJS.G.01311 · **open access**
+
+Warneke K, Siegel SD, Drabow J, Zech A, Behm DG, et al. Examiner experience moderates reliability of human lower extremity muscle ultrasound measurement — a double blinded measurement error study. The Ultrasound Journal. 2025;17(1):20. doi:10.1186/s13089-025-00424-6 · **open access**
+
+Wei W, Zhu J, Ren S, Jan YK, Zhang W, Su R, et al. Effects of progressive body-weight versus barbell back squat training on strength, hypertrophy and body fat among sedentary young women. Scientific Reports. 2023;13:14601. doi:10.1038/s41598-023-40319-x · **open access**
+
+Westerhoff P, Graichen F, Bender A, Halder A, Beier A, Rohlmann A, et al. In vivo measurement of shoulder joint loads during activities of daily living. Journal of Biomechanics. 2009;42(12):1840-1849. doi:10.1016/j.jbiomech.2009.05.035 · *paywalled*
+
+Wolf M, Androulakis Korakakis P, Piñero A, Mohan AE, Hermann T, Augustin F, et al. Lengthened partial repetitions elicit similar muscular adaptations as full range of motion repetitions during resistance training in trained individuals. PeerJ. 2025;13:e18904. doi:10.7717/peerj.18904 · **open access**
+
+Wolf M, Korakakis PA, Roberts MD, Plotkin DL, Franchi MV, Contreras B, et al. Does longer-muscle length resistance training cause greater longitudinal growth in humans? A systematic review. Sports Medicine and Health Science. 2026;8(1):34-42. doi:10.1016/j.smhs.2025.03.001 · **open access**
+
+Worrell TW, Karst G, Adamczyk D, Moore R, Stanley C, Steimel B, et al. Influence of Joint Position on Electromyographic and Torque Generation During Maximal Voluntary Isometric Contractions of the Hamstrings and Gluteus Maximus Muscles. Journal of Orthopaedic & Sports Physical Therapy. 2001;31(12):730-740. doi:10.2519/jospt.2001.31.12.730 · *paywalled*
+
+Yamaguchi Y, Nishiyama T, Wada N, Fukuda W, Mizuno M, Otsuka M. Different morphology and function of hip extensor muscles between sprint runners and sprint cyclists. Scientific Reports. 2025;15(1):16372. doi:10.1038/s41598-025-98231-5 · **open access**
+
+Youdas JW, Amundson CL, Cicero KS, Hahn JJ, Harezlak DT, Hollman JH. Surface Electromyographic Activation Patterns and Elbow Joint Motion During a Pull-Up, Chin-Up, or Perfect-Pullup Rotational Exercise. Journal of Strength and Conditioning Research. 2010;24(12):3404-3414. doi:10.1519/JSC.0b013e3181f1598c · *paywalled*
+
+Zabaleta-Korta A, Fernández-Peña E, Santos-Concejero J. Regional Hypertrophy, the Inhomogeneous Muscle Growth: A Systematic Review. Strength and Conditioning Journal. 2020;42(5):94-101. doi:10.1519/SSC.0000000000000574 · *paywalled*
+
+Zabaleta-Korta A, Fernández-Peña E, Torres-Unda J, Garbisu-Hualde A, Santos-Concejero J. The role of exercise selection in regional Muscle Hypertrophy: A randomized controlled trial. Journal of Sports Sciences. 2021;39(20):2298-2304. doi:10.1080/02640414.2021.1929736 · *paywalled*
+
+Zabaleta-Korta A, Latorre-Erezuma U, Fernández-Peña E, Torres-Unda J, Santos-Concejero J. Regional hypertrophy of muscle cannot be predicted by surface electromyography. Isokinetics and Exercise Science. 2024;32(2):155-161. doi:10.3233/IES-230079 · *paywalled*
+
+Zhang B, Raguzzi IA, Dupuis F, Gianola S, Morgan-Daniel J, Roy JS, et al. Addressing Shoulder Weakness in Individuals With Rotator Cuff-Related Shoulder Pain: A Systematic Review With Meta-analysis. Journal of Orthopaedic & Sports Physical Therapy. 2026;56(2):67-84. doi:10.2519/jospt.2025.13445 · **open access**
