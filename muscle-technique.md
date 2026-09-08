@@ -3,7 +3,8 @@
 > How to load one muscle correctly, derived from its anatomy, its architecture and its
 > leverage rather than from tradition. Each muscle gets its own Part: anatomy → biomechanics →
 > the rep → exercise catalogue → contexts → programming. **This volume covers the latissimus
-> dorsi, the quadriceps femoris, the gluteal muscles, the deltoids and the core.** Further muscles are added as
+> dorsi, the quadriceps femoris, the gluteal muscles, the deltoids, the core and the
+> hamstrings.** Further muscles are added as
 > new Parts; the glossary and bibliography are always the final two Parts and are shared across all
 > of them.
 >
@@ -55,8 +56,16 @@
    - **§E** [Context modifiers — when "perfect" changes](#partviecontextmodifiers)
    - **§F** [Programming](#partvifprogramming)
    - **§G** [Synthesis, and what the evidence does not support](#partvigsynthesis)
-7. **[Part VII — Master Glossary](#partviimasterglossary)** (250 entries, in dependency order, with an alphabetical index at its head)
-8. **[Part VIII — Bibliography](#partviiibibliography)** (226 sources, 100 open access)
+7. **[Part VII — Hamstrings](#partviihamstrings)**
+   - **§A** [Anatomy and architecture](#partviiaanatomyandarchitecture)
+   - **§B** [Biomechanics — what actually loads the hamstrings](#partviibbiomechanics)
+   - **§C** [The rep, specified](#partviictherepspecified)
+   - **§D** [Exercise catalogue](#partviidexercisecatalogue)
+   - **§E** [Context modifiers — when "perfect" changes](#partviiecontextmodifiers)
+   - **§F** [Programming](#partviifprogramming)
+   - **§G** [Synthesis, and what the evidence does not support](#partviigsynthesis)
+8. **[Part VIII — Master Glossary](#partviiimasterglossary)** (257 entries, in dependency order, with an alphabetical index at its head)
+9. **[Part IX — Bibliography](#partixbibliography)** (244 sources, 112 open access)
 
 **How to read this.** The first occurrence of a technical term in each Part links to its glossary
 entry. Cross-references are written `Part II §B.4`.
@@ -82,8 +91,8 @@ and no punctuation of any kind** — `forcelengthrelationship`, `momentarm`, `pa
 That character set is the fixed point of all four algorithms: each maps it to itself, so one link form
 works everywhere without HTML anchors or renderer-specific syntax. The cost is that the heading itself
 is not meant to be read; **the human-readable name is the bold lead-in immediately below it**, and the
-alphabetical index at the head of Part VII is the place to look a term up. Structural anchors carry
-their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to VI share
+alphabetical index at the head of Part VIII is the place to look a term up. Structural anchors carry
+their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to VII share
 section titles and would otherwise collide. Links are same-file only: no HTML anchors, no relative file links, no external
 links.
 
@@ -1840,7 +1849,7 @@ THREE-TIMES-WEEKLY — HIGH VOLUME, ROTATING EMPHASIS
 large. Row three has one lat-specific anchor — eight weeks of pulldown-and-row training produced
 **+22% latissimus fibre cross-sectional area** on biopsy in 18 novice men (Paoli et al., 2016) — but
 no study has tracked lat *thickness* by ultrasound over these timelines, and the method is a poor index
-of individual change in any case (Part VII, muscle thickness). Rows four and five
+of individual change in any case (Part VIII, muscle thickness). Rows four and five
 are coaching convention, not measured outcomes.
 
 **Validity caveat:** thickness measured in the first weeks of a new program is inflated by
@@ -3769,7 +3778,7 @@ lengthens them. So:
 |---|---|---|
 | Knee near **straight** — Romanian deadlift, stiff-leg deadlift, 45° back extension, good morning | Long at the knee, and lengthening further at the hip | They are in a strong position and take a large share |
 | Knee **bent to ~90°** — hip thrust, glute bridge, kneeling hip extension, single-leg bridge | Already shortened at the knee | They lose force capacity, and the gluteus maximus's share rises |
-| Knee **bending with the hip** — squat, leg press, lunge, split squat | Hip flexion lengthens them while knee flexion shortens them; the two changes largely cancel | Their net length change over a deep squat is only one to three centimetres of lengthening — computed from the moment arms in Part IV §B.2 — which is small against the hip's own excursion; they act mainly as co-contractors, and the quadriceps enters instead |
+| Knee **bending with the hip** — squat, leg press, lunge, split squat | Hip flexion lengthens them while knee flexion shortens them; the two changes largely cancel | Their net length change over a deep squat is only three to six centimetres of lengthening — computed from the moment arms in Part IV §B.2, corrected to biceps-femoris-specific values and with the width of that bracket coming almost entirely from the knee moment arm (Part VII §B.9) — which is small against the hip's own excursion; they act mainly as co-contractors, and the quadriceps enters instead |
 
 The third row is the one already stated in Part III §A.8 from the other side. It is the mirror image of
 the [rectus femoris](#rectusfemoris) problem — and unlike that problem, this one works in your favour,
@@ -6495,7 +6504,7 @@ of exposure, so they establish where injuries land, not how likely they are.
 | Context | Common modification | Evidence note |
 |---|---|---|
 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) — a painful arc, pain reaching overhead, pain lying on that side | **Reduce the provoking arc first**, then load progressively in the pain-free range. Keep the press below the painful band or replace it with a landmine press; keep raises in the scapular plane | Rehabilitation improved shoulder strength in this population across twenty-eight studies, and **interventions that did not include exercise had no effect at all** (Zhang et al., 2026). The active ingredient is loading |
-| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part VII, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
+| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part VIII, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
 | History of dislocation or [shoulder instability](#shoulderinstability) | Overhead and behind-the-neck positions are commonly restricted; abduction with external rotation is the classic apprehension position | Governed by the clinician, not by this document |
 | Acromioclavicular joint pain — point tenderness on top of the shoulder | Reduce [horizontal adduction](#shoulderhorizontaladduction) across the body; raises and presses are usually well tolerated | The joint is compressed by reaching across, not by reaching out |
 | Long head of biceps pain — front-of-shoulder pain with a defined tender line | Reduce front raises and dips; the tendon runs in the [bicipital groove](#bicipitalgroove) directly under them | Mechanism, not trial evidence |
@@ -8667,9 +8676,1435 @@ muscles: that is decided by how much fat is over them, and six weeks of abdomina
 shown to change none of it.
 
 ---
-# partviimasterglossary
+# partviihamstrings
 
-**Part VII — Master Glossary**
+**Part VII — Hamstrings**
+
+> Scope: the anatomy, mechanics, technique, exercise selection, context modifiers and programming for
+> maximal [hypertrophy](#hypertrophy) of the four muscles on the back of the thigh — the
+> [biceps femoris long head](#bicepsfemorislonghead) and [short head](#bicepsfemorisshorthead), the
+> [semitendinosus](#semitendinosus) and the [semimembranosus](#semimembranosus). Everything here also
+> loads the [gluteus maximus](#gluteusmaximus) and the [adductor magnus](#adductormagnus), which extend
+> the hip alongside them (Part IV §B.4), and the calf, which crosses the knee behind. **General
+> education only.** A sudden painful pull at the back of the thigh is an injury, not a training
+> problem — see Part VII §E.4.
+>
+> **Two conventions, fixed for the whole Part.** **Hip angle** keeps Part IV's convention — flexion from
+> a straight body line, 0° standing. **Knee angle** keeps Part III's — flexion from full extension,
+> where 0° is a straight leg. Because every muscle here but one crosses both joints, **no statement
+> about hamstring length means anything unless both angles are given**, and this Part always gives both.
+> **Third convention, because this Part is the only one that needs it:** *strain* appears here in both of
+> its senses, so it is always qualified — **fibre strain**, **peak strain** and **mechanical strain** mean
+> deformation, while **hamstring strain** means the injury.
+>
+> **This is the best-evidenced Part in the document.** It is also the only one where the training
+> question and the injury question turn out to be largely the same question, and the only one where an
+> activation finding was made first and then **put to a hypertrophy trial** — which confirmed half of
+> it and refuted the other half. Both halves are reported here.
+
+---
+
+## partviiaanatomyandarchitecture
+
+**PART A — Anatomy and Architecture**
+
+### A.1 What the hamstrings are
+
+Four muscles on the back of the thigh, running from the sitting bone down to the shin. They straighten
+the hip and bend the knee, and because they cross both joints they are being lengthened at one end
+almost whenever they are being shortened at the other.
+
+Three facts organize the Part, and the third is unusual enough that it changes how the evidence is read.
+
+1. **They are four muscles, not one, and they are architecturally as different from each other as muscles from different limbs.** [PCSA](#pcsa) runs from 4.8 to 18.4 cm² across them and [fascicle length](#fasciclelength) from 6.9 to 19.3 cm — and the two run in **opposite** directions, so the strongest is the shortest-fibred and the longest-fibred is the weakest (Part VII §A.4).
+2. **Three of the four cross the hip; one does not.** That single anatomical fact is the lever that decides which of them an exercise trains, and unlike every other Part in this document it has been **put to a hypertrophy trial rather than inferred** — where it passed for the two long hip-crossing heads and failed for the semitendinosus (Part VII §B.4).
+3. **This is the most injured muscle group in sport.** Across 51 professional football teams and 2,908 muscle injuries, the hamstrings accounted for **37%** of all muscle injuries — more than the adductors, quadriceps and calf individually — and 16% of muscle injuries were reinjuries that cost significantly more time than the original (Ekstrand et al., 2011). The exercises that grow this muscle group and the exercises that protect it are largely the same exercises, which is true of nothing else in this document.
+
+---
+
+### A.2 Attachments — the map you load
+
+| Muscle | Origin | Insertion | Nerve | Crosses |
+|---|---|---|---|---|
+| Biceps femoris, long head | [Ischial tuberosity](#ischialtuberosity), shared tendon with semitendinosus | Head of the fibula, lateral | Tibial division of sciatic (L5–S2) | **Hip and knee** |
+| Biceps femoris, short head | Lateral lip of the linea aspera on the [femur](#femur) | Head of the fibula, with the long head | **Common fibular** division of sciatic (L5–S2) | **Knee only** |
+| Semitendinosus | Ischial tuberosity, shared tendon with the biceps long head | Medial [tibia](#tibia), via the pes anserinus | Tibial division of sciatic (L5–S2) | **Hip and knee** |
+| Semimembranosus | Ischial tuberosity, its own facet, deep to the other two | Posterior medial tibial condyle | Tibial division of sciatic (L5–S2) | **Hip and knee** |
+
+**Read the last column, because it is the whole Part.** Three of these muscles cross the hip and the
+knee; the biceps femoris short head crosses only the knee. That means **an exercise that extends the
+hip loads three of them, while an exercise that only bends the knee is the only way to reach the fourth**
+— and Part VII §B.4 is the evidence that this actually determines which ones grow.
+
+**And read the nerve column, because it hides an oddity.** The two heads of the biceps femoris have
+**different nerve supplies** — the long head from the tibial division of the sciatic nerve, the short
+head from the common fibular division. They share an insertion and almost nothing else: different
+origins, different joints, different innervation, different architecture (Part VII §A.4). Treating
+"biceps femoris" as one muscle is a naming convention, not an anatomical claim.
+
+**One more attachment that matters clinically.** The long head of the biceps femoris and the
+semitendinosus leave the ischial tuberosity on a **shared conjoint tendon**, which is why proximal
+hamstring problems rarely respect the boundary between them.
+
+---
+
+### A.3 The proximal tendon and the long aponeurosis
+
+The biceps femoris long head is not a simple strap. Its muscle fibres attach along a long internal
+sheet of tendon — the **proximal aponeurosis** — that runs a substantial distance down inside the
+muscle belly, and most strain injuries occur at or near the junction between that sheet and the muscle
+fibres attached to it.
+
+This matters for training for one reason, and it is a measured one: the aponeurosis **adapts to
+training, and by how much depends on the exercise**. Twelve weeks of lengthened-state eccentric training
+increased biceps femoris long head aponeurosis area by **9%** (P < 0.001), against **3%** for Nordic
+hamstring training (P = 0.026) — and **the untrained controls also increased, by 2% (P = 0.030)**.
+Only the lengthened-state group beat both comparators; **the Nordic's 3% did not differ from doing
+nothing at all (P = 0.292)** (Maeo et al., 2024). **Moderate evidence** — forty-two young men, MRI,
+one laboratory. It is the only structure in this document whose *connective tissue* has been shown to
+respond differently to two exercises, and the honest version of that sentence is that **one** exercise
+moved it.
+
+**What that does and does not license.** It licenses treating exercise selection as a decision about
+tissue rather than only about muscle size. It does **not** license claiming that a larger aponeurosis
+prevents injury — the geometry has been *modelled* as a risk factor, the adaptation has been measured,
+and nobody has joined the two.
+
+**Why the geometry is thought to matter at all**, because the Part previously asserted this without a
+source. A three-dimensional finite-element model of this muscle, built from MRI, put the **peak
+along-fibre stretch at 1.64 immediately next to the proximal myotendinous junction while the average
+across the whole muscle was 0.95** in the same lengthening contraction — and varying the widths,
+lengths and thicknesses of the aponeuroses moved both the size and the location of that peak, with the
+**mismatch between proximal and distal aponeurosis width** mattering most (Rehorn & Blemker, 2010).
+That is a mechanism for why one muscle tears at one place, and it is why the peak strain figure and
+the average are so far apart (Part VII §B.9).
+
+---
+
+### A.4 Architecture — four muscles that disagree with each other
+
+This is the block the rest of Part VII is built on. From the same disassembly of twenty-one human lower
+extremities used in Parts III and IV (Ward et al., 2009a):
+
+```
+HUMAN HAMSTRINGS - MEASURED ARCHITECTURE (group means; SDs are large,
+                                          see the caution below)
+                              Mass    Muscle   Fascicle  Sarcomere Pennation  PCSA   Lf/Lm
+                              (g)     len(cm)  len(cm)   len(um)   (deg)      (cm2)
+  Semimembranosus  (n=19)     134.3    29.34     6.90     2.61      15.1      18.4   0.24
+  Biceps fem. long (n=18)     113.4    34.73     9.76     2.35      11.6      11.3   0.28
+  Semitendinosus   (n=19)      99.7    29.67    19.30     2.89      12.9       4.8   0.65
+  Biceps fem. short (n=19)     59.8    22.39    11.03     3.31      12.3       5.1   0.49
+  --------------------------------------------------------------------------------------
+  For scale, same study, same specimens:
+  Vastus lateralis            375.9    27.34     9.94     2.14      18.4      35.1   0.38
+  Gluteus maximus             547.2    26.95    15.69     2.60      21.9      33.4   0.62
+```
+
+**Read the last two columns together, because they run in opposite directions.** The semimembranosus
+has the **highest PCSA and the shortest fascicles** of the four — 18.4 cm² on 6.9 cm fibres, a
+fascicle-to-muscle-length ratio of 0.24. The semitendinosus is its mirror image — **4.8 cm² on 19.3 cm
+fibres**, a ratio of 0.65. One is built like a [quadriceps](#quadricepsfemoris) head and the other like
+a [latissimus dorsi](#latissimusdorsi), and they sit two centimetres apart doing the same two joint
+actions.
+
+**Three findings from this block, and the third is the one the injury literature rests on.**
+
+**The semitendinosus is one of the longest-fibred muscles in the entire lower limb.** Ward's own summary
+names the sartorius, gracilis and semitendinosus as the three muscles with the largest excursion of the
+twenty-seven measured. **Caveat from the source:** the semitendinosus ranks that high only when its
+proximal and distal heads — separated by a tendinous inscription and separately innervated — are added
+**in series**, which is the same accounting problem as the rectus abdominis in Part VI §A.3.
+
+**The quadriceps and the hamstrings have opposite architectural trends**, in the same study's words:
+the quadriceps run from short-fibred with small PCSA to long-fibred with large PCSA, while the
+hamstrings follow the classical trade-off — short fibres with large PCSA at one end, long fibres with
+small PCSA at the other. The two sides of the thigh are not built on the same plan.
+
+**And crossing two joints does not buy a muscle longer fibres.** The biceps femoris **long** head has
+fascicles of 9.76 cm; the **short** head, which crosses only the knee, has **11.03 cm** — the two-joint
+muscle has the shorter fibres. Ward's group names this pair, alongside the rectus femoris against the
+vasti, as contradicting "the commonly held belief that biarticular muscles have longer fibers compared
+with uniarticular muscles" (Ward et al., 2009a). **Read the claim at its actual width:** it is that
+biarticular muscles do not *necessarily* have longer fibres, not that they never do — the
+semitendinosus crosses both joints and has the longest fascicles in the group at 19.30 cm. Ward's group
+then draws the consequence that this Part is organized around:
+
+> Because fibre strain is a major determinant of muscle injury, these data may explain the anatomic
+> basis for the observation that hamstring injuries most often occur in the biarticular muscles:
+> **simultaneous knee extension and hip flexion will result in tremendous muscle fibre strain in these
+> muscles** (Ward et al., 2009a).
+
+**Interpretive caution.** These are elderly cadaveric specimens (83 ± 9 years), as in Parts III to VI,
+and the fascicle lengths are normalized to a 2.7 µm reference sarcomere length — so they compare
+muscles to one another rather than describing any living limb. The sarcomere-length figures inherit the
+same fixation-position caveat as Part IV §A.4.
+
+**What this dictates:**
+
+| Architectural fact | Training consequence |
+|---|---|
+| PCSA ranges 4.8–18.4 cm² across four muscles | **There is no single hamstring prescription.** The strongest and the weakest need different things |
+| Semimembranosus: high PCSA, short fibres, Lf/Lm 0.24 | A **load** muscle — a Part III problem |
+| Semitendinosus: low PCSA, 19.3 cm fibres, Lf/Lm 0.65 | A **range** muscle — a Part II problem |
+| Biceps femoris long head: short fibres on a long muscle | The one that gets injured, and the one whose fascicle length is trainable and measurable (Part VII §B.7) |
+| Biceps femoris short head crosses only the knee | The only hamstring that cannot be reached by a hip extension exercise |
+| Three of four cross both joints | Hip and knee angle must both be specified before any length claim is made |
+
+The rule that comes out of this table: **the hamstrings are the one muscle group in this document where
+"which exercise" and "which muscle" are the same question, and where the answer has been measured.**
+
+---
+
+### A.5 Regions and heads — where a hamstring actually grows
+
+**This is the strongest between-muscle evidence in the document, and it is unusual in being both
+predicted and then confirmed.**
+
+- **Hip-extension training grows the long hamstrings.** Ten weeks of hip extension training produced a greater increase in biceps femoris long head volume than Nordic hamstring training (d = 1.03) and than no training (d = 2.24) (Bourne et al., 2017a). **Moderate evidence** — thirty recreationally active men, MRI, three groups of ten.
+- **Knee-flexion training grows the biceps femoris short head — but not, as predicted, the semitendinosus.** The semitendinosus prediction was tested twice and failed twice (Part VII §B.4). What remains is a twelve-week comparison in which Nordic training was **1.9-fold more effective** than lengthened-state eccentric training for knee flexors that do **not** extend the hip — a group that is, in the authors' words, "the sum of BFsh, SAR, GRA, and POP" — while lengthened-state training was **2.2-fold more effective** for those that do (Maeo et al., 2024). **Moderate evidence** — forty-two young men, MRI of seven individual knee flexors, three groups of fourteen.
+- **Hip angle changes which head grows, within one exercise.** Twelve weeks of **seated** versus **prone** leg curl, one leg each within the same person, grew the whole hamstrings **+14% versus +9%** — and the difference was confined to the **biarticular** muscles (+8–24% vs +4–19%), with **no difference at all in the monoarticular** biceps femoris short head (+10% vs +9%) (Maeo et al., 2021). The mechanism and the result agree exactly: flexing the hip lengthens the muscles that cross it and does nothing to the one that does not.
+- **Along the muscle's length — and this *has* been measured.** Seated versus prone leg curls produced different growth at different points along the same muscles: biceps femoris long head **+20.8% versus +8.7% proximally** and **+10.7% versus +5.4% distally**, and semitendinosus **+28.2% versus +21.1% proximally** (Maeo et al., 2021). **Moderate evidence** — twenty adults, one laboratory, cross-sectional area at fixed levels rather than true regional volumes.
+
+**What has not been measured.** Nobody has compared a stiff-leg deadlift against a Romanian deadlift
+against a 45° back extension for hamstring hypertrophy; the hip-extension arm of every trial above was
+a single exercise. Nobody has checked the regional *activation* maps against the regional *growth*
+measured above — the two exist and have never been put in the same study. And no trial has tested
+whether the head-selectivity above changes anything about injury rates, which is the question everyone
+actually wants answered (Part VII §E.4).
+
+---
+
+### A.6 Fibre type
+
+Fibre-type composition varies widely between people in this group — enough that the study below
+stratified its own participants into slow, intermediate and fast categories rather than treating them as
+one population (Schuermans et al., 2023). No single figure describes the hamstrings, and the general
+argument in Part II §A.6 applies unchanged.
+
+**And here, unusually, the question was asked properly rather than assumed — twice, with opposite
+answers.** The larger and better-designed study is prospective: 165 professional footballers across the
+Belgian and English first divisions, followed for three seasons, 27 hamstring strain injuries. Players
+with a **fast** muscle typology carried a **5.3-fold higher risk** of an index injury than slow-typology
+players (95% CI 1.92–14.8, P = 0.001), and the effect replicated independently in each league (6.7-fold
+and 5.1-fold) (Lievens et al., 2022).
+
+The smaller study is retrospective and found nothing. In forty-four amateur male footballers —
+twenty-two with a history of hamstring strain injury and twenty-two matched controls — semitendinosus
+fibre typology measured by proton magnetic resonance spectroscopy was **not associated with injury
+history**, nor with jump height, sprint speed, hamstring strength endurance or peak isokinetic torque
+(Schuermans et al., 2023). **Moderate evidence** — forty-four
+recruited and thirty-nine analysed after spectral quality exclusions, cross-sectional, one muscle,
+retrospective injury history. The one association that did reach significance was with *explosive*
+strength — time to peak torque at 240°·s⁻¹ — which is a mechanistically sensible finding and not an
+injury one.
+
+**How to read the pair.** They are not straightforwardly contradictory. Lievens is prospective,
+professional, four times the sample, and sampled the **soleus**; Schuermans is retrospective, amateur,
+and sampled the **semitendinosus**. Prospective beats retrospective for a risk factor, so the weight
+sits with the positive finding.
+
+**And it still changes nothing about the prescription**, for the reasons set out in Part II §A.6 and
+repeated in Parts III to VI — with one addition specific to this Part. Fibre typology is **not
+trainable**, so even on Lievens's reading it identifies who needs the prevention work in Part VII §E.4
+rather than changing what that work is. Contrast it with fascicle length (Part VII §B.7), which is a
+risk factor you can actually move. What *is* worth knowing is a functional fact often confused with fibre type: this muscle
+group does its most demanding work **eccentrically, at high velocity, at long length**, in the terminal
+swing phase of a sprint (Part VII §B.3) — which is an argument about the *kind* of contraction to train,
+not about the rep range to train it in.
+
+---
+
+### A.7 The muscles you cannot separate them from
+
+| Muscle | Relationship | Consequence for training |
+|---|---|---|
+| Gluteus maximus | Shares hip extension; supplies about half the group's cross-section (Part IV §B.4) | Every hip-extension hamstring exercise is also a gluteal exercise, and Part IV §D.2 catalogues the same movements from the other side |
+| Adductor magnus | A powerful hip extensor from a flexed hip, out-levering the gluteus maximus past ~55–60° (Part IV §B.2) | It takes a real share of every deep hinge |
+| Quadriceps femoris | Direct antagonist at the knee, and the muscle whose contraction creates the hamstrings' injury position | Simultaneous knee extension and hip flexion is the strain mechanism (Part VII §A.4) |
+| [Gastrocnemius](#gastrocnemius) | Crosses the knee behind, so it flexes the knee too | It contributes to every leg curl, and ankle position changes its share |
+| [Erector spinae](#erectorspinae) | Works isometrically against the same torso inclination that loads a hinge | In every hinge it is the [limiting link](#limitinglink), not the hamstring (Part VII §C.5) |
+
+**Nothing on this list can be removed by technique**, and one of them — the quadriceps — is not a
+competitor at all but the source of the load that injures this group.
+
+---
+
+### A.8 Why the biceps femoris long head is the one that tears
+
+Four independent lines of evidence converge on the same muscle, and it is worth setting them out
+together because no other muscle in this document has this.
+
+1. **Architecture.** Short fascicles (9.76 cm) on the longest muscle of the four (34.7 cm), so a given joint excursion is shared among relatively few sarcomeres in series (Ward et al., 2009a). **Stated at its real width:** architecture predicts that the *biarticular* heads are the vulnerable ones, which is Ward's own conclusion — it does not on its own single out this one, since the semimembranosus has shorter fascicles still (6.90 cm) and the lowest fascicle-to-muscle-length ratio of the four (0.24 against 0.28). Which head strains most is settled by the next line, not this one.
+2. **Sprint mechanics.** Modelling seven sprinters across a full stride, **the biceps femoris exhibited the largest peak strain** of the hamstrings, while the semimembranosus produced the highest peak force and the semitendinosus the greatest lengthening velocity — and all three peaked **in terminal swing**, at the same moment (Schache et al., 2012).
+3. **Epidemiology.** The hamstrings are 37% of all muscle injuries in professional football (Ekstrand et al., 2011), and within them the biceps femoris long head is the muscle most often involved: in twenty-two amateur footballers with a verified injury history, **65% of the injuries were in the biceps femoris long head** — 40% at its proximal muscle–tendon junction, mostly involving the tendon it shares with the semitendinosus — against 35% in the semitendinosus itself (Schuermans et al., 2023). **Moderate evidence** — twenty-two injuries, retrospective, one cohort.
+4. **Prospective risk.** In 152 elite footballers followed through a season, **fascicles shorter than 10.56 cm raised the risk of a hamstring injury more than fourfold** (relative risk 4.1, 95% CI 1.9–8.7) (Timmins et al., 2016). **Read this as the architecture claim only.** The *strength* risk factor reported alongside it in the same paper did not survive pooling: six prospective cohorts and 1,100 athletes, 156 of them injured, showed **no significant difference in eccentric knee flexor strength between injured and uninjured players**, however it was expressed (Opar et al., 2021) — a meta-analysis by the same group that ran the original cohort.
+
+**The convergence is the point.** Architecture says the two-joint heads are the vulnerable class,
+sprint modelling says which one of them strains most, epidemiology says that is the one that tears, and
+a prospective cohort says the architectural variable predicts who tears it. That is a chain this document does not get to write
+anywhere else, and it is why Part VII §B.7 treats **fascicle length as a training outcome** rather than
+as a descriptive statistic.
+
+---
+
+### A.9 What the anatomy dictates, in nine lines
+
+1. Four muscles, architecturally as different from each other as muscles from different limbs.
+2. The semimembranosus is the strong, short-fibred one (18.4 cm², 6.9 cm); the semitendinosus is the long, weak one (4.8 cm², 19.3 cm); they do the same two joint actions.
+3. Three cross the hip and the knee; the biceps femoris short head crosses only the knee, and has a different nerve from the head it shares an insertion with.
+4. Because three of four are biarticular, **no length claim means anything without both joint angles**.
+5. **Crossing two joints buys no extra fibre length** — the biceps femoris long head has shorter fascicles than the short head — and the biarticular heads are the ones that tear.
+6. Hip-extension exercises grow the long hamstrings; knee-flexion exercises grow the short ones — measured, not inferred.
+7. Hip angle changes which head grows within a single exercise, and does nothing to the muscle that does not cross the hip.
+8. The biceps femoris long head is the most injured muscle in sport, and its fascicle length is trainable, measurable and prospectively linked to that risk.
+9. Therefore a complete prescription needs **one hip-extension exercise and one knee-flexion exercise**, and the knee-flexion one should be done with the hip flexed.
+
+---
+## partviibbiomechanics
+
+**PART B — Biomechanics: what actually loads the hamstrings**
+
+### B.1 The joint actions, ranked
+
+| Action | Which muscles | Shared with | Verdict |
+|---|---|---|---|
+| [Hip extension](#hipextension) | The three biarticular heads | Gluteus maximus and adductor magnus; the three hamstrings supply slightly more cross-section than the gluteus maximus alone (Part IV §B.4) | **The action that grows the long hamstrings** |
+| [Knee flexion](#kneeflexion) | All four, plus gastrocnemius | Nothing else of consequence | **The action that grows the short hamstrings**, and the only one that reaches the biceps femoris short head |
+| Both at once, in opposition | The biarticular three, lengthening at the hip while shortening at the knee | — | **Not a third action.** It is the cancellation that makes a squat a poor hamstring exercise (Part VII §B.2) |
+| Resisting simultaneous hip flexion and knee extension | The biarticular three, eccentrically | — | **The injury mechanism, and the training target** (Part VII §A.4) |
+| Tibial rotation with the knee bent | Semitendinosus and semimembranosus medially; biceps femoris laterally | — | Real, small, and not a training category |
+
+**Two things this table settles.** **The hamstrings are two training targets, not one** — and unlike
+the gluteal case in Part IV §B.1 or the deltoid case in Part V §B.1, which of them an exercise trains
+has been **tested by hypertrophy trials** rather than inferred from leverage — and half of it held (Part VII §B.4). And
+**the two actions oppose each other in the biarticular heads**, which is why the most common lower-body
+exercise in the world trains this muscle group barely at all.
+
+---
+
+### B.2 Length, not leverage — the biarticular cancellation
+
+Every previous Part opened its mechanics with moment arms. This one cannot, because for three of these
+four muscles **the dominant variable is not leverage at either joint but the sum of what the two joints
+are doing to muscle length.**
+
+The arithmetic is simple and it decides the whole exercise catalogue:
+
+```
+WHAT EACH JOINT DOES TO A BIARTICULAR HAMSTRING
+  Hip FLEXION      lengthens it at the top end
+  Hip EXTENSION    shortens it at the top end
+  Knee EXTENSION   lengthens it at the bottom end
+  Knee FLEXION     shortens it at the bottom end
+  ----------------------------------------------------------------
+  SQUAT, LEG PRESS, LUNGE   hip flexes AND knee flexes together
+                            -> the two changes largely CANCEL
+                            -> net lengthening of the biceps femoris
+                               long head over a deep squat is only
+                               about 3-6 cm (Part VII section B.9)
+
+  HINGE (RDL, good morning) hip flexes, knee stays near straight
+                            -> both ends lengthen -> LARGE excursion
+
+  LEG CURL, prone           knee flexes, hip fixed near 0 deg
+                            -> shortens from an already short start
+
+  LEG CURL, seated          knee flexes, hip held at ~90 deg
+                            -> shortens from a LONG start
+```
+
+**That fourth row is the one with a trial behind it.** Seated and prone leg curls are the same movement
+at the knee; the only difference is the hip angle, and therefore the length the muscle works from. Run
+within the same person for twelve weeks, one leg each, the seated version grew the whole hamstrings
+**+14% against +9%** — and the advantage was **entirely in the biarticular muscles**, with the
+monoarticular biceps femoris short head growing identically either way (Maeo et al., 2021). **Moderate
+evidence** — twenty adults, MRI, within-participant.
+
+**This is the cleanest mechanism-to-outcome match in the document.** The prediction is that hip flexion
+should matter for the three muscles that cross the hip and not at all for the one that does not. That
+is exactly what was found, in the same limbs, by MRI.
+
+**And the third row explains an absence.** Because the squat pattern cancels, the hamstrings are
+**co-contractors rather than movers** in a squat, and no amount of squatting substitutes for either
+category in Part VII §D. Part III §A.8 and Part IV §B.5 state the same fact from the quadriceps' and
+the glutes' side.
+
+---
+
+### B.3 Force–length and force–velocity — where this group actually works
+
+**What is established, and it is unusually concrete.** The hamstrings' most demanding real-world task
+has been modelled directly. Across a full sprint stride in seven athletes, all three biarticular
+hamstrings reached **peak strain, peak force and their largest energy absorption during terminal
+swing** — the instant before foot strike, when the hip is flexed and the knee is extending fast
+(Schache et al., 2012):
+
+```
+WHAT EACH HAMSTRING DOES AT SPRINT SPEED   (Schache 2012, 7 athletes, modelled)
+  Biceps femoris long head   LARGEST PEAK STRAIN
+  Semitendinosus             GREATEST LENGTHENING VELOCITY
+  Semimembranosus            HIGHEST PEAK FORCE, most power absorbed and
+                             generated, largest positive and negative work
+  ----------------------------------------------------------------------
+  All three peak at the SAME MOMENT: terminal swing
+```
+
+The authors' own conclusion is the prescription this Part gives: injury prevention and rehabilitation
+should "preferentially target strengthening exercises that involve **eccentric contractions performed
+with high loads at longer musculotendon lengths**."
+
+**Three consequences, and the second is the one people get wrong.**
+
+1. **The productive position is a flexed hip with a straight-ish knee**, because that is where all three biarticular heads are long and where the sprint injury happens. Every exercise in Part VII §D.1 is a way of loading it.
+2. **"Eccentric" is not a separate training method here — it is where the demand naturally sits.** The hamstrings absorb energy in terminal swing; the exercises that work are the ones that load lengthening, which most hinges and Nordics do by their nature. It does not require a special protocol.
+3. **Velocity is part of the demand and cannot be reproduced in the gym.** Nothing in Part VII §D lengthens a hamstring at sprint velocity. Sprinting does, and Part VII §E.5 treats it as a training exposure with its own dose rather than as a free extra.
+
+**What is established about the curve itself, and it is more than this Part first allowed.** The
+force–length behaviour of the hamstrings has been reviewed across four databases, pooling
+sarcomere-level, moment-arm, activation and **torque–joint-angle** measurements with five forward
+simulation models (Kellis & Blazevich, 2022). Two of its conclusions bear directly on the prescription
+above. First, the review's own summary: "knee flexion exercises performed with hip angles 45–90°
+promote more optimal force generation", and "exercises requiring hip flexion at 45–120° and knee
+extension 45–0° (e.g. sprint running) may therefore evoke greater muscle forces" — which is Part VII
+§D.1 and the seated leg curl, arrived at independently. Second, and unflattering to a simple reading:
+in walking and sitting the hamstrings work on the **ascending** limb, but with the hip flexed to 90°
+the biceps femoris long head and the semimembranosus are estimated to operate on the **descending**
+limb. **The productive position is past optimum, not at it.**
+
+**What is still not established.** The review's own verdict: "the force-length relationships of
+individual hamstrings has not yet been determined." The operating region above is assembled from
+cadaveric sarcomere measurements, modelling and torque–angle curves rather than from a measured
+force–length relationship for one named muscle in a living person, and the descending-limb estimate
+inherits that.
+
+---
+
+### B.4 Which exercise trains which muscle — the one place activation predicted growth
+
+**This is the most important section in Part VII, and it is the document's one partial counter-example
+to itself.**
+
+Parts II, IV, V and VI all establish the same negative: surface [EMG](#emg) rankings do not predict
+hypertrophy. Here the prediction was made, published, and then **tested — and it half held**. Which
+half, and why, is the substance of this section.
+
+**The prediction (2017).** Twenty-four men performed ten strength exercises with EMG, and two of them
+were repeated under functional MRI. Eccentrically, the largest ratio of lateral to medial hamstring
+activation occurred in the **45° hip extension**; the lowest in the **Nordic** and bent-knee bridge.
+Functional MRI confirmed a greater biceps femoris long head to semitendinosus activation ratio in hip
+extension than in the Nordic. The authors' summary: *"Hip-extension exercise selectively activates the
+long hamstrings, and the Nordic exercise preferentially recruits the semitendinosus"* (Bourne et al.,
+2017b).
+
+**The test (2017 and 2024).** The prediction has two halves. They did not fare the same.
+
+| Trial | Design | Result |
+|---|---|---|
+| Bourne et al., 2017a | 10 wk, 30 recreationally active men, hip extension vs Nordic vs control, MRI | **Biceps femoris long head volume increased more with hip extension** than Nordic (d = 1.03) or control (d = 2.24). Both exercises lengthened biceps femoris fascicles (d = 1.77–2.17 post-training) |
+| Maeo et al., 2024 | 12 wk, 42 young men, 34 sessions, Nordic vs lengthened-state eccentric vs control, MRI of **seven individual knee flexors** | Lengthened-state training grew the hamstrings **+18% vs +11%** and the biceps femoris long head **+19% vs +5%**. **Lengthened-state was 2.2-fold better for knee flexors that also extend the hip; Nordic was 1.9-fold better for those that do not** (all P ≤ 0.001) |
+
+**The half that held.** Hip extension grew the **biceps femoris long head** more than the Nordic did
+(d = 1.03), and it was the only arm that grew the **semimembranosus** against control (d = 1.57,
+p = 0.007) (Bourne et al., 2017a). The two long hip-crossing heads behaved as predicted.
+
+**The half that failed, twice.** The prediction's other half was that the Nordic would preferentially
+grow the **semitendinosus**. Bourne's group set that out as a formal hypothesis and rejected it:
+
+> "no significant difference in ST volume change was noted between NHE and HE groups (mean difference
+> = 6.90%, 95% CI = -2.77 to 16.56%, d = 0.69, p = 0.239)" — and, in their own discussion, "contrary
+> to our hypothesis, the NHE was not significantly more effective at increasing ST volume or cross
+> sectional area than the HE" (Bourne et al., 2017a).
+
+Maeo et al. (2024) reproduced the null: "LSET and NHT produced similar muscle volume increases in ST
+(P = 0.072)". **Two trials, one prediction, two failures.** What survives of the knee-flexion half is
+the **biceps femoris short head** — and that is anatomy, not a tested prediction: no exercise that
+extends the hip can lengthen a muscle that does not cross it.
+
+```
+THE RULE, AS THE EVIDENCE ACTUALLY LEAVES IT
+  HIP-EXTENSION-ORIENTED  ->  biceps femoris LONG head  (tested, held)
+   (RDL, 45 deg back extension,     semimembranosus      (tested, held)
+    good morning, single-leg RDL)
+   NOT the hip thrust: its knee is held bent, which shortens the
+   hamstrings at one end - see section D.3
+
+  KNEE-FLEXION-ORIENTED   ->  biceps femoris SHORT head (anatomy, not
+   (Nordic, leg curl,                                    a tested claim)
+    razor curl)                semitendinosus  <- PREDICTED, TESTED
+                                                  TWICE, FAILED TWICE
+```
+
+**Why the half that worked, worked.** It does not rest on a subtle amplitude difference between
+similar exercises — it rests on a **structural fact**, which is that one of these muscles does not
+cross the hip and cannot be reached by extending it. **And why the other half failed is the same
+point in reverse:** the semitendinosus crosses both joints, so both exercise families lengthen it, and
+no structural asymmetry separates them. An activation ranking predicted a difference; the anatomy
+never required one.
+
+**One further caution about the second trial, because the Part previously read it too generously.**
+Maeo et al. (2024) is not a test of the hip-extension prediction at all. Its "lengthened-state
+eccentric" arm was performed on "a modified seated leg curl machine … with a modified back rest so
+that the hip was maintained in a flexed position (120°)" — **both of its training arms were
+knee-flexion exercises**. It tests the *muscle-length* mechanism of Part VII §B.2, and tests it well.
+It does not test which joint you move. Its widely-quoted "1.9-fold" figure also needs reading at its
+real width: the group it describes is, verbatim, "the sum of BFsh, SAR, GRA, and POP" — biceps femoris
+short head plus **sartorius, gracilis and popliteus**, three of which are not hamstrings, and two of
+which do cross the hip. Part V §B.11's warning
+still holds for everything finer than this — though not in the form this Part first stated it.
+High-density EMG **has** resolved which *region* of the biceps femoris long head an exercise loads:
+mapping the Nordic against the stiff-leg deadlift found activation to be region-dependent within a
+single muscle (Hegyi et al., 2018), and the same method across ten exercises reproduced it
+(Hegyi et al., 2019). What is still
+missing is the step this document keeps asking for — **none of it has been checked against regional
+growth**, and the one trial that measured regional growth (Part VII §A.5) did not measure regional
+activation.
+
+---
+
+### B.5 Hip angle and knee angle are both steering wheels
+
+Two variables move the load, and unlike every other Part, both have direct trial evidence.
+
+| Variable | Effect | Evidence |
+|---|---|---|
+| **Hip flexion during knee flexion** | Lengthens the biarticular heads and increases their growth; does nothing to the monoarticular one | Seated vs prone leg curl, 12 wk, within-participant: +14% vs +9% whole hamstrings, **no difference in biceps femoris short head** (Maeo et al., 2021) |
+| **Knee angle during hip extension** | A straighter knee keeps the hamstrings long and takes their share up; a bent knee hands the work to the gluteus maximus | Part IV §B.5, from the other side. Modelled torque split favoured the gluteus maximus most with the hip at 0° and the knee at 90° (Liu et al., 2022) |
+| **Which joint moves** | Decides which heads grow, and it is not a matter of degree (Part VII §B.4) | Bourne et al., 2017a; Maeo et al., 2024 |
+| **Trunk inclination in a hinge** | The hip torque term, exactly as in Part IV §B.10 | Mechanical |
+
+> **The rule, in one line.** To move work toward the **long** hamstrings, extend the hip with the knee
+> straight. To move it toward the **short** ones, bend the knee — and do it with the hip flexed, which
+> costs nothing and buys growth in the three muscles that cross it.
+
+---
+
+### B.6 The stimulus map for the hamstrings
+
+```
+POSITION                     BIARTICULAR   DEMAND      INJURY        WHAT IT NEEDS
+(hip / knee)                 LENGTH        TYPICALLY   RELEVANCE
+------------------------------------------------------------------------------------------------
+Hip flexed, knee straight    LONGEST       Highest in  THE injury    The productive position.
+(RDL bottom, terminal        (+ passive    every       position      Every exercise in
+swing, seated curl start)     tension)     hinge       (Schache      section D.1 loads it
+                                                        2012)
+
+Hip flexed, knee bent        Mid           Moderate    Low           The seated leg curl's
+(seated curl mid-range)                                              working range
+
+Hip extended, knee straight  Mid           Low         Low           Standing. Nothing loads
+(standing)                                                           it meaningfully
+
+Hip extended, knee bent      SHORTEST      Low         Low           Prone curl's finish and
+(prone curl finish, Nordic                                           the Nordic's start.
+start)                                                               Little tension available
+
+Hip and knee flexing         Near constant Whatever    Low           The squat pattern. The
+TOGETHER (squat, leg press)  (3-6 cm net)  the quads                 cancellation - not a
+                                           leave                     hamstring exercise
+```
+
+**One column here that no other Part has.** "Injury relevance" is a real column for this muscle group
+and not a rhetorical one, because the position where the muscle is longest, the position where sprint
+strain peaks, and the position the effective exercises load are **the same position**. In Parts III to
+VI the productive range and the risky range pulled against each other; here they coincide.
+
+**Which cuts both ways, and the Part says so once here rather than implying otherwise throughout.**
+The coincidence is why loading this position works. It is also why the position deserves control rather
+than ambition: the **stretching-type** hamstring injury — the one produced by combined deep hip flexion
+and knee extension, which is the shape of a deep hinge — took roughly twice as long to return from as
+the sprinting type in both arms of a randomized rehabilitation trial (Askling et al., 2013). Load the
+position deliberately, under control, with the range bounded as Part VII §C.3 specifies. Do not chase
+depth in it.
+
+**The single most useful sentence in this Part:** load the hamstrings with the hip flexed — whether the
+knee is straight and the hip is moving, or the knee is moving and the hip is held flexed — and the
+choice between those two decides which of the four muscles grows.
+
+---
+
+### B.7 Fascicle length as a training outcome — unique to this Part
+
+Everywhere else in this document, muscle architecture is a fixed property you train **around**. Here it
+is a variable you train, and it has been measured before and after, prospectively linked to injury, and
+compared between exercises.
+
+| Finding | Evidence |
+|---|---|
+| Fascicle length **increases with training**, and with both exercise types | Biceps femoris long head fascicles lengthened in **both** Nordic and hip extension groups at 5 weeks (d = 1.12–1.39) and 10 weeks (d = 1.77–2.17) (Bourne et al., 2017a) |
+| **Short fascicles predict injury** | In 152 elite footballers, fascicles **shorter than 10.56 cm** raised hamstring injury risk more than fourfold (RR 4.1, 95% CI 1.9–8.7) (Timmins et al., 2016) |
+| **Eccentric strength does *not* predict it** | The same cohort reported strength **below 337 N** raising risk similarly (RR 4.4, 95% CI 1.1–17.5) (Timmins et al., 2016) — but pooling six prospective cohorts and 1,100 athletes found **no significant difference between injured and uninjured players**, absolute, body-mass-relative or as between-limb asymmetry (Opar et al., 2021). **Take the fascicle row and not this one** |
+| The two risk factors interact with age and history | Older players and those with previous injury had their elevated risk **reduced** when they had long fascicles and high eccentric strength (Timmins et al., 2016) |
+| Different knee-flexion exercises lengthen fascicles by different amounts | Compared directly, the Nordic lengthened biceps femoris long head fascicles substantially while the razor curl did not (Pollard et al., 2019) |
+
+**Interpretive caution, and it is substantial.** Fascicle length here is measured by **two-dimensional
+ultrasound**, usually with extrapolation because the fascicle is longer than the probe — a method with
+real measurement error and known between-operator variability. The 10.56 cm threshold is a cut-point
+derived from one cohort and should not be treated as a clinical test. And an association between an
+architectural variable and injury is not proof that changing the variable changes the risk, though the
+prevention trials in Part VII §E.4 make that inference more comfortable than it usually is.
+
+---
+
+### B.8 Resistance profiles
+
+The muscle's capability curve is fixed; the **[resistance profile](#resistanceprofile)** is chosen by
+the exercise.
+
+| Exercise | Where demand peaks | Where it collapses | Profile |
+|---|---|---|---|
+| [Romanian deadlift](#romaniandeadlift), stiff-leg deadlift | Bottom, torso nearest horizontal | Standing | **Stretch-loaded**, hip-oriented |
+| [Good morning](#goodmorning) | Bottom | Standing | Stretch-loaded, spinally expensive |
+| [45° back extension](#backextension) | Torso through horizontal; ~70% of peak still present at the **top**, with the hip straight | The bottom, where the trunk hangs and the load line runs through the hip | Mid-range, falling to nothing at the bottom (Part IV §B.8) |
+| [Seated leg curl](#legcurl) | Set by the cam, from a **long** starting length | Full knee flexion | Knee-oriented, and the loaded version of the long position |
+| Prone leg curl | Set by the cam, from a **short** starting length | Full knee flexion | Knee-oriented, short |
+| [Nordic hamstring curl](#nordiccurl) | Near full knee extension, at the end of the descent | The upright start | **Rising-demand eccentric** — and note it is *not* stretch-loaded: with the hip at 0° its whole range sits between the shortest hamstring length available and roughly standing length (Part VII §B.6). Almost unloadable in the concentric |
+| [Glute-ham raise](#glutehamraise) | Mid-range, both joints contributing | Both ends | Mixed hip and knee |
+| Razor curl | Later in the descent than the Nordic, because the hip flexes | Start | Knee-oriented with a hip contribution |
+| [Back squat](#backsquat), [leg press](#legpress) | Irrelevant — the length change cancels (Part VII §B.2) | — | **Not a hamstring exercise** |
+
+**The row that matters most is the Nordic, and it is more limited than its reputation.** Its demand
+sits almost entirely in the eccentric, at long knee-extension angles, and it is **very hard to load
+progressively** — body weight is the resistance, and the only progressions are leaning further, slowing
+the descent, or adding external load awkwardly. That is a real constraint, and it is one reason the
+lengthened-state eccentric alternative outperformed it for size (Maeo et al., 2024): a weight stack can
+be increased and a body cannot.
+
+**And the row that is usually mis-sold is the seated leg curl.** It is not a different exercise from the
+prone version; it is the same exercise performed from a longer starting length, and that alone is worth
+five percentage points of hamstring growth over twelve weeks (Maeo et al., 2021).
+
+---
+
+### B.9 A worked example, so the numbers are not abstract
+
+The question worth answering here is not how much force a hinge asks for. It is **how much of the
+hamstring group a squat actually trains**, because that is the belief that keeps most people's
+hamstrings untrained.
+
+```
+BICEPS FEMORIS LONG HEAD, LENGTH CHANGE OVER A DEEP SQUAT, ONE LEG
+  Hip flexion, standing to deep squat     0 -> ~115 deg
+  Knee flexion, standing to deep squat    0 -> ~130 deg
+
+  LENGTHENING AT THE HIP END
+  Nemeth & Ohlsen's measured curve is labelled "hip, ALL MUSCLES" -
+  a lumped hamstring value. Integrated, it gives 11.1 cm to 90 deg and
+  12.7 cm to 115 deg. But BFlh-specific arms at the 30-40 deg peak are
+  58, 62 and 70 mm (Kellis & Blazevich 2022, Table 1) against Nemeth's
+  lumped 80 mm, so the lumped curve runs ~21% high for this muscle.
+    scaled x 0.79      0-90 deg   8.7 cm      0-115 deg  10.0 cm
+
+  SHORTENING AT THE KNEE END
+  BFlh knee flexion moment arm, peak 22-40 mm across eleven sources
+  (same table); the arm rises and falls across the range, so the
+  range-mean is ~0.8 of peak = 18-32 mm.
+    x 2.27 rad                              -4.0 to -7.3 cm
+  ------------------------------------------------------------------
+  NET over the whole descent                 ~ +3 to +6 cm
+  For comparison, an RDL to a horizontal torso
+    (hip 0-90 deg, knee held)                ~ +9 cm
+  ------------------------------------------------------------------
+  RATIO, hinge : squat            about one and a half to three
+```
+
+**What the number means.** A deep squat lengthens the biceps femoris long head by roughly **three to
+six centimetres**; a Romanian deadlift by about **nine**. The squat is not a light hamstring exercise
+so much as a *shared* one — the hip and knee terms are of the same order and largely offset — and the
+hamstring activity it does produce is mostly **co-contraction to stabilize the knee** rather than work
+against a moment (Part III §B.4 discusses the same co-contraction from the quadriceps' side). The
+measured consequence is in Part VII §D.3: ten weeks of squat training, hamstring volume by MRI, no
+change (Kubo et al., 2019).
+
+**Why this block no longer divides by a fascicle, though an earlier version did.** Expressing the
+answer as "a fraction of a fascicle" invites reading it as fibre strain, and as fibre strain it is
+impossible — the hinge figure came out above one whole fascicle, and no sarcomere lengthens by more
+than about a third. **Musculotendon excursion is not fibre excursion**, for three reasons: the biceps
+femoris long head's long internal aponeurosis and proximal tendon absorb part of it (Part VII §A.3);
+the fibres are pennate; and local tissue stretch is grossly non-uniform. A finite-element model of
+this muscle built from MRI gives a **peak along-fibre stretch of 1.64 next to the proximal
+myotendinous junction against a whole-muscle average of 0.95 in the same contraction** (Rehorn &
+Blemker, 2010). There is no single fibre strain to divide by, so this block reports centimetres.
+
+**Where the remaining width comes from.** The hip term is the better-constrained one: it integrates a
+curve that was actually measured, and only the last 25° is extrapolated. **The spread is the knee
+moment arm**, reported anywhere from 22 to 40 mm for this muscle across eleven sources, and multiplied
+here by the largest angle in the problem.
+
+**Four things this block is not.** The scaling from Németh's lumped curve to a biceps-femoris-specific
+one is a proportional correction, not a measurement of that muscle's curve. The knee moment arm is a
+literature range rather than a measurement in these participants. It says nothing about *force*, only
+about length. And it is a geometric estimate — **no trial has compared a squat-based programme against
+a hinge for hamstring size**, so the head-to-head does not exist.
+
+**One thing the calculation is not the strongest argument for.** Part III §B.4 supplies a second and
+independent reason the squat is not a hamstring exercise: at the knee the hamstrings are the
+quadriceps' antagonist, so what activity there is opposes the movement rather than driving it. Length
+and direction agree here, and the direction argument does not depend on any moment arm.
+
+**The claim that survives is comparative, and it is enough:** whatever a squat does for the hamstrings,
+a hinge does roughly **one and a half to three times** as much of it per repetition, in the right
+direction, and the two are not substitutes.
+
+---
+
+### B.10 Setup variables
+
+| Variable | Effect | Evidence |
+|---|---|---|
+| **Hip angle in a leg curl** | Seated (hip ~90°) grows the biarticular heads more than prone (hip ~0°); no effect on the monoarticular one | 12 wk, within-participant, MRI (Maeo et al., 2021) |
+| **Knee angle in a hinge** | Straighter keeps the hamstrings long and raises their share; softer hands work to the glutes | Part IV §B.5 |
+| **Depth of a hinge** | Bounded by the hamstrings' own extensibility and by the spine, not by the floor | The reason the Romanian deadlift is the better hinge for this purpose (Part VII §D.1) |
+| **Ankle position in a leg curl** | Dorsiflexion recruits the gastrocnemius into knee flexion; plantarflexion reduces its contribution | Mechanical. Widely claimed, not tested for hypertrophy |
+| **Body lean in a Nordic** | Leaning further forward before breaking extends the loaded range | Mechanical, and the only real progression the exercise has |
+
+**On the trade you are actually making.** Unlike Parts III to VI, the variables here do not trade the
+target against a neighbour — they trade **one hamstring against another**. Every setting that favours
+the long heads disfavours the short ones and vice versa, which is why Part VII §D.4 asks for one of
+each rather than an optimum.
+
+---
+
+### B.11 What EMG can and cannot settle here
+
+**This is the one Part where the answer is partly positive**, and it is worth being precise about why.
+
+**What it settled, and what it did not.** Surface EMG and functional MRI showed hip extension
+favouring the biceps femoris long head and the Nordic favouring the semitendinosus
+(Bourne et al., 2017b). Both halves were then taken to MRI. The first held: hip extension grew the
+biceps femoris long head more than the Nordic did (Bourne et al., 2017a). **The second failed twice**
+— neither trial found the semitendinosus difference the activation data predicted (Part VII §B.4).
+**A prediction was made, and half of it held.**
+
+**Why that half held.** Because the difference it was detecting is **structural** — one muscle does not
+cross the hip — rather than a small amplitude difference between similar movements. **And the half
+that failed is the half where no structural asymmetry existed**, which is the same lesson Parts II
+and V teach, arriving here from the other direction. The
+[EMG–hypertrophy dissociation](#emghypertrophydissociation) is not a claim that EMG is never
+informative; it is a claim that **small amplitude differences between exercises do not predict growth**.
+A muscle that is anatomically incapable of contributing to an exercise is a different kind of finding.
+
+**What it has not settled, and the caution is the same as everywhere else.** Which *region along the
+length* of the biceps femoris long head an exercise trains. Whether one hip-extension exercise beats
+another. Whether the activation differences among the several hip-extension exercises mean anything for
+growth — that comparison has never been run. And regional activation still does not predict regional
+growth (Zabaleta-Korta et al., 2024), with the caveat noted there that the study measured a limb muscle.
+
+---
+
+### B.12 The mechanical checklist
+
+An exercise is a good hamstring exercise to the degree that it satisfies these. Nothing satisfies all of
+them, which is why Part VII §D.4 asks for two.
+
+1. It lengthens the target heads rather than cancelling — so it moves **one** joint, not both in the same direction (Part VII §B.2).
+2. It loads the position with the hip flexed, which is where the muscle is long and where the demand naturally sits (Part VII §B.3).
+3. It can be **progressively loaded**, which the Nordic barely can (Part VII §B.8).
+4. Its eccentric is loaded, because that is the contraction this group does in life (Part VII §B.3).
+5. It is limited by the hamstring, not by the lower back, the grip or the balance (Part VII §C.5).
+6. Somewhere in the programme, something is **knee-flexion-oriented**, which is the only way to reach the biceps femoris short head (Part VII §B.4).
+7. Somewhere in the programme, something is **hip-extension-oriented**, which is what grows the head that tears (Part VII §A.8).
+
+---
+## partviictherepspecified
+
+**PART C — The rep, specified**
+
+### C.1 The two hamstring reps
+
+There is no universal hamstring rep, because there are two categories and they move different joints.
+
+```
+THE HIP-EXTENSION REP - ROMANIAN DEADLIFT AND ITS RELATIVES
+  Start           Standing, bar at the thighs, knees softly bent and FIXED
+                  at that angle for the whole set
+  Descent         2-3 s; hips travel BACKWARD, bar stays against the legs,
+                  spine unchanged
+  Bottom          Where the hamstrings stop the descent - not where the
+                  floor does, and not where the lower back starts to round
+  Reversal        Deliberate, from muscular tension
+  Ascent          1-2 s; hips forward, finishing standing tall
+  Top             Hip straight. Do NOT lean back
+  Breathing       Inhale and brace at the top; exhale through the ascent
+```
+
+```
+THE KNEE-FLEXION REP - SEATED LEG CURL AND ITS RELATIVES
+  Start           Seated, HIP FLEXED to ~90 deg, knee near full extension,
+                  pad above the heels
+  Ascent          1-2 s; bend the knee against the pad
+  Top             Full available knee flexion for the machine
+  Descent         2-3 s back to near-full extension, under control
+  Bottom          Near-full knee extension - the long position is the point
+  Hips            Stay back in the seat. Sliding forward shortens the muscle
+                  and throws away what the seated version buys
+  Breathing       Free
+```
+
+**Why each line is there.** The hinge's knee angle is fixed because opening it mid-set converts a
+Romanian deadlift into a stiff-leg deadlift with a rising hamstring share and a falling gluteal one
+(Part IV §B.5), recorded in the logbook as one exercise. Its bottom is defined by the **hamstrings**
+rather than by the floor, because the whole point of the exercise is the tissue that stops the descent.
+And the seated curl specifies the hip at 90° and the hips back in the seat because **that is the entire
+difference between it and the prone version** — a difference worth five percentage points of hamstring
+growth over twelve weeks (Maeo et al., 2021), and one you give away the moment you slide forward.
+
+---
+
+### C.2 The technical errors, in order of how much they cost
+
+| # | Error | What it costs | Fix |
+|---|---|---|---|
+| 1 | Squatting and calling it hamstring training | A deep squat lengthens the biceps femoris long head by about 3–6 cm against a hinge's ~9 cm, and a squat programme grew it not at all (Part VII §B.9). It is not a hamstring exercise | One hinge and one curl, every week (Part VII §D.4) |
+| 2 | Training only one of the two categories | Leaves either the long heads or the short ones untrained — measured, not inferred (Part VII §B.4) | One of each |
+| 3 | Doing leg curls prone when a seated machine is available | +9% instead of +14% over twelve weeks, for the same work (Maeo et al., 2021) | Sit down |
+| 4 | The knee angle drifting open across a set of Romanian deadlifts | Turns one exercise into several with a rising hamstring share | Fix it; film from the side |
+| 5 | Hinging to a fixed depth rather than to hamstring tension | Either short of the stimulus or into lumbar flexion | Depth is where the hamstrings stop you |
+| 6 | Sliding the hips forward in a seated curl | Throws away the hip flexion the exercise is chosen for | Hips against the back pad |
+| 7 | Treating the Nordic as the whole prescription | It is knee-flexion-oriented, poorly loadable, and grew the biceps femoris long head **+5% against +19%** for a loadable alternative (Maeo et al., 2024) | Keep it if you like it; do not build on it |
+| 8 | Set ends because the lower back gave out | Trained the erectors to failure and the hamstrings to about 5 [RIR](#rir) | Move volume to curls and supported hinges (Part VII §C.5) |
+| 9 | Bouncing the bottom of a hinge | Unloads the fibres at the exercise's own peak-demand angle, in the position where injuries happen | Touch and reverse, or stop short |
+| 10 | Stretching into a painful position after a hamstring strain | The stretching-type injury already takes twice as long to return from (Askling et al., 2013) | Part VII §E.4 |
+
+---
+
+### C.3 Prerequisites — can you actually reach the position?
+
+**1. Hinge with a neutral spine.** The broom test in Part IV §C.3 applies without modification: three
+contact points — head, mid-back, sacrum — maintained through at least 60–70° of torso inclination.
+
+*If it fails:* every hinge you perform is a lumbar exercise with hamstring intentions.
+
+**2. Straight-leg hip flexion range.** Lie on your back and raise one straight leg, keeping the other
+flat and the pelvis still. Reaching roughly 70–80° before the pelvis rolls is enough for a full-range
+Romanian deadlift.
+
+*If it fails:* the hinge's depth will be limited by the pelvis rather than by the hamstrings, which is
+a range limit rather than a technique flaw — see Part VII §E.2.
+
+**3. Can you control an eccentric at all?** Lower yourself slowly from a Nordic start, or from the top
+of a leg curl, for a count of three without the last third collapsing.
+
+*If it fails:* that is the training target, not a disqualification. Start with the assisted regressions
+in Part VII §D.2.
+
+---
+
+### C.4 Cues — which ones work and which ones harm
+
+| Cue | Verdict |
+|---|---|
+| "Push the hips back" on a hinge | **Useful** — it is the hip torque term, and it is the movement |
+| "Keep the bar against your legs" | **Useful** — it minimizes the load's distance from the hip and the spine |
+| "Hips back in the seat" on a seated curl | **Useful** — it is the difference between the seated and prone versions |
+| "Feel the stretch, then reverse" | **Useful here**, unusually — the bottom is defined by tissue tension rather than by a joint angle |
+| "Lock the knees" on a Romanian deadlift | **Harmful** — a fully locked knee is a stiff-leg deadlift, which is a different exercise with a larger spinal cost |
+| "Squeeze the glutes at the top" | **Situational** — harmless, and it is the glutes' job rather than the hamstrings' |
+| "Lean back at the top" | **Harmful** — hip hyperextension under load with no hamstring benefit |
+| "Go as deep as you can" | **Harmful as stated** — depth is bounded by the hamstrings and by the spine, not by ambition |
+| "Point your toes" in a leg curl | **Situational** — plantarflexion reduces the gastrocnemius's contribution to knee flexion. Mechanical; untested for growth |
+| "Squats are enough for hamstrings" | **Harmful.** Part VII §B.9 |
+
+---
+
+### C.5 The limiting links
+
+- **The lower back, in every hinge.** The erector spinae work isometrically against the same torso inclination that generates the hip torque, and they fatigue first. This is the single strongest argument for putting part of the weekly volume on leg curls, which have no spinal cost at all.
+- **The grip, in loaded hinges.** As in Part II §C.5 and Part IV §C.5. Straps are legitimate.
+- **Cramping, in leg curls.** Common, harmless, and usually a signal that the muscle is working at a short length under high effort. Reduce the range at the top rather than the load.
+- **The knee, in Nordics.** Kneeling under load is uncomfortable before it is hard; pad it.
+- **Balance, in single-leg hinges.** The same limit as Part IV §C.5, and the same fix — hold something.
+
+**None of these are fixed by trying harder.** They are the reason Part VII §F.6 distributes volume
+across a hinge and a curl rather than doubling either.
+
+---
+
+### C.6 Bracing and the spine
+
+The hinge family carries the largest spinal cost of any exercise in this Part, and the same rules as
+Part IV §C.6 and Part VI §C.6 apply without modification: brace the whole wall, keep the spine
+unchanged through the movement, and treat a rounding lower back as the end of the range rather than as
+a technique to cue away.
+
+**One hamstring-specific point.** Because the bottom of a hinge is defined by hamstring extensibility,
+a lifter whose hamstrings are very extensible will reach lumbar flexion **before** the hamstrings run
+out — and a lifter whose hamstrings are stiff will reach the hamstring limit first. The first person
+should stop at the spine; the second can trust the tissue. Neither is a fault, and they need different
+depth instructions.
+
+---
+
+### C.7 How to know it worked
+
+The set was a hamstring set if, at the end of it:
+
+- the fatigue was in the back of the thigh, not the lower back, the grip or the knee;
+- on a hinge, the knee angle at the bottom of the last repetition matched the first;
+- on a hinge, the depth was the same on the last repetition as the first, and the spine was unchanged in both;
+- on a seated curl, the hips were still against the back pad;
+- you could not have completed another repetition through the same range, but could have through a shorter one.
+
+That last test separates **[technical failure](#technicalfailure)** — the range or the position going
+first — from **[momentary failure](#momentaryfailure)** of the muscle. For this group the distinction
+carries more weight than usual, because the position that fails is also the position in which the muscle
+tears (Part VII §A.8).
+
+---
+## partviidexercisecatalogue
+
+**PART D — Exercise catalogue**
+
+Every entry gives its resistance profile (Part VII §B.8), the setup detail that matters, and the failure
+mode. **Entries are grouped by which joint moves**, because that — not the equipment — decides which of
+the four muscles grows, and because for once that is a measured claim rather than an inference
+(Part VII §B.4).
+
+---
+
+### D.1 Hip-extension-oriented — the long hamstrings
+
+Everything here extends the hip with the knee held near straight, which lengthens the three biarticular
+heads at both ends. This is the category that grows the **biceps femoris long head** — the muscle that
+tears — and the semimembranosus.
+
+#### Romanian deadlift (barbell)
+**Profile:** stretch-loaded, bounded by hamstring extensibility rather than by the floor.
+**Role:** the default hip-extension hamstring exercise.
+
+*Setup.* Knees softly bent and held at that angle for the whole set. Bar against the legs.
+*Execution.* Hips back over 2–3 s until the hamstrings stop the descent with the spine unchanged;
+return over 1–2 s to standing tall, without leaning back.
+*Why it works.* It loads the position where all three biarticular heads are longest and where sprint
+strain peaks (Part VII §B.3), and it lengthens the biceps femoris long head by about **9 cm** per
+repetition against a deep squat's 3–6 cm (Part VII §B.9).
+*Failure mode.* The lower back before the hamstrings (Part VII §C.5), and the knee angle drifting open.
+
+#### Stiff-leg deadlift, and the deficit version
+*Profile.* As above with a straighter knee and more range.
+*Trade.* More hamstring length, more spinal cost, less load. Performed from a deficit it adds range at
+the bottom and has not been tested.
+
+#### 45° back extension, loaded
+**Profile:** mid-range, near-symmetric, holding about 70% of peak demand at both ends (Part IV §B.8).
+*Why it is here.* It is the exercise in which the **largest lateral-to-medial hamstring activation
+ratio** was recorded eccentrically, and one of the two the functional-MRI comparison used to demonstrate
+selective long-head recruitment (Bourne et al., 2017b). No axial load, no grip limit, and it can be
+taken to failure safely — which makes it the cheapest way to buy long-head work.
+*Note.* It is simultaneously a gluteal exercise (Part IV §D.2) and a spinal-extension exercise
+(Part VI §D.5). **One exercise, three Parts** — the most efficient movement in this document.
+
+#### Single-leg Romanian deadlift
+*Profile.* Stretch-loaded, one leg, balance-limited.
+*Role.* Also the only exercise in the document that appears in the top tier of estimated force for the
+gluteus maximus, medius **and** minimus at once (Part IV §D.2). Its limit is balance, not the hamstring.
+
+#### Good morning (barbell)
+*Profile.* Stretch-loaded, hip-dominant, spinally expensive.
+*Role.* A strong pattern with a load ceiling set by the lower back. A reasonable accessory, a poor main
+lift for this purpose.
+
+#### Conventional and sumo deadlift
+*Reality.* As in Part IV §D.2: a superb exercise for many purposes, an inefficient way to buy hamstring
+size, because the fatigue is systemic and the share is spread across the whole posterior chain. No trial
+has measured hamstring hypertrophy from any deadlift variant [consensus — no single source].
+
+---
+
+### D.2 Knee-flexion-oriented — the short hamstrings
+
+Everything here bends the knee. This is the **only** category that reaches the biceps femoris short
+head, which does not cross the hip and cannot be loaded by extending it (Part VII §A.2), and it
+preferentially grows the semitendinosus.
+
+#### Seated leg curl
+**Profile:** knee-oriented, worked from a **long** starting length because the hip is flexed.
+**Role:** the default knee-flexion exercise, and the one with the most direct trial support.
+
+*Setup.* Hips back against the pad, hip at roughly 90°, pad above the heels, knee near full extension at
+the start.
+*Execution.* 1–2 s to full available knee flexion, 2–3 s back to near-full extension.
+*Evidence note.* Against the prone version, same person, one leg each, twelve weeks: **+14% versus +9%**
+whole-hamstring volume by MRI, with the advantage confined to the three muscles that cross the hip
+(Maeo et al., 2021).
+*Failure mode.* The hips sliding forward, which converts it into the prone version.
+
+#### Prone leg curl
+*Profile.* As above from a short starting length.
+*Role.* Not wrong, just worse — and by a measured amount. Use it when there is no seated machine.
+
+#### Nordic hamstring curl
+**Profile:** rising-demand eccentric, near-unloadable concentrically — and **not** a lengthened-position exercise, because the hip stays at 0° throughout (Part VII §B.6).
+*Setup.* Kneel with the ankles anchored, hips extended, and lower under control as far as possible
+before catching yourself.
+*What it is genuinely good for.* **Injury prevention, where its evidence is the strongest in this Part.**
+Pooling fifteen studies and 8,459 athletes, programmes including the Nordic reduced hamstring injuries
+with a risk ratio of **0.49** (95% CI 0.32–0.74) — roughly halving them — and the effect survived
+restriction to randomized trials (0.52) and removal of high-risk-of-bias studies (0.55)
+(van Dyk et al., 2019).
+*What it is not.* The best hypertrophy exercise for this group. It grew the biceps femoris long head
+**+5% against +19%** for a loadable lengthened-state alternative over twelve weeks (Maeo et al., 2024),
+and it is very hard to progress because body weight is the resistance (Part VII §B.8).
+*The honest summary.* **A prevention exercise with a growth side-effect, not a growth exercise with a
+prevention side-effect.**
+
+#### Lengthened-state eccentric knee flexion
+**Profile:** knee-oriented, performed against a weight stack in an accentuated hip-flexed position.
+*Evidence note.* Over twelve weeks and thirty-four sessions it produced **+18% hamstring and +19%
+biceps femoris long head volume**, against the Nordic's +11% and +5%, plus a larger increase in
+aponeurosis area (Maeo et al., 2024). **Moderate evidence** — forty-two young men, one laboratory,
+never replicated.
+*Role.* On current evidence **the single most effective hamstring hypertrophy exercise tested**, and the
+one most gyms are not set up for. A seated leg curl with an emphasized eccentric is the nearest common
+approximation.
+
+#### Razor curl and glute-ham raise
+*Profile.* Knee flexion with a hip contribution; the glute-ham raise moves both joints.
+*Note.* The razor curl and Nordic produce different architectural adaptations when compared directly
+(Pollard et al., 2019). The glute-ham raise straddles both categories, which makes it convenient and
+makes it a poor way to test anything.
+
+---
+
+### D.3 Exercises that are not hamstring exercises
+
+| Exercise | Why people believe it is | Reality |
+|---|---|---|
+| Back squat, front squat, leg press | Heavy posterior-chain work | The hip and knee flex together and the two length changes partly **cancel** — about 3–6 cm over a deep squat against a hinge's ~9 cm (Part VII §B.9). The hamstring activity is co-contraction |
+| Lunge and split squat | Same reasoning | Same cancellation, one leg at a time |
+| Hip thrust and glute bridge | It is hip extension | The knee is held at ~90°, which shortens the hamstrings at one end and is precisely why the exercise is a **gluteal** one (Part IV §B.5) |
+| Kettlebell swing | It is a hinge | It is a hinge performed ballistically, so the demand is set by acceleration rather than by load, and the loaded range is brief |
+| Calf raise | Gastrocnemius crosses the knee | It does, but the knee does not move |
+| Static hamstring stretching | Lengthening the muscle | Not loading. And after a hamstring strain, the stretching-type injury is already the slower one to return from (Askling et al., 2013) |
+| Walking and cycling | Posterior chain work | Neither loads the muscle near its long length |
+
+**On the first row, because it is the belief this Part exists to correct.** "Squats train your
+hamstrings" is not quite false — they are active — but the activity is stabilizing co-contraction at a
+near-constant muscle length. **And this has been measured rather than merely left untested:** seventeen
+men trained full or half squats twice a week for ten weeks, with hamstring volume taken by MRI before
+and after, and the authors concluded that full squat training develops the lower limb muscles
+"excluding the rectus femoris and hamstring muscles" (Kubo et al., 2019). A
+programme of squats and leg presses contains **no hamstring training** in the sense the rest of this
+Part means.
+
+---
+
+### D.4 Selection rules
+
+1. **Pick one hip-extension exercise.** Romanian deadlift, loaded 45° back extension, or single-leg Romanian deadlift. This grows the biceps femoris long head — the head that tears (Part VII §A.8).
+2. **Pick one knee-flexion exercise, and do it with the hip flexed.** Seated leg curl by default; a lengthened-state eccentric machine if you have one. This is the only way to reach the biceps femoris short head.
+3. **Do not substitute one category for the other.** They grow different muscles, and this is measured (Part VII §B.4).
+4. **Do not count squatting toward either** (Part VII §D.3).
+5. **Add the Nordic if injury prevention is a goal in itself** — its evidence for that is stronger than any hypertrophy evidence in this document (van Dyk et al., 2019) — but do not expect it to carry the size prescription.
+6. **Choose within a category by what limits the set** (Part VII §C.5). If your lower back ends every hinge, the back extension and the curl are your two exercises.
+7. **Prefer the loadable version.** The single clearest lesson of Maeo et al. (2024) is that a weight stack you can add to beat a body weight you cannot.
+
+---
+## partviiecontextmodifiers
+
+**PART E — Context modifiers: when "perfect" changes**
+
+Part VII §C gives the default for hypertrophy in a healthy trained adult. This Part lists every context
+that changes it. Find the rows that describe you; they compose.
+
+---
+
+### E.1 Goal contexts
+
+| Context | What changes | Why |
+|---|---|---|
+| Hypertrophy only | The default in Part VII §C, unchanged | — |
+| Hypertrophy on limited time | One hinge and one seated curl. Two exercises cover both categories | Nothing else covers both (Part VII §B.4) |
+| **Injury prevention as a goal in itself** | Add the Nordic, and prioritize compliance over load | Programmes including it roughly halve hamstring injuries (van Dyk et al., 2019) — the strongest prevention evidence in this document |
+| Sprint performance | Keep both categories, prioritize the hip-extension one, and treat sprinting itself as a dose (Part VII §E.5) | Peak strain, force and energy absorption all occur in terminal swing (Schache et al., 2012) |
+| Maximal deadlift | The competition lift becomes the main exercise; curls become the accessory | Specificity |
+| Returning from a hamstring strain | Governed by Part VII §E.4, not by this table | Different problem, different rules |
+| Fat-loss phase | Volume held, load held, range held | Detail in `strength-and-body-composition.md` |
+
+---
+
+### E.2 Body contexts
+
+| Context | What changes | Why |
+|---|---|---|
+| Limited straight-leg hip flexion | Hinge depth is bounded by the pelvis rather than the hamstrings. Reduce the range, keep the load, add the seated curl | Part VII §C.3, prerequisite 2 |
+| Very extensible hamstrings | You will reach lumbar flexion before hamstring tension. **Stop at the spine** | Part VII §C.6 |
+| Long femurs relative to torso | More forward lean at the same hip angle, which raises hip torque and spinal load together | Part IV §B.10 |
+| Previous hamstring strain | The single strongest risk factor for another one, and 16% of professional football muscle injuries are reinjuries costing more time than the original (Ekstrand et al., 2011). Long fascicles reduce that elevated risk (Timmins et al., 2016) — though the eccentric-strength half of the same finding did not survive pooling (Part VII §A.8) | This is the population the prevention evidence is most valuable for |
+| Older athlete | Same, and age itself raises risk — but the raised risk is attenuated in players with long fascicles (Timmins et al., 2016) | Same source, same interaction; see Part VII §A.8 on the strength half of it |
+| Untrained | Both categories, moderate loads; the eccentric control in Part VII §C.3 is the first thing to build | — |
+| Well trained | Expect **less** than the numbers in Part VII §F.7, which are unusually well characterized but come from untrained participants | All three trials excluded recent systematic resistance training; Maeo et al. (2021) describes its sample as "untrained healthy young adults" |
+| Female | **No change to the mechanics or the prescription** | The evidence is male-weighted but not exclusively male: Bourne et al. (2017a) studied thirty male athletes and Maeo et al. (2024) forty-two young men, while Maeo et al. (2021) recruited **thirteen men and seven women**. The evidence is male-weighted, which is a limitation of the evidence rather than a reason to prescribe differently. **Caveat worth stating:** the sex difference in hip extensor moment arms in Part IV §B.2 applies to the hamstrings too |
+| Male | No change | As above |
+| Sciatic-type symptoms down the leg | **Stop.** Not a training problem | Part VII §E.4 |
+
+---
+
+### E.3 Equipment contexts
+
+| Context | Prescription | Note |
+|---|---|---|
+| Full gym | Romanian deadlift plus seated leg curl | The default, and both categories loadable in small steps |
+| Barbell and rack only | Romanian deadlift, good morning, and **the curl slot suffers** | A barbell cannot flex the knee against resistance. Add a Nordic |
+| Machines only | Seated leg curl plus 45° back extension | Well served, unusually |
+| Dumbbells only | Romanian deadlift, single-leg Romanian deadlift, and a Nordic or slider curl | Load becomes the limit on the hinge before the muscle does |
+| Cable stack only | Cable pull-through, standing cable hip extension, and no true curl | Complete for one category |
+| Home, no equipment | Nordic (or its assisted regressions), sliding leg curl, single-leg Romanian deadlift with a backpack | **The one muscle group in this document with a genuinely good no-equipment option** — the Nordic needs nothing but an anchored ankle, and it is the exercise with the best prevention evidence |
+| Sliders or a towel on a smooth floor | Sliding leg curl: lie supine, heels on the sliders, bridge up and extend the knees | Loadable only by leverage, but it is a real eccentric knee-flexion exercise |
+| Glute-ham developer available | Glute-ham raise covers both categories imperfectly | Convenient; a poor way to bias either |
+
+---
+
+### E.4 Pain and pathology contexts
+
+**Nothing in this section is medical advice, and none of it substitutes for assessment.**
+
+**The scale, because it is larger here than for any other muscle in this document.** Across 51
+professional football teams and 2,299 players followed prospectively from 2001 to 2009, muscle injuries
+were 31% of all injuries and 27% of all absence — and **the hamstrings alone were 37% of those muscle injuries**,
+ahead of the adductors (23%), quadriceps (19%) and calf (13%). A 25-player squad could expect about
+fifteen muscle injuries a season, and **16% of them were reinjuries, which cost significantly more time
+than the originals** (Ekstrand et al., 2011).
+
+**What prevents them, and the evidence is the strongest in this document.** Programmes that include the
+Nordic hamstring exercise reduce hamstring injuries with a pooled risk ratio of **0.49** (95% CI
+0.32–0.74, p = 0.0008) across fifteen studies and 8,459 athletes — a halving. Restricting to randomized
+trials gives 0.52; removing the eight studies at high risk of bias gives 0.55 (van Dyk et al., 2019).
+**The effect survives both restrictions**, which is unusual and is why this Part treats it as
+established rather than promising.
+
+**What rehabilitates them, and this too has a randomized trial.** Seventy-five elite footballers with
+MRI-verified acute hamstring injuries were randomized to a protocol emphasizing **lengthening**
+exercises or a conventional one. Time to return: **28 days versus 51** (Askling et al., 2013). The same
+comparison in elite sprinters and jumpers reached the same conclusion (Askling et al., 2014).
+**Interpretive caution:** these are rehabilitation protocols delivered by clinicians, not training
+programmes, and the reader's job is to be assessed rather than to self-administer them.
+
+| Context | Common modification | Evidence note |
+|---|---|---|
+| Acute hamstring strain — a sudden painful pull during sprinting or a stretch | **Stop, and get assessed.** Do not stretch it | Rehabilitation is a clinical protocol with a randomized-trial basis (Askling et al., 2013), and the "stretching type" injury already takes roughly twice as long to return from as the sprinting type |
+| Returning from a hamstring strain | Lengthening-biased loading under supervision, then both categories | The L-protocol comparison above |
+| Previous hamstring strain, now asymptomatic | **This is the highest-value place to train.** Both categories, plus the Nordic for its own sake | Previous injury is the strongest risk factor, and its effect is reduced by long fascicles and eccentric strength (Timmins et al., 2016) |
+| Proximal hamstring pain at the sitting bone, worse with sitting and hinging | Reduce deep hip flexion under load; keep loading in a shortened range initially | Tendinopathy at the shared conjoint tendon (Part VII §A.2). An assessment problem before a programming one |
+| Pain radiating below the knee, or numbness | **Stop. Neural symptoms need assessment** | Not a training problem |
+| Cramping during leg curls | Reduce the range at the top rather than the load | Common and benign (Part VII §C.5) |
+| Low back pain provoked by hinging | Move volume to the seated curl and the 45° back extension | Neither has an axial spinal load |
+
+**The one claim this section declines to make.** That hamstring flexibility prevents hamstring injury.
+**Evidence remains limited and inconsistent**, the prevention evidence that does exist is for
+*eccentric strengthening* rather than for stretching, and the rehabilitation trial that worked used
+**lengthening exercises under load**, which is not the same thing as stretching.
+
+---
+
+### E.5 Sport contexts
+
+| Sport | Modification | Reason |
+|---|---|---|
+| Sprinting and any sport with maximal running | Both categories, plus the Nordic, plus **sprinting itself treated as a dose with its own recovery cost** | Peak strain, force and energy absorption all occur in terminal swing (Schache et al., 2012), and no gym exercise reproduces the velocity |
+| Football, rugby, field sports | As above; this is the population every prevention trial was run in | (van Dyk et al., 2019; Ekstrand et al., 2011) |
+| Powerlifting | The competition deadlift covers the hinge slot; add a curl | The curl slot is the one that goes missing |
+| Weightlifting | Same, plus attention to the hip-extension category, which the sport under-supplies | The pulls are fast and shallow-hipped |
+| Bodybuilding | Both categories, loaded, at the volumes in Part VII §F.1 | The seated curl and the Romanian deadlift are the two exercises |
+| Distance running | Moderate volume of both; the sport supplies neither | Running at submaximal speed does not load the terminal-swing position hard |
+| Cycling | Both categories; the sport supplies almost nothing | The knee never approaches extension under hamstring load |
+
+---
+
+### E.6 Session and cycle contexts
+
+| Context | What changes |
+|---|---|
+| Hamstrings first in the session | The default when they are the priority — put the hinge first, since it is the load-limited one |
+| Hamstrings after heavy squatting | Use the seated curl; the hinge shares the erectors with the squat and they are already spent |
+| Hamstrings in the same session as deadlifts | Treat the deadlift as the hinge slot and add only a curl (Part VII §C.5) |
+| Two sessions per week | Split by category: hinge in one, curl in the other, or both in each at half the sets |
+| Before a sprint or match day | Avoid heavy eccentric hamstring work in the 48 hours before; it is the muscle group most likely to be sore and the sport is the higher-risk exposure |
+| Late in a training block | Hinge depth and knee angle degrade first — audit them on video |
+| [Deload](#deload) week | Hold range and position, reduce sets and load |
+| Returning from a layoff | Rebuild eccentric control before load (Part VII §C.3) |
+| In a caloric deficit | Hold [hard sets](#hardset) and range; accept slower progression |
+
+---
+
+### E.7 The context decision table
+
+| If this is true | Then |
+|---|---|
+| You felt a sudden painful pull at the back of the thigh | Stop here. Part VII §E.4, and get assessed |
+| You have pain or numbness radiating below the knee | Stop here. Part VII §E.4 |
+| You have had a hamstring strain before | This is the highest-value place in this document to train. Both categories plus the Nordic (Part VII §E.4) |
+| You train legs with squats and presses only | You have no hamstring training (Part VII §D.3) |
+| You only do leg curls | Add a hinge. It grows the head that tears (Part VII §A.8) |
+| You only do Romanian deadlifts | Add a curl. Nothing else reaches the biceps femoris short head (Part VII §B.4) |
+| Your leg curl machine is prone and a seated one exists | Use the seated one. +14% against +9% (Maeo et al., 2021) |
+| Your lower back ends every hinge | Move volume to the seated curl and the 45° back extension (Part VII §C.5) |
+| None of the above | You are on the default. Progress it (Part VII §F.5) |
+
+---
+
+## partviifprogramming
+
+**PART F — Programming**
+
+The general dose–response evidence lives in `strength-and-body-composition.md`. **This is the one Part
+where the exercise-selection evidence is stronger than the volume evidence**, so the tables below
+prescribe *what* with more confidence than *how much*.
+
+### F.1 Volume
+
+Counted as hard sets per week that load each category directly.
+
+| Training age | Hip-extension | Knee-flexion | Note |
+|---|---|---|---|
+| Beginner | 4–8 | 4–8 | Two exercises is enough |
+| Intermediate | 6–12 | 6–12 | The productive middle for most people |
+| Advanced | 8–16 | 8–16 | Lower-back recovery limits the hinge column, not the muscle |
+| Maintenance or deficit | 3–4 | 3–4 | Hold load and range, cut sets |
+
+**These bands are transferred from the general dose–response literature and are not derived from
+hamstring data.** No study has compared weekly set counts against hamstring hypertrophy. For scale, the
+trials this Part rests on ran at **two sessions a week for 12 weeks** with five sets per session
+(Maeo et al., 2021), **34 sessions over 12 weeks** (Maeo et al., 2024) and **10 weeks** of twice-weekly
+training (Bourne et al., 2017a) — all modest by the bands above, and all producing 9–19% growth.
+
+**Three counting rules specific to this group:**
+
+- **The two columns do not substitute for each other.** They grow different muscles, and this is measured rather than assumed (Part VII §B.4).
+- **A squat or leg press set counts toward neither** (Part VII §D.3).
+- **A hinge set counts as one only if the hamstrings ended it.** If the lower back did, the set trained the erectors and should be recounted or the exercise changed (Part VII §C.5).
+
+**The gluteal and spinal overlap, stated plainly.** Every exercise in Part VII §D.1 also appears in
+Part IV §D.2 and, for the back extension, Part VI §D.5. Count the set in each column and set the
+**total** posterior-chain volume against your recovery rather than summing the columns.
+
+---
+
+### F.2 Frequency
+
+**2×/week is the default.** Maeo et al. (2021) and Bourne et al. (2017a) both used it; Maeo et al. (2024) ran **34 sessions in 12 weeks**, nearer three. 1×/week works at low volumes.
+3×/week is useful at higher volumes and works best when the sessions differ by **category** rather than
+repeating one — the curl slot recovers faster, because it loads no spine and no grip.
+
+**One hamstring-specific caution.** Heavy eccentric work in this group produces more delayed soreness
+than anywhere else in this document, and the muscle is the one most likely to be injured in sport. Do
+not schedule it within 48 hours of maximal running.
+
+---
+
+### F.3 Load and rep range
+
+The general finding is in Part II §F.3: roughly 5–30 repetitions produces similar hypertrophy if sets
+are taken close to failure. Two considerations narrow the band here:
+
+- **The hinge is limited by the lower back above ~12 repetitions**, not by the hamstrings.
+- **The eccentric is where the demand naturally sits** (Part VII §B.3), which is an argument for controlling the lowering phase rather than for a special protocol. The trials that produced 14–19% growth used weight-stack machines rather than exotic apparatus — but not off-the-shelf ones: Maeo et al. (2024) fixed the hip at 120° on a modified seated leg curl and trained the eccentric phase only (Part VII §D.2).
+
+| Slot | Reps | Note |
+|---|---|---|
+| Romanian deadlift and hinges | 6–12 | Above this the lower back ends the set |
+| 45° back extension, loaded | 8–20 | No axial load; take it closer to failure |
+| Seated leg curl | 8–15 | The trial that grew it most used 10 reps at 70% 1RM, five sets |
+| Nordic | 3–8 | Reps are not the variable; the length of the controlled descent is |
+| Single-leg hinges | 8–12 each side | Balance degrades before the muscle |
+
+**[Tempo](#tempo) matters here for a reason it does not elsewhere:** a fast lowering phase in a hinge or
+a curl skips the part of the range the exercise exists to load, and it does so in the position where
+this muscle tears.
+
+---
+
+### F.4 Proximity to failure
+
+The general finding is in Part II §F.4 and holds. There is **no hamstring-specific test of proximity to
+failure** [consensus — no single source].
+
+| Exercise type | Target RIR |
+|---|---|
+| Seated or prone leg curl | 0–2 |
+| Loaded 45° back extension | 0–2 |
+| Romanian deadlift and stiff-leg deadlift | 2–3; the lower back's fatigue is not a useful currency |
+| Good morning | 2–4 |
+| Nordic | Position, not RIR — the set ends when the descent stops being controlled |
+| Single-leg hinges | 1–3; balance goes first |
+
+**The hamstring-specific rule that overrides the table:** if the next repetition would be shallower at
+the hip, or would round the lower back, the set is over. Range is the stimulus (Part VII §B.2), and a
+shorter repetition is a different exercise rather than a harder one.
+
+---
+
+### F.5 Progression
+
+```
+HAMSTRING PROGRESSION - DEFAULT
+  Load          2.5-5 kg increment, Romanian deadlift
+                One plate, seated leg curl
+                2.5 kg increment, loaded back extension
+                Nordic: lean further before breaking, then add load
+  Tempo         2-3 s lowering / 1-2 s lifting, held constant
+  Sets/reps     3-4 x 6-12 hinge | 3-4 x 8-15 curl
+  Rest          2-3 min hinge / 1.5-2 min curl
+  Total         6-12 hip-extension and 6-12 knee-flexion hard sets per week
+  Frequency     2x/week
+  Timeline      10-12 wks to measurable change; 6-12 months to visible change
+```
+
+**Two rules different from other Parts.**
+
+**Hinge depth and knee angle are both held fixed while load progresses.** A Romanian deadlift whose
+knees straighten a little each week is a set of different exercises with a rising hamstring share
+recorded as one exercise getting heavier — the same failure as Part IV §F.5, and here it also changes
+which muscle you are training.
+
+**The Nordic progresses by leverage, not by repetitions.** Adding reps to a descent you cannot control
+trains nothing; leaning further before the break does.
+
+---
+
+### F.6 Session templates
+
+```
+TEMPLATE A - TWO SESSIONS, INTERMEDIATE, 17 SETS/WEEK
+  Session 1     Romanian deadlift       4 x 6-10   @ 2-3 RIR
+                Seated leg curl         4 x 10-15  @ 0-1 RIR
+  Session 2     45 deg back extension   3 x 12-20  @ 0-2 RIR
+                Seated leg curl         4 x 10-15  @ 0-1 RIR
+                Nordic curl             2 x 4-6    position-limited
+```
+
+```
+TEMPLATE B - ONE SESSION, TIME-LIMITED, ~8 SETS/WEEK
+  Session 1     Romanian deadlift       4 x 6-10   @ 2-3 RIR
+                Seated leg curl         4 x 10-15  @ 0-1 RIR
+```
+
+```
+TEMPLATE C - LOWER BACK IS THE LIMITER, ~18 SETS/WEEK
+  Session 1     Seated leg curl         4 x 10-15  @ 0-1 RIR
+                45 deg back extension   4 x 12-20  @ 0-2 RIR
+  Session 2     Seated leg curl         4 x 10-15  @ 0-1 RIR
+                Single-leg RDL          3 x 8-12   each side @ 2 RIR
+                Nordic curl             3 x 4-6    position-limited
+```
+
+```
+TEMPLATE D - INJURY PREVENTION PRIORITISED (field sport, in season)
+  Session 1     Nordic curl             3 x 5      progressive lean
+                Romanian deadlift       3 x 8-10   @ 2-3 RIR
+  Session 2     Nordic curl             3 x 5
+                Seated leg curl         3 x 10-15  @ 1-2 RIR
+                (never within 48 h of maximal running - section F.2)
+```
+
+```
+TEMPLATE E - HOME, NO EQUIPMENT, ~16 SETS/WEEK
+  Session 1     Nordic curl             4 x 4-6    position-limited
+                Single-leg RDL, pack    4 x 10-15  each side
+  Session 2     Sliding leg curl        4 x 8-12
+                Single-leg RDL, pack    4 x 10-15  each side
+```
+
+---
+
+### F.7 Timeline, measurement and expectations
+
+| Horizon | What to expect |
+|---|---|
+| Weeks 1–3 | Strength and eccentric control rise quickly; size does not change. Expect soreness after the first eccentric sessions |
+| Weeks 4–5 | **Fascicle length has already changed** — biceps femoris fascicles were measurably longer at five weeks in both training groups (d = 1.12–1.39) (Bourne et al., 2017a) |
+| Weeks 10–12 | The window every trial in this Part detected its effect in. Whole-hamstring volume by MRI rose **+9%** on prone and **+14%** on seated leg curls over twelve weeks (Maeo et al., 2021); biceps femoris long head volume rose **+5%** on the Nordic and **+19%** on lengthened-state eccentrics over the same span (Maeo et al., 2024) |
+| Months 6–12 | Category coverage becomes visible as a shape difference; the untrained category stays untrained |
+| Years | Diminishing returns, and the injury-risk benefit is maintained only while the training is (Part VII §E.4) |
+
+**How to measure, and what not to trust.**
+
+- **Thigh circumference is not a hamstring measurement.** It captures the quadriceps and the adductors at the same time.
+- **Ultrasound fascicle length is a real measurement and a noisy one** (Part VII §B.7): two-dimensional probes are shorter than the fascicle, so the value is extrapolated, and between-operator variability is substantial. Useful as a trend under one operator; not a number to act on from a single scan.
+- **The general ultrasound-thickness caveat applies** — thickness change correlated poorly with MRI in the quadriceps and underestimated growth (Balshaw et al., 2026), and no hamstring-specific validation exists.
+- **What you can actually track is load at a fixed depth and a fixed knee angle**, in both categories.
+
+**The honest expectation.** This is the muscle group with the best-characterized growth numbers in the
+document — **9–19% in ten to twelve weeks**, by MRI, in three separate trials — and the reason those
+numbers exist is that the hamstring literature is funded by an injury problem rather than by an
+aesthetic one.
+
+---
+
+## partviigsynthesis
+
+**PART G — Synthesis**
+
+### G.1 The rules that hold
+
+1. **Four muscles, architecturally opposite.** Semimembranosus 18.4 cm² on 6.9 cm fibres; semitendinosus 4.8 cm² on 19.3 cm fibres (Ward et al., 2009a). One is a Part III muscle and one is a Part II muscle, two centimetres apart.
+2. **Three cross the hip and the knee; the biceps femoris short head crosses only the knee.** That single fact decides exercise selection.
+3. **Hip-extension exercises grow the long hamstrings. The matching claim for the semitendinosus was tested twice and failed twice.** Predicted from EMG and functional MRI (Bourne et al., 2017b); the biceps femoris long head and semimembranosus halves held under MRI (Bourne et al., 2017a), the semitendinosus half did not (p = 0.239, and p = 0.072 on replication). **This is the document's one case of an activation prediction being tested and partly holding — and the part that held is the part anatomy already required.**
+4. **Hip angle changes which head grows inside a single exercise.** Seated beat prone leg curl **+14% to +9%**, entirely in the muscles that cross the hip, with no difference in the one that does not (Maeo et al., 2021).
+5. **A squat is not a hamstring exercise.** The hip and knee flex together and the two length changes partly cancel: about 3–6 cm at the biceps femoris long head against a hinge's ~9 cm, and a ten-week squat programme grew the hamstrings not at all by MRI (Kubo et al., 2019).
+6. **The productive position and the injury position are the same position** — hip flexed, knee extending — which is true of no other muscle group in this document (Part VII §B.6). **That is a reason for control, not for enthusiasm:** it is also the position of the "stretching-type" injury, which takes about twice as long to return from as the sprinting type (Askling et al., 2013). Load it deliberately and under control; do not chase depth in it.
+7. **Fascicle length is a trainable outcome, and a short one predicts injury.** Fascicles under 10.56 cm raised injury risk more than fourfold in 152 elite footballers (Timmins et al., 2016); training lengthens them within five weeks (Bourne et al., 2017a).
+8. **The Nordic is a prevention exercise, not a growth exercise.** It roughly halves hamstring injuries (van Dyk et al., 2019) and grew the biceps femoris long head +5% against +19% for a loadable alternative (Maeo et al., 2024).
+9. **Prefer the version you can load.** A weight stack beats a body weight, and that is the clearest single lesson of the comparison trials.
+10. **A complete prescription is two exercises** — one hip-extension, one knee-flexion with the hip flexed (Part VII §D.4).
+
+---
+
+### G.2 What the evidence does **not** support
+
+| Claim | Status |
+|---|---|
+| "Squats and lunges train your hamstrings" | **Not supported.** The length change largely cancels and the activity is co-contraction — and ten weeks of squat training, with hamstring volume measured by MRI, produced none (Kubo et al., 2019) |
+| "The Nordic is the best hamstring exercise" | **Not supported** for hypertrophy. It grew the biceps femoris long head +5% against a loadable alternative's +19% (Maeo et al., 2024). It **is** the best-evidenced exercise for injury prevention in this document |
+| "Leg curls are a waste of time" | **Not supported.** They are the only category that reaches the biceps femoris short head, and the seated version produced +14% whole-hamstring growth in twelve weeks (Maeo et al., 2021) |
+| "Prone and seated leg curls are the same exercise" | **Not supported.** Same movement, different muscle length, and a measured 5-percentage-point difference in growth (Maeo et al., 2021) |
+| "Hip thrusts train the hamstrings" | **Not supported.** The knee is held bent, which shortens them — that is precisely why the exercise is gluteal (Part IV §B.5) |
+| "Stretching prevents hamstring injuries" | **Evidence remains limited and inconsistent.** The prevention evidence is for eccentric strengthening (van Dyk et al., 2019), and the rehabilitation trial used lengthening exercises **under load** (Askling et al., 2013), which is not stretching |
+| "You can target the inner or outer hamstring by pointing your toes" | **Not supported.** Tibial rotation is a real but small action, and nothing has measured it as a growth variable |
+| "Deadlifts are all the hamstring work you need" | **Not supported.** They are hip-extension-oriented at best, cover one category, and no trial has measured hamstring hypertrophy from any variant |
+| "Eccentric training requires a special protocol" | **Partly supported, against this Part's first instinct.** The largest growth came from a weight stack rather than exotic apparatus — but on a *modified* machine holding the hip at 120°, training the eccentric phase only (Maeo et al., 2024). A seated leg curl with a controlled lowering phase is the approximation, not the equivalent |
+| "Hamstring flexibility is the goal" | **Not supported** as a training target. Extensibility bounds hinge depth; it is not what the prevention or hypertrophy evidence acts on |
+
+**Four open questions this document cannot close.** **No trial has compared hip-extension exercises
+against each other** — Romanian deadlift versus back extension versus single-leg hinge — so Part VII §D.1
+ranks them by mechanics and convenience rather than by outcome. **Nobody has put regional activation and
+regional growth in the same study**: both have now been mapped along the biceps femoris long head
+(Part VII §A.5, Part VII §B.11), and never together. **Nobody has tested whether the head-selectivity in
+Part VII §B.4 changes injury rates**, which is the question the whole field exists to answer. And **the
+hypertrophy evidence is male-weighted** — two of the three trials recruited only men — which is a
+limitation of the evidence rather than of the muscle. All four are answerable with existing methods.
+
+**And one question this Part answered against itself.** Whether knee-flexion exercise preferentially
+grows the semitendinosus was a real, published, falsifiable prediction. It was tested twice and failed
+twice (Part VII §B.4). That is what the evidence base looks like when it is working.
+
+---
+
+### G.3 The one-paragraph version
+
+The hamstrings are four muscles that disagree with each other: one is short-fibred and strong, one is
+long-fibred and weak, and three of the four cross both the hip and the knee while the fourth crosses
+only the knee. That last detail decides everything, because it means **which joint you move decides
+which muscle grows** — and unlike anywhere else in this document, that has been predicted from
+activation and then confirmed by scanning people before and after. So do two things, not one: a hinge,
+where the hip moves and the knee stays nearly straight, which grows the biceps femoris long head — the
+muscle that tears; and a leg curl, which is the only way to reach the head that does not cross the hip.
+Do the curl **seated**, because flexing the hip lengthens the three muscles that cross it and buys five
+percentage points of growth for nothing. Do not count squats: the hip and knee shorten and lengthen the
+muscle at the same time and partly cancel, so a deep squat lengthens it by three to six centimetres
+while a Romanian deadlift lengthens it by about nine — and ten weeks of squatting grew it nothing at
+all when someone finally scanned it. Load both, twice a week, six to
+twelve hard sets each, controlling the lowering phase — which is where this muscle works in life and
+where it tears. And if you have pulled one before, this is the highest-value place in this document to
+train: the Nordic curl roughly halves hamstring injuries across more than eight thousand athletes, even
+though it is not the exercise that grows them most.
+
+---
+
+# partviiimasterglossary
+
+**Part VIII — Master Glossary**
 
 Every technical term used anywhere in this document, defined formally with formula and units where
 the quantity is physically or operationally defined.
@@ -8707,70 +10142,73 @@ plain same-file heading anchor.
 |---|---|---|---|
 | [1RM (one-repetition maximum)](#onerepmax) | 10 | [Multifidus](#multifidus) | 9 |
 | [45° back extension (hip extension)](#backextension) | 12 | [Muscle thickness](#musclethickness) | 5 |
-| [Ab wheel](#abwheel) | 13 | [Muscle volume](#musclevolume) | 5 |
+| [Ab wheel](#abwheel) | 12 | [Muscle volume](#musclevolume) | 5 |
 | [Abdominal wall](#abdominalwall) | 9 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
 | [ACL reconstruction](#aclreconstruction) | 13 | [Net joint moment](#netjointmoment) | 11 |
 | [Acromion](#acromion) | 3 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
-| [Adductor magnus](#adductormagnus) | 8 | [Open kinetic chain exercise](#openkineticchain) | 11 |
-| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Overhead press (shoulder press, military press)](#overheadpress) | 13 |
-| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Painful arc](#painfularc) | 12 |
-| [Anterior deltoid](#anteriordeltoid) | 9 | [Pallof press](#pallofpress) | 13 |
-| [Aponeurosis](#aponeurosis) | 3 | [Passive tension](#passivetension) | 5 |
-| [Apophysis](#apophysis) | 3 | [Patella (kneecap)](#patella) | 3 |
-| [Attentional focus](#attentionalfocus) | 10 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
-| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
-| [Axillary nerve](#axillarynerve) | 9 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
-| [Back squat](#backsquat) | 12 | [Patellofemoral pain](#patellofemoralpain) | 13 |
-| [Bar position](#barposition) | 11 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
-| [Barbell glute bridge](#glutebridge) | 12 | [Pectoralis major](#pectoralismajor) | 9 |
-| [Barbell hip thrust](#hipthrust) | 12 | [Pelvic floor](#pelvicfloor) | 9 |
-| [Bayes factor (BF)](#bayesfactor) | 9 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
-| [Belt squat](#beltsquat) | 12 | [Pelvis](#pelvis) | 3 |
-| [Bench press](#benchpress) | 13 | [Pennation angle](#pennationangle) | 5 |
-| [Biacromial width](#biacromialwidth) | 3 | [Plane of elevation](#planeofelevation) | 4 |
-| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Plank](#plank) | 13 |
-| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Posterior deltoid](#posteriordeltoid) | 9 |
-| [Cable crunch](#cablecrunch) | 13 | [Posterior oblique sling](#posteriorobliquesling) | 8 |
-| [Cable or machine kickback (standing hip extension)](#kickback) | 12 | [Progressive overload](#progressiveoverload) | 10 |
-| [Cable pull-through](#cablepullthrough) | 12 | [Pronated (overhand) grip](#pronatedgrip) | 11 |
-| [Chin-up](#chinup) | 12 | [Proximity to failure](#proximitytofailure) | 10 |
-| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Psoas major](#psoasmajor) | 9 |
-| [Clavicle (collarbone)](#clavicle) | 3 | [Pull-up](#pullup) | 12 |
-| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Pullover](#pullover) | 12 |
-| [Compound exercise](#compound) | 11 | [Quadratus lumborum](#quadratuslumborum) | 9 |
-| [Concentric contraction](#concentriccontraction) | 6 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
-| [Contralateral](#contralateral) | 1 | [Quadriceps tendon](#quadricepstendon) | 3 |
-| [Crunch](#crunch) | 13 | [Range of motion (ROM)](#rangeofmotion) | 4 |
-| [Deadlift](#deadlift) | 12 | [Rectus abdominis](#rectusabdominis) | 9 |
-| [Deep hip external rotators](#hipexternalrotators) | 8 | [Rectus femoris](#rectusfemoris) | 8 |
-| [Deload](#deload) | 10 | [Rectus sheath](#rectussheath) | 3 |
-| [Deltoid](#deltoid) | 9 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
-| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Repetition (rep)](#repetition) | 10 |
-| [Diaphragm](#diaphragm) | 9 | [Resistance profile](#resistanceprofile) | 11 |
-| [Diastasis recti](#diastasisrecti) | 13 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 13 |
-| [Dose–response relationship](#doseresponserelationship) | 10 | [Reverse hyperextension](#reversehyperextension) | 12 |
-| [Double progression](#doubleprogression) | 10 | [Reverse Nordic curl](#reversenordic) | 12 |
-| [Eccentric contraction](#eccentriccontraction) | 6 | [RIR (repetitions in reserve)](#rir) | 10 |
-| [Effect size](#effectsize) | 9 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
-| [Effort tolerance](#efforttolerance) | 10 | [Rotator cuff](#rotatorcuff) | 9 |
-| [Elbow flexors](#elbowflexors) | 8 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
-| [Elbow path](#elbowpath) | 11 | [Row](#row) | 12 |
-| [EMG (electromyography)](#emg) | 9 | [RPE (rating of perceived exertion)](#rpe) | 10 |
-| [Erector spinae](#erectorspinae) | 8 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
-| [Excursion](#excursion) | 4 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
-| [External oblique](#externaloblique) | 9 | [Sacrum](#sacrum) | 3 |
-| [Face pull](#facepull) | 13 | [Sagittal plane](#sagittalplane) | 1 |
-| [Fascicle length](#fasciclelength) | 5 | [Sarcomere](#sarcomere) | 5 |
-| [Femoral nerve](#femoralnerve) | 8 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
-| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Scapula (shoulder blade)](#scapula) | 3 |
-| [Femur (thigh bone)](#femur) | 3 | [Scapular depression](#scapulardepression) | 4 |
-| [Flexion relaxation](#flexionrelaxation) | 11 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
-| [Force–length relationship](#forcelengthrelationship) | 5 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
-| [Front raise](#frontraise) | 13 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
-| [Front squat](#frontsquat) | 12 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
-| [Frontal (coronal) plane](#frontalplane) | 1 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
-| [Gastrocnemius](#gastrocnemius) | 8 | [Serratus anterior](#serratusanterior) | 8 |
-| [Glenohumeral joint](#glenohumeraljoint) | 3 | [Sesamoid bone](#sesamoid) | 3 |
+| [Adductor magnus](#adductormagnus) | 8 | [Nordic hamstring curl](#nordiccurl) | 12 |
+| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Open kinetic chain exercise](#openkineticchain) | 11 |
+| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Overhead press (shoulder press, military press)](#overheadpress) | 12 |
+| [Anterior deltoid](#anteriordeltoid) | 9 | [Painful arc](#painfularc) | 13 |
+| [Aponeurosis](#aponeurosis) | 3 | [Pallof press](#pallofpress) | 12 |
+| [Apophysis](#apophysis) | 3 | [Passive tension](#passivetension) | 5 |
+| [Attentional focus](#attentionalfocus) | 10 | [Patella (kneecap)](#patella) | 3 |
+| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
+| [Axillary nerve](#axillarynerve) | 9 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
+| [Back squat](#backsquat) | 12 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
+| [Bar position](#barposition) | 11 | [Patellofemoral pain](#patellofemoralpain) | 13 |
+| [Barbell glute bridge](#glutebridge) | 12 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
+| [Barbell hip thrust](#hipthrust) | 12 | [Pectoralis major](#pectoralismajor) | 9 |
+| [Bayes factor (BF)](#bayesfactor) | 9 | [Pelvic floor](#pelvicfloor) | 9 |
+| [Belt squat](#beltsquat) | 12 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
+| [Bench press](#benchpress) | 12 | [Pelvis](#pelvis) | 3 |
+| [Biacromial width](#biacromialwidth) | 3 | [Pennation angle](#pennationangle) | 5 |
+| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Plane of elevation](#planeofelevation) | 4 |
+| [Biceps femoris, long head (BFlh)](#bicepsfemorislonghead) | 8 | [Plank](#plank) | 12 |
+| [Biceps femoris, short head (BFsh)](#bicepsfemorisshorthead) | 8 | [Posterior deltoid](#posteriordeltoid) | 9 |
+| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Posterior oblique sling](#posteriorobliquesling) | 8 |
+| [Cable crunch](#cablecrunch) | 12 | [Progressive overload](#progressiveoverload) | 10 |
+| [Cable or machine kickback (standing hip extension)](#kickback) | 12 | [Pronated (overhand) grip](#pronatedgrip) | 11 |
+| [Cable pull-through](#cablepullthrough) | 12 | [Proximity to failure](#proximitytofailure) | 10 |
+| [Chin-up](#chinup) | 12 | [Psoas major](#psoasmajor) | 9 |
+| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Pull-up](#pullup) | 12 |
+| [Clavicle (collarbone)](#clavicle) | 3 | [Pullover](#pullover) | 12 |
+| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Quadratus lumborum](#quadratuslumborum) | 9 |
+| [Compound exercise](#compound) | 11 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
+| [Concentric contraction](#concentriccontraction) | 6 | [Quadriceps tendon](#quadricepstendon) | 3 |
+| [Contralateral](#contralateral) | 1 | [Range of motion (ROM)](#rangeofmotion) | 4 |
+| [Crunch](#crunch) | 12 | [Rectus abdominis](#rectusabdominis) | 9 |
+| [Deadlift](#deadlift) | 12 | [Rectus femoris](#rectusfemoris) | 8 |
+| [Deep hip external rotators](#hipexternalrotators) | 8 | [Rectus sheath](#rectussheath) | 3 |
+| [Deload](#deload) | 10 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
+| [Deltoid](#deltoid) | 9 | [Repetition (rep)](#repetition) | 10 |
+| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Resistance profile](#resistanceprofile) | 11 |
+| [Diaphragm](#diaphragm) | 9 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 12 |
+| [Diastasis recti](#diastasisrecti) | 13 | [Reverse hyperextension](#reversehyperextension) | 12 |
+| [Dose–response relationship](#doseresponserelationship) | 10 | [Reverse Nordic curl](#reversenordic) | 12 |
+| [Double progression](#doubleprogression) | 10 | [RIR (repetitions in reserve)](#rir) | 10 |
+| [Eccentric contraction](#eccentriccontraction) | 6 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
+| [Effect size](#effectsize) | 9 | [Rotator cuff](#rotatorcuff) | 9 |
+| [Effort tolerance](#efforttolerance) | 10 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
+| [Elbow flexors](#elbowflexors) | 8 | [Row](#row) | 12 |
+| [Elbow path](#elbowpath) | 11 | [RPE (rating of perceived exertion)](#rpe) | 10 |
+| [EMG (electromyography)](#emg) | 9 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
+| [Erector spinae](#erectorspinae) | 8 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
+| [Excursion](#excursion) | 4 | [Sacrum](#sacrum) | 3 |
+| [External oblique](#externaloblique) | 9 | [Sagittal plane](#sagittalplane) | 1 |
+| [Face pull](#facepull) | 12 | [Sarcomere](#sarcomere) | 5 |
+| [Fascicle length](#fasciclelength) | 5 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
+| [Femoral nerve](#femoralnerve) | 8 | [Scapula (shoulder blade)](#scapula) | 3 |
+| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Scapular depression](#scapulardepression) | 4 |
+| [Femur (thigh bone)](#femur) | 3 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
+| [Flexion relaxation](#flexionrelaxation) | 11 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
+| [Force–length relationship](#forcelengthrelationship) | 5 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
+| [Front raise](#frontraise) | 12 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
+| [Front squat](#frontsquat) | 12 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
+| [Frontal (coronal) plane](#frontalplane) | 1 | [Semimembranosus (SM)](#semimembranosus) | 8 |
+| [Gastrocnemius](#gastrocnemius) | 8 | [Semitendinosus (ST)](#semitendinosus) | 8 |
+| [Glenohumeral joint](#glenohumeraljoint) | 3 | [Serratus anterior](#serratusanterior) | 8 |
+| [Glute-ham raise (GHR)](#glutehamraise) | 12 | [Sesamoid bone](#sesamoid) | 3 |
 | [Gluteal tendinopathy (greater trochanteric pain syndrome)](#glutealtendinopathy) | 13 | [Set](#set) | 10 |
 | [Gluteus maximus](#gluteusmaximus) | 8 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
 | [Gluteus medius](#gluteusmedius) | 8 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
@@ -8780,11 +10218,11 @@ plain same-file heading anchor.
 | [Grip width](#gripwidth) | 11 | [Shoulder external (lateral) rotation](#shoulderexternalrotation) | 4 |
 | [Hack squat](#hacksquat) | 12 | [Shoulder flexion](#shoulderflexion) | 4 |
 | [Hamstrings](#hamstrings) | 8 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
-| [Hanging knee raise](#hangingkneeraise) | 13 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
+| [Hanging knee raise](#hangingkneeraise) | 12 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
 | [Hard set](#hardset) | 10 | [Shoulder instability](#shoulderinstability) | 13 |
-| [Hip abduction](#hipabduction) | 4 | [Side plank](#sideplank) | 13 |
+| [Hip abduction](#hipabduction) | 4 | [Side plank](#sideplank) | 12 |
 | [Hip adduction](#hipadduction) | 4 | [Sissy squat](#sissysquat) | 12 |
-| [Hip adductors](#hipadductors) | 8 | [Sit-up](#situp) | 13 |
+| [Hip adductors](#hipadductors) | 8 | [Sit-up](#situp) | 12 |
 | [Hip extension](#hipextension) | 4 | [Size principle](#sizeprinciple) | 6 |
 | [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Smith machine squat](#smithmachinesquat) | 12 |
 | [Hip flexion](#hipflexion) | 4 | [Specific tension](#specifictension) | 5 |
@@ -8796,7 +10234,7 @@ plain same-file heading anchor.
 | [Humeral elevation](#humeralelevation) | 4 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
 | [Humerus (upper arm bone)](#humerus) | 3 | [Subacromial impingement](#impingement) | 13 |
 | [Hypertrophy](#hypertrophy) | 7 | [Subacromial space](#subacromialspace) | 3 |
-| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [Suitcase carry](#suitcasecarry) | 13 |
+| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [Suitcase carry](#suitcasecarry) | 12 |
 | [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
 | [Internal (medial) rotation](#internalrotation) | 4 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
 | [Internal oblique](#internaloblique) | 9 | [Supraspinatus](#supraspinatus) | 9 |
@@ -8810,26 +10248,27 @@ plain same-file heading anchor.
 | [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
 | [Knee travel](#kneetravel) | 11 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
 | [Lat pulldown](#latpulldown) | 12 | [Tibia (shin bone)](#tibia) | 3 |
-| [Lateral raise](#lateralraise) | 13 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
+| [Lateral raise](#lateralraise) | 12 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
 | [Latissimus dorsi](#latissimusdorsi) | 8 | [Torque (moment)](#torque) | 2 |
-| [Leg extension](#legextension) | 12 | [Torso inclination](#torsoinclination) | 11 |
-| [Leg press](#legpress) | 12 | [Training frequency](#trainingfrequency) | 10 |
-| [Lengthened partials](#lengthenedpartials) | 7 | [Training volume](#trainingvolume) | 10 |
-| [Lengthened position](#lengthenedposition) | 7 | [Transverse (horizontal) plane](#transverseplane) | 1 |
-| [Limiting link](#limitinglink) | 10 | [Transversus abdominis](#transversusabdominis) | 9 |
-| [Line of action](#lineofaction) | 2 | [Trapezius](#trapezius) | 9 |
-| [Linea alba](#lineaalba) | 3 | [Triceps brachii](#tricepsbrachii) | 9 |
-| [Load](#load) | 10 | [Trunk extension](#trunkextension) | 5 |
-| [Lumbar compression](#lumbarcompression) | 11 | [Trunk flexion](#trunkflexion) | 5 |
-| [Lumbopelvic rhythm](#lumbopelvicrhythm) | 4 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
-| [Lunge](#lunge) | 12 | [Trunk rotation](#trunkrotation) | 5 |
-| [Mechanical tension](#mechanicaltension) | 6 | [Upright row](#uprightrow) | 13 |
-| [Mechanotransduction](#mechanotransduction) | 6 | [Vastus intermedius](#vastusintermedius) | 8 |
-| [Middle deltoid](#middledeltoid) | 9 | [Vastus lateralis](#vastuslateralis) | 8 |
-| [Moment arm](#momentarm) | 2 | [Vastus medialis](#vastusmedialis) | 8 |
-| [Momentary (muscular) failure](#momentaryfailure) | 10 | [Vertical pull](#verticalpull) | 11 |
-| [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 | [Volume load](#volumeload) | 10 |
-| [Motor unit](#motorunit) | 6 | [Woodchop](#woodchop) | 13 |
+| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Torso inclination](#torsoinclination) | 11 |
+| [Leg extension](#legextension) | 12 | [Training frequency](#trainingfrequency) | 10 |
+| [Leg press](#legpress) | 12 | [Training volume](#trainingvolume) | 10 |
+| [Lengthened partials](#lengthenedpartials) | 7 | [Transverse (horizontal) plane](#transverseplane) | 1 |
+| [Lengthened position](#lengthenedposition) | 7 | [Transversus abdominis](#transversusabdominis) | 9 |
+| [Limiting link](#limitinglink) | 10 | [Trapezius](#trapezius) | 9 |
+| [Line of action](#lineofaction) | 2 | [Triceps brachii](#tricepsbrachii) | 9 |
+| [Linea alba](#lineaalba) | 3 | [Trunk extension](#trunkextension) | 5 |
+| [Load](#load) | 10 | [Trunk flexion](#trunkflexion) | 5 |
+| [Lumbar compression](#lumbarcompression) | 11 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
+| [Lumbopelvic rhythm](#lumbopelvicrhythm) | 4 | [Trunk rotation](#trunkrotation) | 5 |
+| [Lunge](#lunge) | 12 | [Upright row](#uprightrow) | 12 |
+| [Mechanical tension](#mechanicaltension) | 6 | [Vastus intermedius](#vastusintermedius) | 8 |
+| [Mechanotransduction](#mechanotransduction) | 6 | [Vastus lateralis](#vastuslateralis) | 8 |
+| [Middle deltoid](#middledeltoid) | 9 | [Vastus medialis](#vastusmedialis) | 8 |
+| [Moment arm](#momentarm) | 2 | [Vertical pull](#verticalpull) | 11 |
+| [Momentary (muscular) failure](#momentaryfailure) | 10 | [Volume load](#volumeload) | 10 |
+| [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 | [Woodchop](#woodchop) | 12 |
+| [Motor unit](#motorunit) | 6 |  |  |
 
 ---
 
@@ -9577,11 +11016,35 @@ That combination — very long fascicles, very small PCSA — defines it as an *
 
 **Gluteus maximus** — The large muscle of the buttock, and the heaviest single muscle in the human body. Formally: the most superficial and largest gluteal muscle, arising from the posterior ilium of the [pelvis](#pelvis), the [sacrum](#sacrum), the coccyx, the [sacrotuberous ligament](#sacrotuberousligament) and the [thoracolumbar fascia](#thoracolumbarfascia), and inserting partly into the [iliotibial tract](#iliotibialtract) and partly into the gluteal tuberosity of the [femur](#femur), with the proportions **contested** (Part IV §A.5); supplied by the inferior gluteal nerve. Its principal action is [hip extension](#hipextension), with external rotation throughout, abduction by the fibres passing above the joint's axis, and adduction by those passing below it. Measured architecture: mass 547.2 ± 162.2 g, [fascicle length](#fasciclelength) 15.69 ± 2.57 cm, [PCSA](#pcsa) 33.4 ± 8.8 cm², and a fascicle-to-muscle-length ratio of 0.62 — the highest of any lower-limb muscle above 100 g (Ward et al., 2009a). That combination is what makes it unique in this document: it is built for force **and** for excursion, so unlike the latissimus dorsi and unlike the quadriceps femoris it needs load and range at the same time.
 
+## bicepsfemorislonghead
+
+*Anatomy & Structure*
+
+**Biceps femoris, long head (BFlh)** — The outer hamstring muscle that runs from the sitting bone to the outside of the knee, and the one that tears. Formally: a [biarticular](#biarticularmuscle) hamstring arising from the [ischial tuberosity](#ischialtuberosity) on a conjoint tendon shared with the semitendinosus and inserting on the head of the fibula, producing [hip extension](#hipextension), [knee flexion](#kneeflexion) and external rotation of the flexed knee; supplied by the tibial division of the sciatic nerve. Measured architecture: mass 113.4 ± 48.5 g, [fascicle length](#fasciclelength) 9.76 ± 2.62 cm, [pennation angle](#pennationangle) 11.6 ± 5.5°, [PCSA](#pcsa) 11.3 ± 4.8 cm² (Ward et al., 2009a). Its fibres attach along a long internal [aponeurosis](#aponeurosis), and it is the site of most acute hamstring strains (Part VII §A.8). Two properties make it the muscle this document watches: **short fascicles predict injury** — under 10.56 cm raised risk more than fourfold in 152 elite footballers (Timmins et al., 2016) — and **it responds selectively to how a hamstring exercise is set up**: hip-extension training grew it more than Nordic training did (d = 1.03) (Bourne et al., 2017a), and among knee-flexion exercises, training it at length grew it 19% against the Nordic's 5% (Maeo et al., 2024).
+
+## bicepsfemorisshorthead
+
+*Anatomy & Structure*
+
+**Biceps femoris, short head (BFsh)** — The one hamstring that does not reach the hip. Formally: a [monoarticular](#monoarticularmuscle) knee flexor arising from the lateral lip of the linea aspera on the [femur](#femur) and inserting with the long head on the fibular head, supplied by the **common fibular** division of the sciatic nerve rather than the tibial division. Measured architecture: mass 59.8 ± 22.6 g, [fascicle length](#fasciclelength) 11.03 ± 2.06 cm, [PCSA](#pcsa) 5.1 ± 1.7 cm² (Ward et al., 2009a) — notably **longer-fibred than the long head it is named with**. Because it crosses only the knee, no amount of [hip extension](#hipextension) work changes its length, and it is the reason a complete hamstring prescription needs a knee-flexion exercise (Part VII §B.4).
+
+## semitendinosus
+
+*Anatomy & Structure*
+
+**Semitendinosus (ST)** — The long, thin inner hamstring, and the most extreme excursion muscle in the lower limb. Formally: a [biarticular](#biarticularmuscle) hamstring arising from the [ischial tuberosity](#ischialtuberosity) on the conjoint tendon shared with the biceps femoris long head and inserting on the medial [tibia](#tibia) via the pes anserinus, producing [hip extension](#hipextension), [knee flexion](#kneeflexion) and internal rotation of the flexed knee. Measured architecture: mass 99.7 ± 37.8 g, [fascicle length](#fasciclelength) **19.30 ± 4.12 cm**, [PCSA](#pcsa) **4.8 ± 2.0 cm²**, fascicle-to-muscle-length ratio 0.65 (Ward et al., 2009a) — the **longest fascicles and the smallest PCSA** of the four, the exact mirror of the semimembranosus lying beside it. It is preferentially recruited by the Nordic curl and by knee-flexion exercise generally (Bourne et al., 2017b).
+
+## semimembranosus
+
+*Anatomy & Structure*
+
+**Semimembranosus (SM)** — The deep inner hamstring, and the strongest of the four. Formally: a [biarticular](#biarticularmuscle) hamstring arising from its own facet on the [ischial tuberosity](#ischialtuberosity), deep to the conjoint tendon, and inserting on the posterior medial tibial condyle, producing [hip extension](#hipextension), [knee flexion](#kneeflexion) and internal rotation of the flexed knee. Measured architecture: mass 134.3 ± 57.6 g, [fascicle length](#fasciclelength) **6.90 ± 1.83 cm**, [pennation angle](#pennationangle) 15.1 ± 3.4°, [PCSA](#pcsa) **18.4 ± 7.5 cm²**, fascicle-to-muscle-length ratio 0.24 (Ward et al., 2009a) — the **highest PCSA and shortest fascicles** of the four. It carries the highest peak force of any hamstring during sprinting (Schache et al., 2012), and it is the hamstring built like a [quadriceps](#quadricepsfemoris) head rather than like the [semitendinosus](#semitendinosus) two centimetres away from it.
+
 ## hamstrings
 
 *Anatomy & Structure*
 
-**Hamstrings** — The muscle group on the back of the thigh. Formally: biceps femoris, semitendinosus and semimembranosus; the long head of biceps femoris, semitendinosus and semimembranosus cross both the hip and the knee, producing [hip extension](#hipextension) and [knee flexion](#kneeflexion), while the short head of biceps femoris crosses the knee only and is excluded from every hip extensor calculation in Part IV §B.4. In a squat they act mainly as co-contractors stabilizing the knee rather than as movers, because hip extension lengthens them at the same rate knee extension shortens them — the mirror image of the [rectus femoris](#rectusfemoris) situation.
+**Hamstrings** — The muscle group on the back of the thigh. Formally: [biceps femoris long head](#bicepsfemorislonghead) and [short head](#bicepsfemorisshorthead), [semitendinosus](#semitendinosus) and [semimembranosus](#semimembranosus); all but the biceps femoris short head cross both the hip and the knee, producing [hip extension](#hipextension) and [knee flexion](#kneeflexion), and the short head is excluded from every hip extensor calculation in Part IV §B.4. **The group is architecturally incoherent**: [PCSA](#pcsa) spans 4.8 to 18.4 cm² and [fascicle length](#fasciclelength) 6.9 to 19.3 cm across the four, running in opposite directions, so the strongest is the shortest-fibred (Ward et al., 2009a). In a squat they act mainly as co-contractors stabilizing the knee rather than as movers, because the descent flexes both joints at once — hip flexion lengthening them at the top end while knee flexion shortens them at the bottom — and the two changes partly cancel. The cancellation is partial, not exact (Part VII §B.9). It is the mirror image of the [rectus femoris](#rectusfemoris) situation. Which of the four an exercise grows is set by which joint it moves, and that prediction has been confirmed by hypertrophy trials rather than merely inferred from activation (Part VII §B.4).
 
 ## hipadductors
 
@@ -10286,7 +11749,23 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Seated hip abduction machine** — A seated machine that resists pushing the knees apart. Formally: a loaded [hip abduction](#hipabduction) exercise performed with the hip flexed and the trunk supported, resisting at the distal thigh. It is the only abduction exercise with a load ceiling high enough to progress like any other lift, which is its entire justification; leaning the torso forward biases the posterior fibres of the [gluteus medius](#gluteusmedius), sitting upright biases the anterior fibres.
 
-> **LAYER 13 — Clinical.** Defined last because it presupposes the anatomy and the joint actions above.
+## legcurl
+
+*Exercises & Technique*
+
+**Leg curl (seated, prone or standing)** — Bending the knee against a machine's resistance pad. Formally: a single-joint [knee flexion](#kneeflexion) exercise loaded at the distal shank, classified by the **hip angle it holds**: seated (hip flexed ~90°), prone (hip near 0°) or standing (hip near 0°, one leg at a time). It is the only exercise category that loads the [biceps femoris short head](#bicepsfemorisshorthead), because it is the only one that moves the knee without also extending the hip. **The hip angle is not a comfort detail:** it sets the length of the three hamstrings that cross the hip, and seated curls produced greater whole-hamstring growth than prone curls in the same participants over twelve weeks — **+14% against +9%**, with the difference confined to the [biarticular](#biarticularmuscle) muscles and none at all in the monoarticular one (Maeo et al., 2021). Its [resistance profile](#resistanceprofile) is cam-dependent and machine-specific.
+
+## nordiccurl
+
+*Exercises & Technique*
+
+**Nordic hamstring curl** — Kneeling with the ankles held, lowering the torso forward under control with the hips straight. Formally: a body-weight [knee flexion](#kneeflexion) exercise performed almost entirely [eccentrically](#eccentriccontraction) with the hip near 0°, in which the resistance is body weight acting at a lever that lengthens as the torso descends, so demand rises through the range while capacity falls and the descent ends in an uncontrolled drop. **It is a rising-demand exercise rather than a lengthened-position one:** because the hip stays near 0°, its entire range lies between the shortest hamstring length available and roughly standing length, and it never reaches the lengths a hinge or a seated curl reaches. Two distinct results attach to it and are routinely confused. **For injury prevention it is the best-evidenced exercise in this document:** programmes including it halved hamstring injury rates across fifteen studies and 8,459 athletes, risk ratio **0.49** (95% CI 0.32–0.74) (van Dyk et al., 2019). **For hypertrophy it is beaten by loadable alternatives:** it produced +5% [biceps femoris long head](#bicepsfemorislonghead) growth against +19% for lengthened-state eccentric knee flexion over twelve weeks (Maeo et al., 2024), and less [BFlh](#bicepsfemorislonghead) volume than hip-extension exercise over ten (Bourne et al., 2017a). It progresses by leverage, not by repetitions.
+
+## glutehamraise
+
+*Exercises & Technique*
+
+**Glute-ham raise (GHR)** — Raising the torso on a glute-ham developer with the feet braced against a footplate. Formally: a knee-flexion-dominant posterior-chain exercise in which the torso is raised by **extending the hip and then flexing the knee** against an anchored footplate, so that [hip extension](#hipextension) torque and [knee flexion](#kneeflexion) torque are demanded in the same repetition rather than in separate exercises. That combination is its appeal and its limitation: it covers both hamstring categories imperfectly rather than either one well, because the hip does not travel far enough to load the hinge pattern and the knee action arrives after the hip has already finished (Part VII §D.2).
 
 ## lateralraise
 
@@ -10390,6 +11869,8 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Woodchop** — Pulling a cable diagonally across the body, high to low or low to high, turning the ribcage as you go. Formally: a loaded [trunk rotation](#trunkrotation) exercise with a mid-range-loaded [resistance profile](#resistanceprofile), pairing one side's [external oblique](#externaloblique) with the other side's [internal oblique](#internaloblique) — so a single set trains both layers on both sides across two repetitions. It is the only loaded, progressive, full-range rotation exercise in common use, which matters because the obliques are the trunk's rotators and the lumbar back muscles supply about 5% of its axial torque (Macintosh et al., 1993a). Its characteristic error is rotating with the arms around a still ribcage.
 
+> **LAYER 13 — Clinical.** Defined last because it presupposes the anatomy and the joint actions above.
+
 ## impingement
 
 *Pathology & Clinical*
@@ -10472,16 +11953,16 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 ---
 
-# partviiibibliography
+# partixbibliography
 
-**Part VIII — Bibliography**
+**Part IX — Bibliography**
 
-Every source cited in this document: **226 papers**, each with a DOI you can paste into a search box
+Every source cited in this document: **244 papers**, each with a DOI you can paste into a search box
 or a library request form — with two exceptions, noted at their entries, for which no DOI was ever
 issued and a PubMed or PubMed Central identifier is given instead. Alphabetical by first author, so an in-text citation like
 *(Gerling & Brown, 2013)* is found by scanning for **Gerling**.
 
-**100 are open access** — free to read now. **126 are paywalled**; any university or public library can
+**112 are open access** — free to read now. **132 are paywalled**; any university or public library can
 obtain those through interlibrary loan at no cost, usually in a few days, and authors may legally
 share their own accepted manuscripts if you email them. Every DOI below was verified against
 Crossref, and open-access status against Unpaywall, at the time of writing.
@@ -10493,7 +11974,7 @@ discussion, the text says so at the claim itself — that context matters more t
 marks claims that could not be traced to a source we could read; they are flagged rather than quietly
 dropped. **Twenty-two of these papers measured the latissimus dorsi directly, twenty-eight measured the
 quadriceps femoris directly, thirty-eight measured a gluteal muscle directly, twenty-one measured a
-deltoid or another shoulder muscle directly, and thirty-two measured a trunk muscle directly**; the rest supply general training principles or the mechanical
+deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, and twenty-nine measured a hamstring directly**; the rest supply general training principles or the mechanical
 framework. Where a paper's own research group has been
 the subject of a published data-integrity analysis, its entry says so. Where two or more papers by the same first author share a year, the bibliography entry
 records the `a`/`b`/`c` suffix used in the text.
@@ -10521,6 +12002,10 @@ Aronis G, Kurz M, Wimmer F, Hackl H, Angeli T, Gföhler M. Maximum Shoulder Torq
 Asayama A, Tateuchi H, Ota M, Motomura Y, Yanase K, Komamura T, et al. Differences in shear elastic modulus of the latissimus dorsi muscle during stretching among varied trunk positions. Journal of Biomechanics. 2021;118:110324. doi:10.1016/j.jbiomech.2021.110324 · *paywalled*
 
 Asghari SH, Wong A, Comfort P, Mirghani SJ, Sharifian S, Ghaderi M. Comparing the impact of hip thrust versus squat training on lower limb performance in sub-elite athletes: a systematic review and meta-analysis. Sports Biomechanics. 2025;24(12):3473-3492. doi:10.1080/14763141.2025.2553700 · *paywalled*
+
+Askling CM, Tengvar M, Tarassova O, Thorstensson A. Acute hamstring injuries in Swedish elite sprinters and jumpers: a prospective randomised controlled clinical trial comparing two rehabilitation protocols. British Journal of Sports Medicine. 2014;48(7):532-539. doi:10.1136/bjsports-2013-093214 · *paywalled*
+
+Askling CM, Tengvar M, Thorstensson A. Acute hamstring injuries in Swedish elite football: a prospective randomised controlled clinical trial comparing two rehabilitation protocols. British Journal of Sports Medicine. 2013;47(15):953-959. doi:10.1136/bjsports-2013-092165 · **open access**
 
 Aube D, Wadhi T, Rauch J, Anand A, Barakat C, Pearson J, et al. Progressive Resistance Training Volume: Effects on Muscle Thickness, Mass, and Strength Adaptations in Resistance-Trained Individuals. Journal of Strength and Conditioning Research. 2022;36(3):600-607. doi:10.1519/JSC.0000000000003524 · *paywalled*
 
@@ -10558,6 +12043,10 @@ Bogduk N, Macintosh JE, Pearcy MJ. A Universal Model of the Lumbar Back Muscles 
 
 Bogduk N, Pearcy M, Hadfield G. Anatomy and biomechanics of psoas major. Clinical Biomechanics. 1992;7(2):109-119. doi:10.1016/0268-0033(92)90024-X · *paywalled*
 
+Bourne MN, Duhig SJ, Timmins RG, Williams MD, Opar DA, Al Najjar A, et al. Impact of the Nordic hamstring and hip extension exercises on hamstring architecture and morphology: implications for injury prevention [cited as Bourne et al., 2017a]. British Journal of Sports Medicine. 2017;51(5):469-477. doi:10.1136/bjsports-2016-096130 · **open access** — a correction was published in 2019 (doi:10.1136/bjsports-2016-096130corr1).
+
+Bourne MN, Williams MD, Opar DA, Al Najjar A, Kerr GK, Shield AJ. Impact of exercise selection on hamstring muscle activation [cited as Bourne et al., 2017b]. British Journal of Sports Medicine. 2017;51(13):1021-1028. doi:10.1136/bjsports-2015-095739 · **open access**
+
 Brazil A, Needham L, Palmer JL, Bezodis IN. A comprehensive biomechanical analysis of the barbell hip thrust. PLOS ONE. 2021;16(3):e0249307. doi:10.1371/journal.pone.0249307 · **open access**
 
 Brown JMM, Wickham JB, McAndrew DJ, Huang XF. Muscles within muscles: Coordination of 19 muscle segments within three shoulder muscles during isometric motor tasks. Journal of Electromyography and Kinesiology. 2007;17(1):57-73. doi:10.1016/j.jelekin.2005.10.007 · *paywalled*
@@ -10577,6 +12066,8 @@ Chen X, Sanchez GN, Schnitzer MJ, Delp SL. Changes in sarcomere lengths of the h
 Chen Z, Franklin DW. Muscle Moment Arm–Joint Angle Relations in the Hip, Knee, and Ankle: A Visualization of Datasets. Annals of Biomedical Engineering. 2025;53(8):1757-1776. doi:10.1007/s10439-025-03735-w · **open access**
 
 Cholewicki J, Juluru K, McGill SM. Intra-abdominal pressure mechanism for stabilizing the lumbar spine. Journal of Biomechanics. 1999;32(1):13-17. doi:10.1016/S0021-9290(98)00129-8 · **open access**
+
+Chumanov ES, Heiderscheit BC, Thelen DG. Hamstring Musculotendon Dynamics during Stance and Swing Phases of High-Speed Running. Medicine & Science in Sports & Exercise. 2011;43(3):525-532. doi:10.1249/MSS.0b013e3181f23fe8 · **open access**
 
 Collings TJ, Bourne MN, Barrett RS, Meinders E, Gonçalves BAM, Shield AJ, et al. Gluteal Muscle Forces during Hip-Focused Injury Prevention and Rehabilitation Exercises. Medicine & Science in Sports & Exercise. 2023;55(4):650-660. doi:10.1249/MSS.0000000000003091 · **open access**
 
@@ -10619,6 +12110,8 @@ Dorado C, Calbet JAL, Lopez-Gordillo A, Alayon S, Sanchis-Moysi J. Marked Effect
 Downie A, Williams CM, Henschke N, Hancock MJ, Ostelo RWJG, de Vet HCW, et al. Red flags to screen for malignancy and fracture in patients with low back pain: systematic review. BMJ. 2013;347:f7095. doi:10.1136/bmj.f7095 · **open access**
 
 Earp JE, Newton RU, Cormie P, Blazevich AJ. Inhomogeneous Quadriceps Femoris Hypertrophy in Response to Strength and Power Training. Medicine & Science in Sports & Exercise. 2015;47(11):2389-2397. doi:10.1249/MSS.0000000000000669 · **open access**
+
+Ekstrand J, Hägglund M, Waldén M. Epidemiology of Muscle Injuries in Professional Football (Soccer). The American Journal of Sports Medicine. 2011;39(6):1226-1232. doi:10.1177/0363546510395879 · **open access**
 
 Ema R, Wakahara T, Miyamoto N, Kanehisa H, Kawakami Y. Inhomogeneous architectural changes of the quadriceps femoris induced by resistance training. European Journal of Applied Physiology. 2013;113(11):2691-2703. doi:10.1007/s00421-013-2700-1 · *paywalled*
 
@@ -10680,6 +12173,10 @@ Hartmann H, Wirth K, Klusemann M. Analysis of the Load on the Knee Joint and Ver
 
 Hayden JA, Ellis J, Ogilvie R, Malmivaara A, van Tulder MW. Exercise therapy for chronic low back pain. Cochrane Database of Systematic Reviews. 2021;9(9):CD009790. doi:10.1002/14651858.CD009790.pub2 · **open access**
 
+Hegyi A, Csala D, Péter A, Finni T, Cronin NJ. High-density electromyography activity in various hamstring exercises [cited as Hegyi et al., 2019]. Scandinavian Journal of Medicine & Science in Sports. 2019;29(1):34-43. doi:10.1111/sms.13303 · **open access**
+
+Hegyi A, Péter A, Finni T, Cronin NJ. Region-dependent hamstrings activity in Nordic hamstring exercise and stiff-leg deadlift defined with high-density electromyography [cited as Hegyi et al., 2018]. Scandinavian Journal of Medicine & Science in Sports. 2018;28(3):992-1000. doi:10.1111/sms.13016 · **open access**
+
 Henneman E, Somjen G, Carpenter DO. Functional significance of cell size in spinal motoneurons. Journal of Neurophysiology. 1965;28(3):560-580. doi:10.1152/jn.1965.28.3.560 · *paywalled*
 
 Hernández-Belmonte A, Martínez-Cava A, Buendía-Romero Á, Franco-López F, Pallarés JG. Free-Weight and Machine-Based Training Are Equally Effective on Strength and Hypertrophy: Challenging a Traditional Myth. Medicine & Science in Sports & Exercise. 2023;55(12):2316-2327. doi:10.1249/MSS.0000000000003271 · *paywalled*
@@ -10711,6 +12208,8 @@ Kassiano W, Costa B, Kunevaliki G, Lisboa F, Prado A, Alves L, et al. Comparison
 Kassiano W, Kunevaliki G, Costa B, Nunes JP, Castro-e-Souza P, Tricoli I, et al. Addition of The Barbell Hip Thrust Elicits Greater Increases in Gluteus Maximus Muscle Thickness in Untrained Young Women. International Journal of Strength and Conditioning. 2024;4(1). doi:10.47206/ijsc.v4i1.284 · **open access**
 
 Kavcic N, Grenier S, McGill SM. Quantifying Tissue Loads and Spine Stability While Performing Commonly Prescribed Low Back Stabilization Exercises. Spine. 2004;29(20):2319-2329. doi:10.1097/01.brs.0000142222.62203.67 · *paywalled*
+
+Kellis E, Blazevich AJ. Hamstrings force-length relationships and their implications for angle-specific joint torques: a narrative review. BMC Sports Science, Medicine and Rehabilitation. 2022;14(1):166. doi:10.1186/s13102-022-00555-6 · **open access**
 
 Kennedy D, Casebolt JB, Farren GL, Fiaud V, Bartlett M, Strong L. Electromyographic differences of the gluteus maximus, gluteus medius, biceps femoris, and vastus lateralis between the barbell hip thrust and barbell glute bridge. Sports Biomechanics. 2024;23(12):2935-2949. doi:10.1080/14763141.2022.2074875 · *paywalled*
 
@@ -10748,6 +12247,8 @@ Lees MJ, McLeod JC, Morton RW, Fatouros IG, Phillips SM, et al. Resistance train
 
 Lieberman DE, Raichlen DA, Pontzer H, Bramble DM, Cutright-Smith E. The human gluteus maximus and its role in running. Journal of Experimental Biology. 2006;209(11):2143-2155. doi:10.1242/jeb.02255 · **open access**
 
+Lievens E, Van Vossel K, Van de Casteele F, Wezenbeek E, Deprez D, Matthys S, et al. Muscle Fibre Typology as a Novel Risk Factor for Hamstring Strain Injuries in Professional Football (Soccer): A Prospective Cohort Study. Sports Medicine. 2022;52(1):177-185. doi:10.1007/s40279-021-01538-2 · **open access**
+
 Liu J, Teng HL, Selkowitz DM, Asavasopon S, Powers CM. Influence of hip and knee positions on gluteus maximus and hamstrings contributions to hip extension torque production. Physiotherapy Theory and Practice. 2022;38(13):2650-2657. doi:10.1080/09593985.2021.1975338 · *paywalled*
 
 Lopez P, Radaelli R, Taaffe DR, Newton RU, Galvão DA, Trajano GS, et al. Resistance Training Load Effects on Muscle Hypertrophy and Strength Gain: Systematic Review and Network Meta-analysis. Medicine & Science in Sports & Exercise. 2021;53(6):1206-1216. doi:10.1249/MSS.0000000000002585 · *paywalled*
@@ -10759,6 +12260,8 @@ Maarleveld R, Veeger HEJ, van der Helm FCT, Son J, Lieber RL, van der Kruk E. Wh
 Macintosh JE, Pearcy MJ, Bogduk N. The axial torque of the lumbar back muscles: torsion strength of the back muscles [cited as Macintosh et al., 1993a]. Australian and New Zealand Journal of Surgery. 1993;63(3):205-212. doi:10.1111/j.1445-2197.1993.tb00520.x · *paywalled*
 
 Macintosh JE, Bogduk N, Pearcy MJ. The Effects of Flexion on the Geometry and Actions of the Lumbar Erector Spinae [cited as Macintosh et al., 1993b]. Spine. 1993;18(7):884-893. doi:10.1097/00007632-199306000-00013 · *paywalled*
+
+Maeo S, Balshaw TG, Nin DZ, McDermott EJ, Osborne T, Cooper NB, et al. Hamstrings Hypertrophy Is Specific to the Training Exercise: Nordic Hamstring versus Lengthened State Eccentric Training. Medicine & Science in Sports & Exercise. 2024;56(10):1893-1905. doi:10.1249/MSS.0000000000003490 · **open access**
 
 Maeo S, Huang M, Wu Y, Sakurai H, Kusagawa Y, Sugiyama T, et al. Greater Hamstrings Muscle Hypertrophy but Similar Damage Protection after Training at Long versus Short Muscle Lengths. Medicine & Science in Sports & Exercise. 2021;53(4):825-837. doi:10.1249/MSS.0000000000002523 · **open access**
 
@@ -10816,6 +12319,8 @@ Nisell R, Ekholm J. Patellar forces during knee extension. Scandinavian Journal 
 
 Nunes JP, Blazevich AJ, Schoenfeld BJ, Kassiano W, Costa BDV, Ribeiro AS, et al. Determining Changes in Muscle Size and Architecture After Exercise Training: One Site Does Not Fit All. Journal of Strength and Conditioning Research. 2024;38(4):787-790. doi:10.1519/JSC.0000000000004722 · *paywalled*
 
+Opar DA, Timmins RG, Behan FP, Hickey JT, van Dyk N, Price K, et al. Is Pre-season Eccentric Strength Testing During the Nordic Hamstring Exercise Associated with Future Hamstring Strain Injury? A Systematic Review and Meta-analysis. Sports Medicine. 2021;51(9):1935-1945. doi:10.1007/s40279-021-01474-1 · *paywalled*
+
 Oranchuk DJ, Storey AG, Nelson AR, Cronin JB. Isometric training and long-term adaptations: Effects of muscle length, intensity, and intent: A systematic review. Scandinavian Journal of Medicine & Science in Sports. 2019;29(4):484-503. doi:10.1111/sms.13375 · **open access**
 
 Otsuka M, Honjo T, Nagano A, Isaka T. Kinetics in lumbosacral and lower-limb joints of sprinters during barbell hip thrust compared to deadlift and back squat. PLOS ONE. 2021;16(7):e0251418. doi:10.1371/journal.pone.0251418 · **open access**
@@ -10846,6 +12351,8 @@ Peterson SL, Rayan GM. Shoulder and Upper Arm Muscle Architecture. The Journal o
 
 Plotkin DL, Rodas MA, Vigotsky AD, McIntosh MC, Breeze E, Ubrik R, et al. Hip thrust and back squat training elicit similar gluteus muscle hypertrophy and transfer similarly to the deadlift. Frontiers in Physiology. 2023;14:1279170. doi:10.3389/fphys.2023.1279170 · **open access**
 
+Pollard CW, Opar DA, Williams MD, Bourne MN, Timmins RG. Razor hamstring curl and Nordic hamstring exercise architectural adaptations: Impact of exercise selection and intensity. Scandinavian Journal of Medicine & Science in Sports. 2019;29(5):706-715. doi:10.1111/sms.13381 · *paywalled*
+
 Pouliart N, Gagey OJ. Significance of the latissimus dorsi for shoulder instability. I. Variations in its anatomy around the humerus and scapula. Clinical Anatomy. 2005;18(7):493-499. doi:10.1002/ca.20185 · *paywalled*
 
 Prieske O, Muehlbauer T, Granacher U. The Role of Trunk Muscle Strength for Physical Fitness and Athletic Performance in Trained Individuals: A Systematic Review and Meta-Analysis. Sports Medicine. 2016;46(3):401-419. doi:10.1007/s40279-015-0426-4 · *paywalled*
@@ -10855,6 +12362,8 @@ Psilander N, Eftestøl E, Cumming KT, Juvkam I, Ekblom MM, Sunding K, et al. Eff
 Refalo MC, Helms ER, Trexler ET, Hamilton DL, Fyfe JJ. Influence of Resistance Training Proximity-to-Failure on Skeletal Muscle Hypertrophy: A Systematic Review with Meta-analysis. Sports Medicine. 2023;53(3):649-665. doi:10.1007/s40279-022-01784-y · **open access**
 
 Refalo MC, Helms ER, Robinson ZP, Hamilton DL, Fyfe JJ. Similar muscle hypertrophy following eight weeks of resistance training to momentary muscular failure or with repetitions-in-reserve in resistance-trained individuals. Journal of Sports Sciences. 2024;42(1):85-101. doi:10.1080/02640414.2024.2321021 · **open access**
+
+Rehorn MR, Blemker SS. The effects of aponeurosis geometry on strain injury susceptibility explored with a 3D muscle model. Journal of Biomechanics. 2010;43(13):2574-2581. doi:10.1016/j.jbiomech.2010.05.011 · *paywalled*
 
 Roberts BM, Nuckols G, Krieger JW. Sex Differences in Resistance Training: A Systematic Review and Meta-Analysis. Journal of Strength and Conditioning Research. 2020;34(5):1448-1460. doi:10.1519/JSC.0000000000003521 · *paywalled*
 
@@ -10872,6 +12381,8 @@ Sanchis-Moysi J, Idoate F, Olmedillas H, Guadalupe-Grau A, Alayón S, Carreras A
 
 Sanchis-Moysi J, Idoate F, Izquierdo M, Calbet JAL, Dorado C. The hypertrophy of the lateral abdominal wall and quadratus lumborum is sport-specific: an MRI segmental study in professional tennis and soccer players [cited as Sanchis-Moysi et al., 2013]. Sports Biomechanics. 2013;12(1):54-67. doi:10.1080/14763141.2012.725087 · *paywalled*
 
+Schache AG, Dorn TW, Blanch PD, Brown NAT, Pandy MG. Mechanics of the Human Hamstring Muscles during Sprinting. Medicine & Science in Sports & Exercise. 2012;44(4):647-658. doi:10.1249/MSS.0b013e318236a3d2 · *paywalled*
+
 Schoenfeld BJ, Ogborn D, Krieger JW. Effect of Repetition Duration During Resistance Training on Muscle Hypertrophy: A Systematic Review and Meta-Analysis. Sports Medicine. 2015;45(4):577-585. doi:10.1007/s40279-015-0304-0 · *paywalled*
 
 Schoenfeld BJ, Pope ZK, Benik FM, Hester GM, Sellers J, Nooner JL, et al. Longer Interset Rest Periods Enhance Muscle Strength and Hypertrophy in Resistance-Trained Men. Journal of Strength and Conditioning Research. 2016;30(7):1805-1812. doi:10.1519/JSC.0000000000001272 · *paywalled*
@@ -10881,6 +12392,8 @@ Schoenfeld BJ, Grgic J, Ogborn D, Krieger JW. Strength and Hypertrophy Adaptatio
 Schoenfeld BJ, Vigotsky A, Contreras B, Golden S, Alto A, Larson R, et al. Differential effects of attentional focus strategies during long-term resistance training. European Journal of Sport Science. 2018;18(5):705-712. doi:10.1080/17461391.2018.1447020 · **open access**
 
 Schoenfeld BJ, Grgic J, Krieger J. How many times per week should a muscle be trained to maximize muscle hypertrophy? A systematic review and meta-analysis of resistance training frequency. Journal of Sports Sciences. 2019;37(11):1286-1295. doi:10.1080/02640414.2018.1555906 · *paywalled*
+
+Schuermans J, Witvrouw E, Wezenbeek E, Lievens E. Hamstring muscle fibre typology is not associated with hamstring strain injury history or performance in amateur male soccer players: a retrospective magnetic resonance spectroscopy study. Biology of Sport. 2023;40(4):1177-1186. doi:10.5114/biolsport.2023.126663 · **open access**
 
 Smith TO, Nichols R, Harle D, Donell ST. Do the vastus medialis obliquus and vastus medialis longus really exist? A systematic review. Clinical Anatomy. 2009;22(2):183-199. doi:10.1002/ca.20737 · *paywalled*
 
@@ -10900,9 +12413,13 @@ Takahashi K, Kamibayashi K, Wakahara T. Gluteus and posterior thigh muscle sizes
 
 Thorstensson A, Carlson H. Fibre types in human lumbar back muscles. Acta Physiologica Scandinavica. 1987;131(2):195-202. doi:10.1111/j.1748-1716.1987.tb08226.x · *paywalled*
 
+Timmins RG, Bourne MN, Shield AJ, Williams MD, Lorenzen C, Opar DA. Short biceps femoris fascicles and eccentric knee flexor weakness increase the risk of hamstring injury in elite football (soccer): a prospective cohort study. British Journal of Sports Medicine. 2016;50(24):1524-1535. doi:10.1136/bjsports-2015-095362 · *paywalled*
+
 Tsaopoulos DE, Baltzopoulos V, Richards PJ, Maganaris CN. A comparison of different two-dimensional approaches for the determination of the patellar tendon moment arm length. European Journal of Applied Physiology. 2009;105(5):809-814. doi:10.1007/s00421-008-0968-3 · *paywalled*
 
 Valério DF, Berton R, Conceição MS, Canevarolo RR, Chacon-Mikahil MPT, Cavaglieri CR, et al. The effects of lifting straps in maximum strength, number of repetitions and muscle activation during lat pull-down. Sports Biomechanics. 2021;20(7):858-865. doi:10.1080/14763141.2019.1610490 · *paywalled*
+
+van Dyk N, Behan FP, Whiteley R. Including the Nordic hamstring exercise in injury prevention programmes halves the rate of hamstring injuries: a systematic review and meta-analysis of 8459 athletes. British Journal of Sports Medicine. 2019;53(21):1362-1370. doi:10.1136/bjsports-2018-100045 · **open access**
 
 Varovic D, Wolf M, Schoenfeld BJ, Steele J, Grgic J, Mikulic P. Does Muscle Length Influence Regional Hypertrophy? A Systematic Review and Meta-Analysis [cited as Varovic et al., 2025a]. International Journal of Sports Medicine. 2025;46(14):1027-1036. doi:10.1055/a-2615-4935 · *paywalled*
 
@@ -10951,3 +12468,4 @@ Zabaleta-Korta A, Fernández-Peña E, Torres-Unda J, Garbisu-Hualde A, Santos-Co
 Zabaleta-Korta A, Latorre-Erezuma U, Fernández-Peña E, Torres-Unda J, Santos-Concejero J. Regional hypertrophy of muscle cannot be predicted by surface electromyography. Isokinetics and Exercise Science. 2024;32(2):155-161. doi:10.3233/IES-230079 · *paywalled*
 
 Zhang B, Raguzzi IA, Dupuis F, Gianola S, Morgan-Daniel J, Roy JS, et al. Addressing Shoulder Weakness in Individuals With Rotator Cuff-Related Shoulder Pain: A Systematic Review With Meta-analysis. Journal of Orthopaedic & Sports Physical Therapy. 2026;56(2):67-84. doi:10.2519/jospt.2025.13445 · **open access**
+
