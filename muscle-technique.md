@@ -3,8 +3,8 @@
 > How to load one muscle correctly, derived from its anatomy, its architecture and its
 > leverage rather than from tradition. Each muscle gets its own Part: anatomy → biomechanics →
 > the rep → exercise catalogue → contexts → programming. **This volume covers the latissimus
-> dorsi, the quadriceps femoris, the gluteal muscles, the deltoids, the core and the
-> hamstrings.** Further muscles are added as
+> dorsi, the quadriceps femoris, the gluteal muscles, the deltoids, the core, the
+> hamstrings and the pectoral muscles.** Further muscles are added as
 > new Parts; the glossary and bibliography are always the final two Parts and are shared across all
 > of them.
 >
@@ -64,8 +64,16 @@
    - **§E** [Context modifiers — when "perfect" changes](#partviiecontextmodifiers)
    - **§F** [Programming](#partviifprogramming)
    - **§G** [Synthesis, and what the evidence does not support](#partviigsynthesis)
-8. **[Part VIII — Master Glossary](#partviiimasterglossary)** (257 entries, in dependency order, with an alphabetical index at its head)
-9. **[Part IX — Bibliography](#partixbibliography)** (244 sources, 112 open access)
+8. **[Part VIII — Pectoral Muscles](#partviiipectoralmuscles)**
+   - **§A** [Anatomy and architecture](#partviiiaanatomyandarchitecture)
+   - **§B** [Biomechanics — what actually loads the pectoralis major](#partviiibbiomechanics)
+   - **§C** [The rep, specified](#partviiictherepspecified)
+   - **§D** [Exercise catalogue](#partviiidexercisecatalogue)
+   - **§E** [Context modifiers — when "perfect" changes](#partviiiecontextmodifiers)
+   - **§F** [Programming](#partviiifprogramming)
+   - **§G** [Synthesis, and what the evidence does not support](#partviiigsynthesis)
+9. **[Part IX — Master Glossary](#partixmasterglossary)** (278 entries, in dependency order, with an alphabetical index at its head)
+10. **[Part X — Bibliography](#partxbibliography)** (270 sources, 129 open access)
 
 **How to read this.** The first occurrence of a technical term in each Part links to its glossary
 entry. Cross-references are written `Part II §B.4`.
@@ -91,8 +99,8 @@ and no punctuation of any kind** — `forcelengthrelationship`, `momentarm`, `pa
 That character set is the fixed point of all four algorithms: each maps it to itself, so one link form
 works everywhere without HTML anchors or renderer-specific syntax. The cost is that the heading itself
 is not meant to be read; **the human-readable name is the bold lead-in immediately below it**, and the
-alphabetical index at the head of Part VIII is the place to look a term up. Structural anchors carry
-their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to VII share
+alphabetical index at the head of Part IX is the place to look a term up. Structural anchors carry
+their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to VIII share
 section titles and would otherwise collide. Links are same-file only: no HTML anchors, no relative file links, no external
 links.
 
@@ -1849,7 +1857,7 @@ THREE-TIMES-WEEKLY — HIGH VOLUME, ROTATING EMPHASIS
 large. Row three has one lat-specific anchor — eight weeks of pulldown-and-row training produced
 **+22% latissimus fibre cross-sectional area** on biopsy in 18 novice men (Paoli et al., 2016) — but
 no study has tracked lat *thickness* by ultrasound over these timelines, and the method is a poor index
-of individual change in any case (Part VIII, muscle thickness). Rows four and five
+of individual change in any case (Part IX, muscle thickness). Rows four and five
 are coaching convention, not measured outcomes.
 
 **Validity caveat:** thickness measured in the first weeks of a new program is inflated by
@@ -5199,7 +5207,7 @@ corresponded to the individual segments separated by the intramuscular tendons (
 
 Two independent lines of evidence say the same thing about function:
 
-- Recording nineteen muscle segments across the deltoid, pectoralis major and latissimus dorsi during rapid isometric force impulses in twenty men, segment timing and intensity tracked **each segment's own moment arm and line of action** relative to the intended direction — and the same segment could be classified as prime mover, synergist or antagonist depending on the task (Brown et al., 2007).
+- Recording nineteen muscle segments across the deltoid, pectoralis major and latissimus dorsi during rapid isometric force impulses in twenty men, each segment's timing and contraction intensity tracked **its own moment arm and line of action** relative to the intended direction — and the same segment could be classified as prime mover, synergist or antagonist depending on the task (Brown et al., 2007).
 - Recording five deltoid regions during abduction in body postures that changed how gravity acted on the arm, the muscle's action was "highly differentiated in its different regions" and was not confined to producing abduction — the clavicular and spinal regions contributed to **stabilizing the joint and controlling the plane the arm travelled in** (Michiels & Bodem, 1992).
 
 **What this licenses and what it does not.** It licenses the claim that "the deltoid" is not a single
@@ -6504,7 +6512,7 @@ of exposure, so they establish where injuries land, not how likely they are.
 | Context | Common modification | Evidence note |
 |---|---|---|
 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) — a painful arc, pain reaching overhead, pain lying on that side | **Reduce the provoking arc first**, then load progressively in the pain-free range. Keep the press below the painful band or replace it with a landmine press; keep raises in the scapular plane | Rehabilitation improved shoulder strength in this population across twenty-eight studies, and **interventions that did not include exercise had no effect at all** (Zhang et al., 2026). The active ingredient is loading |
-| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part VIII, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
+| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part IX, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
 | History of dislocation or [shoulder instability](#shoulderinstability) | Overhead and behind-the-neck positions are commonly restricted; abduction with external rotation is the classic apprehension position | Governed by the clinician, not by this document |
 | Acromioclavicular joint pain — point tenderness on top of the shoulder | Reduce [horizontal adduction](#shoulderhorizontaladduction) across the body; raises and presses are usually well tolerated | The joint is compressed by reaching across, not by reaching out |
 | Long head of biceps pain — front-of-shoulder pain with a defined tender line | Reduce front raises and dips; the tendon runs in the [bicipital groove](#bicipitalgroove) directly under them | Mechanism, not trial evidence |
@@ -10102,9 +10110,1623 @@ though it is not the exercise that grows them most.
 
 ---
 
-# partviiimasterglossary
+# partviiipectoralmuscles
 
-**Part VIII — Master Glossary**
+**Part VIII — Pectoral Muscles**
+
+> Scope: the anatomy, mechanics, technique, exercise selection, context modifiers and programming for
+> maximal [hypertrophy](#hypertrophy) of the muscles of the chest wall — the
+> [pectoralis major](#pectoralismajor), treated throughout as the three regions it mechanically is, and
+> the [pectoralis minor](#pectoralisminor) underneath it. Everything here also loads the
+> [anterior deltoid](#anteriordeltoid) and the [triceps brachii](#tricepsbrachii), which share every
+> press, and the [serratus anterior](#serratusanterior), which holds the shoulder blade against the ribs
+> while it happens (Part V §A.8). **General education only.** A sudden tearing sensation at the front of
+> the shoulder under a heavy bar is an injury, not a training problem — see Part VIII §E.4.
+>
+> **Angle conventions, carried over unchanged from Part V.** [Humeral elevation](#humeralelevation) is
+> measured from the arm hanging at the side: **0° is the arm alongside the body, 90° is the arm
+> horizontal, ~180° is fully overhead.** [Plane of elevation](#planeofelevation) is **0° in the
+> [frontal plane](#frontalplane)** and **90° in the [sagittal plane](#sagittalplane)**. Two conventions
+> are added here because this Part is the only one that needs them. **[Bench inclination](#benchinclination)** is measured
+> from horizontal — **0° is a flat bench, 30–45° is an incline, a negative angle is a decline** — and is
+> never confused with humeral elevation, which it does not equal. **Grip width** is expressed in
+> [biacromial widths](#biacromialwidth) (BAW), the distance between the bony points of the shoulders, so
+> that a "wide" grip means the same thing for a broad lifter and a narrow one.
+>
+> **What makes this Part different.** Every other muscle in this document is trained by people who
+> mostly agree about what the exercises do. Here there is a single question — *can you train the upper
+> chest separately from the lower?* — that has been asked three different ways and given three different
+> answers, and the whole practical shape of the Part follows from taking all three seriously rather than
+> quoting the one that agrees with the gym. That question is Part VIII §A.5 and Part VIII §B.4.
+
+---
+
+## partviiiaanatomyandarchitecture
+
+**PART A — Anatomy and Architecture**
+
+### A.1 What the pectoral muscles are
+
+A fan on the front of the chest and a small strap underneath it. The fan runs from the collarbone, the
+breastbone and the rib cartilages out to a single narrow attachment on the upper arm bone, and it pulls
+the arm forward and across the body. The strap underneath runs from the ribs to a hook of bone on the
+shoulder blade, and it does not touch the arm at all.
+
+Three facts organize the Part, and each one contradicts something that is widely believed about this
+muscle.
+
+1. **It is one muscle with one insertion and many origins, which is the opposite of the arrangement in every other Part.** The hamstrings are four muscles with a shared origin; the [deltoid](#deltoid) is three heads with a shared insertion but three separate origins spread around the joint. The pectoralis major is a **single fan**: every fibre ends in the same place, on the same lip of the same groove, while the fibres *start* along an arc running from the middle of the collarbone down to the sixth rib. Because the fibres converge from different directions onto one point, **different parts of the same muscle have [moment arms](#momentarm) of opposite sign at the same joint** — the top of it flexes the shoulder and the bottom of it extends it (Part VIII §B.2).
+2. **It is an excursion muscle, not a force muscle, and it is smaller than its reputation.** In the only cadaver in which the whole upper limb was measured at once, the pectoralis major's [fascicle length](#fasciclelength) tied for the longest of fifty muscles, while its [PCSA](#pcsa) ranked eleventh — and the triceps brachii, which shares every press with it, had **3.6 times its force-generating cross-section** (Part VIII §A.4). The muscle that ends a set of bench presses is usually not this one.
+3. **It is the muscle that tears in the gym.** Across 365 published cases of pectoralis major injury spanning 1822 to 2010, **83% arose from indirect trauma and 48% occurred during weight-training activities** (ElMaraghy & Devereaux, 2012). No other muscle in this document has a published injury literature in which weight training is the largest single named cause.
+
+---
+
+### A.2 Attachments — the map you load
+
+| Muscle | Origin | Insertion | Nerve | Crosses |
+|---|---|---|---|---|
+| Pectoralis major, [clavicular head](#pectoralisclavicularhead) | Medial half of the anterior [clavicle](#clavicle) | Lateral lip of the [bicipital groove](#bicipitalgroove) of the [humerus](#humerus), **anterior lamina** | [Lateral pectoral nerve](#pectoralnerves) (C5–C7) | Shoulder only |
+| Pectoralis major, [sternocostal head](#pectoralissternocostalhead) | [Sternum](#sternum) and the upper [costal cartilages](#costalcartilage) | Same lip, both laminae | Lateral and medial pectoral nerves (C6–T1) | Shoulder only |
+| Pectoralis major, [abdominal (lower-costal) part](#pectoralisabdominalhead) | Aponeurosis of the external oblique and the lowest costal cartilages | Same lip, **posterior lamina**, highest on the humerus | Medial pectoral nerve (C8–T1) | Shoulder only |
+| Pectoralis minor | Ribs 3–5, near their cartilages | [Coracoid process](#coracoidprocess) of the [scapula](#scapula) | Medial pectoral nerve (C8–T1) | **Neither** — it moves the shoulder blade, not the arm |
+
+**Read the last column, because it decides what this Part is about.** Every part of the pectoralis major
+crosses exactly one joint. There is no biarticular complication here of the kind that organizes Part VII,
+and no equivalent of the [biceps femoris short head](#bicepsfemorisshorthead) hiding behind a joint that
+one exercise family cannot reach. **What replaces it is direction:** the fibres arrive at the humerus from
+above, from straight ahead and from below, so which of them a movement loads depends on where the arm is,
+not on which joint moves.
+
+**And read the fourth row, because it is the one people get wrong.** The pectoralis minor **does not
+attach to the arm**. It cannot press, it cannot fly, and it cannot be trained by any exercise in
+Part VIII §D on the grounds that it is "part of the chest". It grows when you bench press
+(Lanza et al., 2024), but it grows as a scapular muscle doing scapular work, not as a chest muscle.
+
+**One insertion detail that matters twice.** The pectoralis major's tendon is not a single sheet. It has
+a **longer anterior layer and a shorter posterior layer, continuous with each other inferiorly** — a
+[bilaminar tendon](#bilaminartendon) (Fung et al., 2009). The lower fibres of the muscle cross behind the
+upper ones on their way to the bone and insert **highest** on the humerus, so the fan is folded rather
+than flat. That folding is why a tear can take part of the tendon's thickness and leave the rest
+(Part VIII §A.9), and it is the reason the classic textbook claim in the next section is wrong.
+
+---
+
+### A.3 The twist that is not there
+
+**Anatomy teaching has said for decades that the pectoralis major tendon twists through 180° on its way
+to the humerus.** It is the classic explanation of why the lower fibres end up highest on the
+bone, and it is repeated in anatomy and surgical texts.
+
+**The three-dimensional study that went looking for the twist did not find it.** Eleven formalin-embalmed
+cadaveric specimens were examined — five serially dissected, digitized and reconstructed in three
+dimensions, six dissected and photographed — and the result is stated flatly: *"No twisting of either the
+PM muscle or tendon was noted"* (Fung et al., 2009). What produces the appearance of a twist is the
+**folding** described in Part VIII §A.2: the two laminae of the tendon are continuous at their lower
+border, so the sheet doubles back on itself rather than rotating.
+
+**Why a reader of a training document should care.** Not because the anatomy is decorative, but because
+the twist is the premise of a widespread training claim — that because the fibres cross over, a decline
+press "reaches" the upper fibres and an incline press "reaches" the lower ones. **That inference has no
+anatomical basis**, and the empirical answer to the same question turns out to be genuinely
+complicated for reasons that have nothing to do with a twist (Part VIII §A.5).
+
+**Confidence:** the finding is from one cadaveric study with a modest sample, so it is **Moderate
+evidence** that the twist does not exist — but it is the only study that measured, and no measurement
+supports the twist.
+
+---
+
+### A.4 Architecture — a long-fibred muscle with a small cross-section
+
+**The same data problem that limits Part V limits this section, and for the same reason.** There is no
+equivalent for the upper limb of the single dataset that measured every lower-limb muscle in the same
+twenty-one specimens (Part VII §A.4). What exists is one complete cadaver, and it should be read for its
+**ratios**, not its absolute values.
+
+```
+ONE SPECIMEN, AGE 104 - THE ONLY COMPLETE UPPER-LIMB DATASET
+(Ruggiero et al., 2016 - 50 muscles, same body, same method)
+                        Mass    Muscle   Fascicle  Sarcomere  Optimal    PCSA
+                        (g)     len(cm)  len(cm)   len(um)    Lf (cm)    (cm2)
+  Pectoralis major      105.5   18.2     7.9       2.53       9.1        8.1
+  Pectoralis minor       15.4   15.4     7.1       2.16       9.0        1.4
+  ------------------------------------------------------------------------------
+  For scale, same body:
+  Latissimus dorsi      163.3   38.7     5.9       2.42       6.7       20.3
+  Deltoid, all 3 heads  140.4     -        -          -         -       13.2
+  Triceps, all 3 heads  140.5     -        -          -         -       29.4
+  Serratus anterior      79.8   27.0     3.5       3.06       3.1       22.2
+  ------------------------------------------------------------------------------
+  Rank of pectoralis major among the 50 muscles measured:
+    by mass             2nd   (only the latissimus dorsi is heavier)
+    by fascicle length  =1st   (tied, with flexor digitorum
+                                superficialis 3, at 7.9 cm)
+    by optimal fibre
+      length            4th
+    by PCSA            11th
+```
+
+**Three readings, and the third is the one that changes training.**
+
+- **It is a big muscle by mass and a modest one by force.** 105.5 g of muscle producing a PCSA of 8.1 cm² is a low ratio, and it is low for a specific reason: **PCSA falls as fibre length rises**, because a fixed mass divided into longer fibres yields fewer of them side by side. The pectoralis major spends its mass on **travel** rather than on force. For comparison, in the same body the serratus anterior weighs three quarters as much and generates nearly **three times** the cross-section, because its fibres are 3.5 cm long instead of 7.9.
+- **Its main synergist out-muscles it.** The three heads of the triceps brachii together have a PCSA of 29.4 cm² against the pectoralis major's 8.1 — a factor of **3.6**. That single ratio explains a great deal of Part VIII §C.5: in a press, the elbow extensors are rarely the tissue that runs out first, and when a bench press ends it is usually because a joint position failed, not because the triceps did.
+- **The sarcomere reading says this measurement is trustworthy for this muscle in a way it is not for the deltoid.** [Sarcomere](#sarcomere) length in the pectoralis major was 2.53 ± 0.71 µm, close to the ~2.7 µm human optimum the authors used, so the muscle was fixed near its optimal length. The same specimen's deltoid measured 1.61–1.88 µm — far short — which tells you the arm was fixed at the side and the deltoid's raw fascicle lengths understate it (Part V §A.4). **The pectoralis major numbers need no such correction.**
+
+**Interpretive caution, stated as plainly as in Part V.** One specimen, aged 104. The PCSA
+calculation depends on the [pennation angle](#pennationangle), and this study's model-derived value for
+the pectoralis major — 39.2° — is considerably larger than the angles measured directly by dissection in
+the next paragraph. A pennation angle of 25° instead of 39° would raise the PCSA to about 9.5 cm² rather
+than 8.1. **The conclusion survives the correction**: even at the top of that range the pectoralis major
+has under half the force-generating cross-section of the latissimus dorsi in the same body, and under a
+third of the triceps'.
+
+**What dissection adds, and it is the part that bears on the "upper chest" question.** The three-dimensional
+study of eleven specimens found the two heads to be **architecturally different from each other**
+(Fung et al., 2009):
+
+| Feature | Clavicular head | Sternocostal head |
+|---|---|---|
+| Internal structure | **Architecturally uniform** — no internal divisions | **Segmented into 6–7 discrete segments** |
+| Mean lateral pennation angle | **29.4 ± 6.9°** | **20.6 ± 2.7°** |
+| Fibre bundle length | Increases steadily from superior to inferior | Greatest in the central segments (3–5) |
+| Consequence | Behaves as one unit | Can behave as several |
+
+**That table is the anatomical case for regional training, and it is a real case.** A muscle divided into
+six or seven segments, each with its own fibre length and its own direction of pull, is the kind of
+structure in which regional loading is *possible*. Whether it actually happens is a separate question, and
+it has been tested — see Part VIII §A.5.
+
+---
+
+### A.5 Regions — the question this Part exists to answer
+
+**Can you train the upper chest separately from the lower?** More studies have addressed this for the
+pectoralis major than for any regional question in this document except the [regional
+hypertrophy](#regionalhypertrophy) work on the quadriceps. They do not agree, and the disagreement is
+informative rather than embarrassing.
+
+**Three designs, three answers.**
+
+| Study | Design | What it measured | Answer |
+|---|---|---|---|
+| Albarello et al., 2022 | 13 men, four sets of flat and four of 45° incline bench press, surface [EMG](#emg) plus panoramic ultrasound before and immediately after | **Acute** regional excitation and acute change in [cross-sectional area](#anatomicalcsa) | **Regions differ.** Clavicular excitation exceeded sternocostal on the incline (P < 0.001) and the reverse on the flat bench (P < 0.001); acute CSA rose more in the clavicular head after the incline (P < 0.001) and more in the sternocostal head after the flat press (P = 0.046) |
+| Chaves et al., 2020 | 47 untrained men, 8 weeks, **once weekly**, 4–6 sets of 8–12RM, sets equalized: flat (n = 15) vs incline (n = 15) vs both (n = 17), [muscle thickness](#musclethickness) at three sites | **Chronic** regional growth from bench angle | **One site differed.** Thickness change at the second intercostal space was greatest in the incline group, by 0.62 cm (95% CI 0.23–1.0) against flat and 0.50 cm (0.14–0.86) against the combination — but **flat and combination did not differ from each other** there (0.11 cm, −0.25 to 0.48, p = 0.524). The other two sites did not differ, and neither did strength |
+| Pinto et al., 2025 | 15 untrained men, 12 weeks, [pec deck](#chestfly) only, one set versus three sets in the same person, ultrasound of both portions | **Chronic** regional growth from an exercise that does not change bench angle at all | **No regional difference.** Clavicular +17% and +18%, sternocostal +21% and +21%. The authors' own conclusion: the results *"do not support regional hypertrophy after pec deck exercise in untrained men"* |
+
+**How to read three answers that look like a contradiction and are not.**
+
+- **The first study did not measure hypertrophy.** A cross-sectional area measured *immediately after* four sets is swelling — fluid shifted into the working region — and this document treats acute area change as a marker of which tissue worked, not of which tissue grew (Part V §B.11). Read that way it agrees with the anatomy and with nothing else: **incline pressing does load the clavicular fibres preferentially, in the moment.**
+- **The second study is the only chronic test of bench angle, and its numbers do not survive an audit.** Its published thickness table reports, over **eight once-weekly sessions**, changes of 11.9 → 15.7 mm in the flat group at the second intercostal space and 15.1 → 24.5 mm in the incline group — **increases of 32% and 62% in eight sessions**, with the third and fifth intercostal sites gaining 24–58% across all three groups. For the direct comparison, look one row down in the same table: Pinto et al. (2025) trained the same population — untrained young men — for **twelve** weeks rather than eight, and reported 17–21%. Across its nine group-by-site cells, Chaves averages **43% growth against Pinto's 19%**. **When every arm of a trial reports growth two to three times what a longer trial in the same population reports, the between-arm comparison inherits the problem** — so the one positive regional result is a hypothesis, not a finding.
+- **And the row nobody quotes points the other way.** The *combination* group, which did both exercises, was **not different from the flat-press group** at the site where incline won (0.11 cm, 95% CI −0.25 to 0.48, p = 0.524), and finished **behind the incline-only group** there by 0.50 cm. **Adding an incline press to a flat press bought nothing measurable.** If the mechanism were simply "incline reaches the top", that is the one group in which it should have shown.
+- **The third study says a single non-angled exercise grows both regions, and grows the lower one slightly more.** That is what you would expect from Part VIII §A.4's architecture — the sternocostal head is larger — and it removes the last version of the claim that regional growth requires regional exercises.
+
+```
+THE STATE OF THE "UPPER CHEST" QUESTION, HONESTLY
+  Does incline pressing shift acute load upward?      YES  (Albarello 2022)
+  Does that produce more upper-region growth?         ONE trial, ONE of three
+                                                      sites, untrained, 1x/week
+                                                      - and its raw growth
+                                                      figures average 43% where
+                                                      a longer trial in the same
+                                                      population reports 19%
+                                                      (Chaves 2020)
+  Is regional work required for regional growth?      NO   (Pinto 2025:
+                                                      pec deck grew both)
+  Does adding incline to a flat press help?           NO - the combination arm
+                                                      did not differ from the
+                                                      flat-only arm at that
+                                                      site, p = 0.52
+                                                      (Chaves 2020)
+```
+
+> **The rule this section licenses.** Including an incline press is **reasonable and cheap** — the acute
+> evidence is consistent and the only measured cost is about a fifth of your load. Believing that you
+> *must* include it, or
+> that a chest built on flat pressing and flyes will have a hole in the top of it, goes well past what was
+> measured. **Evidence remains limited and inconsistent** for the incline advantage — that is the label it
+> carries everywhere it appears in this Part, and the inconsistency is internal to the single trial that
+> supports it.
+
+---
+
+### A.6 Segments and independent control
+
+The architecture of Part VIII §A.4 says the sternocostal head *could* act in parts. Two electromyographic
+studies asked whether it *does*.
+
+**The first mapped the fan directly.** Six pairs of surface electrodes were placed along the origin of the
+pectoralis major in eight men, and activity was recorded during isometric shoulder actions in several
+planes and at two contraction intensities. The segments were controlled independently, and the pattern was
+orderly (Paton & Brown, 1994):
+
+```
+WHICH PART OF THE FAN A DIRECTION USES
+  Shoulder FLEXION from neutral         ->  the SUPERIOR segments
+  Shoulder EXTENSION from a flexed
+    position                            ->  the most INFERIOR segments
+  Shoulder ADDUCTION, arm coming
+    from 90 deg abduction down to 0 deg ->  spreads from the inferior segments
+                                            to ALL segments EXCEPT the
+                                            clavicular head
+  HORIZONTAL FLEXION (the bench press
+    and fly action)                     ->  the MIDDLE segments, regardless
+                                            of how much the shoulder is flexed
+```
+
+**The last line is the most important sentence in Part VIII §A.6, and it is easy to read past.** The
+action that a bench press and a fly are built out of — sweeping the arm across the body at shoulder
+height — recruited the **middle** segments *regardless of the degree of shoulder flexion*. Changing the
+bench angle changes the degree of shoulder flexion. On this evidence, that is precisely the variable that
+horizontal-flexion recruitment was insensitive to.
+
+**The second study generalized the principle.** Nineteen muscle segments across the pectoralis major,
+deltoid and latissimus dorsi were recorded during rapid isometric force impulses in twenty men; segment
+timing and intensity tracked **each segment's own moment arm and line of action** relative to the intended
+direction, and the same segment could be prime mover, synergist or antagonist depending on the task
+(Brown et al., 2007).
+
+**What this licenses and what it does not.** It licenses the claim that the pectoralis major is not a
+single functional unit and that the *direction the arm travels* selects which part of it works. It does
+**not** license reading six or seven trainable targets off a diagram. **No study has measured growth in any individual segment
+of the sternocostal head**; the finest regional growth data in existence are the two- and three-site
+ultrasound measurements of Part VIII §A.5, and the trial that measured the two heads separately without
+varying the exercise found them growing together (Pinto et al., 2025).
+
+---
+
+### A.7 Fibre type
+
+**This is the weakest evidence in Part VIII, and it is weak in a way worth stating.** The biopsy series
+that Part V §A.7 rests on measured fourteen muscles crossing the shoulder joint in four cadavers and
+found slow-oxidative fibres occupying 23–56% of cross-sectional area, with **twelve of the fourteen
+falling between 35% and 50% slow** (Srinivasan et al., 2007). **The pectoralis major's own value sits in
+a table this document could not obtain**, so what can honestly be said is that it belongs to a group of
+muscles that is, as a class, close to an even split, with no member extreme in either direction.
+
+**What follows from that, which is more than it sounds.** **Nothing in this Part's programming turns on
+fibre type**, and nothing should: the rep-range evidence in Part VIII §F.3 is empirical and holds across
+the whole range regardless of what the histology turns out to say. Any recommendation to train the chest
+"heavy because it is fast-twitch" or "light because it is postural" is resting on a number that has not
+been published in a form this document could read.
+
+---
+
+### A.8 The muscles you cannot separate it from
+
+| Muscle | Relationship | Consequence for training |
+|---|---|---|
+| Anterior deltoid | Shares [shoulder flexion](#shoulderflexion) and horizontal adduction in every press. Its own flexion moment arm is 35.5 ± 3.3 mm, smaller than the clavicular pectoralis major's 53.7 ± 2.1 mm (Ackland et al., 2008) | Every press is shared work. Ten weeks of bench pressing grew **both** (Lanza et al., 2024) |
+| Triceps brachii | Extends the elbow in every press; its long head also extends the shoulder | 3.6× the pectoralis major's PCSA (Part VIII §A.4); it dominates the top of the lift (Part VIII §B.8) |
+| Serratus anterior | Holds the scapula against the ribs and protracts it | Not a chest muscle, but the reason a press can be made from a stable base at all |
+| [Coracobrachialis](#coracobrachialis) | A small flexor and adductor running from the coracoid to the middle of the humerus | Trains alongside the clavicular fibres in every flexion movement; too small to prescribe for |
+| [Latissimus dorsi](#latissimusdorsi) | Its direct antagonist in flexion, its **synergist** in extension and adduction | Both insert within millimetres of each other on the same groove (Part II §A.2). A pullover loads both at once (Part II §D.3) |
+| Pectoralis minor | Underneath it, attached to the shoulder blade rather than the arm | Grows with bench pressing (Lanza et al., 2024) as a scapular muscle. **Never a training target in its own right** |
+
+**And one consequence of the shared insertion that has no parallel in this document.** The pectoralis
+major, the latissimus dorsi and the teres major insert on the **lateral lip, the floor and the medial lip
+of the same groove** (Part II §A.2). Three muscles that pull the arm in three different directions all
+finish in a channel a centimetre wide. That is why the arm's position, not the exercise's name, decides
+which of them a movement loads.
+
+---
+
+### A.9 Why this is the muscle that tears
+
+**The published injury literature for the pectoralis major is, unusually, a weight-training literature.**
+A systematic review collected every published case from 1822 to 2010 — **365 cases** — and reported that
+**75% were published in the last twenty years of that window, 83% arose from indirect trauma, and 48%
+occurred during weight-training activities** (ElMaraghy & Devereaux, 2012).
+
+**Four structural facts explain why, and each one is established above.**
+
+1. **A large muscle converging onto a narrow tendon.** 105.5 g of muscle in the specimen of Part VIII §A.4, arriving at a lip of bone a few centimetres across. Force per unit of tendon cross-section is high by construction.
+2. **A tendon in two layers rather than one.** The bilaminar arrangement of Part VIII §A.2 means a tear can take the anterior lamina and spare the posterior one, or the reverse — which is why the classification that the same review proposed is built around *anterior-to-posterior thickness* and *complete versus incomplete width* rather than around a simple "torn or not" (ElMaraghy & Devereaux, 2012).
+3. **Long fibres taken to long lengths under load.** The muscle's fascicles tie for the longest measured in the upper limb (Part VIII §A.4), and the bottom of a bench press places them near their end range while the external [load](#load) is at its peak (Part VIII §B.3). This is the mechanical signature that Part VII §A.8 identified for the hamstrings — high force at long length — appearing for the second and last time in this document.
+4. **The one lift in which the load cannot be dropped.** Every other exercise in this document can be abandoned mid-repetition. A barbell held above a supine chest cannot, which is why the eccentric phase is loaded to the end of range whether or not the lifter still wants it to be.
+
+**What the emergency-department data adds, and what it does not.** Across 3,189 upper-limb weightlifting
+injuries presenting to United States emergency departments between 2021 and 2024, the **shoulder was the
+most-injured region at 33.8%**, and a sprain-or-strain injury the most common diagnosis at 26.2% (Lee et al., 2026).
+**Interpretive caution:** that dataset codes by body region and mechanism, not by muscle, and its leading
+mechanism is being crushed or struck by a dropped weight (30.1%) rather than any lifting action. It
+establishes that the shoulder is where lifting injuries happen; it does not establish how many of them are
+pectoral tears.
+
+**The training consequence, which is small and specific.** This is not an argument against bench pressing;
+it is an argument for the three technique constraints in Part VIII §C.2 and for the load-management rule in
+Part VIII §F.4. The mechanism is heavy eccentric loading at end range — so the countermeasure is not to
+avoid the lengthened position, which is where the muscle grows, but to **arrive at it under control and
+at a load you could stop**.
+
+---
+
+### A.10 What the anatomy dictates, in nine lines
+
+1. **One insertion, many origins.** Every fibre ends on the same lip of the same groove; they start along an arc from the collarbone to the sixth rib.
+2. **Different parts of the same muscle oppose each other at the same joint** — the top flexes the shoulder, the bottom extends it (Part VIII §B.2).
+3. **The clavicular head is architecturally uniform; the sternocostal head is segmented into six or seven parts** (Fung et al., 2009).
+4. **The tendon has two layers and does not twist** (Fung et al., 2009).
+5. **The fibres are the longest in the upper limb and the PCSA is modest** — this is an excursion muscle (Ruggiero et al., 2016).
+6. **The triceps has 3.6 times its force-generating cross-section**, which is why presses rarely end because the chest gave out.
+7. **The direction the arm travels selects which segments work; the degree of shoulder flexion does not, for horizontal flexion** (Paton & Brown, 1994).
+8. **Regional growth from bench angle has one supporting trial, at one of three sites, in untrained men** (Chaves et al., 2020) — and a single non-angled exercise grew both regions without it (Pinto et al., 2025).
+9. **It is the muscle that ruptures under a barbell**, and the reason is long fibres at long length under maximal load (ElMaraghy & Devereaux, 2012).
+
+---
+## partviiibbiomechanics
+
+**PART B — Biomechanics — what actually loads the pectoralis major**
+
+### B.1 The joint actions, ranked
+
+The pectoralis major crosses one joint and does four things at it. They are not equally important, and
+the ranking is not the one the exercise names imply.
+
+| Action | Leverage | How well an exercise can load it |
+|---|---|---|
+| [Shoulder horizontal adduction](#shoulderhorizontaladduction) | **The largest horizontal-flexion moment arm of the ten shoulder muscles measured**, with the humerus elevated 90° (Kuechle et al., 1997) | Directly and completely. This is the bench press and the fly |
+| [Shoulder adduction](#shoulderadduction) | Among the three largest adductor moment arms at the joint, with the latissimus dorsi and teres major (Hik & Ackland, 2019) | Well, but almost every exercise that does it is a *pulling* exercise (Part II §B.2) |
+| Shoulder flexion | **The clavicular fibres alone**: peak flexion moment arm 53.7 ± 2.1 mm, the largest at the joint and larger than any deltoid sub-region's (Ackland et al., 2008) | Well, by an incline press or a front raise — but never alone (Part V §B.2) |
+| [Internal rotation](#internalrotation) | Present but modest; not the muscle's largest arm in any position | Never in isolation, and no exercise in this document targets it |
+
+**Two things follow immediately, and both are unusual.**
+
+- **This is the only muscle in the document whose single best action is a movement most people never train directly.** Horizontal adduction with the arm at shoulder height is what a fly *is*. Every press is that action with an elbow extension bolted onto it, which is why the elbow extensors are along for the ride whether you want them or not (Part VIII §C.5).
+- **The pectoralis major is a shoulder *adductor* and a *depressor* of the humeral head, in the same league as the latissimus dorsi** (Hik & Ackland, 2019). That is why it shows up in Part II's pulling exercises, why a chin-up recruits it more than a pull-up does (Part II §D.1), and why an overhead press does not train it (Part VIII §D.5).
+
+---
+
+### B.2 Three regions, three signs — the moment-arm map
+
+**Here is the fact that makes this muscle different from every other one in the document.** In the deltoid,
+the three heads have moment arms of opposite sign because they are on **opposite sides of the joint**
+(Part V §B.2). In the pectoralis major, the parts have moment arms of opposite sign while sharing a
+single insertion — because the *origins* are spread across half a metre of chest wall and the fibres
+therefore approach the humerus from above, from in front and from below.
+
+Eighteen muscle sub-regions were measured in eight cadaveric upper extremities by the tendon-excursion
+method, and the pectoralis major's sub-regions differed significantly from one another (P < 0.01)
+(Ackland et al., 2008):
+
+```
+THE PECTORALIS MAJOR'S THREE REGIONS, BY LEVERAGE
+                              In FLEXION            In ADDUCTION
+  Superior (clavicular)   ->  STRONGEST FLEXOR      small
+                              at the joint;
+                              53.7 +/- 2.1 mm
+  Middle (sternal)        ->  ~neutral: behaves     LARGE - one of the
+                              as a STABILIZER       biggest at the joint
+  Inferior (lower-costal) ->  EXTENSOR              LARGE - one of the
+                              (opposite sign to     biggest at the joint
+                              the clavicular head)
+```
+
+The authors state the result in one sentence, and it is the anatomical charter of this Part: *"the
+superior sub-region of the pectoralis major had the capacity to exert substantial torque in flexion,
+whereas the middle and inferior sub-regions tended to behave as a stabilizer and extensor,
+respectively"* (Ackland et al., 2008).
+
+**What this does and does not license.**
+
+- **It licenses the concept of an "upper" and a "lower" chest as a mechanical statement.** The top of this muscle and the bottom of it genuinely pull the arm in opposite directions in the sagittal plane. That is not folklore; it is measured leverage.
+- **It does not license the inference that a bench angle selects between them.** The action a bench press is built out of is horizontal adduction, and in horizontal adduction the *middle* segments do the work regardless of how much the shoulder is flexed (Paton & Brown, 1994). Bench angle changes shoulder flexion. It changes the one variable that horizontal-adduction recruitment was found to be insensitive to.
+- **It explains why the two regional predictions that have been tested came out weak.** The lever difference between the regions is a *flexion–extension* difference, and neither a flat nor an incline bench press is primarily a flexion–extension exercise.
+
+**One consequence for the reader who wants an upper chest.** If the clavicular fibres are separated from
+the rest by their **flexion** moment arm, then the movement that separates them is one in which the arm
+travels **upward in front of the body** — which is a front raise or a steep incline press, not a moderate
+incline press. Part V already records the measurement: the front raise produced by far the highest
+clavicular pectoralis major activity of the five movements compared in competitive bodybuilders
+(Coratella et al., 2020), and the entry for it is Part V §D.2. **Promising but under-replicated**: no trial has tested a front raise for pectoral growth.
+
+---
+
+### B.3 Length and leverage — where this muscle is long and where it is loaded
+
+The pectoralis major is longest when the arm is **behind the plane of the torso and out to the side** —
+the bottom of a fly, the bottom of a deep press, the bottom of a [dip](#dip). It is shortest when the arm is
+across the chest and slightly down, which is the finish of a cable crossover and a position no press
+reaches.
+
+```
+PECTORALIS MAJOR LENGTH BY ARM POSITION
+  Arm behind the torso, abducted ~70-90 deg   LONGEST     bottom of a fly,
+                                              (+ passive  bottom of a deep
+                                              tension)    press, bottom of a dip
+  Arm level with the torso, abducted 70 deg   Long        bar touching the chest
+  Arm forward, elbow near the midline         Short       lockout of any press
+  Arm across the chest, hand past the midline SHORTEST    finish of a crossover
+  Arm overhead (>140 deg elevation)           Long but    the muscle has almost
+                                              unloaded    left the movement
+```
+
+**The last row is measured, not inferred.** Maximum voluntary isometric shoulder torque was recorded at
+eight elevation angles from 90° to 160° in fourteen healthy men; across that arc **pectoralis major
+activity fell from 68.9 ± 24.2% of maximum to 19.8 ± 5.6%** while middle deltoid activity rose
+(Aronis et al., 2025). Above roughly shoulder height the pectoralis major hands the movement over. This
+is the mechanical reason an overhead press is a deltoid exercise and not a chest exercise, and it is
+stated here rather than in Part VIII §D.5 because it is the only place in the Part where the handover was
+actually measured.
+
+**What limits the bottom position is the muscle's own passive properties.** Shear-wave elastography of the
+clavicular part in thirty-nine participants found its **passive stiffness at long muscle
+length — its [shear elastic modulus](#shearelasticmodulus) — correlated negatively with active shoulder
+extension range** (r_s = −0.33, p = 0.04), while the
+same measurement at short muscle length did not (r = −0.23, p = 0.17) (Konrad et al., 2024). **Moderate
+evidence** — a correlation of that size leaves most of the variance to other tissues, and the authors say
+so themselves, naming nerve and fascial stiffness and stretch tolerance as candidates. **The practical
+reading is narrow and useful:** how far behind your torso your arms will travel is partly a property of
+this muscle, it is measurable, and it is the thing that decides how much range a fly or a deep press has
+available (Part VIII §C.3).
+
+**What has *not* been measured, stated plainly.** Nobody knows where on the
+[force–length relationship](#forcelengthrelationship) the human pectoralis major operates. There is no
+equivalent here of the sarcomere-length measurements that anchor Part III §B.3. The one relevant number —
+sarcomere length of 2.53 µm in a cadaver fixed with the arm at the side (Part VIII §A.4) —
+says the muscle is near optimal length in **that** position and nothing about any other. Every claim in
+this Part about "the lengthened position" is therefore a claim about **joint angle**, not about
+sarcomere length, and is labelled accordingly.
+
+---
+
+### B.4 What decides which exercise trains which region
+
+Part VII could answer this question with a structural fact: one hamstring does not cross the hip, so hip
+extension cannot reach it. **There is no such fact here.** Every part of the pectoralis major crosses the
+same single joint, so every exercise reaches all of it to some degree, and the question is only ever one
+of *degree*. That is a much weaker starting position, and the evidence reflects it.
+
+```
+WHAT ACTUALLY SEPARATES THE REGIONS, IN ORDER OF EVIDENCE STRENGTH
+  1. NOTHING SEPARATES THEM COMPLETELY. One joint, one insertion.
+     Twelve weeks of pec deck alone grew both regions - clavicular +17-18%,
+     sternocostal +21% (Pinto 2025).
+
+  2. ARM PATH separates them acutely. Incline pressing raised clavicular
+     excitation above sternocostal; flat pressing did the reverse
+     (Albarello 2022). This is the strongest and most reproducible finding.
+
+  3. BENCH ANGLE has ONE chronic trial behind it, at ONE of three sites,
+     in untrained men training once a week - and in that trial the group
+     that did BOTH exercises was no different from the flat-only group
+     at that site (p = 0.52), and every arm reported growth several times
+     larger than the rest of this document's evidence base (Chaves 2020).
+
+  4. NOTHING FINER HAS EVER BEEN TESTED. The sternocostal head has 6-7
+     architectural segments (Fung 2009); no study has measured growth in
+     any of them.
+```
+
+**The single most useful exercise-selection fact in this Part is not about regions at all.** Ten weeks
+of bench pressing — nothing else — raised MRI cross-sectional area of the pectoralis major, the
+pectoralis minor, the anterior deltoid and the triceps brachii above control in thirteen men against
+eleven controls, and **the pectoralis major grew more than the pectoralis minor and more than the triceps
+brachii** (P ≤ 0.030) (Lanza et al., 2024). The bench press is a pectoral exercise first and everything
+else second, and that is measured rather than assumed. **Moderate evidence** — one trial, MRI, flat bench
+press only, 3–4 sets of 12 at 50–55% of one-repetition maximum, well short of
+[momentary failure](#momentaryfailure).
+
+---
+
+### B.5 The two steering wheels — bench inclination and grip width
+
+Two variables move the load in this Part. Both have direct measurements, and **both turn out to do less
+than they are credited with**.
+
+| Variable | What the geometry predicts | What was measured |
+|---|---|---|
+| **Bench inclination** | More shoulder flexion, so more clavicular involvement | Acutely, yes (Albarello et al., 2022). Over a whole concentric contraction, **upper pectoralis activity did not differ across 0°, 30°, 45° and −15°** — only in the 26–50% window did 30° (122.5 ± 10.1% MVIC) and 45° (124 ± 9.1%) exceed flat (98.2 ± 5.4%) (Lauver et al., 2016) |
+| **Bench inclination, lower region** | Less involvement as the bench rises | Confirmed, and it is the clearer of the two effects: lower pectoralis activity at 45° (71.9 ± 4.5% MVIC) was below −15° (100.4 ± 5.7%), flat (100.1 ± 5.2%) and 30° (86.6 ± 4.8%) (Lauver et al., 2016) |
+| **Bench inclination, the price** | — | **Six-repetition-maximum load was 18.5–21.5% lower on an incline** than on a flat or declined bench in twelve national- and international-level bench press athletes (Saeterbakken et al., 2017) |
+| **Grip width** | A wider grip puts the hand further from the shoulder, so the shoulder's [torque](#torque) demand rises (Part VIII §B.9) | Larger pectoralis major activity for wider grips in a musculoskeletal-model study (Noteboom et al., 2024) — but **no difference in pectoralis activation across narrow, medium and wide grips** in competition-level athletes (Saeterbakken et al., 2017), and **no change in the pectoral-to-triceps activity ratio** between an 81 cm and a 40 cm grip (Tanimoto et al., 2023) |
+| **Grip width, the price** | — | Six-repetition-maximum load was **5.8–11.1% greater** with a medium or wide grip than a narrow one (Saeterbakken et al., 2017), and grips wider than 1.5 biacromial widths raised compression at the [acromioclavicular joint](#acromioclavicularjoint) and posterior shear at the shoulder — both of them [joint reaction forces](#jointreactionforce) (Noteboom et al., 2024) |
+
+**The most important row is the fourth, and it needs unpacking, because two good studies appear to
+disagree with the geometry and with each other.** The resolution is in Part VIII §B.9 and it is not a
+measurement error: lifters **change the direction of the force they apply to the bar** as grip width
+changes, and the change is large enough to cancel the geometric difference.
+
+> **The rule, in one line.** Bench inclination reliably changes which region works *hardest at a given
+> instant*, changes the *whole-contraction* picture much less, and costs about a fifth of the load. Grip
+> width changes the geometry a great deal and the measured muscle activity almost not at all, while
+> changing joint loading a great deal. **Neither is the lever people think it is.**
+
+---
+
+### B.6 The stimulus map for the pectoralis major
+
+```
+ARM POSITION                    PM LENGTH   PM DEMAND    JOINT COST      WHAT IT NEEDS
+------------------------------------------------------------------------------------------------
+Arm at shoulder height,         LONGEST     Highest      Highest         The productive
+behind the torso plane                      (fly bottom,  posterior      position. Everything
+(fly bottom, deep press,                     bar at       shear at the   in section D.1 and
+dip bottom)                                  chest)       shoulder       D.3 loads it
+
+Arm at shoulder height,         Long        High         Moderate        The bench press's
+level with the torso                                                     working range
+
+Arm forward and up,             Mid         Moderate     Low             Incline pressing;
+30-45 deg above horizontal                  (clavicular                  clavicular fibres
+                                             fibres)                      preferentially
+
+Arm forward, elbow near         SHORT       Low          Low             Lockout. Almost no
+the midline                                                              pectoral demand left
+
+Arm across the midline          SHORTEST    Low but      Low             Crossover finish only;
+                                            non-zero                     no press reaches it
+
+Arm overhead (>140 deg)         Long        NEARLY NIL   Depends on      The muscle has left
+                                            (19.8 +/-    the cuff        the movement
+                                             5.6%)                       (Aronis 2025)
+```
+
+**Read the "joint cost" column, because it is the one that separates this Part from Part VII.** In the
+hamstrings the productive position and the dangerous position were the same position and the answer was
+to train it anyway. Here they are also the same position — **and the answer is still to train it**, but
+with three specific constraints on how you arrive there (Part VIII §C.2), because the tissue that fails
+is a tendon rather than a muscle belly and it fails suddenly.
+
+---
+
+### B.7 Resistance profiles
+
+A [resistance profile](#resistanceprofile) says where in the range an exercise is hardest. For this muscle
+the profiles differ more between *implements* than between *exercises*, which is not true of any other
+Part.
+
+| Exercise family | Profile | Where the pectoral demand peaks |
+|---|---|---|
+| **Barbell press, any angle** | Stretch-loaded at the shoulder; the whole-system hardest point sits a little above the chest (Part VIII §B.8) | At the chest |
+| **[Dumbbell press](#dumbbellbenchpress)** | As above, plus a lateral stability demand the barbell removes | At the chest, with more range available below it |
+| **[Machine chest press](#machinechestpress)** | Depends entirely on the cam, and manufacturers do not publish them | Wherever the cam puts it |
+| **Dumbbell fly** | **Strongly stretch-loaded and it falls to almost nothing at the top** — the resistance arm is the horizontal distance from shoulder to hand, which goes to zero as the hands meet | At the bottom, and nowhere else |
+| **Cable fly / crossover** | **Near-constant** through the range, because the cable pulls horizontally rather than vertically | Roughly even; the only chest exercise that still loads the shortened position |
+| **Pec deck** | Near-constant, machine-dependent | Roughly even |
+| **[Push-up](#pushup)** | As the barbell press, scaled to a fraction of body mass | At the bottom |
+| **Dip** | Stretch-loaded, and the deepest available shoulder extension of any exercise here | At the bottom |
+
+**The dumbbell fly's profile is the reason it is both the best and the worst chest exercise in the
+catalogue.** It loads the lengthened position better than anything else and the shortened position worse
+than anything else, and the two facts are the same fact — the moment arm of a vertically hanging dumbbell
+about the shoulder shrinks to nothing as the arms come together. **A cable crossover is the fix**, and it
+is the only exercise here that keeps tension where a dumbbell has none.
+
+---
+
+### B.8 The sticking region — the one thing that makes this lift different
+
+Every heavy bench press has a point a few centimetres above the chest where the bar slows down or stops.
+No other exercise in this document has a named, modelled, reproducible failure point.
+
+**What the [sticking region](#stickingregion) is, mechanically.** The trunk and upper limbs were modelled as a chain of rigid links actuated
+by single- and two-joint muscles with the motion constrained by the barbell, and the equations solved in
+closed form (Evangelista et al., 2025). Three results matter:
+
+- **The sticking region appears when the shoulder's torque capacity drops below a critical threshold**, producing a local minimum in bar velocity. It is a **capacity** problem at the shoulder, not a demand spike.
+- **Adding elbow torque shifts the velocity minimum from 38 cm to 23 cm above the chest** and shallows it — but lengthens the time spent passing through it.
+- **Grip width and the barbell constraint shaped the sticking region more than the muscle architecture parameters did.** Where you grip changes the sticking point more than what your muscles are made of.
+- **The elbow extensors contribute minimally in the early phases and become dominant near full extension.**
+
+The model reproduced measured bar velocity closely before the sticking region (similarity index 0.962,
+p = 0.028) and through it (0.949, p = 0.014), and less well afterwards (0.881, not significant), which
+the authors attribute to their assumption of constant torques.
+
+**What follows for training, and it is more than it looks.**
+
+1. **The bench press is limited at the shoulder, not the elbow, over the range where the pectoralis major does its work.** That is the mechanical counterpart of the architecture in Part VIII §A.4.
+2. **Failing at the sticking region is not evidence of a weak triceps.** The triceps takes over *above* it.
+3. **Failing at lockout is evidence of a weak triceps**, and that is a different problem with a different fix (Part VIII §C.5).
+4. **A paused repetition removes the elastic contribution and moves the whole problem earlier**, which is why a paused bench press is harder than a touch-and-go one at the same load and why the two should not be compared.
+
+---
+
+### B.9 A worked example, so the numbers are not abstract
+
+**The question.** Does a wider grip make the bench press more of a chest exercise?
+
+**Step 1 — the geometry.** Take a lifter with a biacromial width of 40 cm, so each
+shoulder joint sits roughly 20 cm from the midline. The barbell force on each hand is vertical. The
+moment it exerts about the shoulder in the adduction direction is that force times the **sideways
+distance from the shoulder to the hand**.
+
+```
+GRIP WIDTH -> SHOULDER ADDUCTION TORQUE
+Lifter: biacromial width 40 cm; bar 100 kg, so ~490 N per hand
+
+  Grip        Hands apart   Hand offset from   Adduction torque
+  (BAW)       (cm)          the shoulder (cm)  per shoulder (N.m)
+  ---------------------------------------------------------------
+  1.0          40             0                  0
+  1.5          60            10                 49
+  2.0          80            20                 98
+```
+
+**Step 2 — read it.** Widening from 1.5 to 2.0 biacromial widths **doubles** the adduction torque at the
+same bar load. And at a grip equal to the biacromial width, the hands sit directly above the shoulders
+and **the barbell exerts no adduction torque at the shoulder at all** — the entire demand falls on the
+shoulder flexors and the elbow extensors. That is the mechanical definition of a close-grip bench press,
+and it is why that variant is a triceps exercise. **Narrower still and the moment changes sign**: with the
+hands inside the shoulders the bar pushes the arms *toward* the midline, and it is the abductors, not the
+adductors, that resist it — so a very close grip does not merely reduce the pectoral demand, it removes
+it.
+
+**Step 3 — the prediction, and its failure.** The geometry predicts that a wide grip should shift the work
+markedly toward the pectoralis major. **Two studies looked and did not find it.** In twelve
+national- and international-level bench press athletes, pectoralis major activation did not differ
+significantly across narrow, medium and wide grips (Saeterbakken et al., 2017). In seven trained and
+seven untrained men lifting a ten-repetition maximum, the pectoral-to-triceps activity ratio was
+unchanged between an 81 cm and a 40 cm grip in every condition but one (Tanimoto et al., 2023) — and for
+the 40 cm biacromial width of step 1, those two grips are almost exactly its 2.0 and 1.0 rows.
+
+**Step 4 — the resolution, which is the point of this section.** The same study that failed to find the
+predicted difference **measured why**. It recorded the sideways force the hands applied to the bar:
+
+```
+WHAT LIFTERS ACTUALLY DO TO THE BAR (Tanimoto 2023, all repetitions averaged)
+  Wide grip  (81 cm)  ->  about 30% of the vertical force, directed OUTWARD
+  Narrow grip (40 cm) ->  about 10% of the vertical force, directed INWARD
+  Both patterns present in trained AND untrained lifters
+```
+
+**Pushing outward on a wide grip tilts the resultant force at the hand toward the shoulder, which shortens
+its moment arm.** The lifter is spontaneously undoing the geometry of step 1. Pushing inward on a narrow
+grip does the reverse. **The measured muscle activity is the geometry *after* the lifter's correction, and
+the correction is large enough to cancel it.**
+
+**Step 5 — the independent confirmation, from a different method.** A musculoskeletal model driven by
+motion capture and an instrumented barbell in ten experienced strength athletes reached the same place
+from the other side: mediolateral hand forces "varied considerably between athletes and largely affected
+shoulder reaction forces", with a median between 15% and 35% of the vertical force and a standard
+deviation reaching 64% (Noteboom et al., 2024). The two participants who pushed **medially** — which the
+simulation shows raises joint reaction forces — were the two with the least bench press experience,
+3 years against 8 ± 4 for the rest.
+
+> **What the worked example establishes.** Grip width is not a dial that sets the chest-to-triceps ratio;
+> **the direction you push is.** A cue to press *out* against the bar as well as up is one of the very few
+> cues in this document with a measured mechanical justification, and it is justified twice — once because
+> it reduces the shoulder's moment arm, and once because it lowers joint reaction forces
+> (Noteboom et al., 2024). **Moderate evidence:** both studies are small, and neither followed the cue
+> through to a growth or an injury outcome.
+
+**And the second question, answered the same way.** *Does arching the back help?* Fifteen competitive
+powerlifters performed flat-back and arched-back bench presses at 50%, 70% and 90% of the respective
+one-repetition maximum (Bartolomei et al., 2024):
+
+```
+THE ARCH, MEASURED
+  One-repetition maximum      arched +4.2 kg   (95% CI +0.0 to +8.4, ES 0.22)
+  Barbell displacement        FLAT greater at every load       (ES 0.40-0.61)
+  Mean barbell velocity       FLAT greater  +0.052 m/s         (ES 0.42)
+  Peak barbell velocity       FLAT greater  +0.068 m/s         (ES 0.27)
+  Power                       no difference
+  Upper AND lower pectoralis
+    excitation                NO DIFFERENCE between techniques
+  Triceps excitation          trend toward higher when arched
+```
+
+**Read the confidence interval on the first row.** Its lower bound touches zero, so the load advantage is
+real but small and imprecisely estimated. **Read the second row against it.** The arch buys a little load
+and costs range of motion at every load tested, and it does not change how hard either region of the
+pectoralis major works. **For a competition total the trade is good. For hypertrophy it is
+the wrong way round**, because range of motion is the variable the training literature repeatedly favours
+and 4 kg is not (Part VIII §C.6).
+
+---
+
+### B.10 Setup variables
+
+| Variable | What it does | Evidence |
+|---|---|---|
+| **Grip width** | Sets the shoulder's external moment arm — and is then partly cancelled by hand-force direction (Part VIII §B.9) | Measured both ways |
+| **Elbow flare / shoulder abduction angle** | 45° of abduction produced larger glenohumeral **superior** shear at the start and end of the lift than 70° or 90°; so did a 1 BAW grip (Noteboom et al., 2024) | One modelling study, ten athletes |
+| **Scapular pose** | Retraction lowered glenohumeral compression, posterior shear and **all** rotator cuff activity — and also lowered pectoralis major activity (Noteboom et al., 2024) | As above. Retraction versus neutral did not change one-repetition maximum in a separate study the same authors cite |
+| **Bench inclination** | Part VIII §B.5 | Two acute studies, one chronic trial |
+| **Back arch** | Trades range of motion for about 4 kg (Part VIII §B.9) | Fifteen powerlifters |
+| **"Releasing" the scapulae** | Nothing measurable. No difference in any joint reaction force against a neutral scapula (Noteboom et al., 2024) | One study; a clean null |
+| **Bar path** | The bar does not travel straight up; it moves toward the head as it rises. This is a consequence of the shoulder's geometry, not a technique choice | [consensus — no single source] |
+| **Pause versus touch-and-go** | Removes the elastic contribution and makes the sticking region the whole problem (Part VIII §B.8) | Mechanical |
+
+**The scapular retraction row deserves a sentence of its own, because it contains a genuine trade-off
+and the literature usually reports only half of it.** Retraction lowers every rotator cuff muscle's
+activity and lowers glenohumeral shear — and it lowers pectoralis major activity too
+(Noteboom et al., 2024). You are buying joint safety with a small amount of stimulus. **This document's
+recommendation is to buy it** (Part VIII §C.6), because the thing being protected fails suddenly and the
+thing being given up is a few percent of one exercise's activation.
+
+---
+
+### B.11 What EMG can and cannot settle here
+
+**The pectoralis major is the muscle where surface EMG has most consistently failed to
+discriminate between exercises, and the failures are worth listing because they are all in the same
+direction.**
+
+| Comparison | Prediction | Measured result |
+|---|---|---|
+| Flat vs incline vs decline bench, wide grip, elite athletes | Different | **No significant difference in pectoralis major activation** (Saeterbakken et al., 2017) |
+| Narrow vs medium vs wide grip, elite athletes | Different | **No significant difference** (Saeterbakken et al., 2017) |
+| Bench angle across a whole concentric contraction | Upper region higher on an incline | **No difference over the complete contraction**; differences only in one quarter of it (Lauver et al., 2016) |
+| Lying bench press vs seated chest press, four grips | Different | Clavicular activity differed by ~5% MVIC between the extremes; anterior deltoid did not differ at all. Authors' conclusion: *"all exercises and grips showed similar muscle activity"* (Muyor et al., 2023) |
+| Push-up vs bench press at matched load | Open versus closed chain should differ | **No differences in kinematics or muscle activation** (van den Tillaar, 2019) |
+| Flat-back vs arched-back bench press | Different regional emphasis | **No difference in upper or lower pectoralis excitation** (Bartolomei et al., 2024) |
+| Wide vs narrow grip, pectoral-to-triceps ratio | Wide shifts work to the chest | **Unchanged** (Tanimoto et al., 2023) |
+| Barbell vs Smith machine vs dumbbell chest press | Stability requirement should change the demand | **Pectoralis major and anterior deltoid activity did not differ** between the three — across a 17% spread in the load lifted (Saeterbakken et al., 2011) |
+
+**Seven of those eight comparisons are nulls, and the eighth separated two exercises by about five
+percentage points of a maximal contraction. That is not a coincidence, and it is not a criticism of the
+method.** It is telling you
+something about the muscle: **a single fan with a single insertion, loaded by a movement it has the
+largest moment arm for at the joint, works near its ceiling in every variation of that movement.** The
+variations change joint loading, load capacity and range of motion. They do not change how hard this
+muscle works, because it is already working.
+
+**The one place regional EMG *did* discriminate is the exception that proves the rule.** When electrodes
+were placed separately over the clavicular and sternocostal heads, the two regions dissociated sharply
+by bench angle (Albarello et al., 2022) — and so did a regional analysis of the sternocostal head across
+bench press ranges of motion, where peak excitation was significantly greater in the sternocostal 15%
+region during the upper half of the lift (Fischer et al., 2025). **Whole-muscle electrodes cannot see a
+regional effect, and every null above used whole-muscle electrodes.**
+
+**What none of it settles.** No EMG ranking in this literature has ever been checked against growth in
+this muscle. The one trial that measured regional growth from bench angle found one of three sites
+differing (Chaves et al., 2020); the one that measured regional growth without varying the angle found
+no regional difference at all (Pinto et al., 2025). Part V §B.11's rule stands here in its strongest
+form: **activation is evidence about what worked, not about what will grow.**
+
+---
+
+### B.12 The mechanical checklist
+
+Six questions. If a chest exercise passes all six, its selection is defensible on mechanics alone.
+
+1. **Does the arm travel across the body, or up and across?** If neither, it is not a pectoral exercise (Part VIII §D.5).
+2. **Does the shoulder reach or pass the plane of the torso at the bottom?** That is where the muscle is longest and where the loading is (Part VIII §B.6).
+3. **Is there still tension at the finish?** A dumbbell fly has none; a cable crossover does (Part VIII §B.7).
+4. **Is the load one you could stop at any point of the descent?** If not, the eccentric is being completed by gravity, and that is the mechanism in Part VIII §A.9.
+5. **Are the scapulae set, and do they stay set?** (Part VIII §C.6.)
+6. **Are you pressing out against the bar as well as up?** (Part VIII §B.9.)
+
+---
+## partviiictherepspecified
+
+**PART C — The rep, specified**
+
+### C.1 The two pectoral reps
+
+Every exercise in Part VIII §D is one of two movements. Everything else — barbell or dumbbell, flat or
+incline, machine or cable — is a variation on one of them.
+
+**Rep 1 — the press.** Two joints move: the shoulder adducts horizontally and flexes, and the elbow
+extends.
+
+```
+THE PRESS
+  Set-up   Scapulae retracted and held there for the whole set. Feet planted.
+           Grip 1.3-1.6 biacromial widths for the chest; narrower is a
+           triceps exercise (Part VIII §B.9).
+  Descent  2-3 s. Elbows track at roughly 45-70 deg from the torso, not
+           90 deg (Part VIII §C.2). Bar or handles arrive at the lower
+           chest. The upper arm reaches or slightly passes the plane of
+           the torso.
+  Bottom   No bounce, no rest on the chest. The load is still yours.
+  Ascent   1-2 s, pressing OUT against the bar as well as up
+           (Part VIII §B.9). Bar drifts toward the head as it rises.
+  Finish   Elbows extended, scapulae still retracted. Do NOT push the
+           shoulders forward off the bench at the top.
+```
+
+**Rep 2 — the fly.** One joint moves: the shoulder adducts horizontally. The elbow is set at a fixed,
+slightly bent angle and held there.
+
+```
+THE FLY
+  Set-up   Scapulae retracted. Elbow bent 15-30 deg and LOCKED at that
+           angle for the whole set.
+  Descent  2-3 s. Arms open outward until the hands are level with or
+           slightly behind the plane of the chest. Stop where the shoulder,
+           not the chest, starts to complain.
+  Bottom   The lengthened position. Everything in Part VIII §B.6 happens here.
+  Ascent   1-2 s, hands travelling in an arc, not a straight line.
+  Finish   On a cable, keep going until the hands cross. On dumbbells,
+           there is nothing left to resist above about 45 deg
+           (Part VIII §B.7).
+```
+
+**The one difference that matters between them.** In a press, the elbow extensors can rescue a
+repetition the chest cannot finish, so the set ends when the *system* fails. In a fly, nothing can rescue
+it, so the set ends when this muscle fails. That is why a fly is the more honest exercise and the more
+dangerous one, and why the load on it should be chosen so that the bottom position is arrived at rather
+than fallen into.
+
+---
+
+### C.2 The technical errors, in order of how much they cost
+
+| # | Error | What it costs | Fix |
+|---|---|---|---|
+| 1 | **Lowering a load you could not stop** | The mechanism of Part VIII §A.9. The eccentric is completed by gravity at the exact joint angle where the tendon is most loaded | Pick a load you can pause at the chest for one second on every repetition of the set |
+| 2 | **Elbows at 90° to the torso** | Maximal shoulder abduction at maximal load. Glenohumeral shear is **always posteriorly directed** during a bench press and rises with grip width (Noteboom et al., 2024) | 45–70° of abduction. Not 90°, and not tucked to the ribs either — 45° raised superior shear at the start and end (Noteboom et al., 2024) |
+| 3 | **Losing scapular retraction as the bar descends** | Every rotator cuff muscle's activity rises and glenohumeral compression and posterior shear rise with it (Noteboom et al., 2024) | Set the scapulae before the bar leaves the rack and treat them as part of the bench, not part of the movement |
+| 4 | **Bouncing the bar off the chest** | Removes the eccentric contribution at the one position where the muscle is longest, and hides the sticking region (Part VIII §B.8) | Touch, do not compress. Pause if bouncing is habitual |
+| 5 | **A grip narrower than one biacromial width** | Turns the exercise into a triceps exercise — the barbell exerts essentially no adduction torque at the shoulder (Part VIII §B.9) — and raises superior shear (Noteboom et al., 2024) | 1.3–1.6 BAW for pectoral work; keep the narrow grip as a separate triceps exercise if you want one |
+| 6 | **A grip wider than two biacromial widths** | Raises acromioclavicular compression and glenohumeral posterior shear (Noteboom et al., 2024) without raising measured pectoral activation (Saeterbakken et al., 2017) | The cost is real and the benefit is not measurable. Stay inside 1.6 BAW |
+| 7 | **Pushing the shoulders forward at lockout** | Trades a stable scapular base for two centimetres of range that the pectoralis major has almost no leverage in anyway (Part VIII §B.6) | Finish with the elbows extended and the shoulder blades where they started |
+| 8 | **Stopping the descent short on a fly to "protect the shoulder"** | Removes the only part of the range that a fly exists for | If the bottom hurts, the exercise or the load is wrong — not the range (Part VIII §E.4) |
+| 9 | **Arching to move more weight in a hypertrophy block** | Buys about 4 kg and costs range of motion at every load, with no change in pectoral excitation (Bartolomei et al., 2024) | Reserve the arch for testing a one-repetition maximum |
+
+**Errors 1, 2 and 3 are the injury set** and they are the reason Part VIII §A.9 exists. Errors 5 and 6
+are the two ends of the same dial. Errors 4, 7, 8 and 9 are stimulus errors: they cost growth, not
+tissue.
+
+---
+
+### C.3 Prerequisites — can you actually reach the position?
+
+**One test, and it is the same test as the measurement in Part VIII §B.3.**
+
+```
+THE SHOULDER EXTENSION TEST
+  Lie face down on the floor, arms straight out to the sides at shoulder
+  height, palms down.
+  Keeping the chest on the floor, lift both hands.
+
+  Both hands leave the floor cleanly     ->  Full range available. Fly and
+                                             deep press without modification.
+  Hands lift with effort, chest lifts    ->  Restricted. Use a fly to build
+    slightly                                 the range under load, from a
+                                             conservative depth.
+  Hands barely lift                      ->  Restricted enough that a deep
+                                             barbell press will be taken up
+                                             by the shoulder joint rather
+                                             than the muscle. Start with
+                                             dumbbells or a machine.
+```
+
+**Why this test and not a stretch.** The measurement behind it found the clavicular pectoralis major's
+passive tension **at long muscle length** correlated with active shoulder extension
+range, while the same measurement at short length did not (Konrad et al., 2024). The property that limits
+you is a property of the muscle *in the stretched position*, so the test has to be performed there.
+**Moderate evidence**, and with a caveat the authors state themselves: the correlation was moderate, so
+other tissues and simple stretch tolerance account for most of the range.
+
+**And the practical consequence, which is unusual.** For every other muscle in this document, a mobility
+restriction is a reason to reduce range. Here it is a reason to **load the range you have and let the
+exercise build it**: strength training through a full available range increases that range as reliably as
+stretching does (Afonso et al., 2021), and the fly loads exactly the position the test measures.
+
+---
+
+### C.4 Cues — which ones work and which ones harm
+
+| Cue | Verdict | Why |
+|---|---|---|
+| "Press **out** against the bar as well as up" | **The best cue in this Part** | It shortens the barbell's moment arm at the shoulder and lowers joint reaction forces, and lifters who do the opposite are the least experienced ones (Part VIII §B.9) |
+| "Bend the bar" / "break the bar" | **Useful, same mechanism** | A different verbal route to the same outward force |
+| "Set the shoulder blades and keep them set" | **Useful** | Lowers every rotator cuff muscle's activity and glenohumeral shear (Noteboom et al., 2024) |
+| "Elbows at 45–70°, not 90°" | **Useful** | Part VIII §C.2, error 2 |
+| "Touch, do not bounce" | **Useful** | Preserves the eccentric at the longest length |
+| "Squeeze the chest at the top" | **Harmless on a cable, useless on a barbell** | There is no meaningful pectoral leverage at press lockout (Part VIII §B.6). On a crossover, where the hands cross the midline, there genuinely is |
+| "Think about the chest doing the work" | **Modest and specific** | An internal [attentional focus](#attentionalfocus) raises the activity of the muscle named, and the general finding is in Part II §C.4. Ten weeks of targeted pectoral training plus bench pressing raised pectoralis major activity during the bench press (p = 0.0002, ES = 2.6) where bench pressing alone did not (Strońska-Garbień et al., 2024). **Promising but under-replicated** — sixteen men, EMG only, no size measurement |
+| "Tuck the elbows to the ribs" | **Harmful for this muscle** | It is a powerlifting cue for moving load, and it makes the exercise a triceps exercise (Part VIII §B.9) |
+| "Lower to the neck for the upper chest" | **Not supported and mechanically expensive** | The upper region is separated by a *flexion* moment arm, not by a touch point (Part VIII §B.2), and a high touch point maximises shoulder abduction |
+| "Flare the elbows to stretch the chest" | **Harmful** | The stretch comes from the arm passing the plane of the torso, not from abduction. Flaring adds shear without adding length |
+
+---
+
+### C.5 The limiting links
+
+**What actually ends a set, in order of how often it is the real answer.**
+
+| Limiter | How you know | What to do |
+|---|---|---|
+| **The shoulder's torque capacity at the sticking region** | The bar stops 20–40 cm above the chest and never recovers (Part VIII §B.8) | Nothing is wrong. This is the exercise working. Train it |
+| **Position, not tissue** | The scapulae slide, the elbows drift, the ribcage drops | A technique problem wearing a strength problem's clothes. Fix Part VIII §C.2 first |
+| **The triceps at lockout** | The bar clears the sticking region and stalls in the last 10 cm | A genuine triceps limit. Add direct elbow extension work; the triceps takes over above the sticking region (Evangelista et al., 2025) |
+| **The anterior deltoid** | Front-of-shoulder fatigue and soreness dominating chest soreness after pressing | Common in programmes with heavy overhead pressing on adjacent days (Part VIII §E.6) |
+| **The pectoralis major itself** | Only reliably on a fly or a crossover, where nothing else can finish the repetition | This is the point of including one |
+| **Grip and wrist** | Rare, and specific to a very wide grip | Narrow the grip; it costs nothing measurable (Part VIII §B.5) |
+
+**The architecture makes the first and third rows predictable.** A muscle with 8.1 cm² of PCSA driving a
+joint whose synergist has 29.4 cm² is not usually the thing that runs out (Part VIII §A.4), and the
+modelling says the shoulder's torque capacity, not the elbow's, sets the sticking region
+(Evangelista et al., 2025). **If your bench press fails at the chest, the pectoralis major is the answer.
+If it fails at lockout, the triceps is.**
+
+---
+
+### C.6 The scapulae, the arch and the bench
+
+Three set-up decisions, and the evidence for each is unusually direct.
+
+**The scapulae: retract and hold.** Retraction lowered glenohumeral compression, lowered the posterior
+shear component and lowered **every** rotator cuff muscle's activity, throughout the whole movement cycle
+(Noteboom et al., 2024). It also lowered pectoralis major activity in the same study — a real cost, and
+a small one. The same authors note a separate study finding **no significant difference in
+one-repetition maximum** between a retracted and a more neutral scapula, so the trade is joint load
+against a few percent of activation with no loss of load capacity. **Take the trade.**
+
+**"Releasing" the scapulae is not a third option.** The same study tested a released condition, using a
+soft roller so the shoulder blades could move freely, and found **no difference in any joint reaction
+force** against neutral (Noteboom et al., 2024). It is a clean null, and it retires a technique that
+circulated on the argument that the bench prevents natural scapular motion.
+
+**The arch: a competition tool, not a hypertrophy tool.** Fifteen competitive powerlifters produced a
+one-repetition maximum 4.2 kg higher when arched, with a confidence interval whose lower bound touched
+zero — and **greater barbell displacement flat-backed at every load tested**, with no difference in
+either region's pectoral excitation (Bartolomei et al., 2024).
+
+```
+WHEN TO ARCH
+  Testing a 1RM, or competing                  ->  Arch. It is worth ~4 kg.
+  Hypertrophy block                            ->  Flat back, feet planted,
+                                                   natural lumbar curve only.
+                                                   You are buying range.
+  Shoulder that dislikes the bottom position   ->  A moderate arch legitimately
+                                                   shortens the range. Prefer
+                                                   changing the exercise
+                                                   (Part VIII §E.4).
+```
+
+**The bench itself.** A flat bench is narrower than most people's shoulder blades, which is what allows
+the arms to travel behind the plane of the torso at all. **A bench wider than your scapulae removes the
+bottom of the range**, and so does pressing on the floor — which is the entire mechanism of a floor
+press and the reason it is a triceps exercise rather than a chest one (Part VIII §D.5).
+
+---
+
+### C.7 How to know it worked
+
+**Within the set.** A burning, localized fatigue across the fan of the chest — not at the front of the
+shoulder, and not at the elbow. On a fly, the last two repetitions should be limited by the chest's
+inability to bring the arms together and by nothing else.
+
+**Within 48 hours.** Soreness across the chest wall including its lower and outer edge. **Soreness felt
+only at the front of the shoulder means the anterior deltoid took the set**, which is a technique or
+exercise-selection problem (Part VIII §C.2).
+
+**Within 8–12 weeks.** Measurable change. The trials this Part rests on found MRI cross-sectional area
+rising over 10 weeks of bench pressing alone (Lanza et al., 2024) and ultrasound thickness rising 17–21%
+over 12 weeks of a single machine exercise in untrained men (Pinto et al., 2025).
+
+**What is not evidence that it worked.**
+
+- **A bigger bench press.** Strength rises through neural and technical routes that do not require the muscle to change, and the arch alone is worth about 4 kg (Bartolomei et al., 2024).
+- **Chest circumference.** A tape around the chest measures ribcage, latissimus dorsi, and fat at the same time.
+- **A visible separation between "upper" and "lower" chest.** That line is where the clavicular head's inferior border sits, and it is anatomy plus low body fat, not a training outcome.
+
+---
+## partviiidexercisecatalogue
+
+**PART D — Exercise catalogue**
+
+Every entry gives its resistance profile (Part VIII §B.7), the setup detail that
+matters, and the failure mode. **Entries are grouped by what the resistance does through the range**,
+not by bench angle — because the profile is what differs between these exercises, and the angle
+demonstrably is not (Part VIII §B.11).
+
+A warning that applies to this Part and to no other: **the pectoralis major has more acute
+electromyographic comparisons behind it than any muscle in this document, and almost no chronic ones.**
+Four training trials with a **size** outcome carry the whole catalogue — one bench-press-only trial
+(Lanza et al., 2024), one bench-angle trial (Chaves et al., 2020), one pec-deck volume trial
+(Pinto et al., 2025) and one push-up trial (Kikuchi & Nakazato, 2017). Everything else below is a mechanical inference, and is written as one.
+
+---
+
+### D.1 Horizontal pressing — the default category
+
+Everything here moves the arm forward and inward against a load, with the elbow extending. This is the
+category with the only direct hypertrophy evidence, and the category the whole muscle can be built from.
+
+#### Barbell bench press, flat
+**Profile:** stretch-loaded at the shoulder; the whole-system hardest point sits 20–40 cm above the chest
+(Part VIII §B.8).
+**Role:** the default. Ten weeks of it alone raised MRI cross-sectional area of the pectoralis major
+above control, and the pectoralis major grew **more than the triceps brachii and more than the pectoralis
+minor** in the same lifters (Lanza et al., 2024).
+
+*Setup.* Scapulae retracted and held. Grip 1.3–1.6 biacromial widths. Feet planted.
+Elbows 45–70° from the torso.
+*Execution.* 2–3 s down to a light touch on the lower chest, 1–2 s up, pressing outward against the bar
+throughout (Part VIII §B.9).
+*Why it works.* It is the heaviest loadable version of the muscle's own best action, and it can be
+progressed in 1 kg steps for as long as you keep the touch point (Part VIII §F.5).
+*Failure mode.* The load descending faster than it was lowered (Part VIII §C.2, error 1), which is the
+injury mechanism of Part VIII §A.9.
+
+#### Dumbbell bench press
+**Profile:** as above, with more range available below the point where a barbell stops.
+*Trade.* More range and a longer lengthened position, against a harder set-up and a measured load
+penalty: one-repetition maximum with dumbbells was **17% below the barbell's** (P ≤ 0.001, ES = 1.11) in
+twelve trained men — while pectoralis major activity did not differ between the two
+(Saeterbakken et al., 2011).
+*Role.* **The best single substitute for the barbell**, and a better choice than the barbell for anyone
+whose shoulder dislikes a fixed hand path.
+
+#### Machine chest press
+**Profile:** whatever the cam says, and manufacturers do not publish them.
+*Role.* The safest way to take a chest set to momentary failure, because nothing has
+to be caught. Clavicular activity in a seated chest press with a neutral grip was marginally **higher**
+than in a lying barbell press at a wide grip (~30% versus ~25% MVIC), and the authors' conclusion was
+that all the exercises and grips they compared produced similar activity (Muyor et al., 2023).
+*Failure mode.* A seat height that puts the handles above the nipple line, which converts it into an
+incline press with the shoulder abducted.
+
+#### Smith machine bench press
+*Profile.* As the barbell, on a fixed path.
+*Trade.* Removes the stability requirement and with it some of the lateral force adjustment described in
+Part VIII §B.9. One-repetition maximum on it was **~3% below the free barbell's** (P = 0.016) and 14%
+above the dumbbell's, with no difference in pectoralis major activity between any of the three
+(Saeterbakken et al., 2011). A reasonable choice when training alone without a spotter.
+
+#### Close-grip bench press
+**Profile:** as the flat bench press, with the pectoral contribution removed by geometry.
+*Reality.* At a grip near one biacromial width the barbell exerts **essentially no adduction
+torque at the shoulder**, and inside that width the moment reverses sign (Part VIII §B.9). Triceps activity is higher at a 50% biacromial grip than at
+150% (~16% versus ~12% MVIC), and the authors' overall conclusion across all four exercise-and-grip
+conditions they compared was that muscle activity was similar (Muyor et al., 2023).
+*Role.* **A triceps exercise.** Count it in the elbow-extension column, not this one.
+
+---
+
+### D.2 Incline pressing — the clavicular category
+
+Everything here adds shoulder flexion to the horizontal adduction. It is the only exercise family with a
+chronic trial pointing at regional growth, and that trial is thin (Part VIII §A.5).
+
+#### Incline barbell bench press (30–45°)
+**Profile:** stretch-loaded; the clavicular fibres take a larger share at any instant.
+*Evidence note.* Acutely, clavicular excitation exceeded sternocostal on a 45° incline and the reverse on
+a flat bench (Albarello et al., 2022). Chronically, eight weeks of once-weekly incline pressing produced
+a greater thickness change at the second intercostal space than flat pressing — **at one of three sites,
+in untrained men, in a trial whose raw growth figures average more than twice those of a longer trial in
+the same population, and in which adding an incline press to a flat press changed nothing**
+(Chaves et al., 2020). **Evidence remains limited and
+inconsistent.**
+*The price, measured.* Six-repetition-maximum load is **18.5–21.5% lower** on an incline than on a flat
+or declined bench (Saeterbakken et al., 2017).
+*Setup.* 30° rather than 45° if you want to keep the lower region working — lower pectoralis activity at
+45° fell below flat, 30° and decline (Lauver et al., 2016) — and never above 60°, where anterior deltoid
+activity is highest and pectoralis major performance falls (Rodríguez-Ridao et al., 2020). Past that
+angle you are doing an [overhead press](#overheadpress) with a backrest.
+*Failure mode.* Drifting toward a shoulder press as the bench angle rises.
+
+#### Incline dumbbell press
+*Profile.* As above, with more range and a longer bottom position.
+*Role.* The better incline choice for most people, because the shoulder is not locked to a bar path at
+the one angle where the joint is least comfortable.
+
+#### Low-incline press (15°)
+*Role.* A compromise nobody has tested. Mechanically it sits between the two, and the honest statement is
+that no measurement separates it from either.
+
+#### Decline bench press
+*Profile.* As the flat press, with slightly less shoulder flexion.
+*Reality.* Lower pectoralis activity at −15° (100.4 ± 5.7% MVIC) matched the flat bench (100.1 ± 5.2%)
+rather than exceeding it, and pectoralis activation did not differ between flat, incline and decline in
+competition-level athletes (Saeterbakken et al., 2017).
+*Role.* **Largely redundant.** It does what a flat bench does, with a more awkward set-up and a harder
+bar to unrack. Keep it if it is comfortable; do not add it for a "lower chest" it does not preferentially
+train.
+
+---
+
+### D.3 Flyes and crossovers — the isolation category
+
+One joint moves. Nothing can rescue a repetition, so the set ends when this muscle does — which makes
+this the only category in Part VIII where the pectoralis major is reliably the
+[limiting link](#limitinglink) (Part VIII §C.5).
+
+#### Cable fly / crossover
+**Profile:** near-constant through the range — the only chest exercise that still loads the shortened
+position (Part VIII §B.7).
+**Role:** the best complement to a press, precisely because its profile is the press's opposite.
+
+*Setup.* Elbows bent 15–30° and locked. Pulleys set so the line of pull is horizontal at the midpoint of
+the range.
+*Execution.* Open until the hands are level with or just behind the plane of the chest; close until the
+hands cross the midline.
+*Why it works.* It is the only exercise here in which the finish position has meaningful resistance, and
+the only one that reaches the muscle's shortest length (Part VIII §B.6).
+*Failure mode.* The elbow angle opening and closing during the set, which converts it into a press.
+
+#### Pec deck (machine fly)
+**Profile:** near-constant, machine-dependent.
+*Evidence note.* **The single best-evidenced isolation exercise in this Part.** Twelve weeks of pec deck
+*alone* raised clavicular thickness 17–18% and sternocostal thickness 21%, and one set produced the same
+result as three in untrained men (Pinto et al., 2025).
+*Role.* The lowest-skill way to take the pectoralis major to failure. Its fixed arm path is a limitation
+for a tall or a short lifter and an advantage for everyone else.
+
+#### Dumbbell fly
+**Profile:** strongly stretch-loaded, falling to almost nothing above about 45° of the ascent
+(Part VIII §B.7).
+*Role.* The best loading of the lengthened position in the catalogue and the worst loading of everything
+above it. Use it **for the bottom**, and do not expect the top half to do anything.
+*Failure mode.* Loads chosen for the top half, which are far too heavy for the bottom half. This is the
+exercise in which the load must be chosen for the position of Part VIII §A.9.
+
+#### Deficit or "stretch" flyes
+*Reality.* Adding range beyond a level chest has not been tested for this muscle, and the position it
+adds range to is the position in which the tendon fails (Part VIII §A.9). **Evidence remains limited and
+inconsistent** for lengthened-partial work in the upper body specifically: the shortage of upper-body
+range-of-motion trials is the stated reason the one bench-press range study in this Part was run at all
+(Fischer et al., 2025), and the one upper-limb training trial that tested a long-length partial against a
+full range found only a trivial advantage, at the longest measurement site, in the elbow flexors
+(Havers et al., 2025). Do not push a pectoral fly past a level chest on the strength of that.
+
+---
+
+### D.4 Bodyweight — the category that turns out to be equivalent
+
+#### Push-up
+**Profile:** the flat bench press's profile, scaled to a fraction of body mass.
+*Evidence note.* This is the **best-replicated equivalence in Part VIII.** Load-matched push-ups and
+bench pressing produced comparable muscle thickness and strength gains over eight weeks
+(Kikuchi & Nakazato, 2017). At matched loads there were **no differences in kinematics or muscle
+activation** between the two exercises across four loads in twenty trained men (van den Tillaar, 2019).
+Muscle activity patterns did not differ between push-up and bench press for the primary muscle groups
+(Gottschall et al., 2018), and when EMG was matched, five weeks of band-resisted push-ups and of bench
+pressing produced similar strength gains (Calatayud et al., 2015).
+*Setup.* Hands slightly wider than the shoulders. Body in one line. Chest to within a fist of the floor.
+*Progression.* Feet elevated, then a weight vest, then bands, then one arm. A weight vest reproduces
+bench press intensities of load directly (van den Tillaar, 2019).
+*Failure mode.* Running out of load. Once a set of twenty is easy, the exercise needs external resistance
+or it stops progressing.
+*Hand position.* **It changes less than expected, and what it does change is not the chest.** Triceps
+activity exceeded pectoral activity at every hand width, and diamond push-ups produced the highest
+relative activation of both muscles (Intziegianni et al., 2026); narrow positions gave greater activation
+overall in an independent study (Gottschall et al., 2018). Put the two together and narrowing moves work
+toward the elbow, not the chest — which is what the geometry of Part VIII §B.9 predicts. **If you want
+the chest, do not go narrow.**
+
+#### Dip (parallel bars, chest-biased)
+**Profile:** stretch-loaded, and mechanically the deepest shoulder extension in Part VIII §D — because
+nothing stops the descent except the shoulder itself.
+*Setup.* Lean the torso forward and let the elbows travel back and slightly out. An upright torso makes
+it a triceps exercise.
+*Evidence note.* Across bench, bar and ring versions, peak triceps activity was lowest on the bench
+(0.83 ± 0.34 mV), higher on the bar (1.04 ± 0.27 mV) and highest on the rings (1.05 ± 0.40 mV), and the
+bench version demanded the greatest shoulder extension range (McKenzie et al., 2022). **Interpretive
+caution:** those amplitudes are raw millivolts rather than a percentage of a maximal contraction, so they
+compare conditions within that study and nothing outside it.
+*Role.* A strong pectoral exercise for people whose shoulders tolerate the bottom, and a poor one for
+everybody else. **The bottom of a dip is the deepest, least controllable version of the position in
+Part VIII §A.9.**
+*Failure mode.* Descending until the shoulder stops the movement rather than the muscle.
+
+#### Bench dip (feet on the floor or a second bench)
+*Reality.* **Not a chest exercise.** It is a triceps exercise performed in the maximum available shoulder
+extension, which is the position with the least joint tolerance (McKenzie et al., 2022). Count it in the
+elbow-extension column, and prefer almost any other triceps exercise.
+
+---
+
+### D.5 Exercises that are not chest exercises
+
+| Exercise | Why people count it | Reality |
+|---|---|---|
+| Overhead press | It is a press | **Not supported.** Pectoralis major activity falls from 68.9 ± 24.2% of maximum at 90° of elevation to 19.8 ± 5.6% at 160° (Aronis et al., 2025). Above shoulder height this muscle leaves the movement |
+| Close-grip bench press | It is a bench press | **A triceps exercise.** At one biacromial width the bar exerts essentially no adduction torque at the shoulder (Part VIII §B.9) |
+| Floor press | It is a press with a bench press's name | **Range-limited by design.** The floor stops the upper arm before it reaches the plane of the torso, removing the lengthened position entirely (Part VIII §C.6). A triceps and lockout exercise |
+| Bench dip | It is a dip | **A triceps exercise** in the worst available shoulder position (Part VIII §D.4) |
+| [Pullover](#pullover) | It "stretches the chest" | It loads the pectoralis major and the latissimus dorsi together (Part II §D.3) — genuinely a shared exercise, but one where the lat is the larger, better-levered muscle and takes the larger share |
+| Push-up plank hold | It is a push-up position | An abdominal exercise (Part VI §D.2). The pectoralis major is isometric at a trivial load |
+| "Chest fly" machines set at neck height | It is a fly | The arm path is closer to a reverse-direction front raise; it loads the clavicular fibres and the anterior deltoid, and no trial has tested it |
+| Anything targeting the pectoralis minor | It is called pectoralis | The muscle does not attach to the arm (Part VIII §A.2). It grows from bench pressing as a scapular muscle (Lanza et al., 2024) and cannot be trained as a chest muscle |
+
+---
+
+### D.6 Selection rules
+
+1. **One horizontal press, always.** It is the only exercise family with direct hypertrophy evidence for this muscle (Lanza et al., 2024), and it carries the load.
+2. **One constant-tension isolation exercise, always.** A cable fly or a pec deck. It is the only category in which the pectoralis major reliably ends the set (Part VIII §C.5), and the pec deck alone grew both regions 17–21% in twelve weeks (Pinto et al., 2025).
+3. **An incline press is optional and cheap.** Add it if you have the sets; it costs about a fifth of your load (Saeterbakken et al., 2017) and has one thin trial behind its regional claim (Chaves et al., 2020). **Do not add it at the expense of rule 1 or rule 2.**
+4. **Do not count a close-grip press, a floor press, an overhead press or a bench dip in this Part's volume** (Part VIII §D.5).
+5. **Match the profiles rather than the angles.** A press is hardest at the bottom, a dumbbell fly has nothing at the top, and a cable crossover is the only thing that loads the finish. Two exercises with *different profiles* cover the range; two presses at different bench angles largely do not (Part VIII §B.11).
+6. **The bottom position is the point of all of it — and it is the position that fails.** Every rule above is subordinate to Part VIII §C.2, errors 1 to 3.
+
+---
+## partviiiecontextmodifiers
+
+**PART E — Context modifiers — when "perfect" changes**
+
+Part VIII §C is the default for hypertrophy in a healthy trained adult. Below is every
+context that changes it, and what it changes it to.
+
+---
+
+### E.1 Goal contexts
+
+| Goal | What changes | Why |
+|---|---|---|
+| **Maximal chest size** | The default. One press, one constant-tension isolation exercise, full range, flat back | Part VIII §D.6 |
+| **Maximal bench press** | Arch, wider grip inside 1.6 BAW, paused repetitions, competition tempo. **Range of motion becomes the enemy rather than the goal** | The arch is worth about 4 kg (Bartolomei et al., 2024); full-range training still produced the best transfer to every bench press variation tested (Martínez-Cava et al., 2022) |
+| **Upper-chest emphasis** | Add an incline press at 30°, keep everything else | The claim rests on one site in one trial whose growth magnitudes do not survive an audit (Chaves et al., 2020). **Evidence remains limited and inconsistent** — worth doing, not worth reorganizing a programme around |
+| **Shoulder health while still pressing** | Grip inside 1.5 BAW, scapulae retracted, elbows 45–70°, dumbbells or a machine rather than a barbell | Each of those lowered a measured joint reaction force or rotator cuff demand (Noteboom et al., 2024) |
+| **Strength with minimal joint cost** | Machine chest press or Smith machine, moderate range | Nothing has to be caught, and the fixed path removes the mediolateral force variability of Part VIII §B.9 |
+| **Athletic pressing power** | Ballistic or velocity-based pressing, submaximal load | Outside this document's scope; see the companion document |
+
+---
+
+### E.2 Body contexts
+
+| Context | What changes | Why |
+|---|---|---|
+| **Long arms relative to torso** | A longer bar path, more work per repetition at the same load, and a bench press that will always look weak relative to bodyweight | Geometry. Nothing to fix; expect a lower load and count sets, not kilograms |
+| **Broad shoulders (large biacromial width)** | "Wide grip" means a wider absolute grip. Set grip in biacromial widths, never in centimetres or in ring markings | Part VIII §B.9 is written in BAW for this reason |
+| **Restricted shoulder extension** | Start with dumbbells or a machine and build the range with a fly under load (Part VIII §C.3) | The limit is partly a property of this muscle at long length and responds to loaded training (Konrad et al., 2024) |
+| **Hypermobile shoulders** | Reduce the bottom range deliberately, keep the scapulae retracted, avoid deep dumbbell flyes | Retraction lowered glenohumeral posterior shear and all rotator cuff activity (Noteboom et al., 2024); the joint's passive restraints are doing less work than usual |
+| **Very short arms / deep chest** | A barbell may stop on the chest before the shoulder reaches the plane of the torso | Use dumbbells, which have no such stop |
+| **Female lifters** | Nothing in the mechanics changes. Breast tissue overlies the muscle and makes tape and visual assessment useless, not the training | **Almost every trial in this Part enrolled men only**, so no sex comparison exists to report. The one study here that included women found no sex difference in the correlations it tested (Konrad et al., 2024) |
+| **Prior pectoralis major repair** | Every decision belongs to the surgical team, not to this document | Part VIII §E.4 |
+| **Adolescent** | Professional assessment before loading, as for every Part | Pediatric weightlifting injuries are dominated by crush injuries from dropped weights (Lee et al., 2026) — which a bench press is the single most efficient way to produce |
+
+---
+
+### E.3 Equipment contexts
+
+| Available | Best two-exercise prescription | Note |
+|---|---|---|
+| **Full gym** | Barbell or dumbbell bench press + cable crossover | The default. Both profiles covered (Part VIII §B.7) |
+| **Machines only** | Machine chest press + pec deck | **The best-evidenced pair in the Part**, because the pec deck is the one exercise with a dedicated growth trial (Pinto et al., 2025) |
+| **Dumbbells only** | Dumbbell bench press + dumbbell fly | The fly covers the bottom; nothing covers the top. Accept it |
+| **Barbell only** | Bench press + incline bench press | Two presses is the one case where varying the angle is the best available option, because there is no second profile to reach for |
+| **Bands only** | Band press + band fly | The profile is inverted — hardest at the finish, easiest at the stretch — which is the opposite of what this muscle wants. Add a deficit push-up |
+| **Bodyweight only** | Push-up (progressed) + deficit push-up on parallettes or dumbbells | Load-matched push-ups matched bench pressing for thickness and strength over eight weeks (Kikuchi & Nakazato, 2017) |
+| **Home, no bench** | Floor-supported push-up variations + a band fly anchored behind you | The floor removes the lengthened position (Part VIII §D.5); the deficit and the band restore part of it |
+| **Travelling** | Push-ups, feet elevated, slow eccentric, to failure | Volume replaces load |
+
+---
+
+### E.4 Pain and pathology contexts
+
+**General education only. None of the rows below is a diagnosis or a treatment plan, and a shoulder that
+hurts under load is an assessment problem before it is a programming problem.**
+
+| Presentation | What it usually means | What changes |
+|---|---|---|
+| **A sudden tearing or popping sensation at the front of the shoulder or the armpit under a heavy bar, with immediate weakness and later bruising** | This is the presentation of a [pectoralis major tear](#pectoralismajortear), 48% of which occur during weight training (ElMaraghy & Devereaux, 2012) | **Stop. Medical assessment the same day.** Surgical repair outcomes depend on timing, and the classification that guides them turns on how much of the tendon's thickness is involved (ElMaraghy & Devereaux, 2012) |
+| **Point tenderness at the outer end of the collarbone, worse when reaching across the body** | Consistent with [distal clavicular osteolysis](#distalclavicularosteolysis) or acromioclavicular joint irritation — the joint that a bench press compresses | Grip inside 1.5 BAW, which lowered acromioclavicular compression in a modelling study (Noteboom et al., 2024). Assessment if it persists |
+| **Pain at the front of the shoulder at the bottom of a press, easing as you press up** | Assessment problem. May involve the joint's anterior structures, which a bench press loads through a posteriorly directed shear force present throughout the lift (Noteboom et al., 2024) | Reduce depth *temporarily*, move to dumbbells or a machine, keep the scapulae retracted, and get it looked at |
+| **A [painful arc](#painfularc) raising the arm, unrelated to pressing** | See Part V §E.4. It is a shoulder problem the chest work sits on top of | Part V's row governs. Pressing is not usually the aggravator; overhead work is |
+| **Pain only on the incline, not the flat bench** | The incline adds shoulder flexion and elevation, which is where subacromial structures are loaded (Part V §A.5) | Drop the incline. Nothing in Part VIII §D.6 requires it |
+| **Pain only at lockout** | Usually elbow, not shoulder | An elbow-extension problem; see the triceps row in Part VIII §C.5 |
+| **[Rotator cuff-related shoulder pain](#rotatorcuffpain)** | Part V §E.4 governs | Narrow the grip and retract the scapulae — both lowered all rotator cuff activity in the same modelling study (Noteboom et al., 2024) |
+| **Any history of shoulder dislocation** | Professional assessment before loading | Primary shoulder movers including the pectoralis major predicted active glenohumeral stiffness far better than the rotator cuff did (R² = 0.81 versus 0.36) (Nicolozakes et al., 2025), so pressing is likely part of the answer — but which pressing, and when, is a clinical decision |
+
+**One thing worth saying plainly, because the injury section of Part VIII §A.9 could be read the wrong
+way.** The evidence that pectoral tears happen under barbells is not evidence that the lengthened position
+should be avoided. **It is the position the muscle grows in** (Part VIII §B.6). The countermeasure is
+control of the descent and a load you could stop — Part VIII §C.2, errors 1 to 3 — not a shorter range.
+
+---
+
+### E.5 Sport contexts
+
+| Sport | What the chest is for | What changes |
+|---|---|---|
+| **Powerlifting** | The bench press is a contested lift, not a training tool | Part VIII §E.1, row 2. The arch, the wide grip and the pause are all correct here and all wrong in a hypertrophy block |
+| **Bodybuilding** | Size and the visible separation between regions | Part VIII §D.6 unchanged. The separation itself is anatomy plus body fat (Part VIII §C.7) |
+| **Throwing and racquet sports** | A powerful internal rotator and horizontal adductor in the acceleration phase | Volume should not compete with sport-specific throwing load, and heavy pressing sits badly next to a heavy throwing week |
+| **Combat sports and grappling** | A shoulder stabilizer under unpredictable load | Primary movers dominate active glenohumeral stiffness (Nicolozakes et al., 2025); pressing strength is protective, and the range matters less |
+| **Swimming** | The primary propulsive muscle of the pull, alongside the latissimus dorsi | Both are adductors of the humerus (Part VIII §B.1). Pulling volume already trains it; add presses for size, not for propulsion |
+| **Climbing** | Almost nothing | The sport is a pulling sport (Part II §E.5). Pressing volume here is for balance around the shoulder, not for performance |
+| **Field sports** | General upper-body robustness | Two sets a week maintains; there is no sport-specific case for more |
+
+---
+
+### E.6 Session and cycle contexts
+
+| Context | What changes |
+|---|---|
+| **Chest and shoulders in the same session** | Do the pectoral work first if chest size is the goal. Pressing already grows the anterior deltoid without dedicated work (Lanza et al., 2024), so the reverse order costs more than it saves |
+| **Chest and triceps in the same session** | Presses first, elbow extension after. The triceps takes over above the sticking region (Evangelista et al., 2025), so a pre-fatigued triceps changes where the press fails |
+| **Chest after a heavy back session** | Fine. The two are antagonists at this joint and share no limiting link |
+| **Chest the day after heavy overhead pressing** | The anterior deltoid is the shared tissue and it will be the limiter (Part VIII §C.5). Separate them by 48 hours or accept a lighter session |
+| **Deficit** | Hold load and range, cut sets to the maintenance band (Part VIII §F.1) |
+| **[Deload](#deload)** | Cut sets, not range and not load. The lengthened position is the stimulus and it is also the position that fails under a fatigued descent |
+| **Returning after a lay-off** | Machine or dumbbell pressing for the first two weeks. A barbell is the one implement you cannot abandon mid-repetition |
+| **Training alone, no spotter** | Machine, Smith machine, dumbbells, or a barbell inside safety pins set at chest height. **Not a free barbell to failure** |
+
+---
+
+### E.7 The context decision table
+
+| If this describes you | Do this |
+|---|---|
+| Healthy, trained, chest size is the goal | Part VIII §C default, Part VIII §D.6 selection rules |
+| You bench three times a week and your chest has not changed | Check that a fly or a crossover is in the programme. A press ends at the system's limit, not this muscle's (Part VIII §C.5) |
+| Your front delts are sore after every chest session and your chest is not | Technique, in this order: scapulae, elbow angle, bar path (Part VIII §C.2) |
+| You want an upper chest | One 30° incline press. Then stop optimizing — Part VIII §A.5 is the honest state of the question |
+| Your shoulder hurts at the bottom of a press | Narrow the grip, retract the scapulae, move to dumbbells, and get it assessed (Part VIII §E.4) |
+| Your bench press stalls 20–40 cm off the chest | That is the sticking region and it is a shoulder-capacity problem. Train it (Part VIII §B.8) |
+| Your bench press stalls at lockout | Triceps. Different problem, different fix (Part VIII §C.5) |
+| You only have a floor | Deficit push-ups on dumbbells or parallettes. A flat floor press removes the whole stimulus (Part VIII §D.5) |
+| You have 20 minutes a week for chest | One set of a pec deck or press to failure, per session, twice. One set matched three in the only trial that compared them (Pinto et al., 2025) |
+| You are a powerlifter in a hypertrophy block | Flat back and a full range for the block. Get the arch back in the peaking block (Part VIII §C.6) |
+
+---
+## partviiifprogramming
+
+**PART F — Programming**
+
+### F.1 Volume
+
+Counted as [hard sets](#hardset) per week that load the pectoralis major directly — pressing and
+isolation counted separately, because their resistance profiles differ and their
+limiting links differ (Part VIII §C.5).
+
+| Training age | Pressing | Isolation (fly / crossover / pec deck) | Note |
+|---|---|---|---|
+| Beginner | 4–8 | 2–4 | Two exercises is enough |
+| Intermediate | 6–12 | 4–8 | The productive middle for most people |
+| Advanced | 8–16 | 6–12 | The isolation slot tolerates more than the press does, because nothing has to be caught |
+| Maintenance or deficit | 3–4 | 2–3 | Hold load and range, cut sets |
+
+**These bands are transferred from the general dose–response literature and are not derived from
+pectoral data.** No study has compared weekly set counts against pectoralis major hypertrophy across a
+useful range.
+
+**And the one volume trial that does exist argues for the bottom of the bands, not the top.** Fifteen
+untrained men trained the pec deck for twelve weeks with **one set on one side of the body and three on
+the other**, and the two conditions produced the same result: clavicular thickness +17% versus +18%,
+sternocostal +21% versus +21%, one-repetition maximum +46% versus +43% (Pinto et al., 2025).
+**Interpretive caution, and it is a large one:** untrained men, one exercise, every set to
+momentary failure, and a within-subject design in which the same person's systemic
+response serves both conditions. It does not establish that one set is enough for a trained lifter.
+**It does establish that the first set carries most of the effect**, which is a different and more
+robust claim, and it is the reason the beginner row above is as low as it is.
+
+**Three counting rules specific to this muscle:**
+
+- **A press set counts toward the pectoralis major, the anterior deltoid and the triceps at once** (Part V §F.1). Count it once in each Part's column and set the **total** upper-body pressing volume against your recovery, not the sum of the columns.
+- **A close-grip press, floor press or bench dip counts as zero** (Part VIII §D.5).
+- **A press set counts as one only if the chest ended it.** If the front of the shoulder did, the set trained the anterior deltoid, and the fix is technique before it is volume (Part VIII §C.2).
+
+**For scale, what the trials this Part rests on actually used.** Ten weeks at three sessions a week,
+3–4 sets of 12 per session, well short of failure, grew pectoralis major cross-sectional area by MRI
+(Lanza et al., 2024). Eight weeks at **one session a week**, 4–6 sets a session, separated two bench
+angles on pectoral thickness change in untrained men — in a trial whose absolute growth figures should
+not be relied on (Chaves et al., 2020, and Part VIII §A.5). Twelve weeks of one or three sets of a single machine exercise grew both regions
+17–21% (Pinto et al., 2025). **Every one of those doses is modest**, and every one of them worked in the
+population it was run on.
+
+---
+
+### F.2 Frequency
+
+**2×/week is the default.** Kikuchi & Nakazato (2017) used it; Lanza et al. (2024) used three sessions a
+week and Chaves et al. (2020) produced growth at **one**.
+
+**The frequency argument here is weaker than in most Parts, and for a specific reason.** The pectoralis
+major recovers from a press faster than the shoulder does. What limits chest frequency for most trained
+lifters is the anterior deltoid and the shoulder joint, not the chest — which is why the practical
+answer is usually to keep chest frequency at two and to place it away from overhead pressing
+(Part VIII §E.6), rather than to raise it.
+
+**One pectoral-specific caution.** Heavy eccentric work at long muscle length produces soreness that
+peaks around 48 hours. Soreness spread across the belly of the muscle is normal; **a sharp, localized
+pain at the front of the armpit under load is not** — that is where the tendon of Part VIII §A.9 is —
+and the distinction is worth making before the second session of the week rather than during it.
+
+---
+
+### F.3 Load and rep range
+
+The general finding is in Part II §F.3: roughly 5–30 repetitions produces similar hypertrophy if sets are
+taken close to failure. **This muscle's own trials span an unusually wide slice of that range and all of
+them worked**, which is itself the useful observation:
+
+```
+WHAT THE PECTORAL TRIALS ACTUALLY USED, AND ALL OF THEM GREW MUSCLE
+  Lanza 2024        12 reps @ 50-55% 1RM, 36 s per set, NOT to failure   -> pectoral MRI CSA up
+  Pinto 2025        20 down to 8 RM, every set TO FAILURE                -> +17-21% thickness
+  Kikuchi 2017      push-ups matched to 40% 1RM bench press              -> thickness up
+  Calatayud 2015    6RM bench press and 6RM band push-up                 -> strength up, equally
+```
+
+**Three practical narrowings:**
+
+- **The press slot: 5–12 repetitions.** Enough load to progress in small steps, few enough repetitions that the descent stays controlled. Below five, the eccentric of Part VIII §C.2 error 1 becomes hard to own.
+- **The isolation slot: 10–20 repetitions.** A fly at a low repetition count puts a load into the lengthened position that the exercise's own profile cannot justify (Part VIII §B.7).
+- **The bottom position sets the load, not the top.** This is the one muscle in the document where that rule is an injury rule as well as a stimulus rule.
+
+**Range of motion beats load where they conflict.** Fifty trained men training for ten weeks at 60–80% of
+one-repetition maximum showed the **full-range group producing the best results in all three bench press
+variations tested** (effect sizes 0.52–1.96), with the gains shrinking as the trained range shrank
+(Martínez-Cava et al., 2022). **Interpretive caution:** those outcomes were one-repetition maximum and
+bar velocity — **strength, not size**. No equivalent range-of-motion trial has measured pectoral
+hypertrophy.
+
+---
+
+### F.4 Proximity to failure
+
+The general finding is in Part II §F.4: training to momentary failure and stopping a few repetitions
+short produce nearly the same hypertrophy, with what gradient there is favouring the closer end. What
+changes in Part VIII is not the target but **which slot can safely reach it** — because one of these
+implements cannot be abandoned mid-repetition.
+
+| Slot | Target | Why |
+|---|---|---|
+| **Barbell press, free, no spotter** | 2–3 [RIR](#rir) | The one implement you cannot abandon. This is a safety constraint, not a stimulus one |
+| **Barbell press with pins or a spotter** | 1–2 RIR on the last set | The general recommendation, applied |
+| **Dumbbell press** | 1–2 RIR | The dumbbells can be dropped to the sides; the shoulder cannot |
+| **Machine chest press** | 0–1 RIR | Nothing has to be caught. **This is where a chest set should reach failure if any set does** |
+| **Pec deck / cable fly** | 0–1 RIR | As above, and the only slot where the pectoralis major reliably ends the set (Part VIII §C.5) |
+| **Dumbbell fly** | 2–3 RIR | The bottom position is the injury position and a failing repetition arrives there uncontrolled |
+| **Push-up** | 0 RIR | Free |
+
+**The evidence that this table can be conservative and still work.** Lanza et al. (2024) grew pectoralis
+major cross-sectional area over ten weeks with sets of twelve at 50–55% of one-repetition maximum — a
+protocol several repetitions short of failure throughout. **Moderate evidence**, one trial. But it means
+the cost of the conservative rows above is smaller than it looks.
+
+---
+
+### F.5 Progression
+
+**Double progression in the press slot.** Add repetitions within the band, then add load and return to
+the bottom of the band.
+
+```
+THE PRESS PROGRESSION
+  Week 1   3 x 6 @ 60 kg, 2-3 RIR
+  Week 2   3 x 7 @ 60 kg
+  Week 3   3 x 8 @ 60 kg
+  Week 4   3 x 6 @ 62.5 kg      <- load goes up, reps reset
+```
+
+**And one rule this muscle needs and the others do not.** **Range of motion is never the variable that
+gets progressed away.** If the bar stops higher than it did last week, the exercise did not get harder;
+it got shorter, and the trial evidence runs against you (Martínez-Cava et al., 2022). Log the touch
+point, not just the load.
+
+**Progression in the isolation slot is different**, because the load is bounded by the lengthened
+position rather than by the whole range. Progress by repetitions and by range first, and by load last.
+
+**What to do when the press stalls.** Diagnose *where* before changing anything (Part VIII §C.5). A stall
+at the sticking region is a shoulder-torque problem and responds to more pressing volume, paused work
+and pressing from pins at that height. A stall at lockout is a triceps problem and responds to elbow
+extension work. **The two fixes do not substitute for each other**, and applying the wrong one is the
+most common wasted training block in this Part.
+
+---
+
+### F.6 Session templates
+
+```
+TEMPLATE A - TWO SESSIONS, INTERMEDIATE, ~14 SETS/WEEK
+  Session 1     Barbell bench press      4 x 5-8    @ 2 RIR
+                Cable crossover          3 x 12-20  @ 0-1 RIR
+  Session 2     Incline dumbbell press   4 x 8-12   @ 1-2 RIR
+                Pec deck                 3 x 12-20  @ 0-1 RIR
+```
+
+```
+TEMPLATE B - ONE SESSION, TIME-LIMITED, ~7 SETS/WEEK
+  Session 1     Barbell or machine press 4 x 6-10   @ 1-2 RIR
+                Pec deck or cable fly    3 x 12-20  @ 0-1 RIR
+```
+
+```
+TEMPLATE C - SHOULDER IS THE LIMITER, ~13 SETS/WEEK
+  Session 1     Machine chest press      4 x 8-12   @ 0-1 RIR
+                Pec deck                 3 x 12-20  @ 0-1 RIR
+  Session 2     Dumbbell bench press     3 x 8-12   @ 1-2 RIR  (grip 1.4 BAW,
+                                                                elbows 45-70 deg)
+                Cable crossover          3 x 12-20  @ 0-1 RIR
+```
+
+```
+TEMPLATE D - POWERLIFTING, HYPERTROPHY BLOCK
+  Session 1     Competition bench press  4 x 4-6    @ 2 RIR   (arch, comp grip)
+                Dumbbell bench press     3 x 8-12   @ 1-2 RIR (flat back, full range)
+  Session 2     Paused bench press       4 x 3-5    @ 2 RIR
+                Cable crossover          3 x 12-20  @ 0-1 RIR
+                (the arch belongs to session 1 only - section C.6)
+```
+
+```
+TEMPLATE E - HOME, NO EQUIPMENT, ~16 SETS/WEEK
+  Session 1     Deficit push-up          4 x 8-15   feet elevated, hands on
+                                                    dumbbells or parallettes
+                Band fly, anchored high  4 x 12-20
+  Session 2     Push-up, slow eccentric  4 x 10-20  4 s down
+                Band fly, anchored low   4 x 12-20
+```
+
+```
+TEMPLATE F - MINIMUM EFFECTIVE DOSE, 2 SETS/WEEK
+  Session 1     Pec deck or machine
+                chest press              1 x 8-20   TO FAILURE
+  Session 2     Same                     1 x 8-20   TO FAILURE
+  (One set matched three over twelve weeks in untrained men - Pinto 2025.
+   Not established in trained lifters; use as a floor, not a target.)
+```
+
+---
+
+### F.7 Timeline, measurement and expectations
+
+| Window | What to expect |
+|---|---|
+| Sessions 1–3 | Soreness across the chest wall, heaviest after the first fly session. No adaptation yet |
+| Weeks 1–4 | Load rises quickly on every exercise. This is technique and neural, not size |
+| Weeks 4–8 | The first honest change. Thickness begins to be measurable by ultrasound if you have access to it |
+| Weeks 8–12 | MRI cross-sectional area rose over ten weeks of flat bench pressing alone, in thirteen men against eleven controls (Lanza et al., 2024); ultrasound thickness rose 17–21% over twelve weeks of a single machine exercise in untrained men (Pinto et al., 2025) |
+| Months 6–12 | Where visible change lives for a trained lifter |
+
+**How to measure it, and how not to.**
+
+- **Best available at home:** photographs, same light, same posture, same time of day, arms at the same position. The pectoralis major's outline changes with arm position more than almost any muscle in this document.
+- **Chest circumference is not a pectoral measurement.** A tape around the chest captures ribcage, latissimus dorsi, and subcutaneous fat at the same time — and inhaling changes it by more than a year of training will.
+- **The bench press is not a pectoral measurement either.** The arch alone is worth about 4 kg (Bartolomei et al., 2024), and grip and pause status change it further.
+- **The one thing worth logging is the touch point and the load together.** A press that gets heavier while getting shorter is not progress (Part VIII §F.5).
+
+---
+## partviiigsynthesis
+
+**PART G — Synthesis, and what the evidence does not support**
+
+### G.1 The rules that hold
+
+1. **The bench press is a pectoral exercise first.** Ten weeks of it alone raised pectoralis major cross-sectional area above control, and the pectoralis major grew **more than the triceps brachii and more than the pectoralis minor** in the same lifters (Lanza et al., 2024). Everything else in Part VIII §D is an addition to that, not a replacement for it.
+2. **Add one constant-tension isolation exercise, always.** A press ends when the system fails; a fly ends when this muscle fails (Part VIII §C.5). Twelve weeks of a pec deck alone grew both regions 17–21% (Pinto et al., 2025).
+3. **The bottom of the range is the stimulus.** This muscle's fibres tie for the longest measured in the upper limb (Ruggiero et al., 2016) and full-range training beat every partial variation tested for strength transfer (Martínez-Cava et al., 2022).
+4. **It is also the position that fails**, so the load must be one you could stop at any point of the descent. Forty-eight per cent of published pectoralis major tears occurred during weight training (ElMaraghy & Devereaux, 2012).
+5. **Set the scapulae and keep them set.** Retraction lowered glenohumeral compression, posterior shear and every rotator cuff muscle's activity, at a cost of a few per cent of pectoral activation and no loss of one-repetition maximum (Noteboom et al., 2024).
+6. **Press out against the bar as well as up.** It shortens the barbell's moment arm at the shoulder and lowers joint reaction forces, and the lifters who do the opposite are the least experienced ones (Tanimoto et al., 2023). The derivation is Part VIII §B.9.
+7. **Grip between 1.3 and 1.6 biacromial widths.** Narrower removes the shoulder's adduction torque entirely and makes it a triceps exercise; wider raises acromioclavicular compression and glenohumeral shear without raising measured pectoral activation (Noteboom et al., 2024).
+8. **An incline press is a reasonable option and a poor foundation.** It costs about a fifth of your load (Saeterbakken et al., 2017), and its regional claim rests on one of three sites in one trial of untrained men training once a week — a trial in which every arm reported growth averaging more than twice that of a longer trial in the same population, and in which adding an incline press to a flat press changed nothing (Chaves et al., 2020).
+9. **Push-ups are not a lesser exercise, only a lighter one.** Load-matched, they matched bench pressing for thickness and strength over eight weeks (Kikuchi & Nakazato, 2017) and showed no difference in kinematics or muscle activation at matched loads (van den Tillaar, 2019).
+10. **Diagnose a stall by where it happens.** At the chest or the sticking region it is the shoulder and the pectoralis major; at lockout it is the triceps (Evangelista et al., 2025). The fixes do not substitute for each other.
+
+---
+
+### G.2 What the evidence does **not** support
+
+| Claim | Verdict |
+|---|---|
+| "The pectoralis major tendon twists 180°, so a decline press reaches the upper fibres" | **Not supported.** The three-dimensional study that looked reported *"no twisting of either the PM muscle or tendon"* (Fung et al., 2009). What exists is a two-layer tendon that folds, not one that rotates |
+| "You need incline pressing or your upper chest will not grow" | **Not supported as stated.** Twelve weeks of a pec deck — one exercise, no bench angle at all — grew the clavicular region 17–18% (Pinto et al., 2025), and the authors concluded their data did not support regional hypertrophy in that exercise |
+| "Bench angle is the main lever for regional emphasis" | **Contested.** It works acutely (Albarello et al., 2022) and it barely registers over a whole contraction (Lauver et al., 2016); the one chronic trial found it at one site of three, and in that trial the group that did both exercises was indistinguishable from the flat-only group at that site (Chaves et al., 2020). The narrower claim — that an incline press adds upper-region growth — carries the label **evidence remains limited and inconsistent** (Part VIII §A.5) |
+| "A wider grip makes the bench press more of a chest exercise" | **Not supported.** Pectoralis activation did not differ across grips in competition athletes (Saeterbakken et al., 2017) and the pectoral-to-triceps ratio did not change between an 81 cm and a 40 cm grip (Tanimoto et al., 2023) — because lifters change the direction of force they apply (Part VIII §B.9) |
+| "Decline pressing builds the lower chest" | **Not supported.** Lower pectoralis activity at −15° matched the flat bench rather than exceeding it (Lauver et al., 2016), and activation did not differ across flat, incline and decline (Saeterbakken et al., 2017) |
+| "Arching is cheating / arching is essential" | **Both wrong, and measured.** The arch is worth about 4.2 kg with a confidence interval touching zero, costs barbell displacement at every load, and does not change either region's pectoral excitation (Bartolomei et al., 2024). It is a competition tool |
+| "Letting the shoulder blades move freely protects the shoulder" | **Not supported.** A released-scapula condition produced no difference in any joint reaction force against a neutral scapula (Noteboom et al., 2024) |
+| "The pectoralis minor is part of the chest and can be trained" | **False.** It does not attach to the arm (Part VIII §A.2). It grows from bench pressing as a scapular muscle (Lanza et al., 2024) |
+| "The overhead press trains the chest" | **Not supported.** Pectoralis major activity falls from 68.9 ± 24.2% of maximum at 90° of elevation to 19.8 ± 5.6% at 160° (Aronis et al., 2025) |
+| "Squeeze at the top of a bench press for a peak contraction" | **Not supported** for a barbell — there is almost no pectoral leverage at lockout (Part VIII §B.6). It is true for a cable crossover, where the hands cross the midline |
+| "The chest is a fast-twitch muscle, so train it heavy" | **Not supported by any accessible measurement.** Fibre-type composition for this specific muscle sits in a table this document could not obtain; across the fourteen muscles measured at this joint, twelve had slow-oxidative fractions between 35% and 50% (Srinivasan et al., 2007) |
+| "Lengthened partials will grow the chest faster" | **Evidence remains limited and inconsistent.** No pectoral trial exists. The one upper-limb trial found a trivial advantage at the longest measurement site in the elbow flexors (Havers et al., 2025), and the position it would add range to is the position in which this muscle's tendon fails |
+| "Three sets beat one set for chest" | **Not supported in the only trial that asked.** One set matched three over twelve weeks for both regions and for strength (Pinto et al., 2025) — in untrained men, every set to failure. **Do not read this as a licence to run one set in a trained programme**; read it as evidence that the first set carries most of the effect |
+| "Bench pressing wrecks shoulders" | **Overstated, and specifically correctable.** Grip width, scapular pose and hand-force direction each changed measured joint reaction forces substantially in the same study (Noteboom et al., 2024). The risk is a technique variable, not a property of the lift |
+
+---
+
+### G.3 The one-paragraph version
+
+The pectoralis major is a single fan running from the collarbone, breastbone and rib cartilages to one
+narrow attachment on the arm bone, and because its fibres arrive from three directions, the top of it
+flexes the shoulder while the bottom of it extends the shoulder. Its fibres tie for the **longest measured in the upper
+limb, and its force-generating cross-section is modest** — an excursion muscle, whose main synergist, the
+triceps, has 3.6 times its cross-section, which is why a bench press rarely ends because the chest gave
+out. **Train it with one horizontal press and one constant-tension isolation exercise**, through the
+fullest range your shoulder tolerates, with the scapulae retracted, a grip of 1.3–1.6 biacromial widths,
+elbows at 45–70°, and outward pressure against the bar. **An incline press is a cheap addition and a poor
+foundation**: the "upper chest" is a real mechanical region, but the trial evidence that bench angle grows
+it is one site in one study of untrained men, and the one exercise that has been given a dedicated growth
+trial — the pec deck, at no bench angle at all — grew both regions. **The bottom of every repetition is
+simultaneously where the muscle grows and where its tendon tears**, and the only thing that separates the
+two is whether the load descending is a load you could have stopped.
+
+---
+
+# partixmasterglossary
+
+**Part IX — Master Glossary**
 
 Every technical term used anywhere in this document, defined formally with formula and units where
 the quantity is physically or operationally defined.
@@ -10140,108 +11762,119 @@ plain same-file heading anchor.
 
 | Term | Layer | Term | Layer |
 |---|---|---|---|
-| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Multifidus](#multifidus) | 9 |
-| [45° back extension (hip extension)](#backextension) | 12 | [Muscle thickness](#musclethickness) | 5 |
-| [Ab wheel](#abwheel) | 12 | [Muscle volume](#musclevolume) | 5 |
-| [Abdominal wall](#abdominalwall) | 9 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
-| [ACL reconstruction](#aclreconstruction) | 13 | [Net joint moment](#netjointmoment) | 11 |
-| [Acromion](#acromion) | 3 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
-| [Adductor magnus](#adductormagnus) | 8 | [Nordic hamstring curl](#nordiccurl) | 12 |
-| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Open kinetic chain exercise](#openkineticchain) | 11 |
-| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Overhead press (shoulder press, military press)](#overheadpress) | 12 |
-| [Anterior deltoid](#anteriordeltoid) | 9 | [Painful arc](#painfularc) | 13 |
-| [Aponeurosis](#aponeurosis) | 3 | [Pallof press](#pallofpress) | 12 |
-| [Apophysis](#apophysis) | 3 | [Passive tension](#passivetension) | 5 |
-| [Attentional focus](#attentionalfocus) | 10 | [Patella (kneecap)](#patella) | 3 |
-| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
-| [Axillary nerve](#axillarynerve) | 9 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
-| [Back squat](#backsquat) | 12 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
-| [Bar position](#barposition) | 11 | [Patellofemoral pain](#patellofemoralpain) | 13 |
-| [Barbell glute bridge](#glutebridge) | 12 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
-| [Barbell hip thrust](#hipthrust) | 12 | [Pectoralis major](#pectoralismajor) | 9 |
-| [Bayes factor (BF)](#bayesfactor) | 9 | [Pelvic floor](#pelvicfloor) | 9 |
-| [Belt squat](#beltsquat) | 12 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
-| [Bench press](#benchpress) | 12 | [Pelvis](#pelvis) | 3 |
-| [Biacromial width](#biacromialwidth) | 3 | [Pennation angle](#pennationangle) | 5 |
-| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Plane of elevation](#planeofelevation) | 4 |
-| [Biceps femoris, long head (BFlh)](#bicepsfemorislonghead) | 8 | [Plank](#plank) | 12 |
-| [Biceps femoris, short head (BFsh)](#bicepsfemorisshorthead) | 8 | [Posterior deltoid](#posteriordeltoid) | 9 |
-| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Posterior oblique sling](#posteriorobliquesling) | 8 |
-| [Cable crunch](#cablecrunch) | 12 | [Progressive overload](#progressiveoverload) | 10 |
-| [Cable or machine kickback (standing hip extension)](#kickback) | 12 | [Pronated (overhand) grip](#pronatedgrip) | 11 |
-| [Cable pull-through](#cablepullthrough) | 12 | [Proximity to failure](#proximitytofailure) | 10 |
-| [Chin-up](#chinup) | 12 | [Psoas major](#psoasmajor) | 9 |
-| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Pull-up](#pullup) | 12 |
-| [Clavicle (collarbone)](#clavicle) | 3 | [Pullover](#pullover) | 12 |
-| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Quadratus lumborum](#quadratuslumborum) | 9 |
-| [Compound exercise](#compound) | 11 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
-| [Concentric contraction](#concentriccontraction) | 6 | [Quadriceps tendon](#quadricepstendon) | 3 |
-| [Contralateral](#contralateral) | 1 | [Range of motion (ROM)](#rangeofmotion) | 4 |
-| [Crunch](#crunch) | 12 | [Rectus abdominis](#rectusabdominis) | 9 |
-| [Deadlift](#deadlift) | 12 | [Rectus femoris](#rectusfemoris) | 8 |
-| [Deep hip external rotators](#hipexternalrotators) | 8 | [Rectus sheath](#rectussheath) | 3 |
-| [Deload](#deload) | 10 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
-| [Deltoid](#deltoid) | 9 | [Repetition (rep)](#repetition) | 10 |
-| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Resistance profile](#resistanceprofile) | 11 |
-| [Diaphragm](#diaphragm) | 9 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 12 |
-| [Diastasis recti](#diastasisrecti) | 13 | [Reverse hyperextension](#reversehyperextension) | 12 |
+| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 |
+| [45° back extension (hip extension)](#backextension) | 12 | [Motor unit](#motorunit) | 6 |
+| [Ab wheel](#abwheel) | 12 | [Multifidus](#multifidus) | 9 |
+| [Abdominal wall](#abdominalwall) | 9 | [Muscle thickness](#musclethickness) | 5 |
+| [ACL reconstruction](#aclreconstruction) | 13 | [Muscle volume](#musclevolume) | 5 |
+| [Acromioclavicular joint (AC joint)](#acromioclavicularjoint) | 3 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
+| [Acromion](#acromion) | 3 | [Net joint moment](#netjointmoment) | 11 |
+| [Adductor magnus](#adductormagnus) | 8 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
+| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Nordic hamstring curl](#nordiccurl) | 12 |
+| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Open kinetic chain exercise](#openkineticchain) | 11 |
+| [Anterior deltoid](#anteriordeltoid) | 9 | [Overhead press (shoulder press, military press)](#overheadpress) | 12 |
+| [Aponeurosis](#aponeurosis) | 3 | [Painful arc](#painfularc) | 13 |
+| [Apophysis](#apophysis) | 3 | [Pallof press](#pallofpress) | 12 |
+| [Attentional focus](#attentionalfocus) | 10 | [Passive tension](#passivetension) | 5 |
+| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Patella (kneecap)](#patella) | 3 |
+| [Axillary nerve](#axillarynerve) | 9 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
+| [Back squat](#backsquat) | 12 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
+| [Bar position](#barposition) | 11 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
+| [Barbell glute bridge](#glutebridge) | 12 | [Patellofemoral pain](#patellofemoralpain) | 13 |
+| [Barbell hip thrust](#hipthrust) | 12 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
+| [Bayes factor (BF)](#bayesfactor) | 9 | [Pectoral nerves (lateral and medial)](#pectoralnerves) | 9 |
+| [Belt squat](#beltsquat) | 12 | [Pectoralis major](#pectoralismajor) | 9 |
+| [Bench inclination](#benchinclination) | 11 | [Pectoralis major tear (pectoralis major rupture)](#pectoralismajortear) | 13 |
+| [Bench press](#benchpress) | 12 | [Pectoralis major, abdominal part (the "lower chest")](#pectoralisabdominalhead) | 9 |
+| [Biacromial width](#biacromialwidth) | 3 | [Pectoralis major, clavicular head (the "upper chest")](#pectoralisclavicularhead) | 9 |
+| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Pectoralis major, sternocostal head (the "mid chest")](#pectoralissternocostalhead) | 9 |
+| [Biceps femoris, long head (BFlh)](#bicepsfemorislonghead) | 8 | [Pectoralis minor](#pectoralisminor) | 9 |
+| [Biceps femoris, short head (BFsh)](#bicepsfemorisshorthead) | 8 | [Pelvic floor](#pelvicfloor) | 9 |
+| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
+| [Bilaminar tendon](#bilaminartendon) | 3 | [Pelvis](#pelvis) | 3 |
+| [Cable crunch](#cablecrunch) | 12 | [Pennation angle](#pennationangle) | 5 |
+| [Cable or machine kickback (standing hip extension)](#kickback) | 12 | [Plane of elevation](#planeofelevation) | 4 |
+| [Cable pull-through](#cablepullthrough) | 12 | [Plank](#plank) | 12 |
+| [Chest fly (dumbbell fly, cable fly or crossover, pec deck)](#chestfly) | 12 | [Posterior deltoid](#posteriordeltoid) | 9 |
+| [Chin-up](#chinup) | 12 | [Posterior oblique sling](#posteriorobliquesling) | 8 |
+| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Progressive overload](#progressiveoverload) | 10 |
+| [Clavicle (collarbone)](#clavicle) | 3 | [Pronated (overhand) grip](#pronatedgrip) | 11 |
+| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Proximity to failure](#proximitytofailure) | 10 |
+| [Compound exercise](#compound) | 11 | [Psoas major](#psoasmajor) | 9 |
+| [Concentric contraction](#concentriccontraction) | 6 | [Pull-up](#pullup) | 12 |
+| [Contralateral](#contralateral) | 1 | [Pullover](#pullover) | 12 |
+| [Coracobrachialis](#coracobrachialis) | 9 | [Push-up](#pushup) | 12 |
+| [Coracoid process](#coracoidprocess) | 3 | [Quadratus lumborum](#quadratuslumborum) | 9 |
+| [Costal cartilage](#costalcartilage) | 3 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
+| [Crunch](#crunch) | 12 | [Quadriceps tendon](#quadricepstendon) | 3 |
+| [Deadlift](#deadlift) | 12 | [Range of motion (ROM)](#rangeofmotion) | 4 |
+| [Deep hip external rotators](#hipexternalrotators) | 8 | [Rectus abdominis](#rectusabdominis) | 9 |
+| [Deload](#deload) | 10 | [Rectus femoris](#rectusfemoris) | 8 |
+| [Deltoid](#deltoid) | 9 | [Rectus sheath](#rectussheath) | 3 |
+| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
+| [Diaphragm](#diaphragm) | 9 | [Repetition (rep)](#repetition) | 10 |
+| [Diastasis recti](#diastasisrecti) | 13 | [Resistance profile](#resistanceprofile) | 11 |
+| [Dip (parallel-bar dip)](#dip) | 12 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 12 |
+| [Distal clavicular osteolysis ("weightlifter's shoulder")](#distalclavicularosteolysis) | 13 | [Reverse hyperextension](#reversehyperextension) | 12 |
 | [Dose–response relationship](#doseresponserelationship) | 10 | [Reverse Nordic curl](#reversenordic) | 12 |
 | [Double progression](#doubleprogression) | 10 | [RIR (repetitions in reserve)](#rir) | 10 |
-| [Eccentric contraction](#eccentriccontraction) | 6 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
-| [Effect size](#effectsize) | 9 | [Rotator cuff](#rotatorcuff) | 9 |
-| [Effort tolerance](#efforttolerance) | 10 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
-| [Elbow flexors](#elbowflexors) | 8 | [Row](#row) | 12 |
-| [Elbow path](#elbowpath) | 11 | [RPE (rating of perceived exertion)](#rpe) | 10 |
-| [EMG (electromyography)](#emg) | 9 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
-| [Erector spinae](#erectorspinae) | 8 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
-| [Excursion](#excursion) | 4 | [Sacrum](#sacrum) | 3 |
-| [External oblique](#externaloblique) | 9 | [Sagittal plane](#sagittalplane) | 1 |
-| [Face pull](#facepull) | 12 | [Sarcomere](#sarcomere) | 5 |
-| [Fascicle length](#fasciclelength) | 5 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
-| [Femoral nerve](#femoralnerve) | 8 | [Scapula (shoulder blade)](#scapula) | 3 |
-| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Scapular depression](#scapulardepression) | 4 |
-| [Femur (thigh bone)](#femur) | 3 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
-| [Flexion relaxation](#flexionrelaxation) | 11 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
-| [Force–length relationship](#forcelengthrelationship) | 5 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
-| [Front raise](#frontraise) | 12 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
-| [Front squat](#frontsquat) | 12 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
-| [Frontal (coronal) plane](#frontalplane) | 1 | [Semimembranosus (SM)](#semimembranosus) | 8 |
-| [Gastrocnemius](#gastrocnemius) | 8 | [Semitendinosus (ST)](#semitendinosus) | 8 |
-| [Glenohumeral joint](#glenohumeraljoint) | 3 | [Serratus anterior](#serratusanterior) | 8 |
-| [Glute-ham raise (GHR)](#glutehamraise) | 12 | [Sesamoid bone](#sesamoid) | 3 |
-| [Gluteal tendinopathy (greater trochanteric pain syndrome)](#glutealtendinopathy) | 13 | [Set](#set) | 10 |
-| [Gluteus maximus](#gluteusmaximus) | 8 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
-| [Gluteus medius](#gluteusmedius) | 8 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
-| [Gluteus minimus](#gluteusminimus) | 8 | [Shoulder abduction](#shoulderabduction) | 4 |
-| [Good morning](#goodmorning) | 12 | [Shoulder adduction](#shoulderadduction) | 4 |
-| [Greater trochanter](#greatertrochanter) | 3 | [Shoulder extension](#shoulderextension) | 4 |
-| [Grip width](#gripwidth) | 11 | [Shoulder external (lateral) rotation](#shoulderexternalrotation) | 4 |
-| [Hack squat](#hacksquat) | 12 | [Shoulder flexion](#shoulderflexion) | 4 |
-| [Hamstrings](#hamstrings) | 8 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
-| [Hanging knee raise](#hangingkneeraise) | 12 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
-| [Hard set](#hardset) | 10 | [Shoulder instability](#shoulderinstability) | 13 |
-| [Hip abduction](#hipabduction) | 4 | [Side plank](#sideplank) | 12 |
-| [Hip adduction](#hipadduction) | 4 | [Sissy squat](#sissysquat) | 12 |
-| [Hip adductors](#hipadductors) | 8 | [Sit-up](#situp) | 12 |
-| [Hip extension](#hipextension) | 4 | [Size principle](#sizeprinciple) | 6 |
-| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Smith machine squat](#smithmachinesquat) | 12 |
-| [Hip flexion](#hipflexion) | 4 | [Specific tension](#specifictension) | 5 |
-| [Hip hinge](#hiphinge) | 11 | [Split squat](#splitsquat) | 12 |
-| [Hip internal (medial) rotation](#hipinternalrotation) | 4 | [Squat depth](#squatdepth) | 11 |
-| [Hip joint (acetabulofemoral joint)](#hipjoint) | 3 | [Stance width](#stancewidth) | 11 |
-| [Hip osteoarthritis](#hiposteoarthritis) | 13 | [Step-up](#stepup) | 12 |
-| [Horizontal pull](#horizontalpull) | 11 | [Straight-arm pulldown](#straightarmpulldown) | 12 |
-| [Humeral elevation](#humeralelevation) | 4 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
-| [Humerus (upper arm bone)](#humerus) | 3 | [Subacromial impingement](#impingement) | 13 |
-| [Hypertrophy](#hypertrophy) | 7 | [Subacromial space](#subacromialspace) | 3 |
-| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [Suitcase carry](#suitcasecarry) | 12 |
-| [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
-| [Internal (medial) rotation](#internalrotation) | 4 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
-| [Internal oblique](#internaloblique) | 9 | [Supraspinatus](#supraspinatus) | 9 |
-| [Intra-abdominal pressure (IAP)](#intraabdominalpressure) | 3 | [T2-weighted MRI (transverse relaxation time)](#t2mri) | 9 |
-| [Inverted row](#invertedrow) | 12 | [Technical failure](#technicalfailure) | 10 |
-| [Ischial tuberosity](#ischialtuberosity) | 3 | [Tempo](#tempo) | 10 |
-| [Isolation exercise](#isolation) | 11 | [Tensor fasciae latae (TFL)](#tensorfascialatae) | 8 |
+| [Dumbbell bench press](#dumbbellbenchpress) | 12 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
+| [Eccentric contraction](#eccentriccontraction) | 6 | [Rotator cuff](#rotatorcuff) | 9 |
+| [Effect size](#effectsize) | 9 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
+| [Effort tolerance](#efforttolerance) | 10 | [Row](#row) | 12 |
+| [Elbow flexors](#elbowflexors) | 8 | [RPE (rating of perceived exertion)](#rpe) | 10 |
+| [Elbow path](#elbowpath) | 11 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
+| [EMG (electromyography)](#emg) | 9 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
+| [Erector spinae](#erectorspinae) | 8 | [Sacrum](#sacrum) | 3 |
+| [Excursion](#excursion) | 4 | [Sagittal plane](#sagittalplane) | 1 |
+| [External oblique](#externaloblique) | 9 | [Sarcomere](#sarcomere) | 5 |
+| [Face pull](#facepull) | 12 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
+| [Fascicle length](#fasciclelength) | 5 | [Scapula (shoulder blade)](#scapula) | 3 |
+| [Femoral nerve](#femoralnerve) | 8 | [Scapular depression](#scapulardepression) | 4 |
+| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
+| [Femur (thigh bone)](#femur) | 3 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
+| [Flexion relaxation](#flexionrelaxation) | 11 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
+| [Force–length relationship](#forcelengthrelationship) | 5 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
+| [Front raise](#frontraise) | 12 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
+| [Front squat](#frontsquat) | 12 | [Semimembranosus (SM)](#semimembranosus) | 8 |
+| [Frontal (coronal) plane](#frontalplane) | 1 | [Semitendinosus (ST)](#semitendinosus) | 8 |
+| [Gastrocnemius](#gastrocnemius) | 8 | [Serratus anterior](#serratusanterior) | 8 |
+| [Glenohumeral joint](#glenohumeraljoint) | 3 | [Sesamoid bone](#sesamoid) | 3 |
+| [Glute-ham raise (GHR)](#glutehamraise) | 12 | [Set](#set) | 10 |
+| [Gluteal tendinopathy (greater trochanteric pain syndrome)](#glutealtendinopathy) | 13 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
+| [Gluteus maximus](#gluteusmaximus) | 8 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
+| [Gluteus medius](#gluteusmedius) | 8 | [Shoulder abduction](#shoulderabduction) | 4 |
+| [Gluteus minimus](#gluteusminimus) | 8 | [Shoulder adduction](#shoulderadduction) | 4 |
+| [Good morning](#goodmorning) | 12 | [Shoulder extension](#shoulderextension) | 4 |
+| [Greater trochanter](#greatertrochanter) | 3 | [Shoulder external (lateral) rotation](#shoulderexternalrotation) | 4 |
+| [Grip width](#gripwidth) | 11 | [Shoulder flexion](#shoulderflexion) | 4 |
+| [Hack squat](#hacksquat) | 12 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
+| [Hamstrings](#hamstrings) | 8 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
+| [Hanging knee raise](#hangingkneeraise) | 12 | [Shoulder instability](#shoulderinstability) | 13 |
+| [Hard set](#hardset) | 10 | [Side plank](#sideplank) | 12 |
+| [Hip abduction](#hipabduction) | 4 | [Sissy squat](#sissysquat) | 12 |
+| [Hip adduction](#hipadduction) | 4 | [Sit-up](#situp) | 12 |
+| [Hip adductors](#hipadductors) | 8 | [Size principle](#sizeprinciple) | 6 |
+| [Hip extension](#hipextension) | 4 | [Smith machine squat](#smithmachinesquat) | 12 |
+| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Specific tension](#specifictension) | 5 |
+| [Hip flexion](#hipflexion) | 4 | [Split squat](#splitsquat) | 12 |
+| [Hip hinge](#hiphinge) | 11 | [Squat depth](#squatdepth) | 11 |
+| [Hip internal (medial) rotation](#hipinternalrotation) | 4 | [Stance width](#stancewidth) | 11 |
+| [Hip joint (acetabulofemoral joint)](#hipjoint) | 3 | [Step-up](#stepup) | 12 |
+| [Hip osteoarthritis](#hiposteoarthritis) | 13 | [Sternum (breastbone)](#sternum) | 3 |
+| [Horizontal pull](#horizontalpull) | 11 | [Sticking region](#stickingregion) | 11 |
+| [Humeral elevation](#humeralelevation) | 4 | [Straight-arm pulldown](#straightarmpulldown) | 12 |
+| [Humerus (upper arm bone)](#humerus) | 3 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
+| [Hypertrophy](#hypertrophy) | 7 | [Subacromial impingement](#impingement) | 13 |
+| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [Subacromial space](#subacromialspace) | 3 |
+| [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [Suitcase carry](#suitcasecarry) | 12 |
+| [Internal (medial) rotation](#internalrotation) | 4 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
+| [Internal oblique](#internaloblique) | 9 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
+| [Intra-abdominal pressure (IAP)](#intraabdominalpressure) | 3 | [Supraspinatus](#supraspinatus) | 9 |
+| [Inverted row](#invertedrow) | 12 | [T2-weighted MRI (transverse relaxation time)](#t2mri) | 9 |
+| [Ischial tuberosity](#ischialtuberosity) | 3 | [Technical failure](#technicalfailure) | 10 |
+| [Isolation exercise](#isolation) | 11 | [Tempo](#tempo) | 10 |
+| [Joint reaction force](#jointreactionforce) | 3 | [Tensor fasciae latae (TFL)](#tensorfascialatae) | 8 |
 | [Kipping](#kipping) | 12 | [Tensor vastus intermedius](#tensorvastusintermedius) | 8 |
 | [Knee extension](#kneeextension) | 4 | [Teres major](#teresmajor) | 8 |
 | [Knee flexion](#kneeflexion) | 4 | [The EMG–hypertrophy dissociation](#emghypertrophydissociation) | 9 |
@@ -10262,13 +11895,12 @@ plain same-file heading anchor.
 | [Lumbar compression](#lumbarcompression) | 11 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
 | [Lumbopelvic rhythm](#lumbopelvicrhythm) | 4 | [Trunk rotation](#trunkrotation) | 5 |
 | [Lunge](#lunge) | 12 | [Upright row](#uprightrow) | 12 |
-| [Mechanical tension](#mechanicaltension) | 6 | [Vastus intermedius](#vastusintermedius) | 8 |
-| [Mechanotransduction](#mechanotransduction) | 6 | [Vastus lateralis](#vastuslateralis) | 8 |
-| [Middle deltoid](#middledeltoid) | 9 | [Vastus medialis](#vastusmedialis) | 8 |
-| [Moment arm](#momentarm) | 2 | [Vertical pull](#verticalpull) | 11 |
-| [Momentary (muscular) failure](#momentaryfailure) | 10 | [Volume load](#volumeload) | 10 |
-| [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 | [Woodchop](#woodchop) | 12 |
-| [Motor unit](#motorunit) | 6 |  |  |
+| [Machine chest press](#machinechestpress) | 12 | [Vastus intermedius](#vastusintermedius) | 8 |
+| [Mechanical tension](#mechanicaltension) | 6 | [Vastus lateralis](#vastuslateralis) | 8 |
+| [Mechanotransduction](#mechanotransduction) | 6 | [Vastus medialis](#vastusmedialis) | 8 |
+| [Middle deltoid](#middledeltoid) | 9 | [Vertical pull](#verticalpull) | 11 |
+| [Moment arm](#momentarm) | 2 | [Volume load](#volumeload) | 10 |
+| [Momentary (muscular) failure](#momentaryfailure) | 10 | [Woodchop](#woodchop) | 12 |
 
 ---
 
@@ -10333,6 +11965,12 @@ It is not a constant — it changes continuously through a joint's range, which 
 
 > **LAYER 3 — Skeletal and connective anatomy.** The structures the muscle attaches to and pulls on.
 
+## jointreactionforce
+
+*Biomechanics & Mechanics*
+
+**Joint reaction force** — The force with which the two bones of a joint are pressed into each other while you move. Formally: the resultant contact force transmitted across a joint's articular surfaces (N), conventionally resolved into a **compression** component directed along the axis joining the two surfaces and one or more **shear** components acting across it; it is the sum of the external resistance and every muscle force crossing that joint, so it is almost always far larger than the weight being lifted. It matters because muscles do not only move joints, they squeeze them — and technique changes that leave the weight on the bar unchanged can change the shear components substantially.
+
 ## intraabdominalpressure
 
 *Biomechanics & Mechanics*
@@ -10343,11 +11981,23 @@ It is not a constant — it changes continuously through a joint's range, which 
 
 Raising it together with abdominal muscle force increased the load a physical model of the lumbar spine could carry before buckling, and did so **without** the extra co-contraction of the spinal extensors that the alternative stabilizing strategy requires (Cholewicki et al., 1999). It is what a lifting belt gives the abdominal wall something to press against, and it is why breathing is a technique variable rather than an afterthought in Part VI §C.6.
 
+## sternum
+
+*Anatomy & Structure*
+
+**Sternum (breastbone)** — The flat bone down the middle of the front of your chest that the ribs attach to. Formally: the flat bone of the anterior thoracic wall, formed of the manubrium above, the body in the middle and the xiphoid process below, articulating with the collarbones at its upper corners and with the upper seven pairs of ribs through their cartilages. It is the origin of the largest part of the chest musculature, and the landmark a bar arrives at during a bench press.
+
+## costalcartilage
+
+*Anatomy & Structure*
+
+**Costal cartilage** — The bars of gristle joining the front ends of the ribs to the [sternum](#sternum). Formally: the hyaline cartilage segments that continue each of the upper ribs anteriorly to the sternum, giving the front of the ribcage the elasticity that lets it expand during breathing. They matter here because the lowest fibres of the chest musculature arise from them rather than from bone, which is why that origin sits well below the breastbone and those fibres therefore run **upward** to reach the arm.
+
 ## scapula
 
 *Anatomy & Structure*
 
-**Scapula (shoulder blade)** — The flat triangular bone that floats on the back of the ribcage and carries the socket the arm sits in. Formally: a triangular flat bone articulating with the humerus at the glenoid fossa and with the collarbone at the acromioclavicular joint, held against the thorax by muscle rather than by a joint capsule, and therefore capable of translation and rotation in three planes. Its inferior angle is the landmark that the latissimus dorsi glides over during overhead reaching, and its mobility is what determines whether the arm can reach true end-range elevation at all.
+**Scapula (shoulder blade)** — The flat triangular bone that floats on the back of the ribcage and carries the socket the arm sits in. Formally: a triangular flat bone articulating with the humerus at the glenoid fossa and with the collarbone at its outermost point, held against the thorax by muscle rather than by a joint capsule, and therefore capable of translation and rotation in three planes. Its inferior angle is the landmark that the latissimus dorsi glides over during overhead reaching, and its mobility is what determines whether the arm can reach true end-range elevation at all.
 
 ## acromion
 
@@ -10371,7 +12021,13 @@ Raising it together with abdominal muscle force increased the load a physical mo
 
 *Anatomy & Structure*
 
-**Clavicle (collarbone)** — The bone you can feel running from the base of your throat out to the point of your shoulder. Formally: the S-shaped strut articulating medially with the sternum and laterally with the [acromion](#acromion), and the only bony connection between the arm and the axial skeleton; the whole shoulder girdle otherwise hangs on muscle. Its lateral third is the origin of the front of the deltoid, which is why the front of the shoulder pulls the arm forward and the back of it pulls the arm backward.
+**Clavicle (collarbone)** — The bone you can feel running from the base of your throat out to the point of your shoulder. Formally: the S-shaped strut articulating medially with the [sternum](#sternum) and laterally with the [acromion](#acromion), and the only bony connection between the arm and the axial skeleton; the whole shoulder girdle otherwise hangs on muscle. Its lateral third is the origin of the front of the deltoid, which is why the front of the shoulder pulls the arm forward and the back of it pulls the arm backward.
+
+## acromioclavicularjoint
+
+*Anatomy & Structure*
+
+**Acromioclavicular joint (AC joint)** — The small joint you can feel as a bump at the very top of your shoulder, where the collarbone meets the shoulder blade. Formally: the plane synovial articulation between the lateral end of the [clavicle](#clavicle) and the medial facet of the [acromion](#acromion), stabilized by the acromioclavicular and coracoclavicular ligaments and permitting only a few degrees of motion. It is the joint a bench press compresses: modelled compression at this joint rose as the hands were placed further apart in ten experienced lifters (Noteboom et al., 2024), and point tenderness here is aggravated by reaching across the body rather than out to the side.
 
 ## humerus
 
@@ -10385,11 +12041,17 @@ Raising it together with abdominal muscle force increased the load a physical mo
 
 **Deltoid tuberosity** — The roughened patch on the outside of the upper arm bone, about halfway down, where the whole deltoid attaches. Formally: the V-shaped elevation on the anterolateral surface of the [humerus](#humerus) at approximately its midpoint, receiving the converged tendons of all three deltoid heads. Its position matters twice: it is far enough down the bone to give the muscle a workable [moment arm](#momentarm), and it is a **single** attachment shared by heads whose origins are 20 cm apart — which is why the three heads' different actions come entirely from where they start, not from where they finish.
 
+## coracoidprocess
+
+*Anatomy & Structure*
+
+**Coracoid process** — The finger-shaped hook of bone projecting forward from the shoulder blade just below the collarbone. Formally: the anteriorly directed process arising from the superior aspect of the neck of the [scapula](#scapula), giving attachment to the short head of biceps, to coracobrachialis and to pectoralis minor, and anchoring the coracoclavicular ligaments that suspend the shoulder blade from the [clavicle](#clavicle). For this document it matters as the attachment of the small chest muscle that moves the shoulder blade rather than the arm, and as one boundary of the gap the tendons above the joint pass through.
+
 ## subacromialspace
 
 *Anatomy & Structure*
 
-**Subacromial space** — The narrow gap between the top of the arm bone and the bony shelf above it, through which the rotator-cuff tendons pass. Formally: the interval bounded above by the [acromion](#acromion), the coracoacromial ligament and the coracoid process, and below by the head of the [humerus](#humerus), containing the supraspinatus tendon, the long head of biceps tendon and the subacromial bursa; its height is conventionally measured as the acromiohumeral distance (mm). It is the structure the deltoid drives the humeral head toward when it contracts with the arm near the side, and the reason a shoulder exercise's bottom position is a joint question as well as a muscle question (Part V §A.5).
+**Subacromial space** — The narrow gap between the top of the arm bone and the bony shelf above it, through which the rotator-cuff tendons pass. Formally: the interval bounded above by the [acromion](#acromion), the coracoacromial ligament and the [coracoid process](#coracoidprocess), and below by the head of the [humerus](#humerus), containing the supraspinatus tendon, the long head of biceps tendon and the subacromial bursa; its height is conventionally measured as the acromiohumeral distance (mm). It is the structure the deltoid drives the humeral head toward when it contracts with the arm near the side, and the reason a shoulder exercise's bottom position is a joint question as well as a muscle question (Part V §A.5).
 
 ## bicipitalgroove
 
@@ -10408,6 +12070,12 @@ Raising it together with abdominal muscle force increased the load a physical mo
 *Anatomy & Structure*
 
 **Aponeurosis** — A flat, sheet-like tendon that spreads across a muscle instead of forming a rope. Formally: a broad, thin sheet of dense collagenous connective tissue into which muscle fibers insert, mechanically continuous with the muscle belly and transmitting its force. It matters here because the latissimus dorsi's lower origin is aponeurotic rather than bony, which makes the muscle's fixed end depend on the tension of a fascial sheet rather than on a rigid bony anchor.
+
+## bilaminartendon
+
+*Anatomy & Structure*
+
+**Bilaminar tendon** — A tendon built as two sheets lying one behind the other rather than as a single strap. Formally: a tendon whose fibres are arranged in an anterior and a posterior lamina which are continuous with each other at one border, so that the sheet **folds** rather than rotates on its way to bone; the human pectoralis major's insertion is the type example, with a longer anterior layer and a shorter posterior layer joined inferiorly, and a three-dimensional study of eleven specimens found no twisting of either muscle or tendon (Fung et al., 2009). Its practical consequence is that such a tendon can fail through part of its thickness and hold through the rest, which is why injuries to it are graded by how much of the front-to-back thickness is involved rather than simply as torn or intact.
 
 ## thoracolumbarfascia
 
@@ -11150,11 +12818,47 @@ That combination — very long fascicles, very small PCSA — defines it as an *
 
 **Deltoid** — The muscle that caps the shoulder and raises the arm in whatever direction its fibres pull. Formally: the triangular muscle formed by the [anterior](#anteriordeltoid), [middle](#middledeltoid) and [posterior](#posteriordeltoid) heads, all three converging on the [deltoid tuberosity](#deltoidtuberosity) of the [humerus](#humerus) and all three supplied by the [axillary nerve](#axillarynerve); internally divided by intramuscular tendons into **seven** anatomical segments whose boundaries correspond to differences in metabolic activity during elevation (Sakoma et al., 2011). It is the **largest muscle of the upper limb**, holding 15.2 ± 1% of the limb's total muscle volume — the largest fraction of the thirty-two muscles measured by MRI in living adults (Holzbaur et al., 2007). Its defining property for training is that its heads wrap the joint from three sides, so their moment arms differ in **sign** rather than merely in size, and no single exercise loads more than one of them well (Part V §B.4).
 
+## pectoralnerves
+
+*Anatomy & Structure*
+
+**Pectoral nerves (lateral and medial)** — The two nerves that supply the chest muscles, named for where they leave the nerve plexus rather than for where they arrive. Formally: branches of the brachial plexus — the **lateral** pectoral nerve from the lateral cord (C5–C7), supplying the upper part of the pectoralis major, and the **medial** pectoral nerve from the medial cord (C8–T1), supplying its lower part and pectoralis minor. The naming is a standing trap: the *lateral* nerve serves the upper, more medially-arising fibres and the *medial* nerve serves the lower ones. The useful part is that the muscle's upper and lower portions have partly separate innervation, which is the neural counterpart of the regional behaviour in Part VIII §A.6.
+
+## pectoralisclavicularhead
+
+*Anatomy & Structure*
+
+**Pectoralis major, clavicular head (the "upper chest")** — The upper slice of the chest muscle, running from the collarbone down and out to the arm. Formally: the portion of the pectoralis major arising from the medial half of the anterior surface of the [clavicle](#clavicle) and inserting through the anterior lamina of the muscle's [bilaminar tendon](#bilaminartendon) on the lateral lip of the [bicipital groove](#bicipitalgroove); supplied mainly by the lateral [pectoral nerve](#pectoralnerves). It is **architecturally uniform** — dissection found no internal segmentation in it — and its mean lateral [pennation angle](#pennationangle) of 29.4 ± 6.9° is the larger of the muscle's two heads (Fung et al., 2009). It is the only part of the muscle with a large [shoulder flexion](#shoulderflexion) [moment arm](#momentarm): 53.7 ± 2.1 mm at its peak, the largest at the joint (Ackland et al., 2008).
+
+## pectoralissternocostalhead
+
+*Anatomy & Structure*
+
+**Pectoralis major, sternocostal head (the "mid chest")** — The large middle slice of the chest muscle, running roughly horizontally from the breastbone out to the arm. Formally: the portion of the pectoralis major arising from the anterior surface of the [sternum](#sternum) and the upper [costal cartilages](#costalcartilage) and inserting on the lateral lip of the bicipital groove through both laminae of the tendon; supplied by both pectoral nerves. Unlike the clavicular head it is **segmented into six or seven discrete architectural segments**, whose fibre bundle lengths are greatest in the central ones, and its mean lateral pennation angle of 20.6 ± 2.7° is the smaller of the two (Fung et al., 2009). It is the largest part of the muscle, the part a flat press loads most, and the part whose leverage is largest in adduction rather than in flexion.
+
+## pectoralisabdominalhead
+
+*Anatomy & Structure*
+
+**Pectoralis major, abdominal part (the "lower chest")** — The lowest slice of the chest muscle, running upward and outward from the bottom of the ribcage to the arm. Formally: the inferior portion of the pectoralis major arising from the lowest costal cartilages and from the flat tendon sheet of the outermost lateral abdominal muscle, passing behind the fibres above it to insert **highest** on the [humerus](#humerus) through the posterior lamina of the tendon; supplied by the medial pectoral nerve. Because its fibres travel upward to reach their insertion, its [moment arm](#momentarm) at the shoulder carries the **opposite sign** to the clavicular head's — it is an extensor where the top of the muscle is a flexor (Ackland et al., 2008). The crossing that produces this is a fold, not a twist (Part VIII §A.3).
+
 ## pectoralismajor
 
 *Anatomy & Structure*
 
-**Pectoralis major** — The large fan-shaped muscle of the chest. Formally: arising from the medial [clavicle](#clavicle), the sternum and the upper costal cartilages, converging to insert on the lateral lip of the [bicipital groove](#bicipitalgroove) of the [humerus](#humerus); supplied by the medial and lateral pectoral nerves. Its clavicular fibres are a powerful [shoulder flexor](#shoulderflexion) — peak flexion [moment arm](#momentarm) 53.7 ± 2.1 mm, the largest at the joint and larger than any deltoid sub-region's (Ackland et al., 2008) — while its sternal and lower-costal fibres behave as a stabilizer and an extensor respectively. For Part V it matters as the muscle the [anterior deltoid](#anteriordeltoid) shares every press and every front raise with, and never has flexion to itself.
+**Pectoralis major** — The large fan-shaped muscle of the chest. Formally: a single muscle in three parts — the [clavicular head](#pectoralisclavicularhead), the [sternocostal head](#pectoralissternocostalhead) and the [abdominal part](#pectoralisabdominalhead) — arising along an arc from the medial [clavicle](#clavicle) through the [sternum](#sternum) to the lowest [costal cartilages](#costalcartilage), and converging onto one insertion on the lateral lip of the [bicipital groove](#bicipitalgroove) of the [humerus](#humerus); supplied by the lateral and medial [pectoral nerves](#pectoralnerves). Its defining property is that **its parts have [moment arms](#momentarm) of opposite sign at the same joint**: the clavicular fibres are the joint's strongest [shoulder flexor](#shoulderflexion) at a peak of 53.7 ± 2.1 mm — larger than any deltoid sub-region's — while the middle and inferior sub-regions behave as a stabilizer and an extensor respectively (Ackland et al., 2008). Architecturally it is an excursion muscle: in the only complete upper-limb cadaver dataset its fascicles tied for the longest of fifty muscles while its [PCSA](#pcsa) ranked eleventh (Ruggiero et al., 2016). For Part V it matters as the muscle the [anterior deltoid](#anteriordeltoid) shares every press and every front raise with, and never has flexion to itself; Part VIII is its own.
+
+## pectoralisminor
+
+*Anatomy & Structure*
+
+**Pectoralis minor** — The small flat muscle underneath the chest muscle, running from the ribs to a hook of bone on the shoulder blade. Formally: a triangular muscle arising from the outer surfaces of ribs 3–5 near their cartilages and inserting on the [coracoid process](#coracoidprocess) of the [scapula](#scapula); supplied by the medial pectoral nerve. **It does not attach to the arm**, so it cannot press, cannot fly and cannot be trained as a chest muscle — it tilts the shoulder blade forward and downward and assists in depressing it. It nonetheless grows from bench pressing, its magnetic-resonance cross-sectional area rising above control over ten weeks, but by less than the pectoralis major's did in the same lifters (Lanza et al., 2024).
+
+## coracobrachialis
+
+*Anatomy & Structure*
+
+**Coracobrachialis** — A small strap of muscle running from the hook of bone at the front of the shoulder blade to the middle of the upper arm bone. Formally: arising from the [coracoid process](#coracoidprocess) alongside the short head of biceps and inserting on the medial surface of the mid-shaft of the [humerus](#humerus); supplied by the musculocutaneous nerve, which pierces it. It flexes and adducts the arm, so it works alongside the clavicular fibres of the pectoralis major in every press and every raise to the front. It is defined here only so that it is not mistaken for part of the chest: at 16.0 g of muscle and a [PCSA](#pcsa) of 1.6 cm² in the one complete upper-limb cadaver dataset (Ruggiero et al., 2016), it is too small for any prescription to be written for it.
 
 ## trapezius
 
@@ -11468,6 +13172,18 @@ Exercises are classified by where that function peaks: **stretch-loaded** (peak 
 *Exercises & Technique*
 
 **Grip width** — How far apart your hands are, expressed as a multiple of your own shoulder width. Formally: the inter-hand distance during a pulling exercise, normalized to [biacromial width](#biacromialwidth) — conventionally *narrow* = 1×, *medium* = 1.5×, *wide* = 2×. Narrow, medium and wide produced similar latissimus dorsi activation, with narrow and medium permitting a heavier 6RM than wide (Andersen et al., 2014), and seven grip and trunk-angle variants produced no significant difference at all (Buonsenso et al., 2025). Its one real consequence is on [range of motion](#rangeofmotion): a wider grip shortens the movement, which for this muscle is a genuine cost.
+
+## benchinclination
+
+*Exercises & Technique*
+
+**Bench inclination** — How far the bench is tilted up from flat when you press on it. Formally: the angle of the bench's backrest above horizontal (°), where 0° is flat, positive values are an incline and negative values a decline; it sets how much [shoulder flexion](#shoulderflexion) is combined with the [horizontal adduction](#shoulderhorizontaladduction) in a press, and therefore how much of the work falls to the upper fibres of the chest and to the [anterior deltoid](#anteriordeltoid). **It is not the same quantity as [humeral elevation](#humeralelevation) and does not equal it**: the arm's angle to the torso depends on where the bar is, not only on where the bench is. Anterior deltoid activity peaks at 60° and rises significantly above 45° (Rodríguez-Ridao et al., 2020), and six-repetition-maximum load falls 18.5–21.5% on an incline against a flat or a declined bench (Saeterbakken et al., 2017).
+
+## stickingregion
+
+*Biomechanics & Mechanics*
+
+**Sticking region** — The point part-way up a heavy press where the bar slows or stops even though you are still pushing as hard as you can. Formally: the interval of a lift containing a local minimum in barbell velocity, arising where the [torque](#torque) a joint can produce falls below the torque the load demands at that position. In the bench press it appears when shoulder torque drops below a critical threshold; adding elbow torque both shallows the dip and moves the velocity minimum from about 38 cm to about 23 cm above the chest, while lengthening the time spent passing through it (Evangelista et al., 2025). It matters because **where** a lift fails is diagnostic: a stall in the sticking region is a shoulder problem, and a stall at lockout is an elbow one.
 
 ## pronatedgrip
 
@@ -11791,6 +13507,36 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Bench press** — Lying on a bench and pressing a weight up from the chest. Formally: a multi-joint [shoulder horizontal adduction](#shoulderhorizontaladduction) and flexion exercise combined with elbow extension, performed supine at a bench inclination from 0° (flat) upward; its [resistance profile](#resistanceprofile) is stretch-loaded for the [pectoralis major](#pectoralismajor), with peak demand at the chest. The [anterior deltoid](#anteriordeltoid)'s share rises with the inclination, peaking at **60°** and rising significantly above 45° while pectoralis major performance falls (Rodríguez-Ridao et al., 2020). Ten weeks of flat bench pressing raised anterior deltoid cross-sectional area above control while the [middle deltoid](#middledeltoid)'s increase was the smallest of four muscles measured (Lanza et al., 2024) — which is the direct evidence that pressing trains one third of the deltoid.
 
+## dumbbellbenchpress
+
+*Exercises & Technique*
+
+**Dumbbell bench press** — A bench press performed with a weight in each hand instead of one bar. Formally: a supine horizontal press with independent implements, so that the hands travel on separate paths and may converge at the top; its [range of motion](#rangeofmotion) at the bottom is bounded by the shoulder rather than by a bar meeting the chest, and its one-repetition maximum was measured 17% below the barbell's in twelve trained men, with no difference in pectoralis major activity between the two (Saeterbakken et al., 2011). It is the standard substitute for the barbell for anyone whose shoulder objects to a fixed hand path, and the standard way of adding range at the bottom of a press.
+
+## machinechestpress
+
+*Exercises & Technique*
+
+**Machine chest press** — A pressing machine you sit or lie in, with handles that travel on a fixed path. Formally: a horizontal press performed against a guided lever or cable arm, whose [resistance profile](#resistanceprofile) is set by the machine's cam rather than by gravity acting on a free implement, and is therefore usually much flatter than a free weight's. Its distinguishing practical property is that **nothing has to be caught**, which makes it the version of the movement that can be taken to [momentary failure](#momentaryfailure) without a spotter. Clavicular pectoralis major activity in a seated chest press with a neutral grip was marginally higher than in a lying barbell press at a wide grip, though the authors concluded that all the exercises and grips compared produced similar activity (Muyor et al., 2023).
+
+## chestfly
+
+*Exercises & Technique*
+
+**Chest fly (dumbbell fly, cable fly or crossover, pec deck)** — Opening the arms wide and bringing them back together in front of you with the elbows held at a fixed angle. Formally: a single-joint [horizontal adduction](#shoulderhorizontaladduction) exercise performed with the elbow set at a constant slight flexion, so that the shoulder is the only joint that moves and the [triceps brachii](#tricepsbrachii) contributes nothing. Its [resistance profile](#resistanceprofile) depends entirely on the implement: a **dumbbell** version is loaded only near the bottom, because the resistance arm is the horizontal distance from shoulder to hand and shrinks to nothing as the hands meet, while a **cable or machine** version is roughly constant through the range and is the only chest exercise that still loads the shortened position. Twelve weeks of the machine version alone raised clavicular [muscle thickness](#musclethickness) 17–18% and sternocostal thickness 21% in untrained men (Pinto et al., 2025).
+
+## pushup
+
+*Exercises & Technique*
+
+**Push-up** — Lowering and raising your body from the floor with your arms while the rest of you holds one line. Formally: a [closed kinetic chain](#closedkineticchain) horizontal press in which the body is the load, performed prone with the hands fixed and the trunk, hips and knees held rigid; the resistance is a fraction of body mass set by the inclination of the body, and is raised by elevating the feet, adding a weighted vest or adding bands. Load-matched, it is not a lesser exercise than a bench press: eight weeks of it produced comparable [muscle thickness](#musclethickness) and strength gains (Kikuchi & Nakazato, 2017), and at matched loads there were no differences in kinematics or muscle activation between the two (van den Tillaar, 2019).
+
+## dip
+
+*Exercises & Technique*
+
+**Dip (parallel-bar dip)** — Supporting yourself on two bars and lowering your body between them by bending the arms. Formally: a closed-chain press in which the body descends between fixed handles, combining elbow extension with [shoulder extension](#shoulderextension) and adduction; leaning the torso forward biases it toward the chest, and staying upright biases it toward the [triceps brachii](#tricepsbrachii). Nothing stops the descent except the shoulder, so it reaches further into shoulder extension than any other pressing exercise in this document — which is both why it loads the pectoralis major's lengthened position well and why it is the least tolerable chest exercise for an irritable shoulder. **The bench dip is a different exercise**: performed with the feet on the floor and the hands behind the body, it is a triceps movement at the extreme of shoulder extension, and its peak triceps activity was lower than either the bar or the ring version's (McKenzie et al., 2022).
+
 ## reversefly
 
 *Exercises & Technique*
@@ -11939,6 +13685,18 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Shoulder instability** — A shoulder that slips, or feels as though it is about to, when the arm is put in certain positions. Formally: symptomatic excessive translation of the head of the [humerus](#humerus) relative to the glenoid fossa, ranging from subluxation to frank dislocation, most commonly anterior and most commonly provoked by [abduction](#shoulderabduction) combined with [external rotation](#shoulderexternalrotation). Training-relevant for two reasons: that provoking position is the one a behind-the-neck press requires, and the [axillary nerve](#axillarynerve) that supplies the whole deltoid is the one most often injured by a dislocation (Part V §E.4).
 
+## pectoralismajortear
+
+*Pathology & Clinical*
+
+**Pectoralis major tear (pectoralis major rupture)** — A tear of the chest muscle or of the tendon anchoring it to the arm, usually felt as a sudden painful giving-way under a heavy bar. Formally: a partial or complete disruption of the pectoralis major at its origin, within the muscle belly, at or between the musculotendinous junction and the tendinous insertion, or as a bony avulsion; because that insertion is a [bilaminar tendon](#bilaminartendon), tears are graded by their anterior-to-posterior thickness and by complete versus incomplete width rather than simply as present or absent. Of 365 published cases collected between 1822 and 2010, **83% arose from indirect trauma and 48% occurred during weight-training activities** (ElMaraghy & Devereaux, 2012). It presents with immediate weakness, bruising over the following days and a change in the shape of the fold at the front of the armpit, and it is a same-day medical assessment rather than a training problem.
+
+## distalclavicularosteolysis
+
+*Pathology & Clinical*
+
+**Distal clavicular osteolysis ("weightlifter's shoulder")** — Bone at the outer end of the collarbone breaking down under repeated compression, felt as a tender bump at the very top of the shoulder. Formally: stress-related resorption of subchondral bone at the lateral end of the [clavicle](#clavicle) at the [acromioclavicular joint](#acromioclavicularjoint), associated with repetitive compressive loading and characteristically aggravated by movements carrying the arm across the body. Modelled compression at that joint during a bench press rose as the hands moved further apart, and was lower at hand spacings under 1.5 [biacromial widths](#biacromialwidth) (Noteboom et al., 2024) — which makes hand spacing the first variable to change when this is suspected, and professional assessment the second.
+
 ## lowbackpain
 
 *Pathology & Clinical*
@@ -11953,16 +13711,16 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 ---
 
-# partixbibliography
+# partxbibliography
 
-**Part IX — Bibliography**
+**Part X — Bibliography**
 
-Every source cited in this document: **244 papers**, each with a DOI you can paste into a search box
-or a library request form — with two exceptions, noted at their entries, for which no DOI was ever
+Every source cited in this document: **270 papers**, each with a DOI you can paste into a search box
+or a library request form — with three exceptions, noted at their entries, for which no DOI was ever
 issued and a PubMed or PubMed Central identifier is given instead. Alphabetical by first author, so an in-text citation like
 *(Gerling & Brown, 2013)* is found by scanning for **Gerling**.
 
-**112 are open access** — free to read now. **132 are paywalled**; any university or public library can
+**129 are open access** — free to read now. **141 are paywalled**; any university or public library can
 obtain those through interlibrary loan at no cost, usually in a few days, and authors may legally
 share their own accepted manuscripts if you email them. Every DOI below was verified against
 Crossref, and open-access status against Unpaywall, at the time of writing.
@@ -11974,7 +13732,7 @@ discussion, the text says so at the claim itself — that context matters more t
 marks claims that could not be traced to a source we could read; they are flagged rather than quietly
 dropped. **Twenty-two of these papers measured the latissimus dorsi directly, twenty-eight measured the
 quadriceps femoris directly, thirty-eight measured a gluteal muscle directly, twenty-one measured a
-deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, and twenty-nine measured a hamstring directly**; the rest supply general training principles or the mechanical
+deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, twenty-nine measured a hamstring directly, and twenty-eight measured a pectoral muscle directly**; the rest supply general training principles or the mechanical
 framework. Where a paper's own research group has been
 the subject of a published data-integrity analysis, its entry says so. Where two or more papers by the same first author share a year, the bibliography entry
 records the `a`/`b`/`c` suffix used in the text.
@@ -11988,6 +13746,8 @@ Ackland DC, Pandy MG. Moment arms of the shoulder muscles during axial rotation.
 Afonso J, Ramirez-Campillo R, Moscão J, Rocha T, Brandão A, Pereira J, et al. Strength Training versus Stretching for Improving Range of Motion: A Systematic Review and Meta-Analysis. Healthcare. 2021;9(4):427. doi:10.3390/healthcare9040427 · **open access**
 
 Ahtiainen JP, Walker S, Peltonen H, Holviala J, Sillanpää E, Karavirta L, et al. Heterogeneity in resistance training-induced muscle strength and mass responses in men and women of different ages. Age. 2016;38(1):10. doi:10.1007/s11357-015-9870-1 · **open access**
+
+Albarello JCDS, Cabral HV, Leitão BFM, Halmenschlager GH, Lulic-Kuryllo T, Matta TT. Non-uniform excitation of pectoralis major induced by changes in bench press inclination leads to uneven variations in the cross-sectional area measured by panoramic ultrasonography. Journal of Electromyography and Kinesiology. 2022;67:102722. doi:10.1016/j.jelekin.2022.102722 · *paywalled*
 
 Alonso-Fernández D, Fernández-Rodríguez R, Abalo-Núñez R. Changes in rectus femoris architecture induced by the reverse nordic hamstring exercises. The Journal of Sports Medicine and Physical Fitness. 2019;59(4):640-647. doi:10.23736/S0022-4707.18.08873-4 · **open access**
 
@@ -12018,6 +13778,8 @@ Balshaw TG, Funnell MP, McDermott EJ, Maden-Wilkinson TM, Massey GJ, Abela S, et
 Barbalho M, Coswig V, Souza D, Serrão JC, Hebling Campos M, Gentil P. Back Squat vs. Hip Thrust Resistance-training Programs in Well-trained Women. International Journal of Sports Medicine. 2020;41(5):306-310. doi:10.1055/a-1082-1126 · *paywalled* — *data-integrity concerns; see Vigotsky et al., 2020*
 
 Barker PJ, Hapuarachchi KS, Ross JA, Sambaiew E, Ranger TA, Briggs CA. Anatomy and biomechanics of gluteus maximus and the thoracolumbar fascia at the sacroiliac joint. Clinical Anatomy. 2014;27(2):234-240. doi:10.1002/ca.22233 · *paywalled*
+
+Bartolomei S, Caroli E, Coloretti V, Rosaci G, Cortesi M, Coratella G. Flat-Back vs. Arched-Back Bench Press: Examining the Different Techniques Performed by Power Athletes. Journal of Strength and Conditioning Research. 2024;38(7):1200-1205. doi:10.1519/JSC.0000000000004778 · **open access**
 
 Bartolomei S, Rosaci G, Latini D, Nigro F. Effects of horizontally versus vertically loaded resistance exercises on performance and muscle architecture. The Journal of Sports Medicine and Physical Fitness. 2025;65(3):312-319. doi:10.23736/S0022-4707.24.16218-4 · *paywalled*
 
@@ -12055,11 +13817,15 @@ Brown SHM, Ward SR, Cook MS, Lieber RL. Architectural analysis of human abdomina
 
 Buonsenso A, Di Fonza D, Di Claudio G, et al. Electromyographic Analysis of Back Muscle Activation During Lat Pulldown Exercise: Effects of Grip Variations and Forearm Orientation. Journal of Functional Morphology and Kinesiology. 2025;10(3):345. doi:10.3390/jfmk10030345 · **open access**
 
+Calatayud J, Borreani S, Colado JC, Martin F, Tella V, Andersen LL. Bench Press and Push-up at Comparable Levels of Muscle Activity Results in Similar Strength Gains. Journal of Strength and Conditioning Research. 2015;29(1):246-253. doi:10.1519/JSC.0000000000000589 · **open access**
+
 Callaghan JP, McGill SM. Intervertebral disc herniation: studies on a porcine model exposed to highly repetitive flexion/extension motion with compressive force. Clinical Biomechanics. 2001;16(1):28-37. doi:10.1016/S0268-0033(00)00063-2 · *paywalled*
 
 Cannon J, Weithman BA, Powers CM. Activation training facilitates gluteus maximus recruitment during weight-bearing strengthening exercises. Journal of Electromyography and Kinesiology. 2022;63:102643. doi:10.1016/j.jelekin.2022.102643 · *paywalled*
 
 Caterisano A, Moss RF, Pellinger TK, Woodruff K, Lewis VC, Booth W, et al. The Effect of Back Squat Depth on the EMG Activity of 4 Superficial Hip and Thigh Muscles. Journal of Strength and Conditioning Research. 2002;16(3):428-432. doi:10.1519/00124278-200208000-00014 · *paywalled*
+
+Chaves SFN, Rocha-Júnior VA, Encarnação IGA, Martins-Costa HC, Freitas EDS, Coelho DB, et al. Effects of Horizontal and Incline Bench Press on Neuromuscular Adaptations in Untrained Young Men. International Journal of Exercise Science. 2020;13(6):859-872. doi:10.70252/FDNB1158 · **open access**
 
 Chen X, Sanchez GN, Schnitzer MJ, Delp SL. Changes in sarcomere lengths of the human vastus lateralis muscle with knee flexion measured using in vivo microendoscopy. Journal of Biomechanics. 2016;49(13):2989-2994. doi:10.1016/j.jbiomech.2016.07.013 · *paywalled*
 
@@ -12069,21 +13835,21 @@ Cholewicki J, Juluru K, McGill SM. Intra-abdominal pressure mechanism for stabil
 
 Chumanov ES, Heiderscheit BC, Thelen DG. Hamstring Musculotendon Dynamics during Stance and Swing Phases of High-Speed Running. Medicine & Science in Sports & Exercise. 2011;43(3):525-532. doi:10.1249/MSS.0b013e3181f23fe8 · **open access**
 
-Collings TJ, Bourne MN, Barrett RS, Meinders E, Gonçalves BAM, Shield AJ, et al. Gluteal Muscle Forces during Hip-Focused Injury Prevention and Rehabilitation Exercises. Medicine & Science in Sports & Exercise. 2023;55(4):650-660. doi:10.1249/MSS.0000000000003091 · **open access**
-
 Collings TJ, Bourne MN, Barrett RS, Meinders E, Gonçalves B, Shield AJ, et al. Reconsidering Exercise Selection with EMG: Poor Agreement between Ranking Hip Exercises with Gluteal EMG and Muscle Force. Medicine & Science in Sports & Exercise. 2025;57(9):1829-1837. doi:10.1249/MSS.0000000000003733 · *paywalled*
 
+Collings TJ, Bourne MN, Barrett RS, Meinders E, Gonçalves BAM, Shield AJ, et al. Gluteal Muscle Forces during Hip-Focused Injury Prevention and Rehabilitation Exercises. Medicine & Science in Sports & Exercise. 2023;55(4):650-660. doi:10.1249/MSS.0000000000003091 · **open access**
+
 Colloca CJ, Hinrichs RN. The Biomechanical and Clinical Significance of the Lumbar Erector Spinae Flexion-Relaxation Phenomenon: A Review of Literature. Journal of Manipulative and Physiological Therapeutics. 2005;28(8):623-631. doi:10.1016/j.jmpt.2005.08.005 · *paywalled*
-
-Contreras B, Vigotsky AD, Schoenfeld BJ, Beardsley C, Cronin J. A Comparison of Gluteus Maximus, Biceps Femoris, and Vastus Lateralis Electromyographic Activity in the Back Squat and Barbell Hip Thrust Exercises. Journal of Applied Biomechanics. 2015;31(6):452-458. doi:10.1123/jab.2014-0301 · *paywalled*
-
-Contreras B, Vigotsky AD, Schoenfeld BJ, Beardsley C, Cronin J. A Comparison of Gluteus Maximus, Biceps Femoris, and Vastus Lateralis Electromyography Amplitude in the Parallel, Full, and Front Squat Variations in Resistance-Trained Females. Journal of Applied Biomechanics. 2016a;32(1):16-22. doi:10.1123/jab.2015-0113 · *paywalled*
-
-Contreras B, Vigotsky AD, Schoenfeld BJ, Beardsley C, Cronin J. A Comparison of Gluteus Maximus, Biceps Femoris, and Vastus Lateralis Electromyography Amplitude for the Barbell, Band, and American Hip Thrust Variations. Journal of Applied Biomechanics. 2016b;32(3):254-260. doi:10.1123/jab.2015-0091 · *paywalled*
 
 Contreras B, Cronin JB, Schoenfeld BJ, Nates RJ, Tiryaki Sonmez G. Are All Hip Extension Exercises Created Equal? Strength & Conditioning Journal. 2013;35(2):17-22. doi:10.1519/SSC.0b013e318289fffd · *paywalled*
 
 Contreras B, Schoenfeld B. To Crunch or Not to Crunch: An Evidence-Based Examination of Spinal Flexion Exercises, Their Potential Risks, and Their Applicability to Program Design. Strength and Conditioning Journal. 2011;33(4):8-18. doi:10.1519/SSC.0b013e3182259d05 · *paywalled*
+
+Contreras B, Vigotsky AD, Schoenfeld BJ, Beardsley C, Cronin J. A Comparison of Gluteus Maximus, Biceps Femoris, and Vastus Lateralis Electromyographic Activity in the Back Squat and Barbell Hip Thrust Exercises. Journal of Applied Biomechanics. 2015;31(6):452-458. doi:10.1123/jab.2014-0301 · *paywalled*
+
+Contreras B, Vigotsky AD, Schoenfeld BJ, Beardsley C, Cronin J. A Comparison of Gluteus Maximus, Biceps Femoris, and Vastus Lateralis Electromyography Amplitude for the Barbell, Band, and American Hip Thrust Variations. Journal of Applied Biomechanics. 2016b;32(3):254-260. doi:10.1123/jab.2015-0091 · *paywalled*
+
+Contreras B, Vigotsky AD, Schoenfeld BJ, Beardsley C, Cronin J. A Comparison of Gluteus Maximus, Biceps Femoris, and Vastus Lateralis Electromyography Amplitude in the Parallel, Full, and Front Squat Variations in Resistance-Trained Females. Journal of Applied Biomechanics. 2016a;32(1):16-22. doi:10.1123/jab.2015-0113 · *paywalled*
 
 Coratella G, Tornatore G, Longo S, Esposito F, Cè E. An Electromyographic Analysis of Lateral Raise Variations and Frontal Raise in Competitive Bodybuilders. International Journal of Environmental Research and Public Health. 2020;17(17):6015. doi:10.3390/ijerph17176015 · **open access**
 
@@ -12113,23 +13879,29 @@ Earp JE, Newton RU, Cormie P, Blazevich AJ. Inhomogeneous Quadriceps Femoris Hyp
 
 Ekstrand J, Hägglund M, Waldén M. Epidemiology of Muscle Injuries in Professional Football (Soccer). The American Journal of Sports Medicine. 2011;39(6):1226-1232. doi:10.1177/0363546510395879 · **open access**
 
-Ema R, Wakahara T, Miyamoto N, Kanehisa H, Kawakami Y. Inhomogeneous architectural changes of the quadriceps femoris induced by resistance training. European Journal of Applied Physiology. 2013;113(11):2691-2703. doi:10.1007/s00421-013-2700-1 · *paywalled*
+ElMaraghy AW, Devereaux MW. A systematic review and comprehensive classification of pectoralis major tears. Journal of Shoulder and Elbow Surgery. 2012;21(3):412-422. doi:10.1016/j.jse.2011.04.035 · *paywalled*
 
 Ema R, Sakaguchi M, Akagi R, Kawakami Y. Unique activation of the quadriceps femoris during single- and multi-joint exercises. European Journal of Applied Physiology. 2016;116(5):1031-1041. doi:10.1007/s00421-016-3363-5 · *paywalled*
 
+Ema R, Wakahara T, Miyamoto N, Kanehisa H, Kawakami Y. Inhomogeneous architectural changes of the quadriceps femoris induced by resistance training. European Journal of Applied Physiology. 2013;113(11):2691-2703. doi:10.1007/s00421-013-2700-1 · *paywalled*
+
 Enes A, Oneda G, Leonel DF, Lemos L, Alves F, Ferreira LHB, et al. The effects of squat variations on strength and quadriceps hypertrophy adaptations in recreationally trained females. European Journal of Sport Science. 2024;24(1):6-15. doi:10.1002/ejsc.12042 · **open access**
-
-Escamilla RF, Fleisig GS, Zheng N, Barrentine SW, Wilk KE, Andrews JR. Biomechanics of the knee during closed kinetic chain and open kinetic chain exercises. Medicine and Science in Sports and Exercise. 1998;30(4):556-569. doi:10.1097/00005768-199804000-00014 · *paywalled*
-
-Escamilla RF. Knee biomechanics of the dynamic squat exercise. Medicine & Science in Sports & Exercise. 2001;33(1):127-141. doi:10.1097/00005768-200101000-00020 · *paywalled*
-
-Escamilla RF, Fleisig GS, Lowry TM, Barrentine SW, Andrews JR. A three-dimensional biomechanical analysis of the squat during varying stance widths [cited as Escamilla et al., 2001a]. Medicine and Science in Sports and Exercise. 2001;33(6):984-998. doi:10.1097/00005768-200106000-00019 · *paywalled*
-
-Escamilla RF, Fleisig GS, Zheng N, Lander JE, Barrentine SW, Andrews JR, et al. Effects of technique variations on knee biomechanics during the squat and leg press [cited as Escamilla et al., 2001b]. Medicine & Science in Sports & Exercise. 2001;33(9):1552-1566. doi:10.1097/00005768-200109000-00020 · *paywalled*
 
 Escamilla RF, Babb E, DeWitt R, Jew P, Kelleher P, Burnham T, et al. Electromyographic Analysis of Traditional and Nontraditional Abdominal Exercises: Implications for Rehabilitation and Training. Physical Therapy. 2006;86(5):656-671. doi:10.1093/ptj/86.5.656 · **open access**
 
+Escamilla RF, Fleisig GS, Lowry TM, Barrentine SW, Andrews JR. A three-dimensional biomechanical analysis of the squat during varying stance widths [cited as Escamilla et al., 2001a]. Medicine and Science in Sports and Exercise. 2001;33(6):984-998. doi:10.1097/00005768-200106000-00019 · *paywalled*
+
+Escamilla RF, Fleisig GS, Zheng N, Barrentine SW, Wilk KE, Andrews JR. Biomechanics of the knee during closed kinetic chain and open kinetic chain exercises. Medicine and Science in Sports and Exercise. 1998;30(4):556-569. doi:10.1097/00005768-199804000-00014 · *paywalled*
+
+Escamilla RF, Fleisig GS, Zheng N, Lander JE, Barrentine SW, Andrews JR, et al. Effects of technique variations on knee biomechanics during the squat and leg press [cited as Escamilla et al., 2001b]. Medicine & Science in Sports & Exercise. 2001;33(9):1552-1566. doi:10.1097/00005768-200109000-00020 · *paywalled*
+
+Escamilla RF. Knee biomechanics of the dynamic squat exercise. Medicine & Science in Sports & Exercise. 2001;33(1):127-141. doi:10.1097/00005768-200101000-00020 · *paywalled*
+
+Evangelista P, Rum L, Picerno P, Biscarini A. Decoding the Contribution of Shoulder and Elbow Mechanics to Barbell Kinematics and the Sticking Region in Bench and Overhead Press Exercises: A Link-Chain Model with Single- and Two-Joint Muscles. Journal of Functional Morphology and Kinesiology. 2025;10(3):322. doi:10.3390/jfmk10030322 · **open access**
+
 Fenwick CMJ, Brown SHM, McGill SM. Comparison of Different Rowing Exercises: Trunk Muscle Activation and Lumbar Spine Motion, Load, and Stiffness. Journal of Strength and Conditioning Research. 2009;23(5):1408-1417. doi:10.1519/JSC.0b013e3181b07334 · *paywalled*
+
+Fischer J, Burger C, Manieu Seguel JA, Rodoplu C, Paternoster FK, Tilp M, et al. Acute muscle excitation response across various bench press ranges of motion. Scientific Reports. 2025;15(1):14105. doi:10.1038/s41598-025-98354-9 · **open access**
 
 Flack NAMS, Nicholson HD, Woodley SJ. A review of the anatomy of the hip abductor muscles, gluteus medius, gluteus minimus, and tensor fascia lata. Clinical Anatomy. 2012;25(6):697-708. doi:10.1002/ca.22004 · *paywalled*
 
@@ -12141,11 +13913,15 @@ Fry AC, Smith JC, Schilling BK. Effect of Knee Position on Hip and Knee Torques 
 
 Fukumoto Y, Tateuchi H, Ikezoe T, Tsukagoshi R, Akiyama H, So K, et al. Effects of high-velocity resistance training on muscle function, muscle properties, and physical performance in individuals with hip osteoarthritis: a randomized controlled trial. Clinical Rehabilitation. 2014;28(1):48-58. doi:10.1177/0269215513492161 · *paywalled*
 
+Fung L, Wong B, Ravichandiran K, Agur A, Rindlisbacher T, Elmaraghy A. Three-dimensional study of pectoralis major muscle and tendon architecture. Clinical Anatomy. 2009;22(4):500-508. doi:10.1002/ca.20784 · *paywalled*
+
 Ganderton C, Semciw A, Cook J, Moreira E, Pizzari T. Gluteal Loading Versus Sham Exercises to Improve Pain and Dysfunction in Postmenopausal Women with Greater Trochanteric Pain Syndrome: A Randomized Controlled Trial. Journal of Women's Health. 2018;27(6):815-829. doi:10.1089/jwh.2017.6729 · *paywalled*
 
 Garner BA, Pandy MG. Estimation of Musculotendon Properties in the Human Upper Limb. Annals of Biomedical Engineering. 2003;31(2):207-220. doi:10.1114/1.1540105 · *paywalled*
 
 Gerling ME, Brown SHM. Architectural analysis and predicted functional capability of the human latissimus dorsi muscle. Journal of Anatomy. 2013;223(2):112-122. doi:10.1111/joa.12074 · **open access**
+
+Gottschall JS, Hastings B, Becker Z. Muscle Activity Patterns do not Differ Between Push-Up and Bench Press Exercises. Journal of Applied Biomechanics. 2018;34(6):442-447. doi:10.1123/jab.2017-0063 · *paywalled*
 
 Graichen H, Hinterwimmer S, von Eisenhart-Rothe R, Vogl T, Englmeier KH, Eckstein F. Effect of abducting and adducting muscle activity on glenohumeral translation, scapular kinematics and subacromial space width in vivo. Journal of Biomechanics. 2005;38(4):755-760. doi:10.1016/j.jbiomech.2004.05.020 · *paywalled*
 
@@ -12171,6 +13947,8 @@ Hammami R, Jerez-Martínez A, Jiménez-Martínez P, Alix-Fages C, Rebai H, Kassi
 
 Hartmann H, Wirth K, Klusemann M. Analysis of the Load on the Knee Joint and Vertebral Column with Changes in Squatting Depth and Weight Load. Sports Medicine. 2013;43(10):993-1008. doi:10.1007/s40279-013-0073-6 · *paywalled*
 
+Havers T, Wagner N, Held S, Geisler S, Wiewelhove T. Partial Range, Full Gains? The Effect of 8 Weeks of Partial Range of Motion Training at Long Muscle Lengths on Elbow Flexor Hypertrophy and Strength in Trained Individuals. European Journal of Sport Science. 2025;25(12):e70087. doi:10.1002/ejsc.70087 · **open access**
+
 Hayden JA, Ellis J, Ogilvie R, Malmivaara A, van Tulder MW. Exercise therapy for chronic low back pain. Cochrane Database of Systematic Reviews. 2021;9(9):CD009790. doi:10.1002/14651858.CD009790.pub2 · **open access**
 
 Hegyi A, Csala D, Péter A, Finni T, Cronin NJ. High-density electromyography activity in various hamstring exercises [cited as Hegyi et al., 2019]. Scandinavian Journal of Medicine & Science in Sports. 2019;29(1):34-43. doi:10.1111/sms.13303 · **open access**
@@ -12195,15 +13973,17 @@ Huberti HH, Hayes WC, Stormont TJ, Chao EY. Force ratios in the quadriceps tendo
 
 Inman VT, Saunders JB, Abbott LC. Observations of the Function of the Shoulder Joint. Clinical Orthopaedics and Related Research. 1996;330:3-12. doi:10.1097/00003086-199609000-00002 · *paywalled* — *reprint of the 1944 original, The Journal of Bone and Joint Surgery 1944;26(1):1-30*
 
+Intziegianni K, Katsamis E, Michaelides M, Parpa K. Electromyographic Activation of the Pectoralis Major and Triceps Brachii Muscles During Standard, Diamond, and Wide Hand Position Push-Ups. Muscles. 2026;5(1):18. doi:10.3390/muscles5010018 · **open access**
+
 Johnson MA, Polgar J, Weightman D, Appleton D. Data on the distribution of fibre types in thirty-six human muscles: An autopsy study. Journal of the Neurological Sciences. 1973;18(1):111-129. doi:10.1016/0022-510X(73)90023-3 · *paywalled*
 
 Jorgensen MJ, Marras WS, Granata KP, Wiand JW. MRI-derived moment-arms of the female and male spine loading muscles. Clinical Biomechanics. 2001;16(3):182-193. doi:10.1016/S0268-0033(00)00087-5 · *paywalled*
 
 Jorgensen MJ, Marras WS, Smith FW, Pope MH. Sagittal plane moment arms of the female lumbar region rectus abdominis in an upright neutral torso posture [cited as Jorgensen et al., 2005]. Clinical Biomechanics. 2005;20(3):242-246. doi:10.1016/j.clinbiomech.2004.10.009 · *paywalled*
 
-Kassiano W, Costa B, Nunes JP, Ribeiro AS, Schoenfeld BJ, Cyrino ES. Which ROMs Lead to Rome? A Systematic Review of the Effects of Range of Motion on Muscle Hypertrophy. Journal of Strength and Conditioning Research. 2023;37(5):1135-1144. doi:10.1519/JSC.0000000000004415 · *paywalled*
-
 Kassiano W, Costa B, Kunevaliki G, Lisboa F, Prado A, Alves L, et al. Comparison of Muscle Hypertrophy and Strength Adaptations Induced by Back Squat and Leg Extension Resistance Exercises. Journal of Strength and Conditioning Research. 2026;40(4):367-376. doi:10.1519/JSC.0000000000005338 · *paywalled*
+
+Kassiano W, Costa B, Nunes JP, Ribeiro AS, Schoenfeld BJ, Cyrino ES. Which ROMs Lead to Rome? A Systematic Review of the Effects of Range of Motion on Muscle Hypertrophy. Journal of Strength and Conditioning Research. 2023;37(5):1135-1144. doi:10.1519/JSC.0000000000004415 · *paywalled*
 
 Kassiano W, Kunevaliki G, Costa B, Nunes JP, Castro-e-Souza P, Tricoli I, et al. Addition of The Barbell Hip Thrust Elicits Greater Increases in Gluteus Maximus Muscle Thickness in Untrained Young Women. International Journal of Strength and Conditioning. 2024;4(1). doi:10.47206/ijsc.v4i1.284 · **open access**
 
@@ -12213,13 +13993,17 @@ Kellis E, Blazevich AJ. Hamstrings force-length relationships and their implicat
 
 Kennedy D, Casebolt JB, Farren GL, Fiaud V, Bartlett M, Strong L. Electromyographic differences of the gluteus maximus, gluteus medius, biceps femoris, and vastus lateralis between the barbell hip thrust and barbell glute bridge. Sports Biomechanics. 2024;23(12):2935-2949. doi:10.1080/14763141.2022.2074875 · *paywalled*
 
-Koch K, Semciw AI, Commean PK, Hillen TJ, Fitzgerald GK, Clohisy JC, et al. Comparison between movement pattern training and strengthening on muscle volume, muscle fat, and strength in patients with hip-related groin pain: An exploratory analysis. Journal of Orthopaedic Research. 2022;40(6):1375-1386. doi:10.1002/jor.25158 · **open access**
+Kikuchi N, Nakazato K. Low-load bench press and push-up induce similar muscle hypertrophy and strength gain. Journal of Exercise Science and Fitness. 2017;15(1):37-42. doi:10.1016/j.jesf.2017.06.003 · **open access**
 
-Kojic F, Ranisavljev I, Obradovic M, Mandic D, Pelemis V, Paloc M, et al. Does Back Squat Exercise Lead to Regional Hypertrophy among Quadriceps Femoris Muscles? International Journal of Environmental Research and Public Health. 2022;19(23):16226. doi:10.3390/ijerph192316226 · **open access**
+Koch K, Semciw AI, Commean PK, Hillen TJ, Fitzgerald GK, Clohisy JC, et al. Comparison between movement pattern training and strengthening on muscle volume, muscle fat, and strength in patients with hip-related groin pain: An exploratory analysis. Journal of Orthopaedic Research. 2022;40(6):1375-1386. doi:10.1002/jor.25158 · **open access**
 
 Kojic F, Mandic D, Duric S. The effects of eccentric phase tempo in squats on hypertrophy, strength, and contractile properties of the quadriceps femoris muscle. Frontiers in Physiology. 2024;15:1531926. doi:10.3389/fphys.2024.1531926 · **open access**
 
+Kojic F, Ranisavljev I, Obradovic M, Mandic D, Pelemis V, Paloc M, et al. Does Back Squat Exercise Lead to Regional Hypertrophy among Quadriceps Femoris Muscles? International Journal of Environmental Research and Public Health. 2022;19(23):16226. doi:10.3390/ijerph192316226 · **open access**
+
 Kolber MJ, Beekhuizen KS, Cheng MS, Hellman MA. Shoulder Injuries Attributed to Resistance Training: A Brief Review. Journal of Strength and Conditioning Research. 2010;24(6):1696-1704. doi:10.1519/JSC.0b013e3181dc4330 · *paywalled*
+
+Konrad A, Reiner MM, Warneke K, Keiner M, Nakamura M, Tilp M. Relationship between pectoralis major stiffness and shoulder extension range of motion. Frontiers in Physiology. 2024;15:1349426. doi:10.3389/fphys.2024.1349426 · **open access**
 
 Krause Neto W, Krause TLV, Gama EF. The impact of resistance training on gluteus maximus hypertrophy: a systematic review and meta-analysis. Frontiers in Physiology. 2025;16:1542334. doi:10.3389/fphys.2025.1542334 · **open access**
 
@@ -12235,11 +14019,13 @@ Lanza MB, Prado GC, Lacerda LT, Dinardi RR, Carvalho Junior LH, Diniz RC, et al.
 
 Larsen S, Sandvik Kristiansen B, Swinton PA, Wolf M, Bao Fredriksen A, Nygaard Falch H, et al. The effects of hip flexion angle on quadriceps femoris muscle hypertrophy in the leg extension exercise [cited as Larsen et al., 2025a]. Journal of Sports Sciences. 2025;43(2):210-221. doi:10.1080/02640414.2024.2444713 · **open access**
 
-Larsen S, Wolf M, Schoenfeld BJ, Sandberg NØ, Fredriksen AB, Kristiansen BS, et al. Knee flexion range of motion does not influence muscle hypertrophy of the quadriceps femoris during leg press training in resistance-trained individuals [cited as Larsen et al., 2025b]. Journal of Sports Sciences. 2025;43(10):986-994. doi:10.1080/02640414.2025.2481534 · **open access**
-
 Larsen S, Wolf M, Schoenfeld BJ, Sandberg NØ, Fredriksen AB, Kristiansen BS, et al. Dumbbell versus cable lateral raises for lateral deltoid hypertrophy: an experimental study [cited as Larsen et al., 2025c]. Frontiers in Physiology. 2025;16:1611468. doi:10.3389/fphys.2025.1611468 · **open access**
 
+Larsen S, Wolf M, Schoenfeld BJ, Sandberg NØ, Fredriksen AB, Kristiansen BS, et al. Knee flexion range of motion does not influence muscle hypertrophy of the quadriceps femoris during leg press training in resistance-trained individuals [cited as Larsen et al., 2025b]. Journal of Sports Sciences. 2025;43(10):986-994. doi:10.1080/02640414.2025.2481534 · **open access**
+
 Lasevicius T, Ugrinowitsch C, Schoenfeld BJ, Roschel H, Tavares LD, De Souza EO, et al. Effects of different intensities of resistance training with equated volume load on muscle strength and hypertrophy. European Journal of Sport Science. 2018;18(6):772-780. doi:10.1080/17461391.2018.1450898 · *paywalled*
+
+Lauver JD, Cayot TE, Scheuermann BW. Influence of bench angle on upper extremity muscular activation during bench press exercise. European Journal of Sport Science. 2016;16(3):309-316. doi:10.1080/17461391.2015.1022605 · *paywalled*
 
 Lee PM, Underhill J, Nishida C, Agonias K, Levine SB, Obana KK, et al. A National Evaluation of Upper Extremity Weightlifting Injury Surveillance: The High Risk in Youth and Adults With an Underutilization in Older Adults. Orthopaedic Journal of Sports Medicine. 2026;14(1):23259671251387730. doi:10.1177/23259671251387730 · **open access**
 
@@ -12257,9 +14043,9 @@ Lusk SJ, Hale BD, Russell DM. Grip Width and Forearm Orientation Effects on Musc
 
 Maarleveld R, Veeger HEJ, van der Helm FCT, Son J, Lieber RL, van der Kruk E. What the PCSA? Addressing diversity in lower-limb musculoskeletal models: age- and sex-related differences in PCSA and muscle mass. Journal of Biomechanics. 2025;193:112976. doi:10.1016/j.jbiomech.2025.112976 · **open access**
 
-Macintosh JE, Pearcy MJ, Bogduk N. The axial torque of the lumbar back muscles: torsion strength of the back muscles [cited as Macintosh et al., 1993a]. Australian and New Zealand Journal of Surgery. 1993;63(3):205-212. doi:10.1111/j.1445-2197.1993.tb00520.x · *paywalled*
-
 Macintosh JE, Bogduk N, Pearcy MJ. The Effects of Flexion on the Geometry and Actions of the Lumbar Erector Spinae [cited as Macintosh et al., 1993b]. Spine. 1993;18(7):884-893. doi:10.1097/00007632-199306000-00013 · *paywalled*
+
+Macintosh JE, Pearcy MJ, Bogduk N. The axial torque of the lumbar back muscles: torsion strength of the back muscles [cited as Macintosh et al., 1993a]. Australian and New Zealand Journal of Surgery. 1993;63(3):205-212. doi:10.1111/j.1445-2197.1993.tb00520.x · *paywalled*
 
 Maeo S, Balshaw TG, Nin DZ, McDermott EJ, Osborne T, Cooper NB, et al. Hamstrings Hypertrophy Is Specific to the Training Exercise: Nordic Hamstring versus Lengthened State Eccentric Training. Medicine & Science in Sports & Exercise. 2024;56(10):1893-1905. doi:10.1249/MSS.0000000000003490 · **open access**
 
@@ -12277,9 +14063,13 @@ Martín-Fuentes I, Oliva-Lozano JM, Muyor JM. Electromyographic activity in dead
 
 Martín-San Agustín R, Castillo-Ballesta L, Esbri-Navarro R, Garvín JH. Comparison of Architectural and Performance Adaptations of Hip Extension Exercise Under Gravitational or Inertial Loading Conditions: A Randomized Controlled Trial. European Journal of Sport Science. 2025;25(10):e70048. doi:10.1002/ejsc.70048 · **open access**
 
+Martínez-Cava A, Hernández-Belmonte A, Courel-Ibáñez J, Morán-Navarro R, González-Badillo JJ, Pallarés JG. Bench Press at Full Range of Motion Produces Greater Neuromuscular Adaptations Than Partial Executions After Prolonged Resistance Training. Journal of Strength and Conditioning Research. 2022;36(1):10-15. doi:10.1519/JSC.0000000000003391 · *paywalled*
+
 McCurdy K, Walker J, Yuen D. Gluteus Maximus and Hamstring Activation During Selected Weight-Bearing Resistance Exercises. Journal of Strength and Conditioning Research. 2018;32(3):594-601. doi:10.1519/JSC.0000000000001893 · *paywalled*
 
 McGill SM, Patt N, Norman RW. Measurement of the trunk musculature of active males using CT scan radiography: implications for force and moment generating capacity about the L4/L5 joint. Journal of Biomechanics. 1988;21(4):329-341. doi:10.1016/0021-9290(88)90262-X · *paywalled*
+
+McKenzie A, Crowley-McHattan Z, Meir R, Whitting J, Volschenk W. Bench, Bar, and Ring Dips: Do Kinematics and Muscle Activity Differ? International Journal of Environmental Research and Public Health. 2022;19(20):13211. doi:10.3390/ijerph192013211 · **open access**
 
 McMillan RM, Ganderton CL, Cook J, Semciw AI, Long DM, Pizzari T. Does Menopausal Hormone Therapy, Exercise, or Both Improve Pain and Function in Postmenopausal Women With Greater Trochanteric Pain Syndrome? A 2x2 Factorial Randomized Clinical Trial. The American Journal of Sports Medicine. 2022;50(2):515-525. doi:10.1177/03635465211061142 · **open access**
 
@@ -12307,15 +14097,21 @@ Muyor JM, López-Miñarro PA, Alacid F. Comparison of Electromyographic Activity
 
 Muyor JM, Martín-Fuentes I, Rodríguez-Ridao D, Antequera-Vique JA. Electromyographic activity in the gluteus medius, gluteus maximus, biceps femoris, vastus lateralis, vastus medialis and rectus femoris during the Monopodal Squat, Forward Lunge and Lateral Step-Up exercises. PLOS ONE. 2020;15(4):e0230841. doi:10.1371/journal.pone.0230841 · **open access**
 
+Muyor JM, Rodríguez-Ridao D, Oliva-Lozano JM. Comparison of Muscle Activity between the Horizontal Bench Press and the Seated Chest Press Exercises Using Several Grips. Journal of Human Kinetics. 2023;87:23-34. doi:10.5114/jhk/161468 · **open access**
+
 Németh G, Ohlsén H. In vivo moment arm lengths for hip extensor muscles at different angles of hip flexion. Journal of Biomechanics. 1985;18(2):129-140. doi:10.1016/0021-9290(85)90005-3 · *paywalled*
 
 Neto WK, Soares EG, Vieira TL, Aguiar R, Chola TA, Sampaio VL, et al. Gluteus Maximus Activation during Common Strength and Hypertrophy Exercises: A Systematic Review. Journal of Sports Science and Medicine. 2020;19(1):195-203. PMCID:PMC7039033 · **open access** — *no DOI was issued for this article; the PubMed Central identifier reaches the free full text. Same first author as Krause Neto et al., 2025, indexed under a shorter form of the surname*
 
 Neumann DA. Kinesiology of the Hip: A Focus on Muscular Actions. Journal of Orthopaedic & Sports Physical Therapy. 2010;40(2):82-94. doi:10.2519/jospt.2010.3025 · *paywalled*
 
+Nicolozakes CP, Schmulewitz JS, Ludvig D, Baillargeon EM, Danziger MS, Seitz AL, et al. Muscles Functioning as Primary Shoulder Movers Aid the Rotator Cuff Muscles in Increasing Active Glenohumeral Stiffness. Annals of Biomedical Engineering. 2025;53(6):1328-1343. doi:10.1007/s10439-025-03683-5 · **open access**
+
 Niinimäki S, Härkönen L, Nikander R, Abe S, Knüsel C, Sievänen H. The cross-sectional area of the gluteus maximus muscle varies according to habitual exercise loading: Implications for activity-related and evolutionary studies. HOMO. 2016;67(2):125-137. doi:10.1016/j.jchb.2015.06.005 · *paywalled*
 
 Nisell R, Ekholm J. Patellar forces during knee extension. Scandinavian Journal of Rehabilitation Medicine. 1985;17(2):63-74. doi:10.2340/1650197785176374 · *paywalled*
+
+Noteboom L, Belli I, Hoozemans MJM, Seth A, Veeger HEJ, van der Helm FCT. Effects of bench press technique variations on musculoskeletal shoulder loads and potential injury risk. Frontiers in Physiology. 2024;15:1393235. doi:10.3389/fphys.2024.1393235 · **open access**
 
 Nunes JP, Blazevich AJ, Schoenfeld BJ, Kassiano W, Costa BDV, Ribeiro AS, et al. Determining Changes in Muscle Size and Architecture After Exercise Training: One Site Does Not Fit All. Journal of Strength and Conditioning Research. 2024;38(4):787-790. doi:10.1519/JSC.0000000000004722 · *paywalled*
 
@@ -12335,19 +14131,23 @@ Paksoy A, Akgün D, Gebauer H, et al. The latissimus dorsi creates a dynamic tra
 
 Pallarés JG, Hernández-Belmonte A, Martínez-Cava A, Vetrovsky T, Steffl M, Courel-Ibáñez J. Effects of range of motion on resistance training adaptations: A systematic review and meta-analysis. Scandinavian Journal of Medicine & Science in Sports. 2021;31(10):1866-1881. doi:10.1111/sms.14006 · **open access**
 
+Paoli A, Marcolin G, Petrone N. The Effect of Stance Width on the Electromyographical Activity of Eight Superficial Thigh Muscles During Back Squat With Different Bar Loads. Journal of Strength and Conditioning Research. 2009;23(1):246-250. doi:10.1519/JSC.0b013e3181876811 · **open access**
+
 Paoli A, Pacelli QF, Cancellara P, Toniolo L, Moro T, Canato M, et al. Myosin Isoforms and Contractile Properties of Single Fibers of Human Latissimus Dorsi Muscle. BioMed Research International. 2013;2013:249398. doi:10.1155/2013/249398 · **open access**
 
 Paoli A, Pacelli QF, Cancellara P, Toniolo L, Moro T, Canato M, et al. Protein Supplementation Does Not Further Increase Latissimus Dorsi Muscle Fiber Hypertrophy after Eight Weeks of Resistance Training in Novice Subjects, but Partially Counteracts the Fast-to-Slow Muscle Fiber Transition. Nutrients. 2016;8(6):331. doi:10.3390/nu8060331 · **open access**
 
-Paoli A, Marcolin G, Petrone N. The Effect of Stance Width on the Electromyographical Activity of Eight Superficial Thigh Muscles During Back Squat With Different Bar Loads. Journal of Strength and Conditioning Research. 2009;23(1):246-250. doi:10.1519/JSC.0b013e3181876811 · **open access**
-
 Park SY, Yoo WG. Differential activation of parts of the latissimus dorsi with various isometric shoulder exercises. Journal of Electromyography and Kinesiology. 2014;24(2):253-257. doi:10.1016/j.jelekin.2013.12.004 · *paywalled*
+
+Paton ME, Brown JMM. An electromyographic analysis of functional differentiation in human pectoralis major muscle. Journal of Electromyography and Kinesiology. 1994;4(3):161-169. doi:10.1016/1050-6411(94)90017-5 · *paywalled*
 
 Pedrosa GF, Lima FV, Schoenfeld BJ, Lacerda LT, Simões MG, Pereira MR, et al. Partial range of motion training elicits favorable improvements in muscular adaptations when carried out at long muscle lengths. European Journal of Sport Science. 2022;22(8):1250-1260. doi:10.1080/17461391.2021.1927199 · *paywalled*
 
 Pelland JC, Remmert JF, Robinson ZP, Hinson SR, Zourdos MC. The Resistance Training Dose Response: Meta-Regressions Exploring the Effects of Weekly Volume and Frequency on Muscle Hypertrophy and Strength Gains. Sports Medicine. 2026;56(2):481-505. doi:10.1007/s40279-025-02344-w · *paywalled*
 
 Peterson SL, Rayan GM. Shoulder and Upper Arm Muscle Architecture. The Journal of Hand Surgery. 2011;36(5):881-889. doi:10.1016/j.jhsa.2011.01.008 · *paywalled*
+
+Pinto MD, Ughini C, Nunes JP, Cadore EL, Pinto RS. Pectoralis Clavicular and Sternocostal Thicknesses Increase Similarly in Response to One and Three Sets of Pec Deck Resistance Training in Untrained Young Men. Journal of Strength and Conditioning Research. 2025;39(5):523-530. doi:10.1519/JSC.0000000000005045 · *paywalled*
 
 Plotkin DL, Rodas MA, Vigotsky AD, McIntosh MC, Breeze E, Ubrik R, et al. Hip thrust and back squat training elicit similar gluteus muscle hypertrophy and transfer similarly to the deadlift. Frontiers in Physiology. 2023;14:1279170. doi:10.3389/fphys.2023.1279170 · **open access**
 
@@ -12359,9 +14159,9 @@ Prieske O, Muehlbauer T, Granacher U. The Role of Trunk Muscle Strength for Phys
 
 Psilander N, Eftestøl E, Cumming KT, Juvkam I, Ekblom MM, Sunding K, et al. Effects of training, detraining, and retraining on strength, hypertrophy, and myonuclear number in human skeletal muscle. Journal of Applied Physiology. 2019;126(6):1636-1645. doi:10.1152/japplphysiol.00917.2018 · **open access**
 
-Refalo MC, Helms ER, Trexler ET, Hamilton DL, Fyfe JJ. Influence of Resistance Training Proximity-to-Failure on Skeletal Muscle Hypertrophy: A Systematic Review with Meta-analysis. Sports Medicine. 2023;53(3):649-665. doi:10.1007/s40279-022-01784-y · **open access**
-
 Refalo MC, Helms ER, Robinson ZP, Hamilton DL, Fyfe JJ. Similar muscle hypertrophy following eight weeks of resistance training to momentary muscular failure or with repetitions-in-reserve in resistance-trained individuals. Journal of Sports Sciences. 2024;42(1):85-101. doi:10.1080/02640414.2024.2321021 · **open access**
+
+Refalo MC, Helms ER, Trexler ET, Hamilton DL, Fyfe JJ. Influence of Resistance Training Proximity-to-Failure on Skeletal Muscle Hypertrophy: A Systematic Review with Meta-analysis. Sports Medicine. 2023;53(3):649-665. doi:10.1007/s40279-022-01784-y · **open access**
 
 Rehorn MR, Blemker SS. The effects of aponeurosis geometry on strain injury susceptibility explored with a 3D muscle model. Journal of Biomechanics. 2010;43(13):2574-2581. doi:10.1016/j.jbiomech.2010.05.011 · *paywalled*
 
@@ -12375,23 +14175,27 @@ Rostron ZPJ, Zacharias A, Semciw AI, Kingsley M, Pizzari T, Woodley SJ, et al. E
 
 Ruggiero M, Cless D, Infantolino B. Upper and Lower Limb Muscle Architecture of a 104 Year-Old Cadaver. PLOS ONE. 2016;11(9):e0162963. doi:10.1371/journal.pone.0162963 · **open access**
 
-Sakoma Y, Sano H, Shinozaki N, Itoigawa Y, Yamamoto N, Ozaki T, et al. Anatomical and functional segments of the deltoid muscle. Journal of Anatomy. 2011;218(2):185-190. doi:10.1111/j.1469-7580.2010.01325.x · **open access**
+Saeterbakken AH, Mo DA, Scott S, Andersen V. The Effects of Bench Press Variations in Competitive Athletes on Muscle Activity and Performance. Journal of Human Kinetics. 2017;57(1):61-71. doi:10.1515/hukin-2017-0047 · **open access**
 
-Sanchis-Moysi J, Idoate F, Olmedillas H, Guadalupe-Grau A, Alayón S, Carreras A, et al. Large Asymmetric Hypertrophy of Rectus Abdominis Muscle in Professional Tennis Players [cited as Sanchis-Moysi et al., 2010]. PLoS ONE. 2010;5(12):e15858. doi:10.1371/journal.pone.0015858 · **open access**
+Saeterbakken AH, van den Tillaar R, Fimland MS. A comparison of muscle activity and 1-RM strength of three chest-press exercises with different stability requirements. Journal of Sports Sciences. 2011;29(5):533-538. doi:10.1080/02640414.2010.543916 · *paywalled*
+
+Sakoma Y, Sano H, Shinozaki N, Itoigawa Y, Yamamoto N, Ozaki T, et al. Anatomical and functional segments of the deltoid muscle. Journal of Anatomy. 2011;218(2):185-190. doi:10.1111/j.1469-7580.2010.01325.x · **open access**
 
 Sanchis-Moysi J, Idoate F, Izquierdo M, Calbet JAL, Dorado C. The hypertrophy of the lateral abdominal wall and quadratus lumborum is sport-specific: an MRI segmental study in professional tennis and soccer players [cited as Sanchis-Moysi et al., 2013]. Sports Biomechanics. 2013;12(1):54-67. doi:10.1080/14763141.2012.725087 · *paywalled*
 
+Sanchis-Moysi J, Idoate F, Olmedillas H, Guadalupe-Grau A, Alayón S, Carreras A, et al. Large Asymmetric Hypertrophy of Rectus Abdominis Muscle in Professional Tennis Players [cited as Sanchis-Moysi et al., 2010]. PLoS ONE. 2010;5(12):e15858. doi:10.1371/journal.pone.0015858 · **open access**
+
 Schache AG, Dorn TW, Blanch PD, Brown NAT, Pandy MG. Mechanics of the Human Hamstring Muscles during Sprinting. Medicine & Science in Sports & Exercise. 2012;44(4):647-658. doi:10.1249/MSS.0b013e318236a3d2 · *paywalled*
+
+Schoenfeld BJ, Grgic J, Krieger J. How many times per week should a muscle be trained to maximize muscle hypertrophy? A systematic review and meta-analysis of resistance training frequency. Journal of Sports Sciences. 2019;37(11):1286-1295. doi:10.1080/02640414.2018.1555906 · *paywalled*
+
+Schoenfeld BJ, Grgic J, Ogborn D, Krieger JW. Strength and Hypertrophy Adaptations Between Low- vs. High-Load Resistance Training: A Systematic Review and Meta-analysis. Journal of Strength and Conditioning Research. 2017;31(12):3508-3523. doi:10.1519/JSC.0000000000002200 · *paywalled*
 
 Schoenfeld BJ, Ogborn D, Krieger JW. Effect of Repetition Duration During Resistance Training on Muscle Hypertrophy: A Systematic Review and Meta-Analysis. Sports Medicine. 2015;45(4):577-585. doi:10.1007/s40279-015-0304-0 · *paywalled*
 
 Schoenfeld BJ, Pope ZK, Benik FM, Hester GM, Sellers J, Nooner JL, et al. Longer Interset Rest Periods Enhance Muscle Strength and Hypertrophy in Resistance-Trained Men. Journal of Strength and Conditioning Research. 2016;30(7):1805-1812. doi:10.1519/JSC.0000000000001272 · *paywalled*
 
-Schoenfeld BJ, Grgic J, Ogborn D, Krieger JW. Strength and Hypertrophy Adaptations Between Low- vs. High-Load Resistance Training: A Systematic Review and Meta-analysis. Journal of Strength and Conditioning Research. 2017;31(12):3508-3523. doi:10.1519/JSC.0000000000002200 · *paywalled*
-
 Schoenfeld BJ, Vigotsky A, Contreras B, Golden S, Alto A, Larson R, et al. Differential effects of attentional focus strategies during long-term resistance training. European Journal of Sport Science. 2018;18(5):705-712. doi:10.1080/17461391.2018.1447020 · **open access**
-
-Schoenfeld BJ, Grgic J, Krieger J. How many times per week should a muscle be trained to maximize muscle hypertrophy? A systematic review and meta-analysis of resistance training frequency. Journal of Sports Sciences. 2019;37(11):1286-1295. doi:10.1080/02640414.2018.1555906 · *paywalled*
 
 Schuermans J, Witvrouw E, Wezenbeek E, Lievens E. Hamstring muscle fibre typology is not associated with hamstring strain injury history or performance in amateur male soccer players: a retrospective magnetic resonance spectroscopy study. Biology of Sport. 2023;40(4):1177-1186. doi:10.5114/biolsport.2023.126663 · **open access**
 
@@ -12409,7 +14213,11 @@ Steele J, Bruce-Low S, Smith D. A Review of the Clinical Value of Isolated Lumba
 
 Strey B, Irigoyen A, McMahon G, Pinto RS. Muscle hypertrophy from partial repetition at long vs. short muscle length: A systematic review and meta-analysis. Sport Sciences for Health. 2026;22(1):33. doi:10.1007/s11332-025-01586-5 · **open access**
 
+Strońska-Garbień K, Gołaś A, Roczniok R, Terbalyan A, Drozd M. Neuromuscular Repatterning of the Pectoralis Major During the Bench Press Exercise Following a 10-week Targeted Resistance Training Intervention. Journal of Musculoskeletal and Neuronal Interactions. 2024;24(3):276-283. PMID:39219325 — no DOI was ever issued · **open access**
+
 Takahashi K, Kamibayashi K, Wakahara T. Gluteus and posterior thigh muscle sizes in sprinters: their distributions along muscle length. European Journal of Sport Science. 2022;22(6):799-807. doi:10.1080/17461391.2021.1907450 · *paywalled*
+
+Tanimoto M, Arakawa H, Sato M, Nagano A. Lateral Force and EMG Activity in Wide- and Narrow-Grip Bench Press in Various Conditions. Sports. 2023;11(8):154. doi:10.3390/sports11080154 · **open access**
 
 Thorstensson A, Carlson H. Fibre types in human lumbar back muscles. Acta Physiologica Scandinavica. 1987;131(2):195-202. doi:10.1111/j.1748-1716.1987.tb08226.x · *paywalled*
 
@@ -12418,6 +14226,8 @@ Timmins RG, Bourne MN, Shield AJ, Williams MD, Lorenzen C, Opar DA. Short biceps
 Tsaopoulos DE, Baltzopoulos V, Richards PJ, Maganaris CN. A comparison of different two-dimensional approaches for the determination of the patellar tendon moment arm length. European Journal of Applied Physiology. 2009;105(5):809-814. doi:10.1007/s00421-008-0968-3 · *paywalled*
 
 Valério DF, Berton R, Conceição MS, Canevarolo RR, Chacon-Mikahil MPT, Cavaglieri CR, et al. The effects of lifting straps in maximum strength, number of repetitions and muscle activation during lat pull-down. Sports Biomechanics. 2021;20(7):858-865. doi:10.1080/14763141.2019.1610490 · *paywalled*
+
+van den Tillaar R. Comparison of Kinematics and Muscle Activation between Push-up and Bench Press. Sports Medicine International Open. 2019;3(3):E74-E81. doi:10.1055/a-1001-2526 · **open access**
 
 van Dyk N, Behan FP, Whiteley R. Including the Nordic hamstring exercise in injury prevention programmes halves the rate of hamstring injuries: a systematic review and meta-analysis of 8459 athletes. British Journal of Sports Medicine. 2019;53(21):1362-1370. doi:10.1136/bjsports-2018-100045 · **open access**
 
@@ -12468,4 +14278,3 @@ Zabaleta-Korta A, Fernández-Peña E, Torres-Unda J, Garbisu-Hualde A, Santos-Co
 Zabaleta-Korta A, Latorre-Erezuma U, Fernández-Peña E, Torres-Unda J, Santos-Concejero J. Regional hypertrophy of muscle cannot be predicted by surface electromyography. Isokinetics and Exercise Science. 2024;32(2):155-161. doi:10.3233/IES-230079 · *paywalled*
 
 Zhang B, Raguzzi IA, Dupuis F, Gianola S, Morgan-Daniel J, Roy JS, et al. Addressing Shoulder Weakness in Individuals With Rotator Cuff-Related Shoulder Pain: A Systematic Review With Meta-analysis. Journal of Orthopaedic & Sports Physical Therapy. 2026;56(2):67-84. doi:10.2519/jospt.2025.13445 · **open access**
-
