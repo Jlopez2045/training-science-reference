@@ -73,7 +73,7 @@
    - **§F** [Programming](#partviiifprogramming)
    - **§G** [Synthesis, and what the evidence does not support](#partviiigsynthesis)
 9. **[Part IX — Master Glossary](#partixmasterglossary)** (278 entries, in dependency order, with an alphabetical index at its head)
-10. **[Part X — Bibliography](#partxbibliography)** (270 sources, 129 open access)
+10. **[Part X — Bibliography](#partxbibliography)** (276 sources, 132 open access)
 
 **How to read this.** The first occurrence of a technical term in each Part links to its glossary
 entry. Cross-references are written `Part II §B.4`.
@@ -10182,6 +10182,13 @@ attach to the arm**. It cannot press, it cannot fly, and it cannot be trained by
 Part VIII §D on the grounds that it is "part of the chest". It grows when you bench press
 (Lanza et al., 2024), but it grows as a scapular muscle doing scapular work, not as a chest muscle.
 
+**One naming collision, resolved here because it inverts an action.** Where Part II §A.7 lists the
+pectoralis major's "sternal head" as a shoulder **extensor**, it is using the two-head convention, in
+which "sternal" means everything below the clavicular fibres and therefore swallows the abdominal part.
+Part VIII uses the three-region division throughout, in which the sternal fibres behave as a stabilizer
+and the extension belongs to the abdominal part below them (Part VIII §B.2). Same anatomy; the boundary
+is drawn in a different place.
+
 **One insertion detail that matters twice.** The pectoralis major's tendon is not a single sheet. It has
 a **longer anterior layer and a shorter posterior layer, continuous with each other inferiorly** — a
 [bilaminar tendon](#bilaminartendon) (Fung et al., 2009). The lower fibres of the muscle cross behind the
@@ -10220,8 +10227,12 @@ supports the twist.
 
 **The same data problem that limits Part V limits this section, and for the same reason.** There is no
 equivalent for the upper limb of the single dataset that measured every lower-limb muscle in the same
-twenty-one specimens (Part VII §A.4). What exists is one complete cadaver, and it should be read for its
-**ratios**, not its absolute values.
+twenty-one specimens (Part VII §A.4). What exists is **one cadaver in which every upper-limb muscle was
+measured by one method at one time**, and it should be read for its **ratios**, not its absolute values.
+Two other datasets in this document's bibliography carry pectoralis major parameters — a cadaveric
+musculoskeletal-parameter study whose tables are paywalled and unobtainable (Langenderfer et al., 2004)
+and an optimisation-based estimate for twenty-six upper-limb muscle groups (Garner & Pandy, 2003) — and
+neither is a direct dissection of this muscle alongside its neighbours.
 
 ```
 ONE SPECIMEN, AGE 104 - THE ONLY COMPLETE UPPER-LIMB DATASET
@@ -10250,15 +10261,21 @@ ONE SPECIMEN, AGE 104 - THE ONLY COMPLETE UPPER-LIMB DATASET
 
 - **It is a big muscle by mass and a modest one by force.** 105.5 g of muscle producing a PCSA of 8.1 cm² is a low ratio, and it is low for a specific reason: **PCSA falls as fibre length rises**, because a fixed mass divided into longer fibres yields fewer of them side by side. The pectoralis major spends its mass on **travel** rather than on force. For comparison, in the same body the serratus anterior weighs three quarters as much and generates nearly **three times** the cross-section, because its fibres are 3.5 cm long instead of 7.9.
 - **Its main synergist out-muscles it.** The three heads of the triceps brachii together have a PCSA of 29.4 cm² against the pectoralis major's 8.1 — a factor of **3.6**. That single ratio explains a great deal of Part VIII §C.5: in a press, the elbow extensors are rarely the tissue that runs out first, and when a bench press ends it is usually because a joint position failed, not because the triceps did.
-- **The sarcomere reading says this measurement is trustworthy for this muscle in a way it is not for the deltoid.** [Sarcomere](#sarcomere) length in the pectoralis major was 2.53 ± 0.71 µm, close to the ~2.7 µm human optimum the authors used, so the muscle was fixed near its optimal length. The same specimen's deltoid measured 1.61–1.88 µm — far short — which tells you the arm was fixed at the side and the deltoid's raw fascicle lengths understate it (Part V §A.4). **The pectoralis major numbers need no such correction.**
+- **The sarcomere reading says the muscle's *mean* was near optimal length and its *regions* were not — and the second half is the more interesting one.** [Sarcomere](#sarcomere) length in the pectoralis major averaged 2.53 µm against the ~2.7 µm optimum the authors used, so no length correction is needed on the average. But its standard deviation of **± 0.71 µm is the largest of all fifty upper-limb muscles measured** — the next largest is 0.46 — and its optimal fascicle length carries ± 3.4 cm on a mean of 9.1 cm. The same specimen's deltoid measured 1.61–1.88 µm with standard deviations under 0.14: far short of optimal, but *tightly* so, which is how you can tell the arm was fixed at the side (Part V §A.4). **Read the two together.** A fan running from the collarbone to the sixth rib cannot have all its regions at the same length in one arm position, and this is that fact showing up as measurement noise. It is the strongest single piece of evidence in Part VIII §A.4 for the thing the whole Part is about — and it is also the reason no individual row of this table should be leaned on.
 
-**Interpretive caution, stated as plainly as in Part V.** One specimen, aged 104. The PCSA
-calculation depends on the [pennation angle](#pennationangle), and this study's model-derived value for
-the pectoralis major — 39.2° — is considerably larger than the angles measured directly by dissection in
-the next paragraph. A pennation angle of 25° instead of 39° would raise the PCSA to about 9.5 cm² rather
-than 8.1. **The conclusion survives the correction**: even at the top of that range the pectoralis major
-has under half the force-generating cross-section of the latissimus dorsi in the same body, and under a
-third of the triceps'.
+**Interpretive caution, stated as plainly as in Part V.** One specimen: a **female** cadaver, aged 104,
+73.4 kg, 1.69 m. Every absolute number above belongs to her, and only the ratios travel. The PCSA
+calculation depends on the [pennation angle](#pennationangle), and this study's value for the pectoralis
+major — 39.2° — was taken with a goniometer on the freshly removed muscle and then *adjusted* to optimal
+fascicle length through a planimetric model, so it is neither a raw measurement nor taken in the same
+plane as the lateral pennation angles from dissection in the next paragraph, and the two should not be
+set against each other directly. A pennation angle of 25° instead of 39° would raise the PCSA to about
+9.5 cm² rather than 8.1. **The conclusion survives the correction**: even at the top of that range the
+pectoralis major has under half the force-generating cross-section of the latissimus dorsi in the same
+body, and under a third of the triceps'. **A second caution about the same table:** it reports sarcomere
+lengths of 5.41 µm for coracobrachialis and 7.02 µm for rhomboid minor, both past the length at which a
+human sarcomere produces zero force at all (Part III §B.3). Treat individual rows as indicative and the
+ratios between large muscles as the usable part.
 
 **What dissection adds, and it is the part that bears on the "upper chest" question.** The three-dimensional
 study of eleven specimens found the two heads to be **architecturally different from each other**
@@ -10285,24 +10302,28 @@ pectoralis major than for any regional question in this document except the [reg
 hypertrophy](#regionalhypertrophy) work on the quadriceps. They do not agree, and the disagreement is
 informative rather than embarrassing.
 
-**Three designs, three answers.**
+**Four designs, and they do not line up.**
 
 | Study | Design | What it measured | Answer |
 |---|---|---|---|
-| Albarello et al., 2022 | 13 men, four sets of flat and four of 45° incline bench press, surface [EMG](#emg) plus panoramic ultrasound before and immediately after | **Acute** regional excitation and acute change in [cross-sectional area](#anatomicalcsa) | **Regions differ.** Clavicular excitation exceeded sternocostal on the incline (P < 0.001) and the reverse on the flat bench (P < 0.001); acute CSA rose more in the clavicular head after the incline (P < 0.001) and more in the sternocostal head after the flat press (P = 0.046) |
-| Chaves et al., 2020 | 47 untrained men, 8 weeks, **once weekly**, 4–6 sets of 8–12RM, sets equalized: flat (n = 15) vs incline (n = 15) vs both (n = 17), [muscle thickness](#musclethickness) at three sites | **Chronic** regional growth from bench angle | **One site differed.** Thickness change at the second intercostal space was greatest in the incline group, by 0.62 cm (95% CI 0.23–1.0) against flat and 0.50 cm (0.14–0.86) against the combination — but **flat and combination did not differ from each other** there (0.11 cm, −0.25 to 0.48, p = 0.524). The other two sites did not differ, and neither did strength |
+| Rodríguez-Ridao et al., 2020 | 30 trained adults, five bench angles (0°, 15°, 30°, 45°, 60°) at 60% of one-repetition maximum, surface [EMG](#emg) of the pectoralis major's **three** portions | **Acute** regional excitation across the whole angle range | **Regions differ, and they peak at different angles.** Upper-portion activity was maximal at **30°**; middle and lower portions were maximal at **0°**. Above 45° the anterior deltoid rose significantly and pectoral performance fell |
+| Albarello et al., 2022 | 13 men, four sets of flat and four of 45° incline bench press, surface EMG plus panoramic ultrasound before and immediately after | **Acute** regional excitation and acute change in [cross-sectional area](#anatomicalcsa) | **Regions differ.** Clavicular excitation exceeded sternocostal on the incline (P < 0.001) and the reverse on the flat bench (P < 0.001); acute CSA rose more in the clavicular head after the incline (P < 0.001) and more in the sternocostal head after the flat press (P = 0.046) |
+| Chaves et al., 2020 | 47 untrained men, 8 weeks, **once weekly**, 4–6 sets of 8–12RM, sets equalized: flat vs incline vs both — but **the thickness outcome had only 10 lifters per group** of the 47 who trained, [muscle thickness](#musclethickness) at three sites | **Chronic** regional growth from bench angle | **One site differed.** Thickness change at the second intercostal space was greatest in the incline group, by 0.62 cm (95% CI 0.23–1.0) against flat and 0.50 cm (0.14–0.86) against the combination — but **flat and combination did not differ from each other** there (0.11 cm, −0.25 to 0.48, p = 0.524). The other two sites did not differ, and neither did strength |
 | Pinto et al., 2025 | 15 untrained men, 12 weeks, [pec deck](#chestfly) only, one set versus three sets in the same person, ultrasound of both portions | **Chronic** regional growth from an exercise that does not change bench angle at all | **No regional difference.** Clavicular +17% and +18%, sternocostal +21% and +21%. The authors' own conclusion: the results *"do not support regional hypertrophy after pec deck exercise in untrained men"* |
 
-**How to read three answers that look like a contradiction and are not.**
+**How to read four answers that look like a contradiction and are not.**
 
-- **The first study did not measure hypertrophy.** A cross-sectional area measured *immediately after* four sets is swelling — fluid shifted into the working region — and this document treats acute area change as a marker of which tissue worked, not of which tissue grew (Part V §B.11). Read that way it agrees with the anatomy and with nothing else: **incline pressing does load the clavicular fibres preferentially, in the moment.**
-- **The second study is the only chronic test of bench angle, and its numbers do not survive an audit.** Its published thickness table reports, over **eight once-weekly sessions**, changes of 11.9 → 15.7 mm in the flat group at the second intercostal space and 15.1 → 24.5 mm in the incline group — **increases of 32% and 62% in eight sessions**, with the third and fifth intercostal sites gaining 24–58% across all three groups. For the direct comparison, look one row down in the same table: Pinto et al. (2025) trained the same population — untrained young men — for **twelve** weeks rather than eight, and reported 17–21%. Across its nine group-by-site cells, Chaves averages **43% growth against Pinto's 19%**. **When every arm of a trial reports growth two to three times what a longer trial in the same population reports, the between-arm comparison inherits the problem** — so the one positive regional result is a hypothesis, not a finding.
+- **The first two studies are acute, and they agree with each other and with the anatomy.** Across five bench angles in thirty trained adults, the three pectoral regions peaked at different inclinations — upper at 30°, middle and lower at 0° (Rodríguez-Ridao et al., 2020); across flat and 45° in thirteen men, clavicular excitation led on the incline and sternocostal on the flat (Albarello et al., 2022). **Two independent groups, different methods, same direction. The acute regional effect of bench angle is real and it is the best-supported claim in this section.**
+- **The second of them did not measure hypertrophy.** A cross-sectional area measured *immediately after* four sets is swelling — fluid shifted into the working region — and this document treats acute area change as a marker of which tissue worked, not of which tissue grew (Part V §B.11). Read that way it agrees with the anatomy and with nothing else: **incline pressing does load the clavicular fibres preferentially, in the moment.**
+- **The third study is the only chronic test of bench angle, and its numbers do not survive an audit.** Its published thickness table reports, over **eight once-weekly sessions**, changes of 11.9 → 15.7 mm in the flat group at the second intercostal space and 15.1 → 24.5 mm in the incline group — **increases of 32% and 62% in eight sessions**, with the third and fifth intercostal sites gaining 24–58% across all three groups. For the direct comparison, look one row down in the same table: Pinto et al. (2025) trained the same population — untrained young men — for **twelve** weeks rather than eight, and reported 17–21%. Across its nine group-by-site cells, Chaves averages **43% growth against Pinto's 19%**. **When every arm of a trial reports growth two to three times what a longer trial in the same population reports, the between-arm comparison inherits the problem** — so the one positive regional result is a hypothesis, not a finding.
 - **And the row nobody quotes points the other way.** The *combination* group, which did both exercises, was **not different from the flat-press group** at the site where incline won (0.11 cm, 95% CI −0.25 to 0.48, p = 0.524), and finished **behind the incline-only group** there by 0.50 cm. **Adding an incline press to a flat press bought nothing measurable.** If the mechanism were simply "incline reaches the top", that is the one group in which it should have shown.
-- **The third study says a single non-angled exercise grows both regions, and grows the lower one slightly more.** That is what you would expect from Part VIII §A.4's architecture — the sternocostal head is larger — and it removes the last version of the claim that regional growth requires regional exercises.
+- **The fourth study says a single non-angled exercise grows both regions, and grows the lower one slightly more.** That is what you would expect from Part VIII §A.4's architecture — the sternocostal head is larger — and it removes the last version of the claim that regional growth requires regional exercises.
 
 ```
 THE STATE OF THE "UPPER CHEST" QUESTION, HONESTLY
-  Does incline pressing shift acute load upward?      YES  (Albarello 2022)
+  Does incline pressing shift acute load upward?      YES, twice, independently
+                                                      (Rodriguez-Ridao 2020,
+                                                       Albarello 2022)
   Does that produce more upper-region growth?         ONE trial, ONE of three
                                                       sites, untrained, 1x/week
                                                       - and its raw growth
@@ -10353,11 +10374,14 @@ WHICH PART OF THE FAN A DIRECTION USES
                                             of how much the shoulder is flexed
 ```
 
-**The last line is the most important sentence in Part VIII §A.6, and it is easy to read past.** The
-action that a bench press and a fly are built out of — sweeping the arm across the body at shoulder
-height — recruited the **middle** segments *regardless of the degree of shoulder flexion*. Changing the
-bench angle changes the degree of shoulder flexion. On this evidence, that is precisely the variable that
-horizontal-flexion recruitment was insensitive to.
+**The last line is suggestive, and it is easy to over-read.** The action a bench press and a fly are
+built out of — sweeping the arm across the body at shoulder height — recruited the **middle** segments
+*regardless of the degree of shoulder flexion*. That is an isometric result at two contraction
+intensities in eight men, and the shoulder flexion it varied was the position the arm was held in, not
+the inclination of a bench. **It is a reason to expect bench angle to do less than folklore says, not
+evidence that it does nothing** — and the direct test disagrees with the strong reading: recording three
+pectoral regions across five bench angles in thirty trained adults, upper-region activity peaked at 30°
+and the middle and lower regions peaked at 0° (Rodríguez-Ridao et al., 2020).
 
 **The second study generalized the principle.** Nineteen muscle segments across the pectoralis major,
 deltoid and latissimus dorsi were recorded during rapid isometric force impulses in twenty men; segment
@@ -10395,7 +10419,7 @@ been published in a form this document could read.
 
 | Muscle | Relationship | Consequence for training |
 |---|---|---|
-| Anterior deltoid | Shares [shoulder flexion](#shoulderflexion) and horizontal adduction in every press. Its own flexion moment arm is 35.5 ± 3.3 mm, smaller than the clavicular pectoralis major's 53.7 ± 2.1 mm (Ackland et al., 2008) | Every press is shared work. Ten weeks of bench pressing grew **both** (Lanza et al., 2024) |
+| Anterior deltoid | Shares [shoulder flexion](#shoulderflexion) and horizontal adduction in every press. In the same cadaveric series its peak flexion moment arm was 40.0 mm against the clavicular pectoralis major's 53.7 ± 2.1 mm (Ackland et al., 2008) | Every press is shared work. Ten weeks of bench pressing grew **both** (Lanza et al., 2024) |
 | Triceps brachii | Extends the elbow in every press; its long head also extends the shoulder | 3.6× the pectoralis major's PCSA (Part VIII §A.4); it dominates the top of the lift (Part VIII §B.8) |
 | Serratus anterior | Holds the scapula against the ribs and protracts it | Not a chest muscle, but the reason a press can be made from a stable base at all |
 | [Coracobrachialis](#coracobrachialis) | A small flexor and adductor running from the coracoid to the middle of the humerus | Trains alongside the clavicular fibres in every flexion movement; too small to prescribe for |
@@ -10618,8 +10642,8 @@ than they are credited with**.
 | **Bench inclination** | More shoulder flexion, so more clavicular involvement | Acutely, yes (Albarello et al., 2022). Over a whole concentric contraction, **upper pectoralis activity did not differ across 0°, 30°, 45° and −15°** — only in the 26–50% window did 30° (122.5 ± 10.1% MVIC) and 45° (124 ± 9.1%) exceed flat (98.2 ± 5.4%) (Lauver et al., 2016) |
 | **Bench inclination, lower region** | Less involvement as the bench rises | Confirmed, and it is the clearer of the two effects: lower pectoralis activity at 45° (71.9 ± 4.5% MVIC) was below −15° (100.4 ± 5.7%), flat (100.1 ± 5.2%) and 30° (86.6 ± 4.8%) (Lauver et al., 2016) |
 | **Bench inclination, the price** | — | **Six-repetition-maximum load was 18.5–21.5% lower on an incline** than on a flat or declined bench in twelve national- and international-level bench press athletes (Saeterbakken et al., 2017) |
-| **Grip width** | A wider grip puts the hand further from the shoulder, so the shoulder's [torque](#torque) demand rises (Part VIII §B.9) | Larger pectoralis major activity for wider grips in a musculoskeletal-model study (Noteboom et al., 2024) — but **no difference in pectoralis activation across narrow, medium and wide grips** in competition-level athletes (Saeterbakken et al., 2017), and **no change in the pectoral-to-triceps activity ratio** between an 81 cm and a 40 cm grip (Tanimoto et al., 2023) |
-| **Grip width, the price** | — | Six-repetition-maximum load was **5.8–11.1% greater** with a medium or wide grip than a narrow one (Saeterbakken et al., 2017), and grips wider than 1.5 biacromial widths raised compression at the [acromioclavicular joint](#acromioclavicularjoint) and posterior shear at the shoulder — both of them [joint reaction forces](#jointreactionforce) (Noteboom et al., 2024) |
+| **Grip width** | A wider grip puts the hand further from the shoulder, so the shoulder's [torque](#torque) demand rises (Part VIII §B.9) | Larger pectoralis major activity for wider grips in a musculoskeletal-model study (Noteboom et al., 2024) — but **no difference in pectoralis activation across narrow, medium and wide grips** in competition-level athletes (Saeterbakken et al., 2017), and **no change in the pectoral-to-triceps activity ratio** between an 81 cm and a 40 cm grip (Tanimoto et al., 2023). In twenty-eight novice and resistance-trained men at a six-repetition maximum, pectoral activity was again similar across grips while the biceps, triceps and anterior deltoid all changed (Saeterbakken et al., 2021). **What grip width does move is the balance *within* the muscle** — narrower raises clavicular excitation, wider raises abdominal-head excitation, in thirty-five lifters (Mausehund et al., 2022) |
+| **Grip width, the price** | — | Six-repetition-maximum load was **5.8–11.1% greater** with a medium or wide grip than a narrow one (Saeterbakken et al., 2017) — **the opposite of the direction a narrower grip moves load in an *overhead* press, where it permits more** (Part V §B.10); the two presses do not share a grip-width rule — and grips wider than 1.5 biacromial widths raised compression at the [acromioclavicular joint](#acromioclavicularjoint) and posterior shear at the shoulder — both of them [joint reaction forces](#jointreactionforce) (Noteboom et al., 2024) |
 
 **The most important row is the fourth, and it needs unpacking, because two good studies appear to
 disagree with the geometry and with each other.** The resolution is in Part VIII §B.9 and it is not a
@@ -10628,8 +10652,19 @@ changes, and the change is large enough to cancel the geometric difference.
 
 > **The rule, in one line.** Bench inclination reliably changes which region works *hardest at a given
 > instant*, changes the *whole-contraction* picture much less, and costs about a fifth of the load. Grip
-> width changes the geometry a great deal and the measured muscle activity almost not at all, while
-> changing joint loading a great deal. **Neither is the lever people think it is.**
+> width changes where the load sits — shoulder against elbow, and clavicular against abdominal fibres —
+> by about a factor of two, while leaving whole-muscle activation almost unchanged. **Neither is the
+> lever people think it is, and neither is inert.**
+
+**One caveat governs every joint-loading number in this Part, and it is stated once, here.** The
+modelling study behind them recorded ten experienced lifters performing twenty-one bench press variations
+with a **16 kg barbell** — chosen deliberately to keep the movement free of fatigue and injury risk — and
+drove an OpenSim shoulder model from the measured kinematics and an instrumented bar
+(Noteboom et al., 2024). The **rankings between techniques** are the usable output; the absolute forces
+are not, and the authors say so, warning that at heavier loads the rotator cuff may no longer restrain
+the humeral head against the posterior shear it held in check at 16 kg. Every technique recommendation in
+Part VIII §C.2, Part VIII §C.6 and Part VIII §E.4 that rests on it therefore carries **Moderate
+evidence**: one modelling study, ten lifters, an empty bar.
 
 ---
 
@@ -10680,8 +10715,8 @@ Part.
 | **Barbell press, any angle** | Stretch-loaded at the shoulder; the whole-system hardest point sits a little above the chest (Part VIII §B.8) | At the chest |
 | **[Dumbbell press](#dumbbellbenchpress)** | As above, plus a lateral stability demand the barbell removes | At the chest, with more range available below it |
 | **[Machine chest press](#machinechestpress)** | Depends entirely on the cam, and manufacturers do not publish them | Wherever the cam puts it |
-| **Dumbbell fly** | **Strongly stretch-loaded and it falls to almost nothing at the top** — the resistance arm is the horizontal distance from shoulder to hand, which goes to zero as the hands meet | At the bottom, and nowhere else |
-| **Cable fly / crossover** | **Near-constant** through the range, because the cable pulls horizontally rather than vertically | Roughly even; the only chest exercise that still loads the shortened position |
+| **Dumbbell fly** | **Stretch-loaded, and it falls off as a cosine** — the resistance arm is the horizontal distance from shoulder to hand, so torque scales with the cosine of the angle above horizontal: 100% with the arms level, ~71% at 45°, and zero only with the hands directly above the shoulders | At the bottom; still two thirds of peak at 45°, and nothing at the top |
+| **Cable fly / crossover** | **Ascending, not flat.** The cable's line of pull is fixed in space while the arm rotates through it, so the moment arm *grows* as the hands come together and the exercise is hardest near the finish | Toward the finish; the only chest exercise that loads the shortened position at all |
 | **Pec deck** | Near-constant, machine-dependent | Roughly even |
 | **[Push-up](#pushup)** | As the barbell press, scaled to a fraction of body mass | At the bottom |
 | **Dip** | Stretch-loaded, and the deepest available shoulder extension of any exercise here | At the bottom |
@@ -10704,7 +10739,7 @@ by single- and two-joint muscles with the motion constrained by the barbell, and
 closed form (Evangelista et al., 2025). Three results matter:
 
 - **The sticking region appears when the shoulder's torque capacity drops below a critical threshold**, producing a local minimum in bar velocity. It is a **capacity** problem at the shoulder, not a demand spike.
-- **Adding elbow torque shifts the velocity minimum from 38 cm to 23 cm above the chest** and shallows it — but lengthens the time spent passing through it.
+- **Elbow torque both shallows the velocity dip and moves it down.** A shoulder-only actuation put the velocity minimum 38 cm above the chest; adding elbow torque moved it to 23 cm and made it shallower, while lengthening the time spent passing through it. **Interpretive caution:** both are simulation outputs at one parameter set, and the 38 cm case is a model with the elbow switched off rather than a bench press. Read them for the *direction* of the effect. Measured sticking regions sit lower and move with grip width (Gomo & van den Tillaar, 2016).
 - **Grip width and the barbell constraint shaped the sticking region more than the muscle architecture parameters did.** Where you grip changes the sticking point more than what your muscles are made of.
 - **The elbow extensors contribute minimally in the early phases and become dominant near full extension.**
 
@@ -10725,73 +10760,106 @@ the authors attribute to their assumption of constant torques.
 
 **The question.** Does a wider grip make the bench press more of a chest exercise?
 
-**Step 1 — the geometry.** Take a lifter with a biacromial width of 40 cm, so each
-shoulder joint sits roughly 20 cm from the midline. The barbell force on each hand is vertical. The
-moment it exerts about the shoulder in the adduction direction is that force times the **sideways
-distance from the shoulder to the hand**.
+**Step 1 — the landmark that is not the joint.** Grip width in this Part is written in
+biacromial widths, and that measurement runs between the **outer edges of the two
+acromions**. The shoulder joint is not there. The [glenohumeral](#glenohumeraljoint) rotation centre is
+the centre of the humeral head, which sits medial to the acromion's outer edge by at least one humeral
+head radius — 22.9 ± 1.7 mm across fifty computed-tomography scans of normal shoulders, and the authors
+note that Western cohorts run larger still (Sahu et al., 2020) — plus whatever the acromion overhangs by.
+**So a lifter with a 40 cm biacromial width has joint centres nearer 34 cm apart than 40 cm**, and a grip
+set at "one biacromial width" still puts each hand *outside* its own joint centre.
+
+**And the sideways offset is only half of the moment.** At the touch point the bar sits well below the
+shoulders along the body, so the barbell also exerts a **flexion** moment about the shoulder at every
+grip width. That term does not shrink as the grip narrows, and at narrow grips it is the larger of the
+two. Any calculation that resolves only the sideways component will therefore understate the shoulder's
+load, and understate it most exactly where a narrow grip is supposed to have unloaded it.
+
+**Step 2 — so use the measurement instead of the model.** Fourteen trained men lifted a
+one-repetition maximum at three grip widths defined against each lifter's own biacromial distance, with
+motion capture and a force plate, and the moment arms of the resultant barbell force were computed at
+each event of the lift (Larsen et al., 2020):
 
 ```
-GRIP WIDTH -> SHOULDER ADDUCTION TORQUE
-Lifter: biacromial width 40 cm; bar 100 kg, so ~490 N per hand
+GRIP WIDTH -> WHERE THE LOAD GOES, MEASURED AT THE CHEST
+Fourteen trained men at a one-repetition maximum, bar at its lowest point
+(Larsen et al., 2020, Table 2)
 
-  Grip        Hands apart   Hand offset from   Adduction torque
-  (BAW)       (cm)          the shoulder (cm)  per shoulder (N.m)
-  ---------------------------------------------------------------
-  1.0          40             0                  0
-  1.5          60            10                 49
-  2.0          80            20                 98
+  Grip       Hands apart   Moment arm      Moment arm      1RM
+  (BAW)      (cm)          ELBOW (m)       SHOULDER (m)    (kg)
+  ----------------------------------------------------------------------
+  1.7 wide    71 +/- 6     0.00 +/- 0.02   0.24 +/- 0.03   109.8
+  1.4 medium  56 +/- 4     0.03 +/- 0.02   0.19 +/- 0.03   108.9
+  1.0 narrow  40 +/- 4     0.08 +/- 0.03   0.12 +/- 0.03   103.7
+
+  Converting to torque at each lifter's own load:
+    shoulder   129 N.m (wide)   101 N.m (medium)   61 N.m (narrow)
+    elbow        0 N.m (wide)    16 N.m (medium)   41 N.m (narrow)
 ```
 
-**Step 2 — read it.** Widening from 1.5 to 2.0 biacromial widths **doubles** the adduction torque at the
-same bar load. And at a grip equal to the biacromial width, the hands sit directly above the shoulders
-and **the barbell exerts no adduction torque at the shoulder at all** — the entire demand falls on the
-shoulder flexors and the elbow extensors. That is the mechanical definition of a close-grip bench press,
-and it is why that variant is a triceps exercise. **Narrower still and the moment changes sign**: with the
-hands inside the shoulders the bar pushes the arms *toward* the midline, and it is the abductors, not the
-adductors, that resist it — so a very close grip does not merely reduce the pectoral demand, it removes
-it.
+**Step 3 — read it.** Three things, and the first is the one this Part previously got wrong.
 
-**Step 3 — the prediction, and its failure.** The geometry predicts that a wide grip should shift the work
-markedly toward the pectoralis major. **Two studies looked and did not find it.** In twelve
-national- and international-level bench press athletes, pectoralis major activation did not differ
-significantly across narrow, medium and wide grips (Saeterbakken et al., 2017). In seven trained and
-seven untrained men lifting a ten-repetition maximum, the pectoral-to-triceps activity ratio was
-unchanged between an 81 cm and a 40 cm grip in every condition but one (Tanimoto et al., 2023) — and for
-the 40 cm biacromial width of step 1, those two grips are almost exactly its 2.0 and 1.0 rows.
+- **At a grip of exactly one biacromial width the shoulder moment arm is 12 cm, not zero.** The hands are not over the joint centres, and the flexion term is there regardless. A close grip **halves** the shoulder's load; it does not remove it, and nothing in the measured range reverses its sign.
+- **The elbow's moment arm is the mirror image, and at the wide grip it is zero.** That — not an absent pectoral demand — is the real mechanical content of "a wide grip spares the triceps".
+- **The trade is roughly two to one across the usable range**, and it costs about 6% of the load at the narrow end (103.7 kg against 109.8 kg).
 
-**Step 4 — the resolution, which is the point of this section.** The same study that failed to find the
-predicted difference **measured why**. It recorded the sideways force the hands applied to the bar:
+**Step 4 — what lifters actually do to the bar.** Nobody presses straight up. Two studies measured the sideways force at the hands, and the *pattern* replicates even though the magnitudes do not:
 
 ```
-WHAT LIFTERS ACTUALLY DO TO THE BAR (Tanimoto 2023, all repetitions averaged)
-  Wide grip  (81 cm)  ->  about 30% of the vertical force, directed OUTWARD
-  Narrow grip (40 cm) ->  about 10% of the vertical force, directed INWARD
-  Both patterns present in trained AND untrained lifters
+THE SIDEWAYS FORCE ON THE BAR, AS A PERCENTAGE OF THE VERTICAL FORCE
+  Tanimoto 2023   10RM   wide 81 cm   ~30% OUTWARD
+                         narrow 40 cm ~10% INWARD
+                         (both patterns in trained AND untrained lifters)
+  Larsen 2020     1RM    wide 1.7 BAW   13.1-15.7% OUTWARD
+                         medium 1.4 BAW  0.4-1.8%  inward
+                         narrow 1.0 BAW  8.5-10.1% INWARD
 ```
 
-**Pushing outward on a wide grip tilts the resultant force at the hand toward the shoulder, which shortens
-its moment arm.** The lifter is spontaneously undoing the geometry of step 1. Pushing inward on a narrow
-grip does the reverse. **The measured muscle activity is the geometry *after* the lifter's correction, and
-the correction is large enough to cancel it.**
+Pushing outward tilts the resultant force at the hand toward the shoulder and shortens its moment arm;
+pushing inward does the reverse. **This is a real effect and it is why the cue works** — the modelling
+study reaches the same conclusion from joint reaction forces, finding the lowest glenohumeral loads with
+laterally directed hand force (Noteboom et al., 2024).
 
-**Step 5 — the independent confirmation, from a different method.** A musculoskeletal model driven by
-motion capture and an instrumented barbell in ten experienced strength athletes reached the same place
-from the other side: mediolateral hand forces "varied considerably between athletes and largely affected
-shoulder reaction forces", with a median between 15% and 35% of the vertical force and a standard
-deviation reaching 64% (Noteboom et al., 2024). The two participants who pushed **medially** — which the
-simulation shows raises joint reaction forces — were the two with the least bench press experience,
-3 years against 8 ± 4 for the rest.
+**Step 5 — but it does not cancel the geometry, and this is where the previous version of this section
+was wrong.** Larsen's moment arms above were computed from the resultant force **with the sideways
+component already in them**, and the grip difference survives: *"The wide and medium grip widths produced
+greater horizontal shoulder moments than the narrow grip width during the sticking region"*
+(Larsen et al., 2020). A second study reached the same place with joint moments rather than moment arms:
+in thirty-five strength-trained adults at a six-to-eight-repetition maximum, **a narrower grip produced
+larger elbow net joint moments and a wider grip larger shoulder net joint moments** (Mausehund et al., 2022).
 
-> **What the worked example establishes.** Grip width is not a dial that sets the chest-to-triceps ratio;
-> **the direction you push is.** A cue to press *out* against the bar as well as up is one of the very few
-> cues in this document with a measured mechanical justification, and it is justified twice — once because
-> it reduces the shoulder's moment arm, and once because it lowers joint reaction forces
-> (Noteboom et al., 2024). **Moderate evidence:** both studies are small, and neither followed the cue
-> through to a growth or an injury outcome.
+**Step 6 — so what does grip width actually change?** Not how hard the pectoralis major works. It changes
+**which part of it** works, and that is the finding the folklore has never had:
 
-**And the second question, answered the same way.** *Does arching the back help?* Fifteen competitive
-powerlifters performed flat-back and arched-back bench presses at 50%, 70% and 90% of the respective
-one-repetition maximum (Bartolomei et al., 2024):
+> In the same thirty-five lifters, a **narrower** grip raised the excitation of the **clavicular head** of
+> the pectoralis major, along with the anterior deltoid and the lateral head of the triceps; a **wider**
+> grip raised the excitation of the **abdominal head** (all p ≤ 0.05). The authors' own conclusion is that
+> "greater adaptations of the elbow extensors and shoulder flexors may be expected when selecting
+> narrower grip widths, whereas wider grip widths may induce greater adaptations of the shoulder
+> horizontal adductors" (Mausehund et al., 2022).
+
+That is why the whole-muscle nulls of Part VIII §B.11 are not a paradox. Whole-muscle activation does not
+move because the two ends of the fan move in **opposite directions** and the total is preserved.
+
+> **What the worked example establishes.** Grip width moves load between the shoulder and the elbow by
+> about a factor of two, and moves it **within the pectoralis major** — toward the clavicular fibres as
+> the grip narrows and toward the abdominal fibres as it widens (Mausehund et al., 2022). It does not
+> turn the muscle off at any width anyone uses. **Pressing outward against the bar is still the right
+> cue** — it shortens the moment arm and lowers modelled joint reaction forces (Noteboom et al., 2024) —
+> but it modifies the geometry rather than erasing it. **Moderate evidence** throughout: two
+> moment-arm studies of fourteen and thirty-five lifters, and one modelling study at a 16 kg bar.
+
+**Naming, because two actions are easy to confuse here.** The moment a wide grip increases is
+**horizontal adduction** — the transverse-plane action of sweeping the arm across the body at shoulder
+height, which is what the pectoralis major has its largest moment arm for (Part VIII §B.1). Bare
+**adduction** in this document means the frontal-plane action of bringing the arm down to the side, which
+is what a pull-up loads (Part II §B.2). The two have different leverage rankings and different sources,
+and they are never interchangeable here.
+
+**And the second question, answered the same way.** *Does arching the back help?* Fifteen highly
+resistance-trained individuals with a bench press of 1.38 ± 0.18 times body mass performed flat-back and
+arched-back bench presses at 50%, 70% and 90% of the respective one-repetition maximum
+(Bartolomei et al., 2024):
 
 ```
 THE ARCH, MEASURED
@@ -10847,6 +10915,7 @@ direction.**
 | Flat vs incline vs decline bench, wide grip, elite athletes | Different | **No significant difference in pectoralis major activation** (Saeterbakken et al., 2017) |
 | Narrow vs medium vs wide grip, elite athletes | Different | **No significant difference** (Saeterbakken et al., 2017) |
 | Bench angle across a whole concentric contraction | Upper region higher on an incline | **No difference over the complete contraction**; differences only in one quarter of it (Lauver et al., 2016) |
+| Bench angle, three pectoral regions, five angles, 30 trained adults | Regions peak at different angles | **They do.** Upper portion maximal at 30°, middle and lower maximal at 0° (Rodríguez-Ridao et al., 2020). This is the largest positive regional finding in the literature and it belongs in the same table as the nulls |
 | Lying bench press vs seated chest press, four grips | Different | Clavicular activity differed by ~5% MVIC between the extremes; anterior deltoid did not differ at all. Authors' conclusion: *"all exercises and grips showed similar muscle activity"* (Muyor et al., 2023) |
 | Push-up vs bench press at matched load | Open versus closed chain should differ | **No differences in kinematics or muscle activation** (van den Tillaar, 2019) |
 | Flat-back vs arched-back bench press | Different regional emphasis | **No difference in upper or lower pectoralis excitation** (Bartolomei et al., 2024) |
@@ -10865,14 +10934,35 @@ muscle works, because it is already working.
 were placed separately over the clavicular and sternocostal heads, the two regions dissociated sharply
 by bench angle (Albarello et al., 2022) — and so did a regional analysis of the sternocostal head across
 bench press ranges of motion, where peak excitation was significantly greater in the sternocostal 15%
-region during the upper half of the lift (Fischer et al., 2025). **Whole-muscle electrodes cannot see a
-regional effect, and every null above used whole-muscle electrodes.**
+region during the upper half of the lift (Fischer et al., 2025). **But the nulls are not an artefact of electrode
+placement, and that is what makes them interesting.** Two of the rows above recorded the clavicular and
+sternocostal parts separately and still found nothing (Saeterbakken et al., 2017), and so did the
+flat-versus-arched comparison (Bartolomei et al., 2024). What separates the studies that *do* resolve a
+regional difference from those that do not is the **comparison being made**, not the electrode: the
+positive findings compare one region against the other at matched instants, while the nulls compare each
+region against its own maximal contraction across conditions. Those answer different questions — *which
+part of the fan is doing more of the work right now*, and *is the fan as a whole working harder*. The
+answers are "reliably, yes" and "almost never", and only the first is what "regional emphasis" means.
 
-**What none of it settles.** No EMG ranking in this literature has ever been checked against growth in
-this muscle. The one trial that measured regional growth from bench angle found one of three sites
-differing (Chaves et al., 2020); the one that measured regional growth without varying the angle found
-no regional difference at all (Pinto et al., 2025). Part V §B.11's rule stands here in its strongest
-form: **activation is evidence about what worked, not about what will grow.**
+**What none of it settles, and the one thing that comes closest.** No EMG ranking in this literature has
+ever been checked against growth in the pectoralis major. The one trial that measured regional growth
+from bench angle found one of three sites differing (Chaves et al., 2020); the one that measured regional
+growth without varying the angle found no regional difference at all (Pinto et al., 2025).
+
+**But the general question — does regional activation predict regional growth? — has been answered once,
+directly, in another muscle, and the answer was yes.** Twelve young men trained the elbow extensors for
+twelve weeks. [T2-weighted MRI](#t2mri) taken immediately after the **first** session showed the middle
+regions of the triceps brachii more activated than the most proximal region; twelve weeks later the
+cross-sectional area of those same middle regions had grown more (Wakahara et al., 2013). The authors'
+conclusion is the mechanism this Part has been circling: *"nonuniform muscle hypertrophy after training
+intervention is due to the region-specific muscle activation during the training session"*.
+
+**So the rule has to be stated more carefully here than in Part V §B.11.** *Between* exercises,
+activation still does not predict growth — that is the finding replicated across Parts II, IV, V and VI.
+*Within* a muscle, one experiment says regional activation does predict regional growth. **Moderate
+evidence**, one trial, twelve men, a different muscle. It is the reason the acute regional findings in
+Part VIII §A.5 are worth acting on at all, and it is also the reason they are worth only what one
+twelve-man trial in the triceps is worth.
 
 ---
 
@@ -10949,8 +11039,8 @@ than fallen into.
 | 2 | **Elbows at 90° to the torso** | Maximal shoulder abduction at maximal load. Glenohumeral shear is **always posteriorly directed** during a bench press and rises with grip width (Noteboom et al., 2024) | 45–70° of abduction. Not 90°, and not tucked to the ribs either — 45° raised superior shear at the start and end (Noteboom et al., 2024) |
 | 3 | **Losing scapular retraction as the bar descends** | Every rotator cuff muscle's activity rises and glenohumeral compression and posterior shear rise with it (Noteboom et al., 2024) | Set the scapulae before the bar leaves the rack and treat them as part of the bench, not part of the movement |
 | 4 | **Bouncing the bar off the chest** | Removes the eccentric contribution at the one position where the muscle is longest, and hides the sticking region (Part VIII §B.8) | Touch, do not compress. Pause if bouncing is habitual |
-| 5 | **A grip narrower than one biacromial width** | Turns the exercise into a triceps exercise — the barbell exerts essentially no adduction torque at the shoulder (Part VIII §B.9) — and raises superior shear (Noteboom et al., 2024) | 1.3–1.6 BAW for pectoral work; keep the narrow grip as a separate triceps exercise if you want one |
-| 6 | **A grip wider than two biacromial widths** | Raises acromioclavicular compression and glenohumeral posterior shear (Noteboom et al., 2024) without raising measured pectoral activation (Saeterbakken et al., 2017) | The cost is real and the benefit is not measurable. Stay inside 1.6 BAW |
+| 5 | **A grip at or below one biacromial width, used as your only press** | Halves the shoulder's moment arm and shifts the pectoral work upward toward the clavicular fibres (Part VIII §B.9); at 1 BAW it also raises glenohumeral superior shear (Noteboom et al., 2024). It does not remove the chest, but it under-loads the lower fan | 1.3–1.6 BAW as the default. A close grip is a legitimate second press, not a substitute for the first |
+| 6 | **A grip wider than two biacromial widths** | Raises acromioclavicular compression and glenohumeral posterior shear (Noteboom et al., 2024) without raising whole-muscle pectoral activation (Saeterbakken et al., 2017) | The joint cost is real and the whole-muscle benefit is not measurable. Stay inside 1.6 BAW |
 | 7 | **Pushing the shoulders forward at lockout** | Trades a stable scapular base for two centimetres of range that the pectoralis major has almost no leverage in anyway (Part VIII §B.6) | Finish with the elbows extended and the shoulder blades where they started |
 | 8 | **Stopping the descent short on a fly to "protect the shoulder"** | Removes the only part of the range that a fly exists for | If the bottom hurts, the exercise or the load is wrong — not the range (Part VIII §E.4) |
 | 9 | **Arching to move more weight in a hypertrophy block** | Buys about 4 kg and costs range of motion at every load, with no change in pectoral excitation (Bartolomei et al., 2024) | Reserve the arch for testing a one-repetition maximum |
@@ -11007,7 +11097,7 @@ stretching does (Afonso et al., 2021), and the fly loads exactly the position th
 | "Elbows at 45–70°, not 90°" | **Useful** | Part VIII §C.2, error 2 |
 | "Touch, do not bounce" | **Useful** | Preserves the eccentric at the longest length |
 | "Squeeze the chest at the top" | **Harmless on a cable, useless on a barbell** | There is no meaningful pectoral leverage at press lockout (Part VIII §B.6). On a crossover, where the hands cross the midline, there genuinely is |
-| "Think about the chest doing the work" | **Modest and specific** | An internal [attentional focus](#attentionalfocus) raises the activity of the muscle named, and the general finding is in Part II §C.4. Ten weeks of targeted pectoral training plus bench pressing raised pectoralis major activity during the bench press (p = 0.0002, ES = 2.6) where bench pressing alone did not (Strońska-Garbień et al., 2024). **Promising but under-replicated** — sixteen men, EMG only, no size measurement |
+| "Think about the chest doing the work" | **Modest and specific** | An internal [attentional focus](#attentionalfocus) raises the activity of the muscle named, and the general finding is in Part II §C.4. **Interpretive caution:** the study sometimes offered for this is not about cueing at all — it added ten weeks of *targeted pectoral exercises* alongside the bench press and found pectoralis major activity during the bench press rising (p = 0.0002, ES = 2.6) where bench pressing alone did not (Strońska-Garbień et al., 2024). That is evidence that training a muscle directly increases its contribution to a compound lift, which is worth knowing, and it is not evidence about attention. **Promising but under-replicated** — sixteen men, EMG only, no size measurement |
 | "Tuck the elbows to the ribs" | **Harmful for this muscle** | It is a powerlifting cue for moving load, and it makes the exercise a triceps exercise (Part VIII §B.9) |
 | "Lower to the neck for the upper chest" | **Not supported and mechanically expensive** | The upper region is separated by a *flexion* moment arm, not by a touch point (Part VIII §B.2), and a high touch point maximises shoulder abduction |
 | "Flare the elbows to stretch the chest" | **Harmful** | The stretch comes from the arm passing the plane of the torso, not from abduction. Flaring adds shear without adding length |
@@ -11020,7 +11110,7 @@ stretching does (Afonso et al., 2021), and the fly loads exactly the position th
 
 | Limiter | How you know | What to do |
 |---|---|---|
-| **The shoulder's torque capacity at the sticking region** | The bar stops 20–40 cm above the chest and never recovers (Part VIII §B.8) | Nothing is wrong. This is the exercise working. Train it |
+| **The shoulder's torque capacity at the sticking region** | The bar slows or stops in the first third of the ascent — roughly the first 10–20 cm off the chest — and either grinds through or fails there (Part VIII §B.8) | Nothing is wrong. This is the exercise working. Train it |
 | **Position, not tissue** | The scapulae slide, the elbows drift, the ribcage drops | A technique problem wearing a strength problem's clothes. Fix Part VIII §C.2 first |
 | **The triceps at lockout** | The bar clears the sticking region and stalls in the last 10 cm | A genuine triceps limit. Add direct elbow extension work; the triceps takes over above the sticking region (Evangelista et al., 2025) |
 | **The anterior deltoid** | Front-of-shoulder fatigue and soreness dominating chest soreness after pressing | Common in programmes with heavy overhead pressing on adjacent days (Part VIII §E.6) |
@@ -11040,8 +11130,8 @@ If it fails at lockout, the triceps is.**
 Three set-up decisions, and the evidence for each is unusually direct.
 
 **The scapulae: retract and hold.** Retraction lowered glenohumeral compression, lowered the posterior
-shear component and lowered **every** rotator cuff muscle's activity, throughout the whole movement cycle
-(Noteboom et al., 2024). It also lowered pectoralis major activity in the same study — a real cost, and
+shear component and lowered every rotator cuff muscle's activity, with the supraspinatus benefit present
+across the whole movement cycle and the others confined to parts of it (Noteboom et al., 2024). It also lowered pectoralis major activity in the same study — a real cost, and
 a small one. The same authors note a separate study finding **no significant difference in
 one-repetition maximum** between a retracted and a more neutral scapula, so the trade is joint load
 against a few percent of activation with no loss of load capacity. **Take the trade.**
@@ -11119,7 +11209,7 @@ Everything here moves the arm forward and inward against a load, with the elbow 
 category with the only direct hypertrophy evidence, and the category the whole muscle can be built from.
 
 #### Barbell bench press, flat
-**Profile:** stretch-loaded at the shoulder; the whole-system hardest point sits 20–40 cm above the chest
+**Profile:** stretch-loaded at the shoulder; the whole-system hardest point sits in the first third of the ascent
 (Part VIII §B.8).
 **Role:** the default. Ten weeks of it alone raised MRI cross-sectional area of the pectoralis major
 above control, and the pectoralis major grew **more than the triceps brachii and more than the pectoralis
@@ -11160,12 +11250,17 @@ above the dumbbell's, with no difference in pectoralis major activity between an
 (Saeterbakken et al., 2011). A reasonable choice when training alone without a spotter.
 
 #### Close-grip bench press
-**Profile:** as the flat bench press, with the pectoral contribution removed by geometry.
-*Reality.* At a grip near one biacromial width the barbell exerts **essentially no adduction
-torque at the shoulder**, and inside that width the moment reverses sign (Part VIII §B.9). Triceps activity is higher at a 50% biacromial grip than at
-150% (~16% versus ~12% MVIC), and the authors' overall conclusion across all four exercise-and-grip
-conditions they compared was that muscle activity was similar (Muyor et al., 2023).
-*Role.* **A triceps exercise.** Count it in the elbow-extension column, not this one.
+**Profile:** as the flat bench press, with the pectoral demand **redistributed rather than removed**.
+*Reality.* At one biacromial width the measured shoulder moment arm is still 0.12 m — half the wide-grip
+value, not zero — while the elbow's rises from zero to 0.08 m (Larsen et al., 2020). What narrowing does
+inside the muscle is shift work **upward**: a narrower grip raised clavicular-head excitation along with
+the anterior deltoid and the lateral triceps, while a wider grip raised abdominal-head excitation
+(Mausehund et al., 2022). At a grip of 50% of biacromial width — narrower than any close grip in practice
+— triceps activity rose from ~12% to ~16% of a maximal contraction, and **the pectoralis major was still
+the most activated muscle measured**, with its upper region above its middle and lower ones
+(Muyor et al., 2023).
+*Role.* **A pectoral exercise with a triceps bias and an upper-region bias — not a triceps exercise.**
+Count it as half a pectoral set (Part VIII §F.1).
 
 ---
 
@@ -11183,8 +11278,9 @@ in untrained men, in a trial whose raw growth figures average more than twice th
 the same population, and in which adding an incline press to a flat press changed nothing**
 (Chaves et al., 2020). **Evidence remains limited and
 inconsistent.**
-*The price, measured.* Six-repetition-maximum load is **18.5–21.5% lower** on an incline than on a flat
-or declined bench (Saeterbakken et al., 2017).
+*The price, measured.* Six-repetition-maximum load was **18.5–21.5% lower** on a **+25°** incline than on
+a flat or a −25° declined bench, in competition bench press athletes (Saeterbakken et al., 2017). That is
+a shallower incline than the 30–45° recommended here, so treat the figure as a lower bound on the cost.
 *Setup.* 30° rather than 45° if you want to keep the lower region working — lower pectoralis activity at
 45° fell below flat, 30° and decline (Lauver et al., 2016) — and never above 60°, where anterior deltoid
 activity is highest and pectoralis major performance falls (Rodríguez-Ridao et al., 2020). Past that
@@ -11273,12 +11369,16 @@ pressing produced similar strength gains (Calatayud et al., 2015).
 bench press intensities of load directly (van den Tillaar, 2019).
 *Failure mode.* Running out of load. Once a set of twenty is easy, the exercise needs external resistance
 or it stops progressing.
-*Hand position.* **It changes less than expected, and what it does change is not the chest.** Triceps
-activity exceeded pectoral activity at every hand width, and diamond push-ups produced the highest
-relative activation of both muscles (Intziegianni et al., 2026); narrow positions gave greater activation
-overall in an independent study (Gottschall et al., 2018). Put the two together and narrowing moves work
-toward the elbow, not the chest — which is what the geometry of Part VIII §B.9 predicts. **If you want
-the chest, do not go narrow.**
+*Hand position.* **It changes less than expected, and the direction of what it does change is not
+settled.** Diamond push-ups produced the highest relative activation of **both** the pectoralis major and
+the triceps (Intziegianni et al., 2026), and narrow positions gave greater activation overall in an
+independent study (Gottschall et al., 2018). Neither result supports going wide for the chest. **What the
+barbell literature adds is that a narrow grip biases the pectoralis major *upward* rather than removing
+it** (Mausehund et al., 2022), which is derived in Part VIII §B.9. **Interpretive caution:** Intziegianni's comparison of
+triceps against pectoralis major is between two different muscles under two different electrodes, which
+is the comparison this Part refuses to make elsewhere (Part VIII §D.4, dip) — read it within each muscle,
+not across them. **Practical reading:** vary hand width for joint comfort and for which region you want
+emphasised, not in the belief that one width switches the chest on.
 
 #### Dip (parallel bars, chest-biased)
 **Profile:** stretch-loaded, and mechanically the deepest shoulder extension in Part VIII §D — because
@@ -11291,7 +11391,8 @@ bench version demanded the greatest shoulder extension range (McKenzie et al., 2
 caution:** those amplitudes are raw millivolts rather than a percentage of a maximal contraction, so they
 compare conditions within that study and nothing outside it.
 *Role.* A strong pectoral exercise for people whose shoulders tolerate the bottom, and a poor one for
-everybody else. **The bottom of a dip is the deepest, least controllable version of the position in
+everybody else. Part V §D.4 dismisses it as *deltoid* work for the same reason it is good pectoral work:
+the bottom position is a stretched position for the anterior deltoid rather than a loaded action. **The bottom of a dip is the deepest, least controllable version of the position in
 Part VIII §A.9.**
 *Failure mode.* Descending until the shoulder stops the movement rather than the muscle.
 
@@ -11310,7 +11411,7 @@ elbow-extension column, and prefer almost any other triceps exercise.
 | Close-grip bench press | It is a bench press | **A triceps exercise.** At one biacromial width the bar exerts essentially no adduction torque at the shoulder (Part VIII §B.9) |
 | Floor press | It is a press with a bench press's name | **Range-limited by design.** The floor stops the upper arm before it reaches the plane of the torso, removing the lengthened position entirely (Part VIII §C.6). A triceps and lockout exercise |
 | Bench dip | It is a dip | **A triceps exercise** in the worst available shoulder position (Part VIII §D.4) |
-| [Pullover](#pullover) | It "stretches the chest" | It loads the pectoralis major and the latissimus dorsi together (Part II §D.3) — genuinely a shared exercise, but one where the lat is the larger, better-levered muscle and takes the larger share |
+| [Pullover](#pullover) | It "stretches the chest" | **Genuinely shared, and the pectoral share is the larger one.** EMG of the barbell pullover found it emphasising the pectoralis major over the latissimus dorsi (Marchetti & Uchida, 2011), and Part II §D.3 treats it as an exercise that makes no attempt to separate the two. Count it as half a set in each column |
 | Push-up plank hold | It is a push-up position | An abdominal exercise (Part VI §D.2). The pectoralis major is isometric at a trivial load |
 | "Chest fly" machines set at neck height | It is a fly | The arm path is closer to a reverse-direction front raise; it loads the clavicular fibres and the anterior deltoid, and no trial has tested it |
 | Anything targeting the pectoralis minor | It is called pectoralis | The muscle does not attach to the arm (Part VIII §A.2). It grows from bench pressing as a scapular muscle (Lanza et al., 2024) and cannot be trained as a chest muscle |
@@ -11322,7 +11423,7 @@ elbow-extension column, and prefer almost any other triceps exercise.
 1. **One horizontal press, always.** It is the only exercise family with direct hypertrophy evidence for this muscle (Lanza et al., 2024), and it carries the load.
 2. **One constant-tension isolation exercise, always.** A cable fly or a pec deck. It is the only category in which the pectoralis major reliably ends the set (Part VIII §C.5), and the pec deck alone grew both regions 17–21% in twelve weeks (Pinto et al., 2025).
 3. **An incline press is optional and cheap.** Add it if you have the sets; it costs about a fifth of your load (Saeterbakken et al., 2017) and has one thin trial behind its regional claim (Chaves et al., 2020). **Do not add it at the expense of rule 1 or rule 2.**
-4. **Do not count a close-grip press, a floor press, an overhead press or a bench dip in this Part's volume** (Part VIII §D.5).
+4. **Count a floor press, an overhead press and a bench dip as zero, and a close-grip press as half** (Part VIII §D.5).
 5. **Match the profiles rather than the angles.** A press is hardest at the bottom, a dumbbell fly has nothing at the top, and a cable crossover is the only thing that loads the finish. Two exercises with *different profiles* cover the range; two presses at different bench angles largely do not (Part VIII §B.11).
 6. **The bottom position is the point of all of it — and it is the position that fails.** Every rule above is subordinate to Part VIII §C.2, errors 1 to 3.
 
@@ -11440,7 +11541,7 @@ control of the descent and a load you could stop — Part VIII §C.2, errors 1 t
 | Your front delts are sore after every chest session and your chest is not | Technique, in this order: scapulae, elbow angle, bar path (Part VIII §C.2) |
 | You want an upper chest | One 30° incline press. Then stop optimizing — Part VIII §A.5 is the honest state of the question |
 | Your shoulder hurts at the bottom of a press | Narrow the grip, retract the scapulae, move to dumbbells, and get it assessed (Part VIII §E.4) |
-| Your bench press stalls 20–40 cm off the chest | That is the sticking region and it is a shoulder-capacity problem. Train it (Part VIII §B.8) |
+| Your bench press stalls in the first third of the ascent | That is the sticking region and it is a shoulder-capacity problem. Train it (Part VIII §B.8) |
 | Your bench press stalls at lockout | Triceps. Different problem, different fix (Part VIII §C.5) |
 | You only have a floor | Deficit push-ups on dumbbells or parallettes. A flat floor press removes the whole stimulus (Part VIII §D.5) |
 | You have 20 minutes a week for chest | One set of a pec deck or press to failure, per session, twice. One set matched three in the only trial that compared them (Pinto et al., 2025) |
@@ -11481,7 +11582,7 @@ robust claim, and it is the reason the beginner row above is as low as it is.
 **Three counting rules specific to this muscle:**
 
 - **A press set counts toward the pectoralis major, the anterior deltoid and the triceps at once** (Part V §F.1). Count it once in each Part's column and set the **total** upper-body pressing volume against your recovery, not the sum of the columns.
-- **A close-grip press, floor press or bench dip counts as zero** (Part VIII §D.5).
+- **A close-grip press counts as half a pectoral set; a floor press, an overhead press and a bench dip count as zero.** The close grip halves the shoulder's moment arm and raises the clavicular head's share rather than removing the muscle (Part VIII §D.1); the other three remove the lengthened position altogether (Part VIII §D.5).
 - **A press set counts as one only if the chest ended it.** If the front of the shoulder did, the set trained the anterior deltoid, and the fix is technique before it is volume (Part VIII §C.2).
 
 **For scale, what the trials this Part rests on actually used.** Ten weeks at three sessions a week,
@@ -11538,6 +11639,14 @@ variations tested** (effect sizes 0.52–1.96), with the gains shrinking as the 
 (Martínez-Cava et al., 2022). **Interpretive caution:** those outcomes were one-repetition maximum and
 bar velocity — **strength, not size**. No equivalent range-of-motion trial has measured pectoral
 hypertrophy.
+
+**And the acute evidence points the other way, which is worth knowing before you treat the rule as
+settled.** Nineteen men performed a ten-repetition maximum bench press at full, upper-half and lower-half
+range: **both partial ranges produced greater mean excitation of the pectoralis major and the anterior
+deltoid than the full range did** (Fischer et al., 2025). Excitation is not growth (Part VIII §B.11), and
+a partial range moves more load, which is most of the explanation. But it means the case for full range
+here rests on a strength-transfer trial and on this document's general position on the lengthened
+position (Part I §3) — **not** on the pectoralis major working harder through it.
 
 ---
 
@@ -11677,7 +11786,7 @@ TEMPLATE F - MINIMUM EFFECTIVE DOSE, 2 SETS/WEEK
 3. **The bottom of the range is the stimulus.** This muscle's fibres tie for the longest measured in the upper limb (Ruggiero et al., 2016) and full-range training beat every partial variation tested for strength transfer (Martínez-Cava et al., 2022).
 4. **It is also the position that fails**, so the load must be one you could stop at any point of the descent. Forty-eight per cent of published pectoralis major tears occurred during weight training (ElMaraghy & Devereaux, 2012).
 5. **Set the scapulae and keep them set.** Retraction lowered glenohumeral compression, posterior shear and every rotator cuff muscle's activity, at a cost of a few per cent of pectoral activation and no loss of one-repetition maximum (Noteboom et al., 2024).
-6. **Press out against the bar as well as up.** It shortens the barbell's moment arm at the shoulder and lowers joint reaction forces, and the lifters who do the opposite are the least experienced ones (Tanimoto et al., 2023). The derivation is Part VIII §B.9.
+6. **Press out against the bar as well as up.** It shortens the barbell's moment arm at the shoulder and lowers modelled joint reaction forces (Noteboom et al., 2024). **It modifies the geometry rather than erasing it** — grip width still changes the measured shoulder moment by about a factor of two after the sideways forces are counted (Larsen et al., 2020). The derivation is Part VIII §B.9.
 7. **Grip between 1.3 and 1.6 biacromial widths.** Narrower removes the shoulder's adduction torque entirely and makes it a triceps exercise; wider raises acromioclavicular compression and glenohumeral shear without raising measured pectoral activation (Noteboom et al., 2024).
 8. **An incline press is a reasonable option and a poor foundation.** It costs about a fifth of your load (Saeterbakken et al., 2017), and its regional claim rests on one of three sites in one trial of untrained men training once a week — a trial in which every arm reported growth averaging more than twice that of a longer trial in the same population, and in which adding an incline press to a flat press changed nothing (Chaves et al., 2020).
 9. **Push-ups are not a lesser exercise, only a lighter one.** Load-matched, they matched bench pressing for thickness and strength over eight weeks (Kikuchi & Nakazato, 2017) and showed no difference in kinematics or muscle activation at matched loads (van den Tillaar, 2019).
@@ -13177,13 +13286,13 @@ Exercises are classified by where that function peaks: **stretch-loaded** (peak 
 
 *Exercises & Technique*
 
-**Bench inclination** — How far the bench is tilted up from flat when you press on it. Formally: the angle of the bench's backrest above horizontal (°), where 0° is flat, positive values are an incline and negative values a decline; it sets how much [shoulder flexion](#shoulderflexion) is combined with the [horizontal adduction](#shoulderhorizontaladduction) in a press, and therefore how much of the work falls to the upper fibres of the chest and to the [anterior deltoid](#anteriordeltoid). **It is not the same quantity as [humeral elevation](#humeralelevation) and does not equal it**: the arm's angle to the torso depends on where the bar is, not only on where the bench is. Anterior deltoid activity peaks at 60° and rises significantly above 45° (Rodríguez-Ridao et al., 2020), and six-repetition-maximum load falls 18.5–21.5% on an incline against a flat or a declined bench (Saeterbakken et al., 2017).
+**Bench inclination** — How far the bench is tilted up from flat when you press on it. Formally: the angle of the bench's backrest above horizontal (°), where 0° is flat, positive values are an incline and negative values a decline; it sets how much [shoulder flexion](#shoulderflexion) is combined with the [horizontal adduction](#shoulderhorizontaladduction) in a press, and therefore how much of the work falls to the upper fibres of the chest and to the [anterior deltoid](#anteriordeltoid). **It is not the same quantity as [humeral elevation](#humeralelevation) and does not equal it**: the arm's angle to the torso depends on where the bar is, not only on where the bench is. In the same thirty trained adults, the pectoralis major's three portions peaked at different inclinations — **upper at 30°, middle and lower at 0°** — while anterior deltoid activity peaked at 60° and rose significantly above 45° (Rodríguez-Ridao et al., 2020). Six-repetition-maximum load falls 18.5–21.5% on a +25° incline against a flat or a −25° declined bench (Saeterbakken et al., 2017). **The acute regional effect is well-supported; the claim that it produces regional growth is not — Part VIII §A.5.**
 
 ## stickingregion
 
 *Biomechanics & Mechanics*
 
-**Sticking region** — The point part-way up a heavy press where the bar slows or stops even though you are still pushing as hard as you can. Formally: the interval of a lift containing a local minimum in barbell velocity, arising where the [torque](#torque) a joint can produce falls below the torque the load demands at that position. In the bench press it appears when shoulder torque drops below a critical threshold; adding elbow torque both shallows the dip and moves the velocity minimum from about 38 cm to about 23 cm above the chest, while lengthening the time spent passing through it (Evangelista et al., 2025). It matters because **where** a lift fails is diagnostic: a stall in the sticking region is a shoulder problem, and a stall at lockout is an elbow one.
+**Sticking region** — The point part-way up a heavy press where the bar slows or stops even though you are still pushing as hard as you can. Formally: the interval of a lift containing a local minimum in barbell velocity, arising where the [torque](#torque) a joint can produce falls below the torque the load demands at that position. In the bench press it appears when shoulder torque drops below a critical threshold; in the model, a shoulder-only actuation put the velocity minimum about 38 cm above the chest and adding elbow torque moved it to about 23 cm while shallowing it and lengthening the time spent passing through it (Evangelista et al., 2025) — both simulation outputs, and the first is a model with the elbow switched off rather than a bench press. It matters because **where** a lift fails is diagnostic: a stall in the sticking region is a shoulder problem, and a stall at lockout is an elbow one.
 
 ## pronatedgrip
 
@@ -13523,7 +13632,7 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 *Exercises & Technique*
 
-**Chest fly (dumbbell fly, cable fly or crossover, pec deck)** — Opening the arms wide and bringing them back together in front of you with the elbows held at a fixed angle. Formally: a single-joint [horizontal adduction](#shoulderhorizontaladduction) exercise performed with the elbow set at a constant slight flexion, so that the shoulder is the only joint that moves and the [triceps brachii](#tricepsbrachii) contributes nothing. Its [resistance profile](#resistanceprofile) depends entirely on the implement: a **dumbbell** version is loaded only near the bottom, because the resistance arm is the horizontal distance from shoulder to hand and shrinks to nothing as the hands meet, while a **cable or machine** version is roughly constant through the range and is the only chest exercise that still loads the shortened position. Twelve weeks of the machine version alone raised clavicular [muscle thickness](#musclethickness) 17–18% and sternocostal thickness 21% in untrained men (Pinto et al., 2025).
+**Chest fly (dumbbell fly, cable fly or crossover, pec deck)** — Opening the arms wide and bringing them back together in front of you with the elbows held at a fixed angle. Formally: a single-joint [horizontal adduction](#shoulderhorizontaladduction) exercise performed with the elbow set at a constant slight flexion, so that the shoulder is the only joint that moves and the [triceps brachii](#tricepsbrachii) contributes nothing. Its [resistance profile](#resistanceprofile) depends entirely on the implement: a **dumbbell** version's torque follows the cosine of the arm's angle above horizontal, so it is maximal with the arms level, still about 71% of that at 45°, and zero only with the hands directly overhead; a **cable** version is *ascending*, because the line of pull is fixed in space while the arm rotates through it, which makes it the only chest exercise that loads the shortened position at all. Twelve weeks of the machine version alone raised clavicular [muscle thickness](#musclethickness) 17–18% and sternocostal thickness 21% in untrained men (Pinto et al., 2025).
 
 ## pushup
 
@@ -13715,12 +13824,12 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Part X — Bibliography**
 
-Every source cited in this document: **270 papers**, each with a DOI you can paste into a search box
+Every source cited in this document: **276 papers**, each with a DOI you can paste into a search box
 or a library request form — with three exceptions, noted at their entries, for which no DOI was ever
 issued and a PubMed or PubMed Central identifier is given instead. Alphabetical by first author, so an in-text citation like
 *(Gerling & Brown, 2013)* is found by scanning for **Gerling**.
 
-**129 are open access** — free to read now. **141 are paywalled**; any university or public library can
+**132 are open access** — free to read now. **144 are paywalled**; any university or public library can
 obtain those through interlibrary loan at no cost, usually in a few days, and authors may legally
 share their own accepted manuscripts if you email them. Every DOI below was verified against
 Crossref, and open-access status against Unpaywall, at the time of writing.
@@ -13732,7 +13841,7 @@ discussion, the text says so at the claim itself — that context matters more t
 marks claims that could not be traced to a source we could read; they are flagged rather than quietly
 dropped. **Twenty-two of these papers measured the latissimus dorsi directly, twenty-eight measured the
 quadriceps femoris directly, thirty-eight measured a gluteal muscle directly, twenty-one measured a
-deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, twenty-nine measured a hamstring directly, and twenty-eight measured a pectoral muscle directly**; the rest supply general training principles or the mechanical
+deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, twenty-nine measured a hamstring directly, and thirty-one measured a pectoral muscle directly**; the rest supply general training principles or the mechanical
 framework. Where a paper's own research group has been
 the subject of a published data-integrity analysis, its entry says so. Where two or more papers by the same first author share a year, the bibliography entry
 records the `a`/`b`/`c` suffix used in the text.
@@ -13921,6 +14030,8 @@ Garner BA, Pandy MG. Estimation of Musculotendon Properties in the Human Upper L
 
 Gerling ME, Brown SHM. Architectural analysis and predicted functional capability of the human latissimus dorsi muscle. Journal of Anatomy. 2013;223(2):112-122. doi:10.1111/joa.12074 · **open access**
 
+Gomo O, van den Tillaar R. The effects of grip width on sticking region in bench press. Journal of Sports Sciences. 2016;34(3):232-238. doi:10.1080/02640414.2015.1046395 · *paywalled*
+
 Gottschall JS, Hastings B, Becker Z. Muscle Activity Patterns do not Differ Between Push-Up and Bench Press Exercises. Journal of Applied Biomechanics. 2018;34(6):442-447. doi:10.1123/jab.2017-0063 · *paywalled*
 
 Graichen H, Hinterwimmer S, von Eisenhart-Rothe R, Vogl T, Englmeier KH, Eckstein F. Effect of abducting and adducting muscle activity on glenohumeral translation, scapular kinematics and subacromial space width in vivo. Journal of Biomechanics. 2005;38(4):755-760. doi:10.1016/j.jbiomech.2004.05.020 · *paywalled*
@@ -14017,6 +14128,8 @@ Langenderfer J, Jerabek SA, Thangamani VB, Kuhn JE, Hughes RE. Musculoskeletal p
 
 Lanza MB, Prado GC, Lacerda LT, Dinardi RR, Carvalho Junior LH, Diniz RC, et al. Muscle hypertrophy response across four muscles involved in the bench press exercise: Randomized 10 weeks training intervention. Journal of Bodywork and Movement Therapies. 2024;40:1417-1422. doi:10.1016/j.jbmt.2024.07.054 · *paywalled*
 
+Larsen S, Gomo O, van den Tillaar R. A Biomechanical Analysis of Wide, Medium, and Narrow Grip Width Effects on Kinematics, Horizontal Kinetics, and Muscle Activity on the Sticking Region in Recreationally Trained Males. Frontiers in Sports and Active Living. 2020;2:637066. doi:10.3389/fspor.2020.637066 · **open access**
+
 Larsen S, Sandvik Kristiansen B, Swinton PA, Wolf M, Bao Fredriksen A, Nygaard Falch H, et al. The effects of hip flexion angle on quadriceps femoris muscle hypertrophy in the leg extension exercise [cited as Larsen et al., 2025a]. Journal of Sports Sciences. 2025;43(2):210-221. doi:10.1080/02640414.2024.2444713 · **open access**
 
 Larsen S, Wolf M, Schoenfeld BJ, Sandberg NØ, Fredriksen AB, Kristiansen BS, et al. Dumbbell versus cable lateral raises for lateral deltoid hypertrophy: an experimental study [cited as Larsen et al., 2025c]. Frontiers in Physiology. 2025;16:1611468. doi:10.3389/fphys.2025.1611468 · **open access**
@@ -14064,6 +14177,8 @@ Martín-Fuentes I, Oliva-Lozano JM, Muyor JM. Electromyographic activity in dead
 Martín-San Agustín R, Castillo-Ballesta L, Esbri-Navarro R, Garvín JH. Comparison of Architectural and Performance Adaptations of Hip Extension Exercise Under Gravitational or Inertial Loading Conditions: A Randomized Controlled Trial. European Journal of Sport Science. 2025;25(10):e70048. doi:10.1002/ejsc.70048 · **open access**
 
 Martínez-Cava A, Hernández-Belmonte A, Courel-Ibáñez J, Morán-Navarro R, González-Badillo JJ, Pallarés JG. Bench Press at Full Range of Motion Produces Greater Neuromuscular Adaptations Than Partial Executions After Prolonged Resistance Training. Journal of Strength and Conditioning Research. 2022;36(1):10-15. doi:10.1519/JSC.0000000000003391 · *paywalled*
+
+Mausehund L, Werkhausen A, Bartsch J, Krosshaug T. Understanding Bench Press Biomechanics-The Necessity of Measuring Lateral Barbell Forces. Journal of Strength and Conditioning Research. 2022;36(10):2685-2695. doi:10.1519/JSC.0000000000003948 · *paywalled*
 
 McCurdy K, Walker J, Yuen D. Gluteus Maximus and Hamstring Activation During Selected Weight-Bearing Resistance Exercises. Journal of Strength and Conditioning Research. 2018;32(3):594-601. doi:10.1519/JSC.0000000000001893 · *paywalled*
 
@@ -14177,7 +14292,11 @@ Ruggiero M, Cless D, Infantolino B. Upper and Lower Limb Muscle Architecture of 
 
 Saeterbakken AH, Mo DA, Scott S, Andersen V. The Effects of Bench Press Variations in Competitive Athletes on Muscle Activity and Performance. Journal of Human Kinetics. 2017;57(1):61-71. doi:10.1515/hukin-2017-0047 · **open access**
 
+Saeterbakken AH, Stien N, Pedersen H, Solstad TEJ, Cumming KT, Andersen V. The Effect of Grip Width on Muscle Strength and Electromyographic Activity in Bench Press among Novice- and Resistance-Trained Men. International Journal of Environmental Research and Public Health. 2021;18(12):6444. doi:10.3390/ijerph18126444 · **open access**
+
 Saeterbakken AH, van den Tillaar R, Fimland MS. A comparison of muscle activity and 1-RM strength of three chest-press exercises with different stability requirements. Journal of Sports Sciences. 2011;29(5):533-538. doi:10.1080/02640414.2010.543916 · *paywalled*
+
+Sahu D, Joshi M, Rathod V, Nathani P, Valavi AS, Jagiasi JD. Geometric analysis of the humeral head and glenoid in the Indian population and its clinical significance. JSES International. 2020;4(4):992-1001. doi:10.1016/j.jseint.2020.06.008 · **open access**
 
 Sakoma Y, Sano H, Shinozaki N, Itoigawa Y, Yamamoto N, Ozaki T, et al. Anatomical and functional segments of the deltoid muscle. Journal of Anatomy. 2011;218(2):185-190. doi:10.1111/j.1469-7580.2010.01325.x · **open access**
 
@@ -14248,6 +14367,8 @@ Vigotsky AD, Nuckols GL, Fisher JP, Heathers J, Krieger J, Schoenfeld BJ, et al.
 Vispute SS, Smith JD, LeCheminant JD, Hurley KS. The Effect of Abdominal Exercise on Abdominal Fat. Journal of Strength and Conditioning Research. 2011;25(9):2559-2564. doi:10.1519/JSC.0b013e3181fb4a46 · *paywalled*
 
 Wackerhage H, Schoenfeld BJ, Hamilton DL, Lehti M, Hulmi JJ. Stimuli and sensors that initiate skeletal muscle hypertrophy following resistance exercise. Journal of Applied Physiology. 2019;126(1):30-43. doi:10.1152/japplphysiol.00685.2018 · **open access**
+
+Wakahara T, Fukutani A, Kawakami Y, Yanai T. Nonuniform Muscle Hypertrophy: Its Relation to Muscle Activation in Training Session. Medicine and Science in Sports and Exercise. 2013;45(11):2158-2165. doi:10.1249/MSS.0b013e3182995349 · *paywalled*
 
 Wakahara T, Shiraogawa A. Effects of neuromuscular electrical stimulation training on muscle size in collegiate track and field athletes. PLOS ONE. 2019;14(11):e0224881. doi:10.1371/journal.pone.0224881 · **open access**
 
