@@ -4,7 +4,7 @@
 > leverage rather than from tradition. Each muscle gets its own Part: anatomy → biomechanics →
 > the rep → exercise catalogue → contexts → programming. **This volume covers the latissimus
 > dorsi, the quadriceps femoris, the gluteal muscles, the deltoids, the core, the
-> hamstrings and the pectoral muscles.** Further muscles are added as
+> hamstrings, the pectoral muscles, the triceps brachii and the erector spinae.** Further muscles are added as
 > new Parts; the glossary and bibliography are always the final two Parts and are shared across all
 > of them.
 >
@@ -72,8 +72,24 @@
    - **§E** [Context modifiers — when "perfect" changes](#partviiiecontextmodifiers)
    - **§F** [Programming](#partviiifprogramming)
    - **§G** [Synthesis, and what the evidence does not support](#partviiigsynthesis)
-9. **[Part IX — Master Glossary](#partixmasterglossary)** (278 entries, in dependency order, with an alphabetical index at its head)
-10. **[Part X — Bibliography](#partxbibliography)** (276 sources, 132 open access)
+9. **[Part IX — Triceps Brachii](#partixtricepsbrachii)**
+   - **§A** [Anatomy and architecture](#partixaanatomyandarchitecture)
+   - **§B** [Biomechanics — what actually loads the triceps](#partixbbiomechanics)
+   - **§C** [The rep, specified](#partixctherepspecified)
+   - **§D** [Exercise catalogue](#partixdexercisecatalogue)
+   - **§E** [Context modifiers — when "perfect" changes](#partixecontextmodifiers)
+   - **§F** [Programming](#partixfprogramming)
+   - **§G** [Synthesis, and what the evidence does not support](#partixgsynthesis)
+10. **[Part X — Erector Spinae](#partxerectorspinae)**
+   - **§A** [Anatomy and architecture](#partxaanatomyandarchitecture)
+   - **§B** [Biomechanics — what actually loads the erector spinae](#partxbbiomechanics)
+   - **§C** [The rep, specified](#partxctherepspecified)
+   - **§D** [Exercise catalogue](#partxdexercisecatalogue)
+   - **§E** [Context modifiers — when "perfect" changes](#partxecontextmodifiers)
+   - **§F** [Programming](#partxfprogramming)
+   - **§G** [Synthesis, and what the evidence does not support](#partxgsynthesis)
+11. **[Part XI — Master Glossary](#partximasterglossary)** (305 entries, in dependency order, with an alphabetical index at its head)
+12. **[Part XII — Bibliography](#partxiibibliography)** (480 sources, 226 open access)
 
 **How to read this.** The first occurrence of a technical term in each Part links to its glossary
 entry. Cross-references are written `Part II §B.4`.
@@ -99,8 +115,8 @@ and no punctuation of any kind** — `forcelengthrelationship`, `momentarm`, `pa
 That character set is the fixed point of all four algorithms: each maps it to itself, so one link form
 works everywhere without HTML anchors or renderer-specific syntax. The cost is that the heading itself
 is not meant to be read; **the human-readable name is the bold lead-in immediately below it**, and the
-alphabetical index at the head of Part IX is the place to look a term up. Structural anchors carry
-their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to VIII share
+alphabetical index at the head of Part XI is the place to look a term up. Structural anchors carry
+their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to X share
 section titles and would otherwise collide. Links are same-file only: no HTML anchors, no relative file links, no external
 links.
 
@@ -568,7 +584,7 @@ both a low moment arm and reduced active capacity, which means a modest external
 recruits a large fraction of what the muscle can do. **That is why "you are weak overhead" and "load
 the stretch" are not in conflict — they are the same fact stated twice.** The direct evidence is strongest
 outside the lat: 12 weeks of elbow extension in the overhead versus neutral arm position produced
-**19.9% versus 13.5%** triceps growth despite *lower* absolute loads overhead (Maeo et al., 2023),
+**19.9% versus 13.9%** triceps growth despite *lower* absolute loads overhead (Maeo et al., 2023),
 and across sixteen ROM trials full ROM beat partial ROM for strength (ES = 0.56) and for
 **lower-limb** hypertrophy (ES = 0.88), while the pooled analysis of muscle thickness, pennation angle
 and fascicle length found no difference (ES = 0.28, p = 0.226) (Pallarés et al., 2021). **Moderate
@@ -1662,7 +1678,7 @@ the base and the sport-specific work is added, not substituted.
 | **Fatigued, poor sleep, or high life stress** | Hold load, cut a set, and protect the top of the range. **The reach is the first thing that degrades** — a shortened rep is the reliable early sign of accumulated fatigue |
 | **[Deload](#deload) week** | Cut sets ~40–60%, hold the load near normal, keep the range full. Never deload by shortening ROM |
 | **High training frequency (3–4×/week)** | Rotate the emphasis: vertical, horizontal, stretch on separate days. Keep per-session volume low |
-| **Low frequency (1×/week)** | All three slots in one session, in that order, at the top of the per-session volume range. At equated weekly volume, frequency does not change hypertrophy (Schoenfeld et al., 2019); what once-weekly actually costs you is the volume you can do *well* in one session — and for this muscle that is the reach |
+| **Low frequency (1×/week)** | All three slots in one session, in that order, at the top of the per-session volume range. At equated weekly volume, frequency does not change hypertrophy (Schoenfeld et al., 2019c); what once-weekly actually costs you is the volume you can do *well* in one session — and for this muscle that is the reach |
 | **Returning after a layoff** | Range comes back before load — rebuild the full reach at light weight for two weeks before progressing. Do not count on the size returning free: after 20 weeks off, thickness and cross-sectional area had returned to baseline while ~60% of the strength gain was retained, and retraining was **no faster** than training a naive limb (Psilander et al., 2019). **Moderate evidence.** Plan on rebuilding the muscle, not recalling it |
 
 ---
@@ -1726,7 +1742,7 @@ evidence is too thin to say anything. Your individual recovery ceiling is the pr
 ### F.2 Frequency
 
 **2×/week is the default.** [Frequency](#trainingfrequency) mostly distributes volume rather than adding an independent
-stimulus (Schoenfeld et al., 2019), but splitting 12–16 sets across two sessions keeps per-session
+stimulus (Schoenfeld et al., 2019c), but splitting 12–16 sets across two sessions keeps per-session
 quality high — and for this muscle, session quality *is* range quality, which degrades with fatigue
 (Part II §E.6).
 
@@ -1857,7 +1873,7 @@ THREE-TIMES-WEEKLY — HIGH VOLUME, ROTATING EMPHASIS
 large. Row three has one lat-specific anchor — eight weeks of pulldown-and-row training produced
 **+22% latissimus fibre cross-sectional area** on biopsy in 18 novice men (Paoli et al., 2016) — but
 no study has tracked lat *thickness* by ultrasound over these timelines, and the method is a poor index
-of individual change in any case (Part IX, muscle thickness). Rows four and five
+of individual change in any case (Part XI, muscle thickness). Rows four and five
 are coaching convention, not measured outcomes.
 
 **Validity caveat:** thickness measured in the first weeks of a new program is inflated by
@@ -1907,7 +1923,7 @@ but slow (Murphy & Koehler, 2022).
 - **That grip is the limiter in the pulldown.** Straps changed neither reps, nor total reps, nor lat EMG, nor 1RM (Valério et al., 2021). **Moderate evidence** against the common claim — one study, one exercise.
 - **That the lat is an endurance-typed muscle needing high reps.** Two things are wrong with it. The premise is false — the lat is fast-dominant, MyHC 1 at only 33% (Paoli et al., 2013). And the inference would fail even if the premise held: load does not determine hypertrophy when sets are taken to failure, in the upper limb or the lower (Lees et al., 2025), and no one has shown that fibre composition predicts which rep range grows a muscle fastest. **Not supported.**
 - **That "mind–muscle connection" isolates the lat.** Instruction raised lat EMG 17.6% but did **not** reduce biceps activity (Snyder & Leech, 2009). It adds activation; it does not isolate. **Promising but under-replicated** — the lat-specific datum is eight untrained women performing two sets of three reps at a single light load.
-- **That long-length training is proven superior for the lat specifically.** The mechanism is sound and the evidence is strong in the triceps (Maeo et al., 2023) and consistent in the hamstrings, but no trial has measured lat hypertrophy under differing muscle lengths — and the meta-analyses now disagree with each other, one finding long > short (Strey et al., 2026) and one finding the contrast trivial at every site (Varovic et al., 2025). **Evidence remains limited and inconsistent.**
+- **That long-length training is proven superior for the lat specifically.** The mechanism is plausible but untested; the growth result is **Moderate evidence** in the triceps — one twelve-week MRI trial (Maeo et al., 2023) — and consistent in the hamstrings, but no trial has measured lat hypertrophy under differing muscle lengths — and the meta-analyses now disagree with each other, one finding long > short (Strey et al., 2026) and one finding the contrast trivial at every site (Varovic et al., 2025a). **Evidence remains limited and inconsistent.**
 - **That any of this produces regional lat growth you can see.** Regional *activation* differences are measurable (Muñoz-Garcés et al., 2026); regional *hypertrophy* in this muscle has never been measured. **Promising but under-replicated.**
 
 ---
@@ -2275,7 +2291,7 @@ measurements say so consistently:
 | Ten weeks of squatting: knee extensor volume rose ~5%, rectus femoris volume **did not change at all** — at 140° of knee flexion or at 90° | Kubo et al., 2019 | Replicated with MRI muscle volume; more depth did not rescue the head |
 | Open-chain knee extension produced more rectus femoris activity; closed-chain squat and leg press produced more vasti activity | Escamilla et al., 1998 | The original observation, from muscle modelling plus EMG |
 | Smith-machine squats grew only the central vastus lateralis; leg extensions grew **all three** rectus femoris regions | Zabaleta-Korta et al., 2021 | Direct randomized comparison, volume- and load-matched |
-| Leg extension beat the squat at **all three** rectus femoris sites (+11.4/+12.3/+17.5% vs +2.0/+5.7/+7.9%); the squat beat the leg extension at the **distal vastus lateralis** (+18.2% vs +11.2%) | Kassiano et al., 2026 | 63 women, 8 weeks, between-group contrasts — the effect runs both ways |
+| Leg extension beat the squat at **all three** rectus femoris sites (+11.4/+12.3/+17.5% vs +2.0/+5.7/+7.9%); the squat beat the leg extension at the **distal vastus lateralis** (+18.2% vs +11.2%) | Kassiano et al., 2026a | 63 women, 8 weeks, between-group contrasts — the effect runs both ways |
 | Twelve weeks of knee extension: rectus femoris grew **more** than the vasti | Ema et al., 2013 | The converse holds — the single-joint exercise favours the head the squat misses |
 
 Seven studies, six laboratories, three measurement methods — EMG, ultrasound and MRI — converging on
@@ -2288,7 +2304,7 @@ This is the sentence in Part III that changes the most programs. **Note what it 
 claim that squats are a poor quadriceps exercise — they are an excellent one for the ~84% of the
 group's cross-section that the vasti supply. It is not a claim that the rectus femoris is untouched:
 squatting grew it 2.0–7.9% across three sites in eight weeks, against 11.4–17.5% for the leg extension
-in the same trial (Kassiano et al., 2026). It is a claim about how much of the head a squat leaves on
+in the same trial (Kassiano et al., 2026a). It is a claim about how much of the head a squat leaves on
 the table, and the head in question is the visible one that runs down the middle of the thigh.
 
 **The dissent, stated.** One study does not fit. Seven weeks of parallel back squats in 18 untrained
@@ -2898,7 +2914,7 @@ moving — the hip thrust and the deadlift in this table.
 2. **Pick one knee-extension exercise with the hip open.** Reclined leg extension is the practical default; sissy squat or reverse Nordic if you have no machine.
 3. **Add a second squat-pattern exercise only if there is volume left after those two.** A split-stance or unilateral movement is the usual choice.
 4. **Do not add a third squat-pattern exercise instead of the knee extension.** The evidence in Part III §B.4 says a third squat variant adds nothing the first two did not already cover, and the knee extension covers something neither of them does.
-5. **And do not replace the squat pattern with the knee extension either.** In the largest direct comparison, the squat beat the leg extension at the distal vastus lateralis by a margin comparable to the one by which the leg extension beat the squat at the rectus femoris (Kassiano et al., 2026). The two are complements, not competitors, and dropping either costs a specific, measured region.
+5. **And do not replace the squat pattern with the knee extension either.** In the largest direct comparison, the squat beat the leg extension at the distal vastus lateralis by a margin comparable to the one by which the leg extension beat the squat at the rectus femoris (Kassiano et al., 2026a). The two are complements, not competitors, and dropping either costs a specific, measured region.
 6. **Choose within a category by what limits the set,** not by what activates most. If your lower back caps the set, the supported version is the better exercise for you even if the free-weight version is "better" in the abstract.
 
 ---
@@ -3538,7 +3554,7 @@ repetitions.
 | [Quadriceps femoris](#quadricepsfemoris) | Knee extensors sharing every squat-pattern exercise | The more the knee bends, the larger their share of the total demand — the mirror of the row above |
 | [Gluteus medius](#gluteusmedius) and [gluteus minimus](#gluteusminimus) | Abductors and pelvic stabilizers, not hip extensors | Every unilateral exercise loads them whether you intend it or not; no bilateral exercise loads them much |
 | [Tensor fasciae latae](#tensorfascialatae) | Shares the iliotibial tract and the superior gluteal nerve | Its tension and the upper gluteus maximus's tension oppose each other across the same band (Part IV §E.4) |
-| [Erector spinae](#erectorspinae) | Continuous with the gluteus maximus through the thoracolumbar fascia | In every hinge-pattern exercise it is the joint that ends the set, not the hip (Part IV §C.5) |
+| [Erector spinae](#erectorspinae) | Continuous with the gluteus maximus through the thoracolumbar fascia | In every hinge-pattern exercise it holds the spine against the hip's torque; whether it or the hip gives out first has not been measured (Part X §C.5) |
 
 Only the bridge-pattern exercises in Part IV §D.3 and the abduction exercises in Part IV §D.4 remove
 the quadriceps from the picture; **nothing removes the hamstrings and the adductor magnus**, because
@@ -4261,7 +4277,7 @@ reasons instead:
 The thing that ends it first is its
 **[limiting link](#limitinglink)**, and for this muscle group the common ones are:
 
-- **The lower back.** In every hinge-pattern exercise the [erector spinae](#erectorspinae) work isometrically against the same torso inclination that generates the hip torque, and they fatigue first. This is the single strongest argument for keeping some gluteal volume on bridge-pattern and machine exercises.
+- **The lower back.** In every hinge-pattern exercise the [erector spinae](#erectorspinae) hold the spine against the same torso inclination that generates the hip torque, and at the heaviest loads the back's shape gives way — thoracic rounding rose at a three-repetition maximum (Gundersen et al., 2025) — though no study has measured whether the back or the hip fails first. This is the single strongest argument for keeping some gluteal volume on bridge-pattern and machine exercises.
 - **Bar discomfort on the hips.** The barbell hip thrust is often terminated by the bar, not the muscle. A thick pad or a dedicated machine removes the limit entirely and changes nothing mechanically.
 - **Breathing.** As in Part III §C.5, above roughly 10 repetitions per set on a free squat the breath ends the set.
 - **Balance and the rear leg in split-stance work.** The same limit as Part III §C.5, and the same fix.
@@ -4430,7 +4446,7 @@ back until the hamstrings stop the descent with the spine unchanged.
 statistically different from the barbell hip thrust, while vastus lateralis activity was far lower than
 in a squat (Delgado et al., 2019). Eight men, acute EMG.
 *Failure mode.* The knee angle drifting open across the set, which converts it into a stiff-leg deadlift
-mid-set; and the lower back, which usually ends the set before the hip does.
+mid-set; and the lower back rounding further on each repetition (Part X §C.1).
 
 #### Stiff-leg deadlift, from a deficit
 *Profile.* As above, with more hip flexion available.
@@ -4899,7 +4915,7 @@ band:
 | Deep hip-flexion, free weight | 6–12 | Depth and the trunk set the load |
 | Deep hip-flexion, machine or sled | 8–20 | No trunk limit; take it closer to failure |
 | Bridge pattern | 8–20 | Progress the load, not the reps |
-| Hinge | 6–12 | Above this the lower back, not the hip, ends the set |
+| Hinge | 6–12 | Above this, holding the back's shape becomes the limit — this document's judgement (Part X §C.1) |
 | Abduction | 10–20 | Load it; a burn is not the target |
 
 **[Tempo](#tempo) is a range control here, not a stimulus variable.** A 2–3 s descent exists to make the
@@ -5390,7 +5406,7 @@ Part III §A.7 and Part IV §A.7. The fact is here because it is asked about.
 |---|---|---|
 | [Supraspinatus](#supraspinatus) and the rest of the [rotator cuff](#rotatorcuff) | Co-contract in every elevation; out-lever the deltoid in early range | They set the load ceiling at the bottom of the range (Part V §A.5) |
 | [Pectoralis major](#pectoralismajor), clavicular head | Shares [shoulder flexion](#shoulderflexion) with the anterior deltoid; peak flexor moment arm 53.7 ± 2.1 mm, larger than any deltoid sub-region's (Ackland et al., 2008) | Every press and every front raise is shared work; the anterior deltoid never has flexion to itself |
-| [Triceps brachii](#tricepsbrachii), long head | Crosses the shoulder as an extensor and the elbow as an extensor | It ends most pressing sets before the deltoid does (Part V §C.5) |
+| [Triceps brachii](#tricepsbrachii), long head | Crosses the shoulder as an extensor and the elbow as an extensor | A common limiter of pressing sets near lockout (Part V §C.5) — though whether an overhead press's lockout stall is the triceps' or the shoulder's is contested (Part IX §C.5) |
 | [Trapezius](#trapezius), upper | Produces [scapular upward rotation](#scapularupwardrotation), without which the arm cannot pass ~120° | It is a prerequisite for the top of a press, and a confounder in a lateral raise taken above 90° |
 | [Latissimus dorsi](#latissimusdorsi) and [teres major](#teresmajor) | The shoulder's principal adductors and extensors | Direct antagonists of the middle and anterior heads; direct **synergists** of the posterior head |
 | [Serratus anterior](#serratusanterior) | Upward rotation and protraction of the scapula | Same role as upper trapezius at the top of a press |
@@ -5895,7 +5911,7 @@ Part III §B.10 and Part IV §B.10.
 | **Torso lean** in a cable raise | Rotates the whole demand curve: leaning away from the stack moves peak demand toward the bottom, leaning toward it moves peak demand up | Mechanical; the only continuous control anyone has over this profile. Untested for hypertrophy |
 | **Grip width** in a press | Wider grips **raise** the shoulder net joint moment and lower the elbow's; narrower grips do the reverse, and allow more load and more shoulder and elbow range | Eleven resistance-trained men, three grip widths, statistical parametric mapping across the whole concentric phase (Gundersen et al., 2026) |
 | **Bench inclination** | Anterior deltoid activity is highest at 60°; above 45° it rises significantly while pectoralis major performance falls | Thirty trained adults at 60% of one-repetition maximum (Rodríguez-Ridao et al., 2020) |
-| **Seat back / bar in front or behind the head** | Behind-the-neck pressing raised middle and posterior deltoid activity over the front version, and the front version raised pectoralis major | Eight competitive bodybuilders, four press variants at matched relative load (Coratella et al., 2022) |
+| **Seat back / bar in front or behind the head** | Behind-the-neck pressing raised middle and posterior deltoid activity over the front version, and the front version raised pectoralis major | Eight competitive bodybuilders, four press variants at matched relative load (Coratella et al., 2022a) |
 
 **On the last row, because it is the one with a safety argument attached.** The measurement is real: in
 that study the behind-the-neck barbell press produced greater middle **and** posterior deltoid activity
@@ -6116,7 +6132,7 @@ reasons instead. The thing that ends it first is the set's **[limiting link](#li
 this muscle the common ones are:
 
 - **The [upper trapezius](#trapezius), in every raise.** The moment a lateral raise passes shoulder height, or the moment the load exceeds what the deltoid can move without help, the shoulder girdle elevates and the trapezius finishes the repetition. This is the single most common way a lateral raise stops being a lateral raise.
-- **The [triceps brachii](#tricepsbrachii), in every press.** The long head crosses both the shoulder and the elbow, and the elbow extension it has to supply near lockout is what usually fails first. It is the reason a wide grip — which lowers the elbow's net joint moment and raises the shoulder's (Gundersen et al., 2026) — is the more deltoid-biased press.
+- **The [triceps brachii](#tricepsbrachii), in every press.** The long head crosses both the shoulder and the elbow, and the elbow extension the triceps supplies near lockout is a common place for a press to fail — although a link-chain model traces the overhead press's late velocity minimum to the shoulder rather than the elbow (Part IX §C.5). It is the reason a wide grip — which lowers the elbow's net joint moment and raises the shoulder's (Gundersen et al., 2026) — is the more deltoid-biased press.
 - **The lower back, in a standing press.** The overhead load is supported by the trunk, and an arched lumbar spine is the last thing to give way. Sitting down removes the limit entirely and changes nothing at the shoulder.
 - **The grip, in dumbbell work.** As in Part II §C.5. Straps are legitimate on a heavy dumbbell press; they are pointless on a raise, which is never grip-limited.
 - **The [rotator cuff](#rotatorcuff), at the very bottom of a heavy raise.** Not fatigue but tolerance: the position where the cuff's share of the work is largest is also the position where the deltoid's pull on the joint is most vertical (Part V §A.5).
@@ -6286,7 +6302,7 @@ prefer at height. Load ceiling lower; range at the bottom slightly greater.
 **Profile:** set by the cam.
 *Role.* Removes the balance, the trunk and the setup, so the set ends at the shoulder. In direct
 comparison the barbell versions produced greater deltoid activity than the machine versions at matched
-relative load (Coratella et al., 2022) — **acute [EMG](#emg), eight bodybuilders, and Part V §B.11
+relative load (Coratella et al., 2022a) — **acute [EMG](#emg), eight bodybuilders, and Part V §B.11
 applies**. The machine's argument is not activation; it is that the set can be taken to
 [momentary failure](#momentaryfailure) safely and progressed in small increments.
 
@@ -6407,7 +6423,7 @@ posterior deltoid work and a narrow, low-elbow row does not.
 |---|---|---|
 | Barbell shrug | It is a shoulder exercise | Pure scapular elevation. The humerus does not move; this trains the [trapezius](#trapezius) |
 | Narrow-grip upright row to the chin | It "hits side delts and traps" | Elevation combined with [internal rotation](#internalrotation), which is the shoulder's least tolerant loaded position (Part V §E.4). A wide, low version is a different exercise (Part V §D.1) |
-| Behind-the-neck press | It activates the middle and posterior heads more | The activation finding is real (Coratella et al., 2022). The position it requires is the one the injury literature names as vulnerable (Kolber et al., 2010), and Part II §D.4 rejects the matching pulldown on the same grounds. **The gain does not justify the position** |
+| Behind-the-neck press | It activates the middle and posterior heads more | The activation finding is real (Coratella et al., 2022a). The position it requires is the one the injury literature names as vulnerable (Kolber et al., 2010), and Part II §D.4 rejects the matching pulldown on the same grounds. **The gain does not justify the position** |
 | Lat pulldown and chin-up | "Shoulder" work | Adduction and extension — the antagonist action for the middle and anterior heads, and only an incidental load for the posterior one (Franke et al., 2015) |
 | Dips | The front delt stretches at the bottom | A pectoral and triceps exercise. Shoulder extension past neutral under load, which is a position rather than a stimulus |
 | Cable external rotation | It "works the rear delt" | It trains infraspinatus and teres minor. Useful for other reasons; the posterior deltoid's moment arm in axial rotation is the smallest of the three heads' (Hik & Ackland, 2019) |
@@ -6512,7 +6528,7 @@ of exposure, so they establish where injuries land, not how likely they are.
 | Context | Common modification | Evidence note |
 |---|---|---|
 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) — a painful arc, pain reaching overhead, pain lying on that side | **Reduce the provoking arc first**, then load progressively in the pain-free range. Keep the press below the painful band or replace it with a landmine press; keep raises in the scapular plane | Rehabilitation improved shoulder strength in this population across twenty-eight studies, and **interventions that did not include exercise had no effect at all** (Zhang et al., 2026). The active ingredient is loading |
-| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part IX, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
+| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part XI, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
 | History of dislocation or [shoulder instability](#shoulderinstability) | Overhead and behind-the-neck positions are commonly restricted; abduction with external rotation is the classic apprehension position | Governed by the clinician, not by this document |
 | Acromioclavicular joint pain — point tenderness on top of the shoulder | Reduce [horizontal adduction](#shoulderhorizontaladduction) across the body; raises and presses are usually well tolerated | The joint is compressed by reaching across, not by reaching out |
 | Long head of biceps pain — front-of-shoulder pain with a defined tender line | Reduce front raises and dips; the tendon runs in the [bicipital groove](#bicipitalgroove) directly under them | Mechanism, not trial evidence |
@@ -6525,7 +6541,7 @@ of exposure, so they establish where injuries land, not how likely they are.
 muscle's:
 
 1. **Elevation combined with internal rotation** — the narrow-grip upright row to the chin, and "pour the pitcher" on a raise. It is the provoking combination named in the [impingement](#impingement) entry, and it is the position Part II §D.4 already rejects the behind-the-neck pulldown for.
-2. **Behind-the-neck pressing.** The activation advantage is measured and real (Coratella et al., 2022); the position is the one the shoulder-injury review repeatedly identifies as vulnerable (Kolber et al., 2010). **The gain is a few percent of activation in an instrument Part V §B.11 rejects for growth claims. The exchange is not favourable.**
+2. **Behind-the-neck pressing.** The activation advantage is measured and real (Coratella et al., 2022a); the position is the one the shoulder-injury review repeatedly identifies as vulnerable (Kolber et al., 2010). **The gain is a few percent of activation in an instrument Part V §B.11 rejects for growth claims. The exchange is not favourable.**
 
 ---
 
@@ -6623,9 +6639,9 @@ document**, because the three columns are genuinely separate muscles:
 - **A wide, high-elbow row counts as a partial horizontal-abduction set.** A narrow, low-elbow row counts as none. The elbow's path decides it (Part V §D.3).
 
 **The pectoral and triceps overlap, stated plainly.** A press set counts toward the anterior deltoid,
-the pectoralis major and the triceps at once. If you are running a chest and a shoulder session in the
-same week, count the set once in each column and set the **total** upper-body pressing volume against
-your recovery, not the sum of the columns.
+the pectoralis major and the triceps at once — in full for the first two and at 0.5 for the triceps
+(Part IX §F.1). Count it in each Part's column by that Part's rule, and set the **total** upper-body
+pressing volume against your recovery, not the sum of the columns.
 
 ---
 
@@ -6831,7 +6847,7 @@ notice the second.
 | "Dumbbell lateral raises are better because the load is heavier" | **Not supported**, by the same trial and the same measurement |
 | "Pour the pitcher to hit the side delt" | **Not supported.** Internal rotation produced the highest **posterior** deltoid and **upper trapezius** activity of five variants and did not raise the middle head above a neutral grip in either phase (Coratella et al., 2020) |
 | "Rows train the rear delt" | **Depends entirely on the elbow path.** A wide, high-elbow row does; a narrow, low-elbow row does not, and the same measurement supports both halves (Franke et al., 2015) |
-| "Behind-the-neck pressing is worth it for the extra activation" | **Not supported as a trade.** The activation difference is real (Coratella et al., 2022) and it is measured by an instrument Part V §B.11 rejects for growth claims, in a position the injury literature names as vulnerable (Kolber et al., 2010) |
+| "Behind-the-neck pressing is worth it for the extra activation" | **Not supported as a trade.** The activation difference is real (Coratella et al., 2022a) and it is measured by an instrument Part V §B.11 rejects for growth claims, in a position the injury literature names as vulnerable (Kolber et al., 2010) |
 | "The upright row is a side delt exercise" | **Not supported** in its narrow, high form, which is elevation with internal rotation. A wide, low version is a different and unremarkable raise (Part V §D.1) |
 | "You can target the front, middle and rear of the side delt" | **Not supported.** The seven anatomical segments are real (Sakoma et al., 2011); no growth measurement has ever been made at that resolution, and regional activation does not predict regional growth (Zabaleta-Korta et al., 2024) |
 | "Shrugs build shoulders" | **Not supported.** The humerus does not move; that is a trapezius exercise |
@@ -7122,7 +7138,7 @@ than this Part first claimed**, and the regional evidence is unexpectedly the be
 - **And from training that never targets it.** Eight weeks of a squat, bench press, prone row and shoulder press programme — **no direct abdominal work at all** — raised rectus abdominis cross-sectional area in **thirty-eight resistance-trained men** (Hernández-Belmonte et al., 2023). **Moderate evidence**, and the population this document is written for.
 - **Between rectus abdominis segments, the answer is the strongest regional finding in this document.** MRI of eight professional tennis players against six non-active controls found rectus abdominis volume **58% greater** in the players, **35% greater on the non-dominant side than the dominant one** within them, and — the key number — **the side-to-side asymmetry increasing linearly from the first lumbar disc to the pubic symphysis (r = 0.97)** (Sanchis-Moysi et al., 2010). The authors read it as evidence that people can differentially recruit the upper and lower regions of each rectus abdominis, and it is hard to read it any other way.
 - **Between the abdominal wall muscles.** Segmental MRI in professional tennis and soccer players found the hypertrophy of the lateral wall and [quadratus lumborum](#quadratuslumborum) to be **sport-specific** in its distribution (Sanchis-Moysi et al., 2013). **Moderate evidence** — cross-sectional athlete comparisons, not training studies.
-- **The multifidus.** Real training data, from clinical populations: multifidus size responds to loaded extension training, summarized in Part VI §E.4 rather than here because every study of it was designed around pain rather than size.
+- **The multifidus.** Real training data, from clinical populations: multifidus size responds to some lumbar resistance programmes and not others (Part X §A.5), summarized in Part VI §E.4 rather than here because nearly every study of it was designed around pain rather than size.
 
 **What is still missing, stated precisely.** No trial has **manipulated exercise selection or range and
 measured abdominal segments before and after** — the tennis evidence is cross-sectional, and the two
@@ -7139,9 +7155,9 @@ labelled as such.
 **The abdominal wall is not the slow-twitch endurance tissue it is usually described as.** Biopsies of
 the human abdominal muscles put them close to an even split, at roughly 55–58% type I
 (Häggmark & Thorstensson, 1979) — the same territory as the gluteus maximus in Part IV §A.7 and the
-deltoid in Part V §A.7, and not a basis for training them differently. The **lumbar back** muscles do
-run higher in type I (Thorstensson & Carlson, 1987), consistent with tissue that works at a low level
-all day.
+deltoid in Part V §A.7, and not a basis for training them differently. The **lumbar back** muscles run
+only slightly higher by number — 57–62% type I (Thorstensson & Carlson, 1987) — although type I fibres
+occupy more of their area in women (Part X §A.6).
 
 **This changes nothing about the prescription**, for the reasons already set out in Part II §A.6,
 Part III §A.7, Part IV §A.7 and Part V §A.7. **It does remove an argument** that is made constantly for
@@ -7215,7 +7231,7 @@ at the front of the hip (Part VI §C.5) and why the leg travel is not a measure 
 **Its lever on the spine is nil and its compression is not.** Modelled on radiographs of ten men, psoas
 exerts "only very small moments that tend to extend the upper lumbar spine and to flex the lower lumbar
 spine", while at maximum contraction applying **"severe compression forces on the lumbar segments, and
-large shear forces"** (Bogduk et al., 1992). So a straight-leg raise buys a large compressive and
+large shear forces"** (Bogduk et al., 1992b). So a straight-leg raise buys a large compressive and
 shearing bill on the lumbar spine, with almost no spinal movement and almost no abdominal work — the
 worst ratio in Part VI §D.1, and the reason that category is written around loaded trunk flexion
 instead.
@@ -7251,7 +7267,7 @@ train roughly a third of the region.
 The trunk muscles have **small moment arms and a lot of them.** Where a limb muscle acts across one
 joint with one lever, the back muscles act across five lumbar segments through dozens of separate
 fascicles, each with its own line of action — the model that established this represents the lumbar
-back muscles as **forty-nine fascicles** rather than as three muscles (Bogduk et al., 1992).
+back muscles as **forty-nine fascicles** rather than as three muscles (Bogduk et al., 1992a).
 
 Comprehensive moment arms have been measured by MRI from T8 to S1 in twenty women and ten men, with
 **males showing larger moment arms than females for most muscles at most levels** (Jorgensen et al.,
@@ -7671,7 +7687,7 @@ the lumbar vertebrae and to the femur. When it contracts hard against a long lev
 hanging — it loads the lumbar spine heavily while flexing the hip. **The mechanism is not the one
 usually given.** Modelled on radiographs of ten men, psoas exerts "only very small moments that tend to
 extend the upper lumbar spine and to flex the lower lumbar spine", but at maximum contraction it
-applies **severe compression and large shear forces** to the lumbar segments (Bogduk et al., 1992). So
+applies **severe compression and large shear forces** to the lumbar segments (Bogduk et al., 1992b). So
 the abdominal wall's job in a straight-leg raise is to hold the trunk against a large compressive and
 shearing load, not to oppose an extension moment that is barely there — and the movement itself is a
 hip action. That is not an argument against the exercise. It is
@@ -8145,8 +8161,9 @@ training study has measured hypertrophy from it [consensus — no single source]
 *Profile.* Cam-dependent; the pelvis is restrained so the lumbar spine does the movement.
 *Evidence note.* This is the one core exercise with a genuine outcome literature, and it is a clinical
 one: isolated lumbar extension resistance training has been reviewed for chronic low back pain, where
-it improves strength and symptoms (Steele et al., 2015). **Moderate evidence**, in a clinical
-population, for pain and strength rather than for size — see Part VI §E.4.
+it improves strength and symptoms (Steele et al., 2015a). **Evidence remains limited and inconsistent**: a
+later meta-analysis of eight trials found less pain than no treatment but no significant effect on
+disability or strength, at very low certainty (Trybulski et al., 2025) — see Part VI §E.4 and Part X §D.1.
 *Role.* If your gym has one, it is the most direct extension exercise available. Most do not.
 
 #### Loaded good morning and Romanian deadlift
@@ -8306,7 +8323,7 @@ had full confidence in it. The paper stands, and this is the correct account of 
 | Context | Common modification | Evidence note |
 |---|---|---|
 | [Chronic non-specific low back pain](#lowbackpain) | Load something, and prefer the kind you will keep doing | Exercise beats no exercise; the specific mode matters less than the reviews' rankings suggest (Hayden et al., 2021) |
-| The same, with weak extensors | Loaded lumbar extension is a defensible priority | Isolated lumbar extension resistance training improves strength and symptoms in this population (Steele et al., 2015). **Moderate evidence** |
+| The same, with weak extensors | Loaded lumbar extension is a defensible priority | Isolated lumbar extension resistance training improved strength and symptoms in this population (Steele et al., 2015a). **Evidence remains limited and inconsistent** — Part X §E.4 |
 | Pain that radiates below the knee, or any neurological symptom | **Stop. Assessment before any loading decision** | Not a training problem |
 | Pain reproduced reliably by loaded flexion | Move the flexion slot to the middle third, or to isometrics, and keep the other three slots | The shear reversal at L5/S1 is a mechanism, not a diagnosis (Part VI §B.2) |
 | Pain reproduced by extension | Reduce the extension range; keep the load | The mirror of the row above |
@@ -8433,8 +8450,8 @@ recurring.
 
 - **The four actions do not substitute for each other.** Twenty sets of flexion and none of rotation is twenty sets of one action, not twenty core sets. This is the same rule as Part IV §F.1's abduction column and Part V §F.1's three directions, and it applies here to four columns.
 - **An isometric hold is counted as a set, and it is the weakest kind you have.** It belongs in the anti-extension column and nowhere else (Part VI §B.4).
-- **A loaded 45° back extension counts in the extension column here and in the gluteal column of Part IV §F.1 at the same time.** One set, two ledgers — and, unusually in this document, that is legitimate rather than double-counting, because it loads both.
-- **Heavy squatting and deadlifting count toward the extension column at a fraction of a set, and toward nothing else.** They load spinal extension isometrically under very large compression (Part VI §D.6). Charge the compression to the week even if you do not charge the set.
+- **A loaded 45° back extension counts in the extension column here and in the gluteal column of Part IV §F.1 at the same time** — in the extension column by the erector set count of Part X §F.1: in full with the pad above the hip bones, at half with the hip free, and at nothing if the set needs more than 30 repetitions. One set, two ledgers — and, unusually in this document, that is legitimate rather than double-counting, because it loads both.
+- **Heavy squatting and deadlifting count toward the extension column at half a set (Part X §F.1), and toward nothing else.** For the extension column, Part X §F.1–§F.2 supersede this table and Part VI §F.2. They load spinal extension isometrically under very large compression (Part VI §D.6). Charge the compression to the week even if you do not charge the set.
 
 ---
 
@@ -9518,7 +9535,7 @@ in Part VII §D.2.
 
 ### C.5 The limiting links
 
-- **The lower back, in every hinge.** The erector spinae work isometrically against the same torso inclination that generates the hip torque, and they fatigue first. This is the single strongest argument for putting part of the weekly volume on leg curls, which have no spinal cost at all.
+- **The lower back, in every hinge.** The erector spinae hold the spine against the same torso inclination that generates the hip torque, and at the heaviest loads the back's shape gives way (Gundersen et al., 2025), though no study has measured whether the back or the hip fails first. This is the single strongest argument for putting part of the weekly volume on leg curls, which have no spinal cost at all.
 - **The grip, in loaded hinges.** As in Part II §C.5 and Part IV §C.5. Straps are legitimate.
 - **Cramping, in leg curls.** Common, harmless, and usually a signal that the muscle is working at a short length under high effort. Reduce the range at the top rather than the load.
 - **The knee, in Nordics.** Kneeling under load is uncomfortable before it is hard; pad it.
@@ -9911,7 +9928,7 @@ are taken close to failure. Two considerations narrow the band here:
 
 | Slot | Reps | Note |
 |---|---|---|
-| Romanian deadlift and hinges | 6–12 | Above this the lower back ends the set |
+| Romanian deadlift and hinges | 6–12 | Above this, holding the back's shape becomes the limit — this document's judgement (Part X §C.1) |
 | 45° back extension, loaded | 8–20 | No axial load; take it closer to failure |
 | Seated leg curl | 8–15 | The trial that grew it most used 10 reps at 70% 1RM, five sets |
 | Nordic | 3–8 | Reps are not the variable; the length of the controlled descent is |
@@ -10156,7 +10173,7 @@ Three facts organize the Part, and each one contradicts something that is widely
 muscle.
 
 1. **It is one muscle with one insertion and many origins, which is the opposite of the arrangement in every other Part.** The hamstrings are four muscles with a shared origin; the [deltoid](#deltoid) is three heads with a shared insertion but three separate origins spread around the joint. The pectoralis major is a **single fan**: every fibre ends in the same place, on the same lip of the same groove, while the fibres *start* along an arc running from the middle of the collarbone down to the sixth rib. Because the fibres converge from different directions onto one point, **different parts of the same muscle have [moment arms](#momentarm) of opposite sign at the same joint** — the top of it flexes the shoulder and the bottom of it extends it (Part VIII §B.2).
-2. **It is an excursion muscle, not a force muscle, and it is smaller than its reputation.** In the only cadaver in which the whole upper limb was measured at once, the pectoralis major's [fascicle length](#fasciclelength) tied for the longest of fifty muscles, while its [PCSA](#pcsa) ranked eleventh — and the triceps brachii, which shares every press with it, had **3.6 times its force-generating cross-section** (Part VIII §A.4). The muscle that ends a set of bench presses is usually not this one.
+2. **It is an excursion muscle, not a force muscle, and it is smaller than its reputation.** In the only cadaver in which the whole upper limb was measured at once, the pectoralis major's [fascicle length](#fasciclelength) tied for the longest of fifty muscles, while its [PCSA](#pcsa) ranked eleventh — and the triceps brachii, which shares every press with it, had **3.6 times its force-generating cross-section** (Part VIII §A.4) — 2.5 times in the MRI series of living adults (Part IX §A.3). Cross-section alone does not decide which of the two ends a set of bench presses; the moment each joint must supply does, and grip width redistributes it (Part IX §B.8).
 3. **It is the muscle that tears in the gym.** Across 365 published cases of pectoralis major injury spanning 1822 to 2010, **83% arose from indirect trauma and 48% occurred during weight-training activities** (ElMaraghy & Devereaux, 2012). No other muscle in this document has a published injury literature in which weight training is the largest single named cause.
 
 ---
@@ -10471,7 +10488,7 @@ at a load you could stop**.
 3. **The clavicular head is architecturally uniform; the sternocostal head is segmented into six or seven parts** (Fung et al., 2009).
 4. **The tendon has two layers and does not twist** (Fung et al., 2009).
 5. **The fibres are the longest in the upper limb and the PCSA is modest** — this is an excursion muscle (Ruggiero et al., 2016).
-6. **The triceps has 3.6 times its force-generating cross-section**, which is why presses rarely end because the chest gave out.
+6. **The triceps has 2.5–3.6 times its force-generating cross-section**, depending on the dataset (Part IX §A.3) — which by itself does not decide which muscle ends a press (Part IX §B.8).
 7. **The direction the arm travels selects which segments work; the degree of shoulder flexion does not, for horizontal flexion** (Paton & Brown, 1994).
 8. **Regional growth from bench angle has one supporting trial, at one of three sites, in untrained men** (Chaves et al., 2020) — and a single non-angled exercise grew both regions without it (Pinto et al., 2025).
 9. **It is the muscle that ruptures under a barbell**, and the reason is long fibres at long length under maximal load (ElMaraghy & Devereaux, 2012).
@@ -10648,7 +10665,8 @@ than they are credited with**.
 **The most important row is the fourth, and it needs unpacking, because two good studies appear to
 disagree with the geometry and with each other.** The resolution is in Part VIII §B.9 and it is not a
 measurement error: lifters **change the direction of the force they apply to the bar** as grip width
-changes, and the change is large enough to cancel the geometric difference.
+changes, and the change modifies the geometric difference without erasing it — what grip width then
+moves is the balance *within* the muscle.
 
 > **The rule, in one line.** Bench inclination reliably changes which region works *hardest at a given
 > instant*, changes the *whole-contraction* picture much less, and costs about a fifth of the load. Grip
@@ -10800,7 +10818,7 @@ Fourteen trained men at a one-repetition maximum, bar at its lowest point
 **Step 3 — read it.** Three things, and the first is the one this Part previously got wrong.
 
 - **At a grip of exactly one biacromial width the shoulder moment arm is 12 cm, not zero.** The hands are not over the joint centres, and the flexion term is there regardless. A close grip **halves** the shoulder's load; it does not remove it, and nothing in the measured range reverses its sign.
-- **The elbow's moment arm is the mirror image, and at the wide grip it is zero.** That — not an absent pectoral demand — is the real mechanical content of "a wide grip spares the triceps".
+- **The elbow's moment arm is the mirror image, and at the wide grip it is zero at the bottom of the lift.** That — not an absent pectoral demand — is the real mechanical content of "a wide grip spares the triceps", and it holds only at the chest: at the sticking region the elbow's moment arm was 0.06 m at the wide and medium grips and 0.07 m at the narrow one (Larsen et al., 2020).
 - **The trade is roughly two to one across the usable range**, and it costs about 6% of the load at the narrow end (103.7 kg against 109.8 kg).
 
 **Step 4 — what lifters actually do to the bar.** Nobody presses straight up. Two studies measured the sideways force at the hands, and the *pattern* replicates even though the magnitudes do not:
@@ -10950,8 +10968,8 @@ from bench angle found one of three sites differing (Chaves et al., 2020); the o
 growth without varying the angle found no regional difference at all (Pinto et al., 2025).
 
 **But the general question — does regional activation predict regional growth? — has been answered once,
-directly, in another muscle, and the answer was yes.** Twelve young men trained the elbow extensors for
-twelve weeks. [T2-weighted MRI](#t2mri) taken immediately after the **first** session showed the middle
+directly, in another muscle, and the answer was yes.** Twelve young men trained the elbow extensors with a
+multi-joint press for twelve weeks. [T2-weighted MRI](#t2mri) taken immediately after the **first** session showed the middle
 regions of the triceps brachii more activated than the most proximal region; twelve weeks later the
 cross-sectional area of those same middle regions had grown more (Wakahara et al., 2013). The authors'
 conclusion is the mechanism this Part has been circling: *"nonuniform muscle hypertrophy after training
@@ -10993,8 +11011,8 @@ extends.
 ```
 THE PRESS
   Set-up   Scapulae retracted and held there for the whole set. Feet planted.
-           Grip 1.3-1.6 biacromial widths for the chest; narrower is a
-           triceps exercise (Part VIII §B.9).
+           Grip 1.3-1.6 biacromial widths for the chest; narrower shifts
+           work to the triceps and the clavicular fibres (Part VIII §B.9).
   Descent  2-3 s. Elbows track at roughly 45-70 deg from the torso, not
            90 deg (Part VIII §C.2). Bar or handles arrive at the lower
            chest. The upper arm reaches or slightly passes the plane of
@@ -11098,7 +11116,7 @@ stretching does (Afonso et al., 2021), and the fly loads exactly the position th
 | "Touch, do not bounce" | **Useful** | Preserves the eccentric at the longest length |
 | "Squeeze the chest at the top" | **Harmless on a cable, useless on a barbell** | There is no meaningful pectoral leverage at press lockout (Part VIII §B.6). On a crossover, where the hands cross the midline, there genuinely is |
 | "Think about the chest doing the work" | **Modest and specific** | An internal [attentional focus](#attentionalfocus) raises the activity of the muscle named, and the general finding is in Part II §C.4. **Interpretive caution:** the study sometimes offered for this is not about cueing at all — it added ten weeks of *targeted pectoral exercises* alongside the bench press and found pectoralis major activity during the bench press rising (p = 0.0002, ES = 2.6) where bench pressing alone did not (Strońska-Garbień et al., 2024). That is evidence that training a muscle directly increases its contribution to a compound lift, which is worth knowing, and it is not evidence about attention. **Promising but under-replicated** — sixteen men, EMG only, no size measurement |
-| "Tuck the elbows to the ribs" | **Harmful for this muscle** | It is a powerlifting cue for moving load, and it makes the exercise a triceps exercise (Part VIII §B.9) |
+| "Tuck the elbows to the ribs" | **Harmful for this muscle** | It is a powerlifting cue for moving load; 45° of abduction raised glenohumeral superior shear, and it shifts the press toward the triceps (Part VIII §C.2) |
 | "Lower to the neck for the upper chest" | **Not supported and mechanically expensive** | The upper region is separated by a *flexion* moment arm, not by a touch point (Part VIII §B.2), and a high touch point maximises shoulder abduction |
 | "Flare the elbows to stretch the chest" | **Harmful** | The stretch comes from the arm passing the plane of the torso, not from abduction. Flaring adds shear without adding length |
 
@@ -11161,7 +11179,7 @@ WHEN TO ARCH
 **The bench itself.** A flat bench is narrower than most people's shoulder blades, which is what allows
 the arms to travel behind the plane of the torso at all. **A bench wider than your scapulae removes the
 bottom of the range**, and so does pressing on the floor — which is the entire mechanism of a floor
-press and the reason it is a triceps exercise rather than a chest one (Part VIII §D.5).
+press and the reason it is a triceps and lockout exercise rather than a chest one (Part VIII §D.5).
 
 ---
 
@@ -11408,7 +11426,7 @@ elbow-extension column, and prefer almost any other triceps exercise.
 | Exercise | Why people count it | Reality |
 |---|---|---|
 | Overhead press | It is a press | **Not supported.** Pectoralis major activity falls from 68.9 ± 24.2% of maximum at 90° of elevation to 19.8 ± 5.6% at 160° (Aronis et al., 2025). Above shoulder height this muscle leaves the movement |
-| Close-grip bench press | It is a bench press | **A triceps exercise.** At one biacromial width the bar exerts essentially no adduction torque at the shoulder (Part VIII §B.9) |
+| Close-grip bench press | It is a bench press | **A shared exercise, not a lost one.** At one biacromial width the shoulder's measured moment arm is still half the wide-grip value and the pectoralis major remains the most active muscle (Part VIII §D.1). Count it as half a pectoral set and half a triceps set (Part IX §F.1) |
 | Floor press | It is a press with a bench press's name | **Range-limited by design.** The floor stops the upper arm before it reaches the plane of the torso, removing the lengthened position entirely (Part VIII §C.6). A triceps and lockout exercise |
 | Bench dip | It is a dip | **A triceps exercise** in the worst available shoulder position (Part VIII §D.4) |
 | [Pullover](#pullover) | It "stretches the chest" | **Genuinely shared, and the pectoral share is the larger one.** EMG of the barbell pullover found it emphasising the pectoralis major over the latissimus dorsi (Marchetti & Uchida, 2011), and Part II §D.3 treats it as an exercise that makes no attempt to separate the two. Count it as half a set in each column |
@@ -11581,7 +11599,7 @@ robust claim, and it is the reason the beginner row above is as low as it is.
 
 **Three counting rules specific to this muscle:**
 
-- **A press set counts toward the pectoralis major, the anterior deltoid and the triceps at once** (Part V §F.1). Count it once in each Part's column and set the **total** upper-body pressing volume against your recovery, not the sum of the columns.
+- **A press set counts toward the pectoralis major, the anterior deltoid and the triceps at once** (Part V §F.1) — in full for the first two and at 0.5 for the triceps (Part IX §F.1). Count it in each Part's column by that Part's rule, and set the **total** upper-body pressing volume against your recovery, not the sum of the columns.
 - **A close-grip press counts as half a pectoral set; a floor press, an overhead press and a bench dip count as zero.** The close grip halves the shoulder's moment arm and raises the clavicular head's share rather than removing the muscle (Part VIII §D.1); the other three remove the lengthened position altogether (Part VIII §D.5).
 - **A press set counts as one only if the chest ended it.** If the front of the shoulder did, the set trained the anterior deltoid, and the fix is technique before it is volume (Part VIII §C.2).
 
@@ -11787,7 +11805,7 @@ TEMPLATE F - MINIMUM EFFECTIVE DOSE, 2 SETS/WEEK
 4. **It is also the position that fails**, so the load must be one you could stop at any point of the descent. Forty-eight per cent of published pectoralis major tears occurred during weight training (ElMaraghy & Devereaux, 2012).
 5. **Set the scapulae and keep them set.** Retraction lowered glenohumeral compression, posterior shear and every rotator cuff muscle's activity, at a cost of a few per cent of pectoral activation and no loss of one-repetition maximum (Noteboom et al., 2024).
 6. **Press out against the bar as well as up.** It shortens the barbell's moment arm at the shoulder and lowers modelled joint reaction forces (Noteboom et al., 2024). **It modifies the geometry rather than erasing it** — grip width still changes the measured shoulder moment by about a factor of two after the sideways forces are counted (Larsen et al., 2020). The derivation is Part VIII §B.9.
-7. **Grip between 1.3 and 1.6 biacromial widths.** Narrower removes the shoulder's adduction torque entirely and makes it a triceps exercise; wider raises acromioclavicular compression and glenohumeral shear without raising measured pectoral activation (Noteboom et al., 2024).
+7. **Grip between 1.3 and 1.6 biacromial widths.** Narrower roughly halves the shoulder's moment arm and shifts work toward the triceps and the clavicular fibres (Larsen et al., 2020); wider raises acromioclavicular compression and glenohumeral shear without raising measured pectoral activation (Noteboom et al., 2024).
 8. **An incline press is a reasonable option and a poor foundation.** It costs about a fifth of your load (Saeterbakken et al., 2017), and its regional claim rests on one of three sites in one trial of untrained men training once a week — a trial in which every arm reported growth averaging more than twice that of a longer trial in the same population, and in which adding an incline press to a flat press changed nothing (Chaves et al., 2020).
 9. **Push-ups are not a lesser exercise, only a lighter one.** Load-matched, they matched bench pressing for thickness and strength over eight weeks (Kikuchi & Nakazato, 2017) and showed no difference in kinematics or muscle activation at matched loads (van den Tillaar, 2019).
 10. **Diagnose a stall by where it happens.** At the chest or the sticking region it is the shoulder and the pectoralis major; at lockout it is the triceps (Evangelista et al., 2025). The fixes do not substitute for each other.
@@ -11801,7 +11819,7 @@ TEMPLATE F - MINIMUM EFFECTIVE DOSE, 2 SETS/WEEK
 | "The pectoralis major tendon twists 180°, so a decline press reaches the upper fibres" | **Not supported.** The three-dimensional study that looked reported *"no twisting of either the PM muscle or tendon"* (Fung et al., 2009). What exists is a two-layer tendon that folds, not one that rotates |
 | "You need incline pressing or your upper chest will not grow" | **Not supported as stated.** Twelve weeks of a pec deck — one exercise, no bench angle at all — grew the clavicular region 17–18% (Pinto et al., 2025), and the authors concluded their data did not support regional hypertrophy in that exercise |
 | "Bench angle is the main lever for regional emphasis" | **Contested.** It works acutely (Albarello et al., 2022) and it barely registers over a whole contraction (Lauver et al., 2016); the one chronic trial found it at one site of three, and in that trial the group that did both exercises was indistinguishable from the flat-only group at that site (Chaves et al., 2020). The narrower claim — that an incline press adds upper-region growth — carries the label **evidence remains limited and inconsistent** (Part VIII §A.5) |
-| "A wider grip makes the bench press more of a chest exercise" | **Not supported.** Pectoralis activation did not differ across grips in competition athletes (Saeterbakken et al., 2017) and the pectoral-to-triceps ratio did not change between an 81 cm and a 40 cm grip (Tanimoto et al., 2023) — because lifters change the direction of force they apply (Part VIII §B.9) |
+| "A wider grip makes the bench press more of a chest exercise" | **Not supported.** Pectoralis activation did not differ across grips in competition athletes (Saeterbakken et al., 2017) and the pectoral-to-triceps ratio did not change between an 81 cm and a 40 cm grip (Tanimoto et al., 2023) — because grip width redistributes excitation within the muscle, toward the clavicular fibres as it narrows and the abdominal fibres as it widens, rather than changing the whole muscle's (Mausehund et al., 2022) |
 | "Decline pressing builds the lower chest" | **Not supported.** Lower pectoralis activity at −15° matched the flat bench rather than exceeding it (Lauver et al., 2016), and activation did not differ across flat, incline and decline (Saeterbakken et al., 2017) |
 | "Arching is cheating / arching is essential" | **Both wrong, and measured.** The arch is worth about 4.2 kg with a confidence interval touching zero, costs barbell displacement at every load, and does not change either region's pectoral excitation (Bartolomei et al., 2024). It is a competition tool |
 | "Letting the shoulder blades move freely protects the shoulder" | **Not supported.** A released-scapula condition produced no difference in any joint reaction force against a neutral scapula (Noteboom et al., 2024) |
@@ -11821,8 +11839,7 @@ The pectoralis major is a single fan running from the collarbone, breastbone and
 narrow attachment on the arm bone, and because its fibres arrive from three directions, the top of it
 flexes the shoulder while the bottom of it extends the shoulder. Its fibres tie for the **longest measured in the upper
 limb, and its force-generating cross-section is modest** — an excursion muscle, whose main synergist, the
-triceps, has 3.6 times its cross-section, which is why a bench press rarely ends because the chest gave
-out. **Train it with one horizontal press and one constant-tension isolation exercise**, through the
+triceps, has 2.5 to 3.6 times its cross-section. **Train it with one horizontal press and one constant-tension isolation exercise**, through the
 fullest range your shoulder tolerates, with the scapulae retracted, a grip of 1.3–1.6 biacromial widths,
 elbows at 45–70°, and outward pressure against the bar. **An incline press is a cheap addition and a poor
 foundation**: the "upper chest" is a real mechanical region, but the trial evidence that bench angle grows
@@ -11833,9 +11850,3094 @@ two is whether the load descending is a load you could have stopped.
 
 ---
 
-# partixmasterglossary
+# partixtricepsbrachii
 
-**Part IX — Master Glossary**
+**Part IX — Triceps Brachii**
+
+> Scope: the anatomy, mechanics, technique, exercise selection, context modifiers and programming for
+> maximal [hypertrophy](#hypertrophy) of the muscle on the back of the upper arm — the
+> [triceps brachii](#tricepsbrachii), treated throughout as the three heads it is — and the small
+> [anconeus](#anconeus) beside it. Everything here is also loaded by the presses of Part V and Part VIII,
+> which is where most people's triceps training actually happens. **General education only.** A pop at
+> the back of the elbow under a heavy press, followed by weakness straightening the arm, is an injury,
+> not a training problem — see Part IX §E.4.
+>
+> **Angle conventions, fixed for the whole Part.** [Elbow flexion](#elbowflexion) is measured from a
+> straight arm: **0° is a straight elbow, 90° is a right angle**, and larger numbers are more bent.
+> Several studies below measure the other way round, with 180° as a straight arm; their angles are
+> converted into this convention and the conversion is stated where it happens.
+> [Humeral elevation](#humeralelevation) keeps its Part V meaning — **0° is the arm hanging at the side,
+> 90° is the arm horizontal, ~180° is the arm straight up** — and the [shoulder position](#shoulderpositionclass) of every triceps
+> exercise is classified by it in Part IX §B.4.
+>
+> **What makes this Part different.** It is the only Part in which a single trial, measuring muscle
+> volume by MRI with one arm against the other in the same people, showed that the position of **one
+> joint** changes how much a muscle grows when all the movement happens at **another** (Maeo et al.,
+> 2023). It is also the Part in which the document's two rules about muscle length — *train it long* and
+> *the target must still be loaded there* — meet the same exercises and have to be reconciled rather
+> than quoted. That is Part IX §B.2 to Part IX §B.7.
+
+---
+
+## partixaanatomyandarchitecture
+
+**PART A — Anatomy and Architecture**
+
+### A.1 What the triceps brachii is
+
+The only muscle on the back of the upper arm. It has three heads that start in three places and finish
+on one small point of bone at the tip of the elbow, and it straightens the arm. One of the three heads
+also starts above the shoulder joint, so it pulls the whole arm backward as well.
+
+Three facts organize the Part.
+
+1. **It is the largest muscle of the upper arm.** In ten living adults measured by MRI, the triceps occupied **14.5 ± 0.7% of all upper-limb [muscle volume](#musclevolume)** — second only to the [deltoid](#deltoid)'s 15.2% in the whole limb — at a mean of **372 cm³**, against 144 cm³ for the biceps, 144 cm³ for the brachialis and 65 cm³ for the brachioradialis (Holzbaur et al., 2007). **The triceps alone is slightly larger than the three main elbow flexors together — 372 against 353 cm³ — and the whole extensor and flexor groups each make up about 15% of upper-limb muscle volume** (Holzbaur et al., 2007).
+2. **One head crosses two joints and two heads cross one.** The [long head](#tricepslonghead) is [biarticular](#biarticularmuscle): both the shoulder and the elbow set its length. The [lateral](#tricepslateralhead) and [medial](#tricepsmedialhead) heads are [monoarticular](#monoarticularmuscle): only the elbow sets theirs. This is the arrangement Part VII organized itself around for the hamstrings, and here it decides which exercises can shift work between the heads (Part IX §B.4).
+3. **Both of its joints lengthen the long head, and only the shoulder separates it from the other two.** Its [moment arm](#momentarm) at the elbow is about 2 cm. How far that stretches the fibres depends on which cadaveric fibre length is believed: against the 12.7 cm long-head fascicles of a ten-arm series, 90° of elbow flexion moves the long head through **28% of its optimal length** (Murray et al., 2000); against the 5.2 cm fascicles of a single-specimen series (Ruggiero et al., 2016), the same moment arm gives about 60%. **The elbow is not a small contributor to length. The shoulder is simply the only contributor that acts on one head alone** (Part IX §B.2).
+
+---
+
+### A.2 Attachments — the map you load
+
+| Head | Origin | Insertion | Crosses | Joint action |
+|---|---|---|---|---|
+| Long head | [Infraglenoid tubercle](#infraglenoidtubercle) of the [scapula](#scapula), just below the shoulder socket | [Olecranon](#olecranon) of the ulna | **Shoulder and elbow** | [Elbow extension](#elbowextension); [shoulder extension](#shoulderextension) and adduction |
+| Lateral head | Back of the [humerus](#humerus), above and lateral to the groove for the [radial nerve](#radialnerve) | Olecranon | Elbow only | Elbow extension |
+| Medial head | Back of the humerus below the groove, over most of its length; the deepest of the three | Olecranon, with a deep, largely muscular attachment | Elbow only | Elbow extension |
+| Anconeus | Lateral epicondyle of the humerus | Lateral olecranon and back of the ulna | Elbow only | A small elbow extensor and stabilizer |
+
+All three heads are usually supplied by the radial nerve (Barco et al., 2017); in one
+cadaveric series of 36 limbs, the long head received a branch from the axillary nerve in two, one of
+them exclusively (Chaware et al., 2018).
+
+**Read the fourth column, because it is the whole Part in one line.** A movement at the elbow reaches all
+three heads. A movement at the shoulder reaches one. So the only way to change the balance *between*
+the heads is to change where the upper arm is.
+
+**The insertion is not one tendon, and the detail matters for injury.** On gross dissection of eight
+elbows, the medial head reached the bone through its own deep insertion, muscular almost all the way
+down, beneath the common tendon of the long and lateral heads; histology showed the two insertions
+merging at the bone (Madsen et al., 2006). MRI of twelve cadaveric elbows reproduced the same
+two-layer appearance in every specimen, and histology again showed continuous tissue rather than two
+separate structures (Negrão et al., 2020). Five pair-matched dissections resolved **three insertional
+areas** on the olecranon — the joint capsule (1.5 cm²), the deep muscular medial head (1.2 cm²) and the
+superficial tendon of the long and lateral heads (2.8 cm²) — with the tendinous part extending
+**15.3 ± 1.4 cm** up the back of the arm (Barco et al., 2017).
+
+**Read those studies as one agreed fact and one open question.** Agreed: the insertion has a
+superficial and a deep component that are continuous at the bone, so a tear can take one and leave the
+other (Part IX §A.8) — the same pattern Part VIII §A.2 described for the two laminae of the [pectoralis
+major](#pectoralismajor) tendon. Open: which heads feed which layer. The studies above assign the deep layer to the medial
+head and the superficial tendon to the long and lateral heads; a micro-computed-tomography and
+histological study of 21 elbows instead found a thick intramuscular tendon between the long and medial
+heads (2.2 ± 0.4 mm) and a thin superficial aponeurosis (0.9 ± 0.2 mm) attached to the lateral and medial
+heads (Yamamoto et al., 2025).
+
+**One more attachment that is easy to miss.** In all thirty-six elbows of a cadaveric series, the
+triceps tendon had a **lateral expansion continuous with the fascia of the anconeus**, averaging
+16.8 mm wide — about 70% of the width of the central tendon — beside a footprint 20.9 × 13.4 mm that
+sat 14.8 mm from the tip of the olecranon (Keener et al., 2010). The anconeus is a separate muscle, but
+its fascia is continuous with that expansion.
+
+---
+
+### A.3 Architecture — a force muscle, measured two incompatible ways
+
+**The two whole-arm cadaveric datasets in this document disagree about the triceps by a factor of two,
+and the disagreement is the first thing to understand.**
+
+```
+TRICEPS ARCHITECTURE - TWO CADAVERIC DATASETS THAT DO NOT AGREE
+                          Optimal fascicle   PCSA          Pennation
+                          length (cm)        (cm2)         (deg)
+  Murray et al., 2000 - 10 unembalmed arms, fascicles normalized to 2.8 um
+    Long head             12.7 +/- 2.1       4.3 +/- 1.8   10 +/- 3
+    Lateral head          9.3 +/- 2.8       10.5 +/- 5.2    8 +/- 2
+     (PCSA includes the medial head's mass)
+    All heads                  -            14.9 +/- 6.7  (range 6.8-28.1)
+  Ruggiero et al., 2016 - one embalmed female specimen, age 104,
+                          fascicles normalized to 2.7 um
+    Long head              5.2 +/- 0.7       9.0           0.0
+    Lateral head           4.7 +/- 1.3       8.4           0.0
+    Medial head            3.2 +/- 1.5      12.0           0.0
+    All heads                  -            29.4
+```
+
+**Three readings.**
+
+- **The fibre lengths differ by more than half, and the [PCSA](#pcsa) doubles in consequence.** PCSA is volume divided by optimal [fascicle length](#fasciclelength), so a dataset that measures fibres half as long must report a cross-section twice as large. Neither study can be averaged with the other, and **no absolute number in this section should be leaned on**. The ratios inside each dataset are the usable part.
+- **The ranking survives both datasets; the living-adult figures are not a third, independent check.** In the ten-arm series the combined triceps had the **greatest moment-generating capacity of any single elbow muscle in every specimen**, about ten times the PCSA of the brachioradialis (Murray et al., 2000). The MRI studies of living adults measured volume and then divided it by fibre lengths taken from cadaveric fibre-to-muscle ratios, including that series — so the triceps' larger share of upper-limb PCSA (**18.2%**) than of volume (**14.5%**) restates the cadaveric fibre lengths in living volumes rather than confirming them (Holzbaur et al., 2007). The same holds for a PCSA **1.9 times** that of all the elbow flexors in four men (Kawakami et al., 1994).
+- **The ratio to the pectoralis major depends on the dataset.** The three heads had **3.6 times** the pectoralis major's PCSA in the single-specimen series (Part VIII §A.4) and **2.5 times** in the living-adult series (40.0 against 15.9 cm²; Holzbaur et al., 2007). Which of the two muscles ends a press is set by the moment each joint must supply at each point of the lift, which grip width redistributes (Part IX §B.8), not by cross-section alone.
+
+**What living muscle shows, which cadavers cannot.** In thirty-two men ranging from untrained to
+competitive bodybuilders, ultrasound [pennation angles](#pennationangle) ran from **15° to 53° in the long
+head** and from **9° to 26° in the medial head**, and they rose with [muscle thickness](#musclethickness)
+(r = 0.884 long head, r = 0.833 medial head) — bodybuilders' fibres sat at steeper angles than untrained
+men's (Kawakami et al., 1993). The cadaveric pennation angles of 0–10° describe a muscle nobody trains.
+
+**How the triceps changes architecture when it grows is not settled.** In the triceps training trials
+that tracked architecture, thickness and fascicle angle rose while fascicle length did not change —
+sixteen weeks in five men, with fascicle length estimated rather than imaged (Kawakami et al., 1995), six
+weeks in novice women (Stasinaki et al., 2018) and seven weeks of bench pressing in trained men
+(Zaras et al., 2022). **Promising but under-replicated.** **Caveat:** twelve weeks of ballistic bench
+pressing in untrained women lengthened long-head fascicles 10.1% and flattened their angle 7.9%
+(Mpampoulis et al., 2025), and in twenty elite powerlifters longer estimated long-head fascicles went with
+more fat-free mass (r = 0.59) and a heavier [bench press](#benchpress) (r = 0.52) (Brechue & Abe, 2002) — so fascicle
+lengthening is not ruled out, either by a different stimulus or over years of training.
+
+**And what it looks like in motion.** Long-head fascicles measured by panoramic ultrasound during
+maximal isometric holds were **44.2–51.3 mm in a cable [pushdown](#tricepspushdown) held at 10° and 90°
+of elbow flexion** and **60.1–66.5 mm in a cable [overhead extension](#overheadtricepsextension) held at
+70° and 150°** (p < 0.05, six women; angles converted from the study's 180°-straight convention)
+(Stasinaki et al., 2018). The two exercises were held at different elbow angles, so the one-third
+difference is shared between the shoulder and an elbow bent 60° further. Interpolating each exercise's
+two values to a common elbow angle leaves about 10 mm — about a fifth — attributable to the overhead
+shoulder position, and shows 80° of elbow motion adding 6–7 mm on its own. **Interpretive caution:** six
+participants, one measurement site, a straight line through two points per exercise, a pairing of values
+to angles that the paper does not state, and a shoulder angle it does not report.
+
+---
+
+### A.4 The three heads — sizes, roles and a division of labour
+
+**By mass, the heads are close to equal.** In the 104-year-old specimen the long head weighed 53.8 g,
+the lateral head 44.0 g and the medial head 42.7 g (Ruggiero et al., 2016). No head dominates by size.
+
+**By role, they differ, and the difference turns on the shoulder.** Ten adults extended the elbow at five
+shoulder elevations while surface [EMG](#emg) was recorded and a generic scaled musculoskeletal model
+estimated each head's force and length (Kholinne et al., 2018):
+
+```
+WHICH HEAD DOES THE WORK, BY SHOULDER POSITION
+(unloaded elbow extension, 10 adults, EMG + OpenSim model)
+  Arm at the side (0 deg)        LONG HEAD highest in force and activation
+                                 (p < 0.05 against both other heads)
+  Arm horizontal (90 deg)        MEDIAL HEAD highest (p < 0.001 against both)
+  Arm overhead (180 deg)         MEDIAL HEAD highest; lateral head now
+                                 above the long head
+  Long-head length (modelled)    longer than at 0 deg at 45, 90 and 135 deg;
+                                 135 vs 180 deg not significantly different
+                                 (p = 0.137); 90 vs 135 deg not reported
+  Lateral and medial length      no change at any shoulder angle
+```
+
+**Read the last two rows together, because they are the proposed mechanism.** As the arm rises the long
+head lengthens; lengthened, it contributes a smaller share of the elbow's extension force, and the medial
+head takes over. The authors' own explanation is the
+[force–length relationship](#forcelengthrelationship). **Interpretive caution, stated at the claim:** ten
+people, no external load, and both the head forces and the lengths are model estimates — the ranking is
+the usable output, not the forces. It is evidence about *share*, not evidence that an overhead exercise
+trains the long head less; the only trial that measured growth found the opposite (Part IX §B.4).
+
+**The medial head is the one that never switches off.** It is the deepest head, and its force in the
+modelling study was the most uniform across shoulder positions (Kholinne et al., 2018). The anatomical
+study behind its deep insertion put the clinical corollary plainly: an isolated injury to it produces
+weakness **with the elbow flexed beyond 90°** (Madsen et al., 2006).
+
+---
+
+### A.5 Regions — where along its length the triceps grows
+
+**Does the triceps grow evenly along the arm? Not with every exercise — and which end grows less depends
+on the exercise.** This is the one muscle in this document in which the same research group measured, for
+two different exercises, both *where the muscle worked* in one session and *where it grew* over twelve weeks.
+
+| Study | Exercise | What was measured | Where growth was smaller |
+|---|---|---|---|
+| Wakahara et al., 2012 | **[Lying dumbbell triceps extension](#lyingtricepsextension)**, shoulder flexed 90°, 80% of [one-repetition maximum](#onerepmax), 5 × 8, 3×/week, 12 weeks, 12 men not training their arms | [T2-weighted MRI](#t2mri) activation after one session in one group of twelve; MRI [cross-sectional area](#anatomicalcsa) along the arm after twelve weeks in another | **Distal** (near the elbow): less activated by one session *and* less grown after twelve weeks than the middle and proximal regions |
+| Wakahara et al., 2013 | **A [multi-joint](#compound) press**, 3×/week, 12 weeks, 12 young men | Same two measures, in the same men | **Most proximal** (near the shoulder): less activated *and* less grown than the middle regions |
+| Brandão et al., 2020 | Bench press, lying barbell triceps extension, or both in either order, 43 young men | MRI cross-sectional area of each head | **Long head** grew more with any protocol containing the triceps extension than with the bench press alone; **lateral head** grew more with any protocol containing the bench press than with the extension alone; medial head similar |
+| Stasinaki et al., 2018 | Cable overhead extension against cable pushdown, one arm each, 6 × 6RM, 2×/week, 6 weeks, 9 novice women | Ultrasound longitudinal area of the long head, proximal and distal | **Proximal**: not significantly changed by either exercise (−0.1% overhead, +13.5% pushdown); distal and total area grew in both |
+| Matta et al., 2011 | Bench press, lat pulldown, cable pushdown, biceps curl, 12 weeks, 40 untrained men | Ultrasound thickness of the long head at 50%, 60% and 70% of arm length | **Nowhere measured** — the long head thickened at all three sites with no difference between them |
+
+**How to read five studies that seem to disagree.**
+
+- **The first two are one experiment run twice, and they agree with each other in the way that matters.** In both, the region that one session activated least was the region that grew least over twelve weeks — a group-level match, and in the first study the two measurements were made in different men. The [single-joint](#isolation) extension under-grew the distal end; the multi-joint press under-grew the proximal end. The authors of the first gave activation as the mechanism — region-specific hypertrophy *"attributable to the regional difference in muscle activation during the exercise"* — and offered a second: the distal region is mostly medial head, which has fewer fast fibres (Wakahara et al., 2012). A later review identifies the press in the second study as the bench press (Schoenfeld et al., 2019b).
+- **The third study reaches the same place by head rather than by region.** The most proximal region of the triceps is almost all long head. A bench press alone under-grew the long head and over-grew the lateral head relative to a lying extension alone, and combining them gave both (Brandão et al., 2020). **Moderate evidence** — one trial, and the abstract is all this document could read. **Caveat:** the abstract reports neither the duration nor whether the combined groups did more total sets.
+- **The fourth cuts against the rule, weakly.** Six weeks of overhead extension did not significantly grow the proximal long head either (Stasinaki et al., 2018). Nine participants and six weeks cannot overturn two twelve-week MRI trials, but they are the only regional data from an overhead exercise, and they did not show the effect.
+- **The fifth is a null over a narrow window.** Its three sites spanned 20% of the arm's length and included neither end — the two places the other studies located the differences.
+
+> **The rule this section licenses.** A press alone grows the triceps unevenly — least near the shoulder,
+> where the long head is — and a single-joint extension grows the long head that a press under-serves.
+> That is the anatomical case for including both, and it is stronger than the equivalent case for the
+> "upper chest" in Part VIII §A.5, because here activation and growth were measured in the same regions of
+> the same muscle and they matched. **Moderate evidence**: three twelve-week trials of ten to twelve men per
+> group, two of them by one group. **Caveat:** the one overhead-against-pushdown trial that measured
+> regional area found no proximal gain in either arm over six weeks (Stasinaki et al., 2018).
+
+---
+
+### A.6 Fibre type — fast, and it still does not decide the rep range
+
+**This is the one muscle in the document with a direct biopsy series behind its fibre type, and it is
+clearly fast.** Biopsies from the middle of the triceps in nine young men — a cohort first studied in 2005
+and re-analysed recently — found type I fibres making up **22 ± 7%** of fibres (range 16–34%), against
+**59 ± 10%** in the vastus lateralis and **82 ± 14%** in the soleus of the same men (Soendenbroe et al.,
+2026). An older four-cadaver series, as its figures are reported by a later MRI study, placed the long and
+lateral heads at about 60% type II and the medial head at about 40% type II — the deep, always-active head
+being the slowest (Wakahara et al., 2012).
+
+**What follows, which is less than it sounds.** A fast muscle is not a muscle that grows only from heavy
+loads. The same nine previously untrained men bench pressed for six weeks at 75% of one-repetition maximum
+and, after a year of detraining, for six weeks at 30% taken to volitional fatigue: MRI cross-sectional area
+of the triceps rose **11.9%** and **9.8%** respectively, and the authors report the two increases as similar
+(Ogasawara et al., 2013a). **Caveat:** the low-load block always came second, a year after the first, so it
+is not a randomized comparison. In trained men randomized to 25–35 or 8–12 repetitions per set to failure,
+elbow-extensor thickness rose 5.2% and 6.0%, with no difference between groups (Schoenfeld et al., 2015b).
+**Nothing in Part IX §F.3 turns on fibre type**, for the reason already given in Part II §A.6: at matched
+effort, load is a free choice for hypertrophy.
+
+---
+
+### A.7 The muscles you cannot separate it from
+
+| Muscle | Relationship | Consequence for training |
+|---|---|---|
+| Anconeus | A small extensor beside it; its fascia is continuous with the triceps tendon's lateral expansion (Keener et al., 2010) | Trains in every elbow extension. **Never a target**: 10.8 cm³ against the triceps' 372 cm³ (Holzbaur et al., 2007) |
+| Pectoralis major and [anterior deltoid](#anteriordeltoid) | Share every press | A press set is shared work, and the pectoralis major grew more than the triceps from bench pressing alone (Lanza et al., 2024) |
+| [Latissimus dorsi](#latissimusdorsi), [teres major](#teresmajor), posterior deltoid | Share shoulder extension with the long head | Every row, pulldown and pullover asks the long head for shoulder-extension moment while it shortens at the shoulder; none has been measured for triceps growth (Part IX §D.5) |
+| [Elbow flexors](#elbowflexors) | The direct antagonists | The one pairing in the upper arm with no shared action at all, so they can be trained back to back without either limiting the other |
+| Wrist and finger flexors and extensors | Hold the handle | In a single-arm pushdown, turning the palm up raised long-head activity and also changed wrist flexor and extensor activity (Villalba et al., 2024) |
+
+**And one consequence of the shared press that has no equivalent elsewhere.** In the closed chain of a
+bench press, the torque the triceps produces at the elbow is **transmitted through the arm into
+horizontal-flexion and adduction torque at the shoulder**; in a three-dimensional model that transfer
+considerably reduced the torque the shoulder muscles themselves had to produce, while adding an
+internal-rotation torque at the shoulder that the external rotators must resist (Biscarini et al., 2020).
+The triceps is not merely along for the ride in a press: it helps the chest move the bar. **Promising but
+under-replicated** — one model, and only its abstract could be read.
+
+---
+
+### A.8 How the triceps is injured
+
+**The distal triceps tendon ruptures rarely, and when it does in an athlete, a barbell is the most common
+setting.** A systematic review of 277 athletes (283 elbows) who had a
+[distal triceps rupture](#distaltricepsrupture) repaired found a mean age of 36.2 years, **96.4% men**, sport
+the reported cause in 59.0% of cases, and **weightlifting the single most common sport at 40.7%**, ahead of
+American football at 26.6% (Vandenberg et al., 2026). In the general population it is uncommon enough that
+one Slovak university hospital recorded twenty-three cases in ten years, an incidence of
+**0.46 per 100,000** (Sekáč et al., 2024).
+
+**Four features of the injury line up with the anatomy above.**
+
+1. **It is an [eccentric](#eccentriccontraction) injury.** The usual mechanism is loading of the triceps while it contracts against an elbow being forced to bend (Shivdasani et al., 2024).
+2. **The bench press is where it has happened in lifters.** Of four weightlifters with closed avulsions of the tendon from the olecranon, **three were injured bench pressing heavy weights**; all four had taken oral anabolic steroids, and two had received local steroid injections into the triceps (Sollender et al., 1998). In more than eight thousand insured patients who had a repair, prior anabolic steroid use was a significant risk factor for revision surgery within a year (Lee et al., 2023).
+3. **It can be partial.** The two-layer insertion of Part IX §A.2 means one layer can fail alone; an isolated deep (medial-head) injury shows up as weakness with the elbow bent past 90°, which is why the authors advise testing strength with the elbow fully bent (Madsen et al., 2006).
+4. **It can be missed.** Full-thickness tears presenting as swelling at the back of the elbow have been misdiagnosed as olecranon bursitis (Shivdasani et al., 2024).
+
+**The overuse problems are more common than the tear and less dramatic.** In 847 patients seen at one
+orthopaedic elbow clinic, **triceps tendinopathy** made up 5.0% of diagnoses, the fifth most frequent
+(Zanesco et al., 2025). And a [snapping triceps](#snappingtriceps) — part of the triceps slipping over the
+bony point on the inner side of the elbow as it bends — is rare but distinctive: across the 64 published
+cases, **90.6% also had an unstable ulnar nerve** and 64.1% had ulnar-nerve symptoms (Xia et al., 2026). A
+snap at the inside of the elbow on every repetition, with tingling into the little finger, belongs in
+Part IX §E.4.
+
+**The training consequence, which is small and specific.** The case reports do not say in which phase of the
+lift the tendon failed, so the mechanism can only be matched in general: an eccentric load, in heavy pressing.
+The countermeasure is the one Part VIII gives for the pectoralis major — arrive at the bottom of a heavy press
+under control, at a load you could stop (Part VIII §C.2).
+
+---
+
+### A.9 What the anatomy dictates, in nine lines
+
+1. **The triceps is the largest muscle of the upper arm** — 14.5% of upper-limb muscle volume, slightly more than the three main elbow flexors combined (Holzbaur et al., 2007).
+2. **Three heads, one insertion, and only the long head crosses the shoulder.**
+3. **The elbow lengthens every head** — by 28% or about 60% of the long head's optimal length per 90°, depending on the cadaveric dataset (Murray et al., 2000).
+4. **The shoulder lengthens the long head alone** — about a fifth of fascicle length between an overhead extension and a pushdown at the same elbow angle (Stasinaki et al., 2018).
+5. **It is a force muscle**, with the greatest moment-generating capacity of any single elbow muscle (Murray et al., 2000); whether it grows by steepening its fibres rather than lengthening them is **promising but under-replicated** (Kawakami et al., 1995).
+6. **The heads share the work differently by arm position** — the long head leads with the arm down, the medial head with the arm up (Kholinne et al., 2018).
+7. **A press under-grows the end nearest the shoulder; a lying extension under-grows the end nearest the elbow** — and in both cases the least-activated region grew least (Wakahara et al., 2012).
+8. **It is fast-twitch — 22% type I — and still grows from light loads taken to fatigue** (Ogasawara et al., 2013a).
+9. **Its insertion has two layers, it tears eccentrically, and in athletes the setting is usually a barbell** (Vandenberg et al., 2026).
+
+---
+
+## partixbbiomechanics
+
+**PART B — Biomechanics — what actually loads the triceps**
+
+### B.1 The joint actions, ranked
+
+| Action | Who does it | How much leverage | How well an exercise can load it |
+|---|---|---|---|
+| Elbow extension | All three heads and the anconeus | **The greatest moment-generating capacity of any single muscle crossing the elbow, in every specimen measured** (Murray et al., 2000) | Directly and completely. Every exercise in Part IX §D |
+| Shoulder extension | **Long head only** | Small with the arm down and several times larger with the arm raised: the combined passive and stimulated shoulder-extension moment, at a standardized stimulation voltage, averaged **2.2 N·m with the arm at the side, 13.4 N·m at 80° and 12.3 N·m at 120° of elevation** (Landin et al., 2018) | Only incidentally. Every row, pulldown and pullover extends the shoulder, and none has ever been measured for long-head growth (Part IX §D.5) |
+
+**Two things follow, and the second is the one that organizes this Part.**
+
+- **The triceps is an elbow muscle with a shoulder attachment, not a shoulder muscle.** Its shoulder role is real but small with the arm down. In the stimulation study shoulder angle was the only significant factor, the moment rising significantly from 0° to 80°, which the authors attributed — tentatively — to a lengthening moment arm (Landin & Thompson, 2011).
+- **At the elbow, the triceps is the largest single muscle, not the stronger side of the joint.** It had the greatest moment-generating capacity of any single elbow muscle in every specimen (Murray et al., 2000); multiplied out from the same study's mean cross-sections and moment arms, the biceps, brachialis and brachioradialis together exceed it by about a quarter. Why the triceps rarely ends a medium- or wide-grip bench press is the moment the elbow must supply over most of the lift, not its size (Part IX §B.8).
+
+---
+
+### B.2 Length — both joints lengthen the long head; only the shoulder separates it
+
+**This is the section the whole Part rests on.** Two joints change the long head's length. Only one of them
+changes it without changing the other two heads, and that asymmetry — not a difference in size — is what
+makes shoulder position the triceps' structural lever.
+
+```
+WHAT CHANGES THE LONG HEAD'S LENGTH, AND BY HOW MUCH
+  THE ELBOW          A 2-cm moment arm: 90 deg of flexion = 28% of optimal
+                     length against 12.7-cm cadaver fascicles (Murray 2000),
+                     ~60% against 5.2-cm fascicles (Ruggiero 2016)
+  THE SHOULDER       Modelled long-head length longer than at 0 deg at
+                     45, 90 and 135 deg of elevation; 135 vs 180 deg not
+                     significantly different (Kholinne 2018)
+  MEASURED IN A LIFT Pushdown 44-51 mm (held at 10 and 90 deg), overhead
+                     60-67 mm (held at 70 and 150 deg); at a matched elbow
+                     angle ~10 mm of the gap is the shoulder, and 80 deg of
+                     elbow motion adds 6-7 mm (Stasinaki 2018)
+  THE OTHER HEADS    Lateral and medial lengths did not change with shoulder
+                     position at all (Kholinne 2018)
+```
+
+**One test of a related question is weaker than it looks.** Stimulated at sixteen combinations of four elbow
+angles (0–90°) and four shoulder angles, the triceps' shoulder-extension moment depended significantly on the
+shoulder and not on the elbow, and the authors inferred that bending the elbow *"does not substantially alter
+the length"* of the muscle (Landin et al., 2018). That is an inference from a moment, over only the first 90°
+of elbow flexion; with the arm at the side the moment still rose from 0.75 N·m with a straight elbow to 2.5 N·m
+at 90°.
+
+**Read the first and last rows together.** The medial and lateral heads are lengthened only by bending the
+elbow — and because their fascicles are shorter than the long head's in both cadaveric datasets
+(Murray et al., 2000), the same elbow motion should stretch them proportionally more, not less. Their longest
+position is the deepest elbow flexion, with any arm position. **A geometric inference, not a measurement**:
+whether that position reaches the long side of their force–length curves has not been measured.
+
+**One consequence for presses, which is smaller than it first looks.** As a bench press rises, the elbow
+straightens — shortening every head — while the upper arm rises toward vertical, which lengthens the long head
+at the shoulder. This is the arrangement Part VII §B.2 described for the hamstrings in a squat, but here the
+second change offsets only part of the first: from the fascicle data above, a press with the elbows tucked
+cancels roughly a third to a half of the long head's shortening, and one with the elbows flared, where the arm's
+elevation barely changes, cancels little. **A mechanical inference, not a measurement**: no study has imaged
+long-head fascicles through a press, and it is not needed to explain Part IX §A.5, where the region that one
+session activated least was the region that grew least.
+
+---
+
+### B.3 Leverage and the strength curve
+
+**The triceps' leverage at the elbow is small and it changes less than most muscles' does.**
+
+| Quantity | Value | Source |
+|---|---|---|
+| Moment arm, cadaver, 30–120° of elbow flexion | Peak **2.3 ± 0.3 cm**, average 2.0 ± 0.2 cm | Murray et al., 2000 |
+| Moment arm, living adults by MRI | **1.74 ± 0.13 cm at 110°** of flexion, rising to **2.39 ± 0.14 cm at 30°** | Sugisaki et al., 2010 |
+| What sets it | The front-to-back thickness of the ulna at the olecranon (r² = 0.61), not bone length | Murray et al., 2002 |
+| What training does to it | ACSAmax **+33.6 ± 11.9%**, moment arm only **+5.5 ± 4.0%** after 12 weeks — smaller than the pre-training relationship predicted | Sugisaki et al., 2015 |
+
+**Read the second row, because it runs opposite to intuition.** The triceps' moment arm is **largest near a
+straight arm and smallest when the elbow is deeply bent**. At 110° of flexion the muscle has about three
+quarters of the leverage it has at 30°, so it must produce proportionally more force for the same torque there
+(Part IX §B.9). Shoulder position does not change this lever: all three heads pull on the same olecranon.
+
+**What the elbow can produce, joint angle by joint angle.**
+
+```
+ISOMETRIC ELBOW EXTENSION STRENGTH BY ELBOW ANGLE
+(converted to flexion from a straight arm)
+  Akima 2021, 17 adults, shoulder 45 deg abducted, mean +/- SE
+      120 deg flexed   20.2 +/- 2.7 N.m
+       90 deg flexed   22.1 +/- 2.8 N.m      no significant difference
+       60 deg flexed   18.6 +/- 2.3 N.m      between the three
+  Abdelzaher 2013, 22 men, cable tensiometer, supine
+       90 deg flexed   13.1 +/- 4.6 kg
+       45 deg flexed   11.1 +/- 4.2 kg
+  Doheny 2008, eight angles
+       lowest near a straight arm, rising to a peak near 80 deg,
+       declining beyond it (as summarized by Landin 2018)
+```
+
+**The practical reading is short.** Across the middle of its range — roughly 60° to 120° of flexion — the
+elbow's extension strength is **nearly flat**, and it falls away toward a straight arm. **An exercise whose
+external torque peaks anywhere in that middle band is matched to the muscle; one whose torque peaks at
+lockout is loading the elbow where it is weakest.** That is the whole case against the [kickback](#tricepskickback) as a
+primary exercise (Part IX §B.7).
+
+**Every strength curve above was measured with the arm low.** In the one comparison across shoulder positions,
+isometric elbow-extension force was lowest with the arm at the side and neutrally rotated and highest with the
+shoulder abducted and externally rotated (Bohannon, 1990). **Promising but under-replicated** — hand-held
+dynamometry, and the abstract gives neither the elbow angle nor the magnitudes. No study has measured the
+triceps' strength curve with the arm overhead.
+
+**And one thing leverage does not explain.** Hypertrophy barely moves the moment arm (Sugisaki et al.,
+2015), so a bigger triceps is a stronger triceps almost entirely because it is bigger, not because it pulls
+from further away.
+
+---
+
+### B.4 What decides which exercise trains which head
+
+**The shoulder's position is the only structural lever that shifts work between the heads, because it is
+the only thing that changes one head's length without changing the others' (Part IX §A.2).** Every exercise
+in this Part, presses included, is classified by one rule.
+
+> **Shoulder position class of a triceps exercise.** At the instant the elbow is most
+> flexed, measure humeral elevation — the angle between the upper arm and the trunk's long axis, 0° with the
+> arm at the side — and note whether the elbow lies behind the frontal plane through both shoulder joints.
+> **Down:** elevation less than 45°; or the elbow behind that plane with elevation less than 90°. **Raised:**
+> any other position with elevation of at least 45° and less than 135°. **Overhead:** elevation of 135° or
+> more. The class is the same whether the lifter stands, sits or lies.
+>
+> **Caveat:** the 135° boundary is a convention. The one study that estimated long-head length across
+> shoulder angles compared 45°, 90°, 135° and 180° with 0° and found no significant difference between 135°
+> and 180° (p = 0.137) — in ten people, with lengths computed from a generic scaled musculoskeletal model rather
+> than measured, and without reporting whether length still rose between 90° and 135° (Kholinne et al., 2018).
+
+**The evidence, in order of how directly it answers the question.**
+
+```
+WHAT SHOULDER POSITION DOES TO TRICEPS GROWTH
+  1. ONE MRI VOLUME TRIAL, ONE ARM AGAINST THE OTHER (Maeo 2023)
+     21 adults, cable elbow extension 90-0 deg in both arms, 12 weeks
+     OVERHEAD arm vs DOWN arm, change in muscle volume:
+       Long head              +28.5% vs +19.6%   d = 0.61   P < 0.001
+       Lateral + medial       +14.6% vs +10.5%   d = 0.39   P = 0.002
+       Whole triceps          +19.9% vs +13.9%   d = 0.54   P < 0.001
+     ...with absolute loads 34-39% LOWER overhead the whole way through
+
+  2. ONE SIX-WEEK TRIAL THAT FOUND NO DIFFERENCE (Stasinaki 2018)
+     9 novice women, pushdown (DOWN) vs overhead extension (OVERHEAD)
+       Long-head thickness at 50%  +10.7% vs +13.7%   p = 0.618
+       Long-head thickness at 60%  +15.5% vs +19.4%   p = 0.641
+       Proximal longitudinal area  +13.5% vs -0.1%    p = 0.274
+     - but the two arms also trained DIFFERENT ELBOW RANGES
+       (pushdown 90->10 deg, overhead 150->70 deg), and only the long
+       head was measured
+
+  3. ONE HEAD-BY-HEAD TRIAL (Brandao 2020)
+     Bench press alone vs lying triceps extension (RAISED) alone:
+       long head grew more with the extension, lateral head more
+       with the press, medial head no different
+```
+
+**How to read them.**
+
+- **The first result is the largest and cleanest in this Part.** The same people did the same elbow range, sets, repetitions and progression rule, and the shoulder was the variable the trial set out to change; the overhead arm grew about half as much again in the long head. **Moderate evidence** — one trial, twenty-one adults who were not resistance trained, and the abstract is all this document could read. **Caveat:** the abstract does not report where the pulley was, and a cable's moment about the elbow depends on its angle to the forearm (Part IX §B.7), so whether the two arms shared a [resistance profile](#resistanceprofile) is unknown.
+- **The second does not contradict the first as directly as it seems.** It lasted six weeks rather than twelve, measured one head rather than three, and let the two arms work different parts of the elbow's range — so the overhead arm had both the longer long head *and* the deeper elbow. A review of the two trials names the measurement, the duration and the exercise set-up as candidate explanations (Pedrosa et al., 2026). Its point estimates favoured the overhead arm for thickness at both sites and for distal longitudinal area, but not for proximal area, which changed −0.1% overhead against +13.5% with the pushdown (Stasinaki et al., 2018); none of these differences was significant, and nine participants could not resolve differences of either size.
+- **The third points the same way as the first, from a different comparison.** The exercise that grew the long head more was the single-joint extension with the arm raised; the one that grew the lateral head more was the press (Brandão et al., 2020).
+
+**The result nobody predicted.** The monoarticular lateral and medial heads also grew more in the overhead
+arm — by 1.4-fold — even though their length does not depend on the shoulder (Maeo et al., 2023). A review
+calls this *"unexpected"* and suggests that factors other than muscle length may have been at work
+(Pedrosa et al., 2026). Two candidates exist, and neither has been tested. The first is a shift of share:
+with the long head lengthened, a model assigns more of the elbow's force to the medial head
+(Kholinne et al., 2018) — but at loads 34–39% lower, the short heads could only have carried more absolute
+force overhead if their share of the work rose by half or more, from 60% to above 90%, for example. The second
+is set-up: the two arms need not have shared a resistance profile, and the same review names pulley height and
+distance as unexamined differences (Pedrosa et al., 2026). **Promising but under-replicated** for both.
+
+> **The rule this section licenses.** An overhead extension should be in every triceps program. It is the
+> only elbow-extension position shown, in the same people, to add growth over another — to the long head
+> most, and to the whole muscle — and it did so with a lighter weight. **Moderate evidence**: one twelve-week
+> MRI trial, supported in direction for thickness, though not for proximal area, by a six-week trial that was
+> too small to confirm it.
+
+---
+
+### B.5 The two steering wheels — shoulder position and elbow range
+
+| Variable | What the mechanics predict | What was measured |
+|---|---|---|
+| **Shoulder position** | Overhead lengthens the long head and no other head | More growth overhead in the long head **and** the other two (Maeo et al., 2023). **The strongest lever in this Part** |
+| **Shoulder position, the price** | Less load — partly the forearm's own weight moving from assisting the extension to resisting it, partly a smaller elbow moment; whether the lengthened long head is weaker has not been measured | Absolute loads **34–39% lower** overhead throughout twelve weeks (Maeo et al., 2023). The often-quoted one-repetition maxima of **8.56 ± 2.7 kg overhead against 14.86 ± 2.2 kg in a pushdown** were tested over different elbow ranges, so they are not a position-only comparison (Stasinaki et al., 2018) |
+| **Elbow range — a partial in the middle** | Less range, with the torque peak inside it | In 44 trained men, lying barbell extensions at equal workloads through **45°–90° of flexion** grew triceps cross-section **48.7 ± 14.5%** against **28.2 ± 10.9%** for **0°–120°** over eight weeks (Goto et al., 2019) |
+| **Elbow range — a partial at the bent end** | The lengthened half of the rep, with the heaviest part of the torque curve inside it | In 25 trained adults, **[lengthened partials](#lengthenedpartials) of about half the range**, every set to [momentary failure](#momentaryfailure), were not distinguishable from full-range repetitions for elbow-extensor growth: at 55% of humeral length +1.9 mm against +3.0 mm ([Bayes factor](#bayesfactor) 0.39, "anecdotal" support for no difference); at 45%, +2.6 mm against +3.1 mm (Bayes factor 0.20) (Wolf et al., 2025) |
+
+**The two elbow-range rows need reading carefully, because the first one is too good to take at face value.**
+Growth of 48.7% in cross-section in eight weeks, in **trained** men, is the largest triceps figure in this
+document: the whole triceps grew 14–20% over twelve weeks in the untrained MRI trial of Part IX §B.4, and
+twelve weeks of dedicated triceps training raised peak cross-section 33.6% (Sugisaki et al., 2015). The partial
+group trained through the elbow's torque peak around 90°, as did the full-range group, and loads did not
+differ, which a review notes makes a *greater* effect from the partial hard to reconcile
+(Pedrosa et al., 2026). **Evidence remains limited and inconsistent** for a mid-range partial advantage; treat
+the trial as showing that a partial through the middle of the range is not inferior, and nothing more.
+
+**The second row is the better guide, and it is a guide to equivalence within wide limits, not to zero
+cost.** Lengthened partials on a dumbbell overhead extension and a cable pushdown could
+not be separated from full range, but both point estimates favoured full range and the trial could not exclude
+a small cost (Wolf et al., 2025). **Promising but under-replicated** — the same label the glossary carries.
+
+> **The rule, in one line.** Shoulder position changes growth; elbow range, within the ranges tested, has not
+> been shown to change it reliably. **Raise the arm; the shortened half of the rep is the cheapest part to
+> lose.**
+
+---
+
+### B.6 The stimulus map for the triceps
+
+```
+SHOULDER CLASS   ELBOW RANGE     LONG HEAD     LATERAL/MEDIAL   DEMAND        JOINT COST
+                 TRAINED         LENGTH        LENGTH
+-------------------------------------------------------------------------------------------
+OVERHEAD         deep, to        LONGEST       Longest the      Set by the    Shoulder must
+(>=135 deg)      ~90 deg+        (+ passive    elbow allows     implement:    reach 135 deg+;
+                                  tension)                      peak ~90 deg  elbow fully bent
+                                                                with a dumb-  under load
+                                                                bell; at      (Part IX E.4)
+                                                                lockout with
+                                                                a high pulley
+
+RAISED           deep, to        Long          Longest the      High, peak    Low for most
+(45-134 deg)     ~90 deg+                      elbow allows     at ~90 deg    shoulders
+                                                                              (lying extension)
+
+DOWN             90 deg to       SHORT         Moderate         High near     Lowest
+(<45 deg, or     straight                                       90 deg, falls (pushdown)
+elbow behind)                                                   toward lockout
+
+DOWN, arm        90 deg to       SHORTEST      Short            Zero at 90,   Low, but the
+alongside the    straight                                       PEAK at       strength curve's
+bent-over trunk                                                 lockout       weakest point
+                                                                              (kickback)
+
+PRESS            ~90 deg to      Shortens,     Moderate         At the chest, Set by the shoulder
+(DOWN at the     straight        less than in                   rises as the  (Part VIII §C.2)
+bottom)                          an extension                   grip narrows;
+                                 (Part IX B.2)                  similar at
+                                                                every grip at
+                                                                the sticking
+                                                                region
+                                                                (Part IX B.8)
+```
+
+**Read the first and fourth rows against each other.** They are the two ends of the triceps' length
+range. A dumbbell overhead extension puts substantial torque where the long head is longest; the kickback
+puts its peak torque where every head is shortest and the elbow is weakest. **The overhead row has every
+variable on its side only with the right implement** — with a cable from a high pulley it loses the bottom
+(Part IX §B.7).
+
+---
+
+### B.7 Resistance profiles
+
+A resistance profile says where in the range an exercise is hardest. For elbow
+extension it depends on one thing: **the angle at which the forearm is perpendicular to the line of the
+resistance**, because that is where the resistance's moment arm about the elbow is largest. Classes below use
+the glossary's thirds rule over a 0°–140° elbow range; a shorter range can change the class.
+
+| Exercise | Where the forearm is perpendicular to the resistance | Profile |
+|---|---|---|
+| **Overhead dumbbell or EZ-bar extension** (upper arm vertical) | At **90°** of flexion; torque scales with the sine of the elbow angle — 50% at 30°, 87% at 60°, 100% at 90°, 64% at 140° | **Mid-range-loaded**, with nearly two thirds of peak still present at the bottom |
+| **Lying extension, upper arm vertical** | At **90°**, the same sine profile | **Mid-range-loaded** |
+| **Lying extension, upper arm angled back toward the head** | At **90° minus the tilt**: torque scales with the sine of (elbow angle + tilt), so the tilt moves the peak toward lockout — at a 30° tilt, 50% of peak with a straight arm and 50% at 120° | **Mid-range-loaded** up to a tilt of about 45°; **short-loaded** beyond it |
+| **Incline-bench extension, upper arm vertical to the floor** | At **90°**, the same sine profile; shoulder elevation equals 90° plus the bench angle | **Mid-range-loaded** — the only lying set-up that raises the shoulder angle without moving the peak toward lockout |
+| **Cable pushdown, standing close under a high pulley** | Near **90°** at the start; with a vertical cable the moment arm falls to zero at lockout | **Stretch-loaded within its own range**, which begins near 90° and so never reaches the long lengths |
+| **Cable overhead extension, facing away from the pulley** | At an elbow angle equal to the upper arm's forward lean minus the cable's angle above horizontal. With a vertical upper arm, a pulley at hand height puts the peak at lockout and removes all load beyond 90°; only a cable running down from the hands and an upper arm leaning forward move the peak past 90° | **Short-loaded** with the pulley at or above the hands; **mid-range-loaded** with it below; **stretch-loaded** only with a low pulley and a forward-leaning upper arm |
+| **Kickback, upper arm alongside the bent-over trunk** | At **0°** — a straight arm; at 90° the forearm hangs in line with the dumbbell and the torque is zero | **Short-loaded** — peak demand at the strength curve's weakest point (Part IX §B.3) |
+| **Close-grip bench press** | Measured: the bar force's moment arm about the elbow is largest at the bottom and falls near lockout (Part IX §B.8) | Peak in the lower half |
+| **Push-up** | Measured: peak elbow moment reached 56% of maximal isometric elbow-extension strength with the hands in the usual position, 71% with them together and 29% with them wide (Donkers et al., 1993) | Not reported by angle in the abstract; hand position scales the peak by more than two-fold |
+
+**Most of these profiles are geometry, not measurement.** The first seven follow from the direction of the
+resistance and the position of the forearm; the last two were measured with force cells or a force plate.
+
+**The dumbbell overhead extension's profile is the reason it is the best free-weight triceps exercise.** It
+has substantial torque at the bottom — nearly two thirds of peak even at 140° — while the long head is at its
+longest, and it reaches its peak in the band where the elbow is strongest. **The kickback's profile is the
+reason it is the worst.** Its torque is zero at the bottom and highest at a straight elbow, so the load is
+chosen by the weakest position and the rest of the range is underloaded. **And the cable overhead extension is
+only as good as its pulley height**: from a pulley at head height or above — the common rope set-up — it
+behaves like a kickback with the arm raised.
+
+---
+
+### B.8 The press and the triceps
+
+**Every press trains the triceps. The questions are how much, when in the lift, which head, and whether it
+is enough on its own.**
+
+**How much, by grip.** In fourteen trained men at a one-repetition maximum, the moment arm of the bar force
+about the elbow with the bar on the chest was **0.00 m at a grip of 1.7 [biacromial widths](#biacromialwidth),
+0.03 m at 1.4 and 0.08 m at 1.0** — about 0, 16 and 41 N·m at each grip's load (Part VIII §B.9). **The chest is
+one instant of the lift.** At the [sticking region](#stickingregion) the three moment arms were 0.06, 0.06 and 0.07 m
+(Larsen et al., 2020): converted the same way, about 32 N·m with the wide grip against 36 N·m with the narrow
+one. Triceps activity agrees — 62.7% of a maximal contraction at an 81 cm grip against 70.3% at a narrow grip
+(Saeterbakken et al., 2021). **[Grip width](#gripwidth) moves where in the press the triceps is loaded more
+than whether it is loaded.** **Moderate evidence**: one moment-arm study and one EMG study.
+
+**When, in the lift.** In a link-chain model of the bench press and [overhead press](#overheadpress), the
+elbow extensors contributed minimally early and **became dominant near full extension**; adding elbow torque to
+the model moved the sticking region earlier and made it shallower, and the authors suggest a
+slightly narrower grip for lifters whose sticking region is late (Evangelista et al., 2025). **Moderate
+evidence** — a model with constant joint torques, checked against one lifter's bar velocity.
+
+**Which head.** The press grows the lateral head well and the long head poorly. A bench press alone did not
+significantly increase whole-triceps cross-section in untrained men, yet grew the lateral head more than a
+lying extension alone did (Brandão et al., 2020), and twelve weeks of a press grew the most proximal triceps
+least (Wakahara et al., 2013).
+
+**Enough on its own? Sometimes — and the trials disagree on when.**
+
+```
+24 WEEKS OF BENCH PRESSING ONLY - 7 previously untrained men
+(75% 1RM, 3 x 10, 3x/week, grip 2.0 biacromial widths, load reset to
+ the new 1RM every 3 weeks; ultrasound thickness, mm; Ogasawara 2012)
+                 Pre     6 wk    15 wk   24 wk     change 15 -> 24 wk
+  Pectoralis     21.1    25.3    28.4    30.2      significant
+  Triceps        34.2    37.7    39.0    40.1      +1.1 mm, not significant
+                                                   at a corrected alpha of 0.006
+  Biceps         25.1    25.4    26.5    26.0      no significant change at all
+```
+
+**Read the triceps row as a slowing, not a proven stop.** The triceps grew about 17% by 24 weeks and had done
+four fifths of it by week 15, while the chest's late gain reached significance. But seven men and a corrected
+α of 0.006 cannot separate a plateau from a slower slope, and a logarithmic curve fitted the triceps
+(r² = 0.976) as closely as the chest (Ogasawara et al., 2012). **Promising but under-replicated** as a
+triceps-specific plateau. In the same group's continuous-training arm both muscles slowed after six weeks, and
+three-week breaks restored the rate (Ogasawara et al., 2013b) — the signature of a program the muscle has
+adapted to, not of an exercise that has run out.
+
+**What the press-only trials show together is a dose-and-effort pattern, not a time limit.** In trained men,
+pressing alone raised elbow-extensor thickness 1.1% in eight weeks at six weekly sets and 5.5% at thirty, and
+only the highest volume changed significantly within its group (Schoenfeld et al., 2019a); seven weeks of
+4 × 6RM bench pressing twice a week thickened trained men's triceps (Zaras et al., 2022); ten weeks of a
+powerlifting-style bench program with no extension work did not significantly change it (Gavanda et al., 2026);
+and in trained women only the group whose bench sets ran to a 50% velocity loss — roughly three quarters of the
+repetitions possible — grew the triceps (Rodiles-Guerrero et al., 2026). **Evidence remains limited and
+inconsistent** on whether pressing alone is enough for the whole muscle. The consistent finding is the one in
+Part IX §A.5: pressing under-serves the long head.
+
+**And the part of the press the triceps is good at.** In a three-dimensional model of the bench press, the
+triceps' elbow torque was transmitted through the closed chain of arms and bar into shoulder
+horizontal-flexion torque, reducing what the shoulder muscles had to produce (Biscarini et al., 2020). The
+triceps is a genuine contributor to moving the bar, which is why a pre-fatigued triceps changes where a press
+fails (Part VIII §E.6).
+
+---
+
+### B.9 A worked example, so the numbers are not abstract
+
+**The question.** How much force does the triceps actually produce in an ordinary dumbbell extension, and
+where in the rep does it peak?
+
+**Step 1 — the external torque.** Take a 10 kg dumbbell held overhead with the upper arm vertical, and assume a
+distance of **0.30 m** from the elbow's axis to the centre of the hand — a round number for an adult forearm,
+chosen for illustration, not measured. The dumbbell's weight is 10 × 9.81 = 98.1 N, and its moment arm about
+the elbow is 0.30 m × sin(elbow angle), so:
+
+```
+  Elbow flexion     0 deg    30 deg   60 deg   90 deg   110 deg   140 deg
+  Torque (N.m)      0        14.7     25.5     29.4     27.7      18.9
+```
+
+**Step 2 — the muscle's leverage.** Use the MRI moment arms of Part IX §B.3 — 2.39 cm at 30° and 1.74 cm at
+110° (Sugisaki et al., 2010) — and draw a straight line between them. **That line is an interpolation; beyond
+30° and 110° it is an extrapolation, and the numbers there are marked as such.** **Interpretive caution:** the
+forearm's own weight (a few more N·m in an adult) and any co-contraction of the elbow flexors are ignored, and
+both would raise the force; the moment arms were imaged in muscle that was not contracting maximally.
+
+**Step 3 — divide.** Muscle force = torque ÷ moment arm.
+
+```
+TRICEPS FORCE IN A 10 KG OVERHEAD DUMBBELL EXTENSION
+  Elbow      External     Triceps moment    Triceps force
+  flexion    torque       arm (cm)          (N)
+  -----------------------------------------------------------
+   30 deg    14.7 N.m     2.39              ~620
+   60 deg    25.5 N.m     2.15              ~1,190
+   90 deg    29.4 N.m     1.90              ~1,550
+  110 deg    27.7 N.m     1.74              ~1,590   <- peak lies near here
+  140 deg    18.9 N.m     1.50 (extrap.)    ~1,260
+```
+
+**Step 4 — read it.** Three things.
+
+- **The force is enormous relative to the weight.** A 10 kg dumbbell asks the triceps for about 1,590 N — the weight of a **162 kg** mass — because the muscle pulls 1.74 cm from the joint while the dumbbell sits 30 cm away. This is the reason Part IX §A.3 calls the triceps a force muscle: the job demands one.
+- **The force peaks deeper than the torque does.** The external torque peaks at 90°, but the moment arm keeps shrinking as the elbow bends, so the muscle's force keeps rising to between 100° and 110° before the falling torque wins. **In a dumbbell overhead extension the triceps' force peaks in the bent third of the range, where the long head is also at its longest** — with length contributed by both the raised arm and the bent elbow (Part IX §B.2), although only the shoulder's contribution has a growth trial behind it.
+- **The kickback is the mirror image.** Tilt the same dumbbell into a kickback, with the upper arm alongside a bent-over trunk, and the torque becomes 29.4 N·m × cos(elbow angle): **zero at 90°**, maximal at a straight arm, where the muscle is at its shortest.
+
+**And the second question, answered with the trial data.** *If an overhead extension forces a lighter weight,
+is it a smaller stimulus?* In the twelve-week trial both arms worked the same elbow range, so the triceps had the
+same leverage in both; the overhead arm's loads stayed **34–39% lower** for the entire study (Maeo et al., 2023).
+Part of that gap is not torque at all — the forearm's own weight resists the extension overhead and assists it
+with the arm at the side — but the rest is a genuinely smaller moment at the elbow, and so a smaller total force
+in the common tendon. **The overhead arm grew more on a smaller total load.** What the lighter weight does not
+tell you is how much tension the lengthened long head's own fibres carried; no study has measured it.
+
+---
+
+### B.10 Setup variables
+
+| Variable | What it does | Evidence |
+|---|---|---|
+| **Shoulder position** | The master variable: lengthens the long head, lowers the load, raises growth | One MRI trial (Maeo et al., 2023), Part IX §B.4 |
+| **Pulley height, in a cable overhead extension** | Decides whether the bottom of the rep is loaded at all | Mechanical (Part IX §B.7) |
+| **Elbow range** | Lengthened partials were not distinguishable from full range; a mid-range partial beat it in one implausibly large result | Part IX §B.5 |
+| **Grip width, in a press** | Narrower raises the elbow's moment at the chest and triceps activity; wider lowers both, least at the sticking region | Wide grips lowered triceps activity against medium and narrow in 28 men (Saeterbakken et al., 2021); a narrower grip raised lateral-head activity in 35 lifters (Mausehund et al., 2022); in the overhead press a narrower grip raised the elbow's [net joint moment](#netjointmoment) (Gundersen et al., 2026) |
+| **Forearm rotation, in a pushdown** | Palm up with a handle raised long-head activity above every other grip, and allowed fewer repetitions than palm down with a handle | 22 adults, single-arm pushdown (Villalba et al., 2024) |
+| **Forearm rotation, in a press** | Supinating the grip did not change the rise in lateral-head activity as the grip narrowed | 12 men, isometric bench holds (Lehman, 2005) |
+| **Rope versus bar in a pushdown** | Rope 74% and bar 67% of a reference exercise's activity — never compared against each other statistically | One master's thesis (Boehler, 2011) |
+| **Momentum** | Deliberate body English on a cable pushdown made no difference to elbow-extensor growth over eight weeks, Bayes factor 0.06 across both sites | 25 untrained adults completing, within-person (Augustin et al., 2025) |
+| **Upper arm drifting forward in a pushdown** | Moves the exercise toward the Raised class partway through the rep, and adds shoulder extension to finish it | Mechanical |
+| **Elbows flaring in an extension** | With a free weight, little change in torque — the forearm still swings in a vertical plane — but the upper arm leaves its class and the shoulder starts to contribute; with a cable, it changes the cable's angle to the forearm | Mechanical; no measurement |
+
+**The momentum row deserves its sentence.** The only direct test of cheating on a triceps exercise found a
+Bayes factor of 0.06 favouring no difference in elbow-extensor growth (Augustin et al., 2025). It does not make
+cheating a technique worth using — the log becomes unreadable — but it retires the claim that a swung
+pushdown wastes the set. **Promising but under-replicated**, and the same label Part V §C.2 gives it.
+
+---
+
+### B.11 What EMG can and cannot settle here
+
+**The triceps has the most EMG comparisons of any arm muscle and one growth trial that shows why they
+cannot rank exercises.**
+
+| Comparison | Measured activation | What it would predict | What growth showed |
+|---|---|---|---|
+| Eight triceps exercises, 15 trained women, each normalized to a kneeling triangle [push-up](#pushup) | **Kickback 87%, bench dip 87%, overhead extension 76%, rope pushdown 74%, bar pushdown 67%, lying barbell extension 62%, close-grip bench 62%** (Boehler, 2011) | Kickbacks and bench dips are the best triceps exercises; overhead ≈ pushdown | Overhead grew **1.4–1.5 times** as much as a pushdown-position extension (Maeo et al., 2023). No growth trial of kickbacks or bench dips exists |
+| Overhead versus lying dumbbell extension, 21 trained men | **Same activation pattern** in the long and lateral heads (Alves et al., 2018) | Do not include both — the authors' own conclusion | No growth comparison exists |
+| Head by head across five shoulder positions | Long head leads with the arm down, medial head with it up (Kholinne et al., 2018) | Overhead trains the long head **less** | The long head grew **most** overhead (Maeo et al., 2023) |
+| Pushdown to failure at three loads and speeds, 25 untrained men | Signal frequencies differed between the heads, but the rate of fatigue was similar in all three (Hussain et al., 2020) | Nothing about growth | No growth trial |
+| Bench press with a [triceps focus](#attentionalfocus), 50% and 80% of one-repetition maximum | Triceps activity **+26% at 50%** and unchanged at 80% in one study (Snyder & Fry, 2012); **raised at both** loads in another (Paoli et al., 2019) | Attention adds triceps work to a press | No growth trial |
+| Push-up hand width | **Narrow** positions raised triceps activity (Kim et al., 2016); **diamond** push-ups highest for the triceps (Intziegianni et al., 2026) | Narrow push-ups are triceps-biased | No growth trial by hand width |
+| Bench, bar and ring dips | Peak triceps activity **lowest on the bench** (0.83 mV) and similar on bar (1.04 mV) and rings (1.05 mV) (McKenzie et al., 2022) | Bar dips over bench dips | No growth trial |
+
+**Read the first and third rows, because they are the whole argument.** An EMG ranking placed the overhead
+extension alongside the pushdown, and a head-by-head model said the overhead position gives the long head a
+*smaller* share of the work. **The growth trial reversed both.** This is the pattern Part VIII §B.11 and
+Part V §B.11 already recorded, and it has a named cause in this document — the
+[EMG–hypertrophy dissociation](#emghypertrophydissociation): surface amplitude tracks neural drive, not the
+passive or length-dependent part of fibre tension, and length is the variable that changed.
+
+**Two cautions about the first row, because it is quoted everywhere.** It is a master's thesis sponsored by a
+fitness-certification body rather than a peer-reviewed paper; and its two top-ranked bodyweight exercises were
+performed against body mass while every other exercise used about 70% of a one-repetition maximum, so the
+exercises were not load-matched. **Use it to learn that every common triceps exercise produces substantial
+activity, not to rank them.**
+
+**What *does* predict triceps growth, and where.** Within the muscle — region against region, in the same
+exercise — the regions that one session activated least by T2-weighted MRI were the regions that grew least over
+twelve weeks, in both studies of Part IX §A.5 (Wakahara et al., 2012). **Between** exercises, activation did not
+predict growth. Both statements are **Moderate evidence**, and they do not conflict: the first compares the same
+muscle's regions at the same length, and the second compares exercises that change its length.
+
+---
+
+### B.12 The mechanical checklist
+
+Six questions. If a triceps exercise passes all six, its selection is defensible on mechanics alone.
+
+1. **Where is the upper arm when the elbow is most bent?** Overhead, raised or down (Part IX §B.4). At least one exercise in the program should be overhead.
+2. **Is the torque still substantial at the bottom?** A dumbbell's sine profile keeps nearly two thirds of peak at 140°; a kickback, or a cable from a high pulley overhead, keeps none (Part IX §B.7).
+3. **Does the elbow bend to at least 90°?** That is the range the overhead growth trial used (Part IX §B.4); the medial and lateral heads are longest at the deepest pain-free flexion.
+4. **Does the upper arm stay where it started?** If it drifts, the shoulder class changes mid-set.
+5. **In a press, is the set hard enough to count?** Every grip width loads the elbow through the sticking region (Part IX §B.8); press-only triceps growth has appeared with high volume or sets near failure, not otherwise.
+6. **Is the load one you could stop at the bottom?** The tendon fails eccentrically (Part IX §A.8).
+
+---
+
+## partixctherepspecified
+
+**PART C — The rep, specified**
+
+### C.1 The three triceps reps
+
+Every exercise in Part IX §D is one of three movements. They differ in where the upper arm is, and
+therefore in how long the long head is (Part IX §B.4).
+
+**Rep 1 — the overhead extension.** One joint moves: the elbow. The upper arm is fixed at 135° of
+elevation or more.
+
+```
+THE OVERHEAD EXTENSION
+  Set-up   Seated with back support, or standing with ribs down and glutes
+           braced. Upper arm pointing up beside the head, elbow toward the
+           ceiling. The upper arm stays there for the whole set. With a
+           cable: the pulley BELOW the hands (Part IX B.7).
+  Descent  2-3 s. Let the forearm fall behind the head until the elbow is
+           bent to at least 90 deg - the range of the overhead trial
+           (Part IX B.4). Deeper only as far as the elbow tolerates.
+  Bottom   The long head at its longest; with a dumbbell, the triceps'
+           force highest (Part IX B.9). No bounce.
+  Ascent   1-2 s. Straighten the elbow without letting the upper arm drop
+           forward.
+  Finish   Near-straight. The last few degrees are optional
+           (Part IX B.5).
+```
+
+**Rep 2 — the arm-down extension.** One joint moves: the elbow. The upper arm hangs beside the trunk.
+
+```
+THE PUSHDOWN
+  Set-up   Stand close under a high pulley, upper arms against the sides,
+           elbows bent to about 90 deg, handle at chest height.
+  Descent  (the return) 2-3 s. Let the handle rise until the elbow is bent
+           a little past 90 deg WITHOUT the elbows moving forward.
+  Bottom   Elbow at or past 90 deg. This is where the cable's torque is
+           highest (Part IX B.7).
+  Ascent   (the push) 1-2 s, pressing straight down.
+  Finish   Straight elbow. Shoulders stay down; the trunk does not lean
+           over the handle.
+```
+
+**Rep 3 — the press.** Two joints move: the elbow extends while the shoulder flexes or adducts. The triceps
+shares the work (Part IX §B.8).
+
+```
+THE CLOSE-GRIP PRESS
+  Set-up   As the bench press of Part VIII C.1, but grip at about one
+           biacromial width - hands roughly shoulder-width, never touching.
+  Descent  2-3 s to the lower chest. Elbows track at 45-70 deg from the
+           torso (Part VIII C.2).
+  Bottom   Touch, no bounce. The load is still yours.
+  Ascent   1-2 s. The triceps takes over in the top half (Part IX B.8).
+  Finish   Straight elbows, scapulae still retracted.
+```
+
+**The one difference that matters between them.** Rep 1 is the only one of the three that lengthens the long
+head at the shoulder as well as the elbow (Part IX §B.2). Rep 2 is the easiest to take to failure and the least demanding of the
+shoulder. Rep 3 is the only one in which the triceps is not the [limiting link](#limitinglink) most of the
+time (Part IX §C.5). **A program built on Rep 3 alone is the program Part IX §A.5 and Part IX §B.8 say
+under-grows the long head.**
+
+---
+
+### C.2 The technical errors, in order of how much they cost
+
+| # | Error | What it costs | Fix |
+|---|---|---|---|
+| 1 | **Lowering a heavy press you could not stop** | The mechanism of Part IX §A.8: an eccentric load on the tendon at the bottom of the lift | A load you could pause at the chest on every repetition (Part VIII §C.2, error 1) |
+| 2 | **No overhead exercise in the program** | Forfeits the one change shown to add growth — about 1.4 times the whole-muscle and 1.5 times the long-head growth of the arm-down position (Maeo et al., 2023) | One overhead extension, always (Part IX §D.6) |
+| 3 | **The upper arm drifting during the set** | In a pushdown the elbows travel forward and the shoulder starts extending the arm to finish each repetition; in an overhead extension the arm drops forward and the long head shortens | Fix the upper arm first; lower the load until it stays put |
+| 4 | **A cable overhead extension from a pulley at or above the hands** | The cable's moment about the elbow peaks at lockout and reaches zero by 90° of flexion, so the bottom — the reason for the exercise — carries no triceps load (Part IX §B.7) | Set the pulley below the hands, or use a dumbbell |
+| 5 | **Stopping the overhead extension short of 90°** | Removes range the overhead trial trained: its whole advantage was produced between 90° and a straight arm (Maeo et al., 2023) | Bend to at least 90°; deeper is optional and untested for growth |
+| 6 | **Arching the lower back to get the arm overhead** | The range comes from the lumbar spine, not the shoulder, and the long head is not actually lengthened | Sit with back support; if the reach test of Part IX §C.3 fails, use an incline-bench extension with the upper arm vertical to the floor (Part IX §D.2) |
+| 7 | **A kickback as the main triceps exercise** | Its torque peaks at a straight arm, the weakest point of the strength curve and the shortest length of every head (Part IX §B.7) | Keep it, if at all, as a finisher |
+| 8 | **Counting presses as full triceps sets** | Over-counts the weekly dose and hides a missing extension slot | Count every press at half a set, at any grip (Part IX §F.1) |
+| 9 | **Elbows flaring outward in an extension** | With a free weight, little torque is lost — the forearm still swings in a vertical plane — but the upper arm leaves its class and the shoulder starts to contribute; with a cable, it changes the cable's angle to the forearm | Elbows pointing in the direction the forearm travels |
+
+**Errors 2, 3 and 6 are the stimulus set**: each one quietly changes which head is trained. **Error 1 is the
+injury set.** Errors 4, 5 and 7 cost load in the part of the range that matters; errors 8 and 9 cost accuracy in
+the log.
+
+---
+
+### C.3 Prerequisites — can you actually reach the positions?
+
+**Two checks.**
+
+**1. Overhead reach.** Sitting with the back supported and the lower back in contact, raise one upper arm
+beside the head. If it reaches 135° from the trunk — three quarters of the way from hanging to vertical —
+without the ribs flaring, an overhead extension is available. The wall test of Part II §C.3 asks for more
+than this Part needs.
+
+*If it fails:* do not force the overhead position with the spine (Part IX §C.2, error 6). An incline-bench
+extension with the upper arm vertical to the floor reaches 90° plus the bench angle of elevation without
+asking the shoulder for more, and keeps a free weight's torque at the bottom (Part IX §B.7).
+
+**2. A pain-free fully bent elbow.** Bend the elbow as far as it goes, unloaded, with the arm overhead and
+then with the arm at the side. Pain at the back of the elbow at full bend, a snap at the inside, or tingling
+into the ring and little fingers is not a flexibility problem — see Part IX §E.4.
+
+*If it fails:* keep the shoulder position and stop the descent at 90°. The overhead advantage was produced with
+the elbow moving between 90° and a straight arm (Maeo et al., 2023), and a partial through 45°–90° was not
+inferior to 0°–120° in the one trial that tested it (Goto et al., 2019). **Lengthened partials are the wrong
+substitute here**: they keep the deepest bend and drop the rest (Wolf et al., 2025).
+
+---
+
+### C.4 Cues — which ones work and which ones harm
+
+| Cue | Verdict | Why |
+|---|---|---|
+| "Upper arm still; only the forearm moves" | **The best cue in this Part** | It keeps the shoulder class constant through the set, which is the variable that decides which head is trained (Part IX §B.4) |
+| "Let the weight go all the way behind your head" | **Optional** | With a dumbbell the bent third is where the modelled muscle force peaks (Part IX §B.9), but the only overhead growth trial stopped at 90° (Maeo et al., 2023); depth beyond 90° is untested for growth |
+| "Think about the back of the arm doing the work" | **Useful for activation; untested for growth** | In the bench press a triceps focus raised triceps activity 26% at 50% of one-repetition maximum and not at 80% (Snyder & Fry, 2012); in another study it raised long-head activity at both 50% and 80% (Paoli et al., 2019). In a machine shoulder press, a triceps focus raised triceps activity without changing the upper trapezius (Kim et al., 2026). **Promising but under-replicated** — activation, not growth |
+| "Elbows in" on a close-grip press | **Situational** | Grip width, not elbow tuck, is what has been measured to shift work to the elbow (Part IX §B.8); the Part VIII limit still applies — 45–70° of abduction, not tucked to the ribs (Part VIII §C.2) |
+| "Lock out hard and squeeze" | **Harmless and nearly useless** | The last degrees of extension are the weakest part of the strength curve (Part IX §B.3), and dropping the whole shortened half of the rep was not measurably worse (Wolf et al., 2025) |
+| "Lean over the pushdown to move more weight" | **Harmful to the record, not the muscle** | Momentum did not change elbow-extensor growth (Augustin et al., 2025), but a lean turns the shoulder into a contributor and the logbook stops meaning anything |
+| "Keep the elbows flared to hit the outer head" | **Not supported** | No study has shown elbow flare changing the lateral head's share; mechanically it changes the upper arm's class rather than the forearm's torque (Part IX §C.2, error 9) |
+| "Palms up on the pushdown for the long head" | **Situational** | It did raise long-head activity with a handle, and it cost repetitions (Villalba et al., 2024). Activation only; the long head's length is unchanged because the shoulder is unchanged |
+
+---
+
+### C.5 The limiting links
+
+**What actually ends a set, in order of how often it is the real answer.**
+
+| Exercise | Limiter | How you know | What to do |
+|---|---|---|---|
+| **Bench press, wide or medium grip** | **The shoulder and chest at the sticking region** | The bar stalls in the first third of the ascent (Part VIII §B.8) | Nothing is wrong with the triceps. It was never the limit |
+| **Close-grip press, dip** | The triceps near lockout, or the shoulder at the bottom | Stall in the top half versus stall off the chest or at the bottom of the dip | A top-half stall is genuine triceps work; a bottom stall is Part VIII's problem |
+| **Overhead press** | **Evidence remains limited and inconsistent** | Part V §C.5 names the triceps near lockout; a link-chain model placed the overhead press's velocity minimum near full elbow extension only when elbow torque was removed, and at 47 cm of bar travel when it was present (Evangelista et al., 2025) | Treat a lockout stall as shared, not as proof of weak triceps |
+| **Overhead extension** | The elbow's tolerance at the bottom, then the triceps | Discomfort at the back of the elbow before fatigue | Stop each repetition at 90° and keep the shoulder class; lowering the arm is the change with a growth trial against it (Part IX §C.3) |
+| **Pushdown** | The triceps — but the trunk lean arrives first if the load is too heavy | The torso starts to fold over the handle | This is the exercise to take to failure; lower the load until it is the triceps that stops |
+| **Kickback** | The straight-arm position | The final part of the extension will not complete while the rest of the range still can | The exercise's own profile (Part IX §B.7) |
+
+**The mechanics make the first row predictable.** In a medium- or wide-grip press the elbow's moment is small
+at the chest and only matches a close grip's at the sticking region (Part IX §B.8), so the shoulder is usually
+what runs out. **Presses are the place where triceps work is done but the triceps is rarely finished**, which
+is why Part IX §D.6 does not let them stand in for an extension.
+
+---
+
+### C.6 The elbow in extensions
+
+**The one joint issue specific to this Part.** Every exercise in Part IX §D bends the elbow fully under load,
+and three things can go wrong at the back and inside of the elbow that do not show up in a press.
+
+- **Pain at the tip of the elbow at the bottom of an extension.** The tendon's insertion and the back of the joint are loaded at full bend. It is an assessment problem before it is a technique problem (Part IX §E.4); triceps tendinopathy made up 5.0% of diagnoses in one elbow clinic (Zanesco et al., 2025).
+- **A snap at the inside of the elbow on every repetition.** Consistent with a snapping medial head, which in the published cases almost always coexisted with an unstable ulnar nerve (Xia et al., 2026). Do not train through it.
+- **Tingling into the little and ring fingers during or after a set.** Ulnar-nerve irritation. In twenty cadavers the ulnar nerve was stretched most at full elbow flexion, directly behind the inner bony point of the elbow — by up to 14%, and by more than 10% in a quarter of nerves (Toby & Hanesworth, 1998) — so the fully bent elbow, not the load, is the first thing to change. Stop the exercise that provokes it and get it assessed.
+
+**What changes in the rep.** A shorter elbow range, a neutral grip rather than a straight bar, and a cable
+rather than a dumbbell at the bottom are all legitimate ways to keep an overhead extension in a program for an
+irritable elbow. **None of them has been tested** for comfort or growth; the case for each is only that it
+changes the loading at the bottom without changing the shoulder class, which is the part that has been tested.
+
+---
+
+### C.7 How to know it worked
+
+**Within the set.** Fatigue in the back of the upper arm, not at the elbow, not at the front of the shoulder.
+
+**Within 48 hours.** Soreness along the back of the arm. **Soreness only at the tip of the elbow is not muscle
+soreness** (Part IX §C.6).
+
+**Within 8–12 weeks.** Measurable change. The whole triceps grew 13.9% in the arm-down position and 19.9%
+overhead in twelve weeks of untrained training (Maeo et al., 2023); ultrasound thickness rose within five weeks
+of bench pressing alone in untrained men (Ogasawara et al., 2012).
+
+**What is not evidence that it worked.**
+
+- **A bigger [close-grip bench press](#closegripbenchpress).** It is shared with the chest and shoulder, and strength rises through technique first.
+- **Arm circumference.** A tape at the upper arm measures the biceps, brachialis, triceps and subcutaneous fat together, and in an MRI study of 104 adults training one arm for twelve weeks, subcutaneous fat changed no differently in the trained arm than in the untrained one (Kostek et al., 2007).
+- **A visible "horseshoe".** That shape is the lateral and long heads' borders under thin skin, and it is visible or not mostly because of body fat.
+
+---
+
+## partixdexercisecatalogue
+
+**PART D — Exercise catalogue**
+
+Every entry gives its shoulder position class (Part IX §B.4), its resistance profile (Part IX §B.7), the
+set-up detail that matters, and the failure mode. **Entries are grouped by shoulder class**, because that is
+the variable with a growth trial behind it.
+
+A warning that applies to the whole catalogue: **the triceps has two exercise-comparison trials with a size
+outcome that differ only in arm position, both overhead against arm-down — a twelve-week MRI trial (Maeo et
+al., 2023) and a six-week ultrasound trial (Stasinaki et al., 2018) — one head-by-head trial of a press against
+a lying extension (Brandão et al., 2020), and one trial of load-matched push-ups against bench pressing
+(Kikuchi & Nakazato, 2017).** Every other ranking below is mechanics or EMG, and is written as such.
+
+---
+
+### D.1 Overhead extensions — the default category
+
+Upper arm at 135° of elevation or more. The category that lengthens the long head most, and the only
+elbow-extension position shown to add whole-muscle growth over another elbow extension.
+
+#### Cable overhead extension
+**Class:** Overhead. **Profile:** set by the pulley (Part IX §B.7) — **short-loaded with the pulley at or above
+the hands**, mid-range-loaded with it below.
+**Role:** the trial exercise. Twelve weeks of it grew the long head 28.5% and the whole triceps 19.9% against
+19.6% and 13.9% in the other arm working the same elbow range at the side, with loads 34–39% lower
+throughout (Maeo et al., 2023). The abstract does not report where the pulley was.
+
+*Setup.* Face away from the stack with the pulley **below the hands** — at or below hip height — handle or
+rope behind the head, upper arm beside the ear. A split stance or a seat keeps the lower back out of it (Part
+IX §C.2, error 6). **Bottom-position check:** at the deepest point the cable should still meet the forearm at
+40° or more — the angle a dumbbell's line makes with the forearm at 140°. If it does not, lower the pulley or
+lean the upper arm further forward.
+*Execution.* 2–3 s down until the elbow is bent to at least 90°, 1–2 s up, upper arm still.
+*Why it works.* A long long head and, with the pulley low, load that stays on the triceps at the bottom. With
+the pulley at head height or above — the common rope set-up — the bottom carries no triceps load at all.
+*Failure mode.* The upper arm drifting forward on each repetition, which shortens the long head and adds a
+shoulder extension to finish the rep.
+
+#### Dumbbell overhead extension (one arm or both hands)
+**Class:** Overhead. **Profile:** mid-range-loaded — torque scales with the sine of the elbow angle, nearly
+two thirds of peak at 140° (Part IX §B.7).
+**Role:** the best free-weight triceps exercise, and one of the two extension exercises in the only trial of
+lengthened partials, where partials were not distinguishable from full range for elbow-extensor growth (Wolf
+et al., 2025).
+
+*Setup.* Seated with back support for heavy loads. One arm at a time lets the free hand steady the working
+elbow.
+*Execution.* Lower behind the head to at least 90°, deeper as far as the elbow tolerates; the modelled triceps
+force peaks between 100° and 110° of flexion (Part IX §B.9).
+*Failure mode.* Letting the elbows flare out to make room for the dumbbell. It costs little torque, but the
+upper arm leaves the Overhead class and the shoulder starts to help (Part IX §C.2, error 9).
+
+#### EZ-bar or machine overhead extension
+*Reality.* The same class and, for the bar, the same profile as the dumbbell version. **No measurement
+distinguishes them.** Choose by elbow and wrist comfort; a neutral grip changes how the wrist and elbow are
+loaded at the bottom (Part IX §C.6), which is a comfort argument, not an evidence one.
+
+---
+
+### D.2 Raised extensions — the lying category
+
+Upper arm at 45° or more and less than 135° of elevation. The long head is long, but not as long as overhead.
+
+#### Lying triceps extension ("skull crusher")
+**Class:** Raised (90° with the upper arm vertical). **Profile:** mid-range-loaded with the upper arm vertical;
+the peak moves toward lockout by the angle the arm is tilted back toward the head (Part IX §B.7).
+**Role:** the best-studied single-joint triceps exercise. Twelve weeks of it — dumbbells, shoulder at 90°, 80%
+of one-repetition maximum, 5 × 8 — raised dumbbell one-repetition maximum from 11.0 to 17.3 kg and grew the
+triceps along its whole length, least at the elbow end (Wakahara et al., 2012). A lying barbell version grew
+the long head more than a bench press did (Brandão et al., 2020), and a lying barbell version through 45°–90°
+grew triceps cross-section more than the same exercise through 0°–120° at an equal workload (Goto et al.,
+2019).
+
+*Setup.* Lying flat, upper arm vertical. Tilting it back toward the head raises the shoulder angle but moves
+the torque peak toward lockout and unloads the bottom (Part IX §B.7); to raise the shoulder angle without that
+cost, use an incline bench with the upper arm vertical to the floor.
+*Execution.* Lower toward the forehead or behind the head, 2–3 s; the elbows stay pointing at the ceiling.
+*Why it works.* It combines a long long head with a free-weight profile that still has load at the bottom, and
+it is easy to progress.
+*Failure mode.* The upper arm swinging back and forth — a lying pullover with an elbow bend — which moves the
+work to the latissimus dorsi and the shoulder.
+*Evidence note.* Activation during it was the joint-lowest of eight triceps exercises in one thesis, at 62% of a
+reference push-up (Boehler, 2011). **This is the clearest example in the Part of an EMG ranking pointing the
+wrong way**: it is the single-joint exercise with the most growth data behind it.
+
+#### Incline-bench or decline-bench extension
+*Reality.* A lying extension with the trunk angle changed. With the upper arm vertical to the floor, shoulder
+elevation equals 90° plus the incline, or 90° minus the decline, and the resistance profile is unchanged —
+the only lying set-up that raises the long head's length without moving the torque peak toward lockout (Part
+IX §B.7). A 45° incline reaches the Overhead class; a decline lowers the class. **Untested; mechanical.**
+
+---
+
+### D.3 Arm-down extensions — the pushdown category
+
+Upper arm below 45°, or behind the trunk. The long head is short; the lateral and medial heads are unaffected
+by the shoulder and still load well.
+
+#### Cable pushdown (bar, rope or single handle)
+**Class:** Down. **Profile:** stretch-loaded within its own range, which starts near 90° (Part IX §B.7).
+**Role:** the easiest triceps exercise to take to failure, and the arm-down comparator in both size trials.
+In nine novice women it produced long-head thickness gains not significantly different from an overhead
+extension over six weeks (Stasinaki et al., 2018); in twelve weeks of a comparable arm-down cable extension the
+long head grew about two thirds as much as overhead (Maeo et al., 2023).
+
+*Setup.* Close to the pulley, upper arms against the sides, elbows starting at or slightly past 90°.
+*Execution.* Push down to a straight elbow, 1–2 s; return 2–3 s without the elbows moving forward.
+*Grip.* A rope and a bar produced similar activity against a common reference (74% and 67%) and were never
+compared directly (Boehler, 2011). Palm-up with a handle raised long-head activity and cost repetitions
+(Villalba et al., 2024). **Choose by comfort.**
+*Failure mode.* The lean. It does not, on the evidence, cost growth (Augustin et al., 2025); it costs a readable
+record.
+*Role in a program.* **The complement to an overhead extension, not the replacement for it.** It trains the
+lateral and medial heads through the elbow's range with the shoulder out of the way, and it is the right place
+to reach failure (Part IX §F.4).
+
+#### Kickback
+**Class:** Down, upper arm behind or alongside the trunk. **Profile:** **short-loaded** — zero torque at 90°,
+maximal at a straight arm (Part IX §B.7).
+*Evidence note.* Its activation was high — 87% of the reference push-up in one thesis, level with the bench dip
+(Boehler, 2011) — and there is **no growth trial of it**.
+*Reality.* Every mechanical variable in Part IX §B.6 runs against it: the shortest long head, the weakest part
+of the strength curve and no load at the bottom. **High activation in the one position where the muscle is
+shortest is exactly the case Part IX §B.11 warns about.**
+*Role.* A finisher, or a cable version with the pulley low and in front, which moves the torque peak toward 90°
+and makes it a different exercise.
+
+---
+
+### D.4 Presses — the shared category
+
+Two joints move. The triceps does real work and is rarely the limit (Part IX §C.5); the long head shortens
+through the rep, a little less than in an extension (Part IX §B.2). **Every press counts as half a triceps set,
+at any grip** (Part IX §F.1).
+
+#### Close-grip bench press
+**Class:** Down. **Profile:** peak elbow demand in the lower half, rising at the chest as the grip narrows.
+*Reality.* With the bar on the chest, the bar force's moment arm about the elbow was **0.08 m at one biacromial
+width**, against 0.03 m at 1.4 widths and 0.00 m at 1.7 — about 41, 16 and 0 N·m at each grip's load (Part VIII
+§B.9). At the sticking region the three converged at 0.07, 0.06 and 0.06 m (Larsen et al., 2020). A narrower
+grip raised lateral-head excitation (Mausehund et al., 2022), and at the narrowest grip tested triceps activity
+rose while the pectoralis major remained the most active muscle (Muyor et al., 2023).
+*Role.* **The best triceps press** — it adds elbow load at the chest that wider grips lack. Part VIII §D.1
+counts the same exercise as half a pectoral set: it is genuinely both.
+*Failure mode.* The grip narrowed until the hands touch, which moves the wrists and elbows out of line with the
+bar without adding elbow demand that has been measured.
+
+#### Bench press, medium or wide grip
+**Class:** Down.
+*Reality.* The elbow's moment arm is zero only at the instant the bar leaves the chest at 1.7 biacromial widths;
+by the sticking region it matched a 1.4-width grip (Larsen et al., 2020), long-head activity at an 81 cm grip was
+89% of the narrow-grip value (Saeterbakken et al., 2021), and a 2.0-width bench press grew triceps thickness 17%
+over 24 weeks in untrained men (Ogasawara et al., 2012). **A triceps press like any other, with its elbow demand
+concentrated higher in the lift.**
+
+#### Dip (parallel bars, upright)
+**Class:** Down. **Profile:** not measured at the elbow; the deepest shoulder extension of any press.
+*Evidence note.* Peak triceps activity on bars (1.04 ± 0.27 mV) and rings (1.05 ± 0.40 mV) exceeded the bench dip
+(0.83 ± 0.34 mV) (McKenzie et al., 2022). An upright torso is what biases it toward the triceps; leaning forward
+biases it toward the chest (Part VIII §D.4).
+*Role.* A heavy, loadable press with the triceps as a prime mover.
+*Failure mode.* Descending until the shoulder, not the elbow, stops the movement (Part VIII §D.4).
+
+#### Bench dip
+*Reality.* High triceps activity in one thesis — 87% of the reference, level with the kickback (Boehler, 2011) —
+and lower peak activity than the bar dip in a controlled comparison (McKenzie et al., 2022), performed at the
+extreme of shoulder extension (Part VIII §D.4). **Every other exercise in this catalogue does its job without that
+shoulder position.** Prefer them.
+
+#### Push-up, narrow or diamond
+**Class:** Down.
+*Evidence note.* **Push-ups have a triceps growth result; the narrow and diamond variations do not.** In eighteen
+men with at least a year of training, eight weeks of push-ups to failure at a load matched to 40% of bench press
+one-repetition maximum — regular, knees-bent or hands-elevated, with no hand width specified — raised triceps
+thickness from 27.7 to 30.4 mm, alongside 26.3 to 27.8 mm in the load-matched bench-press group (Kikuchi &
+Nakazato, 2017). **Hand width does change the elbow's load.** In nine men on a force plate, the peak elbow moment
+reached 56% of maximal isometric elbow-extension strength with the hands in the usual position, 71% with them
+together and 29% with them wide (Donkers et al., 1993). Narrow hand positions raised triceps activity above wider
+ones (Kim et al., 2016), and diamond push-ups produced the highest relative triceps activation of three hand
+positions (Intziegianni et al., 2026). **Promising but under-replicated** that a narrow push-up is a heavy elbow
+extension at bodyweight: one measurement study, and no growth trial by hand width.
+*Role.* The home triceps press. Elevate the feet or add load once twenty repetitions are easy (Part VIII §D.4).
+
+#### Overhead press
+**Class:** Raised.
+*Reality.* A narrower grip raised the elbow's net joint moment and a wider grip raised the shoulder's (Gundersen
+et al., 2026).
+
+---
+
+### D.5 Exercises people miscount
+
+| Exercise | Why people count it | Reality |
+|---|---|---|
+| Rows and pulldowns | The long head extends the shoulder | The long head is a shoulder extensor (Part IX §B.1), but no study has measured triceps growth from pulling. **Count as zero** |
+| Straight-arm pulldown, pullover | The elbow is straight and "the triceps is working" | The elbow does not move, but the shoulder does: the long head produces shoulder-extension moment while shortening at the shoulder, and that moment was largest at 80°–120° of elevation, where these exercises start (Landin et al., 2018). Triceps activity did not differ between the two exercises (Part II §D.3), and no study has measured triceps growth from either. **Zero**, as a counting convention rather than a mechanical fact |
+| Lateral raise with internal rotation | It lights up the triceps | The internally rotated raise produced the highest triceps activity of five raise variants (Coratella et al., 2020), in an exercise where the elbow does not move. **Zero** |
+| Floor press | It is a close-grip press | The floor stops the upper arm, removing the bottom of the press, where a close grip's elbow demand is highest (Part IX §D.4). **Half a set**, like every press; untested |
+| Push-up plank hold | The arms are straight | An abdominal exercise (Part VI §D.2) |
+
+---
+
+### D.6 Selection rules
+
+1. **One overhead extension, always.** It is the only elbow-extension position shown to add whole-muscle growth over another elbow extension — to the long head most (Maeo et al., 2023). With a cable, set the pulley below the hands (Part IX §B.7).
+2. **One arm-down extension, usually.** A pushdown trains the lateral and medial heads with the shoulder out of the way, and it is the safest slot for failure (Part IX §F.4).
+3. **Presses count, at half.** They grow the triceps — the lateral head especially — when pressing volume is high and sets are hard, and they under-grow the long head at any volume (Part IX §A.5, Part IX §B.8).
+4. **Choose profiles with load at the bottom.** A sine profile keeps nearly two thirds of peak at the deepest point; a kickback, or a cable overhead extension from a high pulley, keeps none (Part IX §B.7).
+5. **Do not pair two exercises from the same class and profile and call it variety.** A low-pulley cable overhead extension and an overhead dumbbell extension differ in comfort, not in which head they train.
+6. **The elbow decides the range; the shoulder decides the class.** If the elbow complains at the bottom, stop at 90° before you give up the overhead position: both shorten the long head, but only lowering the arm has a growth trial against it (Part IX §C.3).
+
+---
+
+## partixecontextmodifiers
+
+**PART E — Context modifiers — when "perfect" changes**
+
+Part IX §C is the default for hypertrophy in a healthy trained adult. Below is every context that changes it,
+and what it changes it to.
+
+---
+
+### E.1 Goal contexts
+
+| Goal | What changes | Why |
+|---|---|---|
+| **Maximal triceps size** | The default. One overhead extension, one pushdown, presses counted at half | Part IX §D.6 |
+| **Long-head emphasis** ("the inner and upper arm") | Two overhead or raised extensions, at least one of them fully overhead | The long head grew 28.5% overhead against 19.6% with the arm down (Maeo et al., 2023) |
+| **A stronger bench press lockout** | Close-grip bench press and top-half pressing; keep the pectoral work | The elbow extensors dominate near full extension, and a narrower grip is the model's suggestion for a late sticking region (Evangelista et al., 2025). A stall at the chest is not a triceps problem (Part VIII §C.5) |
+| **A stronger overhead press** | Close-grip or neutral-grip pressing plus an overhead extension | A narrower grip raised the elbow's net joint moment (Gundersen et al., 2026) — but on whether a lockout stall is the triceps' or the shoulder's, the **Evidence remains limited and inconsistent** (Part IX §C.5) |
+| **Arm size with minimal time** | One overhead extension taken to failure, twice a week | The single change with a growth advantage behind it (Part IX §B.4) |
+| **Strength with a painful elbow** | Overhead extensions stopped at 90° of elbow flexion, cable or machine | The overhead advantage was produced without bending the elbow past 90° (Maeo et al., 2023), so the painful bottom can be removed without giving up the shoulder position (Part IX §C.3). No trial has removed only the bent end; lengthened partials keep it and are not the tool here |
+
+---
+
+### E.2 Body contexts
+
+| Context | What changes | Why |
+|---|---|---|
+| **Restricted overhead reach** | Incline-bench extension with the upper arm vertical to the floor, or a seated overhead extension with back support; never an arched lower back | Part IX §C.3. The range must come from the shoulder, or the long head is not lengthened |
+| **Long forearms** | More elbow torque per kilogram and a lower absolute load for the same effort | Geometry: the external moment arm is the forearm (Part IX §B.9). Count sets, not kilograms |
+| **A thick olecranon** | More leverage and more load for the same muscle | The triceps' peak moment arm scaled with the front-to-back thickness of the ulna at the olecranon (r² = 0.61) (Murray et al., 2002) |
+| **Women, and the back of the arm specifically** | Nothing in the mechanics changes. Training the arm does not remove fat from it | In 104 adults who trained one arm for twelve weeks, MRI showed subcutaneous fat changing no differently in the trained arm than in the untrained one (Kostek et al., 2007). Six weeks of pushdowns or overhead extensions thickened novice women's long heads 10.7–19.4% (Stasinaki et al., 2018); triceps thickness rose significantly by week 6 in women as in men, with a similar time course (Abe et al., 2000); and progressive overload doubled triceps growth in untrained women (Kassiano et al., 2026b) |
+| **Older adults** | The same exercises; ageing appears to spare the triceps relatively | Across 1,507 Japanese adults, men's arm muscle thickness relative to limb length was similar in young and middle-aged groups and lower only in the oldest, while quadriceps thickness fell steadily across all three; in women, triceps thickness was not correlated with age at all (Abe et al., 2011). **Moderate evidence** — cross-sectional, one country; no triceps training trial in older adults is cited here |
+| **Adolescents** | Professional assessment before loading, as for every Part | Part VIII §E.2 |
+| **Prior distal triceps tendon repair** | Every loading decision belongs to the surgical team | In 70 men who lifted regularly, followed for a mean of more than seven years after repair, mean bench press load fell from 162.0 kg before injury to 134.7 kg after, despite a subjective return to 94% of prior strength (Fritsch et al., 2026). A return to the gym is common; a full return to prior loads is not guaranteed |
+
+---
+
+### E.3 Equipment contexts
+
+| Available | Best two-exercise prescription | Note |
+|---|---|---|
+| **Full gym** | Cable overhead extension (low pulley) + cable pushdown | The trial exercise (Maeo et al., 2023) and its best complement (Part IX §D.3) |
+| **Dumbbells only** | Dumbbell overhead extension + lying dumbbell extension | Two classes, two free-weight profiles with load at the bottom (Part IX §B.7) |
+| **Barbell only** | EZ-bar or barbell lying extension (upper arm vertical; incline bench if available) + close-grip bench press | The lying extension is the best-studied single-joint exercise here (Wakahara et al., 2012) |
+| **Machines only** | Overhead extension machine + dip or pushdown machine | No machine has been tested; choose by the shoulder class of its arm pad (Part IX §B.4) |
+| **Bands only** | Band overhead extension, anchored low behind + band pushdown, anchored high | A band's tension rises as it stretches, but its moment at the elbow is tension times the distance from the elbow to the band's line. Anchored in line with the forearm at lockout, that distance is zero at a straight arm, so the moment is still zero there; the rising tension moves the peak toward the straighter half of the range and away from the bottom. Anchor further away to reduce how much the tension changes |
+| **Bodyweight only** | Diamond or narrow push-up + parallel-bar or ring dip | Load-matched push-ups to failure grew the triceps as much as bench pressing (Kikuchi & Nakazato, 2017); hands together raised the peak elbow moment to 71% of maximal strength (Donkers et al., 1993) |
+| **Travelling** | Band overhead extension + narrow push-ups to failure | Volume replaces load |
+
+---
+
+### E.4 Pain and pathology contexts
+
+**General education only. None of the rows below is a diagnosis or a treatment plan, and an elbow that hurts
+under load is an assessment problem before it is a programming problem.**
+
+| Presentation | What it usually means | What changes |
+|---|---|---|
+| **A pop or tearing sensation at the back of the elbow under a heavy press, with weakness straightening the arm, swelling or bruising** | The presentation of a distal triceps tendon rupture. In athletes, weightlifting is its most common setting (Vandenberg et al., 2026) | **Stop. Medical assessment the same day.** Full-thickness tears have been misdiagnosed as olecranon bursitis (Shivdasani et al., 2024), and partial tears of the deep layer can leave strength near a straight arm intact (Madsen et al., 2006) |
+| **Gradual pain at the tip of the elbow, worst at the bottom of an extension or at the start of a press** | Consistent with triceps tendinopathy, 5.0% of diagnoses in one elbow clinic (Zanesco et al., 2025) | Shorten the elbow range, keep the shoulder class, and get it assessed if it persists (Part IX §C.6) |
+| **A snap at the inside of the elbow as it bends or straightens** | Consistent with a snapping triceps; in the published cases an unstable ulnar nerve was almost always present (Xia et al., 2026) | Stop the exercise that provokes it. Assessment |
+| **Tingling or numbness into the little and ring fingers** | Ulnar-nerve irritation at the elbow; the nerve is stretched most at full elbow flexion (Part IX §C.6) | Stop the provoking exercise; assessment. Do not load a fully bent elbow through it |
+| **Pain at the front or top of the shoulder in the overhead position** | A shoulder problem, not a triceps one | Move to the Raised class — a lying extension — and see Part V §E.4 |
+| **Swelling like a soft bag over the tip of the elbow, without weakness** | Consistent with olecranon bursitis; but see the first row, because a tear can look like this | Assessment before loading |
+| **Prior repair** | Part IX §E.2 | The surgical team decides |
+
+**One thing worth saying plainly.** Nothing in Part IX §A.8 argues for avoiding the bottom of an extension. In three
+of four lifters in one series the tear happened while bench pressing heavy weights (Sollender et al., 1998), and the
+usual mechanism is eccentric loading of the contracting muscle (Shivdasani et al., 2024). The countermeasure is the
+same as for the pectoralis major — **control of the descent at a load you could stop** (Part VIII §C.2).
+
+---
+
+### E.5 Sport contexts
+
+| Sport | What the triceps is for | What changes |
+|---|---|---|
+| **Powerlifting** | Bench press lockout | Close-grip and top-half pressing (Part IX §E.1). A wide grip unloads the elbow at the chest but still loads it at the sticking region (Part IX §B.8) |
+| **Olympic weightlifting** | Locking and holding the bar overhead in the jerk and snatch | Overhead presses and an overhead extension; the lockout itself is isometric at a straight elbow |
+| **Throwing sports** | Less than it looks | In an induced-acceleration analysis of the baseball pitch, elbow extension was accelerated mainly by velocity-dependent torques generated by the trunk and upper arm, not by the elbow's own muscle torque (Hirashima et al., 2008). Triceps strength is not the source of arm speed |
+| **Gymnastics, calisthenics** | Dips, handstand pressing, support holds | The dip is the sport's own triceps exercise (Part IX §D.4); add an overhead extension for the long head |
+| **Climbing** | Mantles and lock-offs against the wall | A pulling sport (Part II §E.5). One pressing and one extension exercise weekly for balance |
+| **Combat sports** | Framing and pushing | Presses carry most of the transfer; direct extension work is for size |
+
+---
+
+### E.6 Session and cycle contexts
+
+| Context | What changes |
+|---|---|
+| **Triceps and chest in the same session** | Presses first, extensions after. A pre-fatigued triceps changes where a press fails (Part VIII §E.6) |
+| **Pre-exhaustion** — an extension immediately before a press | Not a triceps tool. Doing a chest fly first raised triceps activity during the following bench press (Brennecke et al., 2009); doing a pushdown first lowered the total load lifted against performing each exercise fresh, and did not differ from the normal order in total load, lactate or perceived exertion (Soares et al., 2016). Neither measured growth |
+| **Exercise order in general** | Put first what you most want to improve. Across eleven trials, order did not change hypertrophy but strength rose most in whichever exercise came first (Nunes et al., 2021) |
+| **Triceps and biceps in the same session** | Fine, and supersetting them is fine. They share no action and no limiting link |
+| **Triceps the day after heavy pressing** | If the elbow is sore, separate heavy close-grip work from heavy overhead extensions by 48 hours; if it is not, nothing needs to change |
+| **Deficit** | Hold load and the overhead exercise; cut sets to the maintenance band (Part IX §F.1) |
+| **[Deload](#deload)** | Cut sets, not the shoulder class |
+| **A break of a few weeks** | Three-week breaks between six-week blocks of bench pressing produced triceps cross-sectional area similar to continuous training at 24 weeks, with six fewer training weeks (Ogasawara et al., 2013b). **Promising but under-replicated** — fourteen untrained men |
+| **Returning after a lay-off** | Cable extensions before free weights for the first two weeks, so the load at the bottom can be stopped at any point |
+
+---
+
+### E.7 The context decision table
+
+| If this describes you | Do this |
+|---|---|
+| Healthy, trained, arm size is the goal | Part IX §C default, Part IX §D.6 selection rules |
+| You press heavy three times a week and your triceps has stopped growing | Add an overhead extension. Pressing under-serves the long head (Part IX §A.5), and an unchanged program slows every muscle's growth (Part IX §B.8) |
+| You only do pushdowns | Replace half of them with an overhead extension (Part IX §B.4) |
+| Your elbow hurts at the bottom of an overhead extension | Stop at 90°, keep the arm overhead (Part IX §C.3) |
+| You cannot get your arm overhead without arching | Incline-bench extension, upper arm vertical to the floor (Part IX §E.2) |
+| Your bench press stalls at lockout | Close-grip pressing (Part IX §E.1) |
+| Your bench press stalls at the chest | Not a triceps problem (Part VIII §C.5) |
+| You have 20 minutes a week for triceps | One overhead extension to failure, twice (Part IX §F.6) |
+| You felt a pop at the back of the elbow | Stop. Same-day assessment (Part IX §E.4) |
+
+---
+
+## partixfprogramming
+
+**PART F — Programming**
+
+### F.1 Volume
+
+Counted as [hard sets](#hardset) per week for the triceps, by one rule.
+
+> **Triceps set count.** A hard set of any **elbow extension** — overhead, raised or down (Part IX §B.4) —
+> counts as **1** triceps set. A hard set of a **press** — bench press at any grip width, incline, overhead, dip
+> or push-up — counts as **0.5**. A set of a **row, pulldown, pullover or straight-arm pulldown** counts as
+> **0**.
+
+**Why those numbers, and how firm each is.** The half-credit for presses follows the [dose–response](#doseresponserelationship)
+meta-regression that favours counting genuinely indirect work at half a set rather than zero or one
+(Pelland et al., 2026); it is **Moderate evidence** as a counting rule and it is not triceps-specific. There is
+no grip-width exception. At the chest the elbow's moment arm was zero at 1.7 biacromial widths, but at the
+sticking region it was 0.06 m — the same as the medium grip and within 0.01 m of the narrow grip (Larsen et al.,
+2020) — and a bench press at 2.0 biacromial widths grew triceps thickness 17% in 24 weeks (Ogasawara et al.,
+2012). The zero for pulling is a judgement — the long head extends the shoulder in every pull (Part IX §B.1), and no study
+has measured triceps growth from pulling.
+
+| Training age | Extension sets | Press credits (at 0.5 each) | Note |
+|---|---|---|---|
+| Beginner | 3–6 | Whatever the program's pressing supplies | Pressing alone grows a beginner's triceps, more slowly after the first months on an unchanged program (Part IX §B.8) |
+| Intermediate | 6–10 | 3–6 | One overhead and one arm-down exercise |
+| Advanced | 10–16 | 4–8 | The extension slots carry the growth; the presses carry the strength |
+| Maintenance or deficit | 3–4 | Unchanged | Keep the overhead exercise |
+
+**The one triceps maintenance trial is reassuring about frequency.** After twelve weeks of ballistic bench pressing,
+one session a week kept long-head thickness within 1% of its trained value for three months and one session a
+fortnight within 3% — small but significant losses — while with no training at all, long-head fascicle length and
+angle returned to pre-training values over the same three months (Mpampoulis et al., 2025). **Promising but
+under-replicated** — untrained women and a ballistic press, not an extension.
+
+**These bands are transferred from the general dose–response literature, adjusted by the counting rule, and are
+not derived from triceps data.** What triceps data exist say two things.
+
+**The first: presses alone show a dose–response, and a shallow one.** In 34 trained men whose only elbow-extension
+work was the bench press and the military press, elbow-extensor thickness rose **1.1% at six weekly sets and 5.5% at
+thirty** over eight weeks, with [effect sizes](#effectsize) of 0.12, 0.30 and 0.55 across the three volumes; only the highest
+volume's confidence interval excluded zero, and the between-group test favoured no difference (P = 0.19)
+(Schoenfeld et al., 2019a). Thirty sets of pressing is the equivalent of fifteen triceps sets under the rule above — and it bought 5.5%.
+
+**The second: when direct work is added, the numbers look different.** Trained men doing twelve weekly sets of bench
+press and twelve of cable pushdown — eighteen triceps sets by the rule above — grew elbow-extensor thickness **8.6%**
+over ten weeks in one frequency arrangement and **15.7%** in the other (Lasevicius et al., 2019). **Interpretive
+caution:** two different trials, different durations and different people, so the contrast is suggestive rather than
+a comparison. It is consistent with Part IX §A.5, which found direct extension work growing the part of the triceps a
+press misses.
+
+---
+
+### F.2 Frequency
+
+**2×/week is the default.** [Frequency](#trainingfrequency) distributes volume more than it adds stimulus, and the triceps trials agree:
+
+| Trial | Comparison | Triceps result |
+|---|---|---|
+| Brigatto et al., 2019 | Sixteen weekly sets per muscle, once a week versus 8 sets twice a week, trained men, 8 weeks | **No difference** in elbow-extensor thickness |
+| Lasevicius et al., 2019 | The same weekly volume two versus three days a week, trained men, 10 weeks | +15.7% versus +8.6%, **no significant difference** (p = 0.62) |
+| Zaroni et al., 2019 | Once a week versus five times a week, trained men, 8 weeks | Higher frequency grew the elbow flexors and vastus lateralis more; **the triceps was not among the muscles that differed** |
+
+**The triceps-specific reason to split it across two sessions is the elbow, not the muscle.** Two overhead extensions
+to failure in one session put two sets of full elbow bend under load back to back; the same two sets on different days
+do not. That is a comfort rule, not an evidence one.
+
+---
+
+### F.3 Load and rep range
+
+The general finding is in Part II §F.3. **The triceps trials span almost the entire loading range, and every one of
+them grew muscle:**
+
+```
+WHAT THE TRICEPS TRIALS USED, AND ALL OF THEM GREW MUSCLE
+  Stasinaki 2018    6 x 6RM, to failure                         -> long-head thickness up
+  Wakahara 2012     5 x 8 at 80% 1RM                            -> MRI area up along the arm
+  Maeo 2023         5 x 10 at 70% 1RM                           -> MRI volume +14-20%
+  Lanza 2024        bench press, 12 reps at 50-55% 1RM,
+                    NOT to failure                               -> MRI area up
+  Kikuchi 2017      push-ups matched to 40% 1RM bench press     -> thickness up
+  Ogasawara 2013a   bench press at 30% 1RM to fatigue           -> MRI area +9.8%
+                    vs 75% 1RM                                   -> +11.9%, similar
+  Schoenfeld 2015b  25-35 vs 8-12 reps to failure, trained men  -> +5.2% vs +6.0%, similar
+```
+
+**Three practical narrowings.**
+
+- **Extension slots: 8–20 repetitions.** Every extension loads the elbow at full bend, and the fewer the repetitions the heavier that load is. The lower bound is this document's judgement for the elbow's sake (Part IX §C.6), not a finding about the muscle.
+- **Press slots: 5–12 repetitions**, as in Part VIII §F.3.
+- **The overhead exercise will always use the lightest weight in the session.** Loads were 34–39% lower overhead for twelve weeks while that arm grew more (Maeo et al., 2023). **Do not judge it by the number on the stack.**
+
+---
+
+### F.4 Proximity to failure
+
+The general finding is in Part II §F.4. What changes here is which slot can safely reach momentary
+failure.
+
+| Slot | Target | Why |
+|---|---|---|
+| **Cable pushdown** | 0–1 [RIR](#rir) | Nothing to catch, no shoulder demand. **The slot where a triceps set should reach failure if any does** |
+| **Cable overhead extension** | 0–1 RIR | As above; stop short if the elbow, not the muscle, is what is failing |
+| **Dumbbell or EZ-bar overhead or lying extension** | 1–2 RIR | A failing repetition drops a weight behind the head, at full elbow bend |
+| **Close-grip bench press, free** | 2–3 RIR | The tendon fails eccentrically in heavy presses (Part IX §A.8) |
+| **[Dip](#dip), push-up** | 1–2 RIR | Free to abandon, but the bottom of a dip is the shoulder's least tolerant position |
+
+**The direct evidence on effort, which is modest.** In 42 resistance-trained adults performing a single set of nine
+exercises twice a week for eight weeks, sets to failure and sets stopped two repetitions short both produced
+appreciable growth, with several hypertrophy measures tending to favour failure by modest margins; the triceps was among the sites
+measured, and the abstract does not say which sites favoured failure (Hermann et al., 2025). **Moderate evidence**, and the gradient runs the same way as the general literature:
+closer to failure is slightly better, and most of the effect is already there two repetitions short.
+
+**The one triceps-specific effort trial is a press trial, and it points the same way.** In 49 trained women bench
+pressing for eight weeks at 70–85% of one-repetition maximum, only the group whose sets ran to a 50% velocity loss —
+roughly three quarters of the repetitions possible — grew the triceps; sets of one repetition or stopped at a 25% loss
+did not (Rodiles-Guerrero et al., 2026). **Promising but under-replicated.** It is the reason a press counted at 0.5 in
+Part IX §F.1 should be a hard set, not a warm-up.
+
+---
+
+### F.5 Progression
+
+**[Progressive overload](#progressiveoverload) has a triceps trial.** Fifty-five untrained women had each arm randomly
+assigned to progressive overload — more load whenever the top of an 8–12 repetition range was reached — to the same
+load and repetitions for eight weeks, or to no training. **Both trained conditions grew; the progressing arms grew about
+twice as much**: thickness at 60% of arm length +21.4% against +11.3%, at 70% +25.0% against +12.0%, against 1–3% in
+the control arm (Kassiano et al., 2026b). **Moderate evidence** — one trial, untrained women, eight weeks.
+**Interpretive caution:** the non-progressive arms held repetitions as well as load fixed, so as they got stronger their
+sets ended further from failure; the trial shows that progression beats standing still, not that adding load beats
+adding repetitions.
+
+**[Double progression](#doubleprogression) in every slot.**
+
+```
+THE EXTENSION PROGRESSION
+  Week 1   3 x 10 @ 15 kg cable, 1 RIR
+  Week 2   3 x 12 @ 15 kg
+  Week 3   3 x 14 @ 15 kg
+  Week 4   3 x 10 @ 17.5 kg     <- load goes up, reps reset
+```
+
+**Two rules this muscle needs.**
+
+- **Progress the overhead exercise by repetitions first.** Its loads are lower and its jumps are proportionally larger; a 2.5 kg step on a 10 kg overhead extension is a 25% increase.
+- **The shoulder class is never the variable that gets progressed away.** If the upper arm drifts forward to move a heavier weight, the exercise did not get harder; it became a different exercise (Part IX §C.2, error 3). Log the elbow position, not just the load.
+
+**What to do when the triceps stalls.** Check first whether it is a triceps stall at all: a stalled press is usually
+the chest or shoulder (Part IX §C.5). For a stalled pushdown-only program, a move to an overhead extension is the change
+with a growth trial behind it (Part IX §B.4). What rescues a stall once an overhead extension is already in place has
+not been tested, so the choice between more sets and a new exercise is a judgement.
+
+---
+
+### F.6 Session templates
+
+```
+TEMPLATE A - TWO SESSIONS, INTERMEDIATE, ~10 EXTENSION SETS/WEEK
+  Session 1     Cable overhead extension   3 x 10-15  @ 0-1 RIR  (low pulley)
+                Cable pushdown             2 x 12-20  @ 0-1 RIR
+  Session 2     Lying EZ-bar extension     3 x 8-12   @ 1-2 RIR  (upper arm
+                                                                vertical; incline
+                                                                bench if available)
+                Cable pushdown             2 x 12-20  @ 0-1 RIR
+  (plus whatever pressing the program already contains, counted at 0.5)
+```
+
+```
+TEMPLATE B - ONE SESSION, TIME-LIMITED, ~5 EXTENSION SETS/WEEK
+  Session 1     Dumbbell overhead extension 3 x 8-15  @ 1 RIR
+                Cable pushdown              2 x 12-20 @ 0-1 RIR
+```
+
+```
+TEMPLATE C - IRRITABLE ELBOW, ~8 EXTENSION SETS/WEEK
+  Session 1     Cable overhead extension   3 x 12-20  @ 1 RIR  (low pulley;
+                                                                elbow 90 deg to
+                                                                straight; shorter
+                                                                if 90 deg hurts)
+                Cable pushdown, rope       2 x 15-20  @ 0-1 RIR
+  Session 2     Cable overhead extension   3 x 12-20  @ 1 RIR  (as above)
+  (no free-weight extension; no close-grip pressing to failure)
+```
+
+```
+TEMPLATE D - POWERLIFTING, BENCH LOCKOUT
+  Session 1     Close-grip bench press     4 x 5-6    @ 2 RIR
+                Cable overhead extension   3 x 10-15  @ 1 RIR  (low pulley)
+  Session 2     Cable pushdown             3 x 10-15  @ 0-1 RIR
+```
+
+```
+TEMPLATE E - HOME, BODYWEIGHT AND BANDS
+  Session 1     Diamond push-up            4 x 8-20
+                Band overhead extension    3 x 15-20
+  Session 2     Parallel-bar or chair dip  3 x 6-15   (upright torso)
+                Band overhead extension    3 x 15-20
+```
+
+```
+TEMPLATE F - TIME FLOOR, 2 SETS/WEEK
+  Session 1     Cable (low pulley) or
+                dumbbell overhead extension 1 x 8-15  TO FAILURE (cable)
+                                                      or 1 RIR (dumbbell)
+  Session 2     Same                       1 x 8-15
+  (The extension position with a measured growth advantage, Part IX B.4.
+   Untested as a dose for the triceps and below the maintenance band of
+   Part IX F.1: a floor for weeks when nothing else fits, not a program.)
+```
+
+---
+
+### F.7 Timeline, measurement and expectations
+
+| Window | What to expect |
+|---|---|
+| Sessions 1–3 | Soreness along the back of the arm, heaviest after the first overhead session |
+| Weeks 1–5 | Load rises quickly. Thickness from pressing alone first became significant after week 5 in untrained men (Ogasawara et al., 2012) |
+| Weeks 6–12 | The first measurable change for most people. Triceps thickness was significantly increased at week 6 in both men and women on a whole-body program (Abe et al., 2000); twelve weeks of cable extensions grew the whole muscle 14–20% by MRI (Maeo et al., 2023) |
+| Months 3–6 | Gains from an unchanged program slow. In seven untrained men who only bench pressed, the triceps' gain between weeks 15 and 24 was not significant while the chest's was (Ogasawara et al., 2012). **Promising but under-replicated.** Progression and an extension slot are what keep it moving |
+| Months 6–12 | Where visible change lives for a trained lifter |
+
+**How to measure it, and how not to.**
+
+- **Best available at home:** photographs of the back of the arm, same light and posture, arm hanging and relaxed.
+- **Arm circumference is not a triceps measurement.** A tape at the upper arm includes the elbow flexors and subcutaneous fat (Part IX §C.7).
+- **The close-grip bench press is not a triceps measurement either.** It is shared with the chest and shoulder, and technique changes it faster than muscle does.
+- **Log the shoulder class and the elbow range with the load.** An overhead extension that got heavier because it quietly became a pushdown is not progress (Part IX §F.5).
+
+---
+
+## partixgsynthesis
+
+**PART G — Synthesis, and what the evidence does not support**
+
+### G.1 The rules that hold
+
+1. **The triceps is the largest muscle of the upper arm and a force muscle.** It is 14.5% of upper-limb muscle volume, slightly larger than the three main elbow flexors together (Holzbaur et al., 2007), and in every cadaveric arm it had the greatest moment-generating capacity of any single elbow muscle (Murray et al., 2000).
+2. **Only the long head crosses the shoulder, so only the shoulder separates it from the other two.** Raising the arm lengthened it in a model up to at least 135° (Kholinne et al., 2018), and bending the elbow lengthens it too: 80° of elbow motion added about two thirds as much fascicle length as the overhead position did (Stasinaki et al., 2018).
+3. **Put the arm overhead for at least one exercise.** With the same elbow range, sets and progression rule, the overhead arm grew 28.5% against 19.6% in the long head and 19.9% against 13.9% in the whole triceps, while lifting 34–39% less (Maeo et al., 2023).
+4. **Do not judge an overhead extension by its load.** It moved 34–39% less and grew more (Maeo et al., 2023); a smaller number on the stack is what the position costs, not evidence of a smaller stimulus.
+5. **Presses train the triceps unevenly, and less reliably than an extension.** They under-grow the long head (Brandão et al., 2020) and the proximal region (Wakahara et al., 2013), and whether pressing alone grows the whole triceps depends on volume and proximity to failure (Schoenfeld et al., 2019a). **Evidence remains limited and inconsistent** on the whole muscle.
+6. **Count every press at half a triceps set, whatever the grip.** A wide grip removes the elbow's moment at the chest but not at the sticking region, where its moment arm matched a medium grip's (Larsen et al., 2020).
+7. **Choose extensions with load at the bottom.** A dumbbell overhead extension keeps nearly two thirds of its peak torque at 140°; a kickback's torque is zero at 90°, and a cable overhead extension from a pulley at or above the hands has none left by 90° (Part IX §B.7).
+8. **The shortened half of the rep is the cheapest part to lose.** Lengthened partials of about half the range were not distinguishable from full range for elbow-extensor growth in trained adults, though both point estimates favoured full range (Wolf et al., 2025).
+9. **Progress the load.** Progressing arms grew about twice as much as arms kept at the same load and repetitions for eight weeks (Kassiano et al., 2026b). **Moderate evidence.**
+10. **Arrive at the bottom of a heavy press under control.** In athletes, distal triceps ruptures most often happen in weightlifting (Vandenberg et al., 2026), and the usual mechanism is eccentric loading of the contracting muscle (Shivdasani et al., 2024).
+
+---
+
+### G.2 What the evidence does **not** support
+
+| Claim | Verdict |
+|---|---|
+| "Pushdowns are all the triceps needs" | **Not supported.** The same elbow extension with the arm overhead grew the whole triceps 1.4 times as much and the long head 1.5 times as much (Maeo et al., 2023) |
+| "Heavy pressing is enough for the triceps" | **Evidence remains limited and inconsistent** for the whole muscle — press-only triceps growth appeared at high volume or hard sets and not otherwise (Schoenfeld et al., 2019a); **not supported** for the long head, which pressing alone under-grew (Brandão et al., 2020) |
+| "A wide-grip bench press does not train the triceps" | **Not supported.** Its elbow moment arm is zero only with the bar on the chest and matched a medium grip at the sticking region (Larsen et al., 2020), and a 2.0-biacromial-width bench press grew triceps thickness 17% in 24 weeks (Ogasawara et al., 2012) |
+| "A cable overhead extension keeps tension on the stretch" | **Not supported** with the pulley at or above the hands: the cable's moment about the elbow reaches zero by 90° of flexion. Only a pulley below the hands keeps load at the bottom (Part IX §B.7) |
+| "Kickbacks are the best triceps exercise — they have the highest EMG" | **Not supported.** The EMG result comes from one master's thesis without load matching (Boehler, 2011); the kickback's profile peaks at the shortest length and weakest angle, and no growth trial exists |
+| "Overhead work lengthens all three heads" | **False as mechanics.** Only the long head changed length with shoulder position (Kholinne et al., 2018). The lateral and medial heads did grow more overhead, but not because the shoulder made them longer (Maeo et al., 2023) |
+| "You can target the lateral head or the medial head separately" | **Not supported.** Both cross only the elbow, so no exercise changes one's length relative to the other; only presses shifted growth toward the lateral head, and only relative to the long head (Brandão et al., 2020) |
+| "Flare the elbows, or use a rope, to hit the outer head" | **Not supported.** No study has measured either against lateral-head growth, and rope and bar were never compared statistically even for activation (Boehler, 2011) |
+| "Palms up on a pushdown trains the long head" | **Evidence remains limited and inconsistent.** It raised long-head activity with a handle (Villalba et al., 2024), but the long head's length is set by the shoulder and elbow angles, and a grip changes neither |
+| "The triceps is fast-twitch, so train it heavy" | **Not supported.** The muscle is 22% type I (Soendenbroe et al., 2026), and six weeks of bench pressing at 30% of one-repetition maximum to fatigue grew its cross-section about as much as 75% did (Ogasawara et al., 2013a); in trained men, 25–35-repetition and 8–12-repetition sets to failure grew the elbow extensors alike (Schoenfeld et al., 2015b) |
+| "Partial reps through the middle grow the triceps more than full reps" | **Evidence remains limited and inconsistent.** One trial of lying barbell extensions at equal workloads reported 48.7% against 28.2% in eight weeks in trained men (Goto et al., 2019) — a magnitude no other triceps trial approaches |
+| "Squeeze hard at lockout" | **Not supported.** Dropping the whole shortened half of the rep was not measurably worse (Wolf et al., 2025), and a straight elbow is the weakest point of the strength curve (Part IX §B.3) |
+| "Swinging a pushdown wastes the set" | **Not supported.** Deliberate momentum made no difference to elbow-extensor growth, Bayes factor 0.06 (Augustin et al., 2025) |
+| "Triceps work gets rid of fat on the back of the arm" | **Not supported.** MRI showed no difference in subcutaneous fat change between a trained and an untrained arm over twelve weeks (Kostek et al., 2007) |
+| "The close-grip bench press is a triceps exercise" | **Half true.** It loads the elbow more than wider grips with the bar near the chest, and only slightly more at the sticking region (Larsen et al., 2020), and the pectoralis major remained the most active muscle at the narrowest grip tested (Muyor et al., 2023). Half a set for each Part |
+| "EMG tells you which triceps exercise to pick" | **Not supported.** EMG placed the overhead extension level with the pushdown and a head-by-head model said overhead gives the long head less work; the growth trial reversed both (Part IX §B.11) |
+
+---
+
+### G.3 The one-paragraph version
+
+The triceps brachii is the largest muscle of the upper arm — about as large as the three main elbow flexors
+combined — and it is a force muscle with three heads that meet on the tip of the elbow. Only one head, the long head,
+also crosses the shoulder, and that single fact decides how to train it: **bending the elbow lengthens all three
+heads, and raising the arm overhead adds length to the long head alone.** Twelve weeks of the same cable extension
+grew the whole triceps 1.4 times as much with the arm overhead as with it at the side, and the long head 1.5 times as
+much, despite lighter loads the whole way through. **So: one overhead extension always — from a low pulley if it is a
+cable — one pushdown for the other two heads, presses counted at half at any grip, loads progressed, and the elbow bent
+to at least 90° on every extension**, the range the overhead trial used. Presses build the lateral head and under-serve
+the long head; kickbacks light up an electrode in the one position where the muscle is shortest and weakest; and the
+shortened half of the rep is the cheapest part to lose. **In lifters the tendon has torn in heavy presses**, usually
+under eccentric load, and the best protection available is a descent you could have stopped.
+
+---
+
+# partxerectorspinae
+
+**Part X — Erector Spinae**
+
+> Scope: the anatomy, mechanics, technique, exercise selection, context modifiers and programming for
+> maximal [hypertrophy](#hypertrophy) of the muscles that run up both sides of the spine — the
+> [erector spinae](#erectorspinae), treated throughout as the separate columns and parts it is — together
+> with the deep [multifidus](#multifidus) that works beside it. Part VI covered these muscles as one slot
+> of the core; this Part takes them on their own. Everything here is also loaded by the hinges of Part IV
+> and Part VII and by every squat in Part III, which is where most people's back training actually
+> happens. **General education only.** Back pain that runs below the knee, numbness, weakness in a leg,
+> or loss of bladder or bowel control is a medical problem, not a training problem — see Part X §E.4.
+>
+> **Angle conventions, fixed for the whole Part.** [Lumbar flexion](#lumbarflexion) is measured from the
+> lifter's own upright standing curve: **0° is the lower back as it sits when you stand, larger numbers
+> are more rounded**, and negative numbers are arched further back than standing. It is never the same
+> thing as [torso inclination](#torsoinclination), which is how far the whole trunk leans from vertical
+> and which the hip can produce with the lower back unchanged. The isolated-lumbar-extension machines
+> used in the strength trials of Part X §B.3 report their own scale — **0° at the machine's most extended
+> position and 72° at its most flexed** — and those angles are quoted as the machine reports them.
+>
+> **What makes this Part different.** It is the only Part in which the muscle is loaded hard by almost
+> every heavy exercise a lifter already does, and yet the strength of the isolated muscle did not rise
+> when those exercises were trained (Part X §B.4). It is also the only Part in which the joint's
+> tolerance, not the muscle's capability, sets the useful range — extensor torque is highest where the
+> spine is least comfortable (Part X §B.2 and Part X §B.8).
+
+---
+
+## partxaanatomyandarchitecture
+
+**PART A — Anatomy and Architecture**
+
+### A.1 What the erector spinae is
+
+The erector spinae is not one muscle. It is a set of long columns lying in the groove on each side of the
+spine, from the [pelvis](#pelvis) to the skull, that straighten the back and hold it straight when something tries
+to bend it forward. In the lower back — the region this Part trains — two of those columns do almost all
+of the work, and each of them is built in two parts that behave differently.
+
+Three facts organize the Part.
+
+1. **Two columns, four parts.** In the lumbar region the erector spinae is the **[iliocostalis lumborum](#iliocostalislumborum)** and the **[longissimus thoracis](#longissimusthoracis)**, and each has a *thoracic* part — small muscle bellies high on the ribcage that end in long tendons running down to the pelvis — and a *lumbar* part, made of short fascicles that run directly from the lumbar vertebrae to the pelvis (Macintosh & Bogduk, 1987). **The thoracic parts reach the lower back as tendon, not muscle**, and they still supply about half of the extensor moment at the bottom two lumbar segments (Bogduk et al., 1992a).
+2. **It is a force muscle on a short [lever](#momentarm), and rounding shortens the lever.** The extensor mass sits about **6 cm** behind the centre of the L4/L5 disc (McGill et al., 1988). A lever that short means large muscle forces for modest external loads, and it shortens by up to about 10% at 45° of torso flexion and by 10–24% from an arched to a rounded lower back (Part X §B.3).
+3. **Load is plentiful and range is scarce.** Every [deadlift](#deadlift), squat, row and [hinge](#hiphinge) loads these muscles, and across deadlift variants erector activity exceeded gluteal and hamstring activity (Martín-Fuentes et al., 2020). But most of those exercises hold the lower back still, and training them did not raise strength on the [isolated lumbar extension](#isolatedlumbarextension) test (Part X §B.4). **This Part's judgement is that what most programmes lack is not load but movement of the spine under load** — the one thing the spine tolerates least (Part X §B.8). No trial has tested that judgement against erector size.
+
+---
+
+### A.2 Attachments — the map you load
+
+| Part | Origin (lower end) | Insertion (upper end) | Nerve | Joint action |
+|---|---|---|---|---|
+| Longissimus thoracis, lumbar part | Ilium, and the lumbar intermuscular aponeurosis | Accessory processes and the roots of the transverse processes of the lumbar vertebrae | Intermediate branches of the lumbar dorsal rami | [Trunk extension](#trunkextension) through the lumbar spine; lateral flexion on one side |
+| Longissimus thoracis, thoracic part | Via the [erector spinae aponeurosis](#erectorspinaeaponeurosis) to the sacrum and lumbar spinous processes | Transverse processes and ribs of the thoracic spine | As above, at thoracic levels | Extension of the thoracic and lumbar spine together |
+| Iliocostalis lumborum, lumbar part | Iliac crest | Tips of the transverse processes of L1–L4 | Lateral branches of the lumbar dorsal rami | Lumbar extension; lateral flexion |
+| Iliocostalis lumborum, thoracic part | Via the erector spinae aponeurosis to the ilium and sacrum | Lower ribs | As above, at thoracic levels | Extension and lateral flexion through a long lever |
+| Spinalis thoracis | Spinous processes of the lower thoracic and upper lumbar vertebrae | Spinous processes of the upper thoracic vertebrae | Dorsal rami | Thoracic extension; negligible in the lower back |
+| Multifidus, lumbar | [Sacrum](#sacrum), the back of the ilium, and the mamillary processes | Spinous processes two to four segments higher | Medial branches of the lumbar dorsal rami | Segmental extension; control of each vertebra |
+
+The lumbar attachments are those of the original dissections (Bogduk, 1980). The nerves
+follow a rule that makes the table easy to remember: the first four lumbar dorsal rami tend to split into a
+**medial** branch to multifidus, an **intermediate** branch to longissimus and a **lateral** branch to
+iliocostalis, the fifth has no lateral branch, and each medial branch supplies only the multifidus fascicles that start from the spinous process of its
+own number (Bogduk et al., 1982). **The multifidus is five separate bands, one per lumbar vertebra**
+(Macintosh et al., 1986); the erector columns are not segmented that way.
+
+**Read the "Origin" column for the thoracic parts, because it is the most counter-intuitive fact in the
+Part.** The thoracic fibres of both columns end in the erector spinae aponeurosis — a broad, flat tendon
+lying over the lower back. When you feel "the lower back" working in a heavy deadlift, a large part of
+what is pulling is muscle sitting beside the lower ribs, transmitting force down that tendon. **Part X §A.4
+is built on that fact.**
+
+**Read the dissections as one agreed fact and one open question.** Agreed: lumbar and thoracic fibres are
+anatomically distinct, and the lateral lumbar fascicles belong to iliocostalis lumborum — in a dissection
+series (Macintosh & Bogduk, 1987) and in a three-dimensional reconstruction (Daggfeldt et al., 2000). Open: where the lumbar fibres end at the bottom. One series
+describes them inserting into the ilium independently of the aponeurosis (Macintosh & Bogduk, 1987); a
+three-dimensional reconstruction of the Visible Human male and female found a large part of them
+attaching to the aponeurosis instead (Daggfeldt et al., 2000). The difference matters to modellers more
+than to lifters: either way, lumbar fibres pull the lumbar vertebrae toward the pelvis.
+
+**One more structure that is easy to miss.** The [thoracolumbar fascia](#thoracolumbarfascia) wraps the
+whole column. Its deep lamina forms bands that anchor the L2–L5 spinous processes to the ilium and resist
+flexion (Bogduk & Macintosh, 1984), and pulling on the latissimus dorsi, the gluteus maximus or the
+erector muscle tensions its superficial lamina, with tension crossing to the opposite side below L4
+(Vleeming et al., 1995). The erectors therefore do not work alone even in principle (Part X §A.7).
+
+---
+
+### A.3 Architecture — a force muscle whose numbers do not add up on one slice
+
+```
+THE BACK EXTENSORS, MEASURED
+                                   Fascicle length   PCSA, one side    Source
+                                   (cm)              (cm2)
+  CADAVERS - 5 donors, optimal fascicle length
+    Spinalis thoracis                6.4 +/- 0.6
+    Iliocostalis lumborum           14.2 +/- 2.1
+    Erector spinae, 3 columns                         11.6 +/- 1.8     Delp 2001
+  CT AT THE L4/L5 DISC - 13 active men, 40 y
+    Erector mass ("sacrospinalis")                    15.9 +/- 2.5
+    Multifidus                                          4.2 +/- 0.7    McGill 1988
+    Moment arm, erector mass       5.90 +/- 0.52 cm
+  INTRAOPERATIVE AND CADAVERIC - 8 specimens
+    Multifidus, whole muscle          5.66            23.9             Ward 2009b
+```
+
+**Three readings.**
+
+- **The erectors are built for force with more length than the multifidus.** Their fascicles of 6–14 cm are longer than the multifidus's 5.66 cm (Part VI §A.4). Neither is an excursion muscle like the rectus abdominis.
+- **The cross-sections cannot be added, compared or ranked.** The cadaveric [PCSA](#pcsa) is volume divided by [fascicle length](#fasciclelength) in five donors (Delp et al., 2001); the CT figure is an area corrected for pennation on one slice through living men (McGill et al., 1988). By cadaveric PCSA the multifidus, at 23.9 cm² (Ward et al., 2009b), is about twice the three erector columns together in another set of donors; on the L4/L5 slice the erector mass is nearly four times the multifidus (McGill et al., 1988). What each contributes to the moment depends on level and lever (Part X §A.4).
+- **A single slice cannot estimate the muscle's capacity, and the size of the gap shows it.** From the L4/L5 slice alone, the erector and multifidus mass of thirteen active men should produce about **118 N·m** of extensor moment at an assumed 50 N·cm⁻², or 71–213 N·m at 30–90 N·cm⁻² (McGill et al., 1988). National-class powerlifters reached a highest average L4/L5 moment of **988 N·m** (Cholewicki et al., 1991), and fluoroscopy of such lifts found the posterior ligaments not stretched enough to contribute substantially (Cholewicki & McGill, 1992). **The thoracic parts are part of that gap, not all of it:** their bellies lie above the slice and supply about half the upright moment at L4 and L5 (Bogduk et al., 1992a), which at most doubles the slice estimate to about 236 N·m. The rest — larger muscles in trained lifters, the uncertain force per unit area and the elastic tension of stretched muscle — has not been measured. A mechanical inference.
+
+**Size, by sex.** In eighty healthy volunteers aged 20–62, the combined multifidus and erector spinae
+volume from L1 to L5 was **811.6 ± 98.9 cm³ in men against 565.4 ± 83.8 cm³ in women**, and did not fall
+with age across that span (Crawford et al., 2016). Men also had larger trunk-muscle moment arms at most
+levels (Jorgensen et al., 2001).
+
+**What changes with age is not the volume but the fat inside it.** In the same volunteers the fat
+fraction rose with age, was higher in women (17.8% against 14.7%) and was highest at L5 — 31.9% in women
+and 25.7% in men (Crawford et al., 2016). In 9,564 UK Biobank participants with a mean age of 63.5, older
+age went with more intramuscular fat and a smaller erector spinae cross-section, and more physical
+activity went with less fat and more cross-section — age with correlations of r ≥ 0.232, physical activity only
+weakly (r ≥ 0.036)
+(Wesselink et al., 2024).
+
+---
+
+### A.4 The thoracic and lumbar parts — a division of labour
+
+```
+WHO SUPPLIES THE EXTENSOR MOMENT, UPRIGHT
+(49-fascicle model on radiographs of 9 volunteers; Bogduk 1992)
+  At L4 and L5    thoracic parts of the erector spinae   ~50%
+                  multifidus                             ~20%
+                  lumbar parts of the erector spinae     the rest
+  At L1-L3        thoracic parts                         70-86%
+```
+
+**The thoracic parts are the long lever; the lumbar parts are the local one.** Because the thoracic fibres
+reach the pelvis over the lumbar spine as tendon, they extend all five lumbar segments at once. The lumbar
+fibres act segment by segment, and in the upright posture the lumbar back muscles exert a net
+**posterior** shear on L1–L4 and an anterior shear on L5 (Bogduk et al., 1992a). Full flexion changes that
+shear; Part X §B.8 sets out how.
+
+**The parts can be biased, a little.** In thirty-nine healthy adults performing prone trunk extension,
+moving the table edge from the iliac crests up to the lower tip of the sternum raised thoracic erector
+activity relative to iliocostalis lumborum (Park et al., 2015). At 80% of [one-repetition maximum](#onerepmax), a squat
+produced 34.5% more activity at the lumbosacral erector spinae than a deadlift, while the deadlift
+produced 12.9% more at the upper lumbar erector spinae (Hamlyn et al., 2007). **Promising but
+under-replicated** that exercises differ in *where* along the column they load — two surface-EMG studies,
+with cross-talk between neighbouring sites; **no study has measured regional erector growth**.
+
+**And disuse takes them apart unevenly.** In nine men after sixty days of head-down bed rest, the
+erector spinae lost cross-section fastest at L1–L2, while the multifidus lost it fastest at L4–L5
+(Belavý et al., 2011).
+
+---
+
+### A.5 Size — what makes the erectors bigger, and what the evidence cannot yet say
+
+**Few training studies have measured erector spinae size, none in trained lifters, and none has compared
+exercises, ranges or doses.** The searches behind this Part found strength trials (Part X §B.4), acute [EMG](#emg)
+(Part X §B.11), clinical trials in back pain, athlete comparisons, bed-rest experiments, and five small or
+indirect training studies in adults without back pain that measured erector size. What exists, in order of
+how directly it answers the question:
+
+| Evidence | Population | What was measured | Result |
+|---|---|---|---|
+| Trunk strength training, uncontrolled | 12 sedentary students, 11 of them women, 18 weeks | MRI back-muscle cross-section at L4/L5 | Back-muscle cross-section **increased** (P < 0.01), and so did trunk extension force (Parkkola et al., 1992) |
+| Slow resistance training with or without whole-body vibration, randomized | 32 untrained adults aged 22–49, 13 weeks | MRI erector spinae cross-section | **+8.7%** with vibration against **0.0%** with the same resistance training alone (Osawa & Oguma, 2013) |
+| Isometric back-training programme, uncontrolled | 11 workplace volunteers, 3 months | MRI erector spinae and quadratus lumborum cross-section | Mean **+8%**, with an increase in every participant (Lescher et al., 2011) |
+| Progressive resistance plus impact training against no exercise, randomized | 180 men aged 50–79, 18 months | CT paraspinal plus psoas cross-section | **+2.6%** net gain, 95% CI 1.1–4.1% (Turcotte et al., 2020) |
+| High-intensity machine resistance training, including [back extension](#backextension), against no training, randomized | 31 osteosarcopenic men over 72 analysed, 16 months | MRI erector spinae muscle-tissue volume | **No training effect** (Kircher et al., 2024) |
+| Bed rest with and without a resistance countermeasure | 24 adults, 60 days head-down | MRI cross-section, lumbar erector spinae and multifidus | High-load resistive exercise three days a week **reduced** the loss of erector spinae and multifidus cross-section (Belavý et al., 2010) |
+| The same design, in women | 16 healthy women, 60 days | MRI total lumbar paraspinal cross-section | −10.9 ± 3.4% without exercise against −4.3 ± 3.4% with treadmill and flywheel resistance exercise; the erector spinae supplied 76% of the loss (Holt et al., 2016) |
+| Spaceflight | 17 long-duration astronauts | CT cross-section at L1/L2 | Erector spinae and multifidus fell 4.6–8.4%; **more in-flight resistance exercise went with less decline**, and cross-section recovered within a year on Earth (Burkhart et al., 2019) |
+| Motor control plus isolated lumbar extension, against general exercise | 50 adults with chronic [low back pain](#lowbackpain), 12 weeks | MRI cross-section at L4/L5 and L5/S1 | Erector spinae **16.31 → 17.48 cm²** at L4/L5 and **11.28 → 13.18 cm²** at L5/S1 in the lumbar-extension group (baseline-adjusted means); the general-exercise group lost cross-section at L5/S1 (Fortin et al., 2023) |
+| Stabilization alone, or with dynamic or dynamic-static lumbar resistance training | 59 adults with chronic low back pain, 10 weeks | CT paravertebral cross-section | Grew with **both** resistance programmes and not with stabilization alone (Danneels et al., 2001b) |
+| The same trial, multifidus | The same 59 adults | CT multifidus cross-section | Grew only with the programme that added a static hold between the lifting and lowering phases (Danneels et al., 2001a) |
+| Physiotherapy, training on devices, or aerobics | 59 adults with chronic low back pain, 3 months | MRI trunk muscle cross-section | Changes of a few percent either way, with a slight **decrease** after training on devices (Käser et al., 2001) |
+| Group exercise against usual care | 24 adults sick-listed with subacute low back pain, 15 weeks | CT paraspinal cross-section | Cross-section fell at L4/L5 with usual care and not with exercise — a significant between-group difference (Storheim et al., 2003) |
+| Isolated lumbar extension alone | 16 men, and 14 adults, with low back pain | MRI multifidus cross-section (both trials) and erector spinae cross-section (second trial) | **No significant change** — in sixteen men whose function improved (Willemink et al., 2012), and in fourteen adults who got stronger (Berry et al., 2019) |
+| Long-term resistance-trained men against untrained men | 7 men with at least 15 years of resistance training, 8 untrained men | MRI erector spinae plus multifidus cross-section | **Larger** in the resistance-trained men (Emanuelsson et al., 2022) |
+| Adolescent athletes against non-athletes | 49 gymnasts, figure skaters and dancers against 17 controls | MRI erector spinae plus multifidus cross-section | Larger in the athletes after adjusting for body mass (Peltonen et al., 1998) |
+| Five years of military flight service | 26 fighter pilots, from age 21 | MRI paraspinal cross-section | **+8% at L3–4 and +7% at L4–5** (Honkanen et al., 2019) |
+
+**How to read that table.** The first five rows are the only training studies of erector size in adults
+without back pain: two uncontrolled studies and one randomized trial of a combined back-muscle measure
+found small gains, a randomized trial found none from resistance training alone, and a trial in the very
+old found none at all. The bed-rest and spaceflight rows show the same muscle from the other side: **take
+load away and the erectors shrink; put resistance exercise back and they shrink less.** The clinical rows
+are mixed — lumbar resistance training grew the paraspinal muscles in some trials and not in others — and
+the athlete rows are cross-sectional or uncontrolled. Across 29 prospective studies of exercise and
+lower-trunk muscle size, about half reported an increase, the largest effects coming from machine-based
+resistance training and from motor control combined with free resistance (Shahtahmassebi et al., 2014);
+**Caveat:** that review pooled people with and without back pain and rated the risk of bias as
+substantial. **Moderate evidence** that the erectors respond to mechanical loading; **evidence remains
+limited and inconsistent** that resistance training grows them in healthy adults, and there is no evidence
+on which exercise, range or dose does so in a trained lifter.
+
+**The multifidus beside them is no clearer.** In adults without back pain it grew 23–24% after eight
+months of core stabilization in eleven women, uncontrolled (Kliziene et al., 2015), and thickened with trunk
+training against walking and balance training in 64 older adults (Shahtahmassebi et al., 2019), but did not
+grow after 24 weeks of on-duty back and core exercise in firefighters (Mayer & Nuzzo, 2015). **Evidence
+remains limited and inconsistent.**
+
+**Two cautions about the variable most people cannot change.** In sixty-five pairs of identical male
+twins, family membership explained **66–73%** of the variance in paraspinal cross-section beyond age, and
+the men's reported occupational, sport and leisure activity had negligible effects (Gibbons et al., 1998);
+**Caveat:** self-reported everyday activity in men aged 35–65, not measured resistance training.
+And in people with back pain, fat already inside these muscles has not been shown to reverse with
+exercise: a systematic review rated that conclusion moderate-quality (Wesselink et al., 2023).
+
+---
+
+### A.6 Fibre type — type I-dominant, and it still does not decide the rep range
+
+```
+LUMBAR BACK MUSCLE FIBRE TYPE, HEALTHY ADULTS
+                              Type I          Type I share of area
+                              (% of fibres)
+  THORSTENSSON 1987 - 16 adults, 20-30 y, histochemistry
+    Longissimus, lumbar           57%          men 54-58%, women 70-75%
+    Multifidus, lumbar            62%          (both muscles)
+  AGTEN 2020 - 18 adults, 25-65 y, myosin immunofluorescence
+    Erector spinae, lumbar        57.7%        63.5%
+    Multifidus, lumbar            59.1%        68.8%
+```
+
+**Three readings.**
+
+- **By number, the back is only slightly more slow-twitch than the abdominal wall.** The abdominal muscles are 55–58% type I (Häggmark & Thorstensson, 1979); the lumbar back muscles are 57–62% (Thorstensson & Carlson, 1987), and a second series found 57.7% in the erector spinae (Agten et al., 2020).
+- **By area, and in women, the difference is larger.** Women had the same proportion of type I fibres as men but their type II fibres were smaller, so type I fibres occupied **70–75%** of the muscle's area against 54–58% in men (Thorstensson & Carlson, 1987). A second series found the same pattern at both the tenth thoracic and third lumbar levels, with larger fibres of every type in the thoracic region (Mannion et al., 1997b).
+- **Pain shifts it the other way.** Paraspinal muscle from patients with low back pain had a higher proportion of fast glycolytic fibres than matched controls (Mannion et al., 1997a).
+
+**What it does not change.** The argument "slow-twitch muscle, so train it light and long" was tested
+directly on these muscles: a single weekly set of isolated lumbar extension to [momentary failure](#momentaryfailure) at 80%
+or at 50% of maximal voluntary contraction produced **similar strength gains** over six weeks — the
+lighter load took 26 ± 8 repetitions against 8 ± 3 and was rated more uncomfortable (Fisher et al., 2018).
+The fibre type is real; the light-load prescription it is used to justify is not required. **Promising but
+under-replicated** for these muscles — one six-week strength trial (Fisher et al., 2018).
+
+---
+
+### A.7 The muscles you cannot separate it from
+
+| Muscle | Why it is inseparable | Consequence |
+|---|---|---|
+| [Gluteus maximus](#gluteusmaximus) and [hamstrings](#hamstrings) | Every hinge extends the hip and the lumbar spine at once, and the hip extensors can rotate the pelvis to move the trunk | Training without the pelvis restrained raised the machine load but not isolated lumbar extension strength (Graves et al., 1994) — Part X §B.4 |
+| Multifidus | Lies under the erectors, shares their action and their nerve roots | No exercise trains one without the other; surface electrodes cannot separate them (Part VI §B.11) |
+| [Quadratus lumborum](#quadratuslumborum) | Runs beside them from the pelvis to the lowest rib | Shares lateral flexion; trained by carries (Part VI §D.4) |
+| Abdominal wall | The antagonist, and a co-contractor in every braced lift | Raising [intra-abdominal pressure](#intraabdominalpressure) stiffened a spine model without the extra erector co-contraction the alternative strategy needs (Cholewicki et al., 1999) |
+| [Latissimus dorsi](#latissimusdorsi) | Attaches through the same fascia | A heavy pull tensions the sheet the erectors lie in (Vleeming et al., 1995) |
+| [Psoas major](#psoasmajor) | Attached to the front of the same vertebrae | A strong hip flexor that loads the lumbar spine (Part VI §A.10) |
+
+---
+
+### A.8 How the back is injured in the gym
+
+**The lower back is the most commonly injured region in powerlifting, and the injuries rarely stop
+training.** Across seventeen reports, the lower back and pelvis were the commonest injury site in
+powerlifting, and incidence ran at **1.0–4.4 injuries per 1,000 hours of training** — low compared with
+contact sports (Tung et al., 2024). Among 104 Swedish sub-elite powerlifters, **70%** were currently
+injured and the lumbopelvic region led the list, but only 16% of the injured had to stop training
+completely (Strömbäck et al., 2018).
+
+Four things are known about mechanism, and they do not point in the same direction.
+
+1. **The disc can be damaged by repeated flexion under [compression](#lumbarcompression) — in a laboratory.** Pig spinal segments cycled through flexion and extension under modest compression herniated, and higher compression made it worse (Callaghan & McGill, 2001). Part VI §E.4 sets out why that model cannot be transferred directly to a lifter.
+2. **Flexion moves load from muscle to ligament.** At full flexion the lumbar extensors fall electrically silent while still generating force by being stretched, and holding only 8 kg there loaded the spine with almost 3 kN of compression and about 755 N of anterior shear, with the interspinous and supraspinous ligaments loaded high relative to their failure tolerance (McGill & Kippers, 1994).
+3. **Yet more lumbar flexion during lifting has not been shown to predict back pain.** In the one longitudinal study pooled, peak lumbar flexion while lifting did not differ between people who developed back pain and those who did not (1.5°; 95% CI −0.7° to 3.7°), and in cross-sectional studies using thorax-to-pelvis angles people already in pain lifted with 6.0° *less* flexion (Saraceni et al., 2020). **Evidence remains limited and inconsistent** — graded low quality by the review, and none of its lifting tasks was a heavy barbell lift.
+4. **Vertebral bone tracks heavy loading.** In eight powerlifters, estimated loads on the third lumbar vertebra of **18.8–36.4 kN** in a maximal lift were matched by very high vertebral bone mineral content, which correlated with the weight lifted in training over the previous year (r² = 0.82) (Granhed et al., 1987). **Promising but under-replicated** — one cross-sectional study; Part VI §B.5 explains why that does not make the spine adapt like muscle.
+
+**The rare emergency.** A heavy deadlift session has produced bilateral paraspinal compartment syndrome
+requiring surgical removal of dead muscle, with acute kidney injury (Kroenung et al., 2024). One case
+report — but severe back pain with dark urine after an unaccustomed high-volume session is a same-day
+medical assessment (Part X §E.4).
+
+---
+
+### A.9 What the anatomy dictates, in nine lines
+
+1. **The lumbar erector spinae is two columns — iliocostalis lumborum and longissimus thoracis — each with a thoracic and a lumbar part** (Macintosh & Bogduk, 1987).
+2. **Half the extensor moment at L4/L5 comes from muscle sitting beside the ribs**, transmitted through the erector spinae aponeurosis (Bogduk et al., 1992a).
+3. **Its lever is about 6 cm** (McGill et al., 1988), so moderate external loads demand very large muscle forces.
+4. **A single slice through the lower back underestimates its capacity several-fold** — 118 N·m estimated from one slice in average active men (McGill et al., 1988) against a highest average of 988 N·m in national-class powerlifters (Cholewicki et al., 1991); the thoracic parts can explain at most half of that gap.
+5. **Men carry about 44% more of it than women, and age adds fat rather than removing volume** between 20 and 62 (Crawford et al., 2016).
+6. **It is 57–62% type I by number**, more by area in women, and that does not change the load that works (Fisher et al., 2018).
+7. **It shrinks when the spine is unloaded and shrinks less with resistance exercise** (Belavý et al., 2010). In untrained adults it has grown by single-digit percentages in small studies and not at all in others (Part X §A.5), and no trial has tested which exercise, range or dose grows it.
+8. **The nerves are segmental**: medial branches to multifidus, intermediate to longissimus, lateral to iliocostalis, with no lateral branch at L5 (Bogduk et al., 1982).
+9. **The lower back is powerlifting's commonest injury site, at a low rate per hour** (Tung et al., 2024), and flexion during lifting has not been shown to predict pain (Saraceni et al., 2020) — **evidence remains limited and inconsistent**.
+
+---
+
+## partxbbiomechanics
+
+**PART B — Biomechanics — what actually loads the erector spinae**
+
+### B.1 The joint actions, ranked
+
+| Rank | Action | What does it | Where it matters |
+|---|---|---|---|
+| 1 | **Resisting flexion** — holding the lumbar spine still against a load that tries to bend it forward | Both columns and multifidus on both sides, isometrically | Every squat, deadlift, hinge, row and carry with the trunk leaning forward. The erectors' everyday job |
+| 2 | **Trunk extension through the lumbar spine** — straightening a rounded lower back | Both columns and multifidus, shortening | The main action that changes the lumbar erectors' length (Part X §B.2). Rare in most programmes |
+| 3 | **[Trunk lateral flexion](#trunklateralflexion)** — one side only | Iliocostalis above all, with quadratus lumborum | Carries, one-armed work, and holding the trunk upright over one leg |
+| 4 | **Resisting asymmetry** — the side opposite a one-sided load | Contralateral erectors | In a one-armed [kettlebell swing](#kettlebellswing), erector activity on the side opposite the bell was **14–25% higher** than on the same side (Andersen et al., 2019) |
+| 5 | **[Trunk rotation](#trunkrotation)** | Almost none | The lumbar back muscles supply about 5% of axial torque and none can be called a rotator (Macintosh et al., 1993a) |
+
+**Read ranks 1 and 2 together, because they are the whole Part.** Rank 1 is where the erectors spend
+their working life and where the loads are. Rank 2 is what moves them through a range.
+Every exercise decision in Part X §D is a choice about how much of each to buy.
+
+---
+
+### B.2 Length — the spine sets it, and the hip does not
+
+**The erector spinae crosses the joints of the spine and the joint between the spine and the pelvis. It
+does not cross the hip.** So its length is set by the shape of the spine — how rounded, arched or bent to
+one side the back is — and not by the hip.
+
+```
+WHAT CHANGES ERECTOR LENGTH, AND WHAT DOES NOT
+  LUMBAR FLEXION        Rounds the lower back          LENGTHENS the lumbar parts, and the
+                                                       thoracic parts through their tendon
+  THORACIC FLEXION      Rounds the upper back          LENGTHENS the thoracic parts
+  LUMBAR EXTENSION      Arches it past standing        SHORTENS every part
+  LATERAL FLEXION       Bends to one side              LENGTHENS the opposite side
+  HIP FLEXION           Folds at the hip, back held    NO CHANGE by itself - but no
+                                                       measured hinge held the back still
+  TORSO INCLINATION     Any lean, from either joint    Changes the LOAD, not the length
+```
+
+**This is the single most useful fact about the erectors.** A hinge done with the lower back perfectly
+still would tip the trunk forward and leave the erectors at one length, the load on them rising and falling
+with the lean. No measured hinge is that still, but its lumbar range is small beside the hip's: **16.8–21.1°**
+between pelvis and lumbar spine against **58.4–90.4°** at the hip in good mornings and deadlifts
+(Schellenberg et al., 2013). A rep in which the lower back itself rounds and straightens takes them through
+more. Part X §B.4 turns that into a classification rule.
+
+**The box has two rows the hinge debate forgets.** The thoracic parts arise from the ribs (Macintosh &
+Bogduk, 1987), so rounding the upper back lengthens them too — a mechanical inference from their
+attachments. And side bending counts: adding a side bend away from the measured side to a seated forward
+bend raised the stiffness of the lumbar erector spinae, a marker of stretch, above forward bending alone
+(Masaki et al., 2019).
+
+**Where on its [force–length curve](#forcelengthrelationship) the muscle sits.** One measurement and two models agree on the direction.
+
+- **The extensors are short when you stand.** Laser diffraction of seven lumbar muscles in seven cadavers found the extensor [sarcomeres](#sarcomere) short in a neutral spine, and modelling full flexion predicted that **"the extensor muscles are all designed to produce maximum force in a mid-flexed posture"**, reaching the descending limb together at full flexion (Zwambag et al., 2014).
+- **The multifidus, measured in living spines, climbs toward its plateau as the spine flexes** — from 1.98 µm in extension to 2.70 µm in flexion (Ward et al., 2009b).
+- **In a radiographic model, flexion "substantially" lengthens the back muscles**, and once the passive tension that lengthening creates is added, the moment they exert in full flexion is not significantly different from upright (Macintosh et al., 1993b).
+
+**And at the end of the range, the load is shared differently.** Near full flexion the lumbar erectors
+fall electrically silent — [flexion relaxation](#flexionrelaxation) (Colloca & Hinrichs, 2005) — while the
+stretched lumbar extensors still carry force elastically, the thoracic extensors stay active, and the
+posterior ligaments take a load that is high relative to their failure tolerance (McGill & Kippers, 1994).
+**Electrical silence is not mechanical silence.**
+
+**How still is "held still"?** Less than coaching suggests. Lifting up to 20 kg from the floor, people
+generated their peak extensor moment with the lumbar spine **78–97%** of the way from standing to full
+flexion (Dolan et al., 1994). A back extension done by moving the hip still moved **17°** between the pelvis
+and the lower back (Schellenberg et al., 2017). In twenty-four lifters deadlifting at 70% of
+one-repetition maximum, the lordosis flattened by **13° in the upper and 20° in the lower lumbar spine**
+between standing and the start position, and the lower lumbar spine then moved through **22°** on the
+way up (Bengtsson et al., 2022). Heavier loads added flexion at the lower thoracic and upper lumbar
+spine (Shoji et al., 2025), and at a three-repetition maximum strength-trained women showed more lower
+thoracic flexion and more erector activity than at 70% or 90% (Gundersen et al., 2025). Four
+national-class powerlifters lifting 184–211 kg started their deadlifts within **1.5–13°** of their own
+full lumbar flexion in all but one trial (Cholewicki & McGill, 1992). **So the erectors do change length in a heavy hinge — by
+less than the hip, and most at the heaviest loads.**
+
+---
+
+### B.3 Leverage and the strength curve
+
+**The lever is short, and rounding shortens it.**
+
+```
+EXTENSOR MOMENT ARM
+  CT, 13 active men, supine, L4/L5 disc      5.90 +/- 0.52 cm   McGill 1988
+  CT, 21 patients, lumbosacral axis          6.8 cm             Németh 1986
+  MRI, 11 subjects, simulated lift, supine                      Tveit 1994
+     muscle, lumbar spine in LORDOSIS        60-63 mm
+     muscle, lumbar spine in KYPHOSIS        49-57 mm
+     aponeurosis, LORDOSIS / KYPHOSIS        82-86 / 67-77 mm
+     -> rounding shortened the levers by 10-24%
+  MRI, 12 men and 12 women, recumbent                           Jorgensen 2003
+     neutral -> 45 deg torso flexion         largest fall 9.7% (men),
+                                             8.9% (women), at L5/S1
+  Model, 9 volunteers, full flexion          at most 18% less extensor moment
+                                             Macintosh 1993b
+```
+
+**What the muscle can produce, joint angle by joint angle.**
+
+```
+ISOLATED LUMBAR EXTENSION STRENGTH - pelvis restrained, isometric
+(Graves 1990 - 56 men, 80 women; machine angles, 0 = most extended, 72 = most flexed)
+                        Most extended (0)      Most flexed (72)
+  Men                   235.8 +/- 85.2 N.m     464.9 +/- 150.7 N.m
+  Women                 134.6 +/- 53.2 N.m     237.3 +/- 71.9 N.m
+  Shape                 linear, rising steadily from extension to flexion
+```
+
+**Read the two blocks together.** Rounding the back shortens the lever by up to about a quarter, and
+still the isolated extensors produced **about twice the torque fully flexed as fully extended in men, and
+three quarters more in women** (Graves et al., 1990a). Two things contribute, and the machine cannot
+separate them. Stretched tissue resists flexion without electrical activity: the passive share of the
+extensor moment rose from **25 N·m** in lordotic postures to **120 N·m** in men and **77 N·m** in women at
+full flexion (Dolan et al., 1994). And the extended end is where untrained people are weakest and gain most:
+ten weeks of training moved the flexed-to-extended ratio from 2.37 to 1.67 (Pollock et al., 1989). **The
+erectors produce most torque flexed; how much of that is the muscle's own force–length property is not
+known.** A mechanical inference.
+
+**And training lifts the whole curve, proportionally most at its weak end.** Ten weeks of once-weekly
+isolated lumbar extension raised isometric strength by about 180 N·m at both ends of the range — **102% at
+the most extended position against 42% at the most flexed**, because the extended end started lower
+(Pollock et al., 1989). A second trial found the curve's shape changed, with **92% against 16%** at twelve
+weeks and **123% against 17%** at twenty (Carpenter et al., 1991). **Moderate evidence** — consistent across
+the trials, all from one laboratory group on one type of machine, in participants whose lumbar extensors the
+authors describe as starting in a "low initial trained state" (Pollock et al., 1989).
+
+---
+
+### B.4 What decides whether an exercise trains the erectors
+
+**This is the central problem of Part X.** The erectors are loaded hard by lifts that do not move the
+lower back. Do those lifts train them? For strength, the trials answer directly, and the answer is
+mostly no.
+
+| Trial | What was trained | Isolated lumbar extension strength afterwards |
+|---|---|---|
+| Pollock et al., 1989 | Isolated lumbar extension, pelvis restrained, once a week, 10 weeks | **+42% to +102%** across the range |
+| Graves et al., 1994 | The same machine, with or without the pelvis restrained, 12 weeks | **+23.5%** restrained; **−1.2%** unrestrained, although the unrestrained group added 19.4 kg to its training load |
+| Mayer et al., 2002a | The same comparison, testing on the machine used for training | +15.8% restrained, +20.6% unrestrained — **no difference** |
+| Mayer et al., 2003 | 45° Roman chair back extension, once a week, 12 weeks | **No significant increase** (224.0 → 240.3 N·m; nine trained against six controls), despite heavier training loads |
+| Fisher et al., 2013 | [Romanian deadlift](#romaniandeadlift), 10 weeks, trained men | **No increase**, while Romanian deadlift one-repetition maximum rose from 143.3 to 166.3 kg; the isolated-lumbar-extension group gained at six of seven angles *and* raised its Romanian deadlift from 135.8 to 146.0 kg |
+| Hammond et al., 2019 | [Back squat](#backsquat) or [hip thrust](#hipthrust) at 80%, 4 weeks, trained men | **No increase** in either group |
+| Androulakis-Korakakis et al., 2021 | Years of powerlifting | Competitive and non-competitive powerlifters were **no stronger** than recreationally trained men |
+
+**The pattern is a specificity rule.** The isolated strength of the lumbar extensors rose when the lumbar
+spine was trained through its own range with the hips kept out of it, and did not rise with hinges, back
+extensions that let the hip move, squats, hip thrusts, or a career of powerlifting. **Moderate evidence**
+— five small trials and one cross-sectional study pointing the same way, with one trial on the
+pelvic-restraint question pointing the other (Mayer et al., 2002a).
+
+**Interpretive caution — and it is large.** Every outcome in the table is isometric strength on a
+pelvis-restrained machine. For every group except the isolated-lumbar-extension groups, that test was a task
+they had not trained. When training and testing used the same machine, training without the pelvic restraint
+raised strength as much as training with it (Mayer et al., 2002a). And trained men who stopped their usual
+deadlifts, good mornings and trunk-extension machines *lost* 8.9% of their isolated lumbar extension strength
+in six weeks (Steele et al., 2015b) — a nine-man control group, but hard to reconcile with those lifts not
+loading the muscle. None of these trials measured size, and heavy resistance exercise preserved erector
+cross-section during bed rest (Part X §A.5). **So the table shows that hip-dominant lifts do not raise
+strength on the isolated test; it does not show that they fail to train, or to grow, the erectors.** The rule
+below classifies what the erectors do, not how much they gain.
+
+> **[Spinal role class](#spinalroleclass) of an erector exercise.** Decide it from one repetition as
+> prescribed. The *lumbar change* is the difference in lumbar flexion between the top and
+> the bottom of the repetition, the *hip change* is the difference in [hip flexion](#hipflexion) over the
+> same interval, and the *load position* is the instant at which the external load and the body above the
+> lower back are horizontally farthest from L4/L5.
+> **Spine-moving:** a lumbar change of at least 10°, and at least as many degrees as the hip change —
+> **isolated** when a strap fixes the pelvis to a machine; or a thoracic change of at least 10° against
+> resistance with the lumbar spine resting on a support — **thoracic**.
+> **Spine-holding:** not spine-moving, and at the load position (a) the body above the lower back is a
+> cantilever, supported only from below the lower back and inclined 30° or more from vertical; (b) the pelvis
+> and legs hang from a trunk that is itself supported, as when the legs are swung up behind a trunk lying on
+> a bench; or (c) the body lies face up with the upper back on one support and the feet on another and an
+> external load acts between them, as when the hips are driven up under a bar.
+> **Supported:** every other case.
+> **Where the degrees come from:** measured values for that execution when studies report them and agree;
+> otherwise the set-up decides — a pelvis strapped, or lying on a pad, bench or floor that reaches the hip
+> bones, while the back bends and straightens is spine-moving; a free pelvis is spine-holding if (a), (b) or
+> (c) applies and supported otherwise.
+>
+> Common cases: a hip-free back extension is spine-holding on measured values; a [reverse hyperextension](#reversehyperextension) is
+> spine-holding by (b) and a loaded hip thrust by (c); a bird dog, propped at both ends, and an upright front
+> squat, within 30° of vertical, are supported.
+>
+> **Caveat:** the 10° and 30° thresholds are conventions chosen to separate the exercises in Part X §D; no
+> study has tested them, and measured executions sit close to them — a hip-free back extension flexed the
+> trunk on the pelvis 31.1° within a 64.7° thigh-to-trunk excursion (Lawrence et al., 2019). The class is
+> sagittal: one-sided carries, which load the opposite erectors in side bending (Part X §B.1), come out
+> supported. It describes what the erectors do, not how much they grow.
+
+---
+
+### B.5 The three steering wheels — moment, range and the pelvis
+
+| Variable | What the mechanics predict | What was measured |
+|---|---|---|
+| **Extensor moment** | Rises with the load and with its horizontal distance from the lower back; sets how hard the erectors work | At the same bar load a [good morning](#goodmorning) and a deadlift produced the same L4/L5 moment, **2.75 and 2.81 N·m·kg⁻¹**; doubling the deadlift load to half body weight raised it to **3.77** (Schellenberg et al., 2013) |
+| **Lumbar range** | The main variable that changes lumbar erector length (Part X §B.2) | Isolated training through the range built strength across it; limited range of either half built strength across the whole 72° (Graves et al., 1992) |
+| **Range, which half** | The flexed half is where torque is highest; the extended half is where untrained strength is lowest | Training 72°–36° or 36°–0° each produced the largest gains in its own half and did not differ from full range at any angle (Graves et al., 1992) |
+| **Pelvic restraint** | Lets the lumbar spine, not the hip, produce the movement | Needed for strength gains on the machine in one trial (Graves et al., 1994), not in another (Mayer et al., 2002a); did not change erector EMG on a Roman chair (da Silva et al., 2009) |
+| **Hip position on a Roman chair** | Changes how the pelvis can rotate | Internal hip rotation raised lumbar erector activity 18% over external rotation (Mayer et al., 2002b) |
+| **Lumbar posture on a Roman chair** | A deliberate arch at the top shortens the erectors further | Accentuating lordosis raised erector activity 25% (Mayer et al., 2002b) — at the cost discussed in Part X §B.8 |
+
+**The rule, in one line.** Moment decides how hard the erectors work; lumbar range decides whether they
+move; the pelvis decides whether the hip steals the movement. **A complete erector programme needs a
+large moment somewhere and a lumbar range somewhere — and they do not have to be in the same exercise.**
+
+---
+
+### B.6 The stimulus map for the erectors
+
+```
+                 SPINAL        ERECTOR           L4/L5 MOMENT       SPINAL COST     EVIDENCE
+                 CLASS         LENGTH
+ISOLATED LUMBAR  Spine-moving  Through range,    Set by machine;    Seated, but set Strength trials
+EXTENSION        (isolated)    0-72 deg machine  highest flexed     by torque (B.8) (B.4)
+BACK EXTENSION,  Spine-moving  Through range     ~1 N.m/kg at body  Low axial load  No kinematic or
+PELVIS BLOCKED   (set-up)      (inferred)        weight (hip free)                  training study
+BACK EXTENSION,  Spine-        Changes 17-31     ~1 N.m/kg          Low axial load  Kinetics, EMG,
+HIP FREE         holding       deg lumbar                                           no strength gain
+REVERSE          Spine-        Changes less:     Higher peak than   Low; legs move, Kinetics and EMG
+HYPEREXTENSION   holding       20 vs 31 deg      back extension     trunk supported
+ROMANIAN         Spine-        Changes, less     Rises with lean    Moderate        No lumbar
+DEADLIFT         holding       than the hip                                         strength gain
+GOOD MORNING     Spine-        Changes ~17 deg;  = deadlift at      High: all load  Kinetics and EMG
+                 holding       hip ~58 deg       same bar load      at far end
+CONVENTIONAL     Spine-        Changes 19-21     Highest of all:    Highest         EMG; injury
+DEADLIFT         holding       deg; near full    up to 988 N.m      compression     epidemiology
+                               flexion (elite)   (elite)
+HEX-BAR          Spine-        Changes, less     Lower than         Lower than      Biomechanics
+DEADLIFT         holding       than the hip      straight bar       straight bar
+BACK SQUAT       Spine-        Not measured      High at the        High axial      EMG; no lumbar
+                 holding       here              bottom             compression     strength gain
+BENT-OVER ROW    Spine-        Held for the set  Moderate           Most of three   EMG, spine load
+                 holding                                            rows (Fenwick)
+BIRD DOG         Supported     Short             Very low           Low             EMG only
+SUPERMAN         Spine-moving  Short, past       Very low           Not measured    EMG only
+                 (set-up)      standing                             here
+HIP THRUST       Spine-        Held              Rises with bar     Low axial load  EMG; no lumbar
+                 holding (c)                     load                               strength gain
+LEG PRESS        Supported     No demand         None               -               -
+```
+
+**Read the second and third rows as a difference of degree, not of kind.** On the one 45° bench where two
+executions have been measured, both with the pelvis free, lifters told to move the spine flexed **36°**
+between the lower and middle back, and lifters told to move the hip still flexed **17°** between the pelvis
+and the lower back; lumbar curvature changed by a comparable amount, the hip-led version produced a
+0.1 N·m·kg⁻¹ higher peak L4/L5 moment, and lumbar erector activity did not differ (Schellenberg et al.,
+2017). **Setting the pad above the hip bones plausibly moves the range from the hip to the spine; no study
+has measured it.** A mechanical inference — and the reason this Part still treats pad height as the set-up
+decision that matters most (Part X §C.1).
+
+---
+
+### B.7 Resistance profiles
+
+A [resistance profile](#resistanceprofile) for the erectors is the extensor moment about the lower back
+as a function of the **trunk's flexion on the pelvis** above the pad, not of hip angle. For gravity-driven resistance:
+
+> M_L4/L5(φ) = m_above × g × d_above(φ) + m_load × g × d_load(φ)   (N·m)
+>
+> where m_above = body mass above L4/L5 (kg), m_load = external load (kg), g = 9.81 m·s⁻², and each d = the
+> horizontal distance (m) from L4/L5 to that mass's centre, at trunk flexion φ
+
+| Exercise | Where the extensor moment peaks, by trunk flexion above the pad | Profile for the erectors |
+|---|---|---|
+| **Back extension on a 45° bench, pelvis blocked** | Where the upper trunk passes through horizontal: with the legs at 45°, when the trunk has flexed about **45° on the pelvis** — thoracic and lumbar flexion together. Moment ∝ cos(45° − trunk flexion): 71% of peak at 0°, 100% at 45°, 97% at 60° | **Stretch-loaded** over 0–60° of trunk flexion |
+| **Back extension on a horizontal bench, pelvis blocked** | At **0°** — the trunk is horizontal when the back is straight. Moment ∝ cos(trunk flexion): 100% at 0°, 87% at 30°, 50% at 60° | **Short-loaded** |
+| **Back extension, hip free (either bench)** | Where the trunk passes through horizontal; the lower back still flexes — 17° between pelvis and lower back in one study (Schellenberg et al., 2017), 31° of trunk on pelvis in another (Lawrence et al., 2019) | Stretch-loaded for the hip, with a lumbar range of its own |
+| **Romanian deadlift, good morning** | At the bottom, where the torso is most inclined — at whatever lumbar flexion the lifter holds | Spine-holding; stretch-loaded for the hip |
+| **Conventional deadlift** | Off the floor, where the torso is most inclined and the back most rounded (Part X §B.2) | Spine-holding, with its peak at the erectors' longest length |
+| **Reverse hyperextension** | With the legs swung up toward horizontal | Short-loaded; the lower back moves least (Lawrence et al., 2019) |
+| **Isolated lumbar extension machine** | Set by the machine's cam | Trained in the strength trials as variable resistance (Graves et al., 1990b) |
+| **Prone floor extension ("superman")** | Near constant, at a small moment, through extension past standing | Short-length work at a very low load |
+
+**Most of these profiles are geometry, not measurement.** The 45° and horizontal back-extension rows follow
+from the formula with the pelvis fixed; the hip-free and reverse hyperextension rows use measured motion.
+
+**What the angle is.** The formula treats the body above L4/L5 as one rigid segment, so its angle is the
+trunk's total flexion on the pelvis. Full voluntary lumbar flexion in standing averaged **41.6°** in one
+study (Esola et al., 1996) and **60.2°** in another (Tafazzol et al., 2014), so 45° of lumbar flexion alone
+would sit at 75% to beyond 100% of the lumbar range. **The peak of this profile stays short of lumbar end
+range only when the upper back supplies a large share of the 45°.** And because the profile is
+stretch-loaded, the rep's largest extensor force — about 1.2–1.4 kN at body weight for an 80 kg lifter
+(Part X §B.9) — coincides with its deepest flexion. That is why the depth stops short of end range and the
+load stays moderate. A mechanical inference.
+
+**The row worth remembering is the first.** A back extension on the ordinary 45° bench, with the pad set
+so the hip cannot fold and the back doing the moving, puts its highest erector moment in the flexed part
+of the range, where extensor torque is highest (Part X §B.3). The horizontal version of the same exercise
+does the opposite. **A mechanical inference:** no study has measured this set-up.
+
+---
+
+### B.8 Compression, shear and the spine's side of the ledger
+
+The erectors cannot be loaded without loading the spine: at a 6 cm lever, every newton-metre of extensor
+moment costs about 17 N of muscle force pressing the vertebrae together (Part X §B.9). **How much the spine
+can take, and in which position, is what limits the range of Part X §C.**
+
+```
+WHAT THE LUMBAR SPINE WAS MEASURED OR MODELLED CARRYING
+  INTRADISCAL PRESSURE, L4-L5 - one volunteer, telemetry      (Wilke 1999)
+    Lying prone                                     0.1 MPa
+    Standing relaxed                                0.5 MPa
+    Standing, bent forward                          1.1 MPa
+    Lifting 20 kg - round back, legs straight       2.3 MPa
+                  - knees bent                      1.7 MPa
+                  - close to the body               1.1 MPa
+  COMPRESSION, L4/L5 - 57 national powerlifters, competition  (Cholewicki 1991)
+    Average up to                                   17,192 N
+    Sumo against conventional deadlift              -10% moment, -8% shear
+  COMPRESSION, L3 - 8 powerlifters, maximal lift              (Granhed 1987)
+    Estimated                                       18.8-36.4 kN
+    Bone mineral content of L3                      "extremely high", r2 = 0.82
+                                                    with training load lifted
+  FULL FLEXION, 8 kg in the hands - 8 men                     (McGill 1994)
+    Compression                                     ~3 kN
+    Anterior shear                                  ~755 N
+```
+
+**Four readings.**
+
+1. **Where the load sits relative to the spine matters more than the name of the technique.** In one volunteer, bending forward with no load produced the same disc pressure as 20 kg close to the body, 1.1 MPa, and lifting 20 kg with a rounded back produced 2.3 MPa against 1.7 MPa with bent knees (Wilke et al., 1999) — comparisons that change trunk lean and load distance along with the curve of the back. In four patients with instrumented vertebral implants, stoop and squat lifts differed by only 4% in measured spinal force, and the load's forward distance from the spine was what mattered (Dreischarf et al., 2016).
+2. **Rounding changes the direction the erectors pull, not just how hard.** Shear on L4/L5 rose with lumbar flexion in a model of 150 lifts (Potvin et al., 1991). Measured by ultrasound in fourteen adults, the longissimus and iliocostalis fibres at L3 lay at 25.7° upright, 10.7° with the spine fully flexed and 28.3° with the hips flexed but the spine neutral — full flexion "compromising their role to support anterior shear forces" (McGill et al., 2000). A radiographic model found the muscles' own net shear at L5/S1 reversing from anterior to posterior in full flexion (Macintosh et al., 1993b) — the muscles' contribution at one level, not the joint's total shear.
+3. **The spine is stronger than the fear of it, in people who have trained it.** The heaviest lifters' vertebrae had extremely high bone mineral content (Granhed et al., 1987), cadaveric segments left a "considerable margin of safety" against the forces of maximal flexed lifts (Hutton & Adams, 1982), and elite lifters near full lumbar flexion did not strain their ligaments enough to bear the load (Cholewicki & McGill, 1992).
+4. **The damaging combination in the laboratory is repetition and compression together.** Pig spinal segments herniated under highly repetitive flexion and extension with modest compression, and more compression made it worse (Callaghan & McGill, 2001). Part VI §B.5 sets out how far that transfers — a combination no study in people who lift has tested.
+
+> **The rule, in one line.** Heavy loads with the lower back held; lumbar range at moderate loads, short of
+> end range. **Never both at the extreme at once.**
+
+**The machine is not exempt.** A seated isolated lumbar extension at its maximal isometric torque asks the
+extensors for **4.0–7.9 kN** in men (Graves et al., 1990a), by the arithmetic of Part X §B.9 — as much as or
+more than a deadlift with half of body weight on the bar. A mechanical inference, and an upper bound: the
+machine's torque includes passive tissue and is taken about its own axis, not L4/L5.
+
+---
+
+### B.9 A worked example, so the numbers are not abstract
+
+**Question:** how much erector force does a common set actually ask for, and how does a back extension
+compare with a deadlift?
+
+**Step 1 — the measured moments.** External extensor moments at L4/L5, normalized to body mass, for an
+80 kg lifter:
+
+```
+                                        Moment        x 80 kg      Source
+  45 deg back extension, hip free       0.94-1.05     75-84 N.m    Schellenberg 2017
+  Good morning, bar = 25% body weight   2.75          220 N.m      Schellenberg 2013
+  Deadlift, bar = 25% body weight       2.81          225 N.m      Schellenberg 2013
+  Deadlift, bar = 50% body weight       3.77          302 N.m      Schellenberg 2013
+  Elite competition, highest average      -           988 N.m      Cholewicki 1991
+```
+
+**Step 2 — the muscle force.** Force = moment ÷ lever. With the 5.90 cm lever of Part X §B.3:
+
+```
+  75-84 N.m   / 0.059 m  =   1,271-1,424 N
+  220 N.m     / 0.059 m  =   3,729 N
+  302 N.m     / 0.059 m  =   5,119 N
+  988 N.m     / 0.059 m  =  16,746 N    -> the source model used 0.06 m: 16,467 N
+```
+
+**Interpretive caution:** this treats the extensors as one muscle on one 5.9 cm lever, and the omissions
+push in both directions. Abdominal co-contraction adds a flexor moment the extensors must also overcome,
+raising force and compression. The thoracic parts pull through the erector spinae aponeurosis, whose lever
+was **82–86 mm** in lordosis and **67–77 mm** in kyphosis against **60–63 mm** and **49–57 mm** for the muscle
+(Tveit et al., 1994), lowering the force needed per newton-metre. Rounding shortens both levers by 10–24%
+(Tveit et al., 1994), which raises every force in the column by 11–32%.
+
+**Step 3 — read it.** Three things.
+
+- **A body-weight back extension asks the erectors for about a quarter of the force of a deadlift with half your body weight on the bar** — 75–84 against 302 N·m. The back extension is not a heavy exercise until it is loaded.
+- **The elite deadlift's compression is mostly extensor force — by construction.** The model behind the 17,192 N figure assumed one extensor on a 6 cm lever (Cholewicki et al., 1991), so 988 N·m ÷ 0.06 m ≈ 16.5 kN of it restates that assumption rather than checking it.
+- **And it shows that the one-slice estimate is a floor, not a ceiling.** A body-weight back extension already needs 64–71% of the 118 N·m that a single L4/L5 slice predicts at 50 N·cm⁻² (McGill et al., 1988), and prone back extensions raising the trunk to horizontal needed about half of each person's own maximal isometric extension moment (Plamondon et al., 2002). A trained lifter's deadlift needs several times the slice estimate, and no single structure — the thoracic parts included — has been shown to supply the difference (Part X §A.3).
+
+---
+
+### B.10 Setup variables
+
+| Variable | Effect | Evidence |
+|---|---|---|
+| **Pad height on a back extension bench** | Meant to fix the pelvis so the spine, not the hip, produces the range | **Unmeasured.** With the hip free, spine-led and hip-led executions produced comparable lumbar curvature change and no difference in lumbar erector activity (Schellenberg et al., 2017) |
+| **Bench angle** | A more horizontal bench raises the moment at the top | Erector activity rose progressively as a variable-angle Roman chair was made more horizontal (Mayer et al., 1999) |
+| **Hand position** | Arms overhead lengthen the lever of the upper trunk | Hand position raised activity progressively; angle and hands together doubled it (+104%) from the easiest to the hardest combination (Mayer et al., 1999) |
+| **One leg or two** | One leg raises back and hip muscle activity | Higher back and hip EMG in one-legged back extensions (Schellenberg et al., 2017) |
+| **Deadlift stance** | Sumo brings the torso upright | 10% lower L4/L5 moment and 8% lower shear than conventional (Cholewicki et al., 1991) |
+| **Bar type** | A hex bar puts the load beside the body | Lower peak lumbar moment than a straight bar, with a 20 kg heavier one-repetition maximum (Swinton et al., 2011), though a second study found no difference in one-repetition maximum (Camara et al., 2016); no difference in erector activity at one-repetition maximum (Andersen et al., 2018) |
+| **Bar position in a squat** | Changes torso inclination | Front and back squats produced similar muscle activity, including the back extensors (Gullett et al., 2009) |
+| **Load placement in a back extension** | A plate held higher on the chest adds more moment than one held at the hips | Mechanical (Part X §B.7) |
+| **Belt** | Raises intra-abdominal pressure | Part X §C.6 |
+
+---
+
+### B.11 What EMG can and cannot settle here
+
+**The erectors are the easiest trunk muscle to record and one of the hardest to interpret.** Three
+specific problems, on top of the general [EMG–hypertrophy dissociation](#emghypertrophydissociation) of
+Part II §B.11.
+
+**First, the signal depends on the posture it is recorded in.** Extensor moment rose linearly with erector
+EMG, but the slope and intercept of that relationship changed with lumbar curvature, and the same moment
+produced more EMG while shortening than while holding (Dolan & Adams, 1993). Two exercises with different
+back shapes cannot be ranked by amplitude alone.
+
+**Second, silence is not rest.** At flexion relaxation the signal disappears while the stretched muscle
+keeps producing force (McGill & Kippers, 1994). An EMG study will always rank end-range flexion as easy for
+the erectors; the ligaments disagree.
+
+**Third, the deep muscle cannot be heard from the skin.** With fine-wire electrodes in thirty-four healthy
+adults, the reverse hyperextension produced the highest deep multifidus activity of four exercises, but
+the bird dog produced the highest activity *relative* to the surrounding superficial muscles (Lawrence et
+al., 2026). Surface electrodes over "the multifidus" record the erectors above it (Part VI §B.11).
+
+**What EMG has shown, and how far it goes.**
+
+| What was recorded | Result | What it predicts | What the training data say |
+|---|---|---|---|
+| Deadlift variants, systematic review | Erector spinae activity exceeded gluteal and hamstring activity across variants, with one study finding the reverse in the Romanian deadlift (Martín-Fuentes et al., 2020) | Deadlifts are erector exercises | Romanian deadlift training did not raise isolated lumbar strength (Fisher et al., 2013) |
+| Squat and deadlift at 80% against body weight and "core" exercises | Both loaded lifts far exceeded the superman and side bridge at both erector sites (Hamlyn et al., 2007) | Heavy lifts load the erectors more than stability exercises | Consistent with bed-rest preservation (Part X §A.5); no growth trial |
+| Hyperextension against reverse hyperextension | Reverse hyperextension peak activity 34–71% and mean activity 28–65% higher across the erectors, gluteus maximus and biceps femoris (Cuthbert et al., 2021) | Reverse hyperextension is the harder exercise | A second study found **equivalent** erector activity, with the reverse hyperextension moving the lower back less (Lawrence et al., 2019) |
+| Romanian, step-Romanian and stiff-leg deadlift in bodybuilders | Standing on a step raised longissimus activity over both others; iliocostalis did not differ (Coratella et al., 2022b) | More hip range adds erector activity | No training trial |
+| Good morning, 50–90% of maximum | Mean lumbar erector activity rose with load, peak activity did not, and lumbar flexion did not change (Vigotsky et al., 2015) | Load, not posture, drives the signal in a held spine | No training trial |
+
+---
+
+### B.12 The mechanical checklist
+
+Apply these to any exercise for the erectors.
+
+1. **Does the lower back move, or only the hip?** Count the [lumbar degrees against the hip degrees](#lumbopelvicrhythm) (Part X §B.4). A spine-moving exercise takes the erectors through more range than any hinge.
+2. **Is the pelvis free?** If it is, the hip can take the movement over (Graves et al., 1994).
+3. **Where does the moment peak — flexed or straight?** Extensor torque is highest flexed (Part X §B.3); the 45° bench with the pelvis blocked peaks there, the horizontal bench does not (Part X §B.7).
+4. **How close to end range does the heaviest load reach?** Heavy with the back held; range at moderate loads (Part X §B.8).
+5. **Is the programme already full of spine-holding work?** If so, the erectors are not short of load, and adding a spine-moving exercise is this document's judgement for covering the range the heavy lifts do not (Part X §B.4).
+
+---
+
+## partxctherepspecified
+
+**PART C — The rep, specified**
+
+### C.1 The two erector reps
+
+Every exercise in Part X §D is one of two reps: one in which the lower back moves, and one in which it is
+held while the hip moves.
+
+**Rep 1 — the spine-moving back extension.** Performed on the ordinary 45° back extension bench, set up so
+the hip cannot fold. It is the common free-weight rep that biases the range toward the spine rather than
+the hip, and its highest demand falls in the flexed part of that range (Part X §B.7). **A mechanical
+inference** — hip-led back extensions and deadlifts also move the lower back through 17–31° (Part X §B.2).
+
+```
+THE SPINE-MOVING BACK EXTENSION
+  Set-up   Pad ABOVE the hip bones, across the lower belly, so the pelvis
+           is pinned and cannot rotate. Feet anchored. Arms crossed on
+           the chest.
+  Descent  2-3 s. Round the back from the top down - head, upper back,
+           then lower back - until the upper body hangs roughly level
+           with the floor and the lower back is clearly rounded.
+  Bottom   Stop while the lower back is still working. Do not relax into
+           the last of the range or bounce out of it.
+  Ascent   1-2 s. Unroll from the lower back up, to the back's standing
+           curve. Not past it.
+  Breath   Inhale at the top, brace, exhale through the ascent.
+  Progress Plate at the chest, then plate held higher, then arms overhead
+```
+
+**Why each line is there.** The pad height is meant to make the rep spine-moving rather than hip-dominant
+— the set-up rule of Part X §B.4, which no study has measured (Part X §B.10). The depth puts the bottom of
+the rep near the point of highest moment — about 45° of trunk flexion on this bench, much of it from the
+upper back (Part X §B.7) — and short of the end range where the lumbar erectors fall silent and the
+ligaments share the load (Part X §B.2). The top stops at the standing curve because beyond it the
+erectors are at their shortest and weakest (Part X §B.3). And the progression follows the only data on the variables: changing hand position raised erector
+activity progressively, and a more horizontal bench raised it further (Mayer et al., 1999).
+
+**What this rep has not got.** A growth trial, or a measurement of its own set-up. It is the free-weight version of the movement the
+isolated-lumbar-extension trials trained (Part X §B.4), and it has no strength or size outcome of its own
+in healthy adults. **A mechanical inference, not a measurement.**
+
+**How it differs from the back extension of Part IV and Part VI.** Those Parts set the pad *below* the hip
+bones and hold the spine still, because their target is the hip extensors and the extension slot of the
+core. The bench is the same; the target and the pad height are not (Part VI §C.1; Part IV §D.2).
+
+**Rep 2 — the spine-holding hinge, as the erectors experience it.** The Romanian deadlift is specified for
+the hip in Part IV §C.1 and Part VII §C.1. For the erectors, four lines change.
+
+```
+THE HINGE, FROM THE LOWER BACK'S POINT OF VIEW
+  Before   Brace at the top, with the lower back at its standing curve.
+  Descent  The lower back keeps that curve. The rep ends where the hip
+           stops folding, not where the back starts rounding.
+  Bottom   The erectors' hardest moment: the lean is greatest and the bar
+           furthest from the lower back.
+  Stop     End the SET when the lower back rounds further on each rep than
+           it did on the first - the load, not the plan, is now deciding
+           the position (Part X B.2).
+```
+
+---
+
+### C.2 The technical errors, in order of how much they cost
+
+| # | Error | What it costs | Fix |
+|---|---|---|---|
+| 1 | **Heavy load at end-range lumbar flexion** | Moves load onto ligaments at their least tolerant: holding 8 kg at full flexion loaded the interspinous and supraspinous ligaments high relative to their failure tolerance (McGill & Kippers, 1994), and full flexion flattened the erector fibres, reducing their ability to resist anterior shear (McGill et al., 2000). **A mechanical inference** for heavy loads, which have not been measured at true end range | Heavy loads with the back held; range only at moderate loads (Part X §B.8) |
+| 2 | **The pelvis left free on a "lower back" machine or bench meant to train the lumbar spine** | The hip does the movement: without restraint, the training load rose 19.4 kg and isolated lumbar extension strength did not change (Graves et al., 1994) | Strap or pad the pelvis; on a back extension bench, pad above the hip bones |
+| 3 | **Arching past the standing curve at the top, under load** | The erectors are at their weakest (Part X §B.3), and — **a mechanical inference** — the joints at the back of the spine take more of the load. Deliberately accentuating lordosis raised erector activity 25% (Mayer et al., 2002b), which is why it feels productive | Finish at the standing curve |
+| 4 | **Bouncing out of the bottom of a back extension or a deadlift** | Replaces muscle force with rebound in the part of the range that matters. Bouncing a deadlift reduced the work of every joint, most of all the hip (Krajewski et al., 2019) | A controlled descent and a dead stop |
+| 5 | **Counting the heavy lifts as the whole erector programme** | Leaves the isolated lumbar extension test untrained (Part X §B.4); whether it leaves the muscle smaller is untested | One spine-moving exercise a week, as this document's judgement (Part X §D.6) |
+| 6 | **Grinding a hinge to momentary failure** | Heavier loads added upper-lumbar flexion (Shoji et al., 2025), and a maximal final repetition added lower-thoracic flexion (Gundersen et al., 2025). That the last repetitions of a longer set are the most flexed is **a mechanical inference** | Stop hinges 2–3 repetitions short (Part X §F.4) |
+| 7 | **Loaded spinal flexion in the first hour after waking** | In people with chronic back pain, avoiding early-morning lumbar flexion reduced pain intensity by a third (Snook et al., 1998) | Train spine-moving work later in the day, if back pain is a history |
+| 8 | **Holding the breath hard on every rep with raised blood pressure** | The highest intra-abdominal pressures in resistance training came from squats, then deadlifts, slide rows and leg presses (Blazek et al., 2019) | Part X §C.6 |
+
+**Errors 1, 3 and 7 are the tissue set**: each loads the spine where it is least tolerant. **Errors 2 and 5
+are the stimulus set**: each looks like erector training and is not. Errors 4, 6 and 8 cost quality in the
+part of the set that matters.
+
+---
+
+### C.3 Prerequisites — can you actually reach the positions?
+
+Two checks.
+
+**1. Pain-free spinal range, unloaded.** Standing, slowly round the back as far as is comfortable and
+unroll to standing, five times. If that is painful, or if pain travels into a leg, loaded spinal range is
+not a training decision (Part X §E.4).
+
+*If it fails without leg symptoms:* keep the erector work spine-holding and use a shorter range on the
+spine-moving back extension; limited-range isolated lumbar extension training built strength across the
+whole range (Graves et al., 1992).
+
+**2. A hinge that comes from the hip.** The broom test of Part IV §C.3 applies without modification: three
+points of contact along the spine through at least 60–70° of torso inclination.
+
+*If it fails:* the "hinge" is a spine-moving rep performed with heavy load — error 1. Learn the pattern
+unloaded, or use a hex bar from blocks (Part X §D.2).
+
+---
+
+### C.4 Cues — which ones work and which ones harm
+
+| Cue | Verdict | Why |
+|---|---|---|
+| "Neutral spine" | **Useful as a load rule, not as a description** | Nobody holds it under heavy load — the lumbar spine moved 22° in a 70% deadlift (Bengtsson et al., 2022) and elite lifters lifted within 1.5–13° of their own full flexion (Cholewicki & McGill, 1992). What it usefully means is "do not let load change the shape rep to rep" |
+| "Brace" | **Useful** | Raising intra-abdominal pressure stiffened a spine model without adding erector co-contraction (Cholewicki et al., 1999) |
+| "Roll down one vertebra at a time" | **Useful for rep 1** | It is the instruction used for the spine-led back extension (Schellenberg et al., 2017); on its own, with the hip free, it did not change lumbar erector activity, so the pad does the rest (Part X §B.10) |
+| "Squeeze the glutes at the top of a back extension" | **Situational** | Right for Part IV's hip-dominant version; beside the point on rep 1, where the pad pins the pelvis |
+| "Chest up" in a hinge | **Situational** | Arches the upper back; useful against rounding, harmful if it becomes the lumbar arch of error 3 |
+| "Never round your back" | **Evidence remains limited and inconsistent** as a rule for injury | Lumbar flexion during lifting did not differ between those who developed back pain and those who did not, in one longitudinal study (Saraceni et al., 2020); the rule to keep is error 1's — never heavy *and* at end range |
+| "Lift with your legs, not your back" | **Not supported** as a way to lower spinal load | Across biomechanical studies, disc pressure and spinal shrinkage did not differ significantly between stoop and squat lifting (van Dieën et al., 1999); keep the load close instead (Part X §B.8) |
+
+---
+
+### C.5 The limiting links
+
+| Exercise | What usually ends the set | Fix |
+|---|---|---|
+| **Conventional deadlift** | Grip, or the position of the lower back | Straps; stop at the rep where the back shape changes (Part X §C.1) |
+| **Romanian deadlift** | Grip, the hamstrings at the bottom, or the lower back's shape — no study has measured which comes first | Straps; end the set when the back's shape changes (Part X §C.1) |
+| **Good morning** | The erectors and the spine — the whole load sits at the far end of the trunk | Keep it light and sub-maximal; it produced the same L4/L5 moment as a deadlift with the same bar (Schellenberg et al., 2013) |
+| **Spine-moving back extension** | The erectors — this is the one exercise where they should be the limit | Nothing; add load when the top of the repetition range is reached |
+| **Hip-dominant back extension** | The hamstrings and glutes | Correct for Part IV; for the erectors, raise the pad |
+| **Kettlebell swing** | Grip and breath | Fine for its purpose; about 50% of maximal activity for the back extensors at 16 kg (McGill & Marshall, 2012) |
+| **Isolated lumbar extension machine** | The lumbar extensors, as designed | The purest version of the stimulus; the discomfort of light loads is its only other limit (Fisher et al., 2018) |
+
+---
+
+### C.6 Bracing, breathing and belts
+
+**What a [belt](#weightliftingbelt) does, measured.**
+
+```
+WEIGHTLIFTING BELT - WHAT HAS BEEN MEASURED
+  Intra-abdominal pressure   Higher with a belt: 29.2 against 26.8 kPa at 90%
+                             of 1RM squat (Lander 1990, 6 lifters); 25-40%
+                             higher across 8RM squat repetitions (Lander 1992,
+                             5 lifters); higher and earlier in a 90% deadlift
+                             (Harman 1989, 9 lifters)
+  Erector activity           Slightly lower with a belt at 90% of 1RM, as was
+                             modelled back compression (Lander 1990);
+                             unchanged across 8 repetitions (Lander 1992)
+  Spinal compression         About 10% lower - but only when the lifter
+                             inhaled before lifting, and from the belt's own
+                             stiffness rather than the pressure (Kingma 2006,
+                             9 lifters, loads up to 75% of body weight)
+  Stature loss after a       3.59 mm without, 2.87 mm with - not significant;
+  circuit                    less discomfort with the belt (Bourne 1991)
+```
+
+**Three readings.**
+
+- **A belt supports the trunk; it does not remove the erectors from the lift.** Erector activity fell slightly or not at all, and the spinal saving was small and conditional on the breath.
+- **It has not been shown to prevent back injury.** Lumbar supports were not more effective than no intervention for preventing back pain in a Cochrane review (van Duijvenbode et al., 2008), and among 245 powerlifters belt use went with a *higher* lumbar injury rate (Siewe et al., 2011) — a cross-sectional association that cannot separate harm from the belt from the heavier lifting of those who wear one.
+- **Its cost is intra-abdominal pressure.** The heaviest squats exceeded 200 mmHg, and deadlifts, slide rows and leg presses reached 161–176 mmHg (Blazek et al., 2019) — pressure inside the abdomen, not blood pressure, though the breath-hold that raises it is what those with raised blood pressure are told to avoid. For anyone told to avoid blood-pressure surges, exhale through the effort and use sub-maximal loads rather than a tighter brace (Part VI §E.4).
+
+---
+
+### C.7 How to know it worked
+
+**Within the set.** On rep 1, the lower back visibly rounds and straightens while the pelvis stays pressed to
+the pad and does not tip forward over it. If the hip is folding over the pad, the pad is too low. Where the
+effort is felt is no guide: with the hip free, the lateral hamstrings worked as hard or harder in the
+spine-led execution (Schellenberg et al., 2017).
+
+**Across weeks.**
+
+- **The back extension moves up the progression** — more repetitions with the same plate, then a heavier plate, then the plate held higher.
+- **The [Biering-Sørensen](#bieringsorensentest) hold lengthens.** The test — holding the unsupported trunk horizontal over the end of a bench — is reliable (intraclass correlations 0.77–0.88) and distinguishes people with and without back pain (Latimer et al., 1999). **It is not a strength test:** holding time did not correlate with isolated lumbar extension strength (r = 0.035) (Conway et al., 2016), and hip extensors contribute to it (Demoulin et al., 2006).
+- **Not the deadlift.** A deadlift that rises can do so with no change in isolated lumbar strength (Fisher et al., 2013).
+- **Not back pain.** Pain and muscle change dissociate in both directions (Part X §E.4).
+
+---
+
+## partxdexercisecatalogue
+
+**PART D — Exercise catalogue**
+
+Every entry gives its spinal role class (Part X §B.4), its resistance profile where one exists (Part X
+§B.7), the set-up detail that matters, and the failure mode. **Entries are grouped by spinal role class**,
+because that is the variable the strength trials separate.
+
+A warning that applies to the whole catalogue: **no trial has compared exercises, ranges or doses for
+erector spinae growth, and no exercise below has a growth trial of its own** (Part X §A.5). The rankings rest on strength trials of isolated lumbar
+extension (Part X §B.4), on mechanics and on EMG, and each entry says which.
+
+---
+
+### D.1 Spine-moving extensions — the direct category
+
+The lower back rounds and straightens against resistance. The category that takes the erectors through
+the largest lumbar range, and the only one that raised strength on the isolated lumbar test.
+
+#### Isolated lumbar extension machine (pelvis restrained)
+**Class:** Spine-moving, isolated. **Profile:** set by the machine's cam.
+**Role:** the reference exercise. Once a week, 6–15 repetitions to volitional fatigue plus periodic maximal
+isometric contractions raised isolated lumbar extension strength **42–102%** across the range in ten weeks,
+from an untrained start (Pollock et al., 1989), and training either half of the range built strength across
+all of it (Graves et al., 1992). In single small trials, one set did as well as three in recreationally trained
+men over six weeks (Steele et al., 2015b) and 50% of maximal contraction did as well as 80% (Fisher et al.,
+2018) — **promising but under-replicated**.
+
+*Setup.* Thighs and pelvis strapped so the pelvis cannot rotate. **The restraint is the exercise:** the same
+machine without it raised the training load and not the strength (Graves et al., 1994).
+*Execution.* 2–3 s each way through the full machine range, or the pain-free part of it.
+*Reality.* Most commercial "lower back" machines do not restrain the pelvis. Those are hip-dominant
+exercises with a back pad.
+*Failure mode.* A loose thigh strap.
+
+#### Back extension, 45° bench, pelvis blocked
+**Class:** Spine-moving, by the set-up rule (Part X §B.4). **Profile:** **stretch-loaded** — the extensor
+moment peaks at about 45° of trunk flexion on the pelvis and is still 71% of peak at the top (Part X §B.7).
+**Role:** the free-weight version of the reference exercise, and the default erector exercise of this Part.
+It loads the flexed range, where extensor torque is highest (Part X §B.3). On the hip-free bench, body weight
+alone produced about 1 N·m·kg⁻¹ (Schellenberg et al., 2017), and prone back extensions raising the trunk to
+horizontal demanded about half of each person's maximal isometric extension moment (Plamondon et al., 2002).
+
+*Setup.* Pad above the hip bones; feet anchored (Part X §C.1).
+*Execution.* Roll down from the top, stop short of the relaxed end range, unroll to the standing curve.
+*Why it works.* It biases the range toward the spine on a bench whose heaviest point falls in the flexed
+half, without axial load on the spine. **A mechanical inference:** on a 45° bench with the hip free, a
+spine-led execution produced no more lumbar erector activity and a slightly lower L4/L5 moment than a
+hip-led one (Schellenberg et al., 2017), and no study has measured the pad-above-the-hip-bones set-up.
+*Evidence note.* **No strength or size trial** of this execution exists. A 45° Roman chair trained once a
+week for twelve weeks, with the execution not described in the abstract, did not raise isolated lumbar
+extension strength (Mayer et al., 2003).
+*Failure mode.* A pad set low enough for the hip to fold, which turns it into the hip-dominant exercise of
+Part X §D.2.
+
+#### Back extension, horizontal bench, pelvis blocked
+**Class:** Spine-moving. **Profile:** **short-loaded** — 100% of peak with the back straight, 50% at 60° of
+flexion (Part X §B.7).
+*Reality.* The same movement with its load at the wrong end for this muscle. Useful as a variation, and for
+the thoracic erectors (Part X §D.4); a poorer default than the 45° bench.
+
+#### Prone floor extension ("superman")
+**Class:** Spine-moving by the set-up rule (Part X §B.4), unloaded. **Profile:** near-constant, very small. **Counts as 0** by Part X §F.1
+unless a set reaches failure within 30 repetitions.
+*Evidence note.* Loaded squats and deadlifts produced far more erector activity at both sites than the
+superman did (Hamlyn et al., 2007).
+*Reality.* Extension past standing, where the erectors are weakest, at a load too small to progress. A
+rehabilitation step, not a training exercise.
+
+#### Jefferson curl and other heavy end-range flexion
+**Class:** set by the lifter's rhythm, so the set-up decides — spine-holding (Part X §B.4). Full standing
+flexion measured 41.6° lumbar against 69.4° hip in one study (Esola et al., 1996) and 60.2° lumbar against
+53.0° of pelvic rotation in another (Tafazzol et al., 2014). **Profile:** stretch-loaded to end range.
+*Reality.* It takes the spine past the point where the lumbar erectors fall electrically silent and the
+ligaments share the load (Part X §B.2). Part VI §D.1 assesses it in full and finds no training study of its
+benefits or harms. **Not an erector exercise here:** its extra range is range the lumbar erectors cover
+passively, not actively (Part X §B.2). **Counts as 0** by Part X §F.1 whatever its class: its lowest point is
+end-range flexion.
+
+---
+
+### D.2 Spine-holding hinges — the loaded category
+
+The hip moves and the lower back holds against a large moment. Heavy, progressive and effective for the
+hip — and, on the strength data, not a substitute for D.1.
+
+#### Conventional deadlift
+**Class:** Spine-holding. **Profile:** highest demand off the floor, where the lean is greatest and the back
+most rounded.
+**Role:** the heaviest erector loading in the document. National powerlifters reached L4/L5 moments averaging
+up to **988 N·m** and estimated compressions up to **17,192 N** (Cholewicki et al., 1991), and erector
+activity exceeded gluteal and hamstring activity across deadlift variants (Martín-Fuentes et al., 2020).
+
+*Setup.* Bar over the mid-foot, close to the shins; brace before the bar leaves the floor.
+*Execution.* The back holds its shape from the floor; the load decides nothing about that shape (Part X
+§C.1).
+*Evidence note.* At 80% of one-repetition maximum it produced 12.9% more upper lumbar erector activity than
+a squat, while the squat produced 34.5% more lumbosacral activity than it (Hamlyn et al., 2007).
+*Failure mode.* The back rounding further with each repetition, and the grip.
+
+#### Sumo deadlift
+**Class:** Spine-holding.
+*Reality.* The sumo lifter's trunk was 5–10° more upright (Escamilla et al., 2000), with a **10% lower L4/L5
+moment and 8% lower shear** than conventional lifters (Cholewicki et al., 1991). Less erector demand for the
+same bar.
+
+#### Hex-bar (trap-bar) deadlift
+**Class:** Spine-holding.
+*Reality.* The load sits beside the body: peak lumbar moment was lower and the one-repetition maximum 20 kg
+higher than with a straight bar (Swinton et al., 2011). At one-repetition maximum, erector activity did not
+differ from the barbell deadlift or the hip thrust (Andersen et al., 2018); at 65% and 85%, the straight bar
+produced more erector activity in the lowering phase, and one-repetition maximum did not differ between the
+bars, 181.4 against 181.1 kg (Camara et al., 2016).
+*Role.* The lower-cost deadlift, and the one to start from blocks when the hinge prerequisite fails (Part X
+§C.3).
+
+#### Romanian and stiff-leg deadlift
+**Class:** Spine-holding. **Profile:** highest at the bottom.
+*Evidence note.* Across deadlift variants erector activity exceeded hamstring activity, with one study
+finding the reverse in the Romanian deadlift (Martín-Fuentes et al., 2020). Standing on a step raised longissimus activity over both the Romanian and the
+stiff-leg deadlift in trained bodybuilders (Coratella et al., 2022b). Ten weeks of Romanian deadlifts raised
+the one-repetition maximum by 23 kg and **did not raise isolated lumbar extension strength** (Fisher et al.,
+2013).
+*Role.* A hip exercise that holds the erectors hard (Part IV §D.2; Part VII §D.1).
+
+#### Good morning
+**Class:** Spine-holding. **Profile:** highest at the bottom, with the whole load at the far end of the trunk.
+*Evidence note.* With the same bar load, a good morning produced the same L4/L5 moment as a deadlift — **2.75
+against 2.81 N·m·kg⁻¹** (Schellenberg et al., 2013). Mean lumbar erector activity rose with load from 50% to 90% of one-repetition maximum, peak activity did not,
+and lumbar flexion did not change (Vigotsky et al., 2015).
+*Role.* **As demanding for the lower back as a deadlift with the same bar**, and more demanding for the hip (Schellenberg et al., 2013). Keep it sub-maximal.
+*Failure mode.* A load chosen by the hip, which the erectors cannot hold.
+
+#### Back extension, 45° bench, hip free
+**Class:** Spine-holding, on measured values (Part X §B.4). **Profile:** stretch-loaded for the hip, with a
+lumbar range of its own (Part X §B.7).
+*Reality.* The Part IV §D.2 exercise. It loads the erectors at about 1 N·m·kg⁻¹ with body weight while the
+hip does most of the moving — and the lower back still moved 17° between pelvis and lower back
+(Schellenberg et al., 2017).
+
+#### Reverse hyperextension
+**Class:** Spine-holding.
+*Evidence note.* Against the 45° hyperextension it produced **34–71% higher peak erector, gluteal and hamstring
+activity** in one study (Cuthbert et al., 2021), and in another **equivalent** erector activity with a 129%
+higher peak low-back moment and less lumbar flexion — 20.4° against 31.1° (Lawrence et al., 2019). Erector
+activity rose from 50% to 100% of body weight on the pendulum and not further at 150% (Lawrence et al., 2022),
+and the exercise produced the highest deep multifidus activity of four measured with fine wire (Lawrence et
+al., 2026).
+*Role.* A high-demand, low-axial-load holding exercise. Its lower back moves least of the back-extension
+family.
+
+#### Kettlebell swing
+**Class:** Spine-holding.
+*Evidence note.* With a 16 kg bell, back extensors reached about **50% of maximal activity** in rapid on–off
+pulses, at about 3,200 N of lumbar compression and a posterior shear of L4 on L5 — the opposite direction to a
+traditional lift (McGill & Marshall, 2012). A single set fatigued the lumbar extensors, though less than
+isolated lumbar extension did (Edinborough et al., 2016).
+*Role.* Conditioning with real erector work; not a progressive strength exercise for them.
+
+#### Cable pull-through
+**Class:** Spine-holding, at a small moment.
+*Reality.* The horizontal cable lets the trunk stay upright and removes most of the spinal cost (Part IV
+§D.2) — and with it most of the erector demand.
+
+---
+
+### D.3 Upright loading — the incidental category
+
+These load the erectors because the trunk carries weight while leaning. Nobody chooses them for the erectors,
+and nobody needs to.
+
+| Exercise | Class | What it gives the erectors | Evidence |
+|---|---|---|---|
+| **Back squat** | Spine-holding | High isometric demand at the bottom | More lumbosacral erector activity than a deadlift at the same relative load (Hamlyn et al., 2007); four weeks of squats did not raise isolated lumbar strength (Hammond et al., 2019) |
+| **[Front squat](#frontsquat)** | Spine-holding or supported, by torso angle | Similar | Front and back squats produced similar muscle activity (Gullett et al., 2009) |
+| **[Bent-over row](#row)** | Spine-holding | A long isometric hold at a fixed lean | The largest lumbar spine load of three instrumented rows (Fenwick et al., 2009) |
+| **Chest-supported and seated rows** | Supported | Little | No spinal-load study; of three instrumented rows, the inverted row had the lowest lumbar erector activity and spine load (Fenwick et al., 2009) |
+| **Clean, snatch and their pulls** | Spine-holding | The deadlift's demand, faster | Olympic weightlifters had larger lumbar erector cross-sections than sedentary controls (Erdağı & Poyraz, 2020) |
+| **Overhead press, carries** | Supported | Upright holding; lateral flexion in one-sided carries | Part VI §D.4 |
+
+---
+
+### D.4 The thoracic erectors
+
+The thoracic parts of the columns supply half the moment at L4/L5 (Part X §A.4) and are the only part that
+can be biased away from the lower back.
+
+#### Prone trunk extension, table edge at the lower sternum
+**Class:** Spine-moving, thoracic.
+*Evidence note.* In thirty-nine healthy adults, moving the table edge from the iliac crests to the lower tip
+of the sternum raised longissimus thoracis and iliocostalis thoracis activity **relative** to iliocostalis
+lumborum; extending further past horizontal raised lumbar activity (Park et al., 2015). The upper-back
+isolation ratio also changed with the back-extension variant in twelve men (Yoo, 2015).
+*Role.* The upper-back version of D.1. Load it with a plate on the upper back or behind the head.
+
+---
+
+### D.5 Exercises people miscount
+
+| Exercise | What people assume | Reality |
+|---|---|---|
+| Bird dog | "It builds the back" | A low-load exercise with low spinal load (Callaghan et al., 1998) whose virtue is the deep multifidus's share, not its amount (Lawrence et al., 2026). **Zero** erector sets |
+| [Plank](#plank) | "Core" | An abdominal exercise (Part VI §D.2). **Zero** |
+| Loaded hip thrust and glute bridge | "It's a glute exercise" | A bridge between the bench and the feet: the load between them bends the lower back toward flexion, which the erectors resist. At one-repetition maximum, erector activity did not differ from the barbell or hex-bar deadlift (Andersen et al., 2018), and four weeks of hip thrusts did not raise isolated lumbar strength (Hammond et al., 2019). **Spine-holding — 0.5** |
+| [Leg press](#legpress) | It feels like the back works | The trunk is supported. **Zero** |
+| Seated "lower back" machine without a pelvic strap | It is labelled for the lower back | The hip does the movement (Graves et al., 1994). **Count it by its class** (Part X §B.4) — usually spine-holding |
+| Superman | It is an extension | Extension past standing at a very low load (Hamlyn et al., 2007). **Zero** unless loaded enough to reach failure within 30 repetitions (Part X §F.1) |
+
+---
+
+### D.6 Selection rules
+
+1. **One spine-moving exercise a week, always — this document's judgement.** It is the only category that takes the erectors through range, and the only one that raised strength on the isolated lumbar test (Part X §B.4); no trial has tested whether it adds erector growth to a programme of heavy lifts. Default: the 45° back extension with the pelvis blocked, a mechanical inference (Part X §B.7); if a restrained machine exists, it is better.
+2. **Count the heavy lifts; do not add more of them for the erectors.** Squats, deadlifts and hinges already hold the erectors under large moments (Part X §B.9). What they do not give is range through the spine.
+3. **Prefer the flexed-range profile, and do not avoid the extended one.** The 45° bench peaks in the flexed half, where torque is highest; the horizontal bench peaks in the extended half, where untrained strength is lowest and gains were largest (Carpenter et al., 1991). Training either half built strength across the whole range (Graves et al., 1992). **This document's judgement.**
+4. **Keep heavy and end range apart.** The heaviest loads go on spine-holding lifts; the spine-moving exercise is loaded moderately and stops short of end range (Part X §B.8).
+5. **Pick the hinge by what else the week contains.** A good morning matches a deadlift's lower-back demand at the same bar load; a hex-bar deadlift or a reverse hyperextension costs the spine less (Part X §D.2).
+6. **Bias the upper back only on purpose.** Moving the support up to the sternum raised thoracic erector activity *relative to* iliocostalis lumborum, but absolute thoracic activity was higher with the support at the iliac crests (Park et al., 2015).
+
+---
+
+## partxecontextmodifiers
+
+**PART E — Context modifiers — when "perfect" changes**
+
+Part X §C is the default for a healthy trained adult who wants bigger, stronger erectors. Below is every
+context that changes it, and what it changes it to.
+
+---
+
+### E.1 Goal contexts
+
+| Goal | What changes | Why |
+|---|---|---|
+| **Erector size** | The default: one spine-moving exercise a week, heavy lifts counted, not added | Part X §D.6 |
+| **A stronger deadlift** | Heavy deadlifts, plus one spine-moving exercise | In trained men, ten weeks of isolated lumbar extension raised Romanian deadlift one-repetition maximum from 135.8 to 146.0 kg, while Romanian deadlift training did not raise isolated lumbar strength (Fisher et al., 2013). **Promising but under-replicated** — one trial |
+| **A back that tolerates heavy lifting** | Progressive exposure to both classes | Vertebral bone mineral content tracked a year's training load in eight powerlifters (Granhed et al., 1987) — **promising but under-replicated**; abrupt increases in training load, not isolated deviations from a "neutral" spine, are the more consistent correlate of injury in a recent interpretive narrative review (Cherni et al., 2026) — **evidence remains limited and inconsistent** |
+| **Back-extensor strength in older age** | Spine-moving extension, including the thoracic version (Part X §D.4); no loaded flexion | Part X §E.2, older adults and osteoporosis |
+| **Athletic performance** | Train the erectors as muscle; do not expect the transfer to be large | Trunk muscle strength showed only small relationships with performance in trained athletes (Prieske et al., 2016) |
+
+---
+
+### E.2 Body contexts
+
+| Context | What changes | Why |
+|---|---|---|
+| **Women** | Nothing in the exercise selection. Expect longer endurance and smaller absolute loads | Women held a torso-extension endurance test longer than men (McGill et al., 1999), had a larger type I share of back-muscle area (Thorstensson & Carlson, 1987) and less erector volume (Crawford et al., 2016), and did not differ significantly from men in relative fatigue after a heavy or a light set of isolated lumbar extension (Stuart et al., 2018) |
+| **Older adults** | The same classes; spine-moving work at moderate loads; heavy end-range flexion never | Paraspinal fat rises with age while volume holds between 20 and 62 (Crawford et al., 2016), and more physical activity went with less fat and more cross-section in 9,564 older adults (Wesselink et al., 2024). **Moderate evidence** — cross-sectional |
+| **Spinal osteoporosis, or a past vertebral fracture** | **Clinician first.** Extension-based strengthening; no loaded flexion | In women with spinal osteoporosis, those instructed in flexion exercises had new vertebral fractures in 89% against 16% with extension exercises (Sinaki & Mikkelsen, 1984) — a non-randomized comparison; six weeks of supervised back-extensor training improved pain, strength and function in osteoporotic women with fractures (Çergel et al., 2019) |
+| **Adolescents** | Professional assessment before loading; extension-related back pain is an assessment problem | Spondylolysis was present in 12.7% of high school and collegiate sumo wrestlers, and in 20.9% of those with back symptoms against 5.7% of those without (Nakagawa et al., 2023) |
+| **A very mobile back** | Keep spine-moving work short of end range | Men with hypermobile backs were more likely to develop low back trouble over a year (Biering-Sørensen, 1984) |
+| **A long trunk** | More moment for the same bar in every hinge | Geometry: the load's horizontal distance from the lower back grows with trunk length (Part X §B.7). Count sets, not kilograms |
+| **Higher body mass** | Nothing in the selection; the body-weight back extension is already loaded | Higher body mass index went with more intramuscular fat and more erector cross-section (Wesselink et al., 2024) |
+
+---
+
+### E.3 Equipment contexts
+
+| Available | Best two-exercise prescription | Note |
+|---|---|---|
+| **Full gym with a restrained lumbar extension machine** | Isolated lumbar extension machine + a hinge | The only setting in which the reference exercise of Part X §B.4 is available |
+| **Full gym** | 45° back extension, pelvis blocked + Romanian deadlift or good morning | Part X §D.6 |
+| **Barbell only** | Good morning + deadlift | Both spine-holding; add a prone extension off a flat bench with the hips supported for the range |
+| **Dumbbells or kettlebells only** | Single-leg Romanian deadlift + prone extension off a bench, hips supported, dumbbell at the chest | The swing is conditioning, not the range exercise (Part X §D.2) |
+| **Bodyweight only** | Prone extension off a bed or bench edge, hips supported + single-leg hip hinge | The floor superman is too light to progress (Part X §D.1) |
+| **Reverse hyperextension machine** | Reverse hyperextension + a spine-moving back extension | High erector demand with little axial load (Lawrence et al., 2019) |
+
+---
+
+### E.4 Pain and pathology contexts
+
+**General education only. None of the rows below is a diagnosis or a treatment plan. Back pain with any
+symptom in a leg, or with a change in bladder or bowel control, is a medical assessment before it is
+anything else.**
+
+| Presentation | What it usually means | What changes |
+|---|---|---|
+| **Back pain with pain, numbness, tingling or weakness running below the knee** | Nerve root involvement | **Stop loading. Assessment** |
+| **Loss of bladder or bowel control, or numbness in the saddle area** | A spinal emergency | **Emergency assessment the same day** |
+| **Severe back pain and stiffness hours after an unusually high-volume session, with dark urine** | Consistent with paraspinal compartment syndrome or rhabdomyolysis; rare | **Emergency assessment** — one reported deadlift case needed surgical removal of dead muscle (Kroenung et al., 2024) |
+| **Acute non-specific low back pain, first episode** | The multifidus on the painful side shrinks and does not recover on its own when the pain goes | Resume loading as pain allows; specific exercise restored multifidus size faster and more completely than recovery alone (Hides et al., 1996) |
+| **Chronic non-specific low back pain** | Exercise helps; no mode clearly wins | Chronic low back pain responds to exercise (Hayden et al., 2021). Isolated lumbar extension reduced pain against no treatment across eight trials, with no significant effect on disability or strength and very low certainty (Trybulski et al., 2025). **Evidence remains limited and inconsistent** for isolated lumbar extension specifically |
+| **Chronic low back pain, and the goal is muscle** | The multifidus is the consistently smaller, fattier muscle | Across twenty-one studies, the multifidus showed the most consistent atrophy and fat in chronic pain; the erector spinae less so (Kalli et al., 2026). Motor control plus isolated lumbar extension grew both muscles in one trial (Fortin et al., 2023); isolated lumbar extension alone did not grow them in two trials (Part X §A.5) but grew the multifidus in a non-randomized third (Domokos et al., 2025). **Evidence remains limited and inconsistent** |
+| **Pain in a young athlete that is worse arching back** | One possible cause is a stress fracture of the vertebral arch — [spondylolysis](#spondylolysis) — which was more common in young wrestlers with back symptoms (Nakagawa et al., 2023) | Assessment before any loaded extension |
+| **Pain reliably reproduced by loaded flexion** | A mechanism, not a diagnosis (Part VI §E.4) | Keep the spine-holding lifts; shorten the spine-moving range |
+| **Worse in the morning** | The discs are at their fullest after lying down | Avoiding early-morning lumbar flexion reduced pain intensity by a third in chronic back pain (Snook et al., 1998) |
+| **After spinal surgery** | Outside this document | The surgical team sets the timeline |
+
+**One thing worth saying plainly.** Muscle and pain dissociate in both directions. Pain resolved while the
+multifidus stayed small (Hides et al., 1996); strength and pain improved while muscle size did not change
+(Berry et al., 2019). **Bigger erectors are not a treatment for back pain, and a back that has stopped
+hurting has not necessarily recovered its muscle.**
+
+---
+
+### E.5 Sport contexts
+
+| Sport | What the erectors are for | What changes |
+|---|---|---|
+| **Powerlifting** | Holding the spine in the heaviest squats and deadlifts on earth | Add one spine-moving exercise, as this document's judgement: competitive powerlifters were no stronger on the isolated lumbar extension test than recreationally trained men (Androulakis-Korakakis et al., 2021) — a strength-transfer gap rather than a measured muscle deficit. The lumbopelvic region is the commonest injury site, and most injuries do not stop training (Strömbäck et al., 2018) |
+| **Olympic weightlifting** | Holding the back through fast pulls | Weightlifters' lumbar erector cross-section exceeded sedentary controls' (Erdağı & Poyraz, 2020); the lower back is among the commonest injury sites (Aasa et al., 2017) |
+| **Combat sports and wrestling** | Resisting flexion and rotation under an opponent's load | Athletes with disc degeneration had smaller relative erector plus multifidus cross-section (Iwai et al., 2016) |
+| **Gymnastics and dance** | Loaded extension at end range | Adolescent athletes in these sports had larger erector plus multifidus cross-section than non-athletes (Peltonen et al., 1998); extension pain in a young athlete is assessed first (Part X §E.4) |
+| **Team field sports** | General trunk loading | In elite soccer players, back pain went with a smaller multifidus, which grew across the preseason as pain fell (Hides et al., 2016). Across a season of Australian Rules football, lumbar erector cross-section rose 3.6% while the multifidus fell 11.1% at L3 (Hides & Stanton, 2012) |
+| **Aviation and space** | Holding the spine under sustained or absent load | Fighter pilots' paraspinal cross-section rose 7–8% over five years of service (Honkanen et al., 2019); astronauts lost it in flight, less with more resistance exercise (Burkhart et al., 2019) |
+
+---
+
+### E.6 Session and cycle contexts
+
+| Context | What changes |
+|---|---|
+| **Spine-moving work in the same session as heavy hinges** | Heavy hinge first, spine-moving extension after. The fatigued erectors then meet a moderate load, not a maximal one |
+| **Frequency** | Once a week is enough for isolated lumbar strength: every frequency from once every two weeks to three times a week produced similar gains (Graves et al., 1990b) |
+| **Maintenance** | Once every two or even four weeks held isolated lumbar strength for twelve weeks when load and volume were kept, while stopping produced what the abstract reports as an average 55% reduction in strength (Tucci et al., 1992); **Interpretive caution:** the abstract does not say whether that is 55% of total strength or of the gain. In trained men who stopped their usual lower-back exercises, isolated lumbar strength fell 8.9% in six weeks (Steele et al., 2015b) |
+| **Deload** | Cut the heavy hinges, keep one light spine-moving set |
+| **Returning after inactivity or illness** | Rebuild progressively: after sixty days of bed rest, two weeks of reconditioning did not restore lumbar erector volume (De Martino et al., 2022) |
+| **Time of day** | If back pain is a history, spine-moving work later in the day (Snook et al., 1998) |
+
+---
+
+### E.7 The context decision table
+
+| If this describes you | Do this |
+|---|---|
+| Healthy, trained, the goal is a thicker lower back | Part X §C default, Part X §D.6 selection rules |
+| You squat and deadlift heavy and do nothing else for the back | Add one spine-moving back extension a week (Part X §B.4) |
+| Your gym has a restrained lumbar extension machine | Use it as the spine-moving exercise (Part X §D.1) |
+| Your "lower back machine" has no pelvic strap | Treat it as a hinge (Part X §D.5) |
+| Your back rounds more with every deadlift repetition | End the set there (Part X §C.1) |
+| You have chronic low back pain | Exercise, progressively; the muscle is not the whole story (Part X §E.4) |
+| You have osteoporosis or a past vertebral fracture | Clinician first; extension, never loaded flexion (Part X §E.2) |
+| Pain runs down a leg | Stop. Assessment (Part X §E.4) |
+| You are a powerlifter | Your lifts have not made you stronger on the isolated lumbar test; one spine-moving exercise a week is the low-cost hedge (Part X §E.5) |
+
+---
+
+## partxfprogramming
+
+**PART F — Programming**
+
+### F.1 Volume
+
+Counted as [hard sets](#hardset) per week for the erectors, by one rule.
+
+> **Erector set count.** A hard set of a **spine-moving** exercise (Part X §B.4) counts as **1** erector set,
+> provided the set reaches its target proximity to failure within 30 repetitions and its lowest point stops
+> short of end-range lumbar flexion (Part X §B.2). A hard set of a **spine-holding** exercise — every squat,
+> deadlift, hinge, bent-over row, hip-free back extension and loaded hip thrust that meets the class definition — counts as
+> **0.5** under the same 30-repetition condition. Every other set counts as **0**: a **supported** exercise, a
+> set needing more than 30 repetitions, or a set that reaches end-range lumbar flexion.
+
+**Why those numbers, and how firm each is.** Crediting genuinely indirect work at half a set follows the
+dose–response meta-regression that classified every set by how specific it was to the measured muscle
+(Pelland et al., 2026). It is **Moderate evidence** as a counting method, and no study in that analysis
+measured the erectors. **Which erector sets count as indirect is this Part's judgement, and no trial has
+tested it.** The evidence pulls both ways. For half credit: spine-holding lifts did not raise strength on the
+isolated lumbar test (Part X §B.4). Against it: a deadlift with half your body weight on the bar asks the
+erectors for about four times the force of a body-weight back extension (Part X §B.9), resistance exercise
+preserved erector size in bed rest (Part X §A.5), and isometric training grows muscle, most at long lengths
+(Oranchuk et al., 2019). **Treat 1 and 0.5 as bookkeeping that errs toward adding range, not as a measured
+ratio of stimulus.**
+
+**How this Part's ledger relates to Part VI's.** Part VI §F.1 counts trunk extension as one of four core
+actions. For the erectors, use this rule in place of that column — they count the same exercises, and the
+back extension counts by where its pad is (Part X §C.1).
+
+| Training age | Spine-moving sets | Spine-holding credits (each hard set = 0.5) | Total erector sets | Note |
+|---|---|---|---|---|
+| Beginner | 2–3 | Up to 2 | 3–5 | Learn rep 1 before loading it (Part X §C.1); if the week's squats and hinges supply more than 2 credits, keep the spine-moving sets at 2 and let the total exceed 5 |
+| Intermediate | 3–4 | 2–5 | 5–9 | One spine-moving exercise, one or two sessions |
+| Advanced | 4–6 | 2–6 | 6–12 | Most heavy programmes already exceed the holding credit |
+| Maintenance | 1 set every 1–4 weeks | Unchanged | — | Isolated lumbar strength held for twelve weeks at once every four weeks (Tucci et al., 1992) |
+
+**These totals are aligned with Part VI §F.1's extension column and are not derived from erector
+dose–response data**, because none exist (Part X §A.5). What the erector strength trials say about dose is
+that very little works:
+
+- **One set did as much as three, in one small trial.** In recreationally trained men, one weekly set of isolated lumbar extension raised strength 8.3% and three sets 10.7% over six weeks — not a significant difference, with eight or nine men per group (Steele et al., 2015b). **Promising but under-replicated.**
+- **Once a week, from an untrained start, raised strength 42–102% in ten weeks** (Pollock et al., 1989).
+
+**Why the direct numbers are still above one set.** Strength on the isolated test and hypertrophy are
+different outcomes, and the clinical trials do not identify a growing dose: two sets of isolated lumbar
+extension twice a week with motor-control training grew the erectors (Fortin et al., 2023), while one set
+twice a week on the same kind of machine did not (Berry et al., 2019). **The bands are this document's
+judgement**, set low because every set of either class also loads the spine (Part X §B.8).
+
+---
+
+### F.2 Frequency
+
+**Once a week is enough for the spine-moving exercise.** The erector frequency trials agree with each other:
+
+| Trial | Comparison | Result |
+|---|---|---|
+| Graves et al., 1990b | Isolated lumbar extension once every two weeks, once, twice or three times a week, 12 weeks, 114 adults | All improved; **no difference** in strength gained; training load rose non-significantly less at once every two weeks (P < 0.08) |
+| Carpenter et al., 1991 | The same range of frequencies, 12 and 20 weeks | **No difference** in strength gained at either time point |
+| Bruce-Low et al., 2012 | Once a week at 80% against twice a week at 80% and 50%, chronic low back pain | Both raised strength and reduced pain |
+| Tucci et al., 1992 | After training, once every two or four weeks, 12 weeks | **No loss**; stopping produced an average 55% reduction, of total strength or of the gain the abstract does not say |
+
+**Moderate evidence** for strength — consistent results, mostly from one research group, all on one type of machine. No frequency trial
+has an erector size outcome. **Split the spine-moving sets across two sessions only if the week's hinges
+leave room**; the spine-holding lifts already set how often the erectors work.
+
+---
+
+### F.3 Load and rep range
+
+The general finding is in Part II §F.3. **The erector strength trials span most of the loading range, and
+every trained group gained:**
+
+```
+WHAT THE ERECTOR TRIALS USED
+  Pollock 1989      6-15 reps, variable resistance, to fatigue       -> +42 to +102%
+  Carpenter 1991    1 set of 8-12, once every 2 weeks to 3 a week    -> all frequencies gained
+  Steele 2015b      1 or 3 sets, trained men                         -> equal gains
+  Fisher 2018       80% of max contraction: 8 +/- 3 reps             -> equal gains
+                    50% of max contraction: 26 +/- 8 reps
+  Fortin 2023       2 x 15-20 at 55% 1RM, twice weekly, back pain    -> erector CSA +7% and +17%
+```
+
+**Three practical narrowings.**
+
+- **Spine-moving exercise: 8–15 repetitions.** Light loads worked as well as heavy ones for strength, but the light sets took three times as long and were rated markedly more uncomfortable (Fisher et al., 2018), and produced more fatigue (Stuart et al., 2018). The upper bound is this document's judgement for comfort and spinal exposure, not a finding about the muscle.
+- **Spine-holding lifts: the rep range of the Part they are programmed for.** Part IV §F.3, Part VII §F.3 and Part III §F.3 set those; this Part only counts them.
+- **The good morning is the exception:** keep it at 8 repetitions or more and well short of maximal loads (Part X §C.5).
+
+---
+
+### F.4 Proximity to failure
+
+The general finding is in Part II §F.4. What changes here is which class can safely reach
+momentary failure.
+
+| Slot | Target | Why |
+|---|---|---|
+| **Restrained isolated lumbar extension machine** | 0–1 [RIR](#rir) | The machine trials took their sets to volitional fatigue or momentary failure, and the machine holds the load at failure |
+| **Spine-moving back extension** | 1–2 RIR | Failure arrives at the bottom of the range, on an unsupported flexed spine |
+| **Reverse hyperextension, hip-free back extension** | 1–2 RIR | Low axial load, but the last repetitions swing |
+| **Deadlift, Romanian deadlift, good morning** | 2–3 RIR | This document's judgement. Heavier loads added upper-lumbar flexion (Shoji et al., 2025), and the last repetition of a three-repetition maximum showed more lower-thoracic flexion than the same repetition at 70% or 90% of that load (Gundersen et al., 2025); no study has measured how spinal flexion changes as a set of 8 or more approaches failure |
+| **Squat** | By Part III §F.4 | It is programmed for the quadriceps; this Part only counts it |
+
+---
+
+### F.5 Progression
+
+**[Double progression](#doubleprogression) in every slot**, with one erector-specific order of load for the back extension.
+
+```
+THE SPINE-MOVING BACK EXTENSION PROGRESSION
+  Stage 1   Arms crossed on the chest          3 x 8-15
+  Stage 2   Plate held at the chest            3 x 8-15, load up when 15 are clean
+  Stage 3   Plate held higher, at the collarbones
+  Stage 4   Plate or dumbbell held behind the head
+  Each stage: add repetitions to 15, then move up a stage or a plate
+```
+
+**Why that order.** Changing hand position and the bench angle raised erector activity progressively, by up to
+104% from the easiest combination to the hardest (Mayer et al., 1999); each stage moves the load further from
+the lower back and raises the moment for the same plate (Part X §B.7).
+
+**Two rules this muscle needs.**
+
+- **Range is not the variable that gets progressed.** Going deeper under a heavier plate walks the rep toward end-range flexion (Part X §B.8). Add load or lever, not depth.
+- **The pad height is not progressed away.** It is the set-up this Part relies on to bias the range toward the spine (Part X §B.10); a pad that slides below the hip bones frees the hip to take the range over.
+
+**What to do when it stalls.** Check first whether the stall is the erectors: on a hinge it is usually the hip,
+the hamstrings or the grip (Part X §C.5). For a stalled spine-moving exercise no trial has tested what works;
+a restrained isolated lumbar extension machine, where available, is the only change with a strength trial
+behind it (Part X §B.4).
+
+---
+
+### F.6 Session templates
+
+```
+TEMPLATE A - ONE SESSION, INTERMEDIATE, ~5-9 ERECTOR SETS/WEEK
+  Session 1     45 deg back extension, pelvis blocked  3 x 8-15  @ 1-2 RIR
+  (plus the week's squats and hinges, counted at 0.5 each)
+```
+
+```
+TEMPLATE B - TWO SESSIONS, ADVANCED, ~6-12 ERECTOR SETS/WEEK
+  Session 1     Isolated lumbar extension machine      2 x 8-12  @ 0-1 RIR
+                (or 45 deg back extension, pelvis blocked)
+  Session 2     Good morning                           3 x 8-10  @ 2-3 RIR
+                45 deg back extension, pelvis blocked  2 x 10-15 @ 1-2 RIR
+  (plus the week's squats and deadlifts, counted at 0.5 each)
+```
+
+```
+TEMPLATE C - POWERLIFTER, ERECTORS ALREADY HEAVILY LOADED
+  Session 1     45 deg back extension, pelvis blocked  3 x 10-15 @ 1-2 RIR
+                (after the main lifts; light plate)
+  (the competition lifts supply the holding credit)
+```
+
+```
+TEMPLATE D - HOME, BODYWEIGHT AND DUMBBELLS
+  Session 1     Prone extension off a bench, hips      3 x 10-15 @ 1-2 RIR
+                supported, dumbbell at the chest
+                Single-leg Romanian deadlift           3 x 8-12  @ 2 RIR
+```
+
+```
+TEMPLATE E - MAINTENANCE OR A BUSY BLOCK
+  Once every 1-4 weeks
+                Isolated lumbar extension machine or   1 x 8-12  @ 0-1 RIR
+                45 deg back extension, pelvis blocked
+  (Tucci 1992: isolated lumbar strength held for 12 weeks at once every 4 weeks.
+   Tested for strength, not for size.)
+```
+
+---
+
+### F.7 Timeline, measurement and expectations
+
+| Window | What to expect |
+|---|---|
+| Sessions 1–3 | Soreness low in the back and between the shoulder blades after the first spine-moving sessions |
+| Weeks 1–10 | On the isolated test, strength rises fast from an untrained start — 42–102% in ten weeks (Pollock et al., 1989) — and slowly from a trained one: 8–11% in six weeks in recreationally trained men (Steele et al., 2015b) |
+| Weeks 10–20 | Gains continue in untrained adults, proportionally most at the extended end: 92% at twelve weeks and 123% at twenty (Carpenter et al., 1991) |
+| Around 12 weeks | In adults with back pain, erector cross-section rose 7% at L4/L5 and 17% at L5/S1 with motor control and isolated lumbar extension (Fortin et al., 2023); in untrained adults without pain, resistance-training studies found 0–9% over three to four months (Part X §A.5) |
+| Years | Paraspinal cross-section rose 7–8% over five years in fighter pilots (Honkanen et al., 2019). **Promising but under-replicated** — one uncontrolled cohort, from age 21 |
+| After stopping | Isolated lumbar strength fell 8.9% in six weeks when trained men stopped their lower-back exercises (Steele et al., 2015b); sixty days of bed rest cost 10.9% of paraspinal cross-section (Holt et al., 2016) |
+
+**How to measure it, and how not to.**
+
+- **Best available at home:** the back extension progression of Part X §F.5, logged with pad height and hand position.
+- **The Biering-Sørensen hold** is reliable and tracks endurance, not strength (Part X §C.7).
+- **The deadlift is not an erector measurement.** It rose without isolated lumbar strength changing (Fisher et al., 2013).
+- **Back pain is not a measurement either** (Part X §E.4).
+
+---
+
+## partxgsynthesis
+
+**PART G — Synthesis, and what the evidence does not support**
+
+### G.1 The rules that hold
+
+1. **The lumbar erector spinae is two columns with four parts, and half its moment at L4/L5 comes from muscle beside the ribs.** Iliocostalis lumborum and longissimus thoracis each have thoracic and lumbar parts (Macintosh & Bogduk, 1987), and the thoracic parts supply about half the extensor moment at the lowest segments (Bogduk et al., 1992a).
+2. **The spine sets its length, not the hip.** The erectors do not cross the hip, so a hinge lengthens them only as far as the lower back rounds — 17–21° in measured good mornings and deadlifts against 58–90° at the hip (Schellenberg et al., 2013) — while rounding, side bending and, for the thoracic parts, upper-back rounding lengthen them (Part X §B.2).
+3. **It produces most torque flexed, on a short lever.** Isolated lumbar extension torque was about twice as high fully flexed as fully extended in men (Graves et al., 1990a), partly from passive tissue (Dolan et al., 1994), on a lever of about 6 cm (McGill et al., 1988) that rounding shortens by 10–24% (Tveit et al., 1994).
+4. **Spine-holding lifts load it hard and did not raise strength on the isolated test.** Romanian deadlifts, squats, hip thrusts, a Roman chair and years of powerlifting did not raise isolated lumbar extension strength; isolated lumbar extension with the pelvis restrained did (Part X §B.4). **Moderate evidence** — for strength on that test; it does not show that the heavy lifts fail to grow the erectors.
+5. **Put one spine-moving exercise in every week.** The 45° back extension with the pelvis blocked is the free-weight default: its moment peaks in the flexed range and needs no axial load (Part X §B.7). **A mechanical inference** — neither a growth trial nor a measurement of the set-up exists.
+6. **Count every squat and hinge at half an erector set.** A counting method borrowed from the general dose–response literature (Pelland et al., 2026); applying it to the erectors is this document's judgement (Part X §F.1).
+7. **Very little direct volume moves strength on the isolated test.** Once a week as well as three times (Graves et al., 1990b) and once every four weeks to maintain it (Tucci et al., 1992) — **moderate evidence**, one laboratory. One set a week as well as three (Steele et al., 2015b) — **promising but under-replicated**.
+8. **Load does not decide the rep range.** Fifty and eighty percent of maximal contraction produced the same strength gains; the light sets were longer and more uncomfortable (Fisher et al., 2018). **Promising but under-replicated** for these muscles — one strength trial.
+9. **Heavy with the back held; range at moderate loads.** End-range flexion hands load to ligaments near their tolerance (McGill & Kippers, 1994) and takes away the erectors' resistance to anterior shear (McGill et al., 2000). **A mechanical inference** — no study has measured heavy loads at true end range.
+10. **Take load away and the erectors shrink; resistance exercise slows it.** Sixty days of bed rest cost 10.9% of paraspinal cross-section without exercise and 4.3% with it (Holt et al., 2016).
+
+---
+
+### G.2 What the evidence does **not** support
+
+| Claim | Verdict |
+|---|---|
+| "Heavy deadlifts and squats are all the lower back needs" | **Not supported** for strength on the isolated test — Romanian deadlift training did not raise isolated lumbar extension strength (Fisher et al., 2013), nor did squat training (Hammond et al., 2019), and powerlifters were no stronger on it (Androulakis-Korakakis et al., 2021). **Evidence remains limited and inconsistent** for size: no trial has compared hinge-only training with added spine-moving work (Part X §A.5) |
+| "Never round your back when you lift" | **Evidence remains limited and inconsistent** as a rule for injury — lumbar flexion during lifting did not differ between people who developed back pain and those who did not, in one longitudinal study (Saraceni et al., 2020). What is supported is keeping the heaviest loads away from end range (Part X §B.8) |
+| "The lower back muscles are endurance muscles, so train them with high reps" | **Not supported as a requirement.** They are 57–62% type I (Thorstensson & Carlson, 1987), and 50% and 80% of maximal contraction produced equal strength gains — high repetitions work, but so do eight (Fisher et al., 2018) |
+| "Any 'lower back' machine isolates the lower back" | **Not supported.** Without the pelvis restrained, training load rose and isolated lumbar strength did not (Graves et al., 1994) |
+| "Supermen and bird dogs build the back muscles" | **Not supported** for size — stabilization training alone did not change paravertebral cross-section in chronic back pain (Danneels et al., 2001b), and a 24-week back and core programme did not grow the multifidus of healthy firefighters (Mayer & Nuzzo, 2015). The activity gap points the same way: loaded squats and deadlifts produced far more erector activity than the superman (Hamlyn et al., 2007), and the bird dog's value is the deep multifidus's share, not its amount (Lawrence et al., 2026) |
+| "A belt switches the lower back off" | **Not supported.** Erector activity fell slightly with a belt at 90% of one-repetition maximum (Lander et al., 1990) and not at all across eight-repetition sets (Lander et al., 1992), and spinal compression fell about 10% only when the lifter inhaled first (Kingma et al., 2006) |
+| "A belt prevents back injury" | **Not supported.** Lumbar supports did not prevent back pain better than nothing (van Duijvenbode et al., 2008) |
+| "Weak back muscles cause back pain" | **Not supported** as a general statement (Part VI §E.4). Back-muscle endurance predicted first-time back pain in men in one cohort (Biering-Sørensen, 1984), poor endurance carried an odds ratio of 3.4 for new pain in another (Luoto et al., 1995), and pain and muscle size dissociate in both directions (Part X §E.4) |
+| "Strengthening the lower back fixes back pain" | **Evidence remains limited and inconsistent.** Isolated lumbar extension reduced pain against no treatment, not disability or strength, at very low certainty (Trybulski et al., 2025); exercise in general helps (Hayden et al., 2021) |
+| "Flexion relaxation means the muscles are resting" | **Not supported.** The silent lumbar muscle still carries force elastically, and the thoracic extensors stay active (McGill & Kippers, 1994) |
+| "The deep multifidus and the erector spinae are fibre-type opposites — a slow stabilizer and a fast mover" | **Not supported.** Type I proportions did not differ between them (Agten et al., 2020) |
+| "The Jefferson curl strengthens the back" | **Evidence remains limited and inconsistent** — no training study of its benefits or harms exists (Part VI §D.1) |
+
+---
+
+### G.3 The one-paragraph version
+
+The erector spinae is not one muscle but two columns on each side of the lower back — iliocostalis lumborum
+and longissimus thoracis — each with a thoracic part that reaches the pelvis as tendon and a lumbar part that
+runs straight from the vertebrae, and half of the lower back's extensor moment comes from muscle sitting
+beside the ribs. **The spine sets its length, not the hip: bending at the hip tips the trunk and loads the
+erectors, and rounding the back is what stretches them.** They produce most torque rounded, on a lever of
+about 6 cm, so every squat, deadlift and hinge loads it heavily — and yet those lifts, years of powerlifting
+included, did not make the lower back stronger on the isolated test, while once-weekly training of the lower back
+through its own range with the pelvis held did, dramatically. **So: count the heavy lifts at half a set, add one
+spine-moving exercise a week — the 45° back extension with the pad above the hip bones, a set-up chosen by
+mechanics rather than measured — keep heavy loads away
+from end-range rounding, and expect very little volume to go a long way.** No trial has measured erector growth in
+trained lifters or compared exercises for it; in untrained adults the few training studies found small gains or
+none, and bed rest shows that the muscle shrinks without load and shrinks less with it. And the
+back that lifts is not as fragile as its reputation: rounding while lifting has not been shown to cause back
+pain, and the heaviest lifters' vertebrae carried bone mineral in proportion to what they lifted.
+
+---
+
+# partximasterglossary
+
+**Part XI — Master Glossary**
 
 Every technical term used anywhere in this document, defined formally with formula and units where
 the quantity is physically or operationally defined.
@@ -11880,26 +14982,28 @@ plain same-file heading anchor.
 | [Acromion](#acromion) | 3 | [Net joint moment](#netjointmoment) | 11 |
 | [Adductor magnus](#adductormagnus) | 8 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
 | [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Nordic hamstring curl](#nordiccurl) | 12 |
+| [Anconeus](#anconeus) | 9 | [Olecranon](#olecranon) | 3 |
 | [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Open kinetic chain exercise](#openkineticchain) | 11 |
 | [Anterior deltoid](#anteriordeltoid) | 9 | [Overhead press (shoulder press, military press)](#overheadpress) | 12 |
-| [Aponeurosis](#aponeurosis) | 3 | [Painful arc](#painfularc) | 13 |
-| [Apophysis](#apophysis) | 3 | [Pallof press](#pallofpress) | 12 |
-| [Attentional focus](#attentionalfocus) | 10 | [Passive tension](#passivetension) | 5 |
-| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Patella (kneecap)](#patella) | 3 |
-| [Axillary nerve](#axillarynerve) | 9 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
-| [Back squat](#backsquat) | 12 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
-| [Bar position](#barposition) | 11 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
-| [Barbell glute bridge](#glutebridge) | 12 | [Patellofemoral pain](#patellofemoralpain) | 13 |
-| [Barbell hip thrust](#hipthrust) | 12 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
-| [Bayes factor (BF)](#bayesfactor) | 9 | [Pectoral nerves (lateral and medial)](#pectoralnerves) | 9 |
-| [Belt squat](#beltsquat) | 12 | [Pectoralis major](#pectoralismajor) | 9 |
-| [Bench inclination](#benchinclination) | 11 | [Pectoralis major tear (pectoralis major rupture)](#pectoralismajortear) | 13 |
-| [Bench press](#benchpress) | 12 | [Pectoralis major, abdominal part (the "lower chest")](#pectoralisabdominalhead) | 9 |
-| [Biacromial width](#biacromialwidth) | 3 | [Pectoralis major, clavicular head (the "upper chest")](#pectoralisclavicularhead) | 9 |
-| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Pectoralis major, sternocostal head (the "mid chest")](#pectoralissternocostalhead) | 9 |
-| [Biceps femoris, long head (BFlh)](#bicepsfemorislonghead) | 8 | [Pectoralis minor](#pectoralisminor) | 9 |
-| [Biceps femoris, short head (BFsh)](#bicepsfemorisshorthead) | 8 | [Pelvic floor](#pelvicfloor) | 9 |
-| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
+| [Aponeurosis](#aponeurosis) | 3 | [Overhead triceps extension](#overheadtricepsextension) | 12 |
+| [Apophysis](#apophysis) | 3 | [Painful arc](#painfularc) | 13 |
+| [Attentional focus](#attentionalfocus) | 10 | [Pallof press](#pallofpress) | 12 |
+| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Passive tension](#passivetension) | 5 |
+| [Axillary nerve](#axillarynerve) | 9 | [Patella (kneecap)](#patella) | 3 |
+| [Back squat](#backsquat) | 12 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
+| [Bar position](#barposition) | 11 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
+| [Barbell glute bridge](#glutebridge) | 12 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
+| [Barbell hip thrust](#hipthrust) | 12 | [Patellofemoral pain](#patellofemoralpain) | 13 |
+| [Bayes factor (BF)](#bayesfactor) | 9 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
+| [Belt squat](#beltsquat) | 12 | [Pectoral nerves (lateral and medial)](#pectoralnerves) | 9 |
+| [Bench inclination](#benchinclination) | 11 | [Pectoralis major](#pectoralismajor) | 9 |
+| [Bench press](#benchpress) | 12 | [Pectoralis major tear (pectoralis major rupture)](#pectoralismajortear) | 13 |
+| [Biacromial width](#biacromialwidth) | 3 | [Pectoralis major, abdominal part (the "lower chest")](#pectoralisabdominalhead) | 9 |
+| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Pectoralis major, clavicular head (the "upper chest")](#pectoralisclavicularhead) | 9 |
+| [Biceps femoris, long head (BFlh)](#bicepsfemorislonghead) | 8 | [Pectoralis major, sternocostal head (the "mid chest")](#pectoralissternocostalhead) | 9 |
+| [Biceps femoris, short head (BFsh)](#bicepsfemorisshorthead) | 8 | [Pectoralis minor](#pectoralisminor) | 9 |
+| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Pelvic floor](#pelvicfloor) | 9 |
+| [Biering-Sørensen test](#bieringsorensentest) | 9 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
 | [Bilaminar tendon](#bilaminartendon) | 3 | [Pelvis](#pelvis) | 3 |
 | [Cable crunch](#cablecrunch) | 12 | [Pennation angle](#pennationangle) | 5 |
 | [Cable or machine kickback (standing hip extension)](#kickback) | 12 | [Plane of elevation](#planeofelevation) | 4 |
@@ -11908,14 +15012,15 @@ plain same-file heading anchor.
 | [Chin-up](#chinup) | 12 | [Posterior oblique sling](#posteriorobliquesling) | 8 |
 | [Chronic non-specific low back pain](#lowbackpain) | 13 | [Progressive overload](#progressiveoverload) | 10 |
 | [Clavicle (collarbone)](#clavicle) | 3 | [Pronated (overhand) grip](#pronatedgrip) | 11 |
-| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Proximity to failure](#proximitytofailure) | 10 |
-| [Compound exercise](#compound) | 11 | [Psoas major](#psoasmajor) | 9 |
-| [Concentric contraction](#concentriccontraction) | 6 | [Pull-up](#pullup) | 12 |
-| [Contralateral](#contralateral) | 1 | [Pullover](#pullover) | 12 |
-| [Coracobrachialis](#coracobrachialis) | 9 | [Push-up](#pushup) | 12 |
-| [Coracoid process](#coracoidprocess) | 3 | [Quadratus lumborum](#quadratuslumborum) | 9 |
-| [Costal cartilage](#costalcartilage) | 3 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
-| [Crunch](#crunch) | 12 | [Quadriceps tendon](#quadricepstendon) | 3 |
+| [Close-grip bench press](#closegripbenchpress) | 12 | [Proximity to failure](#proximitytofailure) | 10 |
+| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Psoas major](#psoasmajor) | 9 |
+| [Compound exercise](#compound) | 11 | [Pull-up](#pullup) | 12 |
+| [Concentric contraction](#concentriccontraction) | 6 | [Pullover](#pullover) | 12 |
+| [Contralateral](#contralateral) | 1 | [Push-up](#pushup) | 12 |
+| [Coracobrachialis](#coracobrachialis) | 9 | [Quadratus lumborum](#quadratuslumborum) | 9 |
+| [Coracoid process](#coracoidprocess) | 3 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
+| [Costal cartilage](#costalcartilage) | 3 | [Quadriceps tendon](#quadricepstendon) | 3 |
+| [Crunch](#crunch) | 12 | [Radial nerve](#radialnerve) | 9 |
 | [Deadlift](#deadlift) | 12 | [Range of motion (ROM)](#rangeofmotion) | 4 |
 | [Deep hip external rotators](#hipexternalrotators) | 8 | [Rectus abdominis](#rectusabdominis) | 9 |
 | [Deload](#deload) | 10 | [Rectus femoris](#rectusfemoris) | 8 |
@@ -11925,48 +15030,52 @@ plain same-file heading anchor.
 | [Diastasis recti](#diastasisrecti) | 13 | [Resistance profile](#resistanceprofile) | 11 |
 | [Dip (parallel-bar dip)](#dip) | 12 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 12 |
 | [Distal clavicular osteolysis ("weightlifter's shoulder")](#distalclavicularosteolysis) | 13 | [Reverse hyperextension](#reversehyperextension) | 12 |
-| [Dose–response relationship](#doseresponserelationship) | 10 | [Reverse Nordic curl](#reversenordic) | 12 |
-| [Double progression](#doubleprogression) | 10 | [RIR (repetitions in reserve)](#rir) | 10 |
-| [Dumbbell bench press](#dumbbellbenchpress) | 12 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
-| [Eccentric contraction](#eccentriccontraction) | 6 | [Rotator cuff](#rotatorcuff) | 9 |
-| [Effect size](#effectsize) | 9 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
-| [Effort tolerance](#efforttolerance) | 10 | [Row](#row) | 12 |
-| [Elbow flexors](#elbowflexors) | 8 | [RPE (rating of perceived exertion)](#rpe) | 10 |
-| [Elbow path](#elbowpath) | 11 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
-| [EMG (electromyography)](#emg) | 9 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
-| [Erector spinae](#erectorspinae) | 8 | [Sacrum](#sacrum) | 3 |
-| [Excursion](#excursion) | 4 | [Sagittal plane](#sagittalplane) | 1 |
-| [External oblique](#externaloblique) | 9 | [Sarcomere](#sarcomere) | 5 |
-| [Face pull](#facepull) | 12 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
-| [Fascicle length](#fasciclelength) | 5 | [Scapula (shoulder blade)](#scapula) | 3 |
-| [Femoral nerve](#femoralnerve) | 8 | [Scapular depression](#scapulardepression) | 4 |
-| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
-| [Femur (thigh bone)](#femur) | 3 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
-| [Flexion relaxation](#flexionrelaxation) | 11 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
-| [Force–length relationship](#forcelengthrelationship) | 5 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
-| [Front raise](#frontraise) | 12 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
-| [Front squat](#frontsquat) | 12 | [Semimembranosus (SM)](#semimembranosus) | 8 |
-| [Frontal (coronal) plane](#frontalplane) | 1 | [Semitendinosus (ST)](#semitendinosus) | 8 |
-| [Gastrocnemius](#gastrocnemius) | 8 | [Serratus anterior](#serratusanterior) | 8 |
-| [Glenohumeral joint](#glenohumeraljoint) | 3 | [Sesamoid bone](#sesamoid) | 3 |
-| [Glute-ham raise (GHR)](#glutehamraise) | 12 | [Set](#set) | 10 |
-| [Gluteal tendinopathy (greater trochanteric pain syndrome)](#glutealtendinopathy) | 13 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
-| [Gluteus maximus](#gluteusmaximus) | 8 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
-| [Gluteus medius](#gluteusmedius) | 8 | [Shoulder abduction](#shoulderabduction) | 4 |
-| [Gluteus minimus](#gluteusminimus) | 8 | [Shoulder adduction](#shoulderadduction) | 4 |
-| [Good morning](#goodmorning) | 12 | [Shoulder extension](#shoulderextension) | 4 |
-| [Greater trochanter](#greatertrochanter) | 3 | [Shoulder external (lateral) rotation](#shoulderexternalrotation) | 4 |
-| [Grip width](#gripwidth) | 11 | [Shoulder flexion](#shoulderflexion) | 4 |
-| [Hack squat](#hacksquat) | 12 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
-| [Hamstrings](#hamstrings) | 8 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
-| [Hanging knee raise](#hangingkneeraise) | 12 | [Shoulder instability](#shoulderinstability) | 13 |
-| [Hard set](#hardset) | 10 | [Side plank](#sideplank) | 12 |
-| [Hip abduction](#hipabduction) | 4 | [Sissy squat](#sissysquat) | 12 |
-| [Hip adduction](#hipadduction) | 4 | [Sit-up](#situp) | 12 |
-| [Hip adductors](#hipadductors) | 8 | [Size principle](#sizeprinciple) | 6 |
-| [Hip extension](#hipextension) | 4 | [Smith machine squat](#smithmachinesquat) | 12 |
-| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Specific tension](#specifictension) | 5 |
-| [Hip flexion](#hipflexion) | 4 | [Split squat](#splitsquat) | 12 |
+| [Distal triceps tendon rupture](#distaltricepsrupture) | 13 | [Reverse Nordic curl](#reversenordic) | 12 |
+| [Dose–response relationship](#doseresponserelationship) | 10 | [RIR (repetitions in reserve)](#rir) | 10 |
+| [Double progression](#doubleprogression) | 10 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
+| [Dumbbell bench press](#dumbbellbenchpress) | 12 | [Rotator cuff](#rotatorcuff) | 9 |
+| [Eccentric contraction](#eccentriccontraction) | 6 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
+| [Effect size](#effectsize) | 9 | [Row](#row) | 12 |
+| [Effort tolerance](#efforttolerance) | 10 | [RPE (rating of perceived exertion)](#rpe) | 10 |
+| [Elbow extension](#elbowextension) | 4 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
+| [Elbow flexion](#elbowflexion) | 4 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
+| [Elbow flexors](#elbowflexors) | 8 | [Sacrum](#sacrum) | 3 |
+| [Elbow path](#elbowpath) | 11 | [Sagittal plane](#sagittalplane) | 1 |
+| [EMG (electromyography)](#emg) | 9 | [Sarcomere](#sarcomere) | 5 |
+| [Erector spinae](#erectorspinae) | 8 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
+| [Erector spinae aponeurosis](#erectorspinaeaponeurosis) | 3 | [Scapula (shoulder blade)](#scapula) | 3 |
+| [Excursion](#excursion) | 4 | [Scapular depression](#scapulardepression) | 4 |
+| [External oblique](#externaloblique) | 9 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
+| [Face pull](#facepull) | 12 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
+| [Fascicle length](#fasciclelength) | 5 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
+| [Femoral nerve](#femoralnerve) | 8 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
+| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
+| [Femur (thigh bone)](#femur) | 3 | [Semimembranosus (SM)](#semimembranosus) | 8 |
+| [Flexion relaxation](#flexionrelaxation) | 11 | [Semitendinosus (ST)](#semitendinosus) | 8 |
+| [Force–length relationship](#forcelengthrelationship) | 5 | [Serratus anterior](#serratusanterior) | 8 |
+| [Front raise](#frontraise) | 12 | [Sesamoid bone](#sesamoid) | 3 |
+| [Front squat](#frontsquat) | 12 | [Set](#set) | 10 |
+| [Frontal (coronal) plane](#frontalplane) | 1 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
+| [Gastrocnemius](#gastrocnemius) | 8 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
+| [Glenohumeral joint](#glenohumeraljoint) | 3 | [Shoulder abduction](#shoulderabduction) | 4 |
+| [Glute-ham raise (GHR)](#glutehamraise) | 12 | [Shoulder adduction](#shoulderadduction) | 4 |
+| [Gluteal tendinopathy (greater trochanteric pain syndrome)](#glutealtendinopathy) | 13 | [Shoulder extension](#shoulderextension) | 4 |
+| [Gluteus maximus](#gluteusmaximus) | 8 | [Shoulder external (lateral) rotation](#shoulderexternalrotation) | 4 |
+| [Gluteus medius](#gluteusmedius) | 8 | [Shoulder flexion](#shoulderflexion) | 4 |
+| [Gluteus minimus](#gluteusminimus) | 8 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
+| [Good morning](#goodmorning) | 12 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
+| [Greater trochanter](#greatertrochanter) | 3 | [Shoulder instability](#shoulderinstability) | 13 |
+| [Grip width](#gripwidth) | 11 | [Shoulder position class (Overhead, Raised, Down)](#shoulderpositionclass) | 11 |
+| [Hack squat](#hacksquat) | 12 | [Side plank](#sideplank) | 12 |
+| [Hamstrings](#hamstrings) | 8 | [Sissy squat](#sissysquat) | 12 |
+| [Hanging knee raise](#hangingkneeraise) | 12 | [Sit-up](#situp) | 12 |
+| [Hard set](#hardset) | 10 | [Size principle](#sizeprinciple) | 6 |
+| [Hip abduction](#hipabduction) | 4 | [Smith machine squat](#smithmachinesquat) | 12 |
+| [Hip adduction](#hipadduction) | 4 | [Snapping triceps](#snappingtriceps) | 13 |
+| [Hip adductors](#hipadductors) | 8 | [Specific tension](#specifictension) | 5 |
+| [Hip extension](#hipextension) | 4 | [Spinal role class (spine-moving, spine-holding, supported)](#spinalroleclass) | 11 |
+| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Split squat](#splitsquat) | 12 |
+| [Hip flexion](#hipflexion) | 4 | [Spondylolysis](#spondylolysis) | 13 |
 | [Hip hinge](#hiphinge) | 11 | [Squat depth](#squatdepth) | 11 |
 | [Hip internal (medial) rotation](#hipinternalrotation) | 4 | [Stance width](#stancewidth) | 11 |
 | [Hip joint (acetabulofemoral joint)](#hipjoint) | 3 | [Step-up](#stepup) | 12 |
@@ -11975,41 +15084,48 @@ plain same-file heading anchor.
 | [Humeral elevation](#humeralelevation) | 4 | [Straight-arm pulldown](#straightarmpulldown) | 12 |
 | [Humerus (upper arm bone)](#humerus) | 3 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
 | [Hypertrophy](#hypertrophy) | 7 | [Subacromial impingement](#impingement) | 13 |
-| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [Subacromial space](#subacromialspace) | 3 |
-| [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [Suitcase carry](#suitcasecarry) | 12 |
-| [Internal (medial) rotation](#internalrotation) | 4 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
-| [Internal oblique](#internaloblique) | 9 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
-| [Intra-abdominal pressure (IAP)](#intraabdominalpressure) | 3 | [Supraspinatus](#supraspinatus) | 9 |
-| [Inverted row](#invertedrow) | 12 | [T2-weighted MRI (transverse relaxation time)](#t2mri) | 9 |
-| [Ischial tuberosity](#ischialtuberosity) | 3 | [Technical failure](#technicalfailure) | 10 |
-| [Isolation exercise](#isolation) | 11 | [Tempo](#tempo) | 10 |
-| [Joint reaction force](#jointreactionforce) | 3 | [Tensor fasciae latae (TFL)](#tensorfascialatae) | 8 |
-| [Kipping](#kipping) | 12 | [Tensor vastus intermedius](#tensorvastusintermedius) | 8 |
-| [Knee extension](#kneeextension) | 4 | [Teres major](#teresmajor) | 8 |
-| [Knee flexion](#kneeflexion) | 4 | [The EMG–hypertrophy dissociation](#emghypertrophydissociation) | 9 |
-| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
-| [Knee travel](#kneetravel) | 11 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
-| [Lat pulldown](#latpulldown) | 12 | [Tibia (shin bone)](#tibia) | 3 |
-| [Lateral raise](#lateralraise) | 12 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
-| [Latissimus dorsi](#latissimusdorsi) | 8 | [Torque (moment)](#torque) | 2 |
-| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Torso inclination](#torsoinclination) | 11 |
-| [Leg extension](#legextension) | 12 | [Training frequency](#trainingfrequency) | 10 |
-| [Leg press](#legpress) | 12 | [Training volume](#trainingvolume) | 10 |
-| [Lengthened partials](#lengthenedpartials) | 7 | [Transverse (horizontal) plane](#transverseplane) | 1 |
-| [Lengthened position](#lengthenedposition) | 7 | [Transversus abdominis](#transversusabdominis) | 9 |
-| [Limiting link](#limitinglink) | 10 | [Trapezius](#trapezius) | 9 |
-| [Line of action](#lineofaction) | 2 | [Triceps brachii](#tricepsbrachii) | 9 |
-| [Linea alba](#lineaalba) | 3 | [Trunk extension](#trunkextension) | 5 |
-| [Load](#load) | 10 | [Trunk flexion](#trunkflexion) | 5 |
+| [Iliocostalis lumborum](#iliocostalislumborum) | 8 | [Subacromial space](#subacromialspace) | 3 |
+| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [Suitcase carry](#suitcasecarry) | 12 |
+| [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
+| [Infraglenoid tubercle](#infraglenoidtubercle) | 3 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
+| [Internal (medial) rotation](#internalrotation) | 4 | [Supraspinatus](#supraspinatus) | 9 |
+| [Internal oblique](#internaloblique) | 9 | [T2-weighted MRI (transverse relaxation time)](#t2mri) | 9 |
+| [Intra-abdominal pressure (IAP)](#intraabdominalpressure) | 3 | [Technical failure](#technicalfailure) | 10 |
+| [Inverted row](#invertedrow) | 12 | [Tempo](#tempo) | 10 |
+| [Ischial tuberosity](#ischialtuberosity) | 3 | [Tensor fasciae latae (TFL)](#tensorfascialatae) | 8 |
+| [Isolated lumbar extension (ILEX)](#isolatedlumbarextension) | 12 | [Tensor vastus intermedius](#tensorvastusintermedius) | 8 |
+| [Isolation exercise](#isolation) | 11 | [Teres major](#teresmajor) | 8 |
+| [Joint reaction force](#jointreactionforce) | 3 | [The EMG–hypertrophy dissociation](#emghypertrophydissociation) | 9 |
+| [Kettlebell swing](#kettlebellswing) | 12 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
+| [Kipping](#kipping) | 12 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
+| [Knee extension](#kneeextension) | 4 | [Tibia (shin bone)](#tibia) | 3 |
+| [Knee flexion](#kneeflexion) | 4 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
+| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [Torque (moment)](#torque) | 2 |
+| [Knee travel](#kneetravel) | 11 | [Torso inclination](#torsoinclination) | 11 |
+| [Lat pulldown](#latpulldown) | 12 | [Training frequency](#trainingfrequency) | 10 |
+| [Lateral raise](#lateralraise) | 12 | [Training volume](#trainingvolume) | 10 |
+| [Latissimus dorsi](#latissimusdorsi) | 8 | [Transverse (horizontal) plane](#transverseplane) | 1 |
+| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Transversus abdominis](#transversusabdominis) | 9 |
+| [Leg extension](#legextension) | 12 | [Trapezius](#trapezius) | 9 |
+| [Leg press](#legpress) | 12 | [Triceps brachii](#tricepsbrachii) | 9 |
+| [Lengthened partials](#lengthenedpartials) | 7 | [Triceps brachii, lateral head](#tricepslateralhead) | 9 |
+| [Lengthened position](#lengthenedposition) | 7 | [Triceps brachii, long head](#tricepslonghead) | 9 |
+| [Limiting link](#limitinglink) | 10 | [Triceps brachii, medial head](#tricepsmedialhead) | 9 |
+| [Line of action](#lineofaction) | 2 | [Triceps kickback](#tricepskickback) | 12 |
+| [Linea alba](#lineaalba) | 3 | [Triceps pushdown (cable pushdown)](#tricepspushdown) | 12 |
+| [Load](#load) | 10 | [Trunk extension](#trunkextension) | 5 |
+| [Longissimus thoracis](#longissimusthoracis) | 8 | [Trunk flexion](#trunkflexion) | 5 |
 | [Lumbar compression](#lumbarcompression) | 11 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
-| [Lumbopelvic rhythm](#lumbopelvicrhythm) | 4 | [Trunk rotation](#trunkrotation) | 5 |
-| [Lunge](#lunge) | 12 | [Upright row](#uprightrow) | 12 |
-| [Machine chest press](#machinechestpress) | 12 | [Vastus intermedius](#vastusintermedius) | 8 |
-| [Mechanical tension](#mechanicaltension) | 6 | [Vastus lateralis](#vastuslateralis) | 8 |
-| [Mechanotransduction](#mechanotransduction) | 6 | [Vastus medialis](#vastusmedialis) | 8 |
-| [Middle deltoid](#middledeltoid) | 9 | [Vertical pull](#verticalpull) | 11 |
-| [Moment arm](#momentarm) | 2 | [Volume load](#volumeload) | 10 |
-| [Momentary (muscular) failure](#momentaryfailure) | 10 | [Woodchop](#woodchop) | 12 |
+| [Lumbar flexion](#lumbarflexion) | 4 | [Trunk rotation](#trunkrotation) | 5 |
+| [Lumbopelvic rhythm](#lumbopelvicrhythm) | 4 | [Upright row](#uprightrow) | 12 |
+| [Lunge](#lunge) | 12 | [Vastus intermedius](#vastusintermedius) | 8 |
+| [Lying triceps extension ("skull crusher")](#lyingtricepsextension) | 12 | [Vastus lateralis](#vastuslateralis) | 8 |
+| [Machine chest press](#machinechestpress) | 12 | [Vastus medialis](#vastusmedialis) | 8 |
+| [Mechanical tension](#mechanicaltension) | 6 | [Vertical pull](#verticalpull) | 11 |
+| [Mechanotransduction](#mechanotransduction) | 6 | [Volume load](#volumeload) | 10 |
+| [Middle deltoid](#middledeltoid) | 9 | [Weightlifting belt](#weightliftingbelt) | 11 |
+| [Moment arm](#momentarm) | 2 | [Woodchop](#woodchop) | 12 |
+| [Momentary (muscular) failure](#momentaryfailure) | 10 |  |  |
 
 ---
 
@@ -12126,6 +15242,12 @@ Raising it together with abdominal muscle force increased the load a physical mo
 
 **Glenohumeral joint** — The main shoulder joint: the ball on top of the arm bone sitting in a shallow socket on the shoulder blade. Formally: the ball-and-socket articulation between the humeral head and the glenoid fossa of the [scapula](#scapula), the most mobile and least intrinsically stable joint in the body, restrained by the labrum, capsule, glenohumeral ligaments and rotator cuff. Every latissimus dorsi action occurs here, and it is the joint about which every [torque](#torque) calculation in this document is taken.
 
+## infraglenoidtubercle
+
+*Anatomy & Structure*
+
+**Infraglenoid tubercle** — The small bump of bone just below the shoulder socket where the long head of the triceps begins. Formally: the roughened elevation on the lateral border of the [scapula](#scapula) immediately inferior to the glenoid cavity of the [glenohumeral joint](#glenohumeraljoint), giving origin to the long head of triceps brachii. It matters because it is the only triceps attachment above the shoulder joint: its position below and slightly behind the socket is what makes the long head a shoulder extensor, and what makes raising the arm lengthen that head and no other (Part IX §B.2).
+
 ## clavicle
 
 *Anatomy & Structure*
@@ -12149,6 +15271,12 @@ Raising it together with abdominal muscle force increased the load a physical mo
 *Anatomy & Structure*
 
 **Deltoid tuberosity** — The roughened patch on the outside of the upper arm bone, about halfway down, where the whole deltoid attaches. Formally: the V-shaped elevation on the anterolateral surface of the [humerus](#humerus) at approximately its midpoint, receiving the converged tendons of all three deltoid heads. Its position matters twice: it is far enough down the bone to give the muscle a workable [moment arm](#momentarm), and it is a **single** attachment shared by heads whose origins are 20 cm apart — which is why the three heads' different actions come entirely from where they start, not from where they finish.
+
+## olecranon
+
+*Anatomy & Structure*
+
+**Olecranon** — The point of your elbow: the hooked top end of the forearm bone on the little-finger side. Formally: the proximal process of the ulna — the forearm bone that articulates with the [humerus](#humerus) to form the hinge of the elbow — projecting behind the joint and fitting into the olecranon fossa of the humerus when the elbow is straight; its posterior surface receives the insertion of all three heads of the triceps brachii through a superficial tendon and a deep, largely muscular layer (Barco et al., 2017). The front-to-back thickness of the ulna at the olecranon is the single dimension that best predicted the triceps' peak moment arm across cadaveric arms (Murray et al., 2002), which makes it the anatomical reason two people with equal triceps can have unequal elbow-extension strength.
 
 ## coracoidprocess
 
@@ -12193,6 +15321,12 @@ Raising it together with abdominal muscle force increased the load a physical mo
 **Thoracolumbar fascia (TLF)** — The thick, tough sheet of connective tissue covering the lower back, into which several large muscles blend. Formally: a multilayered [aponeurotic](#aponeurosis) structure spanning the lumbar and lower thoracic region, whose posterior layer receives the latissimus dorsi from one side and gluteus maximus from the other, and which attaches to the lumbar spinous processes, the sacrum and the iliac crest. Practical consequence: a large part of the latissimus dorsi's "origin" is a tensionable sheet rather than bone, so how firmly the trunk is braced determines whether the origin actually stays put when the muscle pulls.
 
 ---
+
+## erectorspinaeaponeurosis
+
+*Anatomy & Structure*
+
+**Erector spinae aponeurosis** — The broad, flat tendon lying over the lower back that carries the pull of back-muscle bellies sitting beside the ribs down to the pelvis. Formally: the [aponeurosis](#aponeurosis) formed by the long caudal tendons of the thoracic parts of the longissimus thoracis and iliocostalis lumborum, lying over the lumbar parts of those muscles (Macintosh & Bogduk, 1987); in the lumbar region it and its ventral reflection, the lumbar intermuscular aponeurosis, separate the two columns (Bogduk, 1980). It matters because it is how muscle that is not in the lower back extends the lower back: in a model of the upright spine, the thoracic parts that act through it supplied about half the extensor moment at L4 and L5 (Bogduk et al., 1992a).
 
 ## lineaalba
 
@@ -12417,6 +15551,18 @@ Three quantities are routinely confused and are not the same. **Joint excursion*
 
 ---
 
+## elbowflexion
+
+*Biomechanics & Mechanics*
+
+**Elbow flexion** — Bending the elbow, so the hand travels toward the shoulder. Formally: rotation of the forearm relative to the [humerus](#humerus) about the elbow's flexion–extension axis in the direction that closes the angle between them. **Its angle is measured from a straight arm**: 0° when the forearm is in line with the upper arm, 90° when it is perpendicular to it, and larger numbers for more bend; a measurement reported on the opposite convention, with 180° as a straight arm, is converted by subtracting it from 180°. It is the action that lengthens all three heads of the triceps brachii, and the only action that lengthens the lateral and medial heads (Part IX §B.2).
+
+## elbowextension
+
+*Biomechanics & Mechanics*
+
+**Elbow extension** — Straightening the elbow, so the hand travels away from the shoulder. Formally: rotation of the forearm relative to the [humerus](#humerus) about the elbow's flexion–extension axis in the direction that opens the angle between them, decreasing the [elbow flexion](#elbowflexion) angle toward 0°; produced by the three heads of the triceps brachii and the anconeus, which pull on the [olecranon](#olecranon). It is the triceps' principal action and the second joint action of every press, which is why every press in this document is also, in part, a triceps exercise (Part IX §B.8).
+
 ## kneeextension
 
 *Biomechanics & Mechanics*
@@ -12470,6 +15616,12 @@ Three quantities are routinely confused and are not the same. **Joint excursion*
 *Biomechanics & Mechanics*
 
 **Hip internal (medial) rotation** — Turning the thigh so that the kneecap and foot point inward. Formally: transverse-plane rotation of the femur about its long axis, toward the midline, produced by the anterior fibres of gluteus medius and minimus and by tensor fasciae latae. It is added to side-lying abduction in rehabilitation programmes because it biases the middle segment of gluteus medius.
+
+## lumbarflexion
+
+*Biomechanics & Mechanics*
+
+**Lumbar flexion** — Rounding the lower back, so its inward curve flattens and then bows outward. Formally: [sagittal-plane](#sagittalplane) rotation of the lumbar vertebrae relative to one another and to the [sacrum](#sacrum) in the direction that reduces the lumbar curve, measured in degrees as the change in the angle between the upper surfaces of L1 and S1 from the same person's upright standing posture, which is 0°; positive values are flexion and negative values are extension beyond standing. It is one component of bending the trunk forward and is distinct from [hip flexion](#hipflexion): the trunk can lean far forward with 0° of lumbar flexion if the hip produces the lean. **Caveat:** studies measure it with different instruments and segments, and isolated-lumbar-extension machines use their own 0–72° scale, so numbers from different sources are not interchangeable. It is the only sagittal action that lengthens the lumbar parts of the erector spinae; thoracic flexion and side bending also lengthen parts of the columns (Part X §B.2).
 
 ## pelvictilt
 
@@ -12675,7 +15827,7 @@ The two diverge as [pennation angle](#pennationangle) rises, which is exactly wh
 
 *Muscle Architecture & Physiology*
 
-**Stretch-mediated hypertrophy** — The finding that training a muscle while it is long grows it more than training it while it is short. Formally: the greater [hypertrophic](#hypertrophy) response to resistance training performed at long muscle lengths, attributed to elevated total [mechanical tension](#mechanicaltension) — active plus passive — at long [sarcomere](#sarcomere) lengths in the [lengthened position](#lengthenedposition). Best-supported evidence: 12 weeks of overhead versus neutral-position elbow extension produced **19.9% versus 13.5%** triceps growth despite lower absolute loads (Maeo et al., 2023), with a parallel result in the hamstrings (Maeo et al., 2021). **Caveat:** the mechanism is well supported in those muscles and has **never been tested in the latissimus dorsi**; the related claim that long-length training adds sarcomeres in series is **weak and contested** (Wolf et al., 2026).
+**Stretch-mediated hypertrophy** — The idea that a muscle grows more when it is trained while stretched long than when it is trained short. Formally: the proposed greater [hypertrophic](#hypertrophy) response to resistance training performed at long muscle lengths, attributed to elevated total [mechanical tension](#mechanicaltension) — active plus passive — at long [sarcomere](#sarcomere) lengths in the [lengthened position](#lengthenedposition). Its clearest single test is 12 weeks of overhead versus neutral-position elbow extension, **19.9% versus 13.9%** triceps growth despite lower absolute loads (Maeo et al., 2023), with a parallel result in the hamstrings (Maeo et al., 2021). **Moderate evidence** in those muscles. **Caveat:** the passive-tension mechanism is untested and does not explain the extra growth of the triceps' monoarticular heads (Part IX §B.4); meta-analyses of long- against short-length training disagree (Part II §G.2); it has never been tested in the latissimus dorsi; and the related claim that long-length training adds sarcomeres in series is **weak and contested** (Wolf et al., 2026).
 
 ## lengthenedpartials
 
@@ -12865,11 +16017,23 @@ That combination — very long fascicles, very small PCSA — defines it as an *
 
 **Adductor magnus** — The largest muscle of the inner thigh, whose rear portion behaves like a hamstring. Formally: a large triangular muscle arising from the inferior pubic ramus and the [ischial tuberosity](#ischialtuberosity) and inserting along the linea aspera of the [femur](#femur) and at the adductor tubercle; its posterior, ischiocondylar part shares the hamstrings' origin and produces [hip extension](#hipextension), particularly from a flexed hip. With a [PCSA](#pcsa) of 20.5 cm² (Ward et al., 2009a) it adds about 30% again to the hip extensor group, and it grew 6.2% in ten weeks of full squatting (Kubo et al., 2019) — which is a large part of why a deep squat is not a pure gluteal exercise.
 
+## iliocostalislumborum
+
+*Anatomy & Structure*
+
+**Iliocostalis lumborum** — The outer of the two long muscle columns that run up the lower back on each side of the spine. Formally: the lateral column of the lumbar erector spinae, made of a lumbar part — fascicles attaching the iliac crest to the tips of the transverse processes of L1–L4 (Bogduk, 1980) — and a thoracic part, with small bellies arising segmentally from the thorax whose long caudal tendons join the erector spinae aponeurosis (Macintosh & Bogduk, 1987); supplied by the lateral branches of the lumbar dorsal rami (Bogduk et al., 1982). Its lumbar part is a substantial share of the muscle acting directly on the lumbar vertebrae (Macintosh & Bogduk, 1987), and at an optimal fascicle length of 14.2 ± 2.1 cm it had the longest fascicles of the three erector columns measured in cadavers (Delp et al., 2001).
+
+## longissimusthoracis
+
+*Anatomy & Structure*
+
+**Longissimus thoracis** — The inner of the two long muscle columns that run up the lower back on each side of the spine. Formally: the medial column of the lumbar erector spinae, made of a lumbar part — fascicles attaching the ilium and the lumbar intermuscular aponeurosis to the accessory processes and roots of the transverse processes of the lumbar vertebrae (Bogduk, 1980) — and a thoracic part, with small bellies arising segmentally from the thorax whose long caudal tendons form the erector spinae aponeurosis (Macintosh & Bogduk, 1987); supplied by the intermediate branches of the lumbar dorsal rami (Bogduk et al., 1982). In sixteen healthy adults its lumbar part was 57% type I fibres, no different from the multifidus beside it (Thorstensson & Carlson, 1987).
+
 ## erectorspinae
 
 *Anatomy & Structure*
 
-**Erector spinae** — The columns of muscle running either side of the spine that hold you upright. Formally: the iliocostalis, longissimus and spinalis columns, arising from the sacrum, iliac crest and lumbar spine and inserting on the ribs, transverse processes and skull, producing spinal extension and resisting spinal flexion; continuous below with the [thoracolumbar fascia](#thoracolumbarfascia) and therefore with the [gluteus maximus](#gluteusmaximus). In every hinge-pattern exercise they work isometrically against the same trunk inclination that generates the hip torque, which is why they, and not the hip, usually end the set.
+**Erector spinae** — The columns of muscle running either side of the spine that hold you upright. Formally: the [iliocostalis lumborum](#iliocostalislumborum), [longissimus thoracis](#longissimusthoracis) and spinalis columns and their upward continuations, arising from the sacrum, iliac crest and lumbar spine and inserting on the ribs, transverse processes and skull, producing spinal extension and resisting spinal flexion; continuous below with the [thoracolumbar fascia](#thoracolumbarfascia) and therefore with the [gluteus maximus](#gluteusmaximus). Because they cross the spine and not the hip, only movement of the spine — [lumbar flexion](#lumbarflexion), extension and side bending — changes their length; hip flexion with the spine held does not (Part X §B.2). In every hinge-pattern exercise they hold the spine against the same trunk inclination that generates the hip torque, and training those exercises did not raise the strength of the isolated lumbar extensors (Part X §B.4).
 
 ## inferiorglutealnerve
 
@@ -12975,11 +16139,41 @@ That combination — very long fascicles, very small PCSA — defines it as an *
 
 **Trapezius** — The large diamond-shaped muscle of the upper back and neck that moves the shoulder blade. Formally: arising from the occiput, the nuchal ligament and the spinous processes of C7 to T12, inserting on the [clavicle](#clavicle), the [acromion](#acromion) and the spine of the [scapula](#scapula); supplied by the accessory nerve. Its upper fibres elevate the shoulder girdle and, with the lower fibres, produce [scapular upward rotation](#scapularupwardrotation); its middle fibres produce [scapular retraction](#scapularretraction). It appears twice in Part V and for opposite reasons: it is a **prerequisite** for the top of an overhead press, and it is what ends most lateral raises, by turning them into shrugs (Part V §C.5).
 
+## radialnerve
+
+*Anatomy & Structure*
+
+**Radial nerve** — The nerve that runs around the back of the upper arm bone and switches on the muscles that straighten the elbow, wrist and fingers. Formally: the terminal branch of the posterior cord of the brachial plexus, spiralling around the back of the [humerus](#humerus) in the groove that separates the origins of the lateral and medial heads of triceps brachii, and usually supplying all three heads of that muscle (Barco et al., 2017) before continuing to the forearm extensors; in one cadaveric series of 36 limbs the long head received an axillary-nerve branch in 2 and the medial head an ulnar-nerve branch in 1 (Chaware et al., 2018). Its groove is the anatomical boundary between the two monoarticular triceps heads.
+
+## tricepslonghead
+
+*Anatomy & Structure*
+
+**Triceps brachii, long head** — The part of the triceps that starts on the shoulder blade, just below the shoulder socket, and so crosses both the shoulder and the elbow. Formally: the head of triceps brachii arising from the [infraglenoid tubercle](#infraglenoidtubercle) of the [scapula](#scapula) and inserting on the [olecranon](#olecranon) through the distal triceps tendon; a [biarticular muscle](#biarticularmuscle) that extends the elbow and extends and adducts the shoulder, usually supplied by the [radial nerve](#radialnerve). Its length is set by both joints, and its length relative to the other two heads by the shoulder alone: in a musculoskeletal model it was longer than at 0° with the arm raised to 45°, 90° and 135°, with no significant difference between 135° and 180° (Kholinne et al., 2018), and its fascicles were 60–67 mm in an overhead extension held at 70°–150° of elbow flexion against 44–51 mm in a pushdown held at 10°–90° (Stasinaki et al., 2018) — a difference shared between the shoulder position and the deeper elbow. It is the head that grew most when elbow extension was trained with the arm overhead — 28.5% against 19.6% with the arm at the side (Maeo et al., 2023).
+
+## tricepslateralhead
+
+*Anatomy & Structure*
+
+**Triceps brachii, lateral head** — The outer part of the triceps, starting on the back of the upper arm bone and crossing only the elbow. Formally: the head of triceps brachii arising from the posterior surface of the [humerus](#humerus) above and lateral to the groove of the [radial nerve](#radialnerve) and inserting on the [olecranon](#olecranon) through the superficial layer of the distal triceps tendon; a [monoarticular muscle](#monoarticularmuscle) whose length depends on the elbow angle alone. It is the head a press grows best: a bench press alone produced greater lateral-head growth than a lying triceps extension alone (Brandão et al., 2020), and a narrower bench press grip raised its excitation (Mausehund et al., 2022).
+
+## tricepsmedialhead
+
+*Anatomy & Structure*
+
+**Triceps brachii, medial head** — The deepest part of the triceps, lying against the back of the upper arm bone under the other two heads and crossing only the elbow. Formally: the head of triceps brachii arising from the posterior surface of the [humerus](#humerus) below and medial to the groove of the [radial nerve](#radialnerve) over most of the bone's length, and inserting on the [olecranon](#olecranon) through a **deep, largely muscular insertion** beneath the common tendon of the other two heads, histologically confluent with it at the bone (Madsen et al., 2006); a [monoarticular muscle](#monoarticularmuscle). **Caveat:** which heads feed which layer is disputed — a micro-computed-tomography study of 21 elbows found a thick intramuscular tendon between the long and medial heads and a thin superficial aponeurosis attached to the lateral and medial heads (Yamamoto et al., 2025). In a model of unloaded extension it supplied the largest share of elbow-extension force when the arm was raised to 90° or more (Kholinne et al., 2018), and an isolated injury to its insertion weakens extension with the elbow bent beyond 90° (Madsen et al., 2006).
+
 ## tricepsbrachii
 
 *Anatomy & Structure*
 
-**Triceps brachii** — The muscle on the back of the upper arm that straightens the elbow. Formally: the long, lateral and medial heads on the posterior [humerus](#humerus), converging on the olecranon of the ulna and supplied by the radial nerve; the **long head alone crosses the shoulder**, arising from the infraglenoid tubercle of the [scapula](#scapula) and acting as a [shoulder extensor](#shoulderextension) as well as an elbow extensor. For Part V it matters as the muscle that ends most pressing sets before the deltoid does, and as the reason how widely you grip a press trades shoulder [torque](#torque) against elbow torque (Gundersen et al., 2026).
+**Triceps brachii** — The muscle on the back of the upper arm that straightens the elbow. Formally: the three-headed muscle formed by the [long head](#tricepslonghead), the [lateral head](#tricepslateralhead) and the [medial head](#tricepsmedialhead), all inserting on the [olecranon](#olecranon) and all supplied by the [radial nerve](#radialnerve); the **long head alone crosses the shoulder**, so it is a [biarticular muscle](#biarticularmuscle) that extends the shoulder as well as the elbow, while the other two are [monoarticular](#monoarticularmuscle). It is the largest muscle of the upper arm, **14.5 ± 0.7% of upper-limb muscle volume**, second only to the deltoid in the whole limb (Holzbaur et al., 2007), and it had the greatest moment-generating capacity of any muscle crossing the elbow in every cadaveric arm measured (Murray et al., 2000). Its defining property for training is that **only the shoulder's position separates its heads**: the same elbow extension grew the whole muscle 19.9% with the arm overhead against 13.9% with the arm at the side (Maeo et al., 2023). Part IX is its own; in Parts V and VIII it appears as the elbow extensor every press shares, whose share a narrower grip raises (Gundersen et al., 2026).
+
+## anconeus
+
+*Anatomy & Structure*
+
+**Anconeus** — A small triangular muscle at the back of the elbow, on the outer side, that helps straighten it. Formally: a muscle arising from the lateral epicondyle of the [humerus](#humerus) and inserting on the lateral side of the [olecranon](#olecranon) and the adjacent posterior ulna, supplied by a branch of the [radial nerve](#radialnerve); it assists [elbow extension](#elbowextension) and stabilizes the joint, and three-dimensional dissection divides it into proximal, distal and deep parts with distinct fibre orientation and innervation (McGee et al., 2026). At a mean of 10.8 cm³ against the [triceps brachii](#tricepsbrachii)'s 372 cm³ (Holzbaur et al., 2007) it is never a training target, and its fascia is continuous with the lateral expansion of the triceps tendon (Keener et al., 2010).
 
 ## rectusabdominis
 
@@ -13027,7 +16221,7 @@ That combination — very long fascicles, very small PCSA — defines it as an *
 
 *Anatomy & Structure*
 
-**Psoas major** — The thick muscle running from the lumbar spine, through the pelvis, to the inside of the thigh bone. Formally: arising from the bodies and transverse processes of T12–L5 and inserting with iliacus on the lesser trochanter of the [femur](#femur); supplied by the lumbar plexus (L1–L3). It is a powerful [hip flexor](#hipflexion), and because its upper end attaches to the lumbar vertebrae it loads them whenever it contracts. **What that load is has been modelled and it is not what folklore says:** psoas exerts "only very small moments that tend to extend the upper lumbar spine and to flex the lower lumbar spine", while at maximum contraction applying **severe compression and large shear** to the segments (Bogduk et al., 1992). That is the reason a straight-leg or hanging leg raise is not an abdominal exercise in the way it is usually described — the wall is holding the trunk against a large compressive and shearing load rather than producing the movement (Part VI §B.10).
+**Psoas major** — The thick muscle running from the lumbar spine, through the pelvis, to the inside of the thigh bone. Formally: arising from the bodies and transverse processes of T12–L5 and inserting with iliacus on the lesser trochanter of the [femur](#femur); supplied by the lumbar plexus (L1–L3). It is a powerful [hip flexor](#hipflexion), and because its upper end attaches to the lumbar vertebrae it loads them whenever it contracts. **What that load is has been modelled and it is not what folklore says:** psoas exerts "only very small moments that tend to extend the upper lumbar spine and to flex the lower lumbar spine", while at maximum contraction applying **severe compression and large shear** to the segments (Bogduk et al., 1992b). That is the reason a straight-leg or hanging leg raise is not an abdominal exercise in the way it is usually described — the wall is holding the trunk against a large compressive and shearing load rather than producing the movement (Part VI §B.10).
 
 ## diaphragm
 
@@ -13083,6 +16277,12 @@ In a passively stretched muscle it rises monotonically with muscle length, which
 
 **T2-weighted MRI (transverse relaxation time)** — A magnetic resonance measurement that shows which parts of a muscle have just been working, by detecting the fluid shift that exercise causes. Formally: the transverse relaxation time constant of the MRI signal, which rises transiently after contractile activity in proportion to intracellular fluid accumulation; the pre-to-post change in T2 is used as a spatially resolved index of which muscle regions were recruited by a bout. It is a far better instrument than surface [EMG](#emg) for the *regional* question, because it reads the whole muscle volume rather than the field beneath one electrode — but it is still an acute measure, and Part II §B.11's warning against inferring growth from acute measures applies to it in full.
 
+## bieringsorensentest
+
+*Measurement & Research Methods*
+
+**Biering-Sørensen test** — Lying face down with your legs strapped to a bench and holding your upper body out straight past its end for as long as you can. Formally: an isometric trunk-extensor endurance test in which the lower body is fixed to the table and the unsupported upper body is held horizontal in a prone position, scored as the holding time in seconds (Demoulin et al., 2006). It is reliable, with test–retest intraclass correlations of 0.77–0.88, and distinguishes people with and without non-specific low back pain (Latimer et al., 1999); in a Danish population cohort, good holding time went with less first-time low back trouble in men (Biering-Sørensen, 1984). **It is an endurance test, not a strength test:** holding time did not correlate with isolated lumbar extension strength (r = 0.035) (Conway et al., 2016), and the hip extensors contribute to it (Demoulin et al., 2006).
+
 ## bayesfactor
 
 *Measurement & Research Methods*
@@ -13129,7 +16329,7 @@ Its practical advantage over a p-value is that it can express support **for** a 
 
 *Training Variables & Prescription*
 
-**Tempo** — How fast each phase of the rep is performed, usually written as seconds per phase. Formally: the prescribed duration (s) of the [eccentric](#eccentriccontraction), the bottom pause, the [concentric](#concentriccontraction) and the top pause, in that conventional order. Repetition durations from roughly 0.5 to 8 s produce similar hypertrophy (Schoenfeld et al., 2015), so tempo is a minor variable for growth in general. It is not minor for the latissimus dorsi, but for a different reason: a controlled eccentric is what keeps the muscle loaded through its longest length, so tempo here is a **range-of-motion control**, not a stimulus variable in itself.
+**Tempo** — How fast each phase of the rep is performed, usually written as seconds per phase. Formally: the prescribed duration (s) of the [eccentric](#eccentriccontraction), the bottom pause, the [concentric](#concentriccontraction) and the top pause, in that conventional order. Repetition durations from roughly 0.5 to 8 s produce similar hypertrophy (Schoenfeld et al., 2015a), so tempo is a minor variable for growth in general. It is not minor for the latissimus dorsi, but for a different reason: a controlled eccentric is what keeps the muscle loaded through its longest length, so tempo here is a **range-of-motion control**, not a stimulus variable in itself.
 
 ## momentaryfailure
 
@@ -13203,7 +16403,7 @@ It is the most precise-looking measure of training dose and the least useful for
 
 *Training Variables & Prescription*
 
-**Training frequency** — How many times a week you train a given muscle. Formally: the number of sessions per week in which a target muscle receives at least one [hard set](#hardset). It functions mostly as a way to distribute [training volume](#trainingvolume) rather than as an independent stimulus (Schoenfeld et al., 2019). Its practical value for the latissimus dorsi is that splitting a weekly volume across two sessions keeps per-session quality high — and for this muscle, session quality means range quality, which is what degrades first under fatigue.
+**Training frequency** — How many times a week you train a given muscle. Formally: the number of sessions per week in which a target muscle receives at least one [hard set](#hardset). It functions mostly as a way to distribute [training volume](#trainingvolume) rather than as an independent stimulus (Schoenfeld et al., 2019c). Its practical value for the latissimus dorsi is that splitting a weekly volume across two sessions keeps per-session quality high — and for this muscle, session quality means range quality, which is what degrades first under fatigue.
 
 ## doseresponserelationship
 
@@ -13252,11 +16452,11 @@ It is the most precise-looking measure of training dose and the least useful for
 **Resistance profile** — Where in a movement the weight actually feels heaviest. Formally: the function relating [torque](#torque) demand at the working joint to joint angle across an exercise's [range of motion](#rangeofmotion). For gravity-driven resistance the line of action is vertical, so the demand at any angle is:
 
 > τ_demanded(θ) = F_resistance × d⊥(θ)   (N·m)
-> d⊥(θ) = L(θ) × sin φ(θ)   (m; L = glenohumeral-joint-centre-to-hand distance, m; φ = angle between that segment and the resistance [line of action](#lineofaction), rad)
+> d⊥(θ) = L(θ) × sin φ(θ)   (m; L = distance from the working joint's centre to the point where the resistance is applied, m; φ = angle between that segment and the resistance [line of action](#lineofaction), rad)
 
-For gravity-driven resistance the line of action is vertical and this reduces to the horizontal shoulder-to-hand offset in the plane of the pull; for a cable or a band the line runs from the hand to the anchor, so the profile is set by where you stand.
+For gravity-driven resistance the line of action is vertical and this reduces to the horizontal distance from the working joint to the load, in the plane of the movement; for a cable or a band the line runs from the hand to the anchor, so the profile is set by where you stand.
 
-Exercises are classified by where that function peaks: **stretch-loaded** (peak near the [lengthened position](#lengthenedposition)), **mid-range-loaded**, or **short-loaded**. It is the most neglected variable in exercise selection, because a muscle can have excellent leverage at a joint angle and receive almost no load there.
+Exercises are classified by where that function peaks, by one rule: divide the exercise's own [range of motion](#rangeofmotion) at the working joint into three equal thirds; the profile is **stretch-loaded** if the peak lies in the third nearest the [lengthened position](#lengthenedposition), **mid-range-loaded** if it lies in the middle third, and **short-loaded** if it lies in the third nearest the shortened position. A profile whose (maximum − minimum) ÷ maximum is less than 0.10 across the range is **near-constant**, whatever the position of its peak. It is the most neglected variable in exercise selection, because a muscle can have excellent leverage at a joint angle and receive almost no load there.
 
 ## compound
 
@@ -13293,6 +16493,12 @@ Exercises are classified by where that function peaks: **stretch-loaded** (peak 
 *Biomechanics & Mechanics*
 
 **Sticking region** — The point part-way up a heavy press where the bar slows or stops even though you are still pushing as hard as you can. Formally: the interval of a lift containing a local minimum in barbell velocity, arising where the [torque](#torque) a joint can produce falls below the torque the load demands at that position. In the bench press it appears when shoulder torque drops below a critical threshold; in the model, a shoulder-only actuation put the velocity minimum about 38 cm above the chest and adding elbow torque moved it to about 23 cm while shallowing it and lengthening the time spent passing through it (Evangelista et al., 2025) — both simulation outputs, and the first is a model with the elbow switched off rather than a bench press. It matters because **where** a lift fails is diagnostic: a stall in the sticking region is a shoulder problem, and a stall at lockout is an elbow one.
+
+## shoulderpositionclass
+
+*Exercises & Technique*
+
+**Shoulder position class (Overhead, Raised, Down)** — Which of three positions the upper arm is in during an elbow extension exercise, sorted by how far it is raised. Formally: at the instant the elbow is most flexed, measure [humeral elevation](#humeralelevation) — the angle between the upper arm and the trunk's long axis, 0° with the arm at the side — and note whether the elbow lies behind the frontal plane through both shoulder joints. **Down**: elevation less than 45°; or the elbow behind that plane with elevation less than 90°. **Raised**: any other position with elevation of at least 45° and less than 135°. **Overhead**: elevation of 135° or more. Presses and dips are classified by the same rule at the bottom of the repetition, and the class is the same whether the lifter stands, sits or lies. It exists because it is the one variable that changes the length of the long head of triceps brachii without changing the other two heads, and the one exercise variable with a triceps growth trial behind it: the same cable elbow extension grew the whole muscle 19.9% in the Overhead class against 13.9% in the Down class (Maeo et al., 2023). **Caveat:** the 135° boundary is a convention; in the one modelling study, long-head length at 135° and 180° did not differ significantly, and whether it still rose between 90° and 135° was not reported (Kholinne et al., 2018).
 
 ## pronatedgrip
 
@@ -13384,11 +16590,23 @@ Exercises are classified by where that function peaks: **stretch-loaded** (peak 
 
 It is what a biomechanics study reports when it says an exercise "loads the shoulder more", and it is **not** the force in any one muscle: a net moment can stay constant while agonist and antagonist forces both rise, and it says nothing about how the work is shared. That distinction is why a rise in net joint moment (Gundersen et al., 2026) is evidence about the joint's demand and only indirect evidence about a muscle's stimulus — the division by [moment arm](#momentarm) and by the target's share, set out in Part I §2, is what converts one into the other.
 
+## spinalroleclass
+
+*Exercises & Technique*
+
+**Spinal role class (spine-moving, spine-holding, supported)** — Which of three jobs the lower-back muscles do in an exercise: move the spine, hold it still while the hip moves, or neither. Formally: decide it from one repetition as prescribed. The *lumbar change* is the difference in [lumbar flexion](#lumbarflexion) between the top and the bottom of the repetition, the *hip change* is the difference in [hip flexion](#hipflexion) over the same interval, and the *load position* is the instant at which the external load and the body above the lower back are horizontally farthest from L4/L5. **Spine-moving:** a lumbar change of at least 10°, and at least as many degrees as the hip change — *isolated* when a strap fixes the pelvis to a machine; or a thoracic change of at least 10° against resistance with the lumbar spine resting on a support — *thoracic*. **Spine-holding:** not spine-moving, and at the load position (a) the body above the lower back is a cantilever, supported only from below the lower back and inclined 30° or more from vertical; (b) the pelvis and legs hang from a trunk that is itself supported, as when the legs are swung up behind a trunk lying on a bench; or (c) the body lies face up with the upper back on one support and the feet on another and an external load acts between them, as when the hips are driven up under a bar. **Supported:** every other case. **Where the degrees come from:** measured values for that execution when studies report them and agree; otherwise the set-up decides — a pelvis strapped, or lying on a pad, bench or floor that reaches the hip bones, while the back bends and straightens is spine-moving; a free pelvis is spine-holding if (a), (b) or (c) applies and supported otherwise. It exists because the strength of the isolated lumbar extensors rose when the spine was trained through its range with the pelvis restrained and did not rise with spine-holding exercises (Part X §B.4). **Caveat:** the 10° and 30° thresholds are conventions; no study has tested them. The class is sagittal, so side-bending work comes out supported, and it describes what the erectors do, not how much they grow.
+
+## weightliftingbelt
+
+*Exercises & Technique*
+
+**Weightlifting belt** — A wide, stiff belt fastened tightly around the waist for heavy lifts, which you brace your stomach against. Formally: a rigid or semi-rigid belt fastened around the abdomen during resistance exercise to give the braced abdominal wall a surface to push against, raising [intra-abdominal pressure](#intraabdominalpressure) — 29.2 against 26.8 kPa at 90% of one-repetition maximum in the squat (Lander et al., 1990). Its effect on the spine is smaller than its reputation: modelled spinal compression fell about 10%, and only when the lifter inhaled before lifting (Kingma et al., 2006), and lumbar supports were not more effective than no intervention for preventing back pain (van Duijvenbode et al., 2008).
+
 ## flexionrelaxation
 
 *Biomechanics & Mechanics*
 
-**Flexion relaxation** — The point in bending forward at which the muscles of your lower back switch off and the weight of your upper body is held by ligaments and discs instead. Formally: the abrupt fall of lumbar erector spinae [EMG](#emg) amplitude to near baseline at approximately 80–90% of full trunk flexion, past which the extensor moment supporting the trunk is supplied by passive structures — the posterior ligamentous system, the [thoracolumbar fascia](#thoracolumbarfascia) and the intervertebral discs — rather than by active muscle (Colloca & Hinrichs, 2005). It is the mechanical content of the warning against loading end-range spinal flexion: past this point additional load is applied to tissue that does not adapt within a training block, and the muscle that would otherwise share it has stopped contributing.
+**Flexion relaxation** — The point, near the end of bending forward, at which the muscles of the lower back go electrically quiet even though they are still stretched and still pulling. Formally: the fall of lumbar erector spinae [EMG](#emg) amplitude to near resting level in the fully flexed posture (Colloca & Hinrichs, 2005), where the extensor moment is shared by the posterior ligaments, the [thoracolumbar fascia](#thoracolumbarfascia) and the discs, the elastic tension of the stretched lumbar extensors, and muscles that stay active, including the thoracic extensors and the abdominals (McGill & Kippers, 1994). It is the mechanical content of the warning against loading end-range spinal flexion: holding only 8 kg there loaded the interspinous and supraspinous ligaments high relative to their failure tolerance (McGill & Kippers, 1994). **The silence is electrical, not mechanical, and it is not total.**
 
 > **LAYER 12 — Named exercises.** Every term above is needed to specify these precisely.
 
@@ -13542,13 +16760,25 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 *Exercises & Technique*
 
-**Good morning** — A hinge performed with a barbell resting on the upper back. Formally: a [hip hinge](#hiphinge) loaded across the shoulders rather than in the hands, so that the entire load acts at the far end of the trunk lever. The long lever makes it a strong hip extension pattern with a low load ceiling — and the ceiling is set by the [erector spinae](#erectorspinae) and the spine rather than by the hip.
+**Good morning** — A hinge performed with a barbell resting on the upper back. Formally: a [hip hinge](#hiphinge) loaded across the shoulders rather than in the hands, so that the entire load acts at the far end of the trunk lever. The long lever makes it a strong hip extension pattern with a low load ceiling: at the same bar load it produced the same moment about L4/L5 as a deadlift, 2.75 against 2.81 N·m·kg⁻¹, and a higher hip moment, 1.63 against 1.40 (Schellenberg et al., 2013), so at any bar load the [erector spinae](#erectorspinae) carry a deadlift's lower-back demand while the hip works harder.
 
 ## backextension
 
 *Exercises & Technique*
 
-**45° back extension (hip extension)** — A hinge performed face-down on an angled pad, raising the torso until it lines up with the legs. Formally: a [hip hinge](#hiphinge) performed prone against a support inclined at roughly 45°, with the pad set below the anterior superior iliac spines so that the hip is free to move. Its distinguishing mechanical property is that its [resistance profile](#resistanceprofile) is **inverted relative to every other hinge**: [torque](#torque) demand is the trunk's weight times the *horizontal* distance from the hip to its centre of mass, so it peaks as the trunk sweeps through horizontal and falls toward the bottom, where the trunk hangs vertically and the resistance's [line of action](#lineofaction) runs down the trunk's own long axis through the hip. On a 45° bench roughly 70% of the peak demand is still present with the hip straight — more than the [hip thrust](#hipthrust) retains there.
+**45° back extension (hip extension)** — A hinge performed face-down on an angled pad, raising the torso until it lines up with the legs. Formally: a [hip hinge](#hiphinge) performed prone against a support inclined at roughly 45°, with the pad set below the anterior superior iliac spines so that the hip is free to move. Its distinguishing mechanical property is that its [resistance profile](#resistanceprofile) is **inverted relative to every other hinge**: [torque](#torque) demand is the trunk's weight times the *horizontal* distance from the hip to its centre of mass, so it peaks as the trunk sweeps through horizontal and falls toward the bottom, where the trunk hangs vertically and the resistance's [line of action](#lineofaction) runs down the trunk's own long axis through the hip. On a 45° bench roughly 70% of the peak demand is still present with the hip straight — more than the [hip thrust](#hipthrust) retains there. With the pad set above the hip bones so that the pelvis cannot rotate, the same exercise is classed spine-moving for the erector spinae by its set-up ([spinal role class](#spinalroleclass)) — a mechanical inference, since no study has measured that set-up and the hip-free version also moves the lower back — and its extensor moment about the lower back peaks at about 45° of trunk flexion on the pelvis (Part X §B.7).
+
+## isolatedlumbarextension
+
+*Exercises & Technique*
+
+**Isolated lumbar extension (ILEX)** — Straightening the lower back against resistance on a machine that straps the thighs and pelvis so the hips cannot help. Formally: a spine-moving, isolated resistance exercise (Part X §B.4) performed seated on a machine that mechanically restrains the pelvis, so that extension torque is produced by lumbar extension alone through the machine's range, conventionally reported as 72° (most flexed) to 0° (most extended). **The pelvic restraint is the defining feature:** training on the same machine without it raised the training load but not isolated lumbar extension strength (Graves et al., 1994). With it, once-weekly training of 6–15 repetitions to volitional fatigue plus periodic maximal isometric contractions raised isometric strength by 42% at the most flexed and 102% at the most extended position in ten weeks (Pollock et al., 1989).
+
+## kettlebellswing
+
+*Exercises & Technique*
+
+**Kettlebell swing** — Swinging a kettlebell back between your legs and up to chest height by snapping your hips forward. Formally: a ballistic [hip hinge](#hiphinge) performed with a kettlebell held in one or both hands, in which the bell is accelerated by rapid [hip extension](#hipextension) and allowed to fall back between the legs. With a 16 kg bell it produced rapid activation–relaxation cycles of about 50% of maximal activity in the back extensors and 80% in the gluteal muscles, at about 3,200 N of lumbar compression and a posterior shear of L4 on L5 (McGill & Marshall, 2012); in the one-armed version, erector activity on the side opposite the bell was 14–25% higher (Andersen et al., 2019).
 
 ## cablepullthrough
 
@@ -13566,7 +16796,7 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 *Exercises & Technique*
 
-**Reverse hyperextension** — Lying face-down on a high bench and raising the legs behind you against resistance. Formally: a [hip extension](#hipextension) exercise performed with the trunk fixed and the legs moving, on a machine whose arc of resistance determines where the [torque](#torque) demand peaks. It is popular and lightly researched: no training study has measured gluteal hypertrophy from it [consensus — no single source].
+**Reverse hyperextension** — Lying face-down on a high bench and raising the legs behind you against resistance. Formally: a [hip extension](#hipextension) exercise performed with the trunk fixed and the legs moving, on a machine whose arc of resistance determines where the [torque](#torque) demand peaks. It is popular and lightly researched: no training study has measured gluteal hypertrophy from it [consensus — no single source]. Against the 45° hyperextension it produced higher peak erector, gluteal and hamstring activity in one study (Cuthbert et al., 2021), and equivalent erector activity with a higher low-back moment and less lumbar flexion in another (Lawrence et al., 2019).
 
 ## hipabductionmachine
 
@@ -13608,7 +16838,7 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 *Exercises & Technique*
 
-**Overhead press (shoulder press, military press)** — Pressing a weight from shoulder height to arms' length above the head. Formally: a multi-joint [shoulder flexion](#shoulderflexion) and [abduction](#shoulderabduction) exercise combined with elbow extension, performed seated or standing with a barbell, dumbbells or a machine, and reaching **elevation angles above 120° that no raise covers**. Its [resistance profile](#resistanceprofile) peaks just off the shoulders and falls to zero at lockout, because with the forearm vertical the external moment at the shoulder goes as the sine of the upper arm's elevation. The shoulder's own maximum torque also falls across that arc — linearly to 55% of its 90° value by 160° (Aronis et al., 2025) — but demand falls faster than capacity, so **relative effort peaks near 105–120° and lockout is unloaded**. The exercise's useful range is roughly 90–135°. Wider grips raise the shoulder's net joint moment and lower the elbow's (Gundersen et al., 2026); the behind-the-neck variant raises middle and posterior deltoid activity (Coratella et al., 2022) at a joint position this document declines to program (Part V §E.4).
+**Overhead press (shoulder press, military press)** — Pressing a weight from shoulder height to arms' length above the head. Formally: a multi-joint [shoulder flexion](#shoulderflexion) and [abduction](#shoulderabduction) exercise combined with elbow extension, performed seated or standing with a barbell, dumbbells or a machine, and reaching **elevation angles above 120° that no raise covers**. Its [resistance profile](#resistanceprofile) peaks just off the shoulders and falls to zero at lockout, because with the forearm vertical the external moment at the shoulder goes as the sine of the upper arm's elevation. The shoulder's own maximum torque also falls across that arc — linearly to 55% of its 90° value by 160° (Aronis et al., 2025) — but demand falls faster than capacity, so **relative effort peaks near 105–120° and lockout is unloaded**. The exercise's useful range is roughly 90–135°. Wider grips raise the shoulder's net joint moment and lower the elbow's (Gundersen et al., 2026); the behind-the-neck variant raises middle and posterior deltoid activity (Coratella et al., 2022a) at a joint position this document declines to program (Part V §E.4).
 
 ## benchpress
 
@@ -13645,6 +16875,36 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 *Exercises & Technique*
 
 **Dip (parallel-bar dip)** — Supporting yourself on two bars and lowering your body between them by bending the arms. Formally: a closed-chain press in which the body descends between fixed handles, combining elbow extension with [shoulder extension](#shoulderextension) and adduction; leaning the torso forward biases it toward the chest, and staying upright biases it toward the [triceps brachii](#tricepsbrachii). Nothing stops the descent except the shoulder, so it reaches further into shoulder extension than any other pressing exercise in this document — which is both why it loads the pectoralis major's lengthened position well and why it is the least tolerable chest exercise for an irritable shoulder. **The bench dip is a different exercise**: performed with the feet on the floor and the hands behind the body, it is a triceps movement at the extreme of shoulder extension, and its peak triceps activity was lower than either the bar or the ring version's (McKenzie et al., 2022).
+
+## overheadtricepsextension
+
+*Exercises & Technique*
+
+**Overhead triceps extension** — Straightening the elbow against a cable, dumbbell or bar held behind the head, with the upper arm pointing up. Formally: a single-joint [elbow extension](#elbowextension) exercise performed in the Overhead [shoulder position class](#shoulderpositionclass), with the upper arm held still at 135° of humeral elevation or more while only the forearm moves; with a free weight and a vertical upper arm, its [resistance profile](#resistanceprofile) follows the sine of the [elbow flexion](#elbowflexion) angle, peaking at 90° and retaining about 64% of peak at 140°; with a cable facing away from the pulley, it is short-loaded unless the pulley is below the hands (Part IX §B.7). It is the exercise that lengthens the long head of triceps brachii furthest, and the only elbow-extension position shown to add whole-muscle growth over another elbow extension: 28.5% against 19.6% in the long head and 19.9% against 13.9% in the whole muscle, at loads 34–39% lower (Maeo et al., 2023).
+
+## lyingtricepsextension
+
+*Exercises & Technique*
+
+**Lying triceps extension ("skull crusher")** — Lying on a bench and bending the elbows to lower a bar or dumbbells toward the forehead, then straightening them. Formally: a single-joint [elbow extension](#elbowextension) exercise performed supine in the Raised [shoulder position class](#shoulderpositionclass), with the upper arm held vertical or tilted back toward the head; tilting it back raises the shoulder angle toward the Overhead class and moves the [resistance profile](#resistanceprofile)'s peak toward the straight-arm end of the range by the angle of the tilt, while an incline bench with the upper arm vertical to the floor raises the shoulder angle without moving the peak (Part IX §B.7). Twelve weeks of it with dumbbells at 80% of one-repetition maximum grew the triceps along its whole length, least near the elbow (Wakahara et al., 2012), and a barbell version grew the long head more than a bench press did (Brandão et al., 2020).
+
+## tricepspushdown
+
+*Exercises & Technique*
+
+**Triceps pushdown (cable pushdown)** — Standing at a high pulley and pushing a bar, rope or handle down to the thighs by straightening the elbows, with the upper arms kept at the sides. Formally: a single-joint [elbow extension](#elbowextension) exercise performed against a cable in the Down [shoulder position class](#shoulderpositionclass), with an elbow range running from about 90° of [elbow flexion](#elbowflexion) to a straight arm. It loads the lateral and medial heads through their working range with the long head short, and it is the easiest triceps exercise to take to [momentary failure](#momentaryfailure). With the arm in this position, the same elbow extension grew the long head 19.6% against 28.5% overhead (Maeo et al., 2023), and deliberate momentum on it did not change elbow-extensor growth (Augustin et al., 2025).
+
+## tricepskickback
+
+*Exercises & Technique*
+
+**Triceps kickback** — Bending forward with the upper arm held alongside the trunk and straightening the elbow to swing a dumbbell back. Formally: a single-joint [elbow extension](#elbowextension) exercise in the Down [shoulder position class](#shoulderpositionclass), with the upper arm parallel to or behind the trunk; with a free weight its [resistance profile](#resistanceprofile) follows the cosine of the [elbow flexion](#elbowflexion) angle — zero torque at 90°, maximal at a straight arm — so it is **short-loaded**. Its activation in one master's thesis was high, 87% of a reference push-up (Boehler, 2011), but it places peak load where every triceps head is shortest and elbow-extension strength is lowest, and no growth trial of it exists. It is not to be confused with the hip-extension kickback of Part IV.
+
+## closegripbenchpress
+
+*Exercises & Technique*
+
+**Close-grip bench press** — A bench press with the hands about shoulder-width apart instead of wide. Formally: a bench press performed at a [grip width](#gripwidth) of about one [biacromial width](#biacromialwidth), which raises the elbow's external moment and lowers the shoulder's: at one biacromial width the moment arm at the elbow at the bottom of a one-repetition maximum was 0.08 m against 0.00 m at 1.7 widths, and at the shoulder 0.12 m against 0.24 m (Larsen et al., 2020) — a difference confined to the bottom of the lift: at the sticking region the elbow's moment arm was 0.07 m at one biacromial width and 0.06 m at 1.7. **It is a shared exercise, counted as half a set for the pectoralis major (Part VIII §F.1) and, like every press at any grip, half a set for the triceps brachii (Part IX §F.1)** — the pectoralis major remained the most active muscle measured even at a grip narrower than any used in practice (Muyor et al., 2023).
 
 ## reversefly
 
@@ -13806,11 +17066,29 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Distal clavicular osteolysis ("weightlifter's shoulder")** — Bone at the outer end of the collarbone breaking down under repeated compression, felt as a tender bump at the very top of the shoulder. Formally: stress-related resorption of subchondral bone at the lateral end of the [clavicle](#clavicle) at the [acromioclavicular joint](#acromioclavicularjoint), associated with repetitive compressive loading and characteristically aggravated by movements carrying the arm across the body. Modelled compression at that joint during a bench press rose as the hands moved further apart, and was lower at hand spacings under 1.5 [biacromial widths](#biacromialwidth) (Noteboom et al., 2024) — which makes hand spacing the first variable to change when this is suspected, and professional assessment the second.
 
+## distaltricepsrupture
+
+*Pathology & Clinical*
+
+**Distal triceps tendon rupture** — A tear of the tendon that attaches the triceps to the point of the elbow, usually felt as a pop at the back of the elbow under a heavy load. Formally: a partial or complete disruption of the distal triceps tendon at or near its insertion on the [olecranon](#olecranon), including avulsion of the tendon from the bone with or without a bone fragment; partial tears may involve the superficial tendon or the deep insertion of the medial head alone, the latter weakening extension with the elbow bent beyond 90° (Madsen et al., 2006). It results from loading of the contracting triceps while the elbow is forced to bend (Shivdasani et al., 2024). Across 277 athletes who had one repaired, 96.4% were men and weightlifting was the most common sport at 40.7% (Vandenberg et al., 2026). It is a same-day medical assessment, not a training problem, and a full-thickness tear has been misdiagnosed as olecranon bursitis (Shivdasani et al., 2024).
+
+## snappingtriceps
+
+*Pathology & Clinical*
+
+**Snapping triceps** — A snap felt at the side of the elbow, almost always the inner side, as part of the triceps slips over the bone when the elbow bends and straightens. Formally: a dynamic dislocation of part of the triceps brachii over the medial or lateral epicondyle of the [humerus](#humerus) during [elbow flexion](#elbowflexion) and extension, producing a palpable or audible snap on active or passive movement; the medial side is much more common (Shuttlewood et al., 2017). Across 64 published cases, 90.6% had a coexisting unstable ulnar nerve and 64.1% had ulnar-nerve symptoms (Xia et al., 2026), which is why tingling into the little finger during an extension belongs with it. It is an assessment problem, not a technique problem.
+
 ## lowbackpain
 
 *Pathology & Clinical*
 
 **Chronic non-specific low back pain** — Back pain lasting more than three months that cannot be attributed to a specific identifiable cause. Formally: pain localized between the costal margins and the gluteal folds, persisting beyond twelve weeks, without an identified specific pathology such as fracture, infection, inflammatory disease, radicular syndrome or cauda equina — a diagnosis of exclusion that covers the large majority of presentations. It matters to this document for one reason: exercise treats it. Pooling **249 randomized trials**, exercise beat no treatment, usual care or placebo for pain by a clinically important margin (mean difference −15.2 on a 0–100 scale, 95% CI −18.3 to −12.2), with **moderate-certainty evidence**; the effect on functional limitations was real but below the reviewers' own threshold for clinical importance, and exercise did not differ from manual therapy (Hayden et al., 2021). What the evidence does **not** establish is that any particular mode is best, or that weak trunk muscles caused the pain (Part VI §E.4).
+
+## spondylolysis
+
+*Pathology & Clinical*
+
+**Spondylolysis** — A crack or defect in the narrow bridge of bone at the back of a vertebra. Formally: a unilateral or bilateral defect of the pars interarticularis — the isthmus of bone between the upper and lower joint processes of a vertebral arch. It matters to this Part because it is associated with back symptoms in young athletes: in 197 high school and collegiate sumo wrestlers it was found in 12.7%, and in 20.9% of those with lumbar symptoms against 5.7% of those without (Nakagawa et al., 2023). Back pain in a young athlete that is worse arching backward is an assessment problem before it is a training problem (Part X §E.4).
 
 ## diastasisrecti
 
@@ -13820,16 +17098,16 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 ---
 
-# partxbibliography
+# partxiibibliography
 
-**Part X — Bibliography**
+**Part XII — Bibliography**
 
-Every source cited in this document: **276 papers**, each with a DOI you can paste into a search box
-or a library request form — with three exceptions, noted at their entries, for which no DOI was ever
-issued and a PubMed or PubMed Central identifier is given instead. Alphabetical by first author, so an in-text citation like
+Every source cited in this document: **480 papers**, each with a DOI you can paste into a search box
+or a library request form — with nine exceptions, noted at their entries: eight for which no DOI was ever
+issued and a PubMed or PubMed Central identifier is given instead, and one master's thesis that has neither. Alphabetical by first author, so an in-text citation like
 *(Gerling & Brown, 2013)* is found by scanning for **Gerling**.
 
-**132 are open access** — free to read now. **144 are paywalled**; any university or public library can
+**226 are open access** — free to read now. **254 are paywalled**; any university or public library can
 obtain those through interlibrary loan at no cost, usually in a few days, and authors may legally
 share their own accepted manuscripts if you email them. Every DOI below was verified against
 Crossref, and open-access status against Unpaywall, at the time of writing.
@@ -13841,12 +17119,20 @@ discussion, the text says so at the claim itself — that context matters more t
 marks claims that could not be traced to a source we could read; they are flagged rather than quietly
 dropped. **Twenty-two of these papers measured the latissimus dorsi directly, twenty-eight measured the
 quadriceps femoris directly, thirty-eight measured a gluteal muscle directly, twenty-one measured a
-deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, twenty-nine measured a hamstring directly, and thirty-one measured a pectoral muscle directly**; the rest supply general training principles or the mechanical
+deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, twenty-nine measured a hamstring directly, thirty-one measured a pectoral muscle directly, at least seventy-six measured the triceps brachii or its tendon directly, and at least ninety-two measured the erector spinae, the multifidus or the lumbar extensors directly**; the rest supply general training principles or the mechanical
 framework. Where a paper's own research group has been
 the subject of a published data-integrity analysis, its entry says so. Where two or more papers by the same first author share a year, the bibliography entry
 records the `a`/`b`/`c` suffix used in the text.
 
 ---
+
+Aasa U, Svartholm I, Andersson F, Berglund L. Injuries among weightlifters and powerlifters: a systematic review. British Journal of Sports Medicine. 2017;51(4):211-219. doi:10.1136/bjsports-2016-096037 · **open access**
+
+Abdelzaher IE, Ababneh AF, Alzyoud JM. Isometric elbow extensors strength in supine- and prone-lying positions. Physiotherapy Theory and Practice. 2013;29(1):61-66. doi:10.3109/09593985.2012.673697 · *paywalled*
+
+Abe T, DeHoyos DV, Pollock ML, Garzarella L. Time course for strength and muscle thickness changes following upper and lower body resistance training in men and women. European Journal of Applied Physiology. 2000;81(3):174-180. doi:10.1007/s004210050027 · *paywalled*
+
+Abe T, Sakamaki M, Yasuda T, Bemben MG, Kondo M, Kawakami Y, et al. Age-related, site-specific muscle loss in 1507 Japanese men and women aged 20 to 95 years. Journal of Sports Science and Medicine. 2011;10(1):145-150. PMID:24149307 — no DOI was ever issued · **open access**
 
 Ackland DC, Pak P, Richardson M, Pandy MG. Moment arms of the muscles crossing the anatomical shoulder. Journal of Anatomy. 2008;213(4):383-390. doi:10.1111/j.1469-7580.2008.00965.x · **open access**
 
@@ -13854,13 +17140,25 @@ Ackland DC, Pandy MG. Moment arms of the shoulder muscles during axial rotation.
 
 Afonso J, Ramirez-Campillo R, Moscão J, Rocha T, Brandão A, Pereira J, et al. Strength Training versus Stretching for Improving Range of Motion: A Systematic Review and Meta-Analysis. Healthcare. 2021;9(4):427. doi:10.3390/healthcare9040427 · **open access**
 
+Agten A, Stevens S, Verbrugghe J, Eijnde BO, Timmermans A, Vandenabeele F. The lumbar multifidus is characterised by larger type I muscle fibres compared to the erector spinae. Anatomy & Cell Biology. 2020;53(2):143-150. doi:10.5115/acb.20.009 · **open access**
+
 Ahtiainen JP, Walker S, Peltonen H, Holviala J, Sillanpää E, Karavirta L, et al. Heterogeneity in resistance training-induced muscle strength and mass responses in men and women of different ages. Age. 2016;38(1):10. doi:10.1007/s11357-015-9870-1 · **open access**
+
+Akima H, Maeda H, Koike T, Ishida K. Effect of elbow joint angles on electromyographic activity versus force relationships of synergistic muscles of the triceps brachii. PLOS ONE. 2021;16(6):e0252644. doi:10.1371/journal.pone.0252644 · **open access**
 
 Albarello JCDS, Cabral HV, Leitão BFM, Halmenschlager GH, Lulic-Kuryllo T, Matta TT. Non-uniform excitation of pectoralis major induced by changes in bench press inclination leads to uneven variations in the cross-sectional area measured by panoramic ultrasonography. Journal of Electromyography and Kinesiology. 2022;67:102722. doi:10.1016/j.jelekin.2022.102722 · *paywalled*
 
 Alonso-Fernández D, Fernández-Rodríguez R, Abalo-Núñez R. Changes in rectus femoris architecture induced by the reverse nordic hamstring exercises. The Journal of Sports Medicine and Physical Fitness. 2019;59(4):640-647. doi:10.23736/S0022-4707.18.08873-4 · **open access**
 
+Alves D, Matta T, Oliveira L. Effect of shoulder position on triceps brachii heads activity in dumbbell elbow extension exercises. The Journal of Sports Medicine and Physical Fitness. 2018;58(9):1247-1252. doi:10.23736/S0022-4707.17.06849-9 · *paywalled*
+
+Andersen V, Fimland M, Saeterbakken A. Trunk Muscle Activity in One- and Two-Armed American Kettlebell Swing in Resistance-Trained Men. Sports Medicine International Open. 2019;3(1):E12-E18. doi:10.1055/a-0869-7228 · **open access**
+
+Andersen V, Fimland MS, Mo DA, Iversen VM, Vederhus T, Rockland Hellebø LR, et al. Electromyographic Comparison of Barbell Deadlift, Hex Bar Deadlift, and Hip Thrust Exercises: A Cross-Over Study. Journal of Strength and Conditioning Research. 2018;32(3):587-593. doi:10.1519/jsc.0000000000001826 · **open access**
+
 Andersen V, Fimland MS, Wiik E, Skoglund A, Saeterbakken AH. Effects of Grip Width on Muscle Strength and Activation in the Lat Pull-Down. Journal of Strength and Conditioning Research. 2014;28(4):1135-1142. doi:10.1097/JSC.0000000000000232 · *paywalled*
+
+Androulakis-Korakakis P, Gentil P, Fisher JP, Steele J. Comparison of Isolated Lumbar Extension Strength in Competitive and Noncompetitive Powerlifters, and Recreationally Trained Men. Journal of Strength & Conditioning Research. 2021;35(3):652-658. doi:10.1519/jsc.0000000000002722 · *paywalled*
 
 Anetai H, Kato K, Kudoh H, Sakai T, Ichimura K. Structural re-evaluation of the human gluteus maximus. Scientific Reports. 2025;15(1):21251. doi:10.1038/s41598-025-05361-x · **open access**
 
@@ -13886,6 +17184,8 @@ Balshaw TG, Funnell MP, McDermott EJ, Maden-Wilkinson TM, Massey GJ, Abela S, et
 
 Barbalho M, Coswig V, Souza D, Serrão JC, Hebling Campos M, Gentil P. Back Squat vs. Hip Thrust Resistance-training Programs in Well-trained Women. International Journal of Sports Medicine. 2020;41(5):306-310. doi:10.1055/a-1082-1126 · *paywalled* — *data-integrity concerns; see Vigotsky et al., 2020*
 
+Barco R, Sánchez P, Morrey ME, Morrey BF, Sánchez-Sotelo J. The distal triceps tendon insertional anatomy—implications for surgery. JSES Open Access. 2017;1(2):98-103. doi:10.1016/j.jses.2017.05.002 · **open access**
+
 Barker PJ, Hapuarachchi KS, Ross JA, Sambaiew E, Ranger TA, Briggs CA. Anatomy and biomechanics of gluteus maximus and the thoracolumbar fascia at the sacroiliac joint. Clinical Anatomy. 2014;27(2):234-240. doi:10.1002/ca.22233 · *paywalled*
 
 Bartolomei S, Caroli E, Coloretti V, Rosaci G, Cortesi M, Coratella G. Flat-Back vs. Arched-Back Bench Press: Examining the Different Techniques Performed by Power Athletes. Journal of Strength and Conditioning Research. 2024;38(7):1200-1205. doi:10.1519/JSC.0000000000004778 · **open access**
@@ -13898,49 +17198,103 @@ Baz-Valle E, Schoenfeld BJ, Torres-Unda J, Santos-Concejero J, Balsalobre-Ferná
 
 Behm DG, Drinkwater EJ, Willardson JM, Cowley PM. The use of instability to train the core musculature. Applied Physiology, Nutrition, and Metabolism. 2010;35(1):91-108. doi:10.1139/h09-127 · **open access**
 
+Belavý DL, Armbrecht G, Gast U, Richardson CA, Hides JA, Felsenberg D. Countermeasures against lumbar spine deconditioning in prolonged bed rest: resistive exercise with and without whole body vibration. Journal of Applied Physiology. 2010;109(6):1801-1811. doi:10.1152/japplphysiol.00707.2010 · **open access**
+
+Belavý DL, Armbrecht G, Richardson CA, Felsenberg D, Hides JA. Muscle Atrophy and Changes in Spinal Morphology. Spine. 2011;36(2):137-145. doi:10.1097/brs.0b013e3181cc93e8 · *paywalled*
+
+Bengtsson V, Aasa U, Öhberg F, Berglund L. Thoracolumbar And Lumbopelvic Spinal Alignment During The Deadlift Exercise: A Comparison Between Men And Women. International Journal of Sports Physical Therapy. 2022;17(6):1063-1074. doi:10.26603/001c.37859 · **open access**
+
 Bergmann G, Deuretzbacher G, Heller M, Graichen F, Rohlmann A, Strauss J, et al. Hip contact forces and gait patterns from routine activities. Journal of Biomechanics. 2001;34(7):859-871. doi:10.1016/S0021-9290(01)00040-9 · *paywalled*
 
 Bergmann G, Graichen F, Bender A, Rohlmann A, Halder A, Beier A, et al. In vivo gleno-humeral joint loads during forward flexion and abduction. Journal of Biomechanics. 2011;44(8):1543-1552. doi:10.1016/j.jbiomech.2011.02.142 · *paywalled*
 
+Berry DB, Padwal J, Johnson S, Englund EK, Ward SR, Shahidi B. The effect of high-intensity resistance exercise on lumbar musculature in patients with low back pain: a preliminary study. BMC Musculoskeletal Disorders. 2019;20(1):290. doi:10.1186/s12891-019-2658-1 · **open access**
+
 Bickel CS, Cross JM, Bamman MM. Exercise Dosing to Retain Resistance Training Adaptations in Young and Older Adults. Medicine & Science in Sports & Exercise. 2011;43(7):1177-1187. doi:10.1249/MSS.0b013e318207c15d · *paywalled*
+
+Biering-Sørensen F. Physical Measurements as Risk Indicators for Low-Back Trouble Over a One-Year Period. Spine. 1984;9(2):106-119. doi:10.1097/00007632-198403000-00002 · *paywalled*
+
+Biscarini A, Calandra A, Contemori S. Three-dimensional mechanical modeling of the barbell bench press exercise: Unveiling the biomechanical function of the triceps brachii. Proceedings of the Institution of Mechanical Engineers, Part P: Journal of Sports Engineering and Technology. 2020;234(3):245-256. doi:10.1177/1754337120917831 · *paywalled*
+
+Blazek D, Stastny P, Maszczyk A, Krawczyk M, Matykiewicz P, Petr M. Systematic review of intra-abdominal and intrathoracic pressures initiated by the Valsalva manoeuvre during high-intensity resistance exercises. Biology of Sport. 2019;36(4):373-386. doi:10.5114/biolsport.2019.88759 · **open access**
 
 Blemker SS, Delp SL. Three-Dimensional Representation of Complex Muscle Architectures and Geometries. Annals of Biomedical Engineering. 2005;33(5):661-673. doi:10.1007/s10439-005-1433-7 · *paywalled*
 
 Bloomquist K, Langberg H, Karlsen S, Madsgaard S, Boesen M, Raastad T. Effect of range of motion in heavy load squatting on muscle and tendon adaptations. European Journal of Applied Physiology. 2013;113(8):2133-2142. doi:10.1007/s00421-013-2642-7 · **open access**
 
+Boehler B. Electromyographic analysis of the triceps brachii muscle during a variety of triceps exercises. Master's thesis, University of Wisconsin–La Crosse. 2011. No DOI or PubMed identifier exists · **open access** — *master's thesis; not peer reviewed*
+
 Bogduk N, Johnson G, Spalding D. The morphology and biomechanics of latissimus dorsi. Clinical Biomechanics. 1998;13(6):377-385. doi:10.1016/S0268-0033(98)00102-8 · *paywalled*
 
-Bogduk N, Macintosh JE, Pearcy MJ. A Universal Model of the Lumbar Back Muscles in the Upright Position. Spine. 1992;17(8):897-913. doi:10.1097/00007632-199208000-00007 · *paywalled*
+Bogduk N, Macintosh JE, Pearcy MJ. A Universal Model of the Lumbar Back Muscles in the Upright Position [cited as Bogduk et al., 1992a]. Spine. 1992;17(8):897-913. doi:10.1097/00007632-199208000-00007 · *paywalled*
 
-Bogduk N, Pearcy M, Hadfield G. Anatomy and biomechanics of psoas major. Clinical Biomechanics. 1992;7(2):109-119. doi:10.1016/0268-0033(92)90024-X · *paywalled*
+Bogduk N, Macintosh JE. The Applied Anatomy of the Thoracolumbar Fascia. Spine. 1984;9(2):164-170. doi:10.1097/00007632-198403000-00006 · *paywalled*
+
+Bogduk N, Pearcy M, Hadfield G. Anatomy and biomechanics of psoas major [cited as Bogduk et al., 1992b]. Clinical Biomechanics. 1992;7(2):109-119. doi:10.1016/0268-0033(92)90024-X · *paywalled*
+
+Bogduk N, Wilson AS, Tynan W. The human lumbar dorsal rami. Journal of Anatomy. 1982;134(Pt 2):383-397. PMID:7076562 — no DOI was ever issued · **open access**
+
+Bogduk N. A reappraisal of the anatomy of the human lumbar erector spinae. Journal of Anatomy. 1980;131(Pt 3):525-540. PMID:7216917 — no DOI was ever issued · **open access**
+
+Bohannon RW. Shoulder Position Influences Elbow Extension Force in Healthy Individuals. Journal of Orthopaedic & Sports Physical Therapy. 1990;12(3):111-114. doi:10.2519/jospt.1990.12.3.111 · *paywalled*
 
 Bourne MN, Duhig SJ, Timmins RG, Williams MD, Opar DA, Al Najjar A, et al. Impact of the Nordic hamstring and hip extension exercises on hamstring architecture and morphology: implications for injury prevention [cited as Bourne et al., 2017a]. British Journal of Sports Medicine. 2017;51(5):469-477. doi:10.1136/bjsports-2016-096130 · **open access** — a correction was published in 2019 (doi:10.1136/bjsports-2016-096130corr1).
 
 Bourne MN, Williams MD, Opar DA, Al Najjar A, Kerr GK, Shield AJ. Impact of exercise selection on hamstring muscle activation [cited as Bourne et al., 2017b]. British Journal of Sports Medicine. 2017;51(13):1021-1028. doi:10.1136/bjsports-2015-095739 · **open access**
 
+Bourne ND, Reilly T. Effect of a weightlifting belt on spinal shrinkage. British Journal of Sports Medicine. 1991;25(4):209-212. doi:10.1136/bjsm.25.4.209 · **open access**
+
+Brandão L, de Salles Painelli V, Lasevicius T, Silva-Batista C, Brendon H, Schoenfeld BJ, et al. Varying the Order of Combinations of Single- and Multi-Joint Exercises Differentially Affects Resistance Training Adaptations. Journal of Strength and Conditioning Research. 2020;34(5):1254-1263. doi:10.1519/JSC.0000000000003550 · *paywalled*
+
 Brazil A, Needham L, Palmer JL, Bezodis IN. A comprehensive biomechanical analysis of the barbell hip thrust. PLOS ONE. 2021;16(3):e0249307. doi:10.1371/journal.pone.0249307 · **open access**
+
+Brechue WF, Abe T. The role of FFM accumulation and skeletal muscle architecture in powerlifting performance. European Journal of Applied Physiology. 2002;86(4):327-336. doi:10.1007/s00421-001-0543-7 · *paywalled*
+
+Brennecke A, Guimarães TM, Leone R, Cadarci M, Mochizuki L, Simão R, et al. Neuromuscular Activity During Bench Press Exercise Performed With and Without the Preexhaustion Method. Journal of Strength and Conditioning Research. 2009;23(7):1933-1940. doi:10.1519/JSC.0b013e3181b73b8f · *paywalled*
+
+Brigatto FA, Braz TV, Zanini TCDC, Germano MD, Aoki MS, Schoenfeld BJ, et al. Effect of Resistance Training Frequency on Neuromuscular Performance and Muscle Morphology After 8 Weeks in Trained Men. Journal of Strength and Conditioning Research. 2019;33(8):2104-2116. doi:10.1519/JSC.0000000000002563 · *paywalled*
 
 Brown JMM, Wickham JB, McAndrew DJ, Huang XF. Muscles within muscles: Coordination of 19 muscle segments within three shoulder muscles during isometric motor tasks. Journal of Electromyography and Kinesiology. 2007;17(1):57-73. doi:10.1016/j.jelekin.2005.10.007 · *paywalled*
 
 Brown SHM, Ward SR, Cook MS, Lieber RL. Architectural analysis of human abdominal wall muscles: implications for mechanical function. Spine. 2011;36(5):355-362. doi:10.1097/BRS.0b013e3181d12ed7 · **open access**
 
+Bruce-Low S, Smith D, Burnet S, Fisher J, Bissell G, Webster L. One lumbar extension training session per week is sufficient for strength gains and reductions in pain in patients with chronic low back pain. Ergonomics. 2012;55(4):500-507. doi:10.1080/00140139.2011.644329 · *paywalled*
+
 Buonsenso A, Di Fonza D, Di Claudio G, et al. Electromyographic Analysis of Back Muscle Activation During Lat Pulldown Exercise: Effects of Grip Variations and Forearm Orientation. Journal of Functional Morphology and Kinesiology. 2025;10(3):345. doi:10.3390/jfmk10030345 · **open access**
+
+Burkhart K, Allaire B, Bouxsein ML. Negative Effects of Long-duration Spaceflight on Paraspinal Muscle Morphology. Spine. 2019;44(12):879-886. doi:10.1097/brs.0000000000002959 · *paywalled*
 
 Calatayud J, Borreani S, Colado JC, Martin F, Tella V, Andersen LL. Bench Press and Push-up at Comparable Levels of Muscle Activity Results in Similar Strength Gains. Journal of Strength and Conditioning Research. 2015;29(1):246-253. doi:10.1519/JSC.0000000000000589 · **open access**
 
+Callaghan JP, Gunning JL, McGill SM. The Relationship Between Lumbar Spine Load and Muscle Activity During Extensor Exercises. Physical Therapy. 1998;78(1):8-18. doi:10.1093/ptj/78.1.8 · *paywalled*
+
 Callaghan JP, McGill SM. Intervertebral disc herniation: studies on a porcine model exposed to highly repetitive flexion/extension motion with compressive force. Clinical Biomechanics. 2001;16(1):28-37. doi:10.1016/S0268-0033(00)00063-2 · *paywalled*
+
+Camara KD, Coburn JW, Dunnick DD, Brown LE, Galpin AJ, Costa PB. An Examination of Muscle Activation and Power Characteristics While Performing the Deadlift Exercise With Straight and Hexagonal Barbells. Journal of Strength and Conditioning Research. 2016;30(5):1183-1188. doi:10.1519/jsc.0000000000001352 · *paywalled*
 
 Cannon J, Weithman BA, Powers CM. Activation training facilitates gluteus maximus recruitment during weight-bearing strengthening exercises. Journal of Electromyography and Kinesiology. 2022;63:102643. doi:10.1016/j.jelekin.2022.102643 · *paywalled*
 
+Carpenter DM, Graves JE, Pollock ML, Leggett SH, Foster D, Holmes B, et al. Effect of 12 and 20 Weeks of Resistance Training on Lumbar Extension Torque Production. Physical Therapy. 1991;71(8):580-588. doi:10.1093/ptj/71.8.580 · *paywalled*
+
 Caterisano A, Moss RF, Pellinger TK, Woodruff K, Lewis VC, Booth W, et al. The Effect of Back Squat Depth on the EMG Activity of 4 Superficial Hip and Thigh Muscles. Journal of Strength and Conditioning Research. 2002;16(3):428-432. doi:10.1519/00124278-200208000-00014 · *paywalled*
 
+Çergel Y, Topuz O, Alkan H, Sarsan A, Sabir Akkoyunlu N. The effects of short-term back extensor strength training in postmenopausal osteoporotic women with vertebral fractures: comparison of supervised and home exercise program. Archives of Osteoporosis. 2019;14(1):82. doi:10.1007/s11657-019-0632-z · *paywalled*
+
 Chaves SFN, Rocha-Júnior VA, Encarnação IGA, Martins-Costa HC, Freitas EDS, Coelho DB, et al. Effects of Horizontal and Incline Bench Press on Neuromuscular Adaptations in Untrained Young Men. International Journal of Exercise Science. 2020;13(6):859-872. doi:10.70252/FDNB1158 · **open access**
+
+Chaware PN, Santoshi JA, Patel M, Ahmad M, Rathinam BAD. Surgical Implications of Innervation Pattern of the Triceps Muscle: A Cadaveric Study. Journal of Hand and Microsurgery. 2018;10(3):139-142. doi:10.1055/s-0038-1660771 · **open access**
 
 Chen X, Sanchez GN, Schnitzer MJ, Delp SL. Changes in sarcomere lengths of the human vastus lateralis muscle with knee flexion measured using in vivo microendoscopy. Journal of Biomechanics. 2016;49(13):2989-2994. doi:10.1016/j.jbiomech.2016.07.013 · *paywalled*
 
 Chen Z, Franklin DW. Muscle Moment Arm–Joint Angle Relations in the Hip, Knee, and Ankle: A Visualization of Datasets. Annals of Biomedical Engineering. 2025;53(8):1757-1776. doi:10.1007/s10439-025-03735-w · **open access**
 
+Cherni B, Marzouki H, Selmi O, Attar WA, Chamari K, Suzuki K. Beyond the Neutral Spine: A Narrative Review and Modern Framework for Low Back Injury Prevention in Deadlifting. Sports. 2026;14(4):151. doi:10.3390/sports14040151 · **open access**
+
 Cholewicki J, Juluru K, McGill SM. Intra-abdominal pressure mechanism for stabilizing the lumbar spine. Journal of Biomechanics. 1999;32(1):13-17. doi:10.1016/S0021-9290(98)00129-8 · **open access**
+
+Cholewicki J, McGill SM, Norman RW. Lumbar spine loads during the lifting of extremely heavy weights. Medicine & Science in Sports & Exercise. 1991;23(10):1179-1186. doi:10.1249/00005768-199110000-00012 · *paywalled*
+
+Cholewicki J, McGill SM. Lumbar posterior ligament involvement during extremely heavy lifts estimated from fluoroscopic measurements. Journal of Biomechanics. 1992;25(1):17-28. doi:10.1016/0021-9290(92)90242-s · *paywalled*
 
 Chumanov ES, Heiderscheit BC, Thelen DG. Hamstring Musculotendon Dynamics during Stance and Swing Phases of High-Speed Running. Medicine & Science in Sports & Exercise. 2011;43(3):525-532. doi:10.1249/MSS.0b013e3181f23fe8 · **open access**
 
@@ -13960,15 +17314,33 @@ Contreras B, Vigotsky AD, Schoenfeld BJ, Beardsley C, Cronin J. A Comparison of 
 
 Contreras B, Vigotsky AD, Schoenfeld BJ, Beardsley C, Cronin J. A Comparison of Gluteus Maximus, Biceps Femoris, and Vastus Lateralis Electromyography Amplitude in the Parallel, Full, and Front Squat Variations in Resistance-Trained Females. Journal of Applied Biomechanics. 2016a;32(1):16-22. doi:10.1123/jab.2015-0113 · *paywalled*
 
+Conway R, Behennah J, Fisher J, Osborne N, Steele J. Associations between Trunk Extension Endurance and Isolated Lumbar Extension Strength in Both Asymptomatic Participants and Those with Chronic Low Back Pain. Healthcare. 2016;4(3):70. doi:10.3390/healthcare4030070 · **open access**
+
 Coratella G, Tornatore G, Longo S, Esposito F, Cè E. An Electromyographic Analysis of Lateral Raise Variations and Frontal Raise in Competitive Bodybuilders. International Journal of Environmental Research and Public Health. 2020;17(17):6015. doi:10.3390/ijerph17176015 · **open access**
 
-Coratella G, Tornatore G, Longo S, Esposito F, Cè E. Front vs Back and Barbell vs Machine Overhead Press: An Electromyographic Analysis and Implications For Resistance Training. Frontiers in Physiology. 2022;13:825880. doi:10.3389/fphys.2022.825880 · **open access**
+Coratella G, Tornatore G, Longo S, Esposito F, Cè E. An Electromyographic Analysis of Romanian, Step-Romanian, and Stiff-Leg Deadlift: Implication for Resistance Training [cited as Coratella et al., 2022b]. International Journal of Environmental Research and Public Health. 2022;19(3):1903. doi:10.3390/ijerph19031903 · **open access**
+
+Coratella G, Tornatore G, Longo S, Esposito F, Cè E. Front vs Back and Barbell vs Machine Overhead Press: An Electromyographic Analysis and Implications For Resistance Training [cited as Coratella et al., 2022a]. Frontiers in Physiology. 2022;13:825880. doi:10.3389/fphys.2022.825880 · **open access**
+
+Crawford RJ, Filli L, Elliott JM, Nanz D, Fischer MA, Marcon M, et al. Age- and Level-Dependence of Fatty Infiltration in Lumbar Paravertebral Muscles of Healthy Volunteers. American Journal of Neuroradiology. 2016;37(4):742-748. doi:10.3174/ajnr.a4596 · **open access**
 
 Currier BS, D'Souza AC, Fiatarone Singh MA, Kirk B, Phillips SM, et al. American College of Sports Medicine Position Stand. Resistance Training Prescription for Muscle Function, Hypertrophy, and Physical Performance in Healthy Adults: An Overview of Reviews. Medicine & Science in Sports & Exercise. 2026;58(4):851-872. doi:10.1249/MSS.0000000000003897 · **open access**
 
+Cuthbert M, Ripley NJ, Suchomel TJ, Alejo R, McMahon JJ, Comfort P. Electromyographical Differences Between the Hyperextension and Reverse-Hyperextension. Journal of Strength & Conditioning Research. 2021;35(6):1477-1483. doi:10.1519/jsc.0000000000004049 · **open access**
+
 da Silva JJ, Schoenfeld BJ, Marchetti PN, Pecoraro SL, Greve JMD, Marchetti PH. Muscle Activation Differs Between Partial and Full Back Squat Exercise With External Load Equated. Journal of Strength and Conditioning Research. 2017;31(6):1688-1693. doi:10.1519/JSC.0000000000001713 · *paywalled*
 
+da Silva R, Larivière C, Arsenault A, Nadeau S, Plamondon A. Effect of pelvic stabilization and hip position on trunk extensor activity during back extension exercises on a roman chair. Journal of Rehabilitation Medicine. 2009;41(3):136-142. doi:10.2340/16501977-0305 · **open access**
+
+Daggfeldt K, Huang QM, Thorstensson A. The Visible Human Anatomy of the Lumbar Erector Spinae. Spine. 2000;25(21):2719-2725. doi:10.1097/00007632-200011010-00002 · *paywalled*
+
 Damas F, Phillips SM, Libardi CA, Vechin FC, Lixandrão ME, Jannig PR, et al. Resistance training-induced changes in integrated myofibrillar protein synthesis are related to hypertrophy only after attenuation of muscle damage. The Journal of Physiology. 2016;594(18):5209-5222. doi:10.1113/JP272472 · **open access**
+
+Danneels LA, Cools AM, Vanderstraeten GG, Cambier DC, Witvrouw EE, Bourgois J, et al. The effects of three different training modalities on the cross-sectional area of the paravertebral muscles [cited as Danneels et al., 2001b]. Scandinavian Journal of Medicine & Science in Sports. 2001;11(6):335-341. doi:10.1034/j.1600-0838.2001.110604.x · *paywalled*
+
+Danneels LA, Vanderstraeten GG, Cambier DC, Witvrouw EE, Bourgois J, Dankaerts W, et al. Effects of three different training modalities on the cross sectional area of the lumbar multifidus muscle in patients with chronic low back pain [cited as Danneels et al., 2001a]. British Journal of Sports Medicine. 2001;35(3):186-191. doi:10.1136/bjsm.35.3.186 · **open access**
+
+De Martino E, Hides J, Elliott JM, Hoggarth MA, Zange J, Lindsay K, et al. The Effects of Reconditioning Exercises Following Prolonged Bed Rest on Lumbopelvic Muscle Volume and Accumulation of Paraspinal Muscle Fat. Frontiers in Physiology. 2022;13:862793. doi:10.3389/fphys.2022.862793 · **open access**
 
 Delgado J, Drinkwater EJ, Banyard HG, Haff GG, Nosaka K. Comparison Between Back Squat, Romanian Deadlift, and Barbell Hip Thrust for Leg and Hip Muscle Activities During Hip Extension. Journal of Strength and Conditioning Research. 2019;33(10):2595-2601. doi:10.1519/JSC.0000000000003290 · **open access**
 
@@ -13976,15 +17348,31 @@ Delp SL, Hess WE, Hungerford DS, Jones LC. Variation of rotation moment arms wit
 
 Delp SL, Suryanarayanan S, Murray WM, Uhlir J, Triolo RJ. Architecture of the rectus abdominis, quadratus lumborum, and erector spinae. Journal of Biomechanics. 2001;34(3):371-375. doi:10.1016/S0021-9290(00)00202-5 · *paywalled*
 
+Demoulin C, Vanderthommen M, Duysens C, Crielaard JM. Spinal muscle evaluation using the Sorensen test: a critical appraisal of the literature. Joint Bone Spine. 2006;73(1):43-50. doi:10.1016/j.jbspin.2004.08.002 · *paywalled*
+
 Deng W, Lin M, Yu S, Liang H, Zhang Z, Tang C, et al. Effects of Hip Joint Angle on Quadriceps Recruitment Pattern During Knee Extension in Healthy Individuals: Analysis by Ultrasound-Based Shear-Wave Elastography. Frontiers in Physiology. 2022;13:836435. doi:10.3389/fphys.2022.836435 · **open access**
 
+Doheny EP, Lowery MM, FitzPatrick DP, O'Malley MJ. Effect of elbow joint angle on force–EMG relationships in human elbow flexor and extensor muscles. Journal of Electromyography and Kinesiology. 2008;18(5):760-770. doi:10.1016/j.jelekin.2007.03.006 · *paywalled*
+
+Dolan P, Adams MA. The relationship between EMG activity and extensor moment generation in the erector spinae muscles during bending and lifting activities. Journal of Biomechanics. 1993;26(4-5):513-522. doi:10.1016/0021-9290(93)90013-5 · *paywalled*
+
+Dolan P, Mannion AF, Adams MA. Passive tissues help the back muscles to generate extensor moments during lifting. Journal of Biomechanics. 1994;27(8):1077-1085. doi:10.1016/0021-9290(94)90224-0 · *paywalled*
+
 Doma K, Deakin GB, Ness KF. Kinematic and electromyographic comparisons between chin-ups and lat-pull down exercises. Sports Biomechanics. 2013;12(3):302-313. doi:10.1080/14763141.2012.760204 · *paywalled*
+
+Domokos B, Domokos J, Andersson G, Mannel S, Weigel LM, Koch HJ, et al. Isolated lumbar extension exercise alone or in a multimodal program for low back pain and radiculopathy: a non-randomized controlled trial. Scientific Reports. 2025;15(1):37157. doi:10.1038/s41598-025-22452-x · **open access**
+
+Donkers MJ, An KN, Chao EYS, Morrey BF. Hand position affects elbow joint load during push-up exercise. Journal of Biomechanics. 1993;26(6):625-632. doi:10.1016/0021-9290(93)90026-B · *paywalled*
 
 Dorado C, Calbet JAL, Lopez-Gordillo A, Alayon S, Sanchis-Moysi J. Marked Effects of Pilates on the Abdominal Muscles: A Longitudinal Magnetic Resonance Imaging Study. Medicine & Science in Sports & Exercise. 2012;44(8):1589-1594. doi:10.1249/MSS.0b013e31824fb6ae · *paywalled*
 
 Downie A, Williams CM, Henschke N, Hancock MJ, Ostelo RWJG, de Vet HCW, et al. Red flags to screen for malignancy and fracture in patients with low back pain: systematic review. BMJ. 2013;347:f7095. doi:10.1136/bmj.f7095 · **open access**
 
+Dreischarf M, Rohlmann A, Graichen F, Bergmann G, Schmidt H. In vivo loads on a vertebral body replacement during different lifting techniques. Journal of Biomechanics. 2016;49(6):890-895. doi:10.1016/j.jbiomech.2015.09.034 · *paywalled*
+
 Earp JE, Newton RU, Cormie P, Blazevich AJ. Inhomogeneous Quadriceps Femoris Hypertrophy in Response to Strength and Power Training. Medicine & Science in Sports & Exercise. 2015;47(11):2389-2397. doi:10.1249/MSS.0000000000000669 · **open access**
+
+Edinborough L, Fisher JP, Steele J. A Comparison of the Effect of Kettlebell Swings and Isolated Lumbar Extension Training on Acute Torque Production of the Lumbar Extensors. Journal of Strength and Conditioning Research. 2016;30(5):1189-1195. doi:10.1519/jsc.0000000000001215 · *paywalled*
 
 Ekstrand J, Hägglund M, Waldén M. Epidemiology of Muscle Injuries in Professional Football (Soccer). The American Journal of Sports Medicine. 2011;39(6):1226-1232. doi:10.1177/0363546510395879 · **open access**
 
@@ -13994,7 +17382,11 @@ Ema R, Sakaguchi M, Akagi R, Kawakami Y. Unique activation of the quadriceps fem
 
 Ema R, Wakahara T, Miyamoto N, Kanehisa H, Kawakami Y. Inhomogeneous architectural changes of the quadriceps femoris induced by resistance training. European Journal of Applied Physiology. 2013;113(11):2691-2703. doi:10.1007/s00421-013-2700-1 · *paywalled*
 
+Emanuelsson EB, Berry DB, Reitzner SM, Arif M, Mardinoglu A, Gustafsson T, et al. MRI characterization of skeletal muscle size and fatty infiltration in long-term trained and untrained individuals. Physiological Reports. 2022;10(14):e15398. doi:10.14814/phy2.15398 · **open access**
+
 Enes A, Oneda G, Leonel DF, Lemos L, Alves F, Ferreira LHB, et al. The effects of squat variations on strength and quadriceps hypertrophy adaptations in recreationally trained females. European Journal of Sport Science. 2024;24(1):6-15. doi:10.1002/ejsc.12042 · **open access**
+
+Erdağı K, Poyraz N. The determination of the cross-sectional area of the lumbar erector spinae muscles of Olympic style weightlifting athletes by using MRI. Journal of Back and Musculoskeletal Rehabilitation. 2020;33(3):405-412. doi:10.3233/bmr-191725 · *paywalled*
 
 Escamilla RF, Babb E, DeWitt R, Jew P, Kelleher P, Burnham T, et al. Electromyographic Analysis of Traditional and Nontraditional Abdominal Exercises: Implications for Rehabilitation and Training. Physical Therapy. 2006;86(5):656-671. doi:10.1093/ptj/86.5.656 · **open access**
 
@@ -14004,7 +17396,11 @@ Escamilla RF, Fleisig GS, Zheng N, Barrentine SW, Wilk KE, Andrews JR. Biomechan
 
 Escamilla RF, Fleisig GS, Zheng N, Lander JE, Barrentine SW, Andrews JR, et al. Effects of technique variations on knee biomechanics during the squat and leg press [cited as Escamilla et al., 2001b]. Medicine & Science in Sports & Exercise. 2001;33(9):1552-1566. doi:10.1097/00005768-200109000-00020 · *paywalled*
 
+Escamilla RF, Francisco AC, Fleisig GS, Barrentine SW, Welch CM, Kayes AV, et al. A three-dimensional biomechanical analysis of sumo and conventional style deadlifts. Medicine & Science in Sports & Exercise. 2000;32(7):1265-1275. doi:10.1097/00005768-200007000-00013 · *paywalled*
+
 Escamilla RF. Knee biomechanics of the dynamic squat exercise. Medicine & Science in Sports & Exercise. 2001;33(1):127-141. doi:10.1097/00005768-200101000-00020 · *paywalled*
+
+Esola MA, McClure PW, Fitzgerald GK, Siegler S. Analysis of Lumbar Spine and Hip Motion During Forward Bending in Subjects With and Without a History of Low Back Pain. Spine. 1996;21(1):71-78. doi:10.1097/00007632-199601010-00017 · *paywalled*
 
 Evangelista P, Rum L, Picerno P, Biscarini A. Decoding the Contribution of Shoulder and Elbow Mechanics to Barbell Kinematics and the Sticking Region in Bench and Overhead Press Exercises: A Link-Chain Model with Single- and Two-Joint Muscles. Journal of Functional Morphology and Kinesiology. 2025;10(3):322. doi:10.3390/jfmk10030322 · **open access**
 
@@ -14012,11 +17408,19 @@ Fenwick CMJ, Brown SHM, McGill SM. Comparison of Different Rowing Exercises: Tru
 
 Fischer J, Burger C, Manieu Seguel JA, Rodoplu C, Paternoster FK, Tilp M, et al. Acute muscle excitation response across various bench press ranges of motion. Scientific Reports. 2025;15(1):14105. doi:10.1038/s41598-025-98354-9 · **open access**
 
+Fisher J, Bruce-Low S, Smith D. A randomized trial to consider the effect of Romanian deadlift exercise on the development of lumbar extension strength. Physical Therapy in Sport. 2013;14(3):139-145. doi:10.1016/j.ptsp.2012.04.001 · *paywalled*
+
+Fisher JP, Stuart C, Steele J, Gentil P, Giessing J. Heavier- and lighter-load isolated lumbar extension resistance training produce similar strength increases, but different perceptual responses, in healthy males and females. PeerJ. 2018;6:e6001. doi:10.7717/peerj.6001 · **open access**
+
 Flack NAMS, Nicholson HD, Woodley SJ. A review of the anatomy of the hip abductor muscles, gluteus medius, gluteus minimus, and tensor fascia lata. Clinical Anatomy. 2012;25(6):697-708. doi:10.1002/ca.22004 · *paywalled*
+
+Fortin M, Rye M, Roussac A, Montpetit C, Burdick J, Naghdi N, et al. The Effects of Combined Motor Control and Isolated Extensor Strengthening versus General Exercise on Paraspinal Muscle Morphology, Composition, and Function in Patients with Chronic Low Back Pain: A Randomized Controlled Trial. Journal of Clinical Medicine. 2023;12(18):5920. doi:10.3390/jcm12185920 · **open access**
 
 Franke RA, Botton CE, Rodrigues R, Pinto RS, Lima CS. Analysis of anterior, middle and posterior deltoid activation during single and multijoint exercises. The Journal of Sports Medicine and Physical Fitness. 2015;55(7-8):714-721. PMID:24947920 · *paywalled* — *no DOI was ever issued for this article; the PubMed identifier reaches the record and the abstract*
 
 Fridén J, Lieber RL. Quantitative evaluation of the posterior deltoid to triceps tendon transfer based on muscle architectural properties. The Journal of Hand Surgery. 2001;26(1):147-155. doi:10.1053/jhsu.2001.20161 · *paywalled*
+
+Fritsch L, Lacheta L, Kühne N, Lappen S, Hinz M, Siebenlist S, et al. Clinical and Cosmetic Results After Double-Row Reconstruction of the Distal Triceps Tendon in an Athletic Population: A Retrospective Case Series of 70 Patients With a Mean Follow-up of 6 Years. The American Journal of Sports Medicine. 2026;54(1):174-179. doi:10.1177/03635465251389010 · **open access**
 
 Fry AC, Smith JC, Schilling BK. Effect of Knee Position on Hip and Knee Torques During the Barbell Squat. Journal of Strength and Conditioning Research. 2003;17(4):629-633. doi:10.1519/00124278-200311000-00001 · *paywalled*
 
@@ -14028,13 +17432,29 @@ Ganderton C, Semciw A, Cook J, Moreira E, Pizzari T. Gluteal Loading Versus Sham
 
 Garner BA, Pandy MG. Estimation of Musculotendon Properties in the Human Upper Limb. Annals of Biomedical Engineering. 2003;31(2):207-220. doi:10.1114/1.1540105 · *paywalled*
 
+Gavanda S, Wischtukat D, Ruckdeschel M, Geisler S, Held S. Training with an elastic bench press device provides comparable adaptations to conventional resistance training in trained men. Biology of Sport. 2026;43:839-846. doi:10.5114/biolsport.2026.157993 · **open access**
+
 Gerling ME, Brown SHM. Architectural analysis and predicted functional capability of the human latissimus dorsi muscle. Journal of Anatomy. 2013;223(2):112-122. doi:10.1111/joa.12074 · **open access**
 
+Gibbons LE, Videman T, Battié MC, Kaprio J. Determinants of Paraspinal Muscle Cross-sectional Area in Male Monozygotic Twins. Physical Therapy. 1998;78(6):602-610. doi:10.1093/ptj/78.6.602 · **open access**
+
 Gomo O, van den Tillaar R. The effects of grip width on sticking region in bench press. Journal of Sports Sciences. 2016;34(3):232-238. doi:10.1080/02640414.2015.1046395 · *paywalled*
+
+Goto M, Maeda C, Hirayama T, Terada S, Nirengi S, Kurosawa Y, et al. Partial Range of Motion Exercise Is Effective for Facilitating Muscle Hypertrophy and Function Through Sustained Intramuscular Hypoxia in Young Trained Men. Journal of Strength and Conditioning Research. 2019;33(5):1286-1294. doi:10.1519/JSC.0000000000002051 · *paywalled*
 
 Gottschall JS, Hastings B, Becker Z. Muscle Activity Patterns do not Differ Between Push-Up and Bench Press Exercises. Journal of Applied Biomechanics. 2018;34(6):442-447. doi:10.1123/jab.2017-0063 · *paywalled*
 
 Graichen H, Hinterwimmer S, von Eisenhart-Rothe R, Vogl T, Englmeier KH, Eckstein F. Effect of abducting and adducting muscle activity on glenohumeral translation, scapular kinematics and subacromial space width in vivo. Journal of Biomechanics. 2005;38(4):755-760. doi:10.1016/j.jbiomech.2004.05.020 · *paywalled*
+
+Granhed H, Jonson R, Hansson T. The Loads on the Lumbar Spine During Extreme Weight Lifting. Spine. 1987;12(2):146-149. doi:10.1097/00007632-198703000-00010 · *paywalled*
+
+Graves JE, Pollock ML, Carpenter DM, Leggett SH, Jones A, MacMillan M, et al. Quantitative Assessment of Full Range-of-Motion Isometric Lumbar Extension Strength [cited as Graves et al., 1990a]. Spine. 1990;15(4):289-294. doi:10.1097/00007632-199004000-00008 · *paywalled*
+
+Graves JE, Pollock ML, Foster D, Leggett SH, Carpenter DM, Vuoso R, et al. Effect of Training Frequency and Specificity on Isometric Lumbar Extension Strength [cited as Graves et al., 1990b]. Spine. 1990;15(6):504-509. doi:10.1097/00007632-199006000-00014 · *paywalled*
+
+Graves JE, Pollock ML, Leggett SH, Carpenter DM, Fix CK, Fulton MN. Limited range-of-motion lumbar extension strength training. Medicine & Science in Sports & Exercise. 1992;24(1):128-133. doi:10.1249/00005768-199201000-00021 · *paywalled*
+
+Graves JE, Webb DC, Pollock ML, Matkozich J, Leggett SH, Carpenter DM, et al. Pelvic stabilization during resistance training: Its effect on the development of lumbar extension strength. Archives of Physical Medicine and Rehabilitation. 1994;75(2):210-215. doi:10.1016/0003-9993(94)90398-0 · *paywalled*
 
 Gray HA, Guan S, Thomeer LT, Pandy MG. Moment arm of the knee-extensor mechanism measured in vivo across a range of daily activities. Journal of Biomechanics. 2021;123:110484. doi:10.1016/j.jbiomech.2021.110484 · *paywalled*
 
@@ -14048,13 +17468,23 @@ Grimaldi A, Fearon A. Gluteal Tendinopathy: Integrating Pathomechanics and Clini
 
 Grob K, Ackland T, Kuster MS, Manestar M, Filgueira L. A newly discovered muscle: The tensor of the vastus intermedius. Clinical Anatomy. 2016;29(2):256-263. doi:10.1002/ca.22680 · *paywalled*
 
+Gullett JC, Tillman MD, Gutierrez GM, Chow JW. A Biomechanical Comparison of Back and Front Squats in Healthy Trained Individuals. Journal of Strength and Conditioning Research. 2009;23(1):284-292. doi:10.1519/jsc.0b013e31818546bb · *paywalled*
+
 Gundersen AH, Krosshaug T, Mausehund L, van den Tillaar R, Larsen S. The impact of grip width on kinetics and kinematics in the shoulder press among resistance-trained men. Sports Biomechanics. 2026;25(6):841-854. doi:10.1080/14763141.2025.2590028 · **open access**
+
+Gundersen AH, van den Tillaar R, Falch H, Larsen S. A comparison of spinal and lower extremity biomechanics during maximal and sub-maximal deadlifts among strength-trained women. PeerJ. 2025;13:e20279. doi:10.7717/peerj.20279 · **open access**
 
 Häggmark T, Thorstensson A. Fibre types in human abdominal muscles. Acta Physiologica Scandinavica. 1979;107(4):319-325. doi:10.1111/j.1748-1716.1979.tb06482.x · *paywalled*
 
 Halperin I, Malleron T, Har-Nir I, Androulakis-Korakakis P, Wolf M, Fisher J, et al. Accuracy in Predicting Repetitions to Task Failure in Resistance Exercise: A Scoping Review and Exploratory Meta-analysis. Sports Medicine. 2022;52(2):377-390. doi:10.1007/s40279-021-01559-x · **open access**
 
+Hamlyn N, Behm DG, Young WB. Trunk Muscle Activation During Dynamic Weight-Training Exercises and Isometric Instability Activities. The Journal of Strength and Conditioning Research. 2007;21(4):1108-1112. doi:10.1519/r-20366.1 · *paywalled*
+
 Hammami R, Jerez-Martínez A, Jiménez-Martínez P, Alix-Fages C, Rebai H, Kassis O, et al. Full Squats Enhance Performance and Body Composition, but Not Hypertrophy, Compared to Half Squats in Elite Young Tennis Players. Journal of Functional Morphology and Kinesiology. 2025;10(4):440. doi:10.3390/jfmk10040440 · **open access**
+
+Hammond A, Perrin C, Steele J, Giessing J, Gentil P, Fisher JP. The effects of a 4-week mesocycle of barbell back squat or barbell hip thrust strength training upon isolated lumbar extension strength. PeerJ. 2019;7:e7337. doi:10.7717/peerj.7337 · **open access**
+
+Harman EA, Rosenstein RM, Frykman PN, Nigro GA. Effects of a belt on intra-abdominal pressure during weight lifting. Medicine & Science in Sports & Exercise. 1989;21(2):186-190. doi:10.1249/00005768-198904000-00012 · *paywalled*
 
 Hartmann H, Wirth K, Klusemann M. Analysis of the Load on the Knee Joint and Vertebral Column with Changes in Squatting Depth and Weight Load. Sports Medicine. 2013;43(10):993-1008. doi:10.1007/s40279-013-0073-6 · *paywalled*
 
@@ -14068,43 +17498,89 @@ Hegyi A, Péter A, Finni T, Cronin NJ. Region-dependent hamstrings activity in N
 
 Henneman E, Somjen G, Carpenter DO. Functional significance of cell size in spinal motoneurons. Journal of Neurophysiology. 1965;28(3):560-580. doi:10.1152/jn.1965.28.3.560 · *paywalled*
 
+Hermann T, Mohan AE, Enes A, Sapuppo M, Piñero A, Zamanzadeh A, et al. Without Fail: Muscular Adaptations in Single-Set Resistance Training Performed to Failure or with Repetitions-in-Reserve. Medicine and Science in Sports and Exercise. 2025;57(9):2021-2031. doi:10.1249/MSS.0000000000003728 · **open access**
+
 Hernández-Belmonte A, Martínez-Cava A, Buendía-Romero Á, Franco-López F, Pallarés JG. Free-Weight and Machine-Based Training Are Equally Effective on Strength and Hypertrophy: Challenging a Traditional Myth. Medicine & Science in Sports & Exercise. 2023;55(12):2316-2327. doi:10.1249/MSS.0000000000003271 · *paywalled*
+
+Hides J, Stanton W. Muscle Imbalance Among Elite Australian Rules Football Players: A Longitudinal Study of Changes in Trunk Muscle Size. Journal of Athletic Training. 2012;47(3):314-319. doi:10.4085/1062-6050-47.3.03 · **open access**
+
+Hides JA, Oostenbroek T, Franettovich Smith MM, Mendis MD. The effect of low back pain on trunk muscle size/function and hip strength in elite football (soccer) players. Journal of Sports Sciences. 2016;34(24):2303-2311. doi:10.1080/02640414.2016.1221526 · **open access**
 
 Hides JA, Richardson CA, Jull GA. Multifidus Muscle Recovery Is Not Automatic After Resolution of Acute, First-Episode Low Back Pain. Spine. 1996;21(23):2763-2769. doi:10.1097/00007632-199612010-00011 · *paywalled*
 
 Hik F, Ackland DC. The moment arms of the muscles spanning the glenohumeral joint: a systematic review. Journal of Anatomy. 2019;234(1):1-15. doi:10.1111/joa.12903 · **open access**
 
+Hirashima M, Yamane K, Nakamura Y, Ohtsuki T. Kinetic chain of overarm throwing in terms of joint rotations revealed by induced acceleration analysis. Journal of Biomechanics. 2008;41(13):2874-2883. doi:10.1016/j.jbiomech.2008.06.014 · *paywalled*
+
 Hoch A, Dimitriou D, Wolf-Wettstein J, Rosner J, Schubert M, Aguirre J, et al. Tensor Fasciae Latae and Gluteus Maximus Muscles: Do They Contribute to Hip Abduction? Journal of Orthopaedic Research. 2025;43(4):828-833. doi:10.1002/jor.26036 · **open access**
 
+Holt JA, Macias BR, Schneider SM, Watenpaugh DE, Lee SMC, Chang DG, et al. WISE 2005: Aerobic and resistive countermeasures prevent paraspinal muscle deconditioning during 60-day bed rest in women. Journal of Applied Physiology. 2016;120(10):1215-1222. doi:10.1152/japplphysiol.00532.2015 · **open access**
+
 Holzbaur KRS, Murray WM, Gold GE, Delp SL. Upper limb muscle volumes in adult subjects. Journal of Biomechanics. 2007;40(4):742-749. doi:10.1016/j.jbiomech.2006.11.011 · *paywalled*
+
+Honkanen T, Mäntysaari M, Leino T, Avela J, Kerttula L, Haapamäki V, et al. Cross-sectional area of the paraspinal muscles and its association with muscle strength among fighter pilots: a 5-year follow-up. BMC Musculoskeletal Disorders. 2019;20(1):170. doi:10.1186/s12891-019-2551-y · **open access**
 
 Hopkins JE, Hopkins CE, Chiu LZF. Greater squat stance width alters three-dimensional hip moment demands. Journal of Biomechanics. 2024;177:112391. doi:10.1016/j.jbiomech.2024.112391 · **open access**
 
 Huberti HH, Hayes WC, Stormont TJ, Chao EY. Force ratios in the quadriceps tendon and ligamentum patellae. Journal of Orthopaedic Research. 1984;2(1):49-54. doi:10.1002/jor.1100020108 · *paywalled*
 
+Hussain J, Sundaraj K, Subramaniam ID, Lam CK. Muscle Fatigue in the Three Heads of Triceps Brachii During Intensity and Speed Variations of Triceps Push-Down Exercise. Frontiers in Physiology. 2020;11:112. doi:10.3389/fphys.2020.00112 · **open access**
+
+Hutton WC, Adams MA. Can the Lumbar Spine Be Crushed in Heavy Lifting? Spine. 1982;7(6):586-590. doi:10.1097/00007632-198211000-00012 · *paywalled*
+
 Inman VT, Saunders JB, Abbott LC. Observations of the Function of the Shoulder Joint. Clinical Orthopaedics and Related Research. 1996;330:3-12. doi:10.1097/00003086-199609000-00002 · *paywalled* — *reprint of the 1944 original, The Journal of Bone and Joint Surgery 1944;26(1):1-30*
 
 Intziegianni K, Katsamis E, Michaelides M, Parpa K. Electromyographic Activation of the Pectoralis Major and Triceps Brachii Muscles During Standard, Diamond, and Wide Hand Position Push-Ups. Muscles. 2026;5(1):18. doi:10.3390/muscles5010018 · **open access**
+
+Iwai K, Koyama K, Okada T, Nakazato K, Takahashi R, Matsumoto S, et al. Asymmetrical and smaller size of trunk muscles in combat sports athletes with lumbar intervertebral disc degeneration. SpringerPlus. 2016;5(1):1474. doi:10.1186/s40064-016-3155-8 · **open access**
 
 Johnson MA, Polgar J, Weightman D, Appleton D. Data on the distribution of fibre types in thirty-six human muscles: An autopsy study. Journal of the Neurological Sciences. 1973;18(1):111-129. doi:10.1016/0022-510X(73)90023-3 · *paywalled*
 
 Jorgensen MJ, Marras WS, Granata KP, Wiand JW. MRI-derived moment-arms of the female and male spine loading muscles. Clinical Biomechanics. 2001;16(3):182-193. doi:10.1016/S0268-0033(00)00087-5 · *paywalled*
 
+Jorgensen MJ, Marras WS, Gupta P, Waters TR. Effect of torso flexion on the lumbar torso extensor muscle sagittal plane moment arms. The Spine Journal. 2003;3(5):363-369. doi:10.1016/s1529-9430(03)00140-2 · *paywalled*
+
 Jorgensen MJ, Marras WS, Smith FW, Pope MH. Sagittal plane moment arms of the female lumbar region rectus abdominis in an upright neutral torso posture [cited as Jorgensen et al., 2005]. Clinical Biomechanics. 2005;20(3):242-246. doi:10.1016/j.clinbiomech.2004.10.009 · *paywalled*
 
-Kassiano W, Costa B, Kunevaliki G, Lisboa F, Prado A, Alves L, et al. Comparison of Muscle Hypertrophy and Strength Adaptations Induced by Back Squat and Leg Extension Resistance Exercises. Journal of Strength and Conditioning Research. 2026;40(4):367-376. doi:10.1519/JSC.0000000000005338 · *paywalled*
+Kalli I, Niglas M, Naeini MK, Freidin M, Thomas L, Menni C, et al. Paraspinal muscle quality in chronic low back pain: a systematic review and meta-analysis of muscle atrophy and fat infiltration. European Spine Journal. 2026;35(5):2693-2711. doi:10.1007/s00586-025-09454-z · **open access**
+
+Käser L, Mannion AF, Rhyner A, Weber E, Dvorak J, Müntener M. Active Therapy for Chronic Low Back Pain: Part 2. Effects on Paraspinal Muscle Cross-Sectional Area, Fiber Type Size, and Distribution. Spine. 2001;26(8):909-919. doi:10.1097/00007632-200104150-00014 · *paywalled*
+
+Kassiano W, Costa B, Kunevaliki G, Lisboa F, Prado A, Alves L, et al. Comparison of Muscle Hypertrophy and Strength Adaptations Induced by Back Squat and Leg Extension Resistance Exercises [cited as Kassiano et al., 2026a]. Journal of Strength and Conditioning Research. 2026;40(4):367-376. doi:10.1519/JSC.0000000000005338 · *paywalled*
 
 Kassiano W, Costa B, Nunes JP, Ribeiro AS, Schoenfeld BJ, Cyrino ES. Which ROMs Lead to Rome? A Systematic Review of the Effects of Range of Motion on Muscle Hypertrophy. Journal of Strength and Conditioning Research. 2023;37(5):1135-1144. doi:10.1519/JSC.0000000000004415 · *paywalled*
 
 Kassiano W, Kunevaliki G, Costa B, Nunes JP, Castro-e-Souza P, Tricoli I, et al. Addition of The Barbell Hip Thrust Elicits Greater Increases in Gluteus Maximus Muscle Thickness in Untrained Young Women. International Journal of Strength and Conditioning. 2024;4(1). doi:10.47206/ijsc.v4i1.284 · **open access**
 
+Kassiano W, Santos-Melo V, Manske I, Lisboa F, Miguel A, Gomes F, et al. Progressive Overload Affects the Magnitude of Muscle Hypertrophy [cited as Kassiano et al., 2026b]. Medicine and Science in Sports and Exercise. 2026;58(7):1556-1565. doi:10.1249/MSS.0000000000003968 · *paywalled*
+
 Kavcic N, Grenier S, McGill SM. Quantifying Tissue Loads and Spine Stability While Performing Commonly Prescribed Low Back Stabilization Exercises. Spine. 2004;29(20):2319-2329. doi:10.1097/01.brs.0000142222.62203.67 · *paywalled*
+
+Kawakami Y, Abe T, Fukunaga T. Muscle-fiber pennation angles are greater in hypertrophied than in normal muscles. Journal of Applied Physiology. 1993;74(6):2740-2744. doi:10.1152/jappl.1993.74.6.2740 · *paywalled*
+
+Kawakami Y, Abe T, Kuno SY, Fukunaga T. Training-induced changes in muscle architecture and specific tension. European Journal of Applied Physiology and Occupational Physiology. 1995;72(1-2):37-43. doi:10.1007/BF00964112 · *paywalled*
+
+Kawakami Y, Nakazawa K, Fujimoto T, Nozaki D, Miyashita M, Fukunaga T. Specific tension of elbow flexor and extensor muscles based on magnetic resonance imaging. European Journal of Applied Physiology and Occupational Physiology. 1994;68(2):139-147. doi:10.1007/BF00244027 · *paywalled*
+
+Keener JD, Chafik D, Kim HM, Galatz LM, Yamaguchi K. Insertional anatomy of the triceps brachii tendon. Journal of Shoulder and Elbow Surgery. 2010;19(3):399-405. doi:10.1016/j.jse.2009.10.008 · *paywalled*
 
 Kellis E, Blazevich AJ. Hamstrings force-length relationships and their implications for angle-specific joint torques: a narrative review. BMC Sports Science, Medicine and Rehabilitation. 2022;14(1):166. doi:10.1186/s13102-022-00555-6 · **open access**
 
 Kennedy D, Casebolt JB, Farren GL, Fiaud V, Bartlett M, Strong L. Electromyographic differences of the gluteus maximus, gluteus medius, biceps femoris, and vastus lateralis between the barbell hip thrust and barbell glute bridge. Sports Biomechanics. 2024;23(12):2935-2949. doi:10.1080/14763141.2022.2074875 · *paywalled*
 
+Kholinne E, Zulkarnain RF, Sun YC, Lim S, Chun JM, Jeon IH. The different role of each head of the triceps brachii muscle in elbow extension. Acta Orthopaedica et Traumatologica Turcica. 2018;52(3):201-205. doi:10.1016/j.aott.2018.02.005 · **open access**
+
 Kikuchi N, Nakazato K. Low-load bench press and push-up induce similar muscle hypertrophy and strength gain. Journal of Exercise Science and Fitness. 2017;15(1):37-42. doi:10.1016/j.jesf.2017.06.003 · **open access**
+
+Kim D, Woo J, Lee S, Jung J, Lee D, Hong J, et al. Effects of Mind–Muscle Connection on Muscle Activity During Machine-Based Shoulder Press in Untrained Individuals. Journal of Clinical Medicine. 2026;15(10):3925. doi:10.3390/jcm15103925 · **open access**
+
+Kim YS, Kim DY, Ha MS. Effect of the push-up exercise at different palmar width on muscle activities. Journal of Physical Therapy Science. 2016;28(2):446-449. doi:10.1589/jpts.28.446 · **open access**
+
+Kingma I, Faber GS, Suwarganda EK, Bruijnen TBM, Peters RJA, van Dieën JH. Effect of a Stiff Lifting Belt on Spine Compression During Lifting. Spine. 2006;31(22):E833-E839. doi:10.1097/01.brs.0000240670.50834.77 · *paywalled*
+
+Kircher K, Chaudry O, Nagel AM, Ghasemikaram M, Uder M, Jakob F, et al. Effects of high-intensity training on fatty infiltration in paraspinal muscles in elderly males with osteosarcopenia – the randomized controlled FrOST study. BMC Geriatrics. 2024;24(1):141. doi:10.1186/s12877-024-04736-5 · **open access**
+
+Kliziene I, Sipaviciene S, Klizas S, Imbrasiene D. Effects of core stability exercises on multifidus muscles in healthy women and women with chronic low-back pain. Journal of Back and Musculoskeletal Rehabilitation. 2015;28(4):841-847. doi:10.3233/bmr-150596 · *paywalled*
 
 Koch K, Semciw AI, Commean PK, Hillen TJ, Fitzgerald GK, Clohisy JC, et al. Comparison between movement pattern training and strengthening on muscle volume, muscle fat, and strength in patients with hip-related groin pain: An exploratory analysis. Journal of Orthopaedic Research. 2022;40(6):1375-1386. doi:10.1002/jor.25158 · **open access**
 
@@ -14116,13 +17592,27 @@ Kolber MJ, Beekhuizen KS, Cheng MS, Hellman MA. Shoulder Injuries Attributed to 
 
 Konrad A, Reiner MM, Warneke K, Keiner M, Nakamura M, Tilp M. Relationship between pectoralis major stiffness and shoulder extension range of motion. Frontiers in Physiology. 2024;15:1349426. doi:10.3389/fphys.2024.1349426 · **open access**
 
+Kostek MA, Pescatello LS, Seip RL, Angelopoulos TJ, Clarkson PM, Gordon PM, et al. Subcutaneous Fat Alterations Resulting from an Upper-Body Resistance Training Program. Medicine and Science in Sports and Exercise. 2007;39(7):1177-1185. doi:10.1249/mss.0b0138058a5cb · **open access**
+
+Krajewski KT, LeFavi RG, Riemann BL. A Biomechanical Analysis of the Effects of Bouncing the Barbell in the Conventional Deadlift. Journal of Strength and Conditioning Research. 2019;33(Suppl 1):S70-S77. doi:10.1519/jsc.0000000000002545 · *paywalled*
+
 Krause Neto W, Krause TLV, Gama EF. The impact of resistance training on gluteus maximus hypertrophy: a systematic review and meta-analysis. Frontiers in Physiology. 2025;16:1542334. doi:10.3389/fphys.2025.1542334 · **open access**
 
 Krevolin JL, Pandy MG, Pearce JC. Moment arm of the patellar tendon in the human knee. Journal of Biomechanics. 2004;37(5):785-788. doi:10.1016/j.jbiomech.2003.09.010 · *paywalled*
 
+Kroenung P, Zakko P, Park D. Deadlift-Induced Paraspinal Compartment Syndrome: A Case Report. Cureus. 2024;16(6):e62314. doi:10.7759/cureus.62314 · **open access**
+
 Kubo K, Ikebukuro T, Yata H. Effects of squat training with different depths on lower limb muscle volumes. European Journal of Applied Physiology. 2019;119(9):1933-1942. doi:10.1007/s00421-019-04181-y · *paywalled*
 
 Kuechle DK, Newman SR, Itoi E, Morrey BF, An KN. Shoulder muscle moment arms during horizontal flexion and elevation. Journal of Shoulder and Elbow Surgery. 1997;6(5):429-439. doi:10.1016/S1058-2746(97)70049-1 · *paywalled*
+
+Lander JE, Hundley JR, Simonton RL. The effectiveness of weight-belts during multiple repetitions of the squat exercise. Medicine & Science in Sports & Exercise. 1992;24(5):603-609. doi:10.1249/00005768-199205000-00015 · *paywalled*
+
+Lander JE, Simonton RL, Giacobbe JKF. The effectiveness of weight-belts during the squat exercise. Medicine & Science in Sports & Exercise. 1990;22(1):117-126. doi:10.1249/00005768-199002000-00019 · *paywalled*
+
+Landin D, Thompson M, Jackson M. Functions of the Triceps Brachii in Humans: A Review. Journal of Clinical Medicine Research. 2018;10(4):290-293. doi:10.14740/jocmr3340w · **open access**
+
+Landin D, Thompson M. The shoulder extension function of the triceps brachii. Journal of Electromyography and Kinesiology. 2011;21(1):161-165. doi:10.1016/j.jelekin.2010.09.005 · *paywalled*
 
 Langenderfer J, Jerabek SA, Thangamani VB, Kuhn JE, Hughes RE. Musculoskeletal parameters of muscles crossing the shoulder and elbow and the effect of sarcomere length sample size on estimation of optimal muscle length. Clinical Biomechanics. 2004;19(7):664-670. doi:10.1016/j.clinbiomech.2004.04.009 · *paywalled*
 
@@ -14136,13 +17626,29 @@ Larsen S, Wolf M, Schoenfeld BJ, Sandberg NØ, Fredriksen AB, Kristiansen BS, et
 
 Larsen S, Wolf M, Schoenfeld BJ, Sandberg NØ, Fredriksen AB, Kristiansen BS, et al. Knee flexion range of motion does not influence muscle hypertrophy of the quadriceps femoris during leg press training in resistance-trained individuals [cited as Larsen et al., 2025b]. Journal of Sports Sciences. 2025;43(10):986-994. doi:10.1080/02640414.2025.2481534 · **open access**
 
+Lasevicius T, Schoenfeld BJ, Grgic J, Laurentino G, Tavares LD, Tricoli V. Similar Muscular Adaptations in Resistance Training Performed Two Versus Three Days Per Week. Journal of Human Kinetics. 2019;68(1):135-143. doi:10.2478/hukin-2019-0062 · **open access**
+
 Lasevicius T, Ugrinowitsch C, Schoenfeld BJ, Roschel H, Tavares LD, De Souza EO, et al. Effects of different intensities of resistance training with equated volume load on muscle strength and hypertrophy. European Journal of Sport Science. 2018;18(6):772-780. doi:10.1080/17461391.2018.1450898 · *paywalled*
 
+Latimer J, Maher CG, Refshauge K, Colaco I. The Reliability and Validity of the Biering–Sorensen Test in Asymptomatic Subjects and Subjects Reporting Current or Previous Nonspecific Low Back Pain. Spine. 1999;24(20):2085-2089. doi:10.1097/00007632-199910150-00004 · *paywalled*
+
 Lauver JD, Cayot TE, Scheuermann BW. Influence of bench angle on upper extremity muscular activation during bench press exercise. European Journal of Sport Science. 2016;16(3):309-316. doi:10.1080/17461391.2015.1022605 · *paywalled*
+
+Lawrence MA, Chin A, Swanson BT. Biomechanical Comparison of the Reverse Hyperextension Machine and the Hyperextension Exercise. Journal of Strength and Conditioning Research. 2019;33(8):2053-2056. doi:10.1519/jsc.0000000000003146 · **open access**
+
+Lawrence MA, Somma MJ, Swanson BT. Effect of Load on Muscle Activity, Kinematics, and Force Production During the Reverse Hyperextension Exercise. Journal of Applied Biomechanics. 2022;38(5):336-345. doi:10.1123/jab.2022-0046 · *paywalled*
+
+Lawrence MA, Swanson BT, Silfies SP, Winchester JB. Activation of the deep lumbar multifidus during common rehabilitation and resistance exercises. Journal of Electromyography and Kinesiology. 2026;89:103179. doi:10.1016/j.jelekin.2026.103179 · **open access**
+
+Lee E, Stillson QA, Seidel HD, Bhattacharjee S, Koh JL, Strelzow JA, et al. Surgical Outcomes, Trends, and Risk Factors of Distal Triceps Repairs. HAND. 2023;18(8):1300-1306. doi:10.1177/15589447221095114 · **open access**
 
 Lee PM, Underhill J, Nishida C, Agonias K, Levine SB, Obana KK, et al. A National Evaluation of Upper Extremity Weightlifting Injury Surveillance: The High Risk in Youth and Adults With an Underutilization in Older Adults. Orthopaedic Journal of Sports Medicine. 2026;14(1):23259671251387730. doi:10.1177/23259671251387730 · **open access**
 
 Lees MJ, McLeod JC, Morton RW, Fatouros IG, Phillips SM, et al. Resistance training load does not determine resistance training-induced hypertrophy across upper and lower limbs in healthy young males. The Journal of Physiology. 2025. doi:10.1113/JP289684 · **open access**
+
+Lehman GJ. The Influence of Grip Width and Forearm Pronation/Supination on Upper-Body Myoelectric Activity During the Flat Bench Press. Journal of Strength and Conditioning Research. 2005;19(3):587-591. doi:10.1519/R-15024.1 · *paywalled*
+
+Lescher S, Bender B, Eifler R, Haas F, Gruber K, Felber S. Isometric Non-Machine-Based Prevention Training Program: Effects on the Cross-Sectional Area of the Paravertebral Muscles on Magnetic Resonance Imaging. Clinical Neuroradiology. 2011;21(4):217-222. doi:10.1007/s00062-011-0104-3 · *paywalled*
 
 Lieberman DE, Raichlen DA, Pontzer H, Bramble DM, Cutright-Smith E. The human gluteus maximus and its role in running. Journal of Experimental Biology. 2006;209(11):2143-2155. doi:10.1242/jeb.02255 · **open access**
 
@@ -14152,13 +17658,21 @@ Liu J, Teng HL, Selkowitz DM, Asavasopon S, Powers CM. Influence of hip and knee
 
 Lopez P, Radaelli R, Taaffe DR, Newton RU, Galvão DA, Trajano GS, et al. Resistance Training Load Effects on Muscle Hypertrophy and Strength Gain: Systematic Review and Network Meta-analysis. Medicine & Science in Sports & Exercise. 2021;53(6):1206-1216. doi:10.1249/MSS.0000000000002585 · *paywalled*
 
+Luoto S, Heliövaara M, Hurri H, Alaranta H. Static back endurance and the risk of low-back pain. Clinical Biomechanics. 1995;10(6):323-324. doi:10.1016/0268-0033(95)00002-3 · *paywalled*
+
 Lusk SJ, Hale BD, Russell DM. Grip Width and Forearm Orientation Effects on Muscle Activity During the Lat Pull-Down. Journal of Strength and Conditioning Research. 2010;24(7):1895-1900. doi:10.1519/JSC.0b013e3181ddb0ab · *paywalled*
 
 Maarleveld R, Veeger HEJ, van der Helm FCT, Son J, Lieber RL, van der Kruk E. What the PCSA? Addressing diversity in lower-limb musculoskeletal models: age- and sex-related differences in PCSA and muscle mass. Journal of Biomechanics. 2025;193:112976. doi:10.1016/j.jbiomech.2025.112976 · **open access**
 
 Macintosh JE, Bogduk N, Pearcy MJ. The Effects of Flexion on the Geometry and Actions of the Lumbar Erector Spinae [cited as Macintosh et al., 1993b]. Spine. 1993;18(7):884-893. doi:10.1097/00007632-199306000-00013 · *paywalled*
 
+Macintosh JE, Bogduk N. 1987 Volvo Award in Basic Science: The Morphology of the Lumbar Erector Spinae. Spine. 1987;12(7):658-668. doi:10.1097/00007632-198709000-00004 · *paywalled*
+
 Macintosh JE, Pearcy MJ, Bogduk N. The axial torque of the lumbar back muscles: torsion strength of the back muscles [cited as Macintosh et al., 1993a]. Australian and New Zealand Journal of Surgery. 1993;63(3):205-212. doi:10.1111/j.1445-2197.1993.tb00520.x · *paywalled*
+
+Macintosh JE, Valencia F, Bogduk N, Munro RR. The morphology of the human lumbar multifidus. Clinical Biomechanics. 1986;1(4):196-204. doi:10.1016/0268-0033(86)90146-4 · *paywalled*
+
+Madsen M, Marx RG, Millett PJ, Rodeo SA, Sperling JW, Warren RF. Surgical Anatomy of the Triceps Brachii Tendon. The American Journal of Sports Medicine. 2006;34(11):1839-1843. doi:10.1177/0363546506288752 · *paywalled*
 
 Maeo S, Balshaw TG, Nin DZ, McDermott EJ, Osborne T, Cooper NB, et al. Hamstrings Hypertrophy Is Specific to the Training Exercise: Nordic Hamstring versus Lengthened State Eccentric Training. Medicine & Science in Sports & Exercise. 2024;56(10):1893-1905. doi:10.1249/MSS.0000000000003490 · **open access**
 
@@ -14167,6 +17681,10 @@ Maeo S, Huang M, Wu Y, Sakurai H, Kusagawa Y, Sugiyama T, et al. Greater Hamstri
 Maeo S, Wu Y, Huang M, Sakurai H, Kusagawa Y, Sugiyama T, et al. Triceps brachii hypertrophy is substantially greater after elbow extension training performed in the overhead versus neutral arm position. European Journal of Sport Science. 2023;23(7):1240-1250. doi:10.1080/17461391.2022.2100279 · **open access**
 
 Malliaras P, Barton CJ, Reeves ND, Langberg H. Achilles and Patellar Tendinopathy Loading Programmes: A Systematic Review Comparing Clinical Outcomes and Identifying Potential Mechanisms for Effectiveness. Sports Medicine. 2013;43(4):267-286. doi:10.1007/s40279-013-0019-z · *paywalled*
+
+Mannion AF, Dumas GA, Cooper RG, Espinosa FJ, Faris MW, Stevenson JM. Muscle fibre size and type distribution in thoracic and lumbar regions of erector spinae in healthy subjects without low back pain: normal values and sex differences [cited as Mannion et al., 1997b]. Journal of Anatomy. 1997;190(4):505-513. doi:10.1046/j.1469-7580.1997.19040505.x · **open access**
+
+Mannion AF, Weber BR, Dvorak J, Grob D, Müntener M. Fibre type characteristics of the lumbar paraspinal muscles in normal healthy subjects and in patients with low back pain [cited as Mannion et al., 1997a]. Journal of Orthopaedic Research. 1997;15(6):881-887. doi:10.1002/jor.1100150614 · *paywalled*
 
 Manojlović D, Kozinc Ž, Šarabon N. Trunk, Hip and Knee Exercise Programs for Pain Relief, Functional Performance and Muscle Strength in Patellofemoral Pain: Systematic Review and Meta-Analysis. Journal of Pain Research. 2021;14:1431-1449. doi:10.2147/JPR.S301448 · **open access**
 
@@ -14178,9 +17696,33 @@ Martín-San Agustín R, Castillo-Ballesta L, Esbri-Navarro R, Garvín JH. Compar
 
 Martínez-Cava A, Hernández-Belmonte A, Courel-Ibáñez J, Morán-Navarro R, González-Badillo JJ, Pallarés JG. Bench Press at Full Range of Motion Produces Greater Neuromuscular Adaptations Than Partial Executions After Prolonged Resistance Training. Journal of Strength and Conditioning Research. 2022;36(1):10-15. doi:10.1519/JSC.0000000000003391 · *paywalled*
 
+Masaki M, Ji X, Yamauchi T, Tateuchi H, Ichihashi N. Effects of the trunk position on muscle stiffness that reflects elongation of the lumbar erector spinae and multifidus muscles: an ultrasonic shear wave elastography study. European Journal of Applied Physiology. 2019;119(5):1085-1091. doi:10.1007/s00421-019-04098-6 · **open access**
+
+Matta T, Simão R, de Salles BF, Spineti J, Oliveira LF. Strength Training's Chronic Effects on Muscle Architecture Parameters of Different Arm Sites. Journal of Strength and Conditioning Research. 2011;25(6):1711-1717. doi:10.1519/JSC.0b013e3181dba162 · *paywalled*
+
 Mausehund L, Werkhausen A, Bartsch J, Krosshaug T. Understanding Bench Press Biomechanics-The Necessity of Measuring Lateral Barbell Forces. Journal of Strength and Conditioning Research. 2022;36(10):2685-2695. doi:10.1519/JSC.0000000000003948 · *paywalled*
 
+Mayer JM, Graves JE, Robertson VL, Pierra EA, Verna JL, Ploutz-Snyder LL. Electromyographic activity of the lumbar extensor muscles: Effect of angle and hand position during Roman Chair Exercise. Archives of Physical Medicine and Rehabilitation. 1999;80(7):751-755. doi:10.1016/s0003-9993(99)90222-8 · **open access**
+
+Mayer JM, Graves JE, Udermann BE, Ploutz-Snyder LL. Development of lumbar extension strength: Effect of pelvic stabilization during resistance training [cited as Mayer et al., 2002a]. Journal of Back and Musculoskeletal Rehabilitation. 2002;16(1):25-31. doi:10.3233/bmr-2002-16105 · *paywalled*
+
+Mayer JM, Nuzzo JL. Worksite back and core exercise in firefighters: Effect on development of lumbar multifidus muscle size. Work. 2015;50(4):621-627. doi:10.3233/wor-141831 · **open access**
+
+Mayer JM, Udermann BE, Graves JE, Ploutz-Snyder LL. Effect of Roman Chair Exercise Training on the Development of Lumbar Extension Strength. The Journal of Strength and Conditioning Research. 2003;17(2):356-361. doi:10.1519/1533-4287(2003)017<0356:eorcet>2.0.co;2 · *paywalled*
+
+Mayer JM, Verna JL, Manini TM, Mooney V, Graves JE. Electromyographic activity of the trunk extensor muscles: Effect of varying hip position and lumbar posture during Roman chair exercise [cited as Mayer et al., 2002b]. Archives of Physical Medicine and Rehabilitation. 2002;83(11):1543-1546. doi:10.1053/apmr.2002.35103 · *paywalled*
+
 McCurdy K, Walker J, Yuen D. Gluteus Maximus and Hamstring Activation During Selected Weight-Bearing Resistance Exercises. Journal of Strength and Conditioning Research. 2018;32(3):594-601. doi:10.1519/JSC.0000000000001893 · *paywalled*
+
+McGee JG, Amara C, Tran J, Agur AMR. Functional compartmentalization of the anconeus: A three‐dimensional study of muscle morphology and innervation patterns. Journal of Anatomy. 2026:joa.70154. doi:10.1111/joa.70154 · **open access**
+
+McGill SM, Childs A, Liebenson C. Endurance times for low back stabilization exercises: Clinical targets for testing and training from a normal database. Archives of Physical Medicine and Rehabilitation. 1999;80(8):941-944. doi:10.1016/s0003-9993(99)90087-4 · *paywalled*
+
+McGill SM, Hughson RL, Parks K. Changes in lumbar lordosis modify the role of the extensor muscles. Clinical Biomechanics. 2000;15(10):777-780. doi:10.1016/s0268-0033(00)00037-1 · *paywalled*
+
+McGill SM, Kippers V. Transfer of Loads Between Lumbar Tissues During the Flexion-Relaxation Phenomenon. Spine. 1994;19(19):2190-2196. doi:10.1097/00007632-199410000-00013 · *paywalled*
+
+McGill SM, Marshall LW. Kettlebell Swing, Snatch, and Bottoms-Up Carry: Back and Hip Muscle Activation, Motion, and Low Back Loads. Journal of Strength and Conditioning Research. 2012;26(1):16-27. doi:10.1519/jsc.0b013e31823a4063 · *paywalled*
 
 McGill SM, Patt N, Norman RW. Measurement of the trunk musculature of active males using CT scan radiography: implications for force and moment generating capacity about the L4/L5 joint. Journal of Biomechanics. 1988;21(4):329-341. doi:10.1016/0021-9290(88)90262-X · *paywalled*
 
@@ -14202,11 +17744,17 @@ Moore D, Semciw AI, Pizzari T. A Systematic Review and Meta-Analysis of Common T
 
 Morton RW, Murphy KT, McKellar SR, Schoenfeld BJ, Henselmans M, Helms E, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults. British Journal of Sports Medicine. 2018;52(6):376-384. doi:10.1136/bjsports-2017-097608 · **open access**
 
+Mpampoulis T, Methenitis S, Stasinaki AN, Zaras N, Bogdanis GC, Terzis G. Effect of Different Reduced Training Frequencies After 12 Weeks of Concurrent Ballistic and Aerobic Training on Muscle Power and Triceps Brachii Muscle Architecture. Journal of Functional Morphology and Kinesiology. 2025;10(1):37. doi:10.3390/jfmk10010037 · **open access**
+
 Mukai H, Umehara J, Yagi M, Yanase K, Itsuda H, Ichihashi N. Effective stretching position for the posterior deltoid muscle evaluated by shear wave elastography. Journal of Shoulder and Elbow Surgery. 2022;31(8):1658-1665. doi:10.1016/j.jse.2022.01.143 · **open access**
 
 Muñoz-Garcés M, Peñailillo L, Mendez-Rebolledo G. Regional Activation of the Latissimus Dorsi Muscle by High-Density Surface Electromyography During Isometric Shoulder and Trunk Exercises. Sports Health. 2026;18(4):841-850. doi:10.1177/19417381251393643 · **open access**
 
 Murphy C, Koehler K. Energy deficiency impairs resistance training gains in lean mass but not strength: A meta-analysis and meta-regression. Scandinavian Journal of Medicine & Science in Sports. 2022;32(1):125-137. doi:10.1111/sms.14075 · **open access**
+
+Murray WM, Buchanan TS, Delp SL. Scaling of peak moment arms of elbow muscles with upper extremity bone dimensions. Journal of Biomechanics. 2002;35(1):19-26. doi:10.1016/S0021-9290(01)00173-7 · *paywalled*
+
+Murray WM, Buchanan TS, Delp SL. The isometric functional capacity of muscles that cross the elbow. Journal of Biomechanics. 2000;33(8):943-952. doi:10.1016/S0021-9290(00)00051-8 · *paywalled*
 
 Muyor JM, López-Miñarro PA, Alacid F. Comparison of Electromyographic Activity during Barbell Pullover and Straight Arm Pulldown Exercises. Applied Sciences. 2022;12(21):11138. doi:10.3390/app122111138 · **open access**
 
@@ -14214,7 +17762,13 @@ Muyor JM, Martín-Fuentes I, Rodríguez-Ridao D, Antequera-Vique JA. Electromyog
 
 Muyor JM, Rodríguez-Ridao D, Oliva-Lozano JM. Comparison of Muscle Activity between the Horizontal Bench Press and the Seated Chest Press Exercises Using Several Grips. Journal of Human Kinetics. 2023;87:23-34. doi:10.5114/jhk/161468 · **open access**
 
+Nakagawa Y, Mukai S, Miyata M, Minami K, Hattori Y, Yamagishi H. Radiological Findings of the Lumbar Spine in High School and Collegiate Sumo Wrestlers. Orthopaedic Journal of Sports Medicine. 2023;11(11):23259671231206712. doi:10.1177/23259671231206712 · **open access**
+
+Negrão JR, Mogami R, Ramirez Ruiz FA, Wagner FV, Haghighi P, Ward SR, et al. Distal insertional anatomy of the triceps brachii muscle: MRI assessment in cadaveric specimens employing histologic correlation and Play-doh® models of the anatomic findings. Skeletal Radiology. 2020;49(7):1057-1067. doi:10.1007/s00256-020-03382-3 · *paywalled*
+
 Németh G, Ohlsén H. In vivo moment arm lengths for hip extensor muscles at different angles of hip flexion. Journal of Biomechanics. 1985;18(2):129-140. doi:10.1016/0021-9290(85)90005-3 · *paywalled*
+
+Németh G, Ohlsén H. Moment Arm Lengths of Trunk Muscles to the Lumbosacral Joint Obtained In Vivo with Computed Tomography. Spine. 1986;11(2):158-160. doi:10.1097/00007632-198603000-00011 · *paywalled*
 
 Neto WK, Soares EG, Vieira TL, Aguiar R, Chola TA, Sampaio VL, et al. Gluteus Maximus Activation during Common Strength and Hypertrophy Exercises: A Systematic Review. Journal of Sports Science and Medicine. 2020;19(1):195-203. PMCID:PMC7039033 · **open access** — *no DOI was issued for this article; the PubMed Central identifier reaches the free full text. Same first author as Krause Neto et al., 2025, indexed under a shorter form of the surname*
 
@@ -14230,9 +17784,19 @@ Noteboom L, Belli I, Hoozemans MJM, Seth A, Veeger HEJ, van der Helm FCT. Effect
 
 Nunes JP, Blazevich AJ, Schoenfeld BJ, Kassiano W, Costa BDV, Ribeiro AS, et al. Determining Changes in Muscle Size and Architecture After Exercise Training: One Site Does Not Fit All. Journal of Strength and Conditioning Research. 2024;38(4):787-790. doi:10.1519/JSC.0000000000004722 · *paywalled*
 
+Nunes JP, Grgic J, Cunha PM, Ribeiro AS, Schoenfeld BJ, de Salles BF, et al. What influence does resistance exercise order have on muscular strength gains and muscle hypertrophy? A systematic review and meta-analysis. European Journal of Sport Science. 2021;21(2):149-157. doi:10.1080/17461391.2020.1733672 · *paywalled*
+
+Ogasawara R, Loenneke JP, Thiebaud RS, Abe T. Low-Load Bench Press Training to Fatigue Results in Muscle Hypertrophy Similar to High-Load Bench Press Training [cited as Ogasawara et al., 2013a]. International Journal of Clinical Medicine. 2013;4(2):114-121. doi:10.4236/ijcm.2013.42022 · **open access**
+
+Ogasawara R, Thiebaud RS, Loenneke JP, Loftin M, Abe T. Time course for arm and chest muscle thickness changes following bench press training. Interventional Medicine and Applied Science. 2012;4(4):217-220. doi:10.1556/IMAS.4.2012.4.7 · **open access**
+
+Ogasawara R, Yasuda T, Ishii N, Abe T. Comparison of muscle hypertrophy following 6-month of continuous and periodic strength training [cited as Ogasawara et al., 2013b]. European Journal of Applied Physiology. 2013;113(4):975-985. doi:10.1007/s00421-012-2511-9 · *paywalled*
+
 Opar DA, Timmins RG, Behan FP, Hickey JT, van Dyk N, Price K, et al. Is Pre-season Eccentric Strength Testing During the Nordic Hamstring Exercise Associated with Future Hamstring Strain Injury? A Systematic Review and Meta-analysis. Sports Medicine. 2021;51(9):1935-1945. doi:10.1007/s40279-021-01474-1 · *paywalled*
 
 Oranchuk DJ, Storey AG, Nelson AR, Cronin JB. Isometric training and long-term adaptations: Effects of muscle length, intensity, and intent: A systematic review. Scandinavian Journal of Medicine & Science in Sports. 2019;29(4):484-503. doi:10.1111/sms.13375 · **open access**
+
+Osawa Y, Oguma Y. Effects of resistance training with whole-body vibration on muscle fitness in untrained adults. Scandinavian Journal of Medicine & Science in Sports. 2013;23(1):84-95. doi:10.1111/j.1600-0838.2011.01352.x · *paywalled*
 
 Otsuka M, Honjo T, Nagano A, Isaka T. Kinetics in lumbosacral and lower-limb joints of sprinters during barbell hip thrust compared to deadlift and back squat. PLOS ONE. 2021;16(7):e0251418. doi:10.1371/journal.pone.0251418 · **open access**
 
@@ -14246,27 +17810,43 @@ Paksoy A, Akgün D, Gebauer H, et al. The latissimus dorsi creates a dynamic tra
 
 Pallarés JG, Hernández-Belmonte A, Martínez-Cava A, Vetrovsky T, Steffl M, Courel-Ibáñez J. Effects of range of motion on resistance training adaptations: A systematic review and meta-analysis. Scandinavian Journal of Medicine & Science in Sports. 2021;31(10):1866-1881. doi:10.1111/sms.14006 · **open access**
 
+Paoli A, Mancin L, Saoncella M, Grigoletto D, Pacelli FQ, Zamparo P, et al. Mind-muscle connection: effects of verbal instructions on muscle activity during bench press exercise. European Journal of Translational Myology. 2019;29(2):8250. doi:10.4081/ejtm.2019.8250 · **open access**
+
 Paoli A, Marcolin G, Petrone N. The Effect of Stance Width on the Electromyographical Activity of Eight Superficial Thigh Muscles During Back Squat With Different Bar Loads. Journal of Strength and Conditioning Research. 2009;23(1):246-250. doi:10.1519/JSC.0b013e3181876811 · **open access**
 
 Paoli A, Pacelli QF, Cancellara P, Toniolo L, Moro T, Canato M, et al. Myosin Isoforms and Contractile Properties of Single Fibers of Human Latissimus Dorsi Muscle. BioMed Research International. 2013;2013:249398. doi:10.1155/2013/249398 · **open access**
 
 Paoli A, Pacelli QF, Cancellara P, Toniolo L, Moro T, Canato M, et al. Protein Supplementation Does Not Further Increase Latissimus Dorsi Muscle Fiber Hypertrophy after Eight Weeks of Resistance Training in Novice Subjects, but Partially Counteracts the Fast-to-Slow Muscle Fiber Transition. Nutrients. 2016;8(6):331. doi:10.3390/nu8060331 · **open access**
 
+Park KH, Kang MH, Kim TH, An DH, Oh JS. Selective recruitment of the thoracic erector spinae during prone trunk-extension exercise. Journal of Back and Musculoskeletal Rehabilitation. 2015;28(4):789-795. doi:10.3233/bmr-150586 · *paywalled*
+
 Park SY, Yoo WG. Differential activation of parts of the latissimus dorsi with various isometric shoulder exercises. Journal of Electromyography and Kinesiology. 2014;24(2):253-257. doi:10.1016/j.jelekin.2013.12.004 · *paywalled*
+
+Parkkola R, Kujala U, Rytökoski U. Response of the trunk muscles to training assessed by magnetic resonance imaging and muscle strength. European Journal of Applied Physiology and Occupational Physiology. 1992;65(5):383-387. doi:10.1007/bf00243501 · *paywalled*
 
 Paton ME, Brown JMM. An electromyographic analysis of functional differentiation in human pectoralis major muscle. Journal of Electromyography and Kinesiology. 1994;4(3):161-169. doi:10.1016/1050-6411(94)90017-5 · *paywalled*
 
 Pedrosa GF, Lima FV, Schoenfeld BJ, Lacerda LT, Simões MG, Pereira MR, et al. Partial range of motion training elicits favorable improvements in muscular adaptations when carried out at long muscle lengths. European Journal of Sport Science. 2022;22(8):1250-1260. doi:10.1080/17461391.2021.1927199 · *paywalled*
 
+Pedrosa GF, Pereira MR, Kassiano W. The interplay between muscle length, range of motion, and exercise selection: a review. Sports Medicine International Open. 2026;10:a27337605. doi:10.1055/a-2733-7605 · **open access**
+
 Pelland JC, Remmert JF, Robinson ZP, Hinson SR, Zourdos MC. The Resistance Training Dose Response: Meta-Regressions Exploring the Effects of Weekly Volume and Frequency on Muscle Hypertrophy and Strength Gains. Sports Medicine. 2026;56(2):481-505. doi:10.1007/s40279-025-02344-w · *paywalled*
+
+Peltonen JE, Taimela S, Erkintalo M, Salminen JJ, Oksanen A, Kujala UM. Back extensor and psoas muscle cross-sectional area, prior physical training, and trunk muscle strength — a longitudinal study in adolescent girls. European Journal of Applied Physiology and Occupational Physiology. 1998;77(1-2):66-71. doi:10.1007/s004210050301 · *paywalled*
 
 Peterson SL, Rayan GM. Shoulder and Upper Arm Muscle Architecture. The Journal of Hand Surgery. 2011;36(5):881-889. doi:10.1016/j.jhsa.2011.01.008 · *paywalled*
 
 Pinto MD, Ughini C, Nunes JP, Cadore EL, Pinto RS. Pectoralis Clavicular and Sternocostal Thicknesses Increase Similarly in Response to One and Three Sets of Pec Deck Resistance Training in Untrained Young Men. Journal of Strength and Conditioning Research. 2025;39(5):523-530. doi:10.1519/JSC.0000000000005045 · *paywalled*
 
+Plamondon A, Serresse O, Boyd K, Ladouceur D, Desjardins P. Estimated moments at L5/S1 level and muscular activation of back extensors for six prone back extension exercises in healthy individuals. Scandinavian Journal of Medicine & Science in Sports. 2002;12(2):81-89. doi:10.1034/j.1600-0838.2002.120204.x · **open access**
+
 Plotkin DL, Rodas MA, Vigotsky AD, McIntosh MC, Breeze E, Ubrik R, et al. Hip thrust and back squat training elicit similar gluteus muscle hypertrophy and transfer similarly to the deadlift. Frontiers in Physiology. 2023;14:1279170. doi:10.3389/fphys.2023.1279170 · **open access**
 
 Pollard CW, Opar DA, Williams MD, Bourne MN, Timmins RG. Razor hamstring curl and Nordic hamstring exercise architectural adaptations: Impact of exercise selection and intensity. Scandinavian Journal of Medicine & Science in Sports. 2019;29(5):706-715. doi:10.1111/sms.13381 · *paywalled*
+
+Pollock ML, Leggett SH, Graves JE, Jones A, Fulton M, Cirulli J. Effect of resistance training on lumbar extension strength. The American Journal of Sports Medicine. 1989;17(5):624-629. doi:10.1177/036354658901700506 · *paywalled*
+
+Potvin JR, McGill SM, Norman RW. Trunk Muscle and Lumbar Ligament Contributions to Dynamic Lifts with Varying Degrees of Trunk Flexion. Spine. 1991;16(9):1099-1107. doi:10.1097/00007632-199109000-00015 · *paywalled*
 
 Pouliart N, Gagey OJ. Significance of the latissimus dorsi for shoulder instability. I. Variations in its anatomy around the humerus and scapula. Clinical Anatomy. 2005;18(7):493-499. doi:10.1002/ca.20185 · *paywalled*
 
@@ -14283,6 +17863,8 @@ Rehorn MR, Blemker SS. The effects of aponeurosis geometry on strain injury susc
 Roberts BM, Nuckols G, Krieger JW. Sex Differences in Resistance Training: A Systematic Review and Meta-Analysis. Journal of Strength and Conditioning Research. 2020;34(5):1448-1460. doi:10.1519/JSC.0000000000003521 · *paywalled*
 
 Robinson ZP, Pelland JC, Remmert JF, Refalo MC, Jukic I, Steele J, et al. Exploring the Dose–Response Relationship Between Estimated Resistance Training Proximity to Failure, Strength Gain, and Muscle Hypertrophy: A Series of Meta-Regressions. Sports Medicine. 2024;54(9):2209-2231. doi:10.1007/s40279-024-02069-2 · *paywalled*
+
+Rodiles-Guerrero L, Cano-Castillo C, Cornejo-Daza PJ, Sánchez-Valdepeñas J, Sañudo B, Sánchez-Moreno M, et al. Effects of different velocity loss thresholds on strength, neuromuscular adaptations, and muscle hypertrophy during bench press training in women. Biology of Sport. 2026;43:187-198. doi:10.5114/biolsport.2026.152347 · **open access**
 
 Rodríguez-Ridao D, Antequera-Vique JA, Martín-Fuentes I, Muyor JM. Effect of Five Bench Inclinations on the Electromyographic Activity of the Pectoralis Major, Anterior Deltoid, and Triceps Brachii during the Bench Press Exercise. International Journal of Environmental Research and Public Health. 2020;17(19):7339. doi:10.3390/ijerph17197339 · **open access**
 
@@ -14304,13 +17886,25 @@ Sanchis-Moysi J, Idoate F, Izquierdo M, Calbet JAL, Dorado C. The hypertrophy of
 
 Sanchis-Moysi J, Idoate F, Olmedillas H, Guadalupe-Grau A, Alayón S, Carreras A, et al. Large Asymmetric Hypertrophy of Rectus Abdominis Muscle in Professional Tennis Players [cited as Sanchis-Moysi et al., 2010]. PLoS ONE. 2010;5(12):e15858. doi:10.1371/journal.pone.0015858 · **open access**
 
+Saraceni N, Kent P, Ng L, Campbell A, Straker L, O'Sullivan P. To Flex or Not to Flex? Is There a Relationship Between Lumbar Spine Flexion During Lifting and Low Back Pain? A Systematic Review With Meta-analysis. Journal of Orthopaedic & Sports Physical Therapy. 2020;50(3):121-130. doi:10.2519/jospt.2020.9218 · *paywalled*
+
 Schache AG, Dorn TW, Blanch PD, Brown NAT, Pandy MG. Mechanics of the Human Hamstring Muscles during Sprinting. Medicine & Science in Sports & Exercise. 2012;44(4):647-658. doi:10.1249/MSS.0b013e318236a3d2 · *paywalled*
 
-Schoenfeld BJ, Grgic J, Krieger J. How many times per week should a muscle be trained to maximize muscle hypertrophy? A systematic review and meta-analysis of resistance training frequency. Journal of Sports Sciences. 2019;37(11):1286-1295. doi:10.1080/02640414.2018.1555906 · *paywalled*
+Schellenberg F, Lindorfer J, List R, Taylor WR, Lorenzetti S. Kinetic and kinematic differences between deadlifts and goodmornings. Sports Medicine, Arthroscopy, Rehabilitation, Therapy & Technology. 2013;5(1):27. doi:10.1186/2052-1847-5-27 · **open access**
+
+Schellenberg F, Schmid N, Häberle R, Hörterer N, Taylor WR, Lorenzetti S. Loading conditions in the spine, hip and knee during different executions of back extension exercises. BMC Sports Science, Medicine and Rehabilitation. 2017;9(1):10. doi:10.1186/s13102-017-0074-0 · **open access**
+
+Schoenfeld BJ, Contreras B, Krieger J, Grgic J, Delcastillo K, Belliard R, et al. Resistance Training Volume Enhances Muscle Hypertrophy but Not Strength in Trained Men [cited as Schoenfeld et al., 2019a]. Medicine and Science in Sports and Exercise. 2019;51(1):94-103. doi:10.1249/MSS.0000000000001764 · **open access**
+
+Schoenfeld BJ, Grgic J, Haun C, Itagaki T, Helms ER. Calculating Set-Volume for the Limb Muscles with the Performance of Multi-Joint Exercises: Implications for Resistance Training Prescription [cited as Schoenfeld et al., 2019b]. Sports. 2019;7(7):177. doi:10.3390/sports7070177 · **open access**
+
+Schoenfeld BJ, Grgic J, Krieger J. How many times per week should a muscle be trained to maximize muscle hypertrophy? A systematic review and meta-analysis of resistance training frequency [cited as Schoenfeld et al., 2019c]. Journal of Sports Sciences. 2019;37(11):1286-1295. doi:10.1080/02640414.2018.1555906 · *paywalled*
 
 Schoenfeld BJ, Grgic J, Ogborn D, Krieger JW. Strength and Hypertrophy Adaptations Between Low- vs. High-Load Resistance Training: A Systematic Review and Meta-analysis. Journal of Strength and Conditioning Research. 2017;31(12):3508-3523. doi:10.1519/JSC.0000000000002200 · *paywalled*
 
-Schoenfeld BJ, Ogborn D, Krieger JW. Effect of Repetition Duration During Resistance Training on Muscle Hypertrophy: A Systematic Review and Meta-Analysis. Sports Medicine. 2015;45(4):577-585. doi:10.1007/s40279-015-0304-0 · *paywalled*
+Schoenfeld BJ, Ogborn D, Krieger JW. Effect of Repetition Duration During Resistance Training on Muscle Hypertrophy: A Systematic Review and Meta-Analysis [cited as Schoenfeld et al., 2015a]. Sports Medicine. 2015;45(4):577-585. doi:10.1007/s40279-015-0304-0 · *paywalled*
+
+Schoenfeld BJ, Peterson MD, Ogborn D, Contreras B, Sonmez GT. Effects of Low- vs. High-Load Resistance Training on Muscle Strength and Hypertrophy in Well-Trained Men [cited as Schoenfeld et al., 2015b]. Journal of Strength and Conditioning Research. 2015;29(10):2954-2963. doi:10.1519/JSC.0000000000000958 · *paywalled*
 
 Schoenfeld BJ, Pope ZK, Benik FM, Hester GM, Sellers J, Nooner JL, et al. Longer Interset Rest Periods Enhance Muscle Strength and Hypertrophy in Resistance-Trained Men. Journal of Strength and Conditioning Research. 2016;30(7):1805-1812. doi:10.1519/JSC.0000000000001272 · *paywalled*
 
@@ -14318,21 +17912,65 @@ Schoenfeld BJ, Vigotsky A, Contreras B, Golden S, Alto A, Larson R, et al. Diffe
 
 Schuermans J, Witvrouw E, Wezenbeek E, Lievens E. Hamstring muscle fibre typology is not associated with hamstring strain injury history or performance in amateur male soccer players: a retrospective magnetic resonance spectroscopy study. Biology of Sport. 2023;40(4):1177-1186. doi:10.5114/biolsport.2023.126663 · **open access**
 
+Sekáč J, Šagát P, Bartík P, Kilián M, Tohănean DI, Perez J, et al. Distal Triceps Tendon Rupture—First Retrospective Study in Central Europe. Journal of Clinical Medicine. 2024;13(24):7792. doi:10.3390/jcm13247792 · **open access**
+
+Shahtahmassebi B, Hebert JJ, Hecimovich M, Fairchild TJ. Trunk exercise training improves muscle size, strength, and function in older adults: A randomized controlled trial. Scandinavian Journal of Medicine & Science in Sports. 2019;29(7):980-991. doi:10.1111/sms.13415 · *paywalled*
+
+Shahtahmassebi B, Hebert JJ, Stomski NJ, Hecimovich M, Fairchild TJ. The Effect of Exercise Training on Lower Trunk Muscle Morphology. Sports Medicine. 2014;44(10):1439-1458. doi:10.1007/s40279-014-0213-7 · *paywalled*
+
+Shivdasani K, Scheidt M, Anderson J, Okafor L, Garbis N, Salazar D. Full-thickness triceps tears misdiagnosed as olecranon bursitis: a case report. JSES Reviews, Reports, and Techniques. 2024;4(2):319-323. doi:10.1016/j.xrrt.2024.02.002 · **open access**
+
+Shoji K, Nakayama K, Shiouchi M, Manabe Y. Load-dependent increase in lumbar kyphosis is associated with posterior pelvic tilt during deadlift. Frontiers in Sports and Active Living. 2025;7:1682991. doi:10.3389/fspor.2025.1682991 · **open access**
+
+Shuttlewood K, Beazley J, Smith CD. Distal triceps injuries (including snapping triceps): A systematic review of the literature. World Journal of Orthopedics. 2017;8(6):507-513. doi:10.5312/wjo.v8.i6.507 · **open access**
+
+Siewe J, Rudat J, Röllinghoff M, Schlegel UJ, Eysel P, Michael JWP. Injuries and Overuse Syndromes in Powerlifting. International Journal of Sports Medicine. 2011;32(9):703-711. doi:10.1055/s-0031-1277207 · *paywalled*
+
+Sinaki M, Mikkelsen BA. Postmenopausal spinal osteoporosis: flexion versus extension exercises. Archives of Physical Medicine and Rehabilitation. 1984;65(10):593-596. PMID:6487063 — no DOI was ever issued · *paywalled*
+
 Smith TO, Nichols R, Harle D, Donell ST. Do the vastus medialis obliquus and vastus medialis longus really exist? A systematic review. Clinical Anatomy. 2009;22(2):183-199. doi:10.1002/ca.20737 · *paywalled*
+
+Snook SH, Webster BS, McGorry RW, Fogleman MT, McCann KB. The Reduction of Chronic Nonspecific Low Back Pain Through the Control of Early Morning Lumbar Flexion. Spine. 1998;23(23):2601-2607. doi:10.1097/00007632-199812010-00015 · *paywalled*
+
+Snyder BJ, Fry WR. Effect of Verbal Instruction on Muscle Activity During the Bench Press Exercise. Journal of Strength and Conditioning Research. 2012;26(9):2394-2400. doi:10.1519/JSC.0b013e31823f8d11 · *paywalled*
 
 Snyder BJ, Leech JR. Voluntary Increase in Latissimus Dorsi Muscle Activity During the Lat Pull-Down Following Expert Instruction. Journal of Strength and Conditioning Research. 2009;23(8):2204-2209. doi:10.1519/JSC.0b013e3181bb7213 · *paywalled*
 
 Soares ALC, Carvalho RF, Mogami R, Meirelles CM, Gomes PSC. Effect of resistance training on quadriceps femoris muscle thickness obtained by ultrasound: A systematic review with meta-analysis. Journal of Bodywork and Movement Therapies. 2024;38:270-278. doi:10.1016/j.jbmt.2024.02.007 · *paywalled*
 
+Soares EG, Brown LE, Gomes WA, Corrêa DA, Serpa ÉP, da Silva JJ, et al. Comparison Between Pre-Exhaustion and Traditional Exercise Order on Muscle Activation and Performance in Trained Men. Journal of Sports Science and Medicine. 2016;15(1):111-117. PMID:26957933 — no DOI was ever issued · **open access**
+
+Soendenbroe C, Svensson RB, Mittendorfer B, Magnusson SP, Mackey AL, Andersen JL. Morphological differences in myofibre size and shape: A comparative study of the soleus, gastrocnemius, triceps brachii and vastus lateralis in humans and mice. Journal of Anatomy. 2026;248(1):126-139. doi:10.1111/joa.70025 · **open access**
+
+Sollender JL, Rayan GM, Barden GA. Triceps tendon rupture in weight lifters. Journal of Shoulder and Elbow Surgery. 1998;7(2):151-153. doi:10.1016/S1058-2746(98)90227-0 · *paywalled*
+
 Song K, Gaffney BMM, Shelburne KB, Pascual-Garrido C, Clohisy JC, Harris MD. Dysplastic hip anatomy alters muscle moment arm lengths, lines of action, and contributions to joint reaction forces during gait. Journal of Biomechanics. 2020;110:109968. doi:10.1016/j.jbiomech.2020.109968 · **open access**
 
 Srinivasan RC, Lungren MP, Langenderfer JE, Hughes RE. Fiber type composition and maximum shortening velocity of muscles crossing the human shoulder. Clinical Anatomy. 2007;20(2):144-149. doi:10.1002/ca.20349 · **open access**
 
-Steele J, Bruce-Low S, Smith D. A Review of the Clinical Value of Isolated Lumbar Extension Resistance Training for Chronic Low Back Pain. PM&R. 2015;7(2):169-187. doi:10.1016/j.pmrj.2014.10.009 · *paywalled*
+Stasinaki AN, Zaras N, Methenitis S, Tsitkanou S, Krase A, Kavvoura A, et al. Triceps Brachii Muscle Strength and Architectural Adaptations with Resistance Training Exercises at Short or Long Fascicle Length. Journal of Functional Morphology and Kinesiology. 2018;3(2):28. doi:10.3390/jfmk3020028 · **open access**
+
+Steele J, Bruce-Low S, Smith D. A Review of the Clinical Value of Isolated Lumbar Extension Resistance Training for Chronic Low Back Pain [cited as Steele et al., 2015a]. PM&R. 2015;7(2):169-187. doi:10.1016/j.pmrj.2014.10.009 · *paywalled*
+
+Steele J, Fitzpatrick A, Bruce-Low S, Fisher J. The effects of set volume during isolated lumbar extension resistance training in recreationally trained males [cited as Steele et al., 2015b]. PeerJ. 2015;3:e878. doi:10.7717/peerj.878 · **open access**
+
+Storheim K, Holm I, Gunderson R, Brox JI, Bø K. The Effect of Comprehensive Group Training on Cross-sectional Area, Density, and Strength of Paraspinal Muscles in Patients Sick-Listed for Subacute Low Back Pain. Journal of Spinal Disorders & Techniques. 2003;16(3):271-279. doi:10.1097/00024720-200306000-00008 · *paywalled*
 
 Strey B, Irigoyen A, McMahon G, Pinto RS. Muscle hypertrophy from partial repetition at long vs. short muscle length: A systematic review and meta-analysis. Sport Sciences for Health. 2026;22(1):33. doi:10.1007/s11332-025-01586-5 · **open access**
 
+Strömbäck E, Aasa U, Gilenstam K, Berglund L. Prevalence and Consequences of Injuries in Powerlifting: A Cross-sectional Study. Orthopaedic Journal of Sports Medicine. 2018;6(5):2325967118771016. doi:10.1177/2325967118771016 · **open access**
+
 Strońska-Garbień K, Gołaś A, Roczniok R, Terbalyan A, Drozd M. Neuromuscular Repatterning of the Pectoralis Major During the Bench Press Exercise Following a 10-week Targeted Resistance Training Intervention. Journal of Musculoskeletal and Neuronal Interactions. 2024;24(3):276-283. PMID:39219325 — no DOI was ever issued · **open access**
+
+Stuart C, Steele J, Gentil P, Giessing J, Fisher JP. Fatigue and perceptual responses of heavier- and lighter-load isolated lumbar extension resistance exercise in males and females. PeerJ. 2018;6:e4523. doi:10.7717/peerj.4523 · **open access**
+
+Sugisaki N, Wakahara T, Miyamoto N, Murata K, Kanehisa H, Kawakami Y, et al. Influence of muscle anatomical cross-sectional area on the moment arm length of the triceps brachii muscle at the elbow joint. Journal of Biomechanics. 2010;43(14):2844-2847. doi:10.1016/j.jbiomech.2010.06.013 · *paywalled*
+
+Sugisaki N, Wakahara T, Murata K, Miyamoto N, Kawakami Y, Kanehisa H, et al. Influence of Muscle Hypertrophy on the Moment Arm of the Triceps Brachii Muscle. Journal of Applied Biomechanics. 2015;31(2):111-116. doi:10.1123/jab.2014-0126 · *paywalled*
+
+Swinton PA, Stewart A, Agouris I, Keogh JW, Lloyd R. A Biomechanical Analysis of Straight and Hexagonal Barbell Deadlifts Using Submaximal Loads. Journal of Strength and Conditioning Research. 2011;25(7):2000-2009. doi:10.1519/jsc.0b013e3181e73f87 · **open access**
+
+Tafazzol A, Arjmand N, Shirazi-Adl A, Parnianpour M. Lumbopelvic rhythm during forward and backward sagittal trunk rotations: Combined in vivo measurement with inertial tracking device and biomechanical modeling. Clinical Biomechanics. 2014;29(1):7-13. doi:10.1016/j.clinbiomech.2013.10.021 · *paywalled*
 
 Takahashi K, Kamibayashi K, Wakahara T. Gluteus and posterior thigh muscle sizes in sprinters: their distributions along muscle length. European Journal of Sport Science. 2022;22(6):799-807. doi:10.1080/17461391.2021.1907450 · *paywalled*
 
@@ -14342,13 +17980,31 @@ Thorstensson A, Carlson H. Fibre types in human lumbar back muscles. Acta Physio
 
 Timmins RG, Bourne MN, Shield AJ, Williams MD, Lorenzen C, Opar DA. Short biceps femoris fascicles and eccentric knee flexor weakness increase the risk of hamstring injury in elite football (soccer): a prospective cohort study. British Journal of Sports Medicine. 2016;50(24):1524-1535. doi:10.1136/bjsports-2015-095362 · *paywalled*
 
+Toby EB, Hanesworth D. Ulnar nerve strains at the elbow. The Journal of Hand Surgery. 1998;23(6):992-997. doi:10.1016/S0363-5023(98)80005-1 · *paywalled*
+
+Trybulski R, Michał W, Małgorzata S, Bogdański B, Bichowska-Pawęska M, Ryszkiel I, et al. Impact of isolated lumbar extension strength training on reducing nonspecific low back pain, disability, and improving function: a systematic review and meta-analysis. Scientific Reports. 2025;15(1):6426. doi:10.1038/s41598-025-90699-5 · **open access**
+
 Tsaopoulos DE, Baltzopoulos V, Richards PJ, Maganaris CN. A comparison of different two-dimensional approaches for the determination of the patellar tendon moment arm length. European Journal of Applied Physiology. 2009;105(5):809-814. doi:10.1007/s00421-008-0968-3 · *paywalled*
+
+Tucci JT, Carpenter DM, Pollock ML, Graves JE, Leggett SH. Effect of Reduced Frequency of Training and Detraining on Lumbar Extension Strength. Spine. 1992;17(12):1497-1501. doi:10.1097/00007632-199212000-00009 · *paywalled*
+
+Tung MJY, Lantz GA, Lopes AD, Berglund L. Injuries in weightlifting and powerlifting: an updated systematic review. BMJ Open Sport & Exercise Medicine. 2024;10(4):e001884. doi:10.1136/bmjsem-2023-001884 · **open access**
+
+Turcotte AF, Kukuljan S, Dalla Via J, Gagnon C, Abbott G, Daly RM. Changes in spinal bone density, back muscle size, and visceral adipose tissue and their interaction following a multi-component exercise program in older men: secondary analysis of an 18-month randomized controlled trial. Osteoporosis International. 2020;31(10):2025-2035. doi:10.1007/s00198-020-05484-z · **open access**
+
+Tveit P, Daggfeldt K, Hetland S, Thorstensson A. Erector Spinae Lever Arm Length Variations with Changes in Spinal Curvature. Spine. 1994;19(2):199-204. doi:10.1097/00007632-199401001-00015 · *paywalled*
 
 Valério DF, Berton R, Conceição MS, Canevarolo RR, Chacon-Mikahil MPT, Cavaglieri CR, et al. The effects of lifting straps in maximum strength, number of repetitions and muscle activation during lat pull-down. Sports Biomechanics. 2021;20(7):858-865. doi:10.1080/14763141.2019.1610490 · *paywalled*
 
 van den Tillaar R. Comparison of Kinematics and Muscle Activation between Push-up and Bench Press. Sports Medicine International Open. 2019;3(3):E74-E81. doi:10.1055/a-1001-2526 · **open access**
 
+van Dieën JH, Hoozemans MJM, Toussaint HM. Stoop or squat: a review of biomechanical studies on lifting technique. Clinical Biomechanics. 1999;14(10):685-696. doi:10.1016/s0268-0033(99)00031-5 · *paywalled*
+
+van Duijvenbode I, Jellema P, van Poppel M, van Tulder MW. Lumbar supports for prevention and treatment of low back pain. Cochrane Database of Systematic Reviews. 2008;(2):CD001823. doi:10.1002/14651858.cd001823.pub3 · **open access**
+
 van Dyk N, Behan FP, Whiteley R. Including the Nordic hamstring exercise in injury prevention programmes halves the rate of hamstring injuries: a systematic review and meta-analysis of 8459 athletes. British Journal of Sports Medicine. 2019;53(21):1362-1370. doi:10.1136/bjsports-2018-100045 · **open access**
+
+Vandenberg CJ, Touhey DC, Brophy RH, Smith MV, Knapik DM. Distal triceps tendon rupture repair results in high return to sport rates for amateur and professional athletes: a systematic review. JSES Reviews, Reports, and Techniques. 2026;6(2):100694. doi:10.1016/j.xrrt.2026.100694 · **open access**
 
 Varovic D, Wolf M, Schoenfeld BJ, Steele J, Grgic J, Mikulic P. Does Muscle Length Influence Regional Hypertrophy? A Systematic Review and Meta-Analysis [cited as Varovic et al., 2025a]. International Journal of Sports Medicine. 2025;46(14):1027-1036. doi:10.1055/a-2615-4935 · *paywalled*
 
@@ -14362,13 +18018,21 @@ Vigotsky AD, Halperin I, Lehman GJ, Trajano GS, Vieira TM. Interpreting Signal A
 
 Vigotsky AD, Halperin I, Trajano GS, Vieira TM. Longing for a Longitudinal Proxy: Acutely Measured Surface EMG Amplitude is not a Validated Predictor of Muscle Hypertrophy. Sports Medicine. 2022;52(2):193-199. doi:10.1007/s40279-021-01619-2 · *paywalled*
 
+Vigotsky AD, Harper EN, Ryan DR, Contreras B. Effects of load on good morning kinematics and EMG activity. PeerJ. 2015;3:e708. doi:10.7717/peerj.708 · **open access**
+
 Vigotsky AD, Nuckols GL, Fisher JP, Heathers J, Krieger J, Schoenfeld BJ, et al. Improbable data patterns in the work of Barbalho et al. SportRxiv. 2020. doi:10.31236/osf.io/sg3wm · **open access** — *preprint; not peer reviewed*
 
+Villalba MM, Fujita RA, Iossi Junior C, Machado Gomes M. Forearm Position Influences Triceps Brachii Activation During Triceps Push-Down Exercise. International Journal of Strength and Conditioning. 2024;4(1). doi:10.47206/ijsc.v4i1.250 · **open access**
+
 Vispute SS, Smith JD, LeCheminant JD, Hurley KS. The Effect of Abdominal Exercise on Abdominal Fat. Journal of Strength and Conditioning Research. 2011;25(9):2559-2564. doi:10.1519/JSC.0b013e3181fb4a46 · *paywalled*
+
+Vleeming A, Pool-Goudzwaard AL, Stoeckart R, van Wingerden JP, Snijders CJ. The Posterior Layer of the Thoracolumbar Fascia: Its Function in Load Transfer From Spine to Legs. Spine. 1995;20(7):753-758. doi:10.1097/00007632-199504000-00001 · *paywalled*
 
 Wackerhage H, Schoenfeld BJ, Hamilton DL, Lehti M, Hulmi JJ. Stimuli and sensors that initiate skeletal muscle hypertrophy following resistance exercise. Journal of Applied Physiology. 2019;126(1):30-43. doi:10.1152/japplphysiol.00685.2018 · **open access**
 
 Wakahara T, Fukutani A, Kawakami Y, Yanai T. Nonuniform Muscle Hypertrophy: Its Relation to Muscle Activation in Training Session. Medicine and Science in Sports and Exercise. 2013;45(11):2158-2165. doi:10.1249/MSS.0b013e3182995349 · *paywalled*
+
+Wakahara T, Miyamoto N, Sugisaki N, Murata K, Kanehisa H, Kawakami Y, et al. Association between regional differences in muscle activation in one session of resistance exercise and in muscle hypertrophy after resistance training. European Journal of Applied Physiology. 2012;112(4):1569-1576. doi:10.1007/s00421-011-2121-y · *paywalled*
 
 Wakahara T, Shiraogawa A. Effects of neuromuscular electrical stimulation training on muscle size in collegiate track and field athletes. PLOS ONE. 2019;14(11):e0224881. doi:10.1371/journal.pone.0224881 · **open access**
 
@@ -14380,7 +18044,15 @@ Warneke K, Siegel SD, Drabow J, Zech A, Behm DG, et al. Examiner experience mode
 
 Wei W, Zhu J, Ren S, Jan YK, Zhang W, Su R, et al. Effects of progressive body-weight versus barbell back squat training on strength, hypertrophy and body fat among sedentary young women. Scientific Reports. 2023;13:14601. doi:10.1038/s41598-023-40319-x · **open access**
 
+Wesselink EO, Pool JJM, Mollema J, Weber KA, Elliott JM, Coppieters MW, et al. Is fatty infiltration in paraspinal muscles reversible with exercise in people with low back pain? A systematic review. European Spine Journal. 2023;32(3):787-796. doi:10.1007/s00586-022-07471-w · **open access**
+
+Wesselink EO, Pool-Goudzwaard A, De Leener B, Law CSW, Fenyo MB, Ello GM, et al. Investigating the associations between lumbar paraspinal muscle health and age, BMI, sex, physical activity, and back pain using an automated computer-vision model: a UK Biobank study. The Spine Journal. 2024;24(7):1253-1266. doi:10.1016/j.spinee.2024.02.013 · **open access**
+
 Westerhoff P, Graichen F, Bender A, Halder A, Beier A, Rohlmann A, et al. In vivo measurement of shoulder joint loads during activities of daily living. Journal of Biomechanics. 2009;42(12):1840-1849. doi:10.1016/j.jbiomech.2009.05.035 · *paywalled*
+
+Wilke HJ, Neef P, Caimi M, Hoogland T, Claes LE. New In Vivo Measurements of Pressures in the Intervertebral Disc in Daily Life. Spine. 1999;24(8):755-762. doi:10.1097/00007632-199904150-00005 · *paywalled*
+
+Willemink MJ, van Es HW, Helmhout PH, Diederik AL, Kelder JC, van Heesewijk JPM. The Effects of Dynamic Isolated Lumbar Extensor Training on Lumbar Multifidus Functional Cross-Sectional Area and Functional Status of Patients With Chronic Nonspecific Low Back Pain. Spine. 2012;37(26):E1651-E1658. doi:10.1097/brs.0b013e318274fb2f · *paywalled*
 
 Wolf M, Androulakis Korakakis P, Piñero A, Mohan AE, Hermann T, Augustin F, et al. Lengthened partial repetitions elicit similar muscular adaptations as full range of motion repetitions during resistance training in trained individuals. PeerJ. 2025;13:e18904. doi:10.7717/peerj.18904 · **open access**
 
@@ -14388,7 +18060,13 @@ Wolf M, Korakakis PA, Roberts MD, Plotkin DL, Franchi MV, Contreras B, et al. Do
 
 Worrell TW, Karst G, Adamczyk D, Moore R, Stanley C, Steimel B, et al. Influence of Joint Position on Electromyographic and Torque Generation During Maximal Voluntary Isometric Contractions of the Hamstrings and Gluteus Maximus Muscles. Journal of Orthopaedic & Sports Physical Therapy. 2001;31(12):730-740. doi:10.2519/jospt.2001.31.12.730 · *paywalled*
 
+Xia WZ, Abukar A, Moosavi H, Nandi N, Rashid A. Snapping triceps syndrome: a review of the literature and proposed operative treatment algorithm. JSES Reviews, Reports, and Techniques. 2026;6(1):100580. doi:10.1016/j.xrrt.2025.08.017 · **open access**
+
 Yamaguchi Y, Nishiyama T, Wada N, Fukuda W, Mizuno M, Otsuka M. Different morphology and function of hip extensor muscles between sprint runners and sprint cyclists. Scientific Reports. 2025;15(1):16372. doi:10.1038/s41598-025-98231-5 · **open access**
+
+Yamamoto R, Nimura A, Muro S, Hoshika S, Akita K. Anatomy of the distal tendinous structure of the triceps brachii: implications for the role of the triceps brachii to resist valgus elbow forces during baseball pitching. Journal of Shoulder and Elbow Surgery. 2025;34(8):e672-e682. doi:10.1016/j.jse.2024.11.023 · **open access**
+
+Yoo WG. Comparison of the isolated contraction ratios of the hip extensors and erector spinae muscles of the lumbar region and thoracic muscles during different back extension exercises. Journal of Physical Therapy Science. 2015;27(2):315-316. doi:10.1589/jpts.27.315 · **open access**
 
 Youdas JW, Amundson CL, Cicero KS, Hahn JJ, Harezlak DT, Hollman JH. Surface Electromyographic Activation Patterns and Elbow Joint Motion During a Pull-Up, Chin-Up, or Perfect-Pullup Rotational Exercise. Journal of Strength and Conditioning Research. 2010;24(12):3404-3414. doi:10.1519/JSC.0b013e3181f1598c · *paywalled*
 
@@ -14398,4 +18076,12 @@ Zabaleta-Korta A, Fernández-Peña E, Torres-Unda J, Garbisu-Hualde A, Santos-Co
 
 Zabaleta-Korta A, Latorre-Erezuma U, Fernández-Peña E, Torres-Unda J, Santos-Concejero J. Regional hypertrophy of muscle cannot be predicted by surface electromyography. Isokinetics and Exercise Science. 2024;32(2):155-161. doi:10.3233/IES-230079 · *paywalled*
 
+Zanesco L, Uthant R, Arai C, Assunção J, Checchia C, Beraldo RA, et al. Elbow Disorders in an Outpatient Clinic: An Epidemiological Study. Cureus. 2025:e85029. doi:10.7759/cureus.85029 · **open access**
+
+Zaras N, Stasinaki AN, Mpampoulis T, Spiliopoulou P, Hadjicharalambous M, Terzis G. Effect of Inter-Repetition Rest vs. Traditional Resistance Training on the Upper Body Strength Rate of Force Development and Triceps Brachii Muscle Architecture. Journal of Human Kinetics. 2022;81:189-198. doi:10.2478/hukin-2022-0016 · **open access**
+
+Zaroni RS, Brigatto FA, Schoenfeld BJ, Braz TV, Benvenutti JC, Germano MD, et al. High Resistance-Training Frequency Enhances Muscle Thickness in Resistance-Trained Men. Journal of Strength and Conditioning Research. 2019;33(Suppl 1):S140-S151. doi:10.1519/JSC.0000000000002643 · *paywalled*
+
 Zhang B, Raguzzi IA, Dupuis F, Gianola S, Morgan-Daniel J, Roy JS, et al. Addressing Shoulder Weakness in Individuals With Rotator Cuff-Related Shoulder Pain: A Systematic Review With Meta-analysis. Journal of Orthopaedic & Sports Physical Therapy. 2026;56(2):67-84. doi:10.2519/jospt.2025.13445 · **open access**
+
+Zwambag DP, Ricketts TA, Brown SHM. Sarcomere length organization as a design for cooperative function amongst all lumbar spine muscles. Journal of Biomechanics. 2014;47(12):3087-3093. doi:10.1016/j.jbiomech.2014.06.030 · *paywalled*
