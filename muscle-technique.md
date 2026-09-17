@@ -4,7 +4,7 @@
 > leverage rather than from tradition. Each muscle gets its own Part: anatomy → biomechanics →
 > the rep → exercise catalogue → contexts → programming. **This volume covers the latissimus
 > dorsi, the quadriceps femoris, the gluteal muscles, the deltoids, the core, the
-> hamstrings, the pectoral muscles, the triceps brachii and the erector spinae.** Further muscles are added as
+> hamstrings, the pectoral muscles, the triceps brachii, the erector spinae and the elbow flexors.** Further muscles are added as
 > new Parts; the glossary and bibliography are always the final two Parts and are shared across all
 > of them.
 >
@@ -88,8 +88,16 @@
    - **§E** [Context modifiers — when "perfect" changes](#partxecontextmodifiers)
    - **§F** [Programming](#partxfprogramming)
    - **§G** [Synthesis, and what the evidence does not support](#partxgsynthesis)
-11. **[Part XI — Master Glossary](#partximasterglossary)** (305 entries, in dependency order, with an alphabetical index at its head)
-12. **[Part XII — Bibliography](#partxiibibliography)** (480 sources, 226 open access)
+11. **[Part XI — Elbow Flexors](#partxielbowflexors)**
+   - **§A** [Anatomy and architecture](#partxiaanatomyandarchitecture)
+   - **§B** [Biomechanics — what actually loads the elbow flexors](#partxibbiomechanics)
+   - **§C** [The rep, specified](#partxictherepspecified)
+   - **§D** [Exercise catalogue](#partxidexercisecatalogue)
+   - **§E** [Context modifiers — when "perfect" changes](#partxiecontextmodifiers)
+   - **§F** [Programming](#partxifprogramming)
+   - **§G** [Synthesis, and what the evidence does not support](#partxigsynthesis)
+12. **[Part XII — Master Glossary](#partxiimasterglossary)** (321 entries, in dependency order, with an alphabetical index at its head)
+13. **[Part XIII — Bibliography](#partxiiibibliography)** (521 sources, 248 open access)
 
 **How to read this.** The first occurrence of a technical term in each Part links to its glossary
 entry. Cross-references are written `Part II §B.4`.
@@ -115,8 +123,8 @@ and no punctuation of any kind** — `forcelengthrelationship`, `momentarm`, `pa
 That character set is the fixed point of all four algorithms: each maps it to itself, so one link form
 works everywhere without HTML anchors or renderer-specific syntax. The cost is that the heading itself
 is not meant to be read; **the human-readable name is the bold lead-in immediately below it**, and the
-alphabetical index at the head of Part XI is the place to look a term up. Structural anchors carry
-their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to X share
+alphabetical index at the head of Part XII is the place to look a term up. Structural anchors carry
+their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to XI share
 section titles and would otherwise collide. Links are same-file only: no HTML anchors, no relative file links, no external
 links.
 
@@ -1873,7 +1881,7 @@ THREE-TIMES-WEEKLY — HIGH VOLUME, ROTATING EMPHASIS
 large. Row three has one lat-specific anchor — eight weeks of pulldown-and-row training produced
 **+22% latissimus fibre cross-sectional area** on biopsy in 18 novice men (Paoli et al., 2016) — but
 no study has tracked lat *thickness* by ultrasound over these timelines, and the method is a poor index
-of individual change in any case (Part XI, muscle thickness). Rows four and five
+of individual change in any case (Part XII, muscle thickness). Rows four and five
 are coaching convention, not measured outcomes.
 
 **Validity caveat:** thickness measured in the first weeks of a new program is inflated by
@@ -5172,7 +5180,7 @@ It is **the largest muscle of the upper limb.** Measured by MRI in ten living ad
 percentile female to a 97th percentile male, the deltoid held the largest volume fraction of all
 thirty-two muscles crossing the shoulder, elbow, forearm and wrist — **15.2 ± 1% of the limb's total
 muscle volume** — and that fraction was highly conserved across a three-fold range of total muscle
-volume (Holzbaur et al., 2007).
+volume (Holzbaur et al., 2007a).
 
 The fact that dictates everything below is that this one muscle **wraps a ball joint from three sides
 at once.** The front third crosses in front of the joint's centre, the back third crosses behind it,
@@ -5251,7 +5259,7 @@ cadaveric studies that disagree with each other by a factor of three.
 HUMAN DELTOID - WHAT HAS ACTUALLY BEEN MEASURED
                                        Value               Source
   Share of the whole upper limb's
-  muscle volume                        15.2 +/- 1%         Holzbaur 2007, MRI, 10 living
+  muscle volume                        15.2 +/- 1%         Holzbaur 2007a, MRI, 10 living
                                        (largest of 32)     adults
   Whole-muscle volume                  314 - 475 cm3       3 cadaver studies, pooled in
                                                            Garner & Pandy 2003 Table 1
@@ -6528,7 +6536,7 @@ of exposure, so they establish where injuries land, not how likely they are.
 | Context | Common modification | Evidence note |
 |---|---|---|
 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) — a painful arc, pain reaching overhead, pain lying on that side | **Reduce the provoking arc first**, then load progressively in the pain-free range. Keep the press below the painful band or replace it with a landmine press; keep raises in the scapular plane | Rehabilitation improved shoulder strength in this population across twenty-eight studies, and **interventions that did not include exercise had no effect at all** (Zhang et al., 2026). The active ingredient is loading |
-| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part XI, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
+| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part XII, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
 | History of dislocation or [shoulder instability](#shoulderinstability) | Overhead and behind-the-neck positions are commonly restricted; abduction with external rotation is the classic apprehension position | Governed by the clinician, not by this document |
 | Acromioclavicular joint pain — point tenderness on top of the shoulder | Reduce [horizontal adduction](#shoulderhorizontaladduction) across the body; raises and presses are usually well tolerated | The joint is compressed by reaching across, not by reaching out |
 | Long head of biceps pain — front-of-shoulder pain with a defined tender line | Reduce front raises and dips; the tendon runs in the [bicipital groove](#bicipitalgroove) directly under them | Mechanism, not trial evidence |
@@ -6824,7 +6832,7 @@ notice the second.
 
 ### G.1 The rules that hold
 
-1. **The deltoid is the largest muscle of the upper limb** — 15.2 ± 1% of its total muscle volume, the largest fraction of any of thirty-two muscles measured (Holzbaur et al., 2007). It is a primary target, not an accessory to pressing.
+1. **The deltoid is the largest muscle of the upper limb** — 15.2 ± 1% of its total muscle volume, the largest fraction of any of thirty-two muscles measured (Holzbaur et al., 2007a). It is a primary target, not an accessory to pressing.
 2. **It is three muscles, and their moment arms differ in sign.** Through the lower half of a lateral raise the posterior head has a *larger* moment arm than the middle head, pointing the other way (Ackland et al., 2008). No other muscle in this document contains a region that opposes its own principal action with better leverage than the region performing it.
 3. **Its leverage grows as the arm rises**, from 8.3 mm at 2.5° to 29.1 mm at 86° of abduction. That is the reverse of the quadriceps and the gluteus maximus, and it is why the "load the lengthened position" default of Parts II to IV does not transfer here (Part V §B.2).
 4. **The bottom of an abduction is the joint's problem, not the muscle's opportunity.** The rotator cuff out-levers the deltoid by more than three to one there, and the deltoid's line of pull is nearly parallel to the humerus, so most of its force is aimed at the joint rather than at rotation (Part V §A.5).
@@ -6852,7 +6860,7 @@ notice the second.
 | "You can target the front, middle and rear of the side delt" | **Not supported.** The seven anatomical segments are real (Sakoma et al., 2011); no growth measurement has ever been made at that resolution, and regional activation does not predict regional growth (Zabaleta-Korta et al., 2024) |
 | "Shrugs build shoulders" | **Not supported.** The humerus does not move; that is a trapezius exercise |
 | "Lateral raises above shoulder height finish the movement off" | **Not supported.** The load's moment arm falls above 90° while the trapezius's share rises (Part V §B.8) |
-| "Light, high-rep raises are enough because the deltoid is a postural muscle" | **Not supported.** It is the largest muscle of the upper limb (Holzbaur et al., 2007), the middle head is a short-fibred high-PCSA force muscle (Peterson & Rayan, 2011), and the only trial that grew it used loads taken to momentary failure at 12–16 repetitions |
+| "Light, high-rep raises are enough because the deltoid is a postural muscle" | **Not supported.** It is the largest muscle of the upper limb (Holzbaur et al., 2007a), the middle head is a short-fibred high-PCSA force muscle (Peterson & Rayan, 2011), and the only trial that grew it used loads taken to momentary failure at 12–16 repetitions |
 
 **Four open questions this document cannot close, and they are larger than in any other Part.**
 **No study has measured posterior deltoid hypertrophy from anything**, so the whole of Part V §D.3
@@ -11891,7 +11899,7 @@ also starts above the shoulder joint, so it pulls the whole arm backward as well
 
 Three facts organize the Part.
 
-1. **It is the largest muscle of the upper arm.** In ten living adults measured by MRI, the triceps occupied **14.5 ± 0.7% of all upper-limb [muscle volume](#musclevolume)** — second only to the [deltoid](#deltoid)'s 15.2% in the whole limb — at a mean of **372 cm³**, against 144 cm³ for the biceps, 144 cm³ for the brachialis and 65 cm³ for the brachioradialis (Holzbaur et al., 2007). **The triceps alone is slightly larger than the three main elbow flexors together — 372 against 353 cm³ — and the whole extensor and flexor groups each make up about 15% of upper-limb muscle volume** (Holzbaur et al., 2007).
+1. **It is the largest muscle of the upper arm.** In ten living adults measured by MRI, the triceps occupied **14.5 ± 0.7% of all upper-limb [muscle volume](#musclevolume)** — second only to the [deltoid](#deltoid)'s 15.2% in the whole limb — at a mean of **372 cm³**, against 144 cm³ for the biceps, 144 cm³ for the brachialis and 65 cm³ for the brachioradialis (Holzbaur et al., 2007a). **The triceps alone is slightly larger than the three main elbow flexors together — 372 against 353 cm³ — and the whole extensor and flexor groups each make up about 15% of upper-limb muscle volume** (Holzbaur et al., 2007a).
 2. **One head crosses two joints and two heads cross one.** The [long head](#tricepslonghead) is [biarticular](#biarticularmuscle): both the shoulder and the elbow set its length. The [lateral](#tricepslateralhead) and [medial](#tricepsmedialhead) heads are [monoarticular](#monoarticularmuscle): only the elbow sets theirs. This is the arrangement Part VII organized itself around for the hamstrings, and here it decides which exercises can shift work between the heads (Part IX §B.4).
 3. **Both of its joints lengthen the long head, and only the shoulder separates it from the other two.** Its [moment arm](#momentarm) at the elbow is about 2 cm. How far that stretches the fibres depends on which cadaveric fibre length is believed: against the 12.7 cm long-head fascicles of a ten-arm series, 90° of elbow flexion moves the long head through **28% of its optimal length** (Murray et al., 2000); against the 5.2 cm fascicles of a single-specimen series (Ruggiero et al., 2016), the same moment arm gives about 60%. **The elbow is not a small contributor to length. The shoulder is simply the only contributor that acts on one head alone** (Part IX §B.2).
 
@@ -11966,7 +11974,7 @@ TRICEPS ARCHITECTURE - TWO CADAVERIC DATASETS THAT DO NOT AGREE
 **Three readings.**
 
 - **The fibre lengths differ by more than half, and the [PCSA](#pcsa) doubles in consequence.** PCSA is volume divided by optimal [fascicle length](#fasciclelength), so a dataset that measures fibres half as long must report a cross-section twice as large. Neither study can be averaged with the other, and **no absolute number in this section should be leaned on**. The ratios inside each dataset are the usable part.
-- **The ranking survives both datasets; the living-adult figures are not a third, independent check.** In the ten-arm series the combined triceps had the **greatest moment-generating capacity of any single elbow muscle in every specimen**, about ten times the PCSA of the brachioradialis (Murray et al., 2000). The MRI studies of living adults measured volume and then divided it by fibre lengths taken from cadaveric fibre-to-muscle ratios, including that series — so the triceps' larger share of upper-limb PCSA (**18.2%**) than of volume (**14.5%**) restates the cadaveric fibre lengths in living volumes rather than confirming them (Holzbaur et al., 2007). The same holds for a PCSA **1.9 times** that of all the elbow flexors in four men (Kawakami et al., 1994).
+- **The ranking survives both datasets; the living-adult figures are not a third, independent check.** In the ten-arm series the combined triceps had the **greatest moment-generating capacity of any single elbow muscle in every specimen**, about ten times the PCSA of the brachioradialis (Murray et al., 2000). The MRI studies of living adults measured volume and then divided it by fibre lengths taken from cadaveric fibre-to-muscle ratios, including that series — so the triceps' larger share of upper-limb PCSA (**18.2%**) than of volume (**14.5%**) restates the cadaveric fibre lengths in living volumes rather than confirming them (Holzbaur et al., 2007a). The same holds for a PCSA **1.9 times** that of all the elbow flexors in four men (Kawakami et al., 1994).
 - **The ratio to the pectoralis major depends on the dataset.** The three heads had **3.6 times** the pectoralis major's PCSA in the single-specimen series (Part VIII §A.4) and **2.5 times** in the living-adult series (40.0 against 15.9 cm²; Holzbaur et al., 2007). Which of the two muscles ends a press is set by the moment each joint must supply at each point of the lift, which grip width redistributes (Part IX §B.8), not by cross-section alone.
 
 **What living muscle shows, which cadavers cannot.** In thirty-two men ranging from untrained to
@@ -12093,7 +12101,7 @@ effort, load is a free choice for hypertrophy.
 
 | Muscle | Relationship | Consequence for training |
 |---|---|---|
-| Anconeus | A small extensor beside it; its fascia is continuous with the triceps tendon's lateral expansion (Keener et al., 2010) | Trains in every elbow extension. **Never a target**: 10.8 cm³ against the triceps' 372 cm³ (Holzbaur et al., 2007) |
+| Anconeus | A small extensor beside it; its fascia is continuous with the triceps tendon's lateral expansion (Keener et al., 2010) | Trains in every elbow extension. **Never a target**: 10.8 cm³ against the triceps' 372 cm³ (Holzbaur et al., 2007a) |
 | Pectoralis major and [anterior deltoid](#anteriordeltoid) | Share every press | A press set is shared work, and the pectoralis major grew more than the triceps from bench pressing alone (Lanza et al., 2024) |
 | [Latissimus dorsi](#latissimusdorsi), [teres major](#teresmajor), posterior deltoid | Share shoulder extension with the long head | Every row, pulldown and pullover asks the long head for shoulder-extension moment while it shortens at the shoulder; none has been measured for triceps growth (Part IX §D.5) |
 | [Elbow flexors](#elbowflexors) | The direct antagonists | The one pairing in the upper arm with no shared action at all, so they can be trained back to back without either limiting the other |
@@ -12143,7 +12151,7 @@ under control, at a load you could stop (Part VIII §C.2).
 
 ### A.9 What the anatomy dictates, in nine lines
 
-1. **The triceps is the largest muscle of the upper arm** — 14.5% of upper-limb muscle volume, slightly more than the three main elbow flexors combined (Holzbaur et al., 2007).
+1. **The triceps is the largest muscle of the upper arm** — 14.5% of upper-limb muscle volume, slightly more than the three main elbow flexors combined (Holzbaur et al., 2007a).
 2. **Three heads, one insertion, and only the long head crosses the shoulder.**
 3. **The elbow lengthens every head** — by 28% or about 60% of the long head's optimal length per 90°, depending on the cadaveric dataset (Murray et al., 2000).
 4. **The shoulder lengthens the long head alone** — about a fifth of fascicle length between an overhead extension and a pushdown at the same elbow angle (Stasinaki et al., 2018).
@@ -13380,7 +13388,7 @@ TEMPLATE F - TIME FLOOR, 2 SETS/WEEK
 
 ### G.1 The rules that hold
 
-1. **The triceps is the largest muscle of the upper arm and a force muscle.** It is 14.5% of upper-limb muscle volume, slightly larger than the three main elbow flexors together (Holzbaur et al., 2007), and in every cadaveric arm it had the greatest moment-generating capacity of any single elbow muscle (Murray et al., 2000).
+1. **The triceps is the largest muscle of the upper arm and a force muscle.** It is 14.5% of upper-limb muscle volume, slightly larger than the three main elbow flexors together (Holzbaur et al., 2007a), and in every cadaveric arm it had the greatest moment-generating capacity of any single elbow muscle (Murray et al., 2000).
 2. **Only the long head crosses the shoulder, so only the shoulder separates it from the other two.** Raising the arm lengthened it in a model up to at least 135° (Kholinne et al., 2018), and bending the elbow lengthens it too: 80° of elbow motion added about two thirds as much fascicle length as the overhead position did (Stasinaki et al., 2018).
 3. **Put the arm overhead for at least one exercise.** With the same elbow range, sets and progression rule, the overhead arm grew 28.5% against 19.6% in the long head and 19.9% against 13.9% in the whole triceps, while lifting 34–39% less (Maeo et al., 2023).
 4. **Do not judge an overhead extension by its load.** It moved 34–39% less and grew more (Maeo et al., 2023); a smaller number on the stack is what the position costs, not evidence of a smaller stimulus.
@@ -14935,9 +14943,1452 @@ pain, and the heaviest lifters' vertebrae carried bone mineral in proportion to 
 
 ---
 
-# partximasterglossary
+# partxielbowflexors
 
-**Part XI — Master Glossary**
+**Part XI — [Elbow Flexors](#elbowflexors)**
+
+> Scope: the anatomy, mechanics, technique, exercise selection, context modifiers and programming for
+> maximal [hypertrophy](#hypertrophy) of the muscles on the front of the upper arm and the top of the forearm — the
+> [biceps brachii](#bicepsbrachii), treated throughout as the two heads it is, the [brachialis](#brachialis) beneath it and the
+> [brachioradialis](#brachioradialis) beside it. Everything here is also loaded by the pulls of Part II, which is where most
+> people's arm training accidentally happens. **General education only.** A pop at the front of the elbow
+> under a heavy [curl](#bicepscurl) or a missed deadlift, followed by a bunched muscle and weakness turning a screwdriver,
+> is an injury and not a training problem — see Part XI §E.4.
+>
+> **Angle conventions, fixed for the whole Part.** [Elbow flexion](#elbowflexion) is measured from a straight arm: **0° is a
+> straight elbow, 90° is a right angle**, and larger numbers are more bent. Several studies below measure the
+> other way round, with 180° as a straight arm; their angles are converted into this convention and the
+> conversion is stated where it happens. **Forearm rotation** is named by the palm: *[supinated](#forearmsupination)* is palm up,
+> *neutral* is thumb up, *[pronated](#forearmpronation)* is palm down. Humeral elevation keeps its Part V meaning — 0° is the arm
+> hanging at the side — and the shoulder's position is described as *extended* when the elbow sits behind the
+> trunk, *neutral* when the upper arm hangs vertically, and *flexed* when the elbow sits in front of it.
+>
+> **What makes this Part different.** It is the Part where the document's most popular mechanical story fails
+> a direct test. Two within-participant trials that matched the [resistance profile](#resistanceprofile) and let only the shoulder
+> angle differ found **no difference** in elbow flexor growth (Larsen et al., 2026), and a second, matched the
+> same way, found none either (Attarieh et al., 2025),
+> while trials that changed *where in the elbow's range the load sits* found differences of two- and
+> three-fold (Sato et al., 2021). Part IX ended with the shoulder deciding; this
+> Part ends with the elbow deciding. Part XI §B.4 is that argument.
+
+---
+
+## partxiaanatomyandarchitecture
+
+**PART A — Anatomy and Architecture**
+
+### A.1 What the elbow flexors are
+
+Three muscles bend the elbow. One of them you can see, one of them does much of the work out of sight
+underneath it, and one of them is really a forearm muscle that happens to have the best leverage of the
+three.
+
+Three facts organize the Part.
+
+1. **Three muscles, three different jobs at three different joints.** The **biceps brachii** crosses the
+   shoulder, the elbow and the radioulnar joint, so it bends the elbow, turns the palm up and helps lift the
+   arm. The **brachialis** crosses the elbow and nothing else: it cannot be lengthened or shortened by
+   anything but the elbow. The **brachioradialis** runs from the outside of the upper arm to the wrist end of
+   the forearm, and it bends the elbow on the longest lever of the three (Murray et al., 2000).
+2. **The muscle you can see is not the whole muscle.** Most ultrasound measurements of "elbow flexor
+   thickness" in this Part are a measurement of the biceps with the brachialis underneath it; the trials that
+   separated them found the brachialis growing when the biceps did — in one arm of one trial, more (Attarieh
+   et al., 2025). **Nothing you can do trains one of these three alone.**
+3. **What decides growth here is the elbow, not the shoulder.** Matched-profile trials that moved only the
+   shoulder found nothing; trials that moved the loaded part of the elbow's range found large differences
+   (Part XI §B.4). That is the opposite of the triceps result in Part IX §B.4, and the reason the two arm
+   Parts do not share a prescription.
+
+---
+
+### A.2 Attachments — the map you load
+
+| Muscle / head | Proximal attachment | Distal attachment | Nerve | What that geometry buys |
+|---|---|---|---|---|
+| **Biceps brachii, long head** | Supraglenoid tubercle of the scapula and the top of the glenoid labrum, then down the bicipital groove of the [humerus](#humerus) | [Radial tuberosity](#radialtuberosity), on the **proximal** part of the footprint (Athwal et al., 2007) | [Musculocutaneous](#musculocutaneousnerve) | Crosses the shoulder, so shoulder position changes its length; the tendon in the groove is the one that hurts in Part XI §E.4 |
+| **Biceps brachii, short head** | Coracoid process, shared with coracobrachialis | Radial tuberosity, on the **distal** part of the footprint, and into the [lacertus fibrosus](#lacertusfibrosus) (Athwal et al., 2007) | Musculocutaneous | Also crosses the shoulder, but in front of it, and it is the head whose tendon anchors the lacertus |
+| **Brachialis** | Front of the lower half of the humerus | Coronoid process and ulnar tuberosity *[consensus — no single source]* | Musculocutaneous, with a lateral slip from the [radial nerve](#radialnerve) | Crosses only the elbow, and attaches to the **ulna**, which does not rotate — so forearm rotation changes neither its length nor its leverage |
+| **Brachioradialis** | Lateral supracondylar ridge of the humerus *[consensus — no single source]* | Styloid process of the radius, at the wrist | Radial | Attaches far from the elbow, giving the largest flexion [moment arm](#momentarm) of any elbow muscle — 7.7 cm at its peak (Murray et al., 2000) |
+
+**Three details of that table matter more than the rest.**
+
+- **The biceps unit twists.** In fifteen cadaver arms the muscle–tendon unit rotated **90° externally** between
+  origin and insertion, and the two heads kept separate tendon territories on the radial tuberosity — the long
+  head proximal, the short head distal, over a footprint of 21 × 7 mm and 108 mm² (Athwal et al., 2007). In
+  106 living elbows imaged at 3 T, **91%** of distal biceps tendons left the muscle as two separate tendons,
+  and 91% of those merged again before inserting — 82% of all the elbows (Boyle et al., 2022).
+- **The insertion on the radius is why the biceps is a supinator.** The radius rotates around the ulna; a
+  muscle attaching to the radial tuberosity winds the bone when it pulls. The brachialis, attaching to the
+  ulna, cannot do this, which is the mechanical reason the two muscles respond differently to grip (Part XI
+  §B.3).
+- **The lacertus fibrosus is a second, wider insertion.** The sheet of fascia that leaves the distal short-head
+  tendon and fans into the forearm changes the biceps' leverage in a way most anatomy diagrams omit: with it
+  intact, the flexion moment arm is **larger** below 40° of elbow flexion and **smaller** above 80°, by more
+  than half at some angles, and the supination moment arm is reduced at every elbow angle (Miller et al.,
+  2025).
+
+---
+
+### A.3 Architecture — long fascicles, small areas, long levers
+
+```
+THE ELBOW FLEXORS, MEASURED
+  CADAVER, 10 upper limbs                                    (Murray 2000)
+    Brachioradialis    fascicles       17.7 cm  <- longest at the elbow
+                       PCSA             1.2 cm2 <- smallest at the elbow
+                       peak moment arm  7.7 cm  <- largest at the elbow
+                       moment capacity  6.8 cm3
+    Biceps, long head  peak moment arm  4.7 cm
+                       works across 56% of its optimal length through the
+                       elbow's range (triceps long head: 28%)
+  IN VIVO, MRI + ultrasound + microendoscopy                 (Adkins 2021)
+    Biceps brachii     volume         163 cm3  <- the NON-PARETIC arms
+                       fascicles       14.0 cm    of stroke survivors:
+                       sarcomeres       3.59 um   the only in vivo set
+                                                  this document could get
+  MRI, 10 adults, 32 upper-limb muscles                      (Holzbaur 2007a)
+    Muscles crossing the elbow = 31.4% of upper-limb muscle volume
+    (shoulder 52.5%, wrist 16.0%)
+  MRI + DYNAMOMETER, 4 men                                   (Kawakami 1994)
+    Triceps PCSA = 1.9 x that of ALL THREE FLEXORS together
+    Share of elbow flexion torque:
+      Brachialis 47%   Biceps 34%   Brachioradialis 19%
+  HUMAN SPECIFIC TENSION, systematic review                  (Persad 2024)
+    Best estimate                      26.8 N/cm2
+```
+
+**Three readings.**
+
+- **These are long-fascicle muscles, and the biceps works over an unusually wide stretch of its
+  force–length curve.** Its fascicles change length by **56% of their optimal length** across the elbow's
+  range, twice the excursion of the triceps long head, and the reason is leverage rather than architecture:
+  the two muscles have comparable fascicles, but the biceps sits on a 4.7 cm moment arm against the triceps'
+  2.3 cm (Murray et al., 2000). A muscle that travels that far along its curve is a muscle whose training
+  range can matter, which is exactly what Part XI §B.4 finds.
+- **Leverage and cross-section trade off against each other.** The brachioradialis has the smallest
+  cross-section at the elbow and the largest lever; multiplying the two gives it a moment-generating capacity
+  of 6.8 cm³, respectable despite a cross-section a fraction of its neighbours' (Murray et al., 2000). It is a
+  leverage muscle, not a force muscle.
+- **The brachialis is the biggest contributor, and the biceps is not.** In four men measured by MRI and an
+  isokinetic dynamometer, the brachialis supplied **47%** of elbow flexion [torque](#torque), the biceps **34%** and the
+  brachioradialis **19%** (Kawakami et al., 1994). **Evidence remains limited and inconsistent** — four men, shares computed from
+  cross-sections and moment arms rather than measured muscle by muscle, and a cadaver-based calculation puts
+  the brachioradialis far lower (Part XI §B.9). The three
+  together come to slightly less than the triceps' 14.5% of upper-limb [muscle volume](#musclevolume) (Part IX §A.3), and to
+  about half the triceps' physiological cross-section (Kawakami et al., 1994).
+- **Size is where strength comes from.** In the same ten people whose upper-limb muscles were measured by
+  MRI, muscle volume explained **68–95%** of the between-person variation in maximum isometric joint moment,
+  and the authors conclude that strength differences among healthy young adults are primarily a consequence
+  of muscle volume (Holzbaur et al., 2007b). **Moderate evidence** — ten people, one laboratory.
+
+**What this document could not retrieve.** The per-muscle physiological cross-sections of the biceps and
+brachialis were measured in the cadaver series above but are not in any abstract or open text available here,
+so this Part gives no number for them and makes no claim that rests on one. The only in vivo architecture
+retrievable for the biceps comes from the unaffected arms of people with chronic stroke, reported there as a
+comparison against the affected side (Adkins et al., 2021); no equivalent numbers for healthy trained adults
+were available, so nothing in this Part rests on them either.
+
+---
+
+### A.4 The division of labour — who does what, and when
+
+| Muscle | Bends the elbow | Turns the palm up | Crosses the shoulder | Best position |
+|---|---|---|---|---|
+| **Biceps brachii** | Yes, on a mid-sized lever | **Yes — the strong supinator at high torque** (Kondi et al., 2026) | Yes, both heads | Supinated forearm, elbow toward extension, where its flexion moment arm peaks (Murray et al., 1995) |
+| **Brachialis** | Yes, on the shortest lever, and it supplies the largest single share of the torque — 47% (Kawakami et al., 1994) | No | No | Every position — nothing but the elbow changes its length or leverage |
+| **Brachioradialis** | Yes, on the longest lever | No — but it attaches to the rotating bone, so forearm rotation changes its length | No | Not established: whole-arm force is largest neutral (O'Connell et al., 2021), while its excitation was largest supinated (Coratella et al., 2023a) |
+
+**The supination job is real but load-dependent.** With small supination torques the deep supinator muscle
+does most of the work; as the torque rises, the biceps' share rises disproportionately (Kondi et al., 2026).
+**Promising but under-replicated** — four participants, a pilot electromyographic study.
+
+**Grip changes the mix, and less tidily than the textbooks say.** In ten competitive bodybuilders curling an
+8RM load, biceps excitation was **19 ± 7% higher** with a [supinated grip](#supinatedgrip) than a pronated one and **12 ± 9%
+higher** than with a neutral grip — and the **brachioradialis was also most excited supinated**, by 5–6%
+(Coratella et al., 2023a), which is the opposite of the reason hammer curls are usually prescribed. Whole-arm
+elbow flexion force, meanwhile, is largest with the forearm **neutral** — 28.2 kg against 17.3 kg pronated in
+eighty-five young adults (O'Connell et al., 2021) — a measurement of the hand, not of any one muscle. **Grip
+therefore changes how much weight the arm can move and how hard the biceps works, and no trial has measured
+what it does to growth** (Part XI §B.10).
+
+---
+
+### A.5 Regions — where along the muscle it grows
+
+**The elbow flexors are the muscle group in which [regional hypertrophy](#regionalhypertrophy) has been studied most, and the
+results are more modest than the popular version of them.**
+
+| What was compared | Who, how long | Measured | Result |
+|---|---|---|---|
+| [Preacher curl](#preachercurl) vs [incline curl](#inclinecurl), the larger trial | 63 young women, 8 weeks, 2×/week, between groups | Thickness at proximal, middle, distal sites | **Both grew.** The incline curl grew the **proximal** site more (+0.08 cm, 95% CI 0.02–0.13); the preacher grew the **distal** site more (+0.10 cm, 95% CI 0.04–0.15) (Kassiano et al., 2025) |
+| Preacher curl vs incline curl, the smaller trial | 38 recreationally trained women, 9 weeks, 4 × 12 to [failure](#momentaryfailure), 3×/week | Thickness at 50%, 60%, 70% of arm length | Only the preacher group grew, and only at the **70%** (distal) site, 2.70 → 2.94 cm; the between-group test was null and the authors call the trial underpowered (Zabaleta-Korta et al., 2023) |
+| Initial range (0–68°) vs final range (68–135°) of a preacher curl | 19 untrained women, 8 weeks, 3×/week, one arm each | Biceps CSA at 50% and 70% | Initial range grew the **70%** site more (p = 0.001); no difference at 50% or summed (Pedrosa et al., 2023) |
+| Initial partial range (0–70°) vs full range (0–140°) | 13 **trained** adults, 8 weeks, one arm each | Thickness at 50% and 70% | Similar at 50%; trivial-to-small advantage to the partial at 70% (Havers et al., 2025) |
+| Longer vs shorter mean muscle length, all muscles pooled | 12 studies, Bayesian meta-analysis | Proximal, mid, distal sites | Trivial differences everywhere (SMD 0.05, 0.07, 0.09), with the trend increasing distally (Varovic et al., 2025) |
+| Same exercises every session vs varied exercises | 22 detrained men, 9 weeks | Proximal, middle, distal elbow flexors | The varied-exercise group grew at every site; the fixed-exercise group did not grow at the **proximal** site (Costa et al., 2021) |
+
+**How to read that table.** The direction is consistent — training the straighter half of the range, or
+choosing the exercise whose load survives there, grows the **distal** part of the muscle more, and the
+incline curl biases the **proximal** part instead. The sizes are small: about a millimetre of thickness in
+eight weeks between two exercises that both worked. **Promising but under-replicated** for the distal bias: the direction is
+consistent across the individual trials and across the pooled estimate, but the pooled effect is trivial at
+every site — standardized mean differences of 0.05 to 0.09 — and most of the posterior sits inside the region
+of practical equivalence (Varovic et al., 2025). **Evidence remains limited and inconsistent** for any claim
+that a given curl builds a "peak", which no study in this Part measured.
+
+---
+
+### A.6 Fibre type — and why this Part does not use it
+
+**This document could not verify a fibre-type composition for any of the three elbow flexors.** The classic
+autopsy series that is usually quoted for them has no retrievable abstract or open text here, so no number is
+given, and no claim in Part XI §F.3 rests on one.
+
+**It would not change the prescription anyway.** In trained men randomized to 25–35 repetitions per set or
+8–12 repetitions per set, both to failure, elbow flexor thickness rose **8.6% and 5.3%** with no significant
+difference between groups (Schoenfeld et al., 2015b) — the same answer Part II §A.6 gives for every muscle in
+this document: at matched effort, load is a free choice for growth.
+
+---
+
+### A.7 The muscles you cannot separate from each other
+
+- **The brachialis is under the biceps, and most thickness measurements include it.** The two are separable
+  by ultrasound when someone sets out to separate them: over ten weeks the brachialis grew **10%** against the
+  biceps' 6–7% in the preacher-curl arm, and the two matched at 8–9% in the other arm (Attarieh et al., 2025).
+- **They are not damaged equally.** After identical eccentric work, magnetic resonance imaging showed **only
+  the brachialis** damaged when the work was done in the flexed half of the range, and the biceps damaged as
+  well when the same number of contractions was done in the extended half (Nosaka & Sakamoto, 2001).
+- **The brachioradialis has never been measured as a training outcome.** No trial in this Part reports it
+  separately, so every statement about hammer and reverse curls in Part XI §D.4 is mechanical inference or
+  [electromyography](#emg), not growth data.
+- **The anterior deltoid joins in whenever the shoulder flexes.** In bodybuilders, curling with the shoulders
+  allowed to flex raised biceps excitation by **17.7–20.3%** over curling with the upper arms still, and
+  changed the anterior deltoid's contribution at the same time (Coratella et al., 2023b) — which is what makes
+  a swung curl a different exercise rather than a better one (Part XI §C.2).
+
+---
+
+### A.8 How the elbow flexors are injured
+
+Four things are known, and they concern different structures.
+
+1. **The distal biceps tendon ruptures, rarely, and almost always the same way.** In a defined population the
+   incidence was **1.2 per 100,000 people per year**; thirteen of the fourteen cases were men, mean age 47,
+   86% in the dominant arm, and **every one** happened when the arm was forced straight against a contracting
+   biceps — an eccentric overload (Safran & Graham, 2002). Smoking carried a **7.5-fold** higher risk in the
+   same cohort.
+2. **It is a surgical injury in active people.** Anatomical reinsertion restores function well; conservative
+   management is usually reserved for older or low-demand patients, and leaves mild flexion and supination
+   weakness (Jaschke et al., 2023).
+3. **The long head's tendon at the shoulder is a different problem with a different cause.** It is a tendon
+   running in a groove under load rather than a tendon avulsing, and it belongs with the shoulder
+   presentations of Part V §E.4 rather than with curls.
+4. **Damage from unaccustomed eccentric work is the ordinary, non-injury version.** It is greater when the
+   eccentric work is done at long muscle lengths — the source's 100–180° is 0–80° of flexion in this Part's
+   convention, against 50–130° for its short condition (Nosaka & Sakamoto, 2001) and greater with the forearm
+   supinated than neutral, where the biceps lengthened progressively across sets — the myotendinous junction
+   displaced 8.0 mm on the first set and 15.8 mm by the tenth, with no such drift in the neutral condition
+   (Lau et al., 2021). **This is the mechanism behind the soreness that follows a first arm session, and it is
+   also the mechanism this Part exploits for growth.** Part XI §E.6 separates the two.
+
+---
+
+### A.9 What the anatomy dictates, in nine lines
+
+1. **Three muscles bend the elbow, and only one of them crosses the shoulder** — the biceps brachii
+   (Athwal et al., 2007).
+2. **The brachialis crosses the elbow alone**, so nothing but elbow angle changes its length *[consensus — no
+   single source]*.
+3. **The brachioradialis has the longest lever at the elbow, 7.7 cm, and the smallest cross-section, 1.2 cm²**
+   (Murray et al., 2000).
+4. **The biceps travels over 56% of its optimal length across the elbow's range**, twice the excursion of the
+   triceps long head (Murray et al., 2000).
+5. **The biceps' flexion lever is largest with the forearm supinated and the elbow toward straight**
+   (Murray et al., 1995).
+6. **Maximum elbow flexion force is largest with the forearm neutral** (O'Connell et al., 2021), while biceps
+   excitation is largest supinated (Coratella et al., 2023a) — grip changes the mix, not the total.
+7. **Muscle volume explains most of the strength difference between healthy people** (Holzbaur et al., 2007b).
+8. **Growth is biased distally by loading the stretched half of the range, and the bias is small**
+   (Varovic et al., 2025).
+9. **The one common serious injury is an eccentric avulsion of the distal tendon, at about 1.2 per 100,000 per
+   year, with a 7.5-fold risk in smokers** (Safran & Graham, 2002).
+
+---
+
+## partxibbiomechanics
+
+**PART B — Biomechanics — what actually loads the elbow flexors**
+
+### B.1 The joint actions, ranked
+
+| Rank | Action | What does it | Where it matters |
+|---|---|---|---|
+| 1 | **Elbow flexion** — bending the elbow against resistance | All three muscles together, in proportions set by grip | Every curl, every [row](#row), every [chin-up](#chinup). The action the whole Part is about |
+| 2 | **Forearm supination** — turning the palm up against resistance | Biceps brachii, increasingly as the torque rises (Kondi et al., 2026) | Supinating dumbbell curls, and the reason a supinated grip excites the biceps most (Coratella et al., 2023a) |
+| 3 | **Holding the elbow's position** while the shoulder works | All three, isometrically | Rows, chin-ups and carries, where the elbow angle barely changes |
+| 4 | **Shoulder flexion** — lifting the upper arm forward | Biceps, weakly, both heads crossing the front of the joint | Swung curls, where it converts the exercise into a different one (Part XI §C.2) |
+| 5 | **Stabilizing the shoulder joint** | Long head, through its tendon in the groove | Not trainable, and not a reason to choose an exercise |
+
+**Read ranks 1 and 2 together.** Rank 1 is what grows the muscles. Rank 2 is why the grip you choose changes
+which of the three carries the set — and, as Part XI §A.4 showed, not how hard the set is.
+
+---
+
+### B.2 Length — the elbow sets it, and the shoulder tilts it
+
+**The elbow is the only joint that changes the length of all three muscles.** The shoulder changes the
+length of the biceps alone, and the forearm's rotation changes it a little more.
+
+```
+WHAT CHANGES ELBOW FLEXOR LENGTH
+  ELBOW EXTENSION    Straightening the arm         LENGTHENS all three
+  ELBOW FLEXION      Bending it                    SHORTENS all three
+  SHOULDER EXTENSION Elbow drawn behind the trunk  LENGTHENS the biceps only
+  SHOULDER FLEXION   Elbow lifted in front         SHORTENS the biceps only
+  FOREARM ROTATION   Palm up vs thumb up           SUPINATION SHORTENS the biceps;
+                                                   neutral and pronated are longer.
+                                                   It moves the brachioradialis too,
+                                                   which also attaches to the radius.
+                                                   The brachialis, on the ulna, does
+                                                   not move at all
+  WRIST POSITION     Flexed or extended            NO CHANGE to any of the three
+```
+
+**The first two rows carry almost all of the training effect, and the third carries almost none of it.**
+That asymmetry is the finding of Part XI §B.4, and it is worth stating plainly before the evidence arrives:
+the elbow moves each muscle through its whole working range, while the shoulder shifts one of the three a
+little further along a curve it is already travelling.
+
+**The forearm row is measured, not assumed.** When ten men performed maximal eccentric contractions with the
+forearm supinated and with it neutral, the supinated arm — the shorter biceps position — showed the
+myotendinous junction being dragged progressively further with each set, from 8.0 mm of displacement on the
+first set to 15.8 mm on the tenth, while the neutral arm's displacement did not change at all (5.1 to 5.0 mm)
+(Lau et al., 2021). The supinated condition also produced more damage in every marker.
+
+---
+
+### B.3 Leverage and the strength curve
+
+**The lever changes with both joints, and which way it changes toward a straight elbow is not settled.**
+
+```
+ELBOW FLEXION MOMENT ARMS
+  Cadaver + model, 2 specimens                          (Murray 1995)
+    Flexion moment arms vary by at least 30% across 95 deg of motion
+    BICEPS peak is LARGER with the forearm SUPINATED
+    BICEPS supination moment arm SHRINKS as the elbow extends
+    Where the flexion peak sits is READ BOTH WAYS in the literature
+    (see the note below)
+  Cadaver, 10 upper limbs                               (Murray 2000)
+    Brachioradialis peak                7.7 cm
+    Biceps, long head                   4.7 cm
+  Cadaver, 10 elbows, lacertus intact vs cut            (Miller 2025)
+    Lacertus RAISES the biceps flexion moment arm below 40 deg
+    Lacertus LOWERS it above 80 deg, by more than half at some angles
+```
+
+**Which way the flexion lever runs toward a straight elbow is genuinely unsettled, and this Part does not
+resolve it.** The cadaveric source reports that the biceps' flexion moment arm "peaks in a more extended
+elbow position" (Murray et al., 1995); a training trial in this Part reads the same paper the other way —
+"the biceps brachii moment arm is suggested to decrease with increased elbow extension" — and uses that
+reading to explain why its lifters kept failing early in the stretched position (Larsen et al., 2026). This
+document could not retrieve the figure that would settle it, so **no claim here rests on the direction of
+that change**; what both readings agree on is that the lever is not constant.
+
+**The torque you can produce is not flat: it is smallest near a straight arm.** Before training, the
+sixty-four adults of an elbow-angle trial produced maximal isometric elbow flexion torques of **25.0, 35.5,
+37.7 and 27.4 N·m at 10°, 50°, 90° and 130°** of flexion in one group and **29.0, 42.3, 47.4 and 33.5 N·m**
+in the other (Sato et al., 2021). A nearly straight arm produces only about **60–66%** of what the same arm
+produces at a right angle. Concentric torque measured on an isokinetic dynamometer at 60°·s⁻¹ looks flatter —
+30–31 N·m at 20°, 30–32 at 60°, 26–31 at 100° (Nunes et al., 2020) — and electrically evoked torque rose
+from 10° to 60° and fell beyond (Uwamahoro et al., 2023). **Moderate evidence** that maximal elbow flexion
+torque rises steeply from a straight arm to about a right angle and falls again beyond it.
+
+**Read that against Part IX, and against this Part's own prescription.** The triceps loses torque as the
+elbow straightens; the elbow flexors lose it too, and the position this Part recommends training is the
+position in which the muscle is weakest. **That is why a stretch-loaded curl is a light exercise**: the load
+that can be lifted through the straight-arm end is set by the arm's capacity there, not at a right angle.
+The trials of Part XI §B.4 nevertheless found training that half at least as productive — which is the
+interesting result, not an obvious one.
+
+**Grip moves the shares, not the total.** Maximum voluntary elbow flexion force in eighty-five adults was
+largest with the forearm **neutral** (28.2 ± 12.6 kg), intermediate supinated, and smallest **pronated**
+(17.3 ± 7.4 kg) (O'Connell et al., 2021), while biceps excitation is largest supinated (Coratella et al.,
+2023a). The reconciliation is mechanical: pronation both shortens the biceps' supination lever and takes the
+biceps off its best flexion lever (Murray et al., 1995), leaving the brachialis and brachioradialis to carry
+more of a smaller total.
+
+---
+
+### B.4 What decides whether an exercise grows them
+
+**This is the central question of Part XI, and three candidate variables have been separated
+experimentally.** The candidates are the **shoulder's position**, which changes the biceps' length; **which
+part of the elbow's range is trained**, which changes how long the muscles get under load; and **where in
+that range the torque peaks**, which changes how much load is present while they are long.
+
+```
+WHAT CHANGES ELBOW FLEXOR GROWTH
+  1. SHOULDER POSITION, PROFILE MATCHED - THREE TRIALS, ALL NULL
+     Larsen 2026   30 untrained men, 24 completed, 10 wk, 6-8 sets/wk
+                   to failure, one arm at PEAK SHOULDER EXTENSION, one
+                   at NEUTRAL, profiles and elbow ROM matched
+                   thickness +7-9% in both; treatment effect -0.40 mm
+                   proximal, +0.21 mm distal; Bayes factors favour the
+                   NULL
+     Attarieh 2025 15 men, 10 wk, 2x/wk, PREACHER (shoulder flexed
+                   ~50 deg) vs BAYESIAN CABLE CURL (shoulder extended),
+                   profiles matched
+                   biceps +6-7% vs +9%, brachialis +10% vs +8%, no
+                   significant difference; 1RM +28% vs +37%
+     Vendruscolo   21 TRAINED men, 3 wk, low-load occlusion, shoulder
+     2025          extended vs flexed, MRI at 45/65/85% of humerus
+                   +6.20 vs +5.08%, +5.91 vs +3.83%, +8.51 vs +7.38%,
+                   all n.s. (d = 0.006-0.28)
+
+  2. WHICH PART OF THE ELBOW'S RANGE - FOUR TRIALS, ONE CLEAR PATTERN
+     Sato 2021     12 v 12 untrained adults (+8 controls), 5 wk,
+                   3x10 at a ramped % of MVC, NOT to failure,
+                   same 50 deg of range, EXTENDED (0-50 deg) vs
+                   FLEXED (80-130 deg)
+                   thickness +8.9% vs +3.4%, on 29% LESS total weight
+                   lifted (3,033 vs 4,251 kg, p = 0.02); strength rose
+                   in the extended group only; the untrained arm
+                   gained too, in the extended group only
+     Pedrosa 2023  19 untrained women, 8 wk, preacher curl,
+                   INITIAL (0-68 deg) vs FINAL (68-135 deg)
+                   distal CSA greater for INITIAL; full-range 1RM
+                   greater for INITIAL
+     Havers 2025   13 TRAINED adults, 8 wk, preacher curl,
+                   INITIAL PARTIAL (0-70 deg) vs FULL (0-140 deg)
+                   distal thickness trivially favours the partial;
+                   1RM and MVC at 100 deg trivially favour full range
+     Pinto 2012    30 untrained men, 10 wk, preacher curl,
+                   MID PARTIAL (50-100 deg) vs FULL (0-130 deg)
+                   thickness +7.8% vs +9.7%, NO difference;
+                   1RM greater for full range
+
+  3. WHERE THE TORQUE PEAKS, EXERCISE AND RANGE HELD CONSTANT - NULL
+     Nunes 2020    35 adults, 10 wk, preacher curl with a BARBELL
+                   (torque emphasis long) vs a CABLE (torque emphasis
+                   short): thickness +8% vs +7%, p = 0.346;
+                   torque at 20 deg rose 39% vs 30% (p = 0.046)
+
+  4. WHOLE EXERCISES COMPARED (profile, range and shoulder all differ)
+     Kassiano 2025 63 young women, 8 wk, 2x/wk, between groups,
+                   PREACHER vs INCLINE curl
+                   BOTH grew; incline grew the PROXIMAL site more
+                   (+0.08 cm [0.02, 0.13]), preacher the DISTAL site
+                   more (+0.10 cm [0.04, 0.15]); strength specific
+                   to the exercise trained
+     Zabaleta-     38 trained women, 9 wk, PREACHER (50 deg bench,
+     Korta 2023    trained ~50-125 deg) vs INCLINE (trained 0-110 deg)
+                   preacher grew its distal site (2.70 -> 2.94 cm),
+                   no region of the incline group grew - but the
+                   between-group test was null and the authors call
+                   the trial underpowered (49/group needed, 6 drop-outs
+                   from INC against 1 from PREA)
+```
+
+**How to read them.**
+
+- **The shoulder does not decide.** Three trials have isolated it by matching the resistance profile, one of
+  them in trained men with magnetic resonance imaging, and all three found differences centred on zero
+  (Larsen et al., 2026). **Moderate evidence** that shoulder position is not a hypertrophy variable for the
+  elbow flexors once the profile and the range are matched. **Caveat:** the point estimates in two of the
+  three lean toward the shoulder-extended condition, and the trials ran three to ten weeks.
+- **The range decides, and how bent the partial is decides how much.** A partial confined to the bent half
+  cost more than half the growth (Sato et al., 2021), a partial that kept the straight end matched or beat
+  full range distally (Havers et al., 2025), and a middling partial from 50° to 100° gave up almost nothing
+  (Pinto et al., 2012). **Moderate evidence** that a range including the straighter half is at least as good
+  as any other, and that excluding it is what costs.
+- **Where the torque peaks changed strength, not size.** The one comparison that held the exercise and the
+  range constant and moved only the torque emphasis found the same growth and angle-specific strength
+  (Nunes et al., 2020). **The loading class below is therefore a description of exercises, not a
+  prescription in its own right.**
+- **Whole exercises differ regionally, in both directions.** The larger of the two preacher-against-incline
+  trials found the incline curl growing the proximal site more and the preacher the distal site more, with
+  both exercises growing the muscle (Kassiano et al., 2025). The smaller found growth only in the preacher
+  group, at its distal site, on a null between-group test (Zabaleta-Korta et al., 2023). **Moderate
+  evidence** that the two exercises bias different regions; **not supported** that either fails to grow the
+  muscle.
+- **What ties the four blocks together** is a sentence from a review of the whole literature: the growth
+  advantage of long muscle lengths appears **when there is relevant external torque in the lengthened
+  position** (Pedrosa et al., 2026). A curl performed with the upper arm hanging vertically has **no**
+  elbow flexion torque at a straight elbow, however long the shoulder's position has made the biceps — so
+  "training the stretch" with an incline curl means training it under a load that vanishes exactly there.
+  **A mechanical inference**, and the one trial that tested torque emphasis directly did not find a size
+  difference.
+
+> **The rule this section licenses.** Every week, curl through a range that reaches the straight-arm end
+> — that is the part with training evidence behind it — and let at least one of your curls still be loaded
+> when it gets there. Treat shoulder position as a comfort and logistics decision. If you want the regional
+> bias, the preacher curl biases distal and the incline curl proximal, by a millimetre or so in eight weeks.
+> **Moderate evidence** for the range and for the regional bias; **a mechanical inference** for the torque.
+
+**[Elbow flexor loading class](#elbowflexorloadingclass), used for every exercise in Part XI §D.**
+
+> **Elbow flexor loading class.** Find the exercise's **peak angle** — the elbow angle at which the
+> resistance acts perpendicular to the forearm, which for a free weight is the angle at which the forearm is
+> horizontal and for a cable is the angle at which the forearm lies at a right angle to the cable. The
+> **stretch fraction** is the share of that peak torque still present at a straight elbow; for a
+> gravity-driven curl it is the cosine of the peak angle. **Stretch-loaded:** a stretch fraction of **0.60 or
+> more**. **Half-loaded:** **0.25 to 0.59**. **Stretch-free:** **below 0.25**, which includes every curl
+> performed with the upper arm hanging vertically, where the fraction is zero.
+>
+> **Caveat:** the 0.60 and 0.25 boundaries are conventions chosen so that the classes separate the exercises
+> of Part XI §D; no study has tested them, and the one trial that manipulated torque emphasis within an
+> exercise found no difference in growth (Nunes et al., 2020). The class describes where an exercise loads
+> the muscle, not how much it grows it.
+
+### B.5 The steering wheels — range first, torque second, shoulder not at all
+
+| Variable | What the mechanics predict | What was measured |
+|---|---|---|
+| **Which part of the range is trained** | Sets how long the muscles get under load | A partial confined to the bent half grew 3.4% against 8.9% for one confined to the straight half (Sato et al., 2021); a 50–100° partial gave up almost nothing against full range, 7.8% against 9.7% (Pinto et al., 2012) |
+| **Where the torque peaks** | Sets how much load is present while the muscles are long | Moving the emphasis within one exercise changed strength at the trained angle, +39% against +30% at 20°, and not growth, +8% against +7% (Nunes et al., 2020) |
+| **Shoulder position** | Changes the biceps' length, and only the biceps' | No difference in three trials that matched the profile, one of them by magnetic resonance imaging in trained men (Larsen et al., 2026) |
+| **Exercise choice as a whole** | Changes profile, range and shoulder together | The incline curl grew the proximal region more and the preacher the distal, both by about a millimetre in eight weeks (Kassiano et al., 2025) |
+| **Forearm rotation** | Changes which muscle carries the load | Biceps excitation highest supinated (Coratella et al., 2023a); whole-arm flexion force highest neutral (O'Connell et al., 2021); no hypertrophy trial has compared grips |
+| **Range size (partial vs full)** | Full range covers everything a partial covers plus more | [Lengthened partials](#lengthenedpartials) matched full range for elbow flexor thickness in trained people (Wolf et al., 2025) |
+
+**The rule, in one line.** The elbow's range decides the stimulus; the torque profile decides whether the
+range is loaded; the shoulder decides the seat you sit in.
+
+---
+
+### B.6 The stimulus map for the elbow flexors
+
+```
+                  PEAK    STRETCH   LOADING      BICEPS       EVIDENCE
+                  ANGLE   FRACTION  CLASS        LENGTH
+CABLE CURL, upper   0 deg   1.00    Stretch-     Neutral      None
+arm horizontal                      loaded
+PREACHER CURL,     45 deg   0.71    Stretch-     Shortened    Growth trials
+45 deg pad                          loaded       at shoulder  (B.4)
+PREACHER CURL,     50 deg   0.64    Stretch-     Shortened    Growth trials
+50 deg bench                        loaded       at shoulder  (B.4)
+PREACHER CURL,     70 deg   0.34    Half-        Shortened    None
+70 deg pad                          loaded       at shoulder
+CONCENTRATION      60-75    0.26-   Half-        Neutral      EMG only
+CURL               deg      0.50    loaded
+STANDING CURL,     90 deg   0.00    Stretch-     Neutral      EMG; no
+bar or dumbbell                     free                      growth trial
+INCLINE CURL       90 deg   0.00    Stretch-     Lengthened   Two growth
+                                    free         at shoulder  trials (B.4)
+SPIDER CURL        90 deg   0.00    Stretch-     Shortened    None
+                                    free         at shoulder
+CABLE CURL,        Set by   Set by  Set by the   Set by the   Growth trials
+standing           stance   stance  stance       shoulder     (B.4)
+PREACHER CURL,    ~100 deg  0.00    Stretch-     Shortened    Growth trial
+cable from front                    free         at shoulder  (Nunes 2020)
+HAMMER CURL       As its    As its  As its base  Longer than  EMG only
+                  base      base    curl         supinated
+                  curl      curl
+CHIN-UP           ~60-100   Low     Stretch-     Lengthened   EMG; no
+                  deg               free        at shoulder   growth trial
+ROW                Mid-     Low     Stretch-     Varies       Growth trial:
+                   pull              free                     half a curl
+```
+
+**Read the first two blocks together.** The preacher family and the hanging-arm family are the same movement
+with the upper arm pointing in two different directions, and the direction of the upper arm — not the
+position of the shoulder — is what sets how much load survives to the straight-arm end.
+
+---
+
+### B.7 Resistance profiles
+
+A resistance profile for the elbow flexors is the external elbow flexion torque as a function of **elbow
+angle**. For a weight held in the hand:
+
+> M_elbow(θ) = m_load × g × L_forearm × cos(φ)   (N·m)
+>
+> where m_load = the weight held (kg), g = 9.81 m·s⁻², L_forearm = the distance from the elbow axis to the
+> hand (m), and φ = the angle of the forearm above or below horizontal at elbow flexion θ
+
+**Everything follows from one question: which way does the upper arm point?** Gravity acts straight down, so
+the forearm is horizontal — and the torque is maximal — when the elbow has flexed to whatever angle brings it
+there. On a preacher bench that angle is the pad's angle from horizontal, degree for degree; with the upper
+arm hanging it is 90°.
+
+| Exercise | Where the peak falls | Torque at a straight elbow | Class |
+|---|---|---|---|
+| **Cable curl with the upper arm horizontal in front**, the cable pulling straight down or perpendicular to the forearm at the bottom | **0°** — the hardest point is the straight arm | **100%** of peak | Stretch-loaded |
+| **Preacher curl on a 45° pad** | Forearm horizontal at **45°**; torque ∝ cos(45° − θ) | **71%** of peak | Stretch-loaded |
+| **Preacher curl on a 50° bench** — the arrangement used in the trials | Forearm horizontal at **50°** | **64%** of peak | Stretch-loaded |
+| **Preacher curl on a steeper pad** | Peak equals the pad's angle from horizontal — a 70° pad peaks at 70° | **34%** at 70° | Half-loaded |
+| **Standing, incline or spider curl** (upper arm hanging vertically) | Forearm horizontal at **90°**; torque ∝ sin θ | **Zero** | Stretch-free |
+| **Preacher curl with a cable pulling from the front** | Near **100°**, where the forearm is perpendicular to a horizontal cable | Near zero | Stretch-free |
+| **Chin-up or row** | Where the horizontal offset between the hand and the elbow is largest, in the middle of the pull | Near zero at the hang | Stretch-free |
+
+**Four consequences, and the last two are the ones people get wrong.**
+
+- **The preacher bench is a stretch-loaded curl and the standing curl is not.** On a 45° pad the exercise is
+  still 71% of its hardest at a straight elbow; standing, it is zero there.
+- **Steepening the pad walks the peak toward the standing curl.** A preacher pad set at 70° peaks at 70° and
+  keeps only a third of its load at the bottom; a vertical pad *is* a standing curl.
+- **"Zero at the straight elbow" is one instant, so compare averages instead.** Across the first 45° of
+  flexion — the stretched half of the working range — a hanging-arm curl averages **37%** of its own peak
+  torque, while a 45° preacher curl averages **90%** of its own. That 2.4-fold difference in how much load
+  the stretched half receives is the mechanical content of this Part's exercise selection.
+- **An incline curl does not load the stretch it creates.** Leaning back lengthens the biceps by extending
+  the shoulder, but the upper arm still hangs vertically, so the elbow flexion torque at the bottom of the
+  rep is zero and the stretched half averages the same 37% as a standing curl. **A mechanical inference** —
+  and the trials in Part XI §B.4 show that the exercise nonetheless grows the muscle, with a proximal bias
+  (Kassiano et al., 2025).
+
+**Most of these profiles are geometry, not measurement.** The rows follow from the formula above with the
+upper arm held where the exercise holds it; the cable rows follow from the same formula with the load's line
+of action replacing gravity's, which is why a cable's class is set by where the lifter stands rather than by
+the exercise's name.
+
+---
+
+### B.8 The pull and the elbow flexors
+
+**Every row and every chin-up loads them. Whether that is enough is the one place where two trials disagree
+outright.**
+
+| What was compared | Who, how long | Result |
+|---|---|---|
+| Unilateral dumbbell row vs unilateral biceps curl, one arm each | 10 untrained men, 8 weeks, 4–6 sets of 8–12 to failure, 2×/week | Elbow flexor thickness **+11.1% (curl) vs +5.2% (row)**, p = 0.009; strength gains specific to the exercise trained (Mannarino et al., 2021) |
+| Lat [pulldown](#latpulldown) + bench press vs the same plus direct elbow flexion and extension | 29 untrained men, 10 weeks | Elbow flexor thickness **+6.5% vs +7.04%**, no between-group difference — the curls added nothing measurable (Gentil et al., 2013) |
+| Dumbbell curl vs dumbbell row, acute swelling | 16 trained men, 4 sets to failure | Biceps swelled **18.7%** after curls against **12.2%** after rows; the brachialis swelled the same after both (Leitão et al., 2024) |
+| Chin-up vs [pull-up](#pullup), activation | 25 adults | Biceps 78–96% of maximum voluntary contraction across variants, higher in the **chin-up** than the pull-up, through about 100° of elbow motion (Youdas et al., 2010) |
+
+**How to read this.** Pulls load the elbow flexors hard — a chin-up asks for most of what the muscle has —
+but they load them **in the wrong part of the range**: at the hang, where the muscle is longest, the hand is
+almost in line with the elbow, so the flexion torque is near zero (Part XI §B.7). Whether adding curls to a
+pulling programme adds growth is genuinely unsettled: one within-participant trial says a curl is worth about
+two rows, another says direct work added nothing at all to a pulldown-and-press programme, and the position
+paper that this document's counting convention comes from recommends a one-to-one ratio until better evidence
+exists (Schoenfeld et al., 2019b). **Evidence remains limited and inconsistent**, and Part XI §F.1 counts
+pulls at half as a judgement rather than a measurement.
+
+**Nobody has tested chin-ups against curls.** The row trial and the added-curls trial are the only training
+comparisons in this Part.
+
+---
+
+### B.9 A worked example, so the numbers are not abstract
+
+**Question:** how much force does a 10 kg dumbbell ask of the elbow flexors, and what can each muscle
+contribute?
+
+**Step 1 — the external torque.** Take a forearm whose hand sits **30 cm** from the elbow axis (an assumed
+value, not a measured one), and a standing curl at the hardest point, the forearm horizontal:
+
+```
+  M = 10 kg x 9.81 m/s2 x 0.30 m  =  29.4 N.m
+```
+
+**A reality check before going further.** Untrained adults produced **37–47 N·m** of maximal isometric elbow
+flexion torque at a right angle and **25–29 N·m** at a nearly straight elbow (Sato et al., 2021). A 10 kg
+dumbbell at this lever is therefore already 60–80% of a maximal effort at the hardest point of a standing
+curl, and **a 15 kg dumbbell would exceed what an untrained arm can hold there**. The numbers in this
+Part are small because these are small muscles on a long lever.
+
+**Step 2 — the muscle force that implies.** Divide by the flexor's moment arm (Part XI §B.3):
+
+```
+  Through the biceps' 4.7 cm lever      29.4 / 0.047  =  626 N   (~64 kg of pull)
+  Through the brachioradialis' 7.7 cm   29.4 / 0.077  =  382 N
+```
+
+**Step 3 — what the brachioradialis can actually supply.** Its moment-generating capacity — roughly its
+cross-section multiplied by its moment arm averaged across the range, not by the peak — is **6.8 cm³**
+(Murray et al., 2000). At the best current estimate of human
+[specific tension](#specifictension), **26.8 N·cm⁻²** (Persad et al., 2024):
+
+```
+  6.8 cm3 x 26.8 N/cm2  =  182 N.cm  =  1.8 N.m
+```
+
+**Read it, and then read what the arithmetic cannot do.** The calculation gives the brachioradialis about
+**1.8 N·m**. The one study that apportioned elbow flexion torque in living men gives it **19%** of the total,
+with the brachialis at 47% and the biceps at 34% (Kawakami et al., 1994) — which at a measured maximum of
+about 43 N·m would be **8 N·m**, four times the calculation. **The calculation is the part that fails, and it
+fails for every muscle here:** scaling all three by the same method puts the whole group's capacity near
+10 N·m against a measured 37–47 N·m at the same angle (Sato et al., 2021), so cadaveric cross-sections
+multiplied by a reviewed specific tension underpredict living elbow flexors roughly four-fold. **Use the
+measured apportionment, not the arithmetic**, and take from the arithmetic only what it is good for: the
+brachioradialis has the best lever and the smallest cross-section, so it is the smallest contributor of the
+three despite the leverage. **Evidence remains limited and inconsistent** on the exact shares — one study of
+four men.
+
+**Interpretive caution:** this treats one muscle at a time on its peak lever, ignores co-contraction of the
+triceps, and ignores that moment arms change through the range by at least 30% (Murray et al., 1995). The
+conclusion it supports is a ranking, not an accounting.
+
+---
+
+### B.10 Setup variables
+
+| Variable | Effect | Evidence |
+|---|---|---|
+| **Grip rotation** | Supinated maximizes biceps excitation; neutral maximizes total flexion force; pronated minimizes both | +19% biceps excitation supinated vs pronated, +12% vs neutral (Coratella et al., 2023a); flexion force 28.2 kg neutral vs 17.3 kg pronated (O'Connell et al., 2021) |
+| **Bar type** | A straight bar keeps the forearm supinated; an EZ bar half-pronates it | Slightly greater biceps excitation with the straight bar (Coratella et al., 2023b) |
+| **Letting the shoulders flex** | Converts part of the curl into a front raise | Biceps excitation rose 17.7–20.3% when the arms were allowed to flex, with a different anterior deltoid contribution (Coratella et al., 2023b) |
+| **Pad angle on a preacher bench** | Sets where the torque peaks, degree for degree | Mechanical (Part XI §B.7) |
+| **Pulley height and standing position on a cable** | Sets the whole profile; the shoulder's position does not | Mechanical (Part XI §B.7); both matched-profile trials used cables for exactly this reason (Larsen et al., 2026) |
+| **Dumbbell versus cable** | Changes where the torque peaks, not how much muscle is used | Dumbbell curl produced higher biceps excitation than a [Bayesian cable curl](#bayesiancurl) at 80% of each exercise's own 1RM, 111% vs 93% of maximum (Parpa et al., 2025) — an amplitude difference at matched relative load, not a growth difference |
+| **Wrist position** | None on muscle length | Part XI §B.2 |
+
+---
+
+### B.11 What EMG can and cannot settle here
+
+**The elbow flexors are the easiest muscles in the body to record and among the least useful to rank by
+amplitude.** Three specific problems sit on top of the general EMG–hypertrophy dissociation of Part II §B.11.
+
+**First, the biceps is superficial and the brachialis is not.** Surface electrodes over the front of the arm
+record the biceps, with an unknown contribution from the muscle beneath it. Every "biceps activation" ranking
+in this Part is therefore a ranking of one of the two muscles that do the work.
+
+**Second, amplitude at matched relative load answers a different question than growth does.** The dumbbell
+curl beat a cable variant 111% to 93% of maximum voluntary contraction at 80% of each exercise's own
+[one-repetition maximum](#onerepmax) (Parpa et al., 2025) — and the two matched-profile training trials that measured
+growth found nothing between shoulder positions at all (Larsen et al., 2026).
+
+**Third, the muscle that gains the most from a grip change is the one nobody records.** The brachioradialis
+is rarely instrumented and has never been measured as a training outcome (Part XI §A.7).
+
+**What EMG has shown, and how far it goes.**
+
+| What was recorded | Result | What it predicts | What the training data say |
+|---|---|---|---|
+| Three grips, 8RM curls, ten bodybuilders | Supinated > neutral > pronated for biceps excitation (Coratella et al., 2023a) | Supinated grips train the biceps hardest | No hypertrophy trial has compared grips |
+| Straight vs EZ bar, arms flexing or not | Straight bar slightly higher; flexing the shoulders +17.7–20.3% (Coratella et al., 2023b) | Swinging adds biceps work | It also adds a front raise (Part XI §C.2) |
+| Chin-up, pull-up and a rotating-handle variant | Biceps 78–96% of maximum; chin-up highest (Youdas et al., 2010) | Chin-ups are arm exercises | Rows grew elbow flexors half as much as curls (Mannarino et al., 2021) |
+| Dumbbell vs Bayesian cable curl at 80% 1RM, eleven volunteers | 111% vs 93% of maximum (Parpa et al., 2025) | Dumbbells are the better curl | Matched-profile trials found no growth difference between shoulder positions (Larsen et al., 2026) |
+
+---
+
+### B.12 The mechanical checklist
+
+Apply these to any exercise for the elbow flexors.
+
+1. **Does the elbow actually straighten?** The range that reaches the straight-arm end is the one with
+   training evidence behind it (Part XI §B.4), and it is the first thing a heavy load takes away.
+2. **How much torque survives to that end?** Zero for every hanging-arm curl; 71% of peak on a 45° preacher
+   pad; 64% on the 50° bench the trials used (Part XI §B.7).
+3. **Where does the torque peak?** The elbow angle at which the load is perpendicular to the forearm — the
+   exercise in one number, and the angle at which its strength gains will show up (Nunes et al., 2020).
+4. **Is the upper arm staying where the exercise put it?** If the shoulder flexes, the profile you chose is
+   not the profile you are training (Part XI §C.2).
+5. **Which grip, and why?** Supinated for the biceps, neutral for the most total force — and it changes the
+   mix rather than the size of the stimulus (Part XI §B.3).
+
+---
+
+## partxictherepspecified
+
+**PART C — The rep, specified**
+
+### C.1 The two elbow flexor reps
+
+Every exercise in Part XI §D is one of two reps: one that loads the arm hardest near a straight elbow, and
+one that loads it hardest at a right angle. **A complete week has one of each, and the first is the one most
+programmes are missing.** Volume here means [hard sets](#hardset) per week, counted as Part XI §F.1 counts them.
+
+**Rep 1 — the stretch-loaded curl.** Performed on a preacher bench set near 45°, or on a cable arranged to
+pull perpendicular to a nearly straight forearm.
+
+```
+THE STRETCH-LOADED CURL
+  Set-up   Upper arms flat on the pad along its whole length, armpits
+           against the top edge. A 45 deg pad, not a vertical one.
+           Supinated grip, straight bar or dumbbells.
+  Descent  2-3 s, to a fully straight elbow. The load is still 71% of
+           its peak there, so the arm has to hold it.
+  Bottom   Do not rest at the bottom, and do not bounce out of it.
+           One controlled turnaround.
+  Ascent   1-2 s to about 100 deg. On a 45 deg pad the torque is
+           still 57% of peak there and only reaches zero at 135 deg,
+           so stopping is a convenience, not a mechanical edge.
+  Breath   Exhale through the ascent.
+  Progress Load, then repetitions, then a second weekly session.
+```
+
+**Why each line is there.** The pad angle sets the profile: a 45° pad peaks at 45° of elbow flexion and still
+asks for 71% of that at a straight arm (Part XI §B.7). The full descent is the point of the exercise — the
+trial that trained the extended half of the range grew the muscle about two and a half times as fast as the
+one that trained the flexed half (Sato et al., 2021), and the distal region responds most to it (Pedrosa et
+al., 2023). **The load is the price of that geometry:** maximal elbow flexion torque at a nearly straight arm
+is only about two thirds of what the same arm makes at a right angle (Part XI §B.3), so a stretch-loaded curl
+is necessarily a lighter exercise — and the trial that matched profiles this way reported its lifters failing
+early because of it (Larsen et al., 2026).
+
+**What this rep has not got.** A trial of its own against a hanging-arm curl with volume equated and the
+range held constant. The two comparisons closest to it changed profile, range and shoulder position at once,
+and they split: the larger found both exercises growing the muscle in different regions (Kassiano et al.,
+2025), the smaller found growth only in the preacher group (Zabaleta-Korta et al., 2023). **A mechanical
+inference supported by range-of-motion trials, not a head-to-head result.**
+
+**Rep 2 — the stretch-free curl.** The standing dumbbell, barbell or cable curl, upper arms vertical.
+
+```
+THE STRETCH-FREE CURL
+  Set-up   Upper arms hanging vertically, elbows lightly against the
+           ribs. Supinated grip for the biceps, neutral for total force.
+  Descent  2-3 s to a straight elbow. The load unloads itself there;
+           that is the profile, not a mistake.
+  Bottom   Straight arm, no swing to restart.
+  Ascent   1-2 s to a right angle - the hardest point - then continue
+           to about 120 deg if the shoulders stay still.
+  Rule     The upper arm does not move forward. If it does, the set has
+           become a front raise with a curl attached (Part XI §B.10).
+  Progress Load first, then repetitions.
+```
+
+**Why each line is there.** This rep is loaded where the muscle is strongest and where the torque peaks, at a
+right angle (Part XI §B.7). It is easy to load heavily and easy to cheat, and the cheat — flexing the
+shoulder — raises biceps excitation by 17.7–20.3% while changing the exercise into a different one
+(Coratella et al., 2023b).
+
+---
+
+### C.2 The technical errors, in order of how much they cost
+
+| # | Error | What it costs | Fix |
+|---|---|---|---|
+| 1 | **Cutting the last 20–30° of extension** | Removes exactly the range the growth trials separated: training the extended half beat the flexed half 8.9% to 3.4% in thickness (Sato et al., 2021) | Straight arm at the bottom of every repetition, with a lighter load — which is what the arm's own strength curve requires there anyway (Part XI §B.3) |
+| 2 | **Swinging the shoulders forward to start the rep** | Converts part of a curl into a front raise and hides the load the elbow is actually resisting (Coratella et al., 2023b) | Upper arms still; if they cannot stay still, the load is wrong |
+| 3 | **Using a steep preacher pad and calling it stretch-loaded** | The peak moves to the pad's angle, so a 70° pad peaks at 70° and keeps only a third of its load at the bottom (Part XI §B.7) | Set the pad at 45–50°, or use a cable arranged to the same effect |
+| 4 | **Resting at the top of a preacher curl** | The position where the torque has already fallen away; it adds time, not stimulus | Stop the ascent at about 100° |
+| 5 | **Grinding sets of heavy eccentrics at long lengths early in a programme** | The most damaging combination available to this muscle: eccentric work at long length produced far more damage than the same work short, and reached the biceps rather than the brachialis alone (Nosaka & Sakamoto, 2001) | Introduce the stretch-loaded curl at 2–3 [repetitions in reserve](#rir) for the first two weeks (Part XI §E.6) |
+| 6 | **Bouncing out of the bottom** | Replaces muscle force with elastic recoil in the one part of the range this Part is trying to load | A dead stop, then an ascent |
+| 7 | **Chasing the "peak" with a special curl** | No study in this Part measured a peak, and the regional differences that do exist are small and distal (Varovic et al., 2025) | Train the range; the shape is inherited |
+| 8 | **Counting chin-ups and rows as arm training** | They grow the elbow flexors about half as fast as curls do (Mannarino et al., 2021) | Count them at half a set and add direct work (Part XI §F.1) |
+
+**Errors 1, 3 and 4 are the same error in three costumes**: they all move the working range away from the
+straight elbow. Errors 2 and 6 hide load. Errors 5 and 7 cost recovery and time rather than stimulus.
+
+---
+
+### C.3 Prerequisites — can you actually reach the positions?
+
+Two checks.
+
+**1. A straight elbow, unloaded.** Stand with the arms at the sides and straighten both elbows fully. Elbows
+that do not straighten — from an old fracture, a repaired distal biceps tendon, or an unusually tight
+capsule — change nothing about the prescription except its range: use the range you have, and let the load
+sit as close to its end as the joint allows.
+
+*If it fails with pain at the front of the elbow:* this is the presentation of Part XI §E.4, not a technique
+problem.
+
+**2. A supinated grip without wrist pain.** Hold a light barbell with the palms up for thirty seconds. If the
+wrists complain, the EZ bar is the fix, at a small cost in biceps excitation (Coratella et al., 2023b), and
+dumbbells are the better one because they let each forearm find its own rotation.
+
+---
+
+### C.4 Cues — which ones work and which ones harm
+
+| Cue | Verdict | Why |
+|---|---|---|
+| "Straighten the arm all the way" | **Useful, and the most valuable cue in this Part** | The extended half is the half the trials separate (Sato et al., 2021) |
+| "Keep your elbows still" | **Useful** | It is what keeps the profile you chose (Part XI §B.10) |
+| "Squeeze at the top" | **Situational** | Harmless on a standing curl, pointless on a preacher curl where the torque has already fallen |
+| "Turn the pinky up" | **Situational** | Supination raises biceps excitation (Coratella et al., 2023a); it is not needed on a fixed bar, which is already supinated |
+| "Curl the weight, don't lift it" | **Useful as a shorthand for error 2** | The elbow is the only joint that should move |
+| "Feel the stretch at the bottom" | **Misleading on its own** | A hanging-arm curl has zero torque at the bottom regardless of how much stretch is felt (Part XI §B.7) |
+| "Go heavy, the arms can take it" | **Not supported** | 25–35 repetitions to failure and 8–12 to failure produced the same elbow flexor growth (Schoenfeld et al., 2015b) |
+
+---
+
+### C.5 The limiting links
+
+| Exercise | What usually ends the set | Fix |
+|---|---|---|
+| **Preacher curl** | The elbow flexors, as designed | Nothing — this is the point of the exercise |
+| **Standing barbell curl** | The urge to swing, before the muscle | Fix the upper arms; if they move, stop the set |
+| **Dumbbell curl with supination** | Grip and wrist, at heavy loads | Straps are unnecessary at these loads; lower the weight |
+| **[Hammer curl](#hammercurl)** | Rarely the brachioradialis, which supplies the smallest share of the three — somewhere between 4% and 19% of a curl's torque (Part XI §B.9) | Use it as a grip-comfort variant, not as a forearm exercise |
+| **Chin-up** | The lats and the grip, usually before the arms | Add direct curls rather than more chin-ups (Part XI §F.1) |
+| **Cable curl** | The stance, if the cable pulls the lifter forward | Stand where the cable's angle gives the profile you chose |
+
+---
+
+### C.6 The wrist, the forearm and the bar
+
+**The bar you hold changes the rotation of the forearm and nothing else about the exercise.** A straight bar
+keeps both forearms fully supinated, which is where the biceps is most excited (Coratella et al., 2023a) and
+where its flexion lever is largest (Murray et al., 1995). An EZ bar half-pronates them, which is more
+comfortable for many wrists and slightly less excitatory for the biceps (Coratella et al., 2023b). Dumbbells
+allow each arm to rotate independently, which is what makes them the default in the trials of Part XI §B.4.
+
+**One warning that belongs here rather than in Part XI §E.4.** Maximal eccentric work with the forearm
+supinated produced more damage than the same work with it neutral, and the mechanism was measured: the
+myotendinous junction was dragged progressively further with each set in the supinated position only (Lau et
+al., 2021). Heavy supinated eccentrics are the most damaging thing you can do to this muscle group, which is
+a reason to introduce them gradually, not to avoid them.
+
+---
+
+### C.7 How to know it worked
+
+**Within the set.** On rep 1, the hardest moment is near the straight-arm end and the effort fades as the bar
+rises. On rep 2, the hardest moment is at a right angle. If the hardest moment is somewhere else, the set-up
+is not the one specified.
+
+**Across weeks.**
+
+- **Load or repetitions rise at the same technique** — the upper arms still, the elbow straightening fully.
+- **Arm circumference is a poor measure** and a slow one; the trials in this Part used ultrasound at fixed
+  percentages of arm length because circumference conflates fat, the triceps and the elbow flexors.
+- **Strength gains are specific to the range you trained.** A group training with torque emphasis at long
+  lengths gained 39% at 20° of elbow flexion; a group emphasising the short end gained 30% there, and the two
+  matched at 60° and 100° (Nunes et al., 2020). Testing a curl at one angle answers a question about that
+  angle.
+- **Not soreness.** Damage markers respond to novelty and to long-length eccentrics (Nosaka & Sakamoto, 2001),
+  not to the size of the growth stimulus (Part I).
+
+---
+
+## partxidexercisecatalogue
+
+**PART D — Exercise catalogue**
+
+Every entry gives its elbow flexor loading class (Part XI §B.4) with the stretch fraction that sets it, the
+set-up detail that decides that class, and the failure mode. **Entries are grouped by loading class**,
+because that is how the mechanics differ — not because the class has been shown to change growth, which one
+trial tested and did not find (Nunes et al., 2020).
+
+A warning that applies to the whole catalogue: **the only two trials that matched resistance profiles between
+two named curls were testing shoulder position, and they found nothing** (Larsen et al., 2026). No trial has
+compared two curls of different loading classes with volume equated and the range held constant. Everything
+below rests on those, on the range-of-motion trials of Part XI §B.4, and on mechanics.
+
+---
+
+### D.1 Stretch-loaded curls — 60% or more of peak torque at a straight elbow
+
+#### Preacher curl, 45–50° pad, barbell or dumbbells
+**Class:** Stretch-loaded. **Peak:** at the pad's angle — 45° on a 45° pad, 50° on the 50° bench the trials
+used; **stretch fraction 0.71 and 0.64** (Part XI §B.7).
+**Role:** the reference exercise of this Part. The pad fixes the upper arm, which removes the swing, and it
+is the exercise in which the range-of-motion trials were run (Pedrosa et al., 2023).
+
+*Setup.* Pad at 45–50°, armpits at the top edge, upper arms flat along the pad.
+*Execution.* Full extension under control; the ascent may stop near 100°, where 57% of the peak torque
+remains.
+*Evidence note.* A preacher curl was the exercise in both partial-range trials — in untrained women (Pedrosa
+et al., 2023) and in trained adults (Havers et al., 2025) — and in both preacher-against-incline comparisons,
+where it biased growth toward the distal region (Kassiano et al., 2025).
+*Failure mode.* A steeper pad, which walks the class toward Part XI §D.2.
+
+#### Cable curl with the upper arm horizontal in front
+**Class:** Stretch-loaded, **stretch fraction 1.00** — but only if the cable is arranged so that it is
+perpendicular to the forearm when the elbow is straight, which usually means pulling from below or from
+behind rather than straight ahead.
+*Reality.* The most extreme stretch-loaded profile available, and the least comfortable. A cable pulling
+horizontally from in front of a horizontal upper arm gives the opposite profile — zero at the straight elbow
+— so this exercise is defined by the cable's angle, not by the arm's position.
+*Evidence note.* No training trial. The matched profile used in the shoulder-position trial peaked in the
+most lengthened position and its authors report that this caused lifters to fail early, recommending a more
+conservative profile (Larsen et al., 2026).
+
+#### Bayesian cable curl (cable from behind, shoulder extended)
+**Class:** Set by where the lifter stands: stretch-loaded when the cable is perpendicular to a nearly
+straight forearm, stretch-free when it is not.
+*Reality.* Its reputation rests on the shoulder extension, and that is the variable three trials found not to
+matter once the profile was matched (Larsen et al., 2026). What it does have is a cable, which lets the
+profile be set deliberately.
+*Evidence note.* Matched against a preacher curl for ten weeks it produced the same growth at every measured
+region, with point estimates slightly favouring it (Attarieh et al., 2025).
+
+---
+
+### D.2 Half-loaded curls — a quarter to three fifths of peak torque at a straight elbow
+
+#### Preacher curl on a steep pad (60–75°)
+**Class:** Half-loaded, **stretch fraction 0.26–0.50**. The commonest way to turn the reference exercise into
+something else without noticing.
+
+#### Concentration curl
+**Class:** Half-loaded as usually performed, **stretch fraction 0.26–0.50** — the peak falls where the
+forearm is horizontal, which with the upper arm braced on the inner thigh is 60–75° of elbow flexion.
+*Reality.* A preacher curl performed with the thigh as the pad. It is limited by what one arm can hold with
+the trunk bent forward, not by the muscle.
+
+---
+
+### D.3 Stretch-free curls — the heavy category
+
+The torque at a straight elbow is under a quarter of the peak, and for every curl with the upper arm hanging
+vertically it is zero.
+
+#### Standing barbell curl
+**Class:** Stretch-free. **Peak:** 90°; **stretch fraction 0.00**.
+**Role:** the loadable curl. The largest weight a person can curl, on the profile that suits it — the peak
+sits where the arm is strongest (Part XI §B.3).
+*Setup.* Upper arms vertical against the ribs, supinated grip.
+*Evidence note.* A straight bar produced slightly higher biceps excitation than an EZ bar; letting the
+shoulders flex raised excitation 17.7–20.3% and changed the exercise (Coratella et al., 2023b).
+*Failure mode.* The swing of error 2 in Part XI §C.2.
+
+#### Standing or seated dumbbell curl, with supination
+**Class:** Stretch-free. **Peak:** 90°.
+*Reality.* The same profile with independent forearms, which lets the grip rotate from neutral at the bottom
+to supinated at the top. The supination itself is trainable work for the biceps (Part XI §B.1) and no
+hypertrophy trial has measured it.
+
+#### Incline curl
+**Class:** Stretch-free. **Peak:** 90°, with **zero** torque at the straight-arm position.
+*Reality.* **The most argued-about exercise in this Part.** Lying back lengthens the biceps by extending the
+shoulder and then supplies no load at that length, because the upper arm still hangs vertically (Part XI
+§B.7). It nonetheless grows the muscle, and biases it proximally.
+*Evidence note.* In the larger of the two trials that trained it against a preacher curl, **both exercises
+grew the elbow flexors** and the incline curl grew the proximal site more, +0.08 cm against the preacher
+(Kassiano et al., 2025). In the smaller, no region of the incline group grew while the preacher group grew
+distally — on a null between-group test, with six drop-outs from the incline group against one, and with the
+preacher group training only 50–125° of elbow flexion (Zabaleta-Korta et al., 2023). **Moderate evidence**
+that it grows the elbow flexors with a proximal bias.
+
+#### Spider curl (chest on an incline bench, arms hanging)
+**Class:** Stretch-free. **Peak:** 90°; zero at the straight arm.
+*Reality.* An incline curl with the shoulder flexed instead of extended. Three trials say that difference
+does not change growth (Part XI §B.4); the profile is identical.
+
+#### Standing cable curl
+**Class:** Stretch-free as normally performed, and adjustable.
+*Reality.* The most adjustable exercise here: step back and the peak moves toward a straight elbow, step
+forward and it moves toward a bent one.
+
+#### Preacher curl with a cable pulling from the front
+**Class:** Stretch-free — the arrangement whose torque emphasis is at the flexed end (Nunes et al., 2020).
+*Evidence note.* Over ten weeks it produced the same thickness gain as the barbell version, +7% against +8%,
+and less strength at a nearly straight elbow, +30% against +39% at 20° (Nunes et al., 2020). **The growth was
+the same; the strength was where it was trained.**
+
+#### Machine curls
+**Class:** Set by the cam, which the manufacturer chose and the label does not state. Find it by feeling
+where the exercise is hardest.
+
+---
+
+### D.4 Grip variants — what they actually change
+
+| Exercise | Class | What it changes | Evidence |
+|---|---|---|---|
+| **Hammer curl** (neutral grip) | Its base curl's class | More weight can be lifted — whole-arm flexion force is highest neutral (O'Connell et al., 2021) — while biceps excitation falls (Coratella et al., 2023a). **What it does not do is preferentially train the brachioradialis:** in the only study that recorded it, brachioradialis excitation was *highest* with a supinated grip | EMG only; no trial has measured brachioradialis growth |
+| **[Reverse curl](#reversecurl)** ([pronated grip](#pronatedgrip)) | Its base curl's class | The weakest position — flexion force 17.3 kg pronated against 28.2 kg neutral (O'Connell et al., 2021) — and the lowest biceps excitation (Coratella et al., 2023a) | No hypertrophy trial |
+| **Dumbbell curl with supination through the rep** | Its base curl's class | Adds resisted supination, the biceps' second action (Kondi et al., 2026) | No hypertrophy trial |
+| **EZ-bar curl** | Its base curl's class | Half-pronates the forearm; slightly less biceps excitation, more comfortable wrists | Coratella et al., 2023b |
+
+**The honest summary of this table.** Grip changes how much weight the arm can lift and how hard the biceps
+works; **no trial has measured whether any grip grows more muscle than another**, and the one muscle the
+neutral grip is supposed to favour was most excited by the supinated one (Coratella et al., 2023a). Use the
+supinated grip as the default because it excites the biceps most, and the neutral grip when the wrists or
+elbows object.
+
+---
+
+### D.5 Pulls — the category that counts for half
+
+| Exercise | Class | What it gives the elbow flexors | Evidence |
+|---|---|---|---|
+| **Chin-up** | Stretch-free | The largest activation in this Part, 78–96% of maximum, through about 100° of elbow motion, and near-zero torque at the hang (Youdas et al., 2010) | No hypertrophy trial against curls |
+| **Pull-up** | Stretch-free | The same, slightly less: biceps activation is lower than the chin-up (Youdas et al., 2010) | As above |
+| **Row, any variety** | Stretch-free | Real growth: +5.2% against a curl's +11.1% over eight weeks in one trial (Mannarino et al., 2021), and enough that adding curls changed nothing in another (Gentil et al., 2013) | Two trials, disagreeing |
+| **Lat pulldown** | Stretch-free | As the chin-up, scaled by load | Part of the programme in the trial where curls added nothing (Gentil et al., 2013) |
+
+---
+
+### D.6 Exercises people miscount
+
+| Exercise | What people assume | Reality |
+|---|---|---|
+| Wrist curls | "Forearm work that hits the arms" | It crosses neither the elbow nor any of these three muscles. **Zero** elbow flexor sets |
+| Deadlifts and shrugs | "The arms are holding the weight" | The elbows do not flex; the flexors hold an isometric position at negligible torque. **Zero** |
+| Farmer's carries | "The arms are working" | Grip and shoulders, not elbow flexion. **Zero** |
+| Incline curls, counted as the stretch exercise | "It stretches the biceps" | It does, and then supplies no torque there (Part XI §B.7) — though it grows the muscle, with a proximal bias (Kassiano et al., 2025). **Count it as a stretch-free curl** |
+| Chin-ups, counted as arm training | "They work the biceps hardest" | High activation, half the growth of curls (Mannarino et al., 2021). **Count them at half a set** (Part XI §F.1) |
+| Hammer curls, counted as brachioradialis training | "They are forearm builders" | The brachioradialis supplies the smallest share of a curl's torque, its excitation was highest with a *supinated* grip, and no trial has measured its growth (Part XI §B.9). **Count them as curls** |
+
+---
+
+### D.7 Selection rules
+
+1. **Curl through the straight-arm end every week.** That is the variable with training evidence behind it
+   (Part XI §B.4), and it costs nothing to honour.
+2. **Make at least one of those curls a stretch-loaded one.** A 45–50° preacher curl keeps 64–71% of its peak
+   torque where a hanging-arm curl keeps none — **a mechanical inference**, since the one trial that
+   manipulated torque emphasis inside an exercise found no growth difference (Nunes et al., 2020).
+3. **Keep one stretch-free curl for load.** The standing curl carries the heaviest weight, on the part of the
+   range where the arm is strongest (Part XI §B.3).
+4. **Do not choose an exercise for its shoulder position.** Three matched trials found nothing there (Larsen
+   et al., 2026); choose for the profile and the comfort.
+5. **Count the pulls at half, as a judgement.** One trial makes a curl worth about two rows (Mannarino et
+   al., 2021); another found direct curls adding nothing to a pulling programme (Gentil et al., 2013), and
+   the position paper behind this document's counting convention recommends one-to-one (Schoenfeld et al.,
+   2019b). **Evidence remains limited and inconsistent.**
+6. **Pick the grip for the wrist, not for the muscle.** No hypertrophy trial separates grips; the supinated
+   grip is the default only because it excites the biceps most.
+7. **Vary the exercises across the week rather than within the session** — and if you want the regional bias,
+   a preacher curl and an incline curl bias opposite ends of the muscle (Kassiano et al., 2025). The one
+   trial on variety grew every measured site with varied exercises and missed the proximal site with fixed
+   ones (Costa et al., 2021). **Promising but under-replicated** — 22 detrained men, nine weeks.
+
+---
+
+## partxiecontextmodifiers
+
+**PART E — Context modifiers — when "perfect" changes**
+
+### E.1 Goal contexts
+
+| Goal | What changes | Why |
+|---|---|---|
+| **Arm size** | The default: one stretch-loaded and one stretch-free curl a week, pulls counted at half (Part XI §F.1) | The range-of-motion trials and the volume trial both point here (Part XI §B.4) |
+| **A bigger chin-up or row** | Keep the curls; they do not transfer much | Strength gains were specific to the exercise trained in the only comparison: the row-trained arm gained on rows, the curl-trained arm on curls (Mannarino et al., 2021) |
+| **Strength at a straight elbow** — climbers, grapplers, anyone catching a load with a nearly straight arm | Bias toward the stretch-loaded class and train it heavy | Torque emphasis at long lengths gave 39% versus 30% strength gains at 20° of elbow flexion (Nunes et al., 2020) |
+| **Elbow tendon tolerance after a long layoff** | Introduce stretch-loaded work at 2–3 repetitions in reserve for the first fortnight | Eccentric work at long lengths is the most damaging pattern available to this muscle (Nosaka & Sakamoto, 2001) |
+| **Minimum effective dose** | One stretch-loaded curl exercise, two to three hard sets, twice a week | Below the lowest dose any elbow flexor trial has tested: the lowest arm of the one [dose–response](#doseresponserelationship) trial — three weekly sets by this Part's counting — was significantly beaten by the highest (Schoenfeld et al., 2019a), so this row is a floor for holding on, not a recommendation |
+
+---
+
+### E.2 Body contexts
+
+| Context | What changes | Why |
+|---|---|---|
+| **A long forearm** | The same dumbbell produces more elbow torque; expect to curl less than a short-forearmed training partner at the same muscle size | The external moment is the load times the distance from the elbow to the hand (Part XI §B.9) |
+| **Elbows that do not straighten fully** | Use the range available and place the load as close to its end as possible | The evidence is about loading the stretched half *of the range you have*; nothing in it requires 0° |
+| **Hypermobile elbows that hyperextend** | Stop at a straight elbow, not beyond it | Beyond straight the joint, not the muscle, takes the load; no study has examined it |
+| **Large arm circumference with little strength change** | Measure at fixed percentages of arm length, not with a tape | Circumference conflates fat, triceps and elbow flexors (Part XI §C.7) |
+| **Wrist pain with a supinated bar** | EZ bar or dumbbells | Slightly lower biceps excitation, unchanged growth expectation (Coratella et al., 2023b) |
+| **Being a non-responder on the arm** | Expect wide variation and judge by trend, not by month | Across 585 adults doing twelve weeks of elbow flexor training, biceps cross-section changed from **−2% to +59%** (Hubal et al., 2005) |
+
+---
+
+### E.3 Equipment contexts
+
+| Equipment available | Best available choice | Note |
+|---|---|---|
+| **Full gym** | 45° preacher curl + standing barbell curl | One of each class (Part XI §D.7) |
+| **Dumbbells only** | Dumbbell preacher curl on an adjustable bench set to 45°, plus standing dumbbell curls | The bench angle is the profile (Part XI §B.7) |
+| **Cables only** | One curl standing back from the pulley, one standing close | Distance from the pulley sets the class |
+| **Barbell only** | Standing curl, plus a bench set at 45° used as a preacher pad | Anything that fixes the upper arm at 45° works |
+| **Bands only** | Bands are stretch-free by construction — their tension rises as they shorten, so it is lowest at a straight elbow | Anchor them high and step back to shift the peak toward extension; **a mechanical inference** |
+| **Home, no equipment** | Chin-ups or inverted rows, counted at half a set | Half the growth rate of curls (Mannarino et al., 2021), and better than nothing |
+
+---
+
+### E.4 Pain and pathology contexts
+
+| Presentation | What it is | What to do |
+|---|---|---|
+| **A pop at the front of the elbow, a bunched muscle high in the arm, weakness turning a screwdriver** | [Distal biceps tendon rupture](#distalbicepstendonrupture): incidence 1.2 per 100,000 per year, almost always men around 47, almost always the dominant arm, and in every case in the source series the arm was forced straight against a contracting biceps (Safran & Graham, 2002) | **Same-week surgical assessment.** Anatomical repair restores function; delay narrows the options (Jaschke et al., 2023) |
+| **Front-of-shoulder pain with curls and overhead reaching** | The long head's tendon in its groove, a shoulder problem rather than an arm one | Part V §E.4; curls with the shoulder neutral, and assessment if it persists |
+| **Aching in the front of the elbow after the first heavy stretch-loaded session** | Ordinary exercise-induced damage, which is greater at long lengths and reaches the biceps rather than the brachialis alone (Nosaka & Sakamoto, 2001) | Expected once; if it repeats every session, the progression is too fast (Part XI §E.6) |
+| **Forearm ache with a supinated bar** | Usually a wrist or forearm-rotation issue rather than a muscle one | EZ bar or dumbbells (Part XI §C.6) |
+| **Numb or weak forearm after heavy curls, with pain in the crook of the elbow** | Possible lacertus-related compression — the lacertus is a real mechanical structure that changes the biceps' leverage (Miller et al., 2025) | Medical assessment; it is not a training variable |
+| **Smoking** | Carried a **7.5-fold** higher risk of distal biceps rupture in the one population series (Safran & Graham, 2002) | Not a training decision, but the only modifiable risk factor identified |
+
+**General education only.** Every row above that names a structure is an assessment question first.
+
+---
+
+### E.5 Sport contexts
+
+| Sport | What changes | Why |
+|---|---|---|
+| **Climbing** | Keep volume modest and bias the stretch-loaded class; the sport already supplies enormous elbow flexor work | Strength gains are angle-specific (Nunes et al., 2020) |
+| **Grappling and strongman** | Train the stretched position deliberately, because the sport loads it accidentally and violently | The rupture mechanism is an arm forced straight against a contracting biceps (Safran & Graham, 2002) |
+| **Throwing sports** | Nothing changes for the elbow flexors; the elbow's throwing problem is on the medial side | Outside this Part's scope |
+| **Bodybuilding** | The only context where exercise variety is worth the complication | Varied exercises grew every measured site; fixed exercises missed the proximal one (Costa et al., 2021) |
+| **Endurance sport in a calorie deficit** | Keep two hard sets a week and drop the rest | Part XI §F.1's maintenance row |
+
+---
+
+### E.6 Session and cycle contexts
+
+- **Where curls go in the session.** After the pulls, because the pulls need the arms and the arms do not need
+  the pulls. No trial in this Part has tested exercise order for the elbow flexors.
+- **The first two weeks of stretch-loaded work are a damage problem, not a growth problem.** Eccentric work at
+  long muscle lengths produced far more damage than the same work at short lengths, and damaged the biceps
+  rather than the brachialis alone (Nosaka & Sakamoto, 2001). Start at 2–3 repetitions in reserve and add the
+  last repetitions over two to three sessions.
+- **Protection transfers, briefly, to the other arm.** The contralateral repeated-bout effect exists but is
+  shorter-lived than the same arm's, and needs about a day to appear (Chen et al., 2016).
+- **A deload does not need to drop arm work.** These are small muscles with small systemic cost; the standard
+  practice of cutting arm sets first is convention, not evidence.
+- **Training one arm trains the other a little.** In the elbow flexors specifically, five weeks of unilateral
+  training raised untrained-arm isometric strength by **15.9%** — but only in the group training the extended
+  half of the range (Sato et al., 2021). Six weeks of unilateral **wrist** flexion training produced about 6%
+  in the untrained arm (Green & Gabriel, 2018), so the effect is not curl-specific. Useful when one arm is
+  immobilized.
+
+---
+
+### E.7 The context decision table
+
+| If this is true | Then | Because |
+|---|---|---|
+| You do chin-ups or rows twice a week | Count 2–4 half-sets and still add 4–8 direct sets | Pulls grow the flexors at half the rate (Mannarino et al., 2021) |
+| Your only curl is a standing one | Add a 45° preacher or a cable arranged to peak near extension | The stretched half is where the trials separate (Part XI §B.4) |
+| You feel a "stretch" at the bottom of an incline curl | Nothing is loading it there | Zero torque at a straight elbow in every hanging-arm curl (Part XI §B.7) |
+| The arm is sore for four days after every session | Cut the eccentric emphasis, not the range | Long-length eccentrics drive damage (Nosaka & Sakamoto, 2001) |
+| You cannot straighten the elbow without pain | Stop and get it assessed | Part XI §E.4 |
+| You have twelve weeks and no growth | Check the measurement before the programme | Cross-section changes of −2% to +59% over twelve weeks are the normal spread (Hubal et al., 2005) |
+
+---
+
+## partxifprogramming
+
+**PART F — Programming**
+
+### F.1 Volume
+
+Counted as hard sets per week for the elbow flexors, by one rule.
+
+> **Elbow flexor set count.** A hard set of any **direct elbow flexion** — a curl of any class, any grip —
+> counts as **1**. A hard set of a **chin-up, pull-up, row or pulldown** counts as **0.5**. A set of anything
+> that does not flex the elbow against resistance — carries, shrugs, deadlifts, wrist curls — counts as **0**.
+
+**Why those numbers, and how firm each is.** The half-credit for pulls follows the dose–response
+meta-regression that favours counting genuinely indirect work at half a set rather than zero or one
+(Pelland et al., 2026). The elbow flexor evidence for that ratio pulls both ways: within the same people a
+row grew the elbow flexors **5.2%** against a curl's **11.1%**, a ratio of 0.47 (Mannarino et al., 2021),
+while adding direct curls and extensions to a pulldown-and-bench programme moved elbow flexor thickness from
+**6.5% to 7.04%**, which was not a difference (Gentil et al., 2013). The position paper this document takes
+its counting convention from reviews the same two lines of evidence, calls them "somewhat conflicting" and
+recommends counting one-to-one until better data exist (Schoenfeld et al., 2019b). **This Part keeps the
+half-credit as a judgement**, because it sits between the two results and because pulls are chosen for the
+back rather than the arms. **Evidence remains limited and inconsistent.**
+
+| Training age | Curl sets | Pull credits (at 0.5 each) | Note |
+|---|---|---|---|
+| Beginner | 3–6 | Whatever the programme's pulling supplies | Pulling alone grows a beginner's arms (Part XI §B.8) |
+| Intermediate | 6–10 | 2–5 | One stretch-loaded and one stretch-free exercise |
+| Advanced | 10–16 | 3–8 | Split across two sessions; the stretch-loaded slot comes first |
+| Maintenance or deficit | 2–4 | Unchanged | Keep the stretch-loaded exercise |
+
+**The one dose–response trial that measured these muscles did it with pulling alone.** Thirty-four trained men
+trained three times a week for eight weeks with one, three or five sets per exercise, and their only
+elbow-flexion work was a wide-grip pulldown and a seated cable row — six, eighteen or thirty weekly pulling
+sets, which is **three, nine or fifteen elbow flexor sets** under the rule above. Elbow flexor thickness
+showed a group effect (P = 0.02, Bayes factor 3.04) with five sets beating one (BF 4.71), three not clearly
+beating one (BF 1.30), and no difference between three and five (BF 0.60) (Schoenfeld et al., 2019a).
+**Moderate evidence** for a dose–response in this muscle group. **Interpretive caution:** the only clear
+contrast is fifteen weekly sets beating three; nine sets was neither clearly better than three (Bayes factor
+1.30) nor clearly worse than fifteen (0.60), so the trial locates no ceiling and does not rule out that more
+than fifteen would have been better still.
+
+**What the trials in Part XI §B.4 used.** Ten weeks at six to eight weekly sets of one exercise produced
+**7–9%** thickness gains in untrained men (Larsen et al., 2026); ten weeks at two sessions of three to five
+sets produced **6–9%** (Attarieh et al., 2025); nine weeks of twelve weekly sets produced growth at one site
+only (Zabaleta-Korta et al., 2023). **Six to twelve weekly direct sets is the range in which nearly every
+elbow flexor result in this Part was produced.**
+
+---
+
+### F.2 Frequency
+
+**2×/week is the default, by convention and by what the trials used rather than by a [frequency](#trainingfrequency) comparison.**
+Nearly every elbow flexor result in this Part came from two or three weekly sessions (Part XI §B.4). The only
+volume-equated frequency comparison that measured these muscles put three sessions against six in 27 trained
+men over six weeks: three sessions a week grew
+elbow flexor thickness **7%** while six sessions a week produced no significant change (Saric et al., 2019).
+**Interpretive caution:** the report gives a between-group test for the other three sites and for strength,
+where none differed, but not for the elbow flexors, so this is a within-group difference in significance
+rather than a demonstrated difference between frequencies. **Moderate evidence** that frequency distributes
+volume rather than adding stimulus.
+
+1×/week works at the low end of the volume bands. 3×/week is defensible when the weekly sets are high enough
+that a single session would run past ten working sets for one small muscle group. **No trial has tested two
+sessions a week against anything in this muscle group**, and none above three found an advantage.
+
+---
+
+### F.3 Load and rep range
+
+**6–20 repetitions, chosen for the exercise rather than for the muscle.**
+
+```
+LOAD AND REPS FOR THE ELBOW FLEXORS
+  Stretch-loaded curl      8-15 reps   the profile punishes heavy grinding at
+                                       a straight elbow; leave 1-2 reps back
+  Stretch-free curl        6-12 reps   the loadable slot; take it close to
+                                       failure
+  Cable and machine curls  10-20 reps  cheap to recover from, easy to progress
+  Pull-ups and rows        5-12 reps   chosen for the back, counted at half
+```
+
+**The evidence behind the width of that range.** In trained men, 25–35 repetitions per set and 8–12
+repetitions per set, both to failure, produced elbow flexor thickness gains of **8.6% and 5.3%** with no
+significant difference; strength gains favoured the heavy condition (Schoenfeld et al., 2015b). Load is a
+free choice for growth here, as it is everywhere else in this document (Part II §F.3), and the rep ranges
+above are chosen so that each exercise is loaded where its profile makes sense.
+
+**Tempo does not need a rule.** Seven weeks of curls with a four-second eccentric and with a one-second
+eccentric produced identical thickness gains; the slow eccentric produced more strength (Kojić et al., 2021).
+**Promising but under-replicated** — twenty untrained participants.
+
+**Eccentric-only work is efficient rather than magical.** Five weeks of eccentric-only training matched
+concentric-plus-eccentric training for thickness (+9.7% vs +10.6%) at half the total volume, while
+concentric-only training did not significantly grow the muscle (+2.5%) (Sato et al., 2022). **Moderate
+evidence**, one trial, untrained adults, and the practical catch is that eccentric-only training needs a
+partner or a machine to return the load.
+
+---
+
+### F.4 Proximity to failure
+
+**0–2 repetitions in reserve on curls, and 2–3 on a stretch-loaded curl for its first fortnight only.**
+
+- **Failure is worth a little and costs a little.** In trained adults doing a single set per exercise, sets
+  to failure tended to produce slightly more hypertrophy than sets with two repetitions in reserve, with
+  modest absolute differences and no advantage for strength (Hermann et al., 2025).
+- **The load decides how much it matters.** With low loads, training to failure grew the muscle and stopping
+  short did not; with high loads, failure added nothing (Lasevicius et al., 2022). **Moderate evidence**, from
+  a knee-extension trial — the mechanism is not muscle-specific but the test was not done here.
+- **Failure on a stretch-loaded curl is the most fatiguing and most damaging option available** to this muscle
+  group in its first sessions (Nosaka & Sakamoto, 2001), which is why the introduction is at 2–3 repetitions
+  in reserve (Part XI §E.6). **Once it is accustomed, take it to failure like anything else:** every training
+  trial in Part XI §B.4 trained its stretch-loaded exercise to momentary or concentric failure, and none
+  reported a problem with it.
+
+---
+
+### F.5 Progression
+
+```
+THE ELBOW FLEXOR PROGRESSION
+  Weeks 1-2    Learn the two profiles. Stretch-loaded curl at 2-3 RIR.
+  Weeks 3-8    Double progression on both: add reps to the top of the
+               range, then add load and return to the bottom.
+  Weeks 9+     Add the second weekly session before adding a third
+               exercise.
+  Stalled?     Change the profile, not the muscle: move the pulley,
+               change the pad angle, or swap the grip.
+```
+
+**Two rules this muscle group needs.**
+
+- **Range is not the variable that gets progressed away.** The first thing that disappears under a heavier
+  load is the last 20–30° of extension, which is the part the trials separate (Sato et al., 2021). If the
+  elbow stops straightening, the load is wrong.
+- **Variety belongs across the week, not inside the session.** Varying the exercises across sessions grew
+  every measured region, including the proximal elbow flexors that the fixed-exercise group failed to grow
+  (Costa et al., 2021). **Promising but under-replicated.**
+
+**Advanced techniques do not add growth here.** Drop sets matched traditional sets across twelve studies
+(SMD 0.04, 95% CI −0.29 to 0.36) at higher perceived exertion (Havers et al., 2026); rest-pause and drop sets
+matched traditional training when volume was equated (Enes et al., 2021). They are time-savers, not
+stimulus-adders. Inter-set rest longer than 60 s is mildly favourable, with nothing gained beyond about 90 s
+(Singer et al., 2024).
+
+---
+
+### F.6 Session templates
+
+```
+TWO SESSIONS A WEEK - THE DEFAULT (8-10 elbow flexor sets)
+  Session 1   after pulling
+    45 deg preacher curl        3 x 8-12  @ 1-2 RIR
+    Standing barbell curl       2 x 6-10  @ 0-1 RIR
+  Session 2   after pressing
+    Cable curl, stood back
+    from the pulley             3 x 10-15 @ 1-2 RIR
+    Hammer curl                 2 x 8-12  @ 1-2 RIR   (grip comfort)
+  Pulls that week                            count at 0.5 each
+
+ONE SESSION A WEEK - MAINTENANCE OR A DEFICIT (2-4 sets)
+    45 deg preacher curl        2-3 x 8-12 @ 1 RIR
+    (everything else is the week's pulling)
+
+THREE SESSIONS A WEEK - ADVANCED (12-16 sets)
+    Add a third short session of 3-4 sets of a cable curl, placed on a
+    day with no heavy pulling; keep one stretch-loaded slot in each
+    session.
+```
+
+---
+
+### F.7 Timeline, measurement and expectations
+
+| Time | What to expect | Source |
+|---|---|---|
+| **Weeks 1–2** | Soreness after the first stretch-loaded sessions, then much less | Repeated-bout protection is large and long-lasting in these muscles (Chen et al., 2016) |
+| **Weeks 5** | Measurable thickness change is already possible: +8.9% in five weeks of training the extended half, twice a week | Sato et al., 2021 |
+| **Weeks 8–10** | 6–9% thickness gains in untrained people at six to eight weekly sets | Larsen et al., 2026 |
+| **Weeks 9–12** | In trained people, both a full range and a stretch-biased partial grow the muscle, and the difference between them is fractions of a millimetre | Havers et al., 2025 |
+| **Any time** | Enormous individual variation — −2% to +59% in biceps cross-section over twelve weeks in 585 people | Hubal et al., 2005 |
+| **Measurement** | Ultrasound at 50% and 70% of arm length, or nothing | Every trial in Part XI §B.4 |
+
+**What not to expect.** A change in shape. No study in this Part measured a "peak", the regional differences
+that exist are small (Varovic et al., 2025), and the only large regional finding was an exercise that grew
+nothing anywhere (Zabaleta-Korta et al., 2023).
+
+---
+
+## partxigsynthesis
+
+**PART G — Synthesis, and what the evidence does not support**
+
+### G.1 The rules that hold
+
+1. **Three muscles bend the elbow, and only one of them crosses the shoulder.** The biceps brachii crosses the shoulder, the elbow and the radioulnar joint; the brachialis and brachioradialis cross the elbow alone (Athwal et al., 2007).
+2. **The elbow's range decides the stimulus.** Training the same fifty degrees of range with the elbow nearly straight rather than well bent produced **+8.9% against +3.4%** of thickness in five weeks (Sato et al., 2021); a partial that kept the straight end matched full range in trained people (Havers et al., 2025), and a middling 50–100° partial gave up almost nothing (Pinto et al., 2012). **Moderate evidence.**
+3. **The shoulder does not decide.** With resistance profiles and elbow range matched, shoulder extension against neutral produced no difference over ten weeks (Larsen et al., 2026); the same held for a preacher curl against a Bayesian cable curl (Attarieh et al., 2025) and for an occlusion protocol measured by magnetic resonance imaging in trained men (da Silva Vendruscolo et al., 2025). **Moderate evidence.**
+4. **Length plausibly only helps where there is torque, and that has not been tested directly.** The growth advantage of long muscle lengths appears when there is relevant external torque in the lengthened position (Pedrosa et al., 2026) — which a hanging-arm curl does not supply, because its torque at a straight elbow is zero (Part XI §B.7). **A mechanical inference:** the one trial that moved the torque emphasis inside a single exercise found the same growth either way (Nunes et al., 2020).
+5. **Where the torque peaks is a property of the set-up, and it is calculable.** For a free weight the peak is where the forearm is horizontal — on a preacher bench, at the pad's own angle; for a cable, where the forearm is perpendicular to the cable (Part XI §B.7). It decides the angle at which strength is gained (Nunes et al., 2020).
+6. **Grip changes the mix, not the size of the stimulus.** Biceps excitation is highest supinated (Coratella et al., 2023a); total flexion force is highest neutral (O'Connell et al., 2021); no hypertrophy trial has compared grips.
+7. **The brachialis carries the largest share of a curl and the brachioradialis the smallest** — 47%, 34% and 19% of elbow flexion torque in four men (Kawakami et al., 1994), with a cadaver-based calculation putting the brachioradialis lower still (Part XI §B.9). **Evidence remains limited and inconsistent** on the exact shares; the ranking is consistent.
+8. **Pulls count for about half.** A row grew the elbow flexors 5.2% against a curl's 11.1% in the same people (Mannarino et al., 2021), and pulling volume alone shows a dose–response in these muscles (Schoenfeld et al., 2019a).
+9. **Load is a free choice, but the stretched half is where the arm is weakest.** 25–35 repetitions and 8–12 repetitions to failure grew elbow flexors alike (Schoenfeld et al., 2015b), and tempo did not change growth (Kojić et al., 2021) — while maximal torque at a nearly straight elbow is only about two thirds of what the same arm makes at a right angle (Sato et al., 2021), so stretch-loaded work is light work.
+10. **The response varies enormously between people.** Twelve weeks of elbow flexor training changed biceps cross-section by **−2% to +59%** across 585 adults (Hubal et al., 2005).
+
+---
+
+### G.2 What the evidence does **not** support
+
+| Claim | Verdict |
+|---|---|
+| "Incline curls grow the long head because they stretch it" | **Not supported as a mechanism** — three trials that isolated shoulder position with matched profiles found no difference (Larsen et al., 2026), and the exercise supplies no torque at the stretched position (Part XI §B.7). **The exercise itself works:** it grew the elbow flexors, and the proximal region more than a preacher curl did (Kassiano et al., 2025) |
+| "Preacher curls build the lower biceps, incline curls build the peak" | **Half true, and small.** The preacher curl did grow the distal region more and the incline curl the proximal, by about a millimetre in eight weeks (Kassiano et al., 2025); no study in this Part measured anything that could be called a peak, and the pooled regional effects across muscles are trivial (Varovic et al., 2025) |
+| "Hammer curls are how you build the brachioradialis" | **Not supported** as usually meant. The brachioradialis has the smallest share of a curl's torque (Kawakami et al., 1994) and was *most* excited by a supinated grip, not a neutral one (Coratella et al., 2023a); no trial has measured its growth |
+| "Chin-ups are enough arm training" | **Evidence remains limited and inconsistent.** Rows grew the elbow flexors at about half the rate of curls in the same people (Mannarino et al., 2021), while adding curls to a pulldown-and-bench programme added nothing measurable (Gentil et al., 2013); nobody has tested chin-ups against curls |
+| "You must curl heavy to build arms" | **Not supported.** 25–35 repetitions to failure matched 8–12 (Schoenfeld et al., 2015b) |
+| "Slow eccentrics build more muscle in the arms" | **Not supported.** Four-second and one-second eccentrics produced identical thickness gains; only strength differed (Kojić et al., 2021) |
+| "Drop sets and rest–pause grow more arm" | **Not supported** at equated volume — a meta-analysis of twelve studies found SMD 0.04 (Havers et al., 2026); rest–pause matched traditional sets (Enes et al., 2021) |
+| "Six sessions a week beat three for arms" | **Not supported** at equated volume; the elbow flexors grew in the three-session group only, with no between-group difference (Saric et al., 2019) |
+| "Training arms hard steals growth from the legs, or the reverse" | **Not supported.** Adding leg work to failure did not attenuate arm growth in 105 people (Kataoka et al., 2026) |
+| "Soreness after curls means the session worked" | **Not supported.** Damage tracks long-length eccentrics and novelty (Nosaka & Sakamoto, 2001; Lau et al., 2021), not the growth stimulus |
+| "A wider or narrower grip on the barbell changes which head grows" | **Evidence remains limited and inconsistent** — no trial has measured it, and the only grip data are electromyographic (Coratella et al., 2023a) |
+
+---
+
+### G.3 The one-paragraph version
+
+Three muscles bend the elbow: the biceps brachii, which also crosses the shoulder and turns the palm up, the
+brachialis beneath it, which crosses nothing else and supplies the largest single share of the torque, and
+the brachioradialis, which has the longest lever, the smallest cross-section and the smallest share. **What
+the training trials separate is the part of the elbow's range you use, not the position of your shoulder**:
+training the straight half of the range beat the bent half by about two and a half times in five weeks, while
+three trials that matched the resistance profile and moved only the shoulder found nothing at all. The
+mechanical reason to prefer a 45–50° preacher curl is that it still asks for 64–71% of its peak torque at a
+straight elbow, where a hanging-arm curl asks for none — **a mechanical inference**, because the one trial
+that moved the torque emphasis inside a single exercise found the same growth either way, and because the
+incline curl, which loads nothing at length, grew the muscle anyway and grew its proximal region more than
+the preacher did. **So: curl through the straight-arm end every week, make one of those curls a
+stretch-loaded one and one a heavy stretch-free one, six to twelve direct sets, pulls counted at half as a
+judgement, any load between six and twenty repetitions taken close to failure.** The stretched half is also
+where the arm is weakest, so that exercise is a light one by nature. Grip is for the wrist, not for the
+muscle; drop sets, slow eccentrics and extra sessions add nothing at equated volume; and the response varies
+so widely between people — from nothing to sixty percent in twelve weeks — that the programme should be
+judged over months, by ultrasound or by load, and never by soreness.
+
+---
+
+# partxiimasterglossary
+
+**Part XII — Master Glossary**
 
 Every technical term used anywhere in this document, defined formally with formula and units where
 the quantity is physically or operationally defined.
@@ -14973,159 +16424,167 @@ plain same-file heading anchor.
 
 | Term | Layer | Term | Layer |
 |---|---|---|---|
-| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 |
-| [45° back extension (hip extension)](#backextension) | 12 | [Motor unit](#motorunit) | 6 |
-| [Ab wheel](#abwheel) | 12 | [Multifidus](#multifidus) | 9 |
-| [Abdominal wall](#abdominalwall) | 9 | [Muscle thickness](#musclethickness) | 5 |
-| [ACL reconstruction](#aclreconstruction) | 13 | [Muscle volume](#musclevolume) | 5 |
-| [Acromioclavicular joint (AC joint)](#acromioclavicularjoint) | 3 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
-| [Acromion](#acromion) | 3 | [Net joint moment](#netjointmoment) | 11 |
-| [Adductor magnus](#adductormagnus) | 8 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
-| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Nordic hamstring curl](#nordiccurl) | 12 |
-| [Anconeus](#anconeus) | 9 | [Olecranon](#olecranon) | 3 |
-| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Open kinetic chain exercise](#openkineticchain) | 11 |
-| [Anterior deltoid](#anteriordeltoid) | 9 | [Overhead press (shoulder press, military press)](#overheadpress) | 12 |
-| [Aponeurosis](#aponeurosis) | 3 | [Overhead triceps extension](#overheadtricepsextension) | 12 |
-| [Apophysis](#apophysis) | 3 | [Painful arc](#painfularc) | 13 |
-| [Attentional focus](#attentionalfocus) | 10 | [Pallof press](#pallofpress) | 12 |
-| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Passive tension](#passivetension) | 5 |
-| [Axillary nerve](#axillarynerve) | 9 | [Patella (kneecap)](#patella) | 3 |
-| [Back squat](#backsquat) | 12 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
-| [Bar position](#barposition) | 11 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
-| [Barbell glute bridge](#glutebridge) | 12 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
-| [Barbell hip thrust](#hipthrust) | 12 | [Patellofemoral pain](#patellofemoralpain) | 13 |
-| [Bayes factor (BF)](#bayesfactor) | 9 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
-| [Belt squat](#beltsquat) | 12 | [Pectoral nerves (lateral and medial)](#pectoralnerves) | 9 |
-| [Bench inclination](#benchinclination) | 11 | [Pectoralis major](#pectoralismajor) | 9 |
-| [Bench press](#benchpress) | 12 | [Pectoralis major tear (pectoralis major rupture)](#pectoralismajortear) | 13 |
-| [Biacromial width](#biacromialwidth) | 3 | [Pectoralis major, abdominal part (the "lower chest")](#pectoralisabdominalhead) | 9 |
-| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Pectoralis major, clavicular head (the "upper chest")](#pectoralisclavicularhead) | 9 |
-| [Biceps femoris, long head (BFlh)](#bicepsfemorislonghead) | 8 | [Pectoralis major, sternocostal head (the "mid chest")](#pectoralissternocostalhead) | 9 |
-| [Biceps femoris, short head (BFsh)](#bicepsfemorisshorthead) | 8 | [Pectoralis minor](#pectoralisminor) | 9 |
-| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Pelvic floor](#pelvicfloor) | 9 |
-| [Biering-Sørensen test](#bieringsorensentest) | 9 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
-| [Bilaminar tendon](#bilaminartendon) | 3 | [Pelvis](#pelvis) | 3 |
+| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Mechanotransduction](#mechanotransduction) | 6 |
+| [45° back extension (hip extension)](#backextension) | 12 | [Middle deltoid](#middledeltoid) | 9 |
+| [Ab wheel](#abwheel) | 12 | [Moment arm](#momentarm) | 2 |
+| [Abdominal wall](#abdominalwall) | 9 | [Momentary (muscular) failure](#momentaryfailure) | 10 |
+| [ACL reconstruction](#aclreconstruction) | 13 | [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 |
+| [Acromioclavicular joint (AC joint)](#acromioclavicularjoint) | 3 | [Motor unit](#motorunit) | 6 |
+| [Acromion](#acromion) | 3 | [Multifidus](#multifidus) | 9 |
+| [Adductor magnus](#adductormagnus) | 8 | [Muscle thickness](#musclethickness) | 5 |
+| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Muscle volume](#musclevolume) | 5 |
+| [Anconeus](#anconeus) | 9 | [Musculocutaneous nerve](#musculocutaneousnerve) | 9 |
+| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
+| [Anterior deltoid](#anteriordeltoid) | 9 | [Net joint moment](#netjointmoment) | 11 |
+| [Aponeurosis](#aponeurosis) | 3 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
+| [Apophysis](#apophysis) | 3 | [Nordic hamstring curl](#nordiccurl) | 12 |
+| [Attentional focus](#attentionalfocus) | 10 | [Olecranon](#olecranon) | 3 |
+| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Open kinetic chain exercise](#openkineticchain) | 11 |
+| [Axillary nerve](#axillarynerve) | 9 | [Overhead press (shoulder press, military press)](#overheadpress) | 12 |
+| [Back squat](#backsquat) | 12 | [Overhead triceps extension](#overheadtricepsextension) | 12 |
+| [Bar position](#barposition) | 11 | [Painful arc](#painfularc) | 13 |
+| [Barbell glute bridge](#glutebridge) | 12 | [Pallof press](#pallofpress) | 12 |
+| [Barbell hip thrust](#hipthrust) | 12 | [Passive tension](#passivetension) | 5 |
+| [Bayes factor (BF)](#bayesfactor) | 9 | [Patella (kneecap)](#patella) | 3 |
+| [Bayesian cable curl](#bayesiancurl) | 12 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
+| [Belt squat](#beltsquat) | 12 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
+| [Bench inclination](#benchinclination) | 11 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
+| [Bench press](#benchpress) | 12 | [Patellofemoral pain](#patellofemoralpain) | 13 |
+| [Biacromial width](#biacromialwidth) | 3 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
+| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Pectoral nerves (lateral and medial)](#pectoralnerves) | 9 |
+| [Biceps brachii](#bicepsbrachii) | 9 | [Pectoralis major](#pectoralismajor) | 9 |
+| [Biceps curl](#bicepscurl) | 12 | [Pectoralis major tear (pectoralis major rupture)](#pectoralismajortear) | 13 |
+| [Biceps femoris, long head (BFlh)](#bicepsfemorislonghead) | 8 | [Pectoralis major, abdominal part (the "lower chest")](#pectoralisabdominalhead) | 9 |
+| [Biceps femoris, short head (BFsh)](#bicepsfemorisshorthead) | 8 | [Pectoralis major, clavicular head (the "upper chest")](#pectoralisclavicularhead) | 9 |
+| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Pectoralis major, sternocostal head (the "mid chest")](#pectoralissternocostalhead) | 9 |
+| [Biering-Sørensen test](#bieringsorensentest) | 9 | [Pectoralis minor](#pectoralisminor) | 9 |
+| [Bilaminar tendon](#bilaminartendon) | 3 | [Pelvic floor](#pelvicfloor) | 9 |
+| [Brachialis](#brachialis) | 9 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
+| [Brachioradialis](#brachioradialis) | 9 | [Pelvis](#pelvis) | 3 |
 | [Cable crunch](#cablecrunch) | 12 | [Pennation angle](#pennationangle) | 5 |
 | [Cable or machine kickback (standing hip extension)](#kickback) | 12 | [Plane of elevation](#planeofelevation) | 4 |
 | [Cable pull-through](#cablepullthrough) | 12 | [Plank](#plank) | 12 |
 | [Chest fly (dumbbell fly, cable fly or crossover, pec deck)](#chestfly) | 12 | [Posterior deltoid](#posteriordeltoid) | 9 |
 | [Chin-up](#chinup) | 12 | [Posterior oblique sling](#posteriorobliquesling) | 8 |
-| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Progressive overload](#progressiveoverload) | 10 |
-| [Clavicle (collarbone)](#clavicle) | 3 | [Pronated (overhand) grip](#pronatedgrip) | 11 |
-| [Close-grip bench press](#closegripbenchpress) | 12 | [Proximity to failure](#proximitytofailure) | 10 |
-| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Psoas major](#psoasmajor) | 9 |
-| [Compound exercise](#compound) | 11 | [Pull-up](#pullup) | 12 |
-| [Concentric contraction](#concentriccontraction) | 6 | [Pullover](#pullover) | 12 |
-| [Contralateral](#contralateral) | 1 | [Push-up](#pushup) | 12 |
-| [Coracobrachialis](#coracobrachialis) | 9 | [Quadratus lumborum](#quadratuslumborum) | 9 |
-| [Coracoid process](#coracoidprocess) | 3 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
-| [Costal cartilage](#costalcartilage) | 3 | [Quadriceps tendon](#quadricepstendon) | 3 |
-| [Crunch](#crunch) | 12 | [Radial nerve](#radialnerve) | 9 |
-| [Deadlift](#deadlift) | 12 | [Range of motion (ROM)](#rangeofmotion) | 4 |
-| [Deep hip external rotators](#hipexternalrotators) | 8 | [Rectus abdominis](#rectusabdominis) | 9 |
-| [Deload](#deload) | 10 | [Rectus femoris](#rectusfemoris) | 8 |
-| [Deltoid](#deltoid) | 9 | [Rectus sheath](#rectussheath) | 3 |
-| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
-| [Diaphragm](#diaphragm) | 9 | [Repetition (rep)](#repetition) | 10 |
-| [Diastasis recti](#diastasisrecti) | 13 | [Resistance profile](#resistanceprofile) | 11 |
-| [Dip (parallel-bar dip)](#dip) | 12 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 12 |
-| [Distal clavicular osteolysis ("weightlifter's shoulder")](#distalclavicularosteolysis) | 13 | [Reverse hyperextension](#reversehyperextension) | 12 |
-| [Distal triceps tendon rupture](#distaltricepsrupture) | 13 | [Reverse Nordic curl](#reversenordic) | 12 |
-| [Dose–response relationship](#doseresponserelationship) | 10 | [RIR (repetitions in reserve)](#rir) | 10 |
-| [Double progression](#doubleprogression) | 10 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
-| [Dumbbell bench press](#dumbbellbenchpress) | 12 | [Rotator cuff](#rotatorcuff) | 9 |
-| [Eccentric contraction](#eccentriccontraction) | 6 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
-| [Effect size](#effectsize) | 9 | [Row](#row) | 12 |
-| [Effort tolerance](#efforttolerance) | 10 | [RPE (rating of perceived exertion)](#rpe) | 10 |
-| [Elbow extension](#elbowextension) | 4 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
-| [Elbow flexion](#elbowflexion) | 4 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
-| [Elbow flexors](#elbowflexors) | 8 | [Sacrum](#sacrum) | 3 |
-| [Elbow path](#elbowpath) | 11 | [Sagittal plane](#sagittalplane) | 1 |
-| [EMG (electromyography)](#emg) | 9 | [Sarcomere](#sarcomere) | 5 |
-| [Erector spinae](#erectorspinae) | 8 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
-| [Erector spinae aponeurosis](#erectorspinaeaponeurosis) | 3 | [Scapula (shoulder blade)](#scapula) | 3 |
-| [Excursion](#excursion) | 4 | [Scapular depression](#scapulardepression) | 4 |
-| [External oblique](#externaloblique) | 9 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
-| [Face pull](#facepull) | 12 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
-| [Fascicle length](#fasciclelength) | 5 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
-| [Femoral nerve](#femoralnerve) | 8 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
-| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
-| [Femur (thigh bone)](#femur) | 3 | [Semimembranosus (SM)](#semimembranosus) | 8 |
-| [Flexion relaxation](#flexionrelaxation) | 11 | [Semitendinosus (ST)](#semitendinosus) | 8 |
-| [Force–length relationship](#forcelengthrelationship) | 5 | [Serratus anterior](#serratusanterior) | 8 |
-| [Front raise](#frontraise) | 12 | [Sesamoid bone](#sesamoid) | 3 |
-| [Front squat](#frontsquat) | 12 | [Set](#set) | 10 |
-| [Frontal (coronal) plane](#frontalplane) | 1 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
-| [Gastrocnemius](#gastrocnemius) | 8 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
-| [Glenohumeral joint](#glenohumeraljoint) | 3 | [Shoulder abduction](#shoulderabduction) | 4 |
-| [Glute-ham raise (GHR)](#glutehamraise) | 12 | [Shoulder adduction](#shoulderadduction) | 4 |
-| [Gluteal tendinopathy (greater trochanteric pain syndrome)](#glutealtendinopathy) | 13 | [Shoulder extension](#shoulderextension) | 4 |
-| [Gluteus maximus](#gluteusmaximus) | 8 | [Shoulder external (lateral) rotation](#shoulderexternalrotation) | 4 |
-| [Gluteus medius](#gluteusmedius) | 8 | [Shoulder flexion](#shoulderflexion) | 4 |
-| [Gluteus minimus](#gluteusminimus) | 8 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
-| [Good morning](#goodmorning) | 12 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
-| [Greater trochanter](#greatertrochanter) | 3 | [Shoulder instability](#shoulderinstability) | 13 |
-| [Grip width](#gripwidth) | 11 | [Shoulder position class (Overhead, Raised, Down)](#shoulderpositionclass) | 11 |
-| [Hack squat](#hacksquat) | 12 | [Side plank](#sideplank) | 12 |
-| [Hamstrings](#hamstrings) | 8 | [Sissy squat](#sissysquat) | 12 |
-| [Hanging knee raise](#hangingkneeraise) | 12 | [Sit-up](#situp) | 12 |
-| [Hard set](#hardset) | 10 | [Size principle](#sizeprinciple) | 6 |
-| [Hip abduction](#hipabduction) | 4 | [Smith machine squat](#smithmachinesquat) | 12 |
-| [Hip adduction](#hipadduction) | 4 | [Snapping triceps](#snappingtriceps) | 13 |
-| [Hip adductors](#hipadductors) | 8 | [Specific tension](#specifictension) | 5 |
-| [Hip extension](#hipextension) | 4 | [Spinal role class (spine-moving, spine-holding, supported)](#spinalroleclass) | 11 |
-| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Split squat](#splitsquat) | 12 |
-| [Hip flexion](#hipflexion) | 4 | [Spondylolysis](#spondylolysis) | 13 |
-| [Hip hinge](#hiphinge) | 11 | [Squat depth](#squatdepth) | 11 |
-| [Hip internal (medial) rotation](#hipinternalrotation) | 4 | [Stance width](#stancewidth) | 11 |
-| [Hip joint (acetabulofemoral joint)](#hipjoint) | 3 | [Step-up](#stepup) | 12 |
-| [Hip osteoarthritis](#hiposteoarthritis) | 13 | [Sternum (breastbone)](#sternum) | 3 |
-| [Horizontal pull](#horizontalpull) | 11 | [Sticking region](#stickingregion) | 11 |
-| [Humeral elevation](#humeralelevation) | 4 | [Straight-arm pulldown](#straightarmpulldown) | 12 |
-| [Humerus (upper arm bone)](#humerus) | 3 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
-| [Hypertrophy](#hypertrophy) | 7 | [Subacromial impingement](#impingement) | 13 |
-| [Iliocostalis lumborum](#iliocostalislumborum) | 8 | [Subacromial space](#subacromialspace) | 3 |
-| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [Suitcase carry](#suitcasecarry) | 12 |
-| [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
-| [Infraglenoid tubercle](#infraglenoidtubercle) | 3 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
-| [Internal (medial) rotation](#internalrotation) | 4 | [Supraspinatus](#supraspinatus) | 9 |
-| [Internal oblique](#internaloblique) | 9 | [T2-weighted MRI (transverse relaxation time)](#t2mri) | 9 |
-| [Intra-abdominal pressure (IAP)](#intraabdominalpressure) | 3 | [Technical failure](#technicalfailure) | 10 |
-| [Inverted row](#invertedrow) | 12 | [Tempo](#tempo) | 10 |
-| [Ischial tuberosity](#ischialtuberosity) | 3 | [Tensor fasciae latae (TFL)](#tensorfascialatae) | 8 |
-| [Isolated lumbar extension (ILEX)](#isolatedlumbarextension) | 12 | [Tensor vastus intermedius](#tensorvastusintermedius) | 8 |
-| [Isolation exercise](#isolation) | 11 | [Teres major](#teresmajor) | 8 |
-| [Joint reaction force](#jointreactionforce) | 3 | [The EMG–hypertrophy dissociation](#emghypertrophydissociation) | 9 |
-| [Kettlebell swing](#kettlebellswing) | 12 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
-| [Kipping](#kipping) | 12 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
-| [Knee extension](#kneeextension) | 4 | [Tibia (shin bone)](#tibia) | 3 |
-| [Knee flexion](#kneeflexion) | 4 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
-| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [Torque (moment)](#torque) | 2 |
-| [Knee travel](#kneetravel) | 11 | [Torso inclination](#torsoinclination) | 11 |
-| [Lat pulldown](#latpulldown) | 12 | [Training frequency](#trainingfrequency) | 10 |
-| [Lateral raise](#lateralraise) | 12 | [Training volume](#trainingvolume) | 10 |
-| [Latissimus dorsi](#latissimusdorsi) | 8 | [Transverse (horizontal) plane](#transverseplane) | 1 |
-| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Transversus abdominis](#transversusabdominis) | 9 |
-| [Leg extension](#legextension) | 12 | [Trapezius](#trapezius) | 9 |
-| [Leg press](#legpress) | 12 | [Triceps brachii](#tricepsbrachii) | 9 |
-| [Lengthened partials](#lengthenedpartials) | 7 | [Triceps brachii, lateral head](#tricepslateralhead) | 9 |
-| [Lengthened position](#lengthenedposition) | 7 | [Triceps brachii, long head](#tricepslonghead) | 9 |
-| [Limiting link](#limitinglink) | 10 | [Triceps brachii, medial head](#tricepsmedialhead) | 9 |
-| [Line of action](#lineofaction) | 2 | [Triceps kickback](#tricepskickback) | 12 |
-| [Linea alba](#lineaalba) | 3 | [Triceps pushdown (cable pushdown)](#tricepspushdown) | 12 |
-| [Load](#load) | 10 | [Trunk extension](#trunkextension) | 5 |
-| [Longissimus thoracis](#longissimusthoracis) | 8 | [Trunk flexion](#trunkflexion) | 5 |
-| [Lumbar compression](#lumbarcompression) | 11 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
-| [Lumbar flexion](#lumbarflexion) | 4 | [Trunk rotation](#trunkrotation) | 5 |
-| [Lumbopelvic rhythm](#lumbopelvicrhythm) | 4 | [Upright row](#uprightrow) | 12 |
-| [Lunge](#lunge) | 12 | [Vastus intermedius](#vastusintermedius) | 8 |
-| [Lying triceps extension ("skull crusher")](#lyingtricepsextension) | 12 | [Vastus lateralis](#vastuslateralis) | 8 |
-| [Machine chest press](#machinechestpress) | 12 | [Vastus medialis](#vastusmedialis) | 8 |
-| [Mechanical tension](#mechanicaltension) | 6 | [Vertical pull](#verticalpull) | 11 |
-| [Mechanotransduction](#mechanotransduction) | 6 | [Volume load](#volumeload) | 10 |
-| [Middle deltoid](#middledeltoid) | 9 | [Weightlifting belt](#weightliftingbelt) | 11 |
-| [Moment arm](#momentarm) | 2 | [Woodchop](#woodchop) | 12 |
-| [Momentary (muscular) failure](#momentaryfailure) | 10 |  |  |
+| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Preacher curl](#preachercurl) | 12 |
+| [Clavicle (collarbone)](#clavicle) | 3 | [Progressive overload](#progressiveoverload) | 10 |
+| [Close-grip bench press](#closegripbenchpress) | 12 | [Pronated (overhand) grip](#pronatedgrip) | 11 |
+| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Proximity to failure](#proximitytofailure) | 10 |
+| [Compound exercise](#compound) | 11 | [Psoas major](#psoasmajor) | 9 |
+| [Concentric contraction](#concentriccontraction) | 6 | [Pull-up](#pullup) | 12 |
+| [Contralateral](#contralateral) | 1 | [Pullover](#pullover) | 12 |
+| [Coracobrachialis](#coracobrachialis) | 9 | [Push-up](#pushup) | 12 |
+| [Coracoid process](#coracoidprocess) | 3 | [Quadratus lumborum](#quadratuslumborum) | 9 |
+| [Costal cartilage](#costalcartilage) | 3 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
+| [Crunch](#crunch) | 12 | [Quadriceps tendon](#quadricepstendon) | 3 |
+| [Deadlift](#deadlift) | 12 | [Radial nerve](#radialnerve) | 9 |
+| [Deep hip external rotators](#hipexternalrotators) | 8 | [Radial tuberosity](#radialtuberosity) | 3 |
+| [Deload](#deload) | 10 | [Range of motion (ROM)](#rangeofmotion) | 4 |
+| [Deltoid](#deltoid) | 9 | [Rectus abdominis](#rectusabdominis) | 9 |
+| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Rectus femoris](#rectusfemoris) | 8 |
+| [Diaphragm](#diaphragm) | 9 | [Rectus sheath](#rectussheath) | 3 |
+| [Diastasis recti](#diastasisrecti) | 13 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
+| [Dip (parallel-bar dip)](#dip) | 12 | [Repetition (rep)](#repetition) | 10 |
+| [Distal biceps tendon rupture](#distalbicepstendonrupture) | 13 | [Resistance profile](#resistanceprofile) | 11 |
+| [Distal clavicular osteolysis ("weightlifter's shoulder")](#distalclavicularosteolysis) | 13 | [Reverse curl](#reversecurl) | 12 |
+| [Distal triceps tendon rupture](#distaltricepsrupture) | 13 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 12 |
+| [Dose–response relationship](#doseresponserelationship) | 10 | [Reverse hyperextension](#reversehyperextension) | 12 |
+| [Double progression](#doubleprogression) | 10 | [Reverse Nordic curl](#reversenordic) | 12 |
+| [Dumbbell bench press](#dumbbellbenchpress) | 12 | [RIR (repetitions in reserve)](#rir) | 10 |
+| [Eccentric contraction](#eccentriccontraction) | 6 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
+| [Effect size](#effectsize) | 9 | [Rotator cuff](#rotatorcuff) | 9 |
+| [Effort tolerance](#efforttolerance) | 10 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
+| [Elbow extension](#elbowextension) | 4 | [Row](#row) | 12 |
+| [Elbow flexion](#elbowflexion) | 4 | [RPE (rating of perceived exertion)](#rpe) | 10 |
+| [Elbow flexor loading class (stretch-loaded, half-loaded, stretch-free)](#elbowflexorloadingclass) | 11 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
+| [Elbow flexors](#elbowflexors) | 8 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
+| [Elbow path](#elbowpath) | 11 | [Sacrum](#sacrum) | 3 |
+| [EMG (electromyography)](#emg) | 9 | [Sagittal plane](#sagittalplane) | 1 |
+| [Erector spinae](#erectorspinae) | 8 | [Sarcomere](#sarcomere) | 5 |
+| [Erector spinae aponeurosis](#erectorspinaeaponeurosis) | 3 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
+| [Excursion](#excursion) | 4 | [Scapula (shoulder blade)](#scapula) | 3 |
+| [External oblique](#externaloblique) | 9 | [Scapular depression](#scapulardepression) | 4 |
+| [Face pull](#facepull) | 12 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
+| [Fascicle length](#fasciclelength) | 5 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
+| [Femoral nerve](#femoralnerve) | 8 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
+| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
+| [Femur (thigh bone)](#femur) | 3 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
+| [Flexion relaxation](#flexionrelaxation) | 11 | [Semimembranosus (SM)](#semimembranosus) | 8 |
+| [Force–length relationship](#forcelengthrelationship) | 5 | [Semitendinosus (ST)](#semitendinosus) | 8 |
+| [Forearm pronation](#forearmpronation) | 4 | [Serratus anterior](#serratusanterior) | 8 |
+| [Forearm supination](#forearmsupination) | 4 | [Sesamoid bone](#sesamoid) | 3 |
+| [Front raise](#frontraise) | 12 | [Set](#set) | 10 |
+| [Front squat](#frontsquat) | 12 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
+| [Frontal (coronal) plane](#frontalplane) | 1 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
+| [Gastrocnemius](#gastrocnemius) | 8 | [Shoulder abduction](#shoulderabduction) | 4 |
+| [Glenohumeral joint](#glenohumeraljoint) | 3 | [Shoulder adduction](#shoulderadduction) | 4 |
+| [Glute-ham raise (GHR)](#glutehamraise) | 12 | [Shoulder extension](#shoulderextension) | 4 |
+| [Gluteal tendinopathy (greater trochanteric pain syndrome)](#glutealtendinopathy) | 13 | [Shoulder external (lateral) rotation](#shoulderexternalrotation) | 4 |
+| [Gluteus maximus](#gluteusmaximus) | 8 | [Shoulder flexion](#shoulderflexion) | 4 |
+| [Gluteus medius](#gluteusmedius) | 8 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
+| [Gluteus minimus](#gluteusminimus) | 8 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
+| [Good morning](#goodmorning) | 12 | [Shoulder instability](#shoulderinstability) | 13 |
+| [Greater trochanter](#greatertrochanter) | 3 | [Shoulder position class (Overhead, Raised, Down)](#shoulderpositionclass) | 11 |
+| [Grip width](#gripwidth) | 11 | [Side plank](#sideplank) | 12 |
+| [Hack squat](#hacksquat) | 12 | [Sissy squat](#sissysquat) | 12 |
+| [Hammer curl](#hammercurl) | 12 | [Sit-up](#situp) | 12 |
+| [Hamstrings](#hamstrings) | 8 | [Size principle](#sizeprinciple) | 6 |
+| [Hanging knee raise](#hangingkneeraise) | 12 | [Smith machine squat](#smithmachinesquat) | 12 |
+| [Hard set](#hardset) | 10 | [Snapping triceps](#snappingtriceps) | 13 |
+| [Hip abduction](#hipabduction) | 4 | [Specific tension](#specifictension) | 5 |
+| [Hip adduction](#hipadduction) | 4 | [Spinal role class (spine-moving, spine-holding, supported)](#spinalroleclass) | 11 |
+| [Hip adductors](#hipadductors) | 8 | [Split squat](#splitsquat) | 12 |
+| [Hip extension](#hipextension) | 4 | [Spondylolysis](#spondylolysis) | 13 |
+| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Squat depth](#squatdepth) | 11 |
+| [Hip flexion](#hipflexion) | 4 | [Stance width](#stancewidth) | 11 |
+| [Hip hinge](#hiphinge) | 11 | [Step-up](#stepup) | 12 |
+| [Hip internal (medial) rotation](#hipinternalrotation) | 4 | [Sternum (breastbone)](#sternum) | 3 |
+| [Hip joint (acetabulofemoral joint)](#hipjoint) | 3 | [Sticking region](#stickingregion) | 11 |
+| [Hip osteoarthritis](#hiposteoarthritis) | 13 | [Straight-arm pulldown](#straightarmpulldown) | 12 |
+| [Horizontal pull](#horizontalpull) | 11 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
+| [Humeral elevation](#humeralelevation) | 4 | [Subacromial impingement](#impingement) | 13 |
+| [Humerus (upper arm bone)](#humerus) | 3 | [Subacromial space](#subacromialspace) | 3 |
+| [Hypertrophy](#hypertrophy) | 7 | [Suitcase carry](#suitcasecarry) | 12 |
+| [Iliocostalis lumborum](#iliocostalislumborum) | 8 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
+| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
+| [Incline curl](#inclinecurl) | 12 | [Supraspinatus](#supraspinatus) | 9 |
+| [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [T2-weighted MRI (transverse relaxation time)](#t2mri) | 9 |
+| [Infraglenoid tubercle](#infraglenoidtubercle) | 3 | [Technical failure](#technicalfailure) | 10 |
+| [Internal (medial) rotation](#internalrotation) | 4 | [Tempo](#tempo) | 10 |
+| [Internal oblique](#internaloblique) | 9 | [Tensor fasciae latae (TFL)](#tensorfascialatae) | 8 |
+| [Intra-abdominal pressure (IAP)](#intraabdominalpressure) | 3 | [Tensor vastus intermedius](#tensorvastusintermedius) | 8 |
+| [Inverted row](#invertedrow) | 12 | [Teres major](#teresmajor) | 8 |
+| [Ischial tuberosity](#ischialtuberosity) | 3 | [The EMG–hypertrophy dissociation](#emghypertrophydissociation) | 9 |
+| [Isolated lumbar extension (ILEX)](#isolatedlumbarextension) | 12 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
+| [Isolation exercise](#isolation) | 11 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
+| [Joint reaction force](#jointreactionforce) | 3 | [Tibia (shin bone)](#tibia) | 3 |
+| [Kettlebell swing](#kettlebellswing) | 12 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
+| [Kipping](#kipping) | 12 | [Torque (moment)](#torque) | 2 |
+| [Knee extension](#kneeextension) | 4 | [Torso inclination](#torsoinclination) | 11 |
+| [Knee flexion](#kneeflexion) | 4 | [Training frequency](#trainingfrequency) | 10 |
+| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [Training volume](#trainingvolume) | 10 |
+| [Knee travel](#kneetravel) | 11 | [Transverse (horizontal) plane](#transverseplane) | 1 |
+| [Lacertus fibrosus (bicipital aponeurosis)](#lacertusfibrosus) | 3 | [Transversus abdominis](#transversusabdominis) | 9 |
+| [Lat pulldown](#latpulldown) | 12 | [Trapezius](#trapezius) | 9 |
+| [Lateral raise](#lateralraise) | 12 | [Triceps brachii](#tricepsbrachii) | 9 |
+| [Latissimus dorsi](#latissimusdorsi) | 8 | [Triceps brachii, lateral head](#tricepslateralhead) | 9 |
+| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Triceps brachii, long head](#tricepslonghead) | 9 |
+| [Leg extension](#legextension) | 12 | [Triceps brachii, medial head](#tricepsmedialhead) | 9 |
+| [Leg press](#legpress) | 12 | [Triceps kickback](#tricepskickback) | 12 |
+| [Lengthened partials](#lengthenedpartials) | 7 | [Triceps pushdown (cable pushdown)](#tricepspushdown) | 12 |
+| [Lengthened position](#lengthenedposition) | 7 | [Trunk extension](#trunkextension) | 5 |
+| [Limiting link](#limitinglink) | 10 | [Trunk flexion](#trunkflexion) | 5 |
+| [Line of action](#lineofaction) | 2 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
+| [Linea alba](#lineaalba) | 3 | [Trunk rotation](#trunkrotation) | 5 |
+| [Load](#load) | 10 | [Upright row](#uprightrow) | 12 |
+| [Longissimus thoracis](#longissimusthoracis) | 8 | [Vastus intermedius](#vastusintermedius) | 8 |
+| [Lumbar compression](#lumbarcompression) | 11 | [Vastus lateralis](#vastuslateralis) | 8 |
+| [Lumbar flexion](#lumbarflexion) | 4 | [Vastus medialis](#vastusmedialis) | 8 |
+| [Lumbopelvic rhythm](#lumbopelvicrhythm) | 4 | [Vertical pull](#verticalpull) | 11 |
+| [Lunge](#lunge) | 12 | [Volume load](#volumeload) | 10 |
+| [Lying triceps extension ("skull crusher")](#lyingtricepsextension) | 12 | [Weightlifting belt](#weightliftingbelt) | 11 |
+| [Machine chest press](#machinechestpress) | 12 | [Woodchop](#woodchop) | 12 |
+| [Mechanical tension](#mechanicaltension) | 6 |  |  |
 
 ---
 
@@ -15278,6 +16737,12 @@ Raising it together with abdominal muscle force increased the load a physical mo
 
 **Olecranon** — The point of your elbow: the hooked top end of the forearm bone on the little-finger side. Formally: the proximal process of the ulna — the forearm bone that articulates with the [humerus](#humerus) to form the hinge of the elbow — projecting behind the joint and fitting into the olecranon fossa of the humerus when the elbow is straight; its posterior surface receives the insertion of all three heads of the triceps brachii through a superficial tendon and a deep, largely muscular layer (Barco et al., 2017). The front-to-back thickness of the ulna at the olecranon is the single dimension that best predicted the triceps' peak moment arm across cadaveric arms (Murray et al., 2002), which makes it the anatomical reason two people with equal triceps can have unequal elbow-extension strength.
 
+## radialtuberosity
+
+*Anatomy & Structure*
+
+**Radial tuberosity** — The small raised patch of bone on the inner side of the forearm bone that rotates, just below the elbow, where the biceps tendon lands. Formally: the oval eminence on the anteromedial aspect of the proximal radius, distal to the radial neck, carrying the insertional footprint of the distal biceps tendon — an area of about 108 mm², 21 mm long and 7 mm wide, beginning some 23 mm distal to the articular margin of the radial head, with the long head's tendon inserting proximally on it and the short head's distally (Athwal et al., 2007). Because the radius rotates about the ulna, a muscle attaching here both bends the elbow and turns the palm upward, which is the whole mechanical reason the biceps brachii is a supinator (Part XI §A.2).
+
 ## coracoidprocess
 
 *Anatomy & Structure*
@@ -15307,6 +16772,12 @@ Raising it together with abdominal muscle force increased the load a physical mo
 *Anatomy & Structure*
 
 **Aponeurosis** — A flat, sheet-like tendon that spreads across a muscle instead of forming a rope. Formally: a broad, thin sheet of dense collagenous connective tissue into which muscle fibers insert, mechanically continuous with the muscle belly and transmitting its force. It matters here because the latissimus dorsi's lower origin is aponeurotic rather than bony, which makes the muscle's fixed end depend on the tension of a fascial sheet rather than on a rigid bony anchor.
+
+## lacertusfibrosus
+
+*Anatomy & Structure*
+
+**Lacertus fibrosus (bicipital aponeurosis)** — A flat sheet of tough tissue that leaves the biceps tendon at the crook of the elbow and fans across the top of the forearm. Formally: the aponeurosis arising from the distal tendon of the short head of the biceps brachii and blending into the fascia over the forearm flexor muscles (Athwal et al., 2007). It is a second, wider attachment that changes the muscle's leverage rather than merely covering it: with the lacertus intact the biceps' flexion moment arm at the elbow is larger below 40° of bend and smaller above 80° — by more than half at some angles — and its supination moment arm is reduced at every elbow angle (Miller et al., 2025).
 
 ## bilaminartendon
 
@@ -15555,13 +17026,25 @@ Three quantities are routinely confused and are not the same. **Joint excursion*
 
 *Biomechanics & Mechanics*
 
-**Elbow flexion** — Bending the elbow, so the hand travels toward the shoulder. Formally: rotation of the forearm relative to the [humerus](#humerus) about the elbow's flexion–extension axis in the direction that closes the angle between them. **Its angle is measured from a straight arm**: 0° when the forearm is in line with the upper arm, 90° when it is perpendicular to it, and larger numbers for more bend; a measurement reported on the opposite convention, with 180° as a straight arm, is converted by subtracting it from 180°. It is the action that lengthens all three heads of the triceps brachii, and the only action that lengthens the lateral and medial heads (Part IX §B.2).
+**Elbow flexion** — Bending the elbow, so the hand travels toward the shoulder. Formally: rotation of the forearm relative to the [humerus](#humerus) about the elbow's flexion–extension axis in the direction that closes the angle between them. **Its angle is measured from a straight arm**: 0° when the forearm is in line with the upper arm, 90° when it is perpendicular to it, and larger numbers for more bend; a measurement reported on the opposite convention, with 180° as a straight arm, is converted by subtracting it from 180°. It is the action that lengthens all three heads of the triceps brachii, and the only action that lengthens the lateral and medial heads (Part IX §B.2); it is also the only action that shortens all three elbow flexors, which is why where an exercise loads the elbow's range decides what it trains in Part XI §B.4.
 
 ## elbowextension
 
 *Biomechanics & Mechanics*
 
 **Elbow extension** — Straightening the elbow, so the hand travels away from the shoulder. Formally: rotation of the forearm relative to the [humerus](#humerus) about the elbow's flexion–extension axis in the direction that opens the angle between them, decreasing the [elbow flexion](#elbowflexion) angle toward 0°; produced by the three heads of the triceps brachii and the anconeus, which pull on the [olecranon](#olecranon). It is the triceps' principal action and the second joint action of every press, which is why every press in this document is also, in part, a triceps exercise (Part IX §B.8).
+
+## forearmsupination
+
+*Biomechanics & Mechanics*
+
+**Forearm supination** — Turning the forearm so the palm faces upward. Formally: rotation of the radius about the ulna at the proximal and distal radioulnar joints in the direction that brings the two bones parallel and the palm anterior, measured from the neutral thumb-up position as 0°. It is the second action of the biceps brachii, whose share of the work rises as the supination torque rises (Kondi et al., 2026), and it is why a palm-up grip excites the biceps more than a thumb-up or palm-down one (Part XI §A.4).
+
+## forearmpronation
+
+*Biomechanics & Mechanics*
+
+**Forearm pronation** — Turning the forearm so the palm faces downward. Formally: rotation of the radius about the ulna at the radioulnar joints in the direction that crosses the radius over the ulna and brings the palm posterior, measured from the neutral thumb-up position as 0°. It is the position in which maximal elbow flexion force is smallest — 17.3 kg against 28.2 kg with the forearm neutral in eighty-five young adults (O'Connell et al., 2021) — because it removes the biceps from its best flexion leverage (Murray et al., 1995).
 
 ## kneeextension
 
@@ -15861,7 +17344,7 @@ The two diverge as [pennation angle](#pennationangle) rises, which is exactly wh
 
 *Anatomy & Structure*
 
-**Elbow flexors** — The muscles on the front of the upper arm and forearm that bend the elbow: biceps brachii, brachialis, and brachioradialis. Formally: the muscle group producing flexion [torque](#torque) at the humeroulnar and humeroradial joints, with brachialis the largest contributor by cross-section, biceps brachii additionally supinating the forearm and flexing the shoulder, and brachioradialis contributing most in a neutral forearm position. They are the principal synergists in every multi-joint pull and the principal reason a latissimus dorsi set can end before the latissimus dorsi is trained.
+**Elbow flexors** — The muscles on the front of the upper arm and forearm that bend the elbow: biceps brachii, brachialis, and brachioradialis. Formally: the muscle group producing flexion [torque](#torque) at the humeroulnar and humeroradial joints, with the brachialis supplying the largest single share of that torque — 47%, against 34% for the biceps brachii and 19% for the brachioradialis in four men (Kawakami et al., 1994) — the biceps brachii additionally supinating the forearm and flexing the shoulder, and the brachioradialis contributing most in a neutral forearm position. They are the principal synergists in every multi-joint pull and the principal reason a latissimus dorsi set can end before the latissimus dorsi is trained; Part XI takes them as its subject.
 
 ## serratusanterior
 
@@ -16089,7 +17572,7 @@ That combination — very long fascicles, very small PCSA — defines it as an *
 
 *Anatomy & Structure*
 
-**Deltoid** — The muscle that caps the shoulder and raises the arm in whatever direction its fibres pull. Formally: the triangular muscle formed by the [anterior](#anteriordeltoid), [middle](#middledeltoid) and [posterior](#posteriordeltoid) heads, all three converging on the [deltoid tuberosity](#deltoidtuberosity) of the [humerus](#humerus) and all three supplied by the [axillary nerve](#axillarynerve); internally divided by intramuscular tendons into **seven** anatomical segments whose boundaries correspond to differences in metabolic activity during elevation (Sakoma et al., 2011). It is the **largest muscle of the upper limb**, holding 15.2 ± 1% of the limb's total muscle volume — the largest fraction of the thirty-two muscles measured by MRI in living adults (Holzbaur et al., 2007). Its defining property for training is that its heads wrap the joint from three sides, so their moment arms differ in **sign** rather than merely in size, and no single exercise loads more than one of them well (Part V §B.4).
+**Deltoid** — The muscle that caps the shoulder and raises the arm in whatever direction its fibres pull. Formally: the triangular muscle formed by the [anterior](#anteriordeltoid), [middle](#middledeltoid) and [posterior](#posteriordeltoid) heads, all three converging on the [deltoid tuberosity](#deltoidtuberosity) of the [humerus](#humerus) and all three supplied by the [axillary nerve](#axillarynerve); internally divided by intramuscular tendons into **seven** anatomical segments whose boundaries correspond to differences in metabolic activity during elevation (Sakoma et al., 2011). It is the **largest muscle of the upper limb**, holding 15.2 ± 1% of the limb's total muscle volume — the largest fraction of the thirty-two muscles measured by MRI in living adults (Holzbaur et al., 2007a). Its defining property for training is that its heads wrap the joint from three sides, so their moment arms differ in **sign** rather than merely in size, and no single exercise loads more than one of them well (Part V §B.4).
 
 ## pectoralnerves
 
@@ -16167,13 +17650,37 @@ That combination — very long fascicles, very small PCSA — defines it as an *
 
 *Anatomy & Structure*
 
-**Triceps brachii** — The muscle on the back of the upper arm that straightens the elbow. Formally: the three-headed muscle formed by the [long head](#tricepslonghead), the [lateral head](#tricepslateralhead) and the [medial head](#tricepsmedialhead), all inserting on the [olecranon](#olecranon) and all supplied by the [radial nerve](#radialnerve); the **long head alone crosses the shoulder**, so it is a [biarticular muscle](#biarticularmuscle) that extends the shoulder as well as the elbow, while the other two are [monoarticular](#monoarticularmuscle). It is the largest muscle of the upper arm, **14.5 ± 0.7% of upper-limb muscle volume**, second only to the deltoid in the whole limb (Holzbaur et al., 2007), and it had the greatest moment-generating capacity of any muscle crossing the elbow in every cadaveric arm measured (Murray et al., 2000). Its defining property for training is that **only the shoulder's position separates its heads**: the same elbow extension grew the whole muscle 19.9% with the arm overhead against 13.9% with the arm at the side (Maeo et al., 2023). Part IX is its own; in Parts V and VIII it appears as the elbow extensor every press shares, whose share a narrower grip raises (Gundersen et al., 2026).
+**Triceps brachii** — The muscle on the back of the upper arm that straightens the elbow. Formally: the three-headed muscle formed by the [long head](#tricepslonghead), the [lateral head](#tricepslateralhead) and the [medial head](#tricepsmedialhead), all inserting on the [olecranon](#olecranon) and all supplied by the [radial nerve](#radialnerve); the **long head alone crosses the shoulder**, so it is a [biarticular muscle](#biarticularmuscle) that extends the shoulder as well as the elbow, while the other two are [monoarticular](#monoarticularmuscle). It is the largest muscle of the upper arm, **14.5 ± 0.7% of upper-limb muscle volume**, second only to the deltoid in the whole limb (Holzbaur et al., 2007a), and it had the greatest moment-generating capacity of any muscle crossing the elbow in every cadaveric arm measured (Murray et al., 2000). Its defining property for training is that **only the shoulder's position separates its heads**: the same elbow extension grew the whole muscle 19.9% with the arm overhead against 13.9% with the arm at the side (Maeo et al., 2023). Part IX is its own; in Parts V and VIII it appears as the elbow extensor every press shares, whose share a narrower grip raises (Gundersen et al., 2026).
 
 ## anconeus
 
 *Anatomy & Structure*
 
-**Anconeus** — A small triangular muscle at the back of the elbow, on the outer side, that helps straighten it. Formally: a muscle arising from the lateral epicondyle of the [humerus](#humerus) and inserting on the lateral side of the [olecranon](#olecranon) and the adjacent posterior ulna, supplied by a branch of the [radial nerve](#radialnerve); it assists [elbow extension](#elbowextension) and stabilizes the joint, and three-dimensional dissection divides it into proximal, distal and deep parts with distinct fibre orientation and innervation (McGee et al., 2026). At a mean of 10.8 cm³ against the [triceps brachii](#tricepsbrachii)'s 372 cm³ (Holzbaur et al., 2007) it is never a training target, and its fascia is continuous with the lateral expansion of the triceps tendon (Keener et al., 2010).
+**Anconeus** — A small triangular muscle at the back of the elbow, on the outer side, that helps straighten it. Formally: a muscle arising from the lateral epicondyle of the [humerus](#humerus) and inserting on the lateral side of the [olecranon](#olecranon) and the adjacent posterior ulna, supplied by a branch of the [radial nerve](#radialnerve); it assists [elbow extension](#elbowextension) and stabilizes the joint, and three-dimensional dissection divides it into proximal, distal and deep parts with distinct fibre orientation and innervation (McGee et al., 2026). At a mean of 10.8 cm³ against the [triceps brachii](#tricepsbrachii)'s 372 cm³ (Holzbaur et al., 2007a) it is never a training target, and its fascia is continuous with the lateral expansion of the triceps tendon (Keener et al., 2010).
+
+## bicepsbrachii
+
+*Anatomy & Structure*
+
+**Biceps brachii** — The two-headed muscle on the front of the upper arm, the one people mean by "biceps". Formally: the muscle arising by a long head from the supraglenoid tubercle of the [scapula](#scapula) and by a short head from the [coracoid process](#coracoidprocess), inserting through a common tendon on the [radial tuberosity](#radialtuberosity) and through the [lacertus fibrosus](#lacertusfibrosus) into the forearm fascia, supplied by the musculocutaneous nerve; the musculotendinous unit rotates about 90° externally between origin and insertion, and its two distal tendon slips occupy separate territories on the tuberosity (Athwal et al., 2007). It flexes the elbow, supinates the forearm and crosses the shoulder, so it is the only elbow flexor whose length the shoulder can change — a fact whose training significance is smaller than its reputation (Part XI §B.4).
+
+## brachialis
+
+*Anatomy & Structure*
+
+**Brachialis** — The flat muscle lying underneath the biceps, running from the front of the upper arm bone to the forearm bone that does not rotate. Formally: the muscle arising from the anterior surface of the distal half of the [humerus](#humerus) and inserting on the coronoid process and tuberosity of the ulna, supplied mainly by the musculocutaneous nerve with a lateral slip from the [radial nerve](#radialnerve) *[consensus — no single source]*. Because it crosses only the elbow and attaches to the non-rotating bone, **neither shoulder position nor forearm rotation changes its length or its leverage** — every elbow flexion exercise trains it the same way, and ultrasound measurements of "elbow flexor thickness" include it beneath the biceps (Part XI §A.7).
+
+## brachioradialis
+
+*Anatomy & Structure*
+
+**Brachioradialis** — The muscle that stands out on the thumb side of the forearm when you bend the elbow with the thumb up. Formally: the muscle arising from the lateral supracondylar ridge of the humerus and inserting on the styloid process of the radius at the wrist, supplied by the [radial nerve](#radialnerve); it has the longest fascicles (17.7 cm) and the smallest [PCSA](#pcsa) (1.2 cm²) of the muscles crossing the elbow, and the largest flexion [moment arm](#momentarm), peaking at 7.7 cm (Murray et al., 2000). It is a leverage muscle rather than a force muscle: of the three elbow flexors it supplies the smallest share of elbow flexion torque, 19% against the brachialis' 47% in four men (Kawakami et al., 1994), and a calculation from its cadaveric [specific tension](#specifictension) puts it lower still (Part XI §B.9). **Evidence remains limited and inconsistent** on the exact share; the ranking is consistent.
+
+## musculocutaneousnerve
+
+*Anatomy & Structure*
+
+**Musculocutaneous nerve** — The nerve that runs down the front of the upper arm and switches on the muscles that bend the elbow. Formally: the terminal branch of the lateral cord of the brachial plexus, carrying fibres from C5–C7, supplying [biceps brachii](#bicepsbrachii), [brachialis](#brachialis) and coracobrachialis before continuing as the lateral cutaneous nerve of the forearm *[consensus — no single source]*. It matters to this document only as the reason the two large elbow flexors are switched on together and cannot be trained apart (Part XI §A.7).
 
 ## rectusabdominis
 
@@ -16596,6 +18103,12 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Spinal role class (spine-moving, spine-holding, supported)** — Which of three jobs the lower-back muscles do in an exercise: move the spine, hold it still while the hip moves, or neither. Formally: decide it from one repetition as prescribed. The *lumbar change* is the difference in [lumbar flexion](#lumbarflexion) between the top and the bottom of the repetition, the *hip change* is the difference in [hip flexion](#hipflexion) over the same interval, and the *load position* is the instant at which the external load and the body above the lower back are horizontally farthest from L4/L5. **Spine-moving:** a lumbar change of at least 10°, and at least as many degrees as the hip change — *isolated* when a strap fixes the pelvis to a machine; or a thoracic change of at least 10° against resistance with the lumbar spine resting on a support — *thoracic*. **Spine-holding:** not spine-moving, and at the load position (a) the body above the lower back is a cantilever, supported only from below the lower back and inclined 30° or more from vertical; (b) the pelvis and legs hang from a trunk that is itself supported, as when the legs are swung up behind a trunk lying on a bench; or (c) the body lies face up with the upper back on one support and the feet on another and an external load acts between them, as when the hips are driven up under a bar. **Supported:** every other case. **Where the degrees come from:** measured values for that execution when studies report them and agree; otherwise the set-up decides — a pelvis strapped, or lying on a pad, bench or floor that reaches the hip bones, while the back bends and straightens is spine-moving; a free pelvis is spine-holding if (a), (b) or (c) applies and supported otherwise. It exists because the strength of the isolated lumbar extensors rose when the spine was trained through its range with the pelvis restrained and did not rise with spine-holding exercises (Part X §B.4). **Caveat:** the 10° and 30° thresholds are conventions; no study has tested them. The class is sagittal, so side-bending work comes out supported, and it describes what the erectors do, not how much they grow.
 
+## elbowflexorloadingclass
+
+*Exercises & Technique*
+
+**Elbow flexor loading class (stretch-loaded, half-loaded, stretch-free)** — How much of an arm exercise's hardest moment is still there when the elbow is straight. Formally: find the exercise's **peak angle** — the elbow angle at which the resistance acts perpendicular to the forearm, which for a free weight is where the forearm is horizontal and for a cable is where the forearm lies at a right angle to the cable — and take the **stretch fraction**, the share of that peak [torque](#torque) still present at a straight elbow, which for a gravity-driven curl is the cosine of the peak angle. **Stretch-loaded:** a stretch fraction of 0.60 or more, as in a preacher curl on a 45–50° pad (0.71 and 0.64). **Half-loaded:** 0.25 to 0.59, as on a steep preacher pad. **Stretch-free:** below 0.25, which includes every curl performed with the upper arm hanging vertically, where it is zero. **Caveat:** the boundaries are conventions chosen to separate the exercises of Part XI §D, and the one trial that moved the torque emphasis inside a single exercise found no difference in growth (Nunes et al., 2020); the class describes where an exercise loads the muscle, not how much it grows it. What the training trials do separate is the [elbow flexion](#elbowflexion) range used: training the straighter half grew the muscles about two and a half times as fast as training the bent half (Part XI §B.4). **Moderate evidence** for the range.
+
 ## weightliftingbelt
 
 *Exercises & Technique*
@@ -16626,7 +18139,7 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 *Exercises & Technique*
 
-**Chin-up** — A [pull-up](#pullup) done with the palms facing you. Formally: a bodyweight vertical pull performed with a [supinated grip](#supinatedgrip). Latissimus dorsi activation is statistically similar to the pull-up; the chin-up recruits substantially more pectoralis major and biceps brachii, and the pull-up more lower trapezius (Youdas et al., 2010). It is a legitimate latissimus dorsi exercise that is simultaneously a strong biceps exercise, which is either a feature or the reason your set ends early.
+**Chin-up** — A [pull-up](#pullup) done with the palms facing you. Formally: a bodyweight vertical pull performed with a [supinated grip](#supinatedgrip). Latissimus dorsi activation is statistically similar to the pull-up; the chin-up recruits substantially more pectoralis major and biceps brachii, and the pull-up more lower trapezius (Youdas et al., 2010). It is a legitimate latissimus dorsi exercise that is simultaneously a strong biceps exercise, which is either a feature or the reason your set ends early; it counts as half an elbow flexor set (Part XI §F.1).
 
 ## kipping
 
@@ -16906,6 +18419,42 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Close-grip bench press** — A bench press with the hands about shoulder-width apart instead of wide. Formally: a bench press performed at a [grip width](#gripwidth) of about one [biacromial width](#biacromialwidth), which raises the elbow's external moment and lowers the shoulder's: at one biacromial width the moment arm at the elbow at the bottom of a one-repetition maximum was 0.08 m against 0.00 m at 1.7 widths, and at the shoulder 0.12 m against 0.24 m (Larsen et al., 2020) — a difference confined to the bottom of the lift: at the sticking region the elbow's moment arm was 0.07 m at one biacromial width and 0.06 m at 1.7. **It is a shared exercise, counted as half a set for the pectoralis major (Part VIII §F.1) and, like every press at any grip, half a set for the triceps brachii (Part IX §F.1)** — the pectoralis major remained the most active muscle measured even at a grip narrower than any used in practice (Muyor et al., 2023).
 
+## bicepscurl
+
+*Exercises & Technique*
+
+**Biceps curl** — Bending the elbow against a weight held in the hand. Formally: a single-joint [elbow flexion](#elbowflexion) exercise performed against a load in the hand, with the upper arm held still, classified for this document by its [elbow flexor loading class](#elbowflexorloadingclass) and by the rotation of the forearm. Performed with the upper arm hanging vertically — standing, seated or lying back on an incline — its external torque peaks at 90° of elbow flexion and falls to **zero** at a straight elbow, which is why the curl's set-up rather than its name determines what it trains (Part XI §B.7). A curl grew the elbow flexors roughly twice as fast as a row in the same people (Mannarino et al., 2021), though a trial that added curls to a pulling programme found no extra growth (Gentil et al., 2013). **Evidence remains limited and inconsistent.**
+
+## preachercurl
+
+*Exercises & Technique*
+
+**Preacher curl** — A curl done with the upper arms resting on a sloped pad in front of you. Formally: a [biceps curl](#bicepscurl) performed with the humerus supported along an inclined pad, so that the elbow flexion torque peaks at the elbow angle equal to the pad's angle from horizontal — at 45° on a 45° pad, at 50° on the 50° bench used in the trials — leaving 71% and 64% of that peak still present at a straight elbow. It is therefore a **stretch-loaded** exercise at those angles and progressively less so as the pad steepens, reaching a third of its peak at 70° (Part XI §B.7). It is the exercise used in the range-of-motion trials that separate the stretched from the shortened half of the range (Pedrosa et al., 2023), and against an incline curl it biased growth toward the distal region (Kassiano et al., 2025).
+
+## inclinecurl
+
+*Exercises & Technique*
+
+**Incline curl** — A curl done lying back on an inclined bench with the arms hanging behind the body. Formally: a [biceps curl](#bicepscurl) performed with the torso reclined so that the shoulder is extended, lengthening the long head of the [biceps brachii](#bicepsbrachii) while the upper arm continues to hang vertically. **Its resistance profile is identical to a standing curl** — the peak is at 90° of elbow flexion and the torque at a straight elbow is zero — so the lengthened position it creates is also the position in which it supplies no load (Part XI §B.7). It grows the muscle regardless: against a preacher curl over eight weeks it produced more growth at the proximal region and less at the distal, with both exercises working (Kassiano et al., 2025); a smaller nine-week trial found no significant growth in any region of its incline group, on a null between-group test (Zabaleta-Korta et al., 2023). **Moderate evidence** that it grows the elbow flexors with a proximal bias.
+
+## bayesiancurl
+
+*Exercises & Technique*
+
+**Bayesian cable curl** — A cable curl done standing a step in front of the pulley, with the arm drawn behind the body. Formally: a [biceps curl](#bicepscurl) performed against a low cable with the shoulder extended, so that the biceps brachii is lengthened at the shoulder while the profile is set by the angle between the cable and the forearm rather than by gravity. Matched against a [preacher curl](#preachercurl) for resistance profile over ten weeks, it produced the same growth in the biceps at proximal, mid and distal regions and in the brachialis (Attarieh et al., 2025) — which is the trial that removes shoulder position from the list of hypertrophy variables for these muscles.
+
+## hammercurl
+
+*Exercises & Technique*
+
+**Hammer curl** — A curl done with the thumbs up and the palms facing each other. Formally: a [biceps curl](#bicepscurl) performed with the forearm in the neutral position, which is where whole-arm elbow flexion force is largest — 28.2 kg against 17.3 kg pronated (O'Connell et al., 2021) — and where biceps excitation is lower than with a [supinated grip](#supinatedgrip) (Coratella et al., 2023a). **It is not a brachioradialis exercise in the way it is usually sold:** in the one study that recorded that muscle, its excitation was highest with a supinated grip, not a neutral one (Coratella et al., 2023a), and no trial has measured whether any grip grows more muscle than another (Part XI §D.4).
+
+## reversecurl
+
+*Exercises & Technique*
+
+**Reverse curl** — A curl done with the palms facing down. Formally: a [biceps curl](#bicepscurl) performed with the forearm [pronated](#forearmpronation), the position of least elbow flexion force and least biceps excitation (O'Connell et al., 2021). It is a forearm and grip exercise with an elbow flexion component, and like every other grip variant it has no hypertrophy trial behind it.
+
 ## reversefly
 
 *Exercises & Technique*
@@ -17078,6 +18627,12 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Snapping triceps** — A snap felt at the side of the elbow, almost always the inner side, as part of the triceps slips over the bone when the elbow bends and straightens. Formally: a dynamic dislocation of part of the triceps brachii over the medial or lateral epicondyle of the [humerus](#humerus) during [elbow flexion](#elbowflexion) and extension, producing a palpable or audible snap on active or passive movement; the medial side is much more common (Shuttlewood et al., 2017). Across 64 published cases, 90.6% had a coexisting unstable ulnar nerve and 64.1% had ulnar-nerve symptoms (Xia et al., 2026), which is why tingling into the little finger during an extension belongs with it. It is an assessment problem, not a technique problem.
 
+## distalbicepstendonrupture
+
+*Pathology & Clinical*
+
+**Distal biceps tendon rupture** — The biceps tendon tearing off the forearm bone, usually when a bent arm is suddenly forced straight. Formally: avulsion of the distal biceps tendon from the [radial tuberosity](#radialtuberosity), typically complete, producing a proximally retracted muscle belly, weakness of elbow flexion and of forearm [supination](#forearmsupination), and a changed contour of the upper arm. It is uncommon and stereotyped: **1.2 ruptures per 100,000 people per year**, thirteen of fourteen cases in men of mean age 47, 86% in the dominant arm, every one caused by excessive eccentric tension as the arm was forced from a flexed position, and a **7.5-fold** higher risk in smokers (Safran & Graham, 2002). Anatomical surgical reinsertion restores function well, with conservative treatment usually reserved for older or low-demand patients (Jaschke et al., 2023); it is a same-week surgical assessment, not a training problem (Part XI §E.4).
+
 ## lowbackpain
 
 *Pathology & Clinical*
@@ -17098,16 +18653,16 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 ---
 
-# partxiibibliography
+# partxiiibibliography
 
-**Part XII — Bibliography**
+**Part XIII — Bibliography**
 
-Every source cited in this document: **480 papers**, each with a DOI you can paste into a search box
+Every source cited in this document: **521 papers**, each with a DOI you can paste into a search box
 or a library request form — with nine exceptions, noted at their entries: eight for which no DOI was ever
 issued and a PubMed or PubMed Central identifier is given instead, and one master's thesis that has neither. Alphabetical by first author, so an in-text citation like
 *(Gerling & Brown, 2013)* is found by scanning for **Gerling**.
 
-**226 are open access** — free to read now. **254 are paywalled**; any university or public library can
+**248 are open access** — free to read now. **273 are paywalled**; any university or public library can
 obtain those through interlibrary loan at no cost, usually in a few days, and authors may legally
 share their own accepted manuscripts if you email them. Every DOI below was verified against
 Crossref, and open-access status against Unpaywall, at the time of writing.
@@ -17119,7 +18674,7 @@ discussion, the text says so at the claim itself — that context matters more t
 marks claims that could not be traced to a source we could read; they are flagged rather than quietly
 dropped. **Twenty-two of these papers measured the latissimus dorsi directly, twenty-eight measured the
 quadriceps femoris directly, thirty-eight measured a gluteal muscle directly, twenty-one measured a
-deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, twenty-nine measured a hamstring directly, thirty-one measured a pectoral muscle directly, at least seventy-six measured the triceps brachii or its tendon directly, and at least ninety-two measured the erector spinae, the multifidus or the lumbar extensors directly**; the rest supply general training principles or the mechanical
+deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, twenty-nine measured a hamstring directly, thirty-one measured a pectoral muscle directly, at least seventy-six measured the triceps brachii or its tendon directly, at least ninety-two measured the erector spinae, the multifidus or the lumbar extensors directly, and at least thirty-eight measured the biceps brachii, the brachialis or the elbow flexors as a group directly**; the rest supply general training principles or the mechanical
 framework. Where a paper's own research group has been
 the subject of a published data-integrity analysis, its entry says so. Where two or more papers by the same first author share a year, the bibliography entry
 records the `a`/`b`/`c` suffix used in the text.
@@ -17137,6 +18692,8 @@ Abe T, Sakamaki M, Yasuda T, Bemben MG, Kondo M, Kawakami Y, et al. Age-related,
 Ackland DC, Pak P, Richardson M, Pandy MG. Moment arms of the muscles crossing the anatomical shoulder. Journal of Anatomy. 2008;213(4):383-390. doi:10.1111/j.1469-7580.2008.00965.x · **open access**
 
 Ackland DC, Pandy MG. Moment arms of the shoulder muscles during axial rotation. Journal of Orthopaedic Research. 2011;29(5):658-667. doi:10.1002/jor.21269 · *paywalled*
+
+Adkins AN, Dewald JPA, Garmirian LP, Nelson CM, Murray WM. Serial sarcomere number is substantially decreased within the paretic biceps brachii in individuals with chronic hemiparetic stroke. Proceedings of the National Academy of Sciences. 2021;118(26):e2008597118. doi:10.1073/pnas.2008597118 · **open access**
 
 Afonso J, Ramirez-Campillo R, Moscão J, Rocha T, Brandão A, Pereira J, et al. Strength Training versus Stretching for Improving Range of Motion: A Systematic Review and Meta-Analysis. Healthcare. 2021;9(4):427. doi:10.3390/healthcare9040427 · **open access**
 
@@ -17173,6 +18730,10 @@ Asghari SH, Wong A, Comfort P, Mirghani SJ, Sharifian S, Ghaderi M. Comparing th
 Askling CM, Tengvar M, Tarassova O, Thorstensson A. Acute hamstring injuries in Swedish elite sprinters and jumpers: a prospective randomised controlled clinical trial comparing two rehabilitation protocols. British Journal of Sports Medicine. 2014;48(7):532-539. doi:10.1136/bjsports-2013-093214 · *paywalled*
 
 Askling CM, Tengvar M, Thorstensson A. Acute hamstring injuries in Swedish elite football: a prospective randomised controlled clinical trial comparing two rehabilitation protocols. British Journal of Sports Medicine. 2013;47(15):953-959. doi:10.1136/bjsports-2013-092165 · **open access**
+
+Athwal GS, Steinmann SP, Rispoli DM. The Distal Biceps Tendon: Footprint and Relevant Clinical Anatomy. The Journal of Hand Surgery. 2007;32(8):1225-1229. doi:10.1016/j.jhsa.2007.05.027 · *paywalled*
+
+Attarieh P, Nunes JP, Khani S, Negahdar S, Goli A, Nazarirad H, et al. Comparison Between Shoulder Flexed and Extended Positions in Elbow Flexion Resistance Training on Regional Hypertrophy and Maximum Strength: Preacher versus Bayesian Cable Curls. European Journal of Sport Science. 2025;25(4):e12279. doi:10.1002/ejsc.12279 · **open access**
 
 Aube D, Wadhi T, Rauch J, Anand A, Barakat C, Pearson J, et al. Progressive Resistance Training Volume: Effects on Muscle Thickness, Mass, and Strength Adaptations in Resistance-Trained Individuals. Journal of Strength and Conditioning Research. 2022;36(3):600-607. doi:10.1519/JSC.0000000000003524 · *paywalled*
 
@@ -17243,6 +18804,8 @@ Bourne MN, Duhig SJ, Timmins RG, Williams MD, Opar DA, Al Najjar A, et al. Impac
 Bourne MN, Williams MD, Opar DA, Al Najjar A, Kerr GK, Shield AJ. Impact of exercise selection on hamstring muscle activation [cited as Bourne et al., 2017b]. British Journal of Sports Medicine. 2017;51(13):1021-1028. doi:10.1136/bjsports-2015-095739 · **open access**
 
 Bourne ND, Reilly T. Effect of a weightlifting belt on spinal shrinkage. British Journal of Sports Medicine. 1991;25(4):209-212. doi:10.1136/bjsm.25.4.209 · **open access**
+
+Boyle AB, Uri Ke J, Ragg A, MacLean SBM. Anatomy of the distal biceps tendon: an in vivo 3-T magnetic resonance imaging study. Journal of Shoulder and Elbow Surgery. 2022;31(6):1316-1322. doi:10.1016/j.jse.2021.11.015 · *paywalled*
 
 Brandão L, de Salles Painelli V, Lasevicius T, Silva-Batista C, Brendon H, Schoenfeld BJ, et al. Varying the Order of Combinations of Single- and Multi-Joint Exercises Differentially Affects Resistance Training Adaptations. Journal of Strength and Conditioning Research. 2020;34(5):1254-1263. doi:10.1519/JSC.0000000000003550 · *paywalled*
 
@@ -17320,7 +18883,13 @@ Coratella G, Tornatore G, Longo S, Esposito F, Cè E. An Electromyographic Analy
 
 Coratella G, Tornatore G, Longo S, Esposito F, Cè E. An Electromyographic Analysis of Romanian, Step-Romanian, and Stiff-Leg Deadlift: Implication for Resistance Training [cited as Coratella et al., 2022b]. International Journal of Environmental Research and Public Health. 2022;19(3):1903. doi:10.3390/ijerph19031903 · **open access**
 
+Coratella G, Tornatore G, Longo S, Esposito F, Cè E. Bilateral Biceps Curl Shows Distinct Biceps Brachii and Anterior Deltoid Excitation Comparing Straight vs. EZ Barbell Coupled with Arms Flexion/No-Flexion [cited as Coratella et al., 2023b]. Journal of Functional Morphology and Kinesiology. 2023;8(1):13. doi:10.3390/jfmk8010013 · **open access**
+
 Coratella G, Tornatore G, Longo S, Esposito F, Cè E. Front vs Back and Barbell vs Machine Overhead Press: An Electromyographic Analysis and Implications For Resistance Training [cited as Coratella et al., 2022a]. Frontiers in Physiology. 2022;13:825880. doi:10.3389/fphys.2022.825880 · **open access**
+
+Coratella G, Tornatore G, Longo S, Toninelli N, Padovan R, Esposito F, et al. Biceps Brachii and Brachioradialis Excitation in Biceps Curl Exercise: Different Handgrips, Different Synergy [cited as Coratella et al., 2023a]. Sports. 2023;11(3):64. doi:10.3390/sports11030064 · **open access**
+
+Costa BDV, Kassiano W, Nunes JP, Kunevaliki G, Castro-e-Souza P, Rodacki A, et al. Does Performing Different Resistance Exercises for the Same Muscle Group Induce Non-homogeneous Hypertrophy? International Journal of Sports Medicine. 2021;42(9):803-811. doi:10.1055/a-1308-3674 · *paywalled*
 
 Crawford RJ, Filli L, Elliott JM, Nanz D, Fischer MA, Marcon M, et al. Age- and Level-Dependence of Fatty Infiltration in Lumbar Paravertebral Muscles of Healthy Volunteers. American Journal of Neuroradiology. 2016;37(4):742-748. doi:10.3174/ajnr.a4596 · **open access**
 
@@ -17331,6 +18900,8 @@ Cuthbert M, Ripley NJ, Suchomel TJ, Alejo R, McMahon JJ, Comfort P. Electromyogr
 da Silva JJ, Schoenfeld BJ, Marchetti PN, Pecoraro SL, Greve JMD, Marchetti PH. Muscle Activation Differs Between Partial and Full Back Squat Exercise With External Load Equated. Journal of Strength and Conditioning Research. 2017;31(6):1688-1693. doi:10.1519/JSC.0000000000001713 · *paywalled*
 
 da Silva R, Larivière C, Arsenault A, Nadeau S, Plamondon A. Effect of pelvic stabilization and hip position on trunk extensor activity during back extension exercises on a roman chair. Journal of Rehabilitation Medicine. 2009;41(3):136-142. doi:10.2340/16501977-0305 · **open access**
+
+da Silva Vendruscolo L, Brendon H, Hevia-Larraín V, Aihara AY, de Salles Painelli V. Similar Regional Hypertrophy of the Elbow Flexor Muscles in Response to Low-Load Training With Vascular Occlusion at Short Versus Long Muscle Lengths. Sports Health. 2025;17(5):1036-1043. doi:10.1177/19417381241287522 · **open access**
 
 Daggfeldt K, Huang QM, Thorstensson A. The Visible Human Anatomy of the Lumbar Erector Spinae. Spine. 2000;25(21):2719-2725. doi:10.1097/00007632-200011010-00002 · *paywalled*
 
@@ -17384,6 +18955,8 @@ Ema R, Wakahara T, Miyamoto N, Kanehisa H, Kawakami Y. Inhomogeneous architectur
 
 Emanuelsson EB, Berry DB, Reitzner SM, Arif M, Mardinoglu A, Gustafsson T, et al. MRI characterization of skeletal muscle size and fatty infiltration in long-term trained and untrained individuals. Physiological Reports. 2022;10(14):e15398. doi:10.14814/phy2.15398 · **open access**
 
+Enes A, Alves RC, Schoenfeld BJ, Oneda G, Perin SC, Trindade TB, et al. Rest-pause and drop-set training elicit similar strength and hypertrophy adaptations compared with traditional sets in resistance-trained males. Applied Physiology, Nutrition, and Metabolism. 2021;46(11):1417-1424. doi:10.1139/apnm-2021-0278 · **open access**
+
 Enes A, Oneda G, Leonel DF, Lemos L, Alves F, Ferreira LHB, et al. The effects of squat variations on strength and quadriceps hypertrophy adaptations in recreationally trained females. European Journal of Sport Science. 2024;24(1):6-15. doi:10.1002/ejsc.12042 · **open access**
 
 Erdağı K, Poyraz N. The determination of the cross-sectional area of the lumbar erector spinae muscles of Olympic style weightlifting athletes by using MRI. Journal of Back and Musculoskeletal Rehabilitation. 2020;33(3):405-412. doi:10.3233/bmr-191725 · *paywalled*
@@ -17434,6 +19007,8 @@ Garner BA, Pandy MG. Estimation of Musculotendon Properties in the Human Upper L
 
 Gavanda S, Wischtukat D, Ruckdeschel M, Geisler S, Held S. Training with an elastic bench press device provides comparable adaptations to conventional resistance training in trained men. Biology of Sport. 2026;43:839-846. doi:10.5114/biolsport.2026.157993 · **open access**
 
+Gentil P, Soares SR, Pereira MC, Cunha RR, Martorelli SS, Martorelli AS, et al. Effect of adding single-joint exercises to a multi-joint exercise resistance-training program on strength and hypertrophy in untrained subjects. Applied Physiology, Nutrition, and Metabolism. 2013;38(3):341-344. doi:10.1139/apnm-2012-0176 · *paywalled*
+
 Gerling ME, Brown SHM. Architectural analysis and predicted functional capability of the human latissimus dorsi muscle. Journal of Anatomy. 2013;223(2):112-122. doi:10.1111/joa.12074 · **open access**
 
 Gibbons LE, Videman T, Battié MC, Kaprio J. Determinants of Paraspinal Muscle Cross-sectional Area in Male Monozygotic Twins. Physical Therapy. 1998;78(6):602-610. doi:10.1093/ptj/78.6.602 · **open access**
@@ -17457,6 +19032,8 @@ Graves JE, Pollock ML, Leggett SH, Carpenter DM, Fix CK, Fulton MN. Limited rang
 Graves JE, Webb DC, Pollock ML, Matkozich J, Leggett SH, Carpenter DM, et al. Pelvic stabilization during resistance training: Its effect on the development of lumbar extension strength. Archives of Physical Medicine and Rehabilitation. 1994;75(2):210-215. doi:10.1016/0003-9993(94)90398-0 · *paywalled*
 
 Gray HA, Guan S, Thomeer LT, Pandy MG. Moment arm of the knee-extensor mechanism measured in vivo across a range of daily activities. Journal of Biomechanics. 2021;123:110484. doi:10.1016/j.jbiomech.2021.110484 · *paywalled*
+
+Green LA, Gabriel DA. The cross education of strength and skill following unilateral strength training in the upper and lower limbs. Journal of Neurophysiology. 2018;120(2):468-479. doi:10.1152/jn.00116.2018 · **open access**
 
 Grenier SG, McGill SM. Quantification of Lumbar Stability by Using 2 Different Abdominal Activation Strategies. Archives of Physical Medicine and Rehabilitation. 2007;88(1):54-62. doi:10.1016/j.apmr.2006.10.014 · *paywalled*
 
@@ -17488,6 +19065,8 @@ Harman EA, Rosenstein RM, Frykman PN, Nigro GA. Effects of a belt on intra-abdom
 
 Hartmann H, Wirth K, Klusemann M. Analysis of the Load on the Knee Joint and Vertebral Column with Changes in Squatting Depth and Weight Load. Sports Medicine. 2013;43(10):993-1008. doi:10.1007/s40279-013-0073-6 · *paywalled*
 
+Havers T, Micke F, Geisler S, Held S. Acute and Chronic Effects of Drop-Set Training: A Meta-Analysis and Systematic Review. Sports Medicine - Open. 2026;12(1):38. doi:10.1186/s40798-026-01012-1 · **open access**
+
 Havers T, Wagner N, Held S, Geisler S, Wiewelhove T. Partial Range, Full Gains? The Effect of 8 Weeks of Partial Range of Motion Training at Long Muscle Lengths on Elbow Flexor Hypertrophy and Strength in Trained Individuals. European Journal of Sport Science. 2025;25(12):e70087. doi:10.1002/ejsc.70087 · **open access**
 
 Hayden JA, Ellis J, Ogilvie R, Malmivaara A, van Tulder MW. Exercise therapy for chronic low back pain. Cochrane Database of Systematic Reviews. 2021;9(9):CD009790. doi:10.1002/14651858.CD009790.pub2 · **open access**
@@ -17516,11 +19095,15 @@ Hoch A, Dimitriou D, Wolf-Wettstein J, Rosner J, Schubert M, Aguirre J, et al. T
 
 Holt JA, Macias BR, Schneider SM, Watenpaugh DE, Lee SMC, Chang DG, et al. WISE 2005: Aerobic and resistive countermeasures prevent paraspinal muscle deconditioning during 60-day bed rest in women. Journal of Applied Physiology. 2016;120(10):1215-1222. doi:10.1152/japplphysiol.00532.2015 · **open access**
 
-Holzbaur KRS, Murray WM, Gold GE, Delp SL. Upper limb muscle volumes in adult subjects. Journal of Biomechanics. 2007;40(4):742-749. doi:10.1016/j.jbiomech.2006.11.011 · *paywalled*
+Holzbaur KRS, Delp SL, Gold GE, Murray WM. Moment-generating capacity of upper limb muscles in healthy adults [cited as Holzbaur et al., 2007b]. Journal of Biomechanics. 2007;40(11):2442-2449. doi:10.1016/j.jbiomech.2006.11.013 · *paywalled*
+
+Holzbaur KRS, Murray WM, Gold GE, Delp SL. Upper limb muscle volumes in adult subjects [cited as Holzbaur et al., 2007a]. Journal of Biomechanics. 2007;40(4):742-749. doi:10.1016/j.jbiomech.2006.11.011 · *paywalled*
 
 Honkanen T, Mäntysaari M, Leino T, Avela J, Kerttula L, Haapamäki V, et al. Cross-sectional area of the paraspinal muscles and its association with muscle strength among fighter pilots: a 5-year follow-up. BMC Musculoskeletal Disorders. 2019;20(1):170. doi:10.1186/s12891-019-2551-y · **open access**
 
 Hopkins JE, Hopkins CE, Chiu LZF. Greater squat stance width alters three-dimensional hip moment demands. Journal of Biomechanics. 2024;177:112391. doi:10.1016/j.jbiomech.2024.112391 · **open access**
+
+Hubal MJ, Gordish-Dressman H, Thompson PD, Price TB, Hoffman EP, Angelopoulos TJ, et al. Variability in muscle size and strength gain after unilateral resistance training. Medicine & Science in Sports & Exercise. 2005;37(6):964-972. PMID:15947721 — no DOI was ever issued · *paywalled*
 
 Huberti HH, Hayes WC, Stormont TJ, Chao EY. Force ratios in the quadriceps tendon and ligamentum patellae. Journal of Orthopaedic Research. 1984;2(1):49-54. doi:10.1002/jor.1100020108 · *paywalled*
 
@@ -17533,6 +19116,8 @@ Inman VT, Saunders JB, Abbott LC. Observations of the Function of the Shoulder J
 Intziegianni K, Katsamis E, Michaelides M, Parpa K. Electromyographic Activation of the Pectoralis Major and Triceps Brachii Muscles During Standard, Diamond, and Wide Hand Position Push-Ups. Muscles. 2026;5(1):18. doi:10.3390/muscles5010018 · **open access**
 
 Iwai K, Koyama K, Okada T, Nakazato K, Takahashi R, Matsumoto S, et al. Asymmetrical and smaller size of trunk muscles in combat sports athletes with lumbar intervertebral disc degeneration. SpringerPlus. 2016;5(1):1474. doi:10.1186/s40064-016-3155-8 · **open access**
+
+Jaschke M, Rekawek K, Sokolowski S, Kolodziej L. Distal biceps tendon rupture: a comprehensive overview. EFORT Open Reviews. 2023;8(11):865-873. doi:10.1530/eor-23-0035 · **open access**
 
 Johnson MA, Polgar J, Weightman D, Appleton D. Data on the distribution of fibre types in thirty-six human muscles: An autopsy study. Journal of the Neurological Sciences. 1973;18(1):111-129. doi:10.1016/0022-510X(73)90023-3 · *paywalled*
 
@@ -17548,11 +19133,15 @@ Käser L, Mannion AF, Rhyner A, Weber E, Dvorak J, Müntener M. Active Therapy f
 
 Kassiano W, Costa B, Kunevaliki G, Lisboa F, Prado A, Alves L, et al. Comparison of Muscle Hypertrophy and Strength Adaptations Induced by Back Squat and Leg Extension Resistance Exercises [cited as Kassiano et al., 2026a]. Journal of Strength and Conditioning Research. 2026;40(4):367-376. doi:10.1519/JSC.0000000000005338 · *paywalled*
 
+Kassiano W, Costa B, Kunevaliki G, Lisboa F, Stavinski N, Prado A, et al. Distinct muscle growth and strength adaptations after preacher and incline biceps curls. International Journal of Sports Medicine. 2025;46(5):334-343. doi:10.1055/a-2517-0509 · *paywalled*
+
 Kassiano W, Costa B, Nunes JP, Ribeiro AS, Schoenfeld BJ, Cyrino ES. Which ROMs Lead to Rome? A Systematic Review of the Effects of Range of Motion on Muscle Hypertrophy. Journal of Strength and Conditioning Research. 2023;37(5):1135-1144. doi:10.1519/JSC.0000000000004415 · *paywalled*
 
 Kassiano W, Kunevaliki G, Costa B, Nunes JP, Castro-e-Souza P, Tricoli I, et al. Addition of The Barbell Hip Thrust Elicits Greater Increases in Gluteus Maximus Muscle Thickness in Untrained Young Women. International Journal of Strength and Conditioning. 2024;4(1). doi:10.47206/ijsc.v4i1.284 · **open access**
 
 Kassiano W, Santos-Melo V, Manske I, Lisboa F, Miguel A, Gomes F, et al. Progressive Overload Affects the Magnitude of Muscle Hypertrophy [cited as Kassiano et al., 2026b]. Medicine and Science in Sports and Exercise. 2026;58(7):1556-1565. doi:10.1249/MSS.0000000000003968 · *paywalled*
+
+Kataoka R, Yamada Y, Hammert WB, Sallberg RW, Kang A, Song JS, et al. Skeletal Muscles Do Not Compete for Growth: Activating Additional Muscle Mass Does Not Compromise Changes in Muscle Size. Journal of Strength & Conditioning Research. 2026;40(9):1043-1049. doi:10.1519/jsc.0000000000005439 · *paywalled*
 
 Kavcic N, Grenier S, McGill SM. Quantifying Tissue Loads and Spine Stability While Performing Commonly Prescribed Low Back Stabilization Exercises. Spine. 2004;29(20):2319-2329. doi:10.1097/01.brs.0000142222.62203.67 · *paywalled*
 
@@ -17586,9 +19175,13 @@ Koch K, Semciw AI, Commean PK, Hillen TJ, Fitzgerald GK, Clohisy JC, et al. Comp
 
 Kojic F, Mandic D, Duric S. The effects of eccentric phase tempo in squats on hypertrophy, strength, and contractile properties of the quadriceps femoris muscle. Frontiers in Physiology. 2024;15:1531926. doi:10.3389/fphys.2024.1531926 · **open access**
 
+Kojić F, Ranisavljev I, Ćosić D, Popović D, Stojiljković S, Ilić V. Effects of resistance training on hypertrophy, strength and tensiomyography parameters of elbow flexors: role of eccentric phase duration. Biology of Sport. 2021;38(4):587-594. doi:10.5114/biolsport.2021.99323 · **open access**
+
 Kojic F, Ranisavljev I, Obradovic M, Mandic D, Pelemis V, Paloc M, et al. Does Back Squat Exercise Lead to Regional Hypertrophy among Quadriceps Femoris Muscles? International Journal of Environmental Research and Public Health. 2022;19(23):16226. doi:10.3390/ijerph192316226 · **open access**
 
 Kolber MJ, Beekhuizen KS, Cheng MS, Hellman MA. Shoulder Injuries Attributed to Resistance Training: A Brief Review. Journal of Strength and Conditioning Research. 2010;24(6):1696-1704. doi:10.1519/JSC.0b013e3181dc4330 · *paywalled*
+
+Kondi S, Murugesan T, Postans N, Thumri P, Kantamaneni K, Ansari S, et al. An Electromyographic Study Comparing Muscle Function During Supination and Pronation of the Forearm. Cureus. 2026;:. doi:10.7759/cureus.101255 · **open access**
 
 Konrad A, Reiner MM, Warneke K, Keiner M, Nakamura M, Tilp M. Relationship between pectoralis major stiffness and shoulder extension range of motion. Frontiers in Physiology. 2024;15:1349426. doi:10.3389/fphys.2024.1349426 · **open access**
 
@@ -17622,15 +19215,21 @@ Larsen S, Gomo O, van den Tillaar R. A Biomechanical Analysis of Wide, Medium, a
 
 Larsen S, Sandvik Kristiansen B, Swinton PA, Wolf M, Bao Fredriksen A, Nygaard Falch H, et al. The effects of hip flexion angle on quadriceps femoris muscle hypertrophy in the leg extension exercise [cited as Larsen et al., 2025a]. Journal of Sports Sciences. 2025;43(2):210-221. doi:10.1080/02640414.2024.2444713 · **open access**
 
+Larsen S, Sandvik Kristiansen B, Østerås Sandberg N, Bao Fredriksen A, van den Tillaar R, Wolf M, et al. The effects of shoulder extension angle on elbow flexor hypertrophy in the cable curl exercise. Frontiers in Physiology. 2026;17:1750722. doi:10.3389/fphys.2026.1750722 · **open access**
+
 Larsen S, Wolf M, Schoenfeld BJ, Sandberg NØ, Fredriksen AB, Kristiansen BS, et al. Dumbbell versus cable lateral raises for lateral deltoid hypertrophy: an experimental study [cited as Larsen et al., 2025c]. Frontiers in Physiology. 2025;16:1611468. doi:10.3389/fphys.2025.1611468 · **open access**
 
 Larsen S, Wolf M, Schoenfeld BJ, Sandberg NØ, Fredriksen AB, Kristiansen BS, et al. Knee flexion range of motion does not influence muscle hypertrophy of the quadriceps femoris during leg press training in resistance-trained individuals [cited as Larsen et al., 2025b]. Journal of Sports Sciences. 2025;43(10):986-994. doi:10.1080/02640414.2025.2481534 · **open access**
 
 Lasevicius T, Schoenfeld BJ, Grgic J, Laurentino G, Tavares LD, Tricoli V. Similar Muscular Adaptations in Resistance Training Performed Two Versus Three Days Per Week. Journal of Human Kinetics. 2019;68(1):135-143. doi:10.2478/hukin-2019-0062 · **open access**
 
+Lasevicius T, Schoenfeld BJ, Silva-Batista C, Barros TdS, Aihara AY, Brendon H, et al. Muscle Failure Promotes Greater Muscle Hypertrophy in Low-Load but Not in High-Load Resistance Training. Journal of Strength & Conditioning Research. 2022;36(2):346-351. doi:10.1519/jsc.0000000000003454 · *paywalled*
+
 Lasevicius T, Ugrinowitsch C, Schoenfeld BJ, Roschel H, Tavares LD, De Souza EO, et al. Effects of different intensities of resistance training with equated volume load on muscle strength and hypertrophy. European Journal of Sport Science. 2018;18(6):772-780. doi:10.1080/17461391.2018.1450898 · *paywalled*
 
 Latimer J, Maher CG, Refshauge K, Colaco I. The Reliability and Validity of the Biering–Sorensen Test in Asymptomatic Subjects and Subjects Reporting Current or Previous Nonspecific Low Back Pain. Spine. 1999;24(20):2085-2089. doi:10.1097/00007632-199910150-00004 · *paywalled*
+
+Lau WY, Blazevich AJ, Newton MJ, Wu SSX, Nosaka K. Effects of wrist position on eccentric exercise‐induced muscle damage of the elbow flexors. Scandinavian Journal of Medicine & Science in Sports. 2021;31(6):1290-1300. doi:10.1111/sms.13936 · *paywalled*
 
 Lauver JD, Cayot TE, Scheuermann BW. Influence of bench angle on upper extremity muscular activation during bench press exercise. European Journal of Sport Science. 2016;16(3):309-316. doi:10.1080/17461391.2015.1022605 · *paywalled*
 
@@ -17647,6 +19246,8 @@ Lee PM, Underhill J, Nishida C, Agonias K, Levine SB, Obana KK, et al. A Nationa
 Lees MJ, McLeod JC, Morton RW, Fatouros IG, Phillips SM, et al. Resistance training load does not determine resistance training-induced hypertrophy across upper and lower limbs in healthy young males. The Journal of Physiology. 2025. doi:10.1113/JP289684 · **open access**
 
 Lehman GJ. The Influence of Grip Width and Forearm Pronation/Supination on Upper-Body Myoelectric Activity During the Flat Bench Press. Journal of Strength and Conditioning Research. 2005;19(3):587-591. doi:10.1519/R-15024.1 · *paywalled*
+
+Leitão BFM, Albarello JCS, Halmenschlager GH, de Salles BF, Matta TT. Exercise selection plays an important role in inducing non-uniform acute responses on elbow flexors muscle thickness. Journal of Bodywork and Movement Therapies. 2024;40:1097-1101. doi:10.1016/j.jbmt.2024.07.028 · *paywalled*
 
 Lescher S, Bender B, Eifler R, Haas F, Gruber K, Felber S. Isometric Non-Machine-Based Prevention Training Program: Effects on the Cross-Sectional Area of the Paravertebral Muscles on Magnetic Resonance Imaging. Clinical Neuroradiology. 2011;21(4):217-222. doi:10.1007/s00062-011-0104-3 · *paywalled*
 
@@ -17682,11 +19283,15 @@ Maeo S, Wu Y, Huang M, Sakurai H, Kusagawa Y, Sugiyama T, et al. Triceps brachii
 
 Malliaras P, Barton CJ, Reeves ND, Langberg H. Achilles and Patellar Tendinopathy Loading Programmes: A Systematic Review Comparing Clinical Outcomes and Identifying Potential Mechanisms for Effectiveness. Sports Medicine. 2013;43(4):267-286. doi:10.1007/s40279-013-0019-z · *paywalled*
 
+Mannarino P, Matta T, Lima J, Simão R, Freitas de Salles B. Single-Joint Exercise Results in Higher Hypertrophy of Elbow Flexors Than Multijoint Exercise. Journal of Strength & Conditioning Research. 2021;35(10):2677-2681. doi:10.1519/jsc.0000000000003234 · *paywalled*
+
 Mannion AF, Dumas GA, Cooper RG, Espinosa FJ, Faris MW, Stevenson JM. Muscle fibre size and type distribution in thoracic and lumbar regions of erector spinae in healthy subjects without low back pain: normal values and sex differences [cited as Mannion et al., 1997b]. Journal of Anatomy. 1997;190(4):505-513. doi:10.1046/j.1469-7580.1997.19040505.x · **open access**
 
 Mannion AF, Weber BR, Dvorak J, Grob D, Müntener M. Fibre type characteristics of the lumbar paraspinal muscles in normal healthy subjects and in patients with low back pain [cited as Mannion et al., 1997a]. Journal of Orthopaedic Research. 1997;15(6):881-887. doi:10.1002/jor.1100150614 · *paywalled*
 
 Manojlović D, Kozinc Ž, Šarabon N. Trunk, Hip and Knee Exercise Programs for Pain Relief, Functional Performance and Muscle Strength in Patellofemoral Pain: Systematic Review and Meta-Analysis. Journal of Pain Research. 2021;14:1431-1449. doi:10.2147/JPR.S301448 · **open access**
+
+Marchetti PH, Cook K, Neely RC, Martinez VG, Lhanre L, Awakimian S, et al. Seated row and biceps curl exercises present similar acute responses on muscle thickness, arm circumference, and peak force for elbow flexors after a resistance training session in recreationally-trained subjects. The Journal of Sports Medicine and Physical Fitness. 2020;60(11):. doi:10.23736/s0022-4707.20.10996-4 · *paywalled*
 
 Marchetti PH, Uchida MC. Effects of the Pullover Exercise on the Pectoralis Major and Latissimus Dorsi Muscles as Evaluated by EMG. Journal of Applied Biomechanics. 2011;27(4):380-384. doi:10.1123/jab.27.4.380 · *paywalled*
 
@@ -17736,6 +19341,8 @@ Mellor R, Kasza J, Grimaldi A, Hodges P, Bennell K, Vicenzino B. Mediators and M
 
 Michiels I, Bodem F. The deltoid muscle: an electromyographical analysis of its activity in arm abduction in various body postures. International Orthopaedics. 1992;16(3):268-271. doi:10.1007/BF00182709 · *paywalled*
 
+Miller MC, Schimoler PJ, Kharlamov A, Hammerstedt J, Angelides G, Sumarriva G, et al. The lacertus fibrosus substantially Alters flexion and supination moment arms: A cadaveric study. Journal of Biomechanics. 2025;187:112760. doi:10.1016/j.jbiomech.2025.112760 · **open access**
+
 Mitsuya H, Nakazato K, Hakkaku T, Okada T. Hip flexion angle affects longitudinal muscle activity of the rectus femoris in leg extension exercise. European Journal of Applied Physiology. 2023;123(6):1299-1309. doi:10.1007/s00421-023-05156-w · *paywalled*
 
 Montpetit C, Vaillancourt N, Rosenstein B, Wesselink EO, Dover G, Weiss C, et al. Effects of aquatic therapy vs. standard care on gluteal muscle morphology and function in individuals with chronic low back pain: a randomized controlled trial. BMC Sports Science, Medicine and Rehabilitation. 2026;18(1):241. doi:10.1186/s13102-026-01666-0 · **open access**
@@ -17755,6 +19362,8 @@ Murphy C, Koehler K. Energy deficiency impairs resistance training gains in lean
 Murray WM, Buchanan TS, Delp SL. Scaling of peak moment arms of elbow muscles with upper extremity bone dimensions. Journal of Biomechanics. 2002;35(1):19-26. doi:10.1016/S0021-9290(01)00173-7 · *paywalled*
 
 Murray WM, Buchanan TS, Delp SL. The isometric functional capacity of muscles that cross the elbow. Journal of Biomechanics. 2000;33(8):943-952. doi:10.1016/S0021-9290(00)00051-8 · *paywalled*
+
+Murray WM, Delp SL, Buchanan TS. Variation of muscle moment arms with elbow and forearm position. Journal of Biomechanics. 1995;28(5):513-525. doi:10.1016/0021-9290(94)00114-j · *paywalled*
 
 Muyor JM, López-Miñarro PA, Alacid F. Comparison of Electromyographic Activity during Barbell Pullover and Straight Arm Pulldown Exercises. Applied Sciences. 2022;12(21):11138. doi:10.3390/app122111138 · **open access**
 
@@ -17780,11 +19389,17 @@ Niinimäki S, Härkönen L, Nikander R, Abe S, Knüsel C, Sievänen H. The cross
 
 Nisell R, Ekholm J. Patellar forces during knee extension. Scandinavian Journal of Rehabilitation Medicine. 1985;17(2):63-74. doi:10.2340/1650197785176374 · *paywalled*
 
+Nosaka K, Sakamoto K. Effect of elbow joint angle on the magnitude of muscle damage to the elbow flexors. Medicine & Science in Sports & Exercise. 2001;33(1):22-29. doi:10.1097/00005768-200101000-00005 · *paywalled*
+
 Noteboom L, Belli I, Hoozemans MJM, Seth A, Veeger HEJ, van der Helm FCT. Effects of bench press technique variations on musculoskeletal shoulder loads and potential injury risk. Frontiers in Physiology. 2024;15:1393235. doi:10.3389/fphys.2024.1393235 · **open access**
 
 Nunes JP, Blazevich AJ, Schoenfeld BJ, Kassiano W, Costa BDV, Ribeiro AS, et al. Determining Changes in Muscle Size and Architecture After Exercise Training: One Site Does Not Fit All. Journal of Strength and Conditioning Research. 2024;38(4):787-790. doi:10.1519/JSC.0000000000004722 · *paywalled*
 
 Nunes JP, Grgic J, Cunha PM, Ribeiro AS, Schoenfeld BJ, de Salles BF, et al. What influence does resistance exercise order have on muscular strength gains and muscle hypertrophy? A systematic review and meta-analysis. European Journal of Sport Science. 2021;21(2):149-157. doi:10.1080/17461391.2020.1733672 · *paywalled*
+
+Nunes JP, Jacinto JL, Ribeiro AS, Mayhew JL, Nakamura M, Capel DMG, et al. Placing Greater Torque at Shorter or Longer Muscle Lengths? Effects of Cable vs. Barbell Preacher Curl Training on Muscular Strength and Hypertrophy in Young Adults. International Journal of Environmental Research and Public Health. 2020;17(16):5859. doi:10.3390/ijerph17165859 · **open access**
+
+O'Connell DG, Cooper KA, Richeson SM, Moeller MB, Stephens JW, Key DJ. The effect of forearm position on elbow flexion strength in nursing, occupational, and physical therapy students. Work. 2021;69(2):403-409. doi:10.3233/wor-213486 · *paywalled*
 
 Ogasawara R, Loenneke JP, Thiebaud RS, Abe T. Low-Load Bench Press Training to Fatigue Results in Muscle Hypertrophy Similar to High-Load Bench Press Training [cited as Ogasawara et al., 2013a]. International Journal of Clinical Medicine. 2013;4(2):114-121. doi:10.4236/ijcm.2013.42022 · **open access**
 
@@ -17824,19 +19439,27 @@ Park SY, Yoo WG. Differential activation of parts of the latissimus dorsi with v
 
 Parkkola R, Kujala U, Rytökoski U. Response of the trunk muscles to training assessed by magnetic resonance imaging and muscle strength. European Journal of Applied Physiology and Occupational Physiology. 1992;65(5):383-387. doi:10.1007/bf00243501 · *paywalled*
 
+Parpa K, Vasiliou A, Michaelides M, Govindasamy K, Chernov A, Intziegianni K. An Exploratory Study of Biceps Brachii Electromyographic Activity During Traditional Dumbbell Versus Bayesian Cable Curls. Muscles. 2025;4(4):45. doi:10.3390/muscles4040045 · **open access**
+
 Paton ME, Brown JMM. An electromyographic analysis of functional differentiation in human pectoralis major muscle. Journal of Electromyography and Kinesiology. 1994;4(3):161-169. doi:10.1016/1050-6411(94)90017-5 · *paywalled*
 
 Pedrosa GF, Lima FV, Schoenfeld BJ, Lacerda LT, Simões MG, Pereira MR, et al. Partial range of motion training elicits favorable improvements in muscular adaptations when carried out at long muscle lengths. European Journal of Sport Science. 2022;22(8):1250-1260. doi:10.1080/17461391.2021.1927199 · *paywalled*
 
 Pedrosa GF, Pereira MR, Kassiano W. The interplay between muscle length, range of motion, and exercise selection: a review. Sports Medicine International Open. 2026;10:a27337605. doi:10.1055/a-2733-7605 · **open access**
 
+Pedrosa GF, Simões MG, Figueiredo MOC, Lacerda LT, Schoenfeld BJ, Lima FV, et al. Training in the Initial Range of Motion Promotes Greater Muscle Adaptations Than at Final in the Arm Curl. Sports. 2023;11(2):39. doi:10.3390/sports11020039 · **open access**
+
 Pelland JC, Remmert JF, Robinson ZP, Hinson SR, Zourdos MC. The Resistance Training Dose Response: Meta-Regressions Exploring the Effects of Weekly Volume and Frequency on Muscle Hypertrophy and Strength Gains. Sports Medicine. 2026;56(2):481-505. doi:10.1007/s40279-025-02344-w · *paywalled*
 
 Peltonen JE, Taimela S, Erkintalo M, Salminen JJ, Oksanen A, Kujala UM. Back extensor and psoas muscle cross-sectional area, prior physical training, and trunk muscle strength — a longitudinal study in adolescent girls. European Journal of Applied Physiology and Occupational Physiology. 1998;77(1-2):66-71. doi:10.1007/s004210050301 · *paywalled*
 
+Persad LS, Wang Z, Pino PA, Binder-Markey BI, Kaufman KR, Lieber RL. Specific tension of human muscle in vivo: a systematic review. Journal of Applied Physiology. 2024;137(4):945-962. doi:10.1152/japplphysiol.00296.2024 · **open access**
+
 Peterson SL, Rayan GM. Shoulder and Upper Arm Muscle Architecture. The Journal of Hand Surgery. 2011;36(5):881-889. doi:10.1016/j.jhsa.2011.01.008 · *paywalled*
 
 Pinto MD, Ughini C, Nunes JP, Cadore EL, Pinto RS. Pectoralis Clavicular and Sternocostal Thicknesses Increase Similarly in Response to One and Three Sets of Pec Deck Resistance Training in Untrained Young Men. Journal of Strength and Conditioning Research. 2025;39(5):523-530. doi:10.1519/JSC.0000000000005045 · *paywalled*
+
+Pinto RS, Gomes N, Radaelli R, Botton CE, Brown LE, Bottaro M. Effect of Range of Motion on Muscle Strength and Thickness. Journal of Strength and Conditioning Research. 2012;26(8):2140-2145. doi:10.1519/jsc.0b013e31823a3b15 · *paywalled*
 
 Plamondon A, Serresse O, Boyd K, Ladouceur D, Desjardins P. Estimated moments at L5/S1 level and muscular activation of back extensors for six prone back extension exercises in healthy individuals. Scandinavian Journal of Medicine & Science in Sports. 2002;12(2):81-89. doi:10.1034/j.1600-0838.2002.120204.x · **open access**
 
@@ -17878,6 +19501,8 @@ Saeterbakken AH, Stien N, Pedersen H, Solstad TEJ, Cumming KT, Andersen V. The E
 
 Saeterbakken AH, van den Tillaar R, Fimland MS. A comparison of muscle activity and 1-RM strength of three chest-press exercises with different stability requirements. Journal of Sports Sciences. 2011;29(5):533-538. doi:10.1080/02640414.2010.543916 · *paywalled*
 
+Safran MR, Graham SM. Distal biceps tendon ruptures: incidence, demographics, and the effect of smoking. Clinical Orthopaedics and Related Research. 2002;(404):275-283. PMID:12439270 — no DOI was ever issued · *paywalled*
+
 Sahu D, Joshi M, Rathod V, Nathani P, Valavi AS, Jagiasi JD. Geometric analysis of the humeral head and glenoid in the Indian population and its clinical significance. JSES International. 2020;4(4):992-1001. doi:10.1016/j.jseint.2020.06.008 · **open access**
 
 Sakoma Y, Sano H, Shinozaki N, Itoigawa Y, Yamamoto N, Ozaki T, et al. Anatomical and functional segments of the deltoid muscle. Journal of Anatomy. 2011;218(2):185-190. doi:10.1111/j.1469-7580.2010.01325.x · **open access**
@@ -17887,6 +19512,12 @@ Sanchis-Moysi J, Idoate F, Izquierdo M, Calbet JAL, Dorado C. The hypertrophy of
 Sanchis-Moysi J, Idoate F, Olmedillas H, Guadalupe-Grau A, Alayón S, Carreras A, et al. Large Asymmetric Hypertrophy of Rectus Abdominis Muscle in Professional Tennis Players [cited as Sanchis-Moysi et al., 2010]. PLoS ONE. 2010;5(12):e15858. doi:10.1371/journal.pone.0015858 · **open access**
 
 Saraceni N, Kent P, Ng L, Campbell A, Straker L, O'Sullivan P. To Flex or Not to Flex? Is There a Relationship Between Lumbar Spine Flexion During Lifting and Low Back Pain? A Systematic Review With Meta-analysis. Journal of Orthopaedic & Sports Physical Therapy. 2020;50(3):121-130. doi:10.2519/jospt.2020.9218 · *paywalled*
+
+Saric J, Lisica D, Orlic I, Grgic J, Krieger JW, Vuk S, et al. Resistance Training Frequencies of 3 and 6 Times Per Week Produce Similar Muscular Adaptations in Resistance-Trained Men. Journal of Strength and Conditioning Research. 2019;33(1):S122-S129. doi:10.1519/jsc.0000000000002909 · *paywalled*
+
+Sato S, Yoshida R, Kiyono R, Yahata K, Yasaka K, Nunes JP, et al. Elbow Joint Angles in Elbow Flexor Unilateral Resistance Exercise Training Determine Its Effects on Muscle Strength and Thickness of Trained and Non-trained Arms. Frontiers in Physiology. 2021;12:734509. doi:10.3389/fphys.2021.734509 · **open access**
+
+Sato S, Yoshida R, Murakoshi F, Sasaki Y, Yahata K, Kasahara K, et al. Comparison between concentric-only, eccentric-only, and concentric–eccentric resistance training of the elbow flexors for their effects on muscle strength and hypertrophy. European Journal of Applied Physiology. 2022;122(12):2607-2614. doi:10.1007/s00421-022-05035-w · **open access**
 
 Schache AG, Dorn TW, Blanch PD, Brown NAT, Pandy MG. Mechanics of the Human Hamstring Muscles during Sprinting. Medicine & Science in Sports & Exercise. 2012;44(4):647-658. doi:10.1249/MSS.0b013e318236a3d2 · *paywalled*
 
@@ -17927,6 +19558,8 @@ Shuttlewood K, Beazley J, Smith CD. Distal triceps injuries (including snapping 
 Siewe J, Rudat J, Röllinghoff M, Schlegel UJ, Eysel P, Michael JWP. Injuries and Overuse Syndromes in Powerlifting. International Journal of Sports Medicine. 2011;32(9):703-711. doi:10.1055/s-0031-1277207 · *paywalled*
 
 Sinaki M, Mikkelsen BA. Postmenopausal spinal osteoporosis: flexion versus extension exercises. Archives of Physical Medicine and Rehabilitation. 1984;65(10):593-596. PMID:6487063 — no DOI was ever issued · *paywalled*
+
+Singer A, Wolf M, Generoso L, Arias E, Delcastillo K, Echevarria E, et al. Give it a rest: a systematic review with Bayesian meta-analysis on the effect of inter-set rest interval duration on muscle hypertrophy. Frontiers in Sports and Active Living. 2024;6:1429789. doi:10.3389/fspor.2024.1429789 · **open access**
 
 Smith TO, Nichols R, Harle D, Donell ST. Do the vastus medialis obliquus and vastus medialis longus really exist? A systematic review. Clinical Anatomy. 2009;22(2):183-199. doi:10.1002/ca.20737 · *paywalled*
 
@@ -17993,6 +19626,8 @@ Tung MJY, Lantz GA, Lopes AD, Berglund L. Injuries in weightlifting and powerlif
 Turcotte AF, Kukuljan S, Dalla Via J, Gagnon C, Abbott G, Daly RM. Changes in spinal bone density, back muscle size, and visceral adipose tissue and their interaction following a multi-component exercise program in older men: secondary analysis of an 18-month randomized controlled trial. Osteoporosis International. 2020;31(10):2025-2035. doi:10.1007/s00198-020-05484-z · **open access**
 
 Tveit P, Daggfeldt K, Hetland S, Thorstensson A. Erector Spinae Lever Arm Length Variations with Changes in Spinal Curvature. Spine. 1994;19(2):199-204. doi:10.1097/00007632-199401001-00015 · *paywalled*
+
+Uwamahoro R, Sundaraj K, Feroz FS. Effect of Forearm Postures and Elbow Joint Angles on Elbow Flexion Torque and Mechanomyography in Neuromuscular Electrical Stimulation of the Biceps Brachii. Sensors. 2023;23(19):8165. doi:10.3390/s23198165 · **open access**
 
 Valério DF, Berton R, Conceição MS, Canevarolo RR, Chacon-Mikahil MPT, Cavaglieri CR, et al. The effects of lifting straps in maximum strength, number of repetitions and muscle activation during lat pull-down. Sports Biomechanics. 2021;20(7):858-865. doi:10.1080/14763141.2019.1610490 · *paywalled*
 
@@ -18071,6 +19706,8 @@ Yoo WG. Comparison of the isolated contraction ratios of the hip extensors and e
 Youdas JW, Amundson CL, Cicero KS, Hahn JJ, Harezlak DT, Hollman JH. Surface Electromyographic Activation Patterns and Elbow Joint Motion During a Pull-Up, Chin-Up, or Perfect-Pullup Rotational Exercise. Journal of Strength and Conditioning Research. 2010;24(12):3404-3414. doi:10.1519/JSC.0b013e3181f1598c · *paywalled*
 
 Zabaleta-Korta A, Fernández-Peña E, Santos-Concejero J. Regional Hypertrophy, the Inhomogeneous Muscle Growth: A Systematic Review. Strength and Conditioning Journal. 2020;42(5):94-101. doi:10.1519/SSC.0000000000000574 · *paywalled*
+
+Zabaleta-Korta A, Fernández-Peña E, Torres-Unda J, Francés M, Zubillaga A, Santos-Concejero J. Regional Hypertrophy: The Effect of Exercises at Long and Short Muscle Lengths in Recreationally Trained Women. Journal of Human Kinetics. 2023;87:259-270. doi:10.5114/jhk/163561 · **open access**
 
 Zabaleta-Korta A, Fernández-Peña E, Torres-Unda J, Garbisu-Hualde A, Santos-Concejero J. The role of exercise selection in regional Muscle Hypertrophy: A randomized controlled trial. Journal of Sports Sciences. 2021;39(20):2298-2304. doi:10.1080/02640414.2021.1929736 · *paywalled*
 
