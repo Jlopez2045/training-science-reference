@@ -4,7 +4,7 @@
 > leverage rather than from tradition. Each muscle gets its own Part: anatomy → biomechanics →
 > the rep → exercise catalogue → contexts → programming. **This volume covers the latissimus
 > dorsi, the quadriceps femoris, the gluteal muscles, the deltoids, the core, the
-> hamstrings, the pectoral muscles, the triceps brachii, the erector spinae and the elbow flexors.** Further muscles are added as
+> hamstrings, the pectoral muscles, the triceps brachii, the erector spinae, the elbow flexors and the calves.** Further muscles are added as
 > new Parts; the glossary and bibliography are always the final two Parts and are shared across all
 > of them.
 >
@@ -96,8 +96,16 @@
    - **§E** [Context modifiers — when "perfect" changes](#partxiecontextmodifiers)
    - **§F** [Programming](#partxifprogramming)
    - **§G** [Synthesis, and what the evidence does not support](#partxigsynthesis)
-12. **[Part XII — Master Glossary](#partxiimasterglossary)** (321 entries, in dependency order, with an alphabetical index at its head)
-13. **[Part XIII — Bibliography](#partxiiibibliography)** (521 sources, 248 open access)
+12. **[Part XII — Calves](#partxiicalves)**
+   - **§A** [Anatomy and architecture](#partxiiaanatomyandarchitecture)
+   - **§B** [Biomechanics — what actually loads the calves](#partxiibbiomechanics)
+   - **§C** [The rep, specified](#partxiictherepspecified)
+   - **§D** [Exercise catalogue](#partxiidexercisecatalogue)
+   - **§E** [Context modifiers — when "perfect" changes](#partxiiecontextmodifiers)
+   - **§F** [Programming](#partxiifprogramming)
+   - **§G** [Synthesis, and what the evidence does not support](#partxiigsynthesis)
+13. **[Part XIII — Master Glossary](#partxiiimasterglossary)** (329 entries, in dependency order, with an alphabetical index at its head)
+14. **[Part XIV — Bibliography](#partxivbibliography)** (546 sources, 266 open access)
 
 **How to read this.** The first occurrence of a technical term in each Part links to its glossary
 entry. Cross-references are written `Part II §B.4`.
@@ -123,8 +131,8 @@ and no punctuation of any kind** — `forcelengthrelationship`, `momentarm`, `pa
 That character set is the fixed point of all four algorithms: each maps it to itself, so one link form
 works everywhere without HTML anchors or renderer-specific syntax. The cost is that the heading itself
 is not meant to be read; **the human-readable name is the bold lead-in immediately below it**, and the
-alphabetical index at the head of Part XII is the place to look a term up. Structural anchors carry
-their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to XI share
+alphabetical index at the head of Part XIII is the place to look a term up. Structural anchors carry
+their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to XII share
 section titles and would otherwise collide. Links are same-file only: no HTML anchors, no relative file links, no external
 links.
 
@@ -1881,7 +1889,7 @@ THREE-TIMES-WEEKLY — HIGH VOLUME, ROTATING EMPHASIS
 large. Row three has one lat-specific anchor — eight weeks of pulldown-and-row training produced
 **+22% latissimus fibre cross-sectional area** on biopsy in 18 novice men (Paoli et al., 2016) — but
 no study has tracked lat *thickness* by ultrasound over these timelines, and the method is a poor index
-of individual change in any case (Part XII, muscle thickness). Rows four and five
+of individual change in any case (Part XIII, muscle thickness). Rows four and five
 are coaching convention, not measured outcomes.
 
 **Validity caveat:** thickness measured in the first weeks of a new program is inflated by
@@ -2405,7 +2413,7 @@ they are lined up by *which part of the range each protocol removed*.
 | Pedrosa et al., 2022 | Knee extension: full 100–30°, long-length partial 100–65°, short-length partial 65–30°, plus a daily-alternating group, 12 weeks | Long-length partial **greater than every other group** at the proximal site (70% of femur length); short-length partial no better than the untrained control at 60% and 70% |
 | Larsen et al., 2025b | Leg press 5–100° vs 5–154°, 8 weeks, resistance-trained | **No difference** — "extreme" evidence for the null on multivariate analysis |
 | Pallarés et al., 2021 | Meta-analysis of sixteen trials, full vs partial range | Full range superior for lower-limb hypertrophy (ES = 0.88) — though the pooled analysis of muscle thickness, pennation angle and fascicle length found no difference (ES = 0.28, p = 0.226) |
-| Kassiano et al., 2023 | Systematic review, full vs partial by which part of the range | Full range and **long-length** partials both beat short-length partials in quadriceps; long-length partials beat full range for proximal rectus femoris |
+| Kassiano et al., 2023a | Systematic review, full vs partial by which part of the range | Full range and **long-length** partials both beat short-length partials in quadriceps; long-length partials beat full range for proximal rectus femoris |
 
 **The reconciliation, in one line.** Every protocol that removed the deep, long-muscle-length portion
 lost; every protocol that kept it did about equally well, whether or not it also kept the shallow
@@ -3922,7 +3930,7 @@ position the deep exercises never reach and adding it produced more growth than 
 **The bracket, as the evidence leaves it.** Squatting to 90° of knee flexion collected roughly a third
 of the gluteal growth that squatting to 140° collected (Kubo et al., 2019). Adding a third hip extension
 exercise to a programme that already contained two added about half again to the result
-(Kassiano et al., 2024). Both are single trials, in untrained people, with ultrasound or MRI as the
+(Kassiano et al., 2024a). Both are single trials, in untrained people, with ultrasound or MRI as the
 measure.
 
 **Interpretive caution on the second of those, and it is a large one.** The exercise that was added
@@ -3976,7 +3984,7 @@ extends. Three conclusions follow, and they resolve most of the argument about t
 
 1. **It is not a short-length exercise.** Its peak lands at roughly the hip angle a squat passes through on the way down. Criticisms that it loads only the shortened position are wrong on the measurement.
 2. **It is not a peak-contraction exercise either.** Its advocates' mechanism is also wrong on the measurement. What it does have is *residual* demand at full extension, where every other exercise has none — a third of a large peak is still load, applied where nothing else applies any.
-3. **This is exactly what the training results look like.** Nine weeks of hip thrusts and nine weeks of parallel squats produced statistically indistinguishable gluteal hypertrophy (Plotkin et al., 2023), and adding hip thrusts to a programme of deep hip extension exercises added growth on top (Kassiano et al., 2024). Two exercises whose demand curves overlap in the middle and diverge at the ends should produce similar results alone and better results together — and they do.
+3. **This is exactly what the training results look like.** Nine weeks of hip thrusts and nine weeks of parallel squats produced statistically indistinguishable gluteal hypertrophy (Plotkin et al., 2023), and adding hip thrusts to a programme of deep hip extension exercises added growth on top (Kassiano et al., 2024a). Two exercises whose demand curves overlap in the middle and diverge at the ends should produce similar results alone and better results together — and they do.
 
 **The one profile that is usually described backwards** is the 45° back extension, and this document
 described it backwards too until it was checked. Hip torque here is the trunk's weight multiplied by the
@@ -4222,7 +4230,7 @@ the exercise exists to supply.
 | 3 | Straightening the knee during a hip extension you meant to be gluteal | Hands the share to the hamstrings (Part IV §B.5) | Keep the knee angle fixed through the rep; check it on video |
 | 4 | Finishing a hip thrust with the lower back instead of the hip | Removes the only part of the range the bridge family exists to load | Ribs down, chin tucked, stop when the hip is straight |
 | 5 | Training only bridge-pattern exercises | Never loads deep hip flexion, where tension per newton-metre is highest | One deep hip-flexion exercise is not optional (Part IV §D.6) |
-| 6 | Training only deep hip-flexion exercises | Never loads the shallow end, and adding a third exercise that does produced measurably more growth — though that trial also added 50% more sets (Kassiano et al., 2024) — see Part IV §B.7 | Add one bridge-pattern exercise |
+| 6 | Training only deep hip-flexion exercises | Never loads the shallow end, and adding a third exercise that does produced measurably more growth — though that trial also added 50% more sets (Kassiano et al., 2024a) — see Part IV §B.7 | Add one bridge-pattern exercise |
 | 7 | Never loading hip abduction | Leaves the gluteus medius and minimus untrained; no hip extension exercise covers them | One abduction exercise per week, minimum (Part IV §D.4) |
 | 8 | Set ends because the lower back gave out | Trained the erectors to momentary failure and the glutes to about 5 [RIR](#rir) | Move part of the weekly volume to a supported or bridge-pattern exercise (Part IV §C.5) |
 | 9 | Loading too light because it "activates" well | A 33 cm² muscle is not stimulated by band tension (Part IV §A.4) | Bands and body weight are warm-ups and finishers, not the prescription |
@@ -4380,7 +4388,7 @@ the quadriceps setup in Part III §D.1.
 *Why it works.* Foot placement moves the demand between hip and knee, and the sled removes the trunk
 as a limiter, so the set can end at the hip. A 45° leg press with a **hip- to shoulder-width** foot
 position — not a high and wide one — was one of the two base exercises in the study that measured adding
-a hip thrust on top (Kassiano et al., 2024).
+a hip thrust on top (Kassiano et al., 2024a).
 *Failure mode.* Pelvic tuck at the bottom, which loads a flexed lumbar spine under compression. That,
 not depth itself, sets the range.
 
@@ -4460,7 +4468,7 @@ mid-set; and the lower back rounding further on each repetition (Part X §C.1).
 *Profile.* As above, with more hip flexion available.
 *Note.* A plain barbell stiff-leg deadlift was one of the two base exercises in the trial that added a
 hip thrust on top and found the addition worth **+3.3 percentage points** of gluteus maximus thickness
-over ten weeks (Kassiano et al., 2024), with the volume caveat in Part IV §B.7. Performing it from a
+over ten weeks (Kassiano et al., 2024a), with the volume caveat in Part IV §B.7. Performing it from a
 deficit adds hip flexion at the bottom and has not been tested.
 
 #### Conventional, sumo and hex-bar deadlift
@@ -4537,7 +4545,7 @@ straight and the ribs down; hold 1 s.
 from the back squat's** at lower, mid and upper measurement sites, while the squat was superior for
 quadriceps and adductors (Plotkin et al., 2023). Adding it to a programme of leg press and stiff-leg
 deadlift produced **+9.3% versus +6.0%** gluteus maximus thickness over ten weeks
-(Kassiano et al., 2024). Both trials used untrained participants.
+(Kassiano et al., 2024a). Both trials used untrained participants.
 *The dissent, recorded.* One twelve-week trial in trained women reported the **back squat superior** for
 gluteus maximus thickness, +9.4% versus +3.7% (Barbalho et al., 2020). **Contested** on two independent
 grounds. Methodologically, the squat arm trained through a full range while the hip thrust arm trained
@@ -4675,7 +4683,7 @@ muscle's exercise.
 ### D.6 Selection rules
 
 1. **Pick one deep hip-flexion exercise you can load and reproduce.** Low-bar squat, leg press with the feet high and wide, hack squat with the feet high, or a Bulgarian split squat. This is the largest single block of the effect (Part IV §B.7). **Interpretive caution:** the low-bar, wide-stance, feet-high configuration is a mechanical inference plus acute electromyography in six lifters — the trial that produced the largest measured gluteal gain here used a high-bar squat at shoulder-width stance (Kubo et al., 2019). Choose the setup you can load and reproduce; **depth is the part that has been tested.**
-2. **Pick one bridge-pattern exercise.** Hip thrust or machine hip thrust. It supplies the shallow end of the range that the first exercise does not load, and adding a third exercise to a programme that already had two produced measurably more growth — though that trial added 50% more weekly sets at the same time and cannot separate the two (Kassiano et al., 2024) — see Part IV §B.7. A 45° back extension is the cheap substitute (Part IV §B.8).
+2. **Pick one bridge-pattern exercise.** Hip thrust or machine hip thrust. It supplies the shallow end of the range that the first exercise does not load, and adding a third exercise to a programme that already had two produced measurably more growth — though that trial added 50% more weekly sets at the same time and cannot separate the two (Kassiano et al., 2024a) — see Part IV §B.7. A 45° back extension is the cheap substitute (Part IV §B.8).
 3. **Add one abduction exercise.** Nothing in rules 1 and 2 trains the gluteus medius or minimus (Part IV §D.4). One exercise, once or twice a week, is the whole requirement.
 4. **Add a hinge only if there is volume left after those three,** or if you want it for its own sake. It is a posterior-chain exercise that pays a gluteal dividend, not the reverse (Part IV §D.2).
 5. **Do not pick two exercises from the same group instead of one from each.** Two squat variants cover the same part of the range twice; two bridge variants cover the other part twice. The evidence for coverage is stronger than the evidence for any individual exercise.
@@ -4841,7 +4849,7 @@ it, then continue.
 | You have lateral hip pain, or pain lying on that side at night | Stop here. Part IV §E.4, and get assessed |
 | Groin pain that catches at the bottom of a squat | Stop here. Part IV §E.4 |
 | Your pelvis tucks under before you reach depth | That is your range limit, not a technique flaw. Part IV §C.3 and Part IV §C.6 |
-| You train only squats and deadlifts | Add a bridge-pattern exercise. Largest available gain (Kassiano et al., 2024) |
+| You train only squats and deadlifts | Add a bridge-pattern exercise. Largest available gain (Kassiano et al., 2024a) |
 | You train only hip thrusts and machines | Add a deep hip-flexion exercise. That is where most of the effect is (Kubo et al., 2019) |
 | You have never loaded hip abduction | Add one exercise from Part IV §D.4. Nothing else covers it |
 | Your lower back ends every gluteal set | Move volume to bridge-pattern and supported exercises (Part IV §C.5) |
@@ -4873,7 +4881,7 @@ data.** No study has compared weekly set counts against gluteal hypertrophy. The
 meta-analysis used between three and twelve sets per session at one to three sessions a week, and none
 of them varied it (Krause Neto et al., 2025). For scale, the three trials this Part relies on ran at six
 weekly sets (Kubo et al., 2019), eight rising to twelve (Plotkin et al., 2023), and twelve to eighteen
-(Kassiano et al., 2024) — all inside the beginner and intermediate bands, and all in untrained people.
+(Kassiano et al., 2024a) — all inside the beginner and intermediate bands, and all in untrained people.
 **The abductor column is weaker still:** it is a convention rather than a band, because the hip
 abductors have no dose–response literature to transfer from at all (Part IV §D.4). Treat the table as a
 starting point with the same status as Part III §F.1's, minus the one dose-comparison trial that
@@ -4898,7 +4906,7 @@ recovery, not the sum of the two columns.
 
 **2×/week is the default.** [Frequency](#trainingfrequency) mostly distributes volume rather than adding
 an independent stimulus, and the trials this Part relies on used two or three sessions a week — nine
-weeks at 2×/week (Plotkin et al., 2023), ten weeks at 3×/week (Kassiano et al., 2024), ten weeks at
+weeks at 2×/week (Plotkin et al., 2023), ten weeks at 3×/week (Kassiano et al., 2024a), ten weeks at
 2×/week (Kubo et al., 2019).
 
 1×/week works at low volumes. 3×/week is useful at higher volumes and works best when the sessions
@@ -4941,7 +4949,7 @@ The general finding is in Part II §F.4 and holds here: sets stopped a few repet
 fatigue cost. There is **no gluteal-specific test of proximity to failure**
 [consensus — no single source]. What can be said is that all three trials behind Part IV §B.7 trained at
 or within a repetition of failure — volitional muscular failure (Plotkin et al., 2023), momentary
-concentric failure (Kassiano et al., 2024) and 8-repetition-maximum loads (Kubo et al., 2019) — so the
+concentric failure (Kassiano et al., 2024a) and 8-repetition-maximum loads (Kubo et al., 2019) — so the
 results in this Part were produced at the hard end of the range, and the table below is an inference from
 the general literature about how much softer you can go.
 
@@ -5052,7 +5060,7 @@ TEMPLATE E - LOWER BACK IS THE LIMITER, ~15 SETS/WEEK + 4 ABDUCTION
 |---|---|
 | Weeks 1–3 | Strength rises and depth improves; size does not change. Early strength gain is neural |
 | Weeks 4–8 | Strength and control still improving. Ultrasound has detected gluteal thickness change by six weeks in untrained people (Wei et al., 2023), but individual change is smaller than the measurement error of the method, so treat any single scan in this window as uninformative |
-| Weeks 8–12 | The window in which every trial cited in Part IV §B.7 detected its effect: +6.7% volume over 10 weeks (Kubo et al., 2019), +9.3% thickness over 10 weeks (Kassiano et al., 2024), a detectable cross-sectional-area change over 9 weeks (Plotkin et al., 2023) |
+| Weeks 8–12 | The window in which every trial cited in Part IV §B.7 detected its effect: +6.7% volume over 10 weeks (Kubo et al., 2019), +9.3% thickness over 10 weeks (Kassiano et al., 2024a), a detectable cross-sectional-area change over 9 weeks (Plotkin et al., 2023) |
 | Months 6–12 | Coverage differences between programs become visible; people who trained abduction separate from people who did not |
 | Years | Diminishing annual returns; range coverage and honest load progression matter more than any new exercise |
 
@@ -5098,7 +5106,7 @@ you.
 | "Squats build glutes better than hip thrusts" | **Contested.** One trial reports it (Barbalho et al., 2020); that trial's research group has a published integrity analysis against it (Vigotsky et al., 2020) and multiple retractions elsewhere. The better-controlled trial found parity |
 | "The hip thrust loads peak contraction at lockout" | **Not supported.** Peak hip extensor moment occurred at 83 ± 16° of hip flexion and fell by about two thirds by lockout (Brazil et al., 2021) |
 | "The hip thrust only trains the shortened position" | **Not supported**, and for the same measurement. Its peak lands at a hip angle a squat passes through |
-| "Squats are enough for glutes" | **Not supported.** Adding a hip thrust to a programme of leg press and stiff-leg deadlift produced +9.3% against +6.0% (Kassiano et al., 2024) |
+| "Squats are enough for glutes" | **Not supported.** Adding a hip thrust to a programme of leg press and stiff-leg deadlift produced +9.3% against +6.0% (Kassiano et al., 2024a) |
 | "Step-ups are the best glute exercise, EMG proves it" | **Not supported.** The exercise ranked first by EMG has no hypertrophy data at all, and the exercise ranked **last** of twenty-four has the best (Part IV §B.11) |
 | "Deadlifts are a glute exercise" | **Evidence remains limited and inconsistent.** No trial has measured gluteal hypertrophy from any deadlift variant. Erector spinae and quadriceps out-activate the glutes in it (Martín-Fuentes et al., 2020), but Part IV §B.11 disallows that as a ranking method — so the honest answer is that the deadlift is untested here rather than refuted |
 | "You can target the lower glutes" | **Not supported.** No exercise loads the lower portion preferentially, and both the squat and the hip thrust produced their largest change there anyway (Plotkin et al., 2023) |
@@ -6536,7 +6544,7 @@ of exposure, so they establish where injuries land, not how likely they are.
 | Context | Common modification | Evidence note |
 |---|---|---|
 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) — a painful arc, pain reaching overhead, pain lying on that side | **Reduce the provoking arc first**, then load progressively in the pain-free range. Keep the press below the painful band or replace it with a landmine press; keep raises in the scapular plane | Rehabilitation improved shoulder strength in this population across twenty-eight studies, and **interventions that did not include exercise had no effect at all** (Zhang et al., 2026). The active ingredient is loading |
-| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part XII, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
+| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part XIII, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
 | History of dislocation or [shoulder instability](#shoulderinstability) | Overhead and behind-the-neck positions are commonly restricted; abduction with external rotation is the classic apprehension position | Governed by the clinician, not by this document |
 | Acromioclavicular joint pain — point tenderness on top of the shoulder | Reduce [horizontal adduction](#shoulderhorizontaladduction) across the body; raises and presses are usually well tolerated | The joint is compressed by reaching across, not by reaching out |
 | Long head of biceps pain — front-of-shoulder pain with a defined tender line | Reduce front raises and dips; the tendon runs in the [bicipital groove](#bicipitalgroove) directly under them | Mechanism, not trial evidence |
@@ -11975,7 +11983,7 @@ TRICEPS ARCHITECTURE - TWO CADAVERIC DATASETS THAT DO NOT AGREE
 
 - **The fibre lengths differ by more than half, and the [PCSA](#pcsa) doubles in consequence.** PCSA is volume divided by optimal [fascicle length](#fasciclelength), so a dataset that measures fibres half as long must report a cross-section twice as large. Neither study can be averaged with the other, and **no absolute number in this section should be leaned on**. The ratios inside each dataset are the usable part.
 - **The ranking survives both datasets; the living-adult figures are not a third, independent check.** In the ten-arm series the combined triceps had the **greatest moment-generating capacity of any single elbow muscle in every specimen**, about ten times the PCSA of the brachioradialis (Murray et al., 2000). The MRI studies of living adults measured volume and then divided it by fibre lengths taken from cadaveric fibre-to-muscle ratios, including that series — so the triceps' larger share of upper-limb PCSA (**18.2%**) than of volume (**14.5%**) restates the cadaveric fibre lengths in living volumes rather than confirming them (Holzbaur et al., 2007a). The same holds for a PCSA **1.9 times** that of all the elbow flexors in four men (Kawakami et al., 1994).
-- **The ratio to the pectoralis major depends on the dataset.** The three heads had **3.6 times** the pectoralis major's PCSA in the single-specimen series (Part VIII §A.4) and **2.5 times** in the living-adult series (40.0 against 15.9 cm²; Holzbaur et al., 2007). Which of the two muscles ends a press is set by the moment each joint must supply at each point of the lift, which grip width redistributes (Part IX §B.8), not by cross-section alone.
+- **The ratio to the pectoralis major depends on the dataset.** The three heads had **3.6 times** the pectoralis major's PCSA in the single-specimen series (Part VIII §A.4) and **2.5 times** in the living-adult series (40.0 against 15.9 cm²; Holzbaur et al., 2007a). Which of the two muscles ends a press is set by the moment each joint must supply at each point of the lift, which grip width redistributes (Part IX §B.8), not by cross-section alone.
 
 **What living muscle shows, which cadavers cannot.** In thirty-two men ranging from untrained to
 competitive bodybuilders, ultrasound [pennation angles](#pennationangle) ran from **15° to 53° in the long
@@ -15124,7 +15132,7 @@ results are more modest than the popular version of them.**
 | Preacher curl vs incline curl, the smaller trial | 38 recreationally trained women, 9 weeks, 4 × 12 to [failure](#momentaryfailure), 3×/week | Thickness at 50%, 60%, 70% of arm length | Only the preacher group grew, and only at the **70%** (distal) site, 2.70 → 2.94 cm; the between-group test was null and the authors call the trial underpowered (Zabaleta-Korta et al., 2023) |
 | Initial range (0–68°) vs final range (68–135°) of a preacher curl | 19 untrained women, 8 weeks, 3×/week, one arm each | Biceps CSA at 50% and 70% | Initial range grew the **70%** site more (p = 0.001); no difference at 50% or summed (Pedrosa et al., 2023) |
 | Initial partial range (0–70°) vs full range (0–140°) | 13 **trained** adults, 8 weeks, one arm each | Thickness at 50% and 70% | Similar at 50%; trivial-to-small advantage to the partial at 70% (Havers et al., 2025) |
-| Longer vs shorter mean muscle length, all muscles pooled | 12 studies, Bayesian meta-analysis | Proximal, mid, distal sites | Trivial differences everywhere (SMD 0.05, 0.07, 0.09), with the trend increasing distally (Varovic et al., 2025) |
+| Longer vs shorter mean muscle length, all muscles pooled | 12 studies, Bayesian meta-analysis | Proximal, mid, distal sites | Trivial differences everywhere (SMD 0.05, 0.07, 0.09), with the trend increasing distally (Varovic et al., 2025a) |
 | Same exercises every session vs varied exercises | 22 detrained men, 9 weeks | Proximal, middle, distal elbow flexors | The varied-exercise group grew at every site; the fixed-exercise group did not grow at the **proximal** site (Costa et al., 2021) |
 
 **How to read that table.** The direction is consistent — training the straighter half of the range, or
@@ -15133,7 +15141,7 @@ incline curl biases the **proximal** part instead. The sizes are small: about a 
 eight weeks between two exercises that both worked. **Promising but under-replicated** for the distal bias: the direction is
 consistent across the individual trials and across the pooled estimate, but the pooled effect is trivial at
 every site — standardized mean differences of 0.05 to 0.09 — and most of the posterior sits inside the region
-of practical equivalence (Varovic et al., 2025). **Evidence remains limited and inconsistent** for any claim
+of practical equivalence (Varovic et al., 2025a). **Evidence remains limited and inconsistent** for any claim
 that a given curl builds a "peak", which no study in this Part measured.
 
 ---
@@ -15210,7 +15218,7 @@ Four things are known, and they concern different structures.
    excitation is largest supinated (Coratella et al., 2023a) — grip changes the mix, not the total.
 7. **Muscle volume explains most of the strength difference between healthy people** (Holzbaur et al., 2007b).
 8. **Growth is biased distally by loading the stretched half of the range, and the bias is small**
-   (Varovic et al., 2025).
+   (Varovic et al., 2025a).
 9. **The one common serious injury is an eccentric avulsion of the distal tendon, at about 1.2 per 100,000 per
    year, with a 7.5-fold risk in smokers** (Safran & Graham, 2002).
 
@@ -15301,7 +15309,7 @@ sixty-four adults of an elbow-angle trial produced maximal isometric elbow flexi
 37.7 and 27.4 N·m at 10°, 50°, 90° and 130°** of flexion in one group and **29.0, 42.3, 47.4 and 33.5 N·m**
 in the other (Sato et al., 2021). A nearly straight arm produces only about **60–66%** of what the same arm
 produces at a right angle. Concentric torque measured on an isokinetic dynamometer at 60°·s⁻¹ looks flatter —
-30–31 N·m at 20°, 30–32 at 60°, 26–31 at 100° (Nunes et al., 2020) — and electrically evoked torque rose
+30–31 N·m at 20°, 30–32 at 60°, 26–31 at 100° (Nunes et al., 2020a) — and electrically evoked torque rose
 from 10° to 60° and fell beyond (Uwamahoro et al., 2023). **Moderate evidence** that maximal elbow flexion
 torque rises steeply from a straight arm to about a right angle and falls again beyond it.
 
@@ -15405,7 +15413,7 @@ WHAT CHANGES ELBOW FLEXOR GROWTH
   as any other, and that excluding it is what costs.
 - **Where the torque peaks changed strength, not size.** The one comparison that held the exercise and the
   range constant and moved only the torque emphasis found the same growth and angle-specific strength
-  (Nunes et al., 2020). **The loading class below is therefore a description of exercises, not a
+  (Nunes et al., 2020a). **The loading class below is therefore a description of exercises, not a
   prescription in its own right.**
 - **Whole exercises differ regionally, in both directions.** The larger of the two preacher-against-incline
   trials found the incline curl growing the proximal site more and the preacher the distal site more, with
@@ -15439,7 +15447,7 @@ WHAT CHANGES ELBOW FLEXOR GROWTH
 >
 > **Caveat:** the 0.60 and 0.25 boundaries are conventions chosen so that the classes separate the exercises
 > of Part XI §D; no study has tested them, and the one trial that manipulated torque emphasis within an
-> exercise found no difference in growth (Nunes et al., 2020). The class describes where an exercise loads
+> exercise found no difference in growth (Nunes et al., 2020a). The class describes where an exercise loads
 > the muscle, not how much it grows it.
 
 ### B.5 The steering wheels — range first, torque second, shoulder not at all
@@ -15447,7 +15455,7 @@ WHAT CHANGES ELBOW FLEXOR GROWTH
 | Variable | What the mechanics predict | What was measured |
 |---|---|---|
 | **Which part of the range is trained** | Sets how long the muscles get under load | A partial confined to the bent half grew 3.4% against 8.9% for one confined to the straight half (Sato et al., 2021); a 50–100° partial gave up almost nothing against full range, 7.8% against 9.7% (Pinto et al., 2012) |
-| **Where the torque peaks** | Sets how much load is present while the muscles are long | Moving the emphasis within one exercise changed strength at the trained angle, +39% against +30% at 20°, and not growth, +8% against +7% (Nunes et al., 2020) |
+| **Where the torque peaks** | Sets how much load is present while the muscles are long | Moving the emphasis within one exercise changed strength at the trained angle, +39% against +30% at 20°, and not growth, +8% against +7% (Nunes et al., 2020a) |
 | **Shoulder position** | Changes the biceps' length, and only the biceps' | No difference in three trials that matched the profile, one of them by magnetic resonance imaging in trained men (Larsen et al., 2026) |
 | **Exercise choice as a whole** | Changes profile, range and shoulder together | The incline curl grew the proximal region more and the preacher the distal, both by about a millimetre in eight weeks (Kassiano et al., 2025) |
 | **Forearm rotation** | Changes which muscle carries the load | Biceps excitation highest supinated (Coratella et al., 2023a); whole-arm flexion force highest neutral (O'Connell et al., 2021); no hypertrophy trial has compared grips |
@@ -15675,7 +15683,7 @@ Apply these to any exercise for the elbow flexors.
 2. **How much torque survives to that end?** Zero for every hanging-arm curl; 71% of peak on a 45° preacher
    pad; 64% on the 50° bench the trials used (Part XI §B.7).
 3. **Where does the torque peak?** The elbow angle at which the load is perpendicular to the forearm — the
-   exercise in one number, and the angle at which its strength gains will show up (Nunes et al., 2020).
+   exercise in one number, and the angle at which its strength gains will show up (Nunes et al., 2020a).
 4. **Is the upper arm staying where the exercise put it?** If the shoulder flexes, the profile you chose is
    not the profile you are training (Part XI §C.2).
 5. **Which grip, and why?** Supinated for the biceps, neutral for the most total force — and it changes the
@@ -15760,7 +15768,7 @@ shoulder — raises biceps excitation by 17.7–20.3% while changing the exercis
 | 4 | **Resting at the top of a preacher curl** | The position where the torque has already fallen away; it adds time, not stimulus | Stop the ascent at about 100° |
 | 5 | **Grinding sets of heavy eccentrics at long lengths early in a programme** | The most damaging combination available to this muscle: eccentric work at long length produced far more damage than the same work short, and reached the biceps rather than the brachialis alone (Nosaka & Sakamoto, 2001) | Introduce the stretch-loaded curl at 2–3 [repetitions in reserve](#rir) for the first two weeks (Part XI §E.6) |
 | 6 | **Bouncing out of the bottom** | Replaces muscle force with elastic recoil in the one part of the range this Part is trying to load | A dead stop, then an ascent |
-| 7 | **Chasing the "peak" with a special curl** | No study in this Part measured a peak, and the regional differences that do exist are small and distal (Varovic et al., 2025) | Train the range; the shape is inherited |
+| 7 | **Chasing the "peak" with a special curl** | No study in this Part measured a peak, and the regional differences that do exist are small and distal (Varovic et al., 2025a) | Train the range; the shape is inherited |
 | 8 | **Counting chin-ups and rows as arm training** | They grow the elbow flexors about half as fast as curls do (Mannarino et al., 2021) | Count them at half a set and add direct work (Part XI §F.1) |
 
 **Errors 1, 3 and 4 are the same error in three costumes**: they all move the working range away from the
@@ -15842,7 +15850,7 @@ is not the one specified.
   percentages of arm length because circumference conflates fat, the triceps and the elbow flexors.
 - **Strength gains are specific to the range you trained.** A group training with torque emphasis at long
   lengths gained 39% at 20° of elbow flexion; a group emphasising the short end gained 30% there, and the two
-  matched at 60° and 100° (Nunes et al., 2020). Testing a curl at one angle answers a question about that
+  matched at 60° and 100° (Nunes et al., 2020a). Testing a curl at one angle answers a question about that
   angle.
 - **Not soreness.** Damage markers respond to novelty and to long-length eccentrics (Nosaka & Sakamoto, 2001),
   not to the size of the growth stimulus (Part I).
@@ -15856,7 +15864,7 @@ is not the one specified.
 Every entry gives its elbow flexor loading class (Part XI §B.4) with the stretch fraction that sets it, the
 set-up detail that decides that class, and the failure mode. **Entries are grouped by loading class**,
 because that is how the mechanics differ — not because the class has been shown to change growth, which one
-trial tested and did not find (Nunes et al., 2020).
+trial tested and did not find (Nunes et al., 2020a).
 
 A warning that applies to the whole catalogue: **the only two trials that matched resistance profiles between
 two named curls were testing shoulder position, and they found nothing** (Larsen et al., 2026). No trial has
@@ -15960,9 +15968,9 @@ does not change growth (Part XI §B.4); the profile is identical.
 forward and it moves toward a bent one.
 
 #### Preacher curl with a cable pulling from the front
-**Class:** Stretch-free — the arrangement whose torque emphasis is at the flexed end (Nunes et al., 2020).
+**Class:** Stretch-free — the arrangement whose torque emphasis is at the flexed end (Nunes et al., 2020a).
 *Evidence note.* Over ten weeks it produced the same thickness gain as the barbell version, +7% against +8%,
-and less strength at a nearly straight elbow, +30% against +39% at 20° (Nunes et al., 2020). **The growth was
+and less strength at a nearly straight elbow, +30% against +39% at 20° (Nunes et al., 2020a). **The growth was
 the same; the strength was where it was trained.**
 
 #### Machine curls
@@ -16018,7 +16026,7 @@ elbows object.
    (Part XI §B.4), and it costs nothing to honour.
 2. **Make at least one of those curls a stretch-loaded one.** A 45–50° preacher curl keeps 64–71% of its peak
    torque where a hanging-arm curl keeps none — **a mechanical inference**, since the one trial that
-   manipulated torque emphasis inside an exercise found no growth difference (Nunes et al., 2020).
+   manipulated torque emphasis inside an exercise found no growth difference (Nunes et al., 2020a).
 3. **Keep one stretch-free curl for load.** The standing curl carries the heaviest weight, on the part of the
    range where the arm is strongest (Part XI §B.3).
 4. **Do not choose an exercise for its shoulder position.** Three matched trials found nothing there (Larsen
@@ -16046,7 +16054,7 @@ elbows object.
 |---|---|---|
 | **Arm size** | The default: one stretch-loaded and one stretch-free curl a week, pulls counted at half (Part XI §F.1) | The range-of-motion trials and the volume trial both point here (Part XI §B.4) |
 | **A bigger chin-up or row** | Keep the curls; they do not transfer much | Strength gains were specific to the exercise trained in the only comparison: the row-trained arm gained on rows, the curl-trained arm on curls (Mannarino et al., 2021) |
-| **Strength at a straight elbow** — climbers, grapplers, anyone catching a load with a nearly straight arm | Bias toward the stretch-loaded class and train it heavy | Torque emphasis at long lengths gave 39% versus 30% strength gains at 20° of elbow flexion (Nunes et al., 2020) |
+| **Strength at a straight elbow** — climbers, grapplers, anyone catching a load with a nearly straight arm | Bias toward the stretch-loaded class and train it heavy | Torque emphasis at long lengths gave 39% versus 30% strength gains at 20° of elbow flexion (Nunes et al., 2020a) |
 | **Elbow tendon tolerance after a long layoff** | Introduce stretch-loaded work at 2–3 repetitions in reserve for the first fortnight | Eccentric work at long lengths is the most damaging pattern available to this muscle (Nosaka & Sakamoto, 2001) |
 | **Minimum effective dose** | One stretch-loaded curl exercise, two to three hard sets, twice a week | Below the lowest dose any elbow flexor trial has tested: the lowest arm of the one [dose–response](#doseresponserelationship) trial — three weekly sets by this Part's counting — was significantly beaten by the highest (Schoenfeld et al., 2019a), so this row is a floor for holding on, not a recommendation |
 
@@ -16097,7 +16105,7 @@ elbows object.
 
 | Sport | What changes | Why |
 |---|---|---|
-| **Climbing** | Keep volume modest and bias the stretch-loaded class; the sport already supplies enormous elbow flexor work | Strength gains are angle-specific (Nunes et al., 2020) |
+| **Climbing** | Keep volume modest and bias the stretch-loaded class; the sport already supplies enormous elbow flexor work | Strength gains are angle-specific (Nunes et al., 2020a) |
 | **Grappling and strongman** | Train the stretched position deliberately, because the sport loads it accidentally and violently | The rupture mechanism is an arm forced straight against a contracting biceps (Safran & Graham, 2002) |
 | **Throwing sports** | Nothing changes for the elbow flexors; the elbow's throwing problem is on the medial side | Outside this Part's scope |
 | **Bodybuilding** | The only context where exercise variety is worth the complication | Varied exercises grew every measured site; fixed exercises missed the proximal one (Costa et al., 2021) |
@@ -16322,7 +16330,7 @@ THREE SESSIONS A WEEK - ADVANCED (12-16 sets)
 | **Measurement** | Ultrasound at 50% and 70% of arm length, or nothing | Every trial in Part XI §B.4 |
 
 **What not to expect.** A change in shape. No study in this Part measured a "peak", the regional differences
-that exist are small (Varovic et al., 2025), and the only large regional finding was an exercise that grew
+that exist are small (Varovic et al., 2025a), and the only large regional finding was an exercise that grew
 nothing anywhere (Zabaleta-Korta et al., 2023).
 
 ---
@@ -16336,8 +16344,8 @@ nothing anywhere (Zabaleta-Korta et al., 2023).
 1. **Three muscles bend the elbow, and only one of them crosses the shoulder.** The biceps brachii crosses the shoulder, the elbow and the radioulnar joint; the brachialis and brachioradialis cross the elbow alone (Athwal et al., 2007).
 2. **The elbow's range decides the stimulus.** Training the same fifty degrees of range with the elbow nearly straight rather than well bent produced **+8.9% against +3.4%** of thickness in five weeks (Sato et al., 2021); a partial that kept the straight end matched full range in trained people (Havers et al., 2025), and a middling 50–100° partial gave up almost nothing (Pinto et al., 2012). **Moderate evidence.**
 3. **The shoulder does not decide.** With resistance profiles and elbow range matched, shoulder extension against neutral produced no difference over ten weeks (Larsen et al., 2026); the same held for a preacher curl against a Bayesian cable curl (Attarieh et al., 2025) and for an occlusion protocol measured by magnetic resonance imaging in trained men (da Silva Vendruscolo et al., 2025). **Moderate evidence.**
-4. **Length plausibly only helps where there is torque, and that has not been tested directly.** The growth advantage of long muscle lengths appears when there is relevant external torque in the lengthened position (Pedrosa et al., 2026) — which a hanging-arm curl does not supply, because its torque at a straight elbow is zero (Part XI §B.7). **A mechanical inference:** the one trial that moved the torque emphasis inside a single exercise found the same growth either way (Nunes et al., 2020).
-5. **Where the torque peaks is a property of the set-up, and it is calculable.** For a free weight the peak is where the forearm is horizontal — on a preacher bench, at the pad's own angle; for a cable, where the forearm is perpendicular to the cable (Part XI §B.7). It decides the angle at which strength is gained (Nunes et al., 2020).
+4. **Length plausibly only helps where there is torque, and that has not been tested directly.** The growth advantage of long muscle lengths appears when there is relevant external torque in the lengthened position (Pedrosa et al., 2026) — which a hanging-arm curl does not supply, because its torque at a straight elbow is zero (Part XI §B.7). **A mechanical inference:** the one trial that moved the torque emphasis inside a single exercise found the same growth either way (Nunes et al., 2020a).
+5. **Where the torque peaks is a property of the set-up, and it is calculable.** For a free weight the peak is where the forearm is horizontal — on a preacher bench, at the pad's own angle; for a cable, where the forearm is perpendicular to the cable (Part XI §B.7). It decides the angle at which strength is gained (Nunes et al., 2020a).
 6. **Grip changes the mix, not the size of the stimulus.** Biceps excitation is highest supinated (Coratella et al., 2023a); total flexion force is highest neutral (O'Connell et al., 2021); no hypertrophy trial has compared grips.
 7. **The brachialis carries the largest share of a curl and the brachioradialis the smallest** — 47%, 34% and 19% of elbow flexion torque in four men (Kawakami et al., 1994), with a cadaver-based calculation putting the brachioradialis lower still (Part XI §B.9). **Evidence remains limited and inconsistent** on the exact shares; the ranking is consistent.
 8. **Pulls count for about half.** A row grew the elbow flexors 5.2% against a curl's 11.1% in the same people (Mannarino et al., 2021), and pulling volume alone shows a dose–response in these muscles (Schoenfeld et al., 2019a).
@@ -16351,7 +16359,7 @@ nothing anywhere (Zabaleta-Korta et al., 2023).
 | Claim | Verdict |
 |---|---|
 | "Incline curls grow the long head because they stretch it" | **Not supported as a mechanism** — three trials that isolated shoulder position with matched profiles found no difference (Larsen et al., 2026), and the exercise supplies no torque at the stretched position (Part XI §B.7). **The exercise itself works:** it grew the elbow flexors, and the proximal region more than a preacher curl did (Kassiano et al., 2025) |
-| "Preacher curls build the lower biceps, incline curls build the peak" | **Half true, and small.** The preacher curl did grow the distal region more and the incline curl the proximal, by about a millimetre in eight weeks (Kassiano et al., 2025); no study in this Part measured anything that could be called a peak, and the pooled regional effects across muscles are trivial (Varovic et al., 2025) |
+| "Preacher curls build the lower biceps, incline curls build the peak" | **Half true, and small.** The preacher curl did grow the distal region more and the incline curl the proximal, by about a millimetre in eight weeks (Kassiano et al., 2025); no study in this Part measured anything that could be called a peak, and the pooled regional effects across muscles are trivial (Varovic et al., 2025a) |
 | "Hammer curls are how you build the brachioradialis" | **Not supported** as usually meant. The brachioradialis has the smallest share of a curl's torque (Kawakami et al., 1994) and was *most* excited by a supinated grip, not a neutral one (Coratella et al., 2023a); no trial has measured its growth |
 | "Chin-ups are enough arm training" | **Evidence remains limited and inconsistent.** Rows grew the elbow flexors at about half the rate of curls in the same people (Mannarino et al., 2021), while adding curls to a pulldown-and-bench programme added nothing measurable (Gentil et al., 2013); nobody has tested chin-ups against curls |
 | "You must curl heavy to build arms" | **Not supported.** 25–35 repetitions to failure matched 8–12 (Schoenfeld et al., 2015b) |
@@ -16386,9 +16394,1180 @@ judged over months, by ultrasound or by load, and never by soreness.
 
 ---
 
-# partxiimasterglossary
+# partxiicalves
 
-**Part XII — Master Glossary**
+**Part XII — Calves**
+
+> Scope: the anatomy, mechanics, technique, exercise selection, context modifiers and programming for
+> maximal [hypertrophy](#hypertrophy) of the muscles on the back of the lower leg — the two heads of the [gastrocnemius](#gastrocnemius) and
+> the [soleus](#soleus) beneath them, together the [triceps surae](#tricepssurae) — and the [Achilles tendon](#achillestendon) they all pull through.
+> **General education only.** A sudden sharp pain in the calf during a push-off, or a gap you can feel above
+> the heel after a snap, is an injury and not a training problem — see Part XII §E.4.
+>
+> **Angle conventions, fixed for the whole Part.** Ankle angle is measured from a neutral foot: **0° is the
+> foot at a right angle to the shin**, positive numbers are [plantar flexion](#ankleplantarflexion) (heel up, toes pointed) and
+> negative numbers are [dorsiflexion](#ankledorsiflexion) (heel down, toes pulled up). Knee angle keeps its Part III meaning —
+> **0° is a straight knee**. Where a study reports the other convention, the conversion is stated where it
+> happens.
+>
+> **What makes this Part different.** It is the Part with the cleanest answer to the question the other
+> Parts fight over. In the calf, **the position of the second joint decides which muscle grows**, and the
+> trial that shows it is a within-participant twelve-week study measuring [muscle volume](#musclevolume) by magnetic
+> resonance imaging: with the knee straight the gastrocnemius grew **9–12%**, with the knee bent it did not
+> grow at all (Kinoshita et al., 2023). It is also the Part where the [stretched](#stretchmediatedhypertrophy) half of the range wins by the
+> largest margin measured anywhere in this document — fifteen percent against three (Kassiano et al., 2023b).
+
+---
+
+## partxiiaanatomyandarchitecture
+
+**PART A — Anatomy and Architecture**
+
+### A.1 What the calves are
+
+Two muscles stacked on top of each other, pulling on one tendon. The one you can see crosses two joints; the
+one underneath crosses one and is much the larger of the two.
+
+Three facts organize the Part.
+
+1. **The gastrocnemius crosses the knee; the soleus does not.** The gastrocnemius starts above the knee, on
+   the back of the thigh bone, so bending the knee shortens it and takes it out of the exercise. The soleus
+   starts below the knee, on the shin bones, so nothing above the ankle changes its length. **That single
+   anatomical fact is the whole of Part XII §B.4.**
+2. **The soleus is the big one.** Across sixteen datasets — fifteen imaging series and one cadaveric
+   dissection — it is **half or more of all triceps surae muscle volume in every one**, running from 50% to
+   61%, against 25–31% for the medial gastrocnemius and 13–20% for the lateral (Harper et al., 2025). The
+   visible bulge is the smaller half of the muscle group.
+3. **They share one tendon, and the tendon is the load path.** Everything all three muscles produce arrives
+   at the heel through the Achilles tendon, on a lever of about **4.8 cm** (Faux-Dugan & Piazza, 2024). A
+   short lever on a heavy joint is why the calf produces some of the largest muscle forces in the body and
+   why a set of calf raises feels like nothing is happening for the first six repetitions.
+
+---
+
+### A.2 Attachments — the map you load
+
+| Muscle / head | Proximal attachment | Distal attachment | Nerve | What that geometry buys |
+|---|---|---|---|---|
+| **Gastrocnemius, medial head** | Back of the medial femoral condyle, above the knee | Calcaneus, through the Achilles tendon | Tibial | Crosses the knee and the ankle, so knee angle changes its length — the basis of Part XII §B.2 |
+| **Gastrocnemius, lateral head** | Back of the lateral femoral condyle | As above | Tibial | As above, on longer [fascicles](#fasciclelength) and a shallower [pennation](#pennationangle) angle |
+| **Soleus** | Back of the head and upper shaft of the fibula and the soleal line of the tibia — **below the knee** *[consensus — no single source]* | As above | Tibial | Crosses the ankle alone: no position of the knee, hip or back changes its length |
+| **Plantaris** | Lateral supracondylar line, beside the lateral gastrocnemius *[consensus — no single source]* | Calcaneus, medial to the Achilles | Tibial | A small, long-tendoned muscle absent in some people; it contributes almost nothing and is not a training target |
+
+**Two details of that table do the work.**
+
+- **The gastrocnemius is a hamstring's neighbour, mechanically.** It crosses the knee behind it, so it flexes
+  the knee as well as plantar-flexing the ankle — which is why Part VII counts it as a contributor to every
+  [leg curl](#legcurl) and why ankle position changes what a leg curl trains.
+- **The soleus is a [monoarticular](#monoarticularmuscle) muscle in a two-joint group.** It behaves like the vastus intermedius or
+  the biceps femoris short head: nothing but its own joint changes it. That makes it the only part of the
+  calf whose training is genuinely position-proof.
+
+---
+
+### A.3 Architecture — a big, short-fibred, heavily pennate group on a short lever
+
+```
+THE CALF, MEASURED - the two gastrocnemius heads in detail,
+the soleus by volume share only
+  IN VIVO, 16 adults, ultrasound + motion analysis     (Faux-Dugan 2024)
+    Lateral gastrocnemius   fascicles     79.0 +/- 14.9 mm
+                            pennation     10.9 +/- 2.7 deg
+                            volume       128 +/- 41 cm3
+                            PCSA          16.8 +/- 6.4 cm2
+    Medial gastrocnemius    fascicles     60.3 +/- 9.0 mm
+                            pennation     18.9 +/- 3.4 deg
+                            volume       203 +/- 57 cm3
+                            PCSA          34.3 +/- 9.8 cm2
+    Achilles tendon moment arm
+                            neutral ankle 47.5 +/- 9.3 mm
+                            15 deg plantar flexion
+                                          51.7 +/- 9.5 mm
+  VOLUME SHARE, 15 imaging + 1 cadaveric dataset          (Harper 2025)
+    Soleus                  50-61% of triceps surae volume
+    Gastrocnemius medialis  25-31%
+    Gastrocnemius lateralis 13-20%
+  CADAVER, 21 lower limbs                                    (Ward 2009a)
+    Soleus is one of the three strongest muscles of the lower limb
+    by architecture, alongside gluteus medius and vastus lateralis;
+    the plantar flexors are the strongest group AT THE ANKLE
+```
+
+**Three readings.**
+
+- **This is a force group, not an excursion group.** Short fascicles at steep pennation angles, packed into a
+  large volume, is the architecture of a muscle built to produce large forces over small distances — the
+  opposite of the long-fascicled elbow flexors of Part XI. The consequence for training is that the working
+  range is short and every degree of it counts.
+- **The medial gastrocnemius is the bigger, more pennate head; the lateral has the longer fascicles.**
+  Fascicles of 60 mm at 19° against 79 mm at 11° (Faux-Dugan & Piazza, 2024). They are measured separately
+  in every trial in this Part for that reason, and they do not always respond alike (Part XII §A.5).
+- **The lever is short, and it is shortest where the stretch is deepest.** The Achilles [moment arm](#momentarm) runs about
+  **4.8 cm** at a neutral ankle and about **5.2 cm** at 15° of plantar flexion in one series (Faux-Dugan &
+  Piazza, 2024), and a second series measuring into dorsiflexion found **34.6 ± 1.8 mm at 20° of
+  dorsiflexion**, rising through to plantar flexion (Manal et al., 2013). **The two disagree on magnitude
+  because their methods do; they agree on the shape.** The muscles are therefore worst off mechanically
+  exactly where the stretch is deepest — which, as Part XII §B.3 shows, is also where the resistance is
+  largest.
+
+---
+
+### A.4 The division of labour — the knee decides
+
+| Muscle | Crosses the ankle | Crosses the knee | Changed by knee angle | Share of the group's volume |
+|---|---|---|---|---|
+| **Medial gastrocnemius** | Yes | Yes | **Yes — shortened and unloaded by [knee flexion](#kneeflexion)** | 25–31% |
+| **Lateral gastrocnemius** | Yes | Yes | **Yes** | 13–19% |
+| **Soleus** | Yes | No | **No** | 50–56% |
+
+**What that costs, measured at the joint.** With the knee bent, maximal isometric plantar flexion [torque](#torque) was
+**93.1 ± 22.3 N·m**; with it straight, **154.4 ± 37.8 N·m** in the same nine men — about **40% less torque**
+once the gastrocnemius is taken out (Kovács et al., 2024). **Caveat:** the source's abstract describes this
+as 59% lower, which its own means do not give; the means are quoted here. In the same study, soleus volume
+predicted torque in both positions, while gastrocnemius volume predicted it only with the knee straight —
+the anatomy showing up in the measurement.
+
+---
+
+### A.5 Regions and heads — where the growth shows up
+
+| What was compared | Who, how long | Result |
+|---|---|---|
+| Standing (knee straight) vs seated (knee bent) [calf raise](#calfraise), one leg each | 14 untrained adults, 12 weeks, MRI muscle volume | Lateral gastrocnemius **+12.4% vs +1.7%**, medial **+9.2% vs +0.6%**, whole triceps surae **+5.6% vs +2.1%**; soleus **+2.1% vs +2.9%**, no difference (Kinoshita et al., 2023) |
+| Full range vs the stretched half vs the shortened half | 42 untrained women, 8 weeks | Medial gastrocnemius **+15.2%** (stretched half) vs **+6.7%** (full) vs **+3.4%** (shortened half); lateral +14.9% vs +7.3% vs +6.2% (Kassiano et al., 2023b) |
+| 6 vs 9 vs 12 weekly sets | 61 untrained women, 6 weeks | 12 sets beat 6 in the lateral gastrocnemius (+14.3% vs +8.1%), soleus (+12.7% vs +6.7%) and summed triceps surae (+12.0% vs +6.9%); medial gastrocnemius not significant (Kassiano et al., 2024b) |
+
+**How to read that table.** The two gastrocnemius heads move together in direction and differ in size of
+response, and the soleus is the quiet one: it grew 2–3% in twelve weeks whatever the knee did (Kinoshita et
+al., 2023) and 6.7–12.7% in six weeks when the only variable was how many sets it got (Kassiano et al.,
+2024). **The most useful summary is that the gastrocnemius responds to position and the soleus responds to
+volume.** **Moderate evidence** — four trials, all in untrained people, none longer than twelve weeks.
+
+---
+
+### A.6 Fibre type — the slowest muscle in the body, and it changes nothing
+
+**The soleus is the clearest slow muscle in the human body.** In the biopsy series this document uses for
+fibre type, it was **82 ± 14% type I**, against 59% in the vastus lateralis and 22% in the triceps brachii of
+the same men (Part IX §A.6). Its type I fibres are also 30–40% larger in cross-section, and more irregular in
+shape, than the type I fibres of the arm or thigh (Soendenbroe et al., 2026).
+
+**And it has been tested here, which is unusual.** The proposal that a slow muscle should be trained with
+light loads was examined in the calf directly: 26 untrained men trained one leg at **6–10RM** and the other
+at **20–30RM** for eight weeks, and thickness changes were similar in the soleus and in both gastrocnemius
+heads — the authors conclude that the adaptive response was independent of fibre-type composition
+(Schoenfeld et al., 2020). A second comparison, 75% of one-repetition maximum against 20% with blood-flow
+restriction over four weeks, found the soleus indifferent (12–15% either way) while the lateral
+gastrocnemius responded only to the heavy load (12% against 4%) (Cidrais et al., 2026). **Moderate
+evidence** that load is a free choice for the soleus and **promising but under-replicated** that the
+gastrocnemius prefers the heavier end.
+
+**What fibre type does explain** is why the calf tolerates frequent training and recovers quickly from it
+(Part XII §E.6).
+
+---
+
+### A.7 The structures you cannot separate it from
+
+- **The Achilles tendon is part of the exercise.** All three muscles pull through it, and it is elastic
+  enough that a bounced repetition returns stored energy the muscle would otherwise have to supply as work,
+  and spends a fraction of the time in the stretched position (Part XII §B.8).
+- **The tibialis posterior and the peroneals** cross the ankle beside the triceps surae and contribute to
+  plantar flexion on much smaller levers and cross-sections; no calf exercise isolates them out, and none of
+  them is a hypertrophy target *[consensus — no single source]*.
+- **The plantaris is absent in a minority of people** and contributes negligible force *[consensus — no
+  single source]*. It is a footnote, not a target.
+- **The gastrocnemius belongs to the knee as well.** Part VII counts it in every leg curl, and ankle position
+  during a leg curl changes its contribution — which is the same fact this Part exploits in reverse.
+
+---
+
+### A.8 How the calves are injured
+
+1. **"[Tennis leg](#tennisleg)" — a strain at the join between the medial gastrocnemius and the soleus.** It comes from a
+   sudden overstretch or from repeated microtrauma, presents as sharp calf pain during push-off, is diagnosed
+   clinically and confirmed by ultrasound or magnetic resonance imaging, and is managed without surgery:
+   gradual stretching, eccentric strengthening and a progressive return over **6–12 weeks**, judged by
+   function rather than by the absence of symptoms (Schwach et al., 2026).
+2. **[Achilles tendinopathy](#achillestendinopathy)** is a tendon problem with its own loading literature, set out in the companion
+   document rather than here; the training implication for this Part is in Part XII §E.4.
+3. **Achilles rupture** is a surgical emergency, not a training decision. After one, the seated raise becomes
+   the useful exercise: in people with a repaired tendon, gastrocnemius activity no longer dropped in the
+   seated position the way it does in an uninjured leg (Zellers et al., 2020).
+4. **Nothing in this Part is a treatment.** Calf pain that appeared suddenly during a sprint, or a heel that
+   cannot push off, is an assessment before it is a programme.
+
+---
+
+### A.9 What the anatomy dictates, in nine lines
+
+1. **The gastrocnemius crosses the knee and the soleus does not** *[consensus — no single source]*.
+2. **The soleus is half or more of the group's volume**, in every dataset measured (Harper et al., 2025).
+3. **Bending the knee costs about 40% of plantar flexion torque** — 93 N·m against 154 N·m (Kovács et al., 2024).
+4. **The medial gastrocnemius is the larger and more pennate head**, the lateral has the longer fascicles (Faux-Dugan & Piazza, 2024).
+5. **The Achilles lever is about 4.8 cm and grows as the heel rises** (Faux-Dugan & Piazza, 2024).
+6. **The soleus is among the strongest muscles of the lower limb by architecture** (Ward et al., 2009a).
+7. **The soleus is about 82% type I**, the slowest muscle measured in this document (Part IX §A.6).
+8. **The gastrocnemius responds to knee position; the soleus responds to volume** (Part XII §A.5).
+9. **The commonest injury is a strain where the medial gastrocnemius meets the soleus**, managed conservatively over 6–12 weeks (Schwach et al., 2026).
+
+---
+
+## partxiibbiomechanics
+
+**PART B — Biomechanics — what actually loads the calves**
+
+### B.1 The joint actions, ranked
+
+| Rank | Action | What does it | Where it matters |
+|---|---|---|---|
+| 1 | **Ankle plantar flexion** — pushing the foot down against resistance | All three muscles, through the Achilles tendon | Every calf raise, every step, every jump. The only action that trains the group |
+| 2 | **Holding the knee straight while the ankle works** | Gastrocnemius, which loses its length and its leverage when the knee bends | The difference between a standing and a seated raise (Part XII §B.4) |
+| 3 | **Knee flexion** — bending the knee | Gastrocnemius, weakly, as a hamstring synergist | Leg curls (Part VII §A.3); it is not a way to train the calf |
+| 4 | **Storing and returning elastic energy** | The Achilles tendon, in series with all three muscles | Running and bounced repetitions, where the tendon supplies part of the work and the stretched position lasts milliseconds (Part XII §B.8) |
+| 5 | **Standing still** | Soleus, at very low force, continuously | Explains the calf's fatigue resistance, not its growth |
+
+**Read ranks 1 and 2 together.** Rank 1 is the only action that trains the calves. Rank 2 decides which of
+the three muscles is available to do it.
+
+---
+
+### B.2 Length — the ankle moves all three, the knee moves two
+
+```
+WHAT CHANGES TRICEPS SURAE LENGTH
+  ANKLE DORSIFLEXION   Heel down, toes up       LENGTHENS all three
+  ANKLE PLANTARFLEXION Heel up, toes pointed    SHORTENS all three
+  KNEE FLEXION         Bending the knee         SHORTENS the gastrocnemius only,
+                                                by moving its origin toward its
+                                                insertion. The soleus does not move
+  KNEE EXTENSION       Straightening the knee   LENGTHENS the gastrocnemius only
+  HIP POSITION         Anything                 NO CHANGE to any of the three
+```
+
+**The second and third rows are the whole Part.** A [seated calf raise](#seatedcalfraise) is not a calf raise performed sitting
+down: it is a calf raise with one of the two muscles taken out of the job, because bending the knee to 90°
+slackens the gastrocnemius before the set begins.
+
+**How much does that cost?** At the joint, about **40% of the available torque**: 93.1 ± 22.3 N·m with the
+knee flexed against 154.4 ± 37.8 N·m with it extended, in the same men (Kovács et al., 2024). At the muscle,
+[electromyography](#emg) agrees in direction — medial and lateral gastrocnemius activity was lower in a seated than
+a standing heel raise on an uninjured leg, while soleus activity did not differ (Zellers et al., 2020).
+
+---
+
+### B.3 Leverage and the strength curve
+
+**The lever grows as the heel rises, and so does the muscle's mechanical advantage — at exactly the point
+where the muscle is shortest.**
+
+```
+ACHILLES TENDON MOMENT ARM
+  Ultrasound + motion capture, 16 adults       (Faux-Dugan 2024)
+    Neutral ankle (0 deg)          47.5 +/- 9.3 mm
+    5 deg plantar flexion          49.1 +/- 9.4 mm
+    10 deg plantar flexion         50.2 +/- 9.7 mm
+    15 deg plantar flexion         51.7 +/- 9.5 mm
+  Ultrasound + motion capture, 10 men          (Manal 2013)
+    20 deg DORSIFLEXION            34.6 +/- 1.8 mm  <- smallest
+    rising through to 20 deg plantar flexion
+  -> the lever is smallest with the heel down and grows as the
+     heel rises; the two studies differ in magnitude because the
+     methods do, so use the shape and not the numbers
+```
+
+**Now read that against the external load, which moves the same way.** In a calf raise the external torque
+also falls as the heel rises — steeply (Part XII §B.7). **The two effects compound:** at the bottom of the
+range the resistance is at its largest and the muscle's lever at its smallest, and at the top the resistance
+is small and the lever long. Combining the measured moment arms with the geometry of the foot, the tendon
+force a given weight demands at 25° of dorsiflexion is **roughly two and a half times** what the same weight
+demands at 30° of plantar flexion.
+
+**That is the mechanical case for the bottom of the range**, and it is confirmed by measurement rather than
+inference: in eighteen adults with participant-specific moment arms from magnetic resonance imaging, peak
+dorsiflexion angle predicted peak Achilles tendon force, and the effect was about twice as large standing as
+seated (Yeh et al., 2021).
+
+**The practical consequence.** A calf raise does not need a cam, a band or a special angle to make the
+stretched position the hard one: the foot's geometry and the tendon's do it. What it needs is for the lifter
+to *use* the bottom, which is the error of Part XII §C.2.
+
+---
+
+### B.4 What decides whether an exercise grows them
+
+**Two variables have been isolated, and both answers are large.**
+
+```
+WHAT CHANGES TRICEPS SURAE GROWTH
+  1. KNEE POSITION - ONE WITHIN-PARTICIPANT MRI TRIAL
+     Kinoshita 2023  14 untrained adults, 12 wk, 2x/wk, 5 x 10 at 70% 1RM
+                     one leg STANDING (knee straight), one leg SEATED
+                     (knee 90 deg), muscle VOLUME by MRI
+                       Lateral gastrocnemius   +12.4%  vs  +1.7%
+                       Medial gastrocnemius     +9.2%  vs  +0.6%
+                       Whole triceps surae      +5.6%  vs  +2.1%
+                       Soleus                   +2.1%  vs  +2.9%  (n.s.)
+                     The seated leg's gastrocnemius did not grow at all
+                     (p = 0.147-0.508)
+
+  2. WHICH PART OF THE ANKLE'S RANGE - ONE THREE-ARM TRIAL
+     Kassiano 2023   42 untrained women, 8 wk, 3x/wk, 3 x 15-20RM,
+                     leg-press calf raise
+                       STRETCHED half (-25 to 0 deg)   MG +15.2%  LG +14.9%
+                       FULL range    (-25 to +25 deg)  MG  +6.7%  LG  +7.3%
+                       SHORTENED half (0 to +25 deg)   MG  +3.4%  LG  +6.2%
+                     Stretched half beat full range and shortened half
+                     in the medial head (p <= 0.009)
+
+  3. HOW MANY SETS - ONE THREE-ARM TRIAL
+     Kassiano 2024   61 untrained women, 6 wk, 3x/wk, 15-20RM
+                       12 sets/wk vs 6 sets/wk:
+                         Lateral gastrocnemius  +14.3% vs +8.1%
+                         Soleus                 +12.7% vs +6.7%
+                         Summed triceps surae   +12.0% vs +6.9%
+                         Medial gastrocnemius   +9.9% vs +6.6% (n.s.)
+                       9 sets differed from neither
+
+  4. PARTIAL REPETITIONS PAST FAILURE - THREE TRIALS
+     Larsen 2025e    23 untrained men, 10 wk, 4 sets 2x/wk: sets to
+                     failure vs the same PLUS past-failure partials in
+                     the lengthened position
+                     medial gastrocnemius  +6.7%  vs  +9.6%
+                     ATE 0.62 mm [0.21-1.0], BAYES FACTOR 13.3
+                     = 'strong' evidence FOR the extra partials
+     Larsen 2025d    23 TRAINED adults, 8 wk: initial partials vs full
+                     range plus past-failure partials
+                     medial gastrocnemius  +9.5%  vs  +6.7%
+                     ATE 0.40 mm [-0.06, 0.85], Bayes factor 1.2
+                     - anecdotal
+     Goli 2026       16 untrained men, 10 wk, VOLUME-LOAD EQUATED:
+                     equivalent thickness change (~8% both), but more
+                     growth per set for the partials condition
+                     (0.16% vs 0.08% per set)
+```
+
+**How to read them.**
+
+- **The knee decides which muscle you are training, and the effect is nearly all-or-nothing.** A seated raise
+  did not grow the gastrocnemius measurably in twelve weeks; a standing raise grew it 9–12% in the same
+  people (Kinoshita et al., 2023). **Moderate evidence** — one trial, fourteen untrained adults, but a
+  within-participant design with muscle volume measured by magnetic resonance imaging, which is the strongest
+  design in this document.
+- **The stretched half of the range is worth two to four times the shortened half.** Training −25° to 0° of
+  ankle angle produced **+15.2%** in the medial gastrocnemius against **+3.4%** for 0° to +25°, and beat full
+  range as well (Kassiano et al., 2023b). **Moderate evidence** — one trial, 42 untrained women, ultrasound.
+  **Caveat:** the stretched-half group trained the same number of repetitions over half the distance, so
+  repetition duration and total work were not matched.
+- **The soleus takes what the gastrocnemius will not.** It was indifferent to knee position (Kinoshita et
+  al., 2023) and responsive to set count, gaining nearly twice as much at twelve weekly sets as at six
+  (Kassiano et al., 2024b).
+- **Lengthened partials after failure add growth, and that is the strongest single result in this Part.**
+  Continuing a set past [momentary failure](#momentaryfailure) with partial repetitions in the dorsiflexed position grew the
+  medial gastrocnemius **9.6% against 6.7%**, with a Bayes factor of 13.3 — "strong" evidence (Larsen et al.,
+  2025e). **Moderate evidence**: one trial, 23 untrained men. What the other two add is that the advantage
+  may be a volume effect rather than a stretch effect — with volume load equated the two were equivalent
+  (Goli et al., 2026), and against *initial* partials the past-failure version came out slightly behind
+  (Larsen et al., 2025d).
+
+> **The rule this section licenses.** Train the calf with the knee straight if you want the gastrocnemius,
+> use the whole range from a deep heel-down position, give the soleus its own sets — seated or otherwise —
+> because volume rather than position is what moves it, and when a set reaches failure, consider continuing
+> with partial repetitions in the heel-down half. **Moderate evidence** for all four.
+
+---
+
+### B.5 The steering wheels — knee angle, range, and set count
+
+| Variable | What the mechanics predict | What was measured |
+|---|---|---|
+| **Knee angle** | Bending the knee slackens the gastrocnemius and removes it from the job | Gastrocnemius volume +9–12% standing against no measurable change seated; soleus the same either way (Kinoshita et al., 2023) |
+| **Which part of the ankle range** | The stretched end is where the external torque is highest and the muscle longest | The stretched half beat the shortened half by 15.2% to 3.4% in the medial gastrocnemius (Kassiano et al., 2023b) |
+| **Weekly sets** | More stimulus, up to a recovery limit | Twelve weekly sets beat six in the lateral gastrocnemius, soleus and the group as a whole (Kassiano et al., 2024b) |
+| **Speed of the repetition** | A fast rebound shortens the time spent stretched and lets the tendon return part of the work | Not measured as a training variable in the calf; each running step holds the tendon above its strain threshold for about 90 ± 40 ms and returns 7.8–11.3 J (Kharazi et al., 2021) |
+| **Load** | Any load taken close to failure should work | Tested here: 6–10RM and 20–30RM produced similar thickness changes in the soleus and both gastrocnemius heads over eight weeks (Schoenfeld et al., 2020) |
+| **Long-duration stretching** | Passive tension is mechanical tension | Six weeks of stretching the plantar flexors an hour a day matched conventional calf training for strength and thickness (Warneke et al., 2023b); a second six-week comparison found thickness rising **only** in the training group (Murakami et al., 2025). **Evidence remains limited and inconsistent** |
+
+**The rule, in one line.** The knee decides which muscle, the range decides how much of it, the set count
+decides how fast — and nothing about the calf requires a special machine.
+
+---
+
+### B.6 The stimulus map for the calves
+
+```
+                    KNEE      GASTROC      SOLEUS    HEEL DROPS    EVIDENCE
+                              TRAINED?     TRAINED?  BELOW LEVEL?
+STANDING CALF       Straight  YES, best    Yes       Yes, on a     MRI volume
+RAISE                         evidence               step          trial (B.4)
+LEG-PRESS CALF      Straight  Yes          Yes       Yes           ROM and volume
+RAISE (knee near              (inferred)                           trials (B.4)
+straight)
+SMITH-MACHINE       Straight  Yes          Yes       Yes, on a     Partials trial
+CALF RAISE                                        step          (B.4)
+DONKEY CALF RAISE   Straight  Yes          Yes       Yes           None
+SEATED CALF RAISE   Bent 90   NO           Yes       Yes           MRI volume
+                                                                   trial (B.4)
+SINGLE-LEG BODY-    Straight  Yes          Yes       Yes, on a     None; load is
+WEIGHT RAISE                                      step          body weight
+JUMPING, SKIPPING   Varies    Partly       Partly    No            Tendon recoil
+                                                                   dominates (B.8)
+WALKING, RUNNING    Varies    No training  No        No            Tendon force
+                              stimulus     training                1.99-2.56 kN
+LEG CURL            Bent      No (it is a  No        No            Part VII
+                              knee action)
+```
+
+**Read the first and fifth rows together.** They are the same movement with the knee in two positions, and
+the knee position is the difference between training two muscles and training one.
+
+---
+
+### B.7 Resistance profiles
+
+A [resistance profile](#resistanceprofile) for the calves is the external plantar-flexion torque about the ankle as a function of
+ankle angle. In a calf raise the foot pivots on the ball while the ankle joint sits **behind and above** that
+pivot, so:
+
+> M_ankle(θ) = m_load × g × (a·cos θ − h·sin θ)   (N·m)
+>
+> where m_load = the mass supported (kg), g = 9.81 m·s⁻², **a** = the horizontal distance from the forefoot
+> pivot back to the ankle joint (about 12 cm), **h** = the height of the ankle joint above the pivot (about
+> 7 cm), and θ = plantar flexion angle, negative in dorsiflexion
+
+**The height term is what makes the calf raise a stretch-loaded exercise.** Ignore it — treat the foot as a
+flat lever — and the profile looks symmetrical about the flat-foot position. Include it, and the external
+moment arm falls away steeply as the heel rises, because the ankle travels forward over the pivot as well as
+upward.
+
+| Ankle angle | External torque, share of the flat-foot value | Achilles lever |
+|---|---|---|
+| **−25°** (deep heel-down) | **115%** | Smallest — 34.6 mm at 20° of dorsiflexion (Manal et al., 2013) |
+| **0°** (flat) | 100% | 47.5 mm in one series (Faux-Dugan & Piazza, 2024) |
+| **+15°** | 81% | 51.7 mm in the same series |
+| **+30°** | 57% | Larger still |
+| **+45°** (full point) | 30% | Largest |
+
+*(Computed with a = 12 cm and h = 7 cm; the shape holds for every plausible foot, because it depends only on
+the ankle sitting above the pivot. The peak of the curve lies at about 30° of dorsiflexion — past the end of
+almost everyone's range, which is why the torque only ever descends through the range a lifter can use.)*
+
+**Three things follow, and the third is the practical one.**
+
+- **The calf raise is stretch-loaded by construction, and strongly so.** The resistance falls to under a
+  third of its bottom-of-range value by full plantar flexion, and the muscle's own lever grows at the same
+  time, so the force the tendon must carry at 25° of dorsiflexion is about **two and a half times** what it
+  carries at 30° of plantar flexion.
+- **No calf exercise needs a cam or a band to load the stretch.** Gravity and the foot's geometry already do
+  it, in every version of the exercise, seated or standing.
+- **The exercise gives up most of its load if the heel does not go down.** A repetition performed between 0°
+  and full plantar flexion spends its time in the part of the profile worth 30–100% of the bottom-of-range
+  torque, and it trains the half of the range that the three-arm trial found worth 3.4% growth in eight
+  weeks, against 15.2% for the half below it (Kassiano et al., 2023b). **That is the largest penalty for a
+  shortened range measured anywhere in this document.**
+
+**Two profiles that differ.** A seated raise has the same shape with the gastrocnemius removed, and at a
+fraction of the tendon load: a scoping review of measured and modelled tendon forces puts the single-leg
+standing heel raise at **3–5.12 times body weight** through the Achilles and the seated heel raise at
+**0.41–0.5** (Escriche-Escuder et al., 2022). A **leg-press calf raise** pushes along the sled's line rather
+than against gravity's, so its torque profile is set by the angle between the sled and the foot instead — the
+trials that used it kept the knee near straight, which keeps the gastrocnemius in the exercise (Kassiano et
+al., 2023b).
+
+---
+
+### B.8 Walking, running and the tendon — why neither trains the calf
+
+**The calf is the one muscle group most people load every day, and the loading is not training.**
+
+| What was measured | Result |
+|---|---|
+| Achilles tendon force in walking at 1.4 m·s⁻¹ and running at 2.5 and 3.5 m·s⁻¹, 11 adults | Peak force **1.99–2.56 kN**, peak strain **4.0–4.9%** — which the authors describe as "insufficient in magnitude to be considered as an effective stimulus for tendon adaptation" (Kharazi et al., 2021) |
+| Elastic energy returned per step | **7.8–11.3 J** during propulsion, plus 1.7–1.9 J early in stance — energy the tendon gives back rather than force the muscle produces (Kharazi et al., 2021) |
+| Loading that did change the tendon | Around **90% of maximal voluntary contraction** at 4.5–6.5% tendon strain across 16 weeks — in a trial whose every arm used that intensity, varying only [frequency](#trainingfrequency) and volume (Tsai et al., 2024) |
+
+**How to read this, carefully.** The forces are not small: 2.0–2.6 kN through the Achilles is **60–80% of
+what a maximal voluntary plantar flexion can produce** by the arithmetic of Part XII §B.9, and running
+normalized muscle activity in that study reached 0.73–0.80 of maximum. **So the case against counting
+running as calf training is not that the forces are trivial** — it is that each step holds them for about
+**90 ± 40 ms**, against the two or three seconds a training repetition spends under load (Kharazi et al.,
+2021), that the tendon returns a large share of the work rather than the muscle producing it, and that
+nothing about the dose progresses or approaches failure. Walking, at 0.31–0.38 of maximum activity, fails the
+force test as well.
+
+**The same duration argument is why the repetition is paused.** A fast rebound at the bottom spends a few
+tens of milliseconds in the stretched position instead of a full second, and returns stored elastic energy
+that the muscle would otherwise have to produce as work. **A mechanical inference** — no trial has compared
+bounced with paused calf raises for growth.
+
+---
+
+### B.9 A worked example, so the numbers are not abstract
+
+**Question:** how much force does a single-leg body-weight calf raise ask for?
+
+**Step 1 — the external torque.** Take an 80 kg lifter standing on one foot, with the ankle joint about
+**12 cm** behind the ball of the foot and **7 cm** above it, at the flat-foot position:
+
+```
+  M = 80 kg x 9.81 m/s2 x 0.12 m  =  94.2 N.m       at the flat foot
+  and, at 25 deg of dorsiflexion, x 0.138 m = 108 N.m
+```
+
+**Step 2 — the muscle force that implies.** Divide by the Achilles lever (Part XII §A.3), 4.75 cm flat and
+about 3.5 cm dorsiflexed:
+
+```
+  94.2 / 0.0475  =  1,983 N   flat foot   (~2.5 x body weight)
+  108  / 0.035   =  3,090 N   heel down   (~3.9 x body weight)
+```
+
+**Step 3 — check it against measurement.** A scoping review of in vivo and modelled tendon forces reports
+**3–5.12 times body weight** through the Achilles in single-leg heel raising and lowering, and **0.41–0.5**
+in the seated version (Escriche-Escuder et al., 2022) — so the arithmetic above lands inside the measured
+range at the bottom of the repetition and slightly below it flat-footed.
+
+**Step 4 — read it against what the joint can do.** Maximal isometric plantar flexion torque was **154 N·m**
+with the knee straight in young men (Kovács et al., 2024), so a single-leg body-weight raise is roughly
+**60% of a maximal effort flat-footed and 70% with the heel down** — heavy enough to be a real set, which is
+why a trained calf needs either added load or a lot of repetitions.
+
+**Interpretive caution:** this treats the foot as a rigid two-segment lever, takes the moment arms from two
+different laboratories, and ignores the tibialis posterior and the peroneals. It is a scale, not an
+accounting.
+
+---
+
+### B.10 Setup variables
+
+| Variable | Effect | Evidence |
+|---|---|---|
+| **Knee angle** | Straight trains the gastrocnemius and the soleus; bent trains the soleus | +9–12% vs no measurable gastrocnemius growth over 12 weeks (Kinoshita et al., 2023) |
+| **How far the heel drops** | Sets how much of the stretched half is trained | The stretched half beat the shortened half 15.2% to 3.4% (Kassiano et al., 2023b) |
+| **Step height under the forefoot** | Determines whether the heel *can* drop below level | Mechanical (Part XII §B.7) |
+| **Foot rotation (toes in or out)** | Claimed to shift work between the heads | **Tested, and it works — a little.** Nine weeks of unilateral leg-press calf raises: toes out grew the medial head more (+8.4% against +3.8% toes in), toes in grew the lateral head more (+9.1% against +5.5% toes out), both differences significant (Nunes et al., 2020b). **Promising but under-replicated** — one trial, 22 young men |
+| **Repetition speed** | A rebound shortens the time under stretch and returns part of the work elastically | Mechanical (Part XII §B.8) |
+| **Load** | Heavy and light produced the same growth | 6–10RM against 20–30RM, similar in all three muscles over eight weeks (Schoenfeld et al., 2020) |
+| **Shoes** | A stiff, raised heel shortens the working range before the floor stops it | Mechanical; no trial |
+
+---
+
+### B.11 What EMG can and cannot settle here
+
+**The calf is easy to record and the recordings answer a narrower question than they appear to.** Three
+problems sit on top of the general EMG–hypertrophy dissociation of Part II §B.11.
+
+**First, the soleus is partly under the gastrocnemius.** Surface electrodes over the lower calf pick it up
+where it emerges, and the estimate depends on where the electrode sits.
+
+**Second, activation does not predict growth.** The clearest case in this Part is that a seated raise
+produces real gastrocnemius activation (Zellers et al., 2020), yet twelve weeks of it produced no measurable
+gastrocnemius growth (Kinoshita et al., 2023).
+
+**Third, the tendon carries part of every repetition.** In dynamic work the muscle and the tendon exchange
+length, so the signal and the muscle's actual length change are not in step (Kharazi et al., 2021).
+
+**What EMG has shown, and how far it goes.**
+
+| What was recorded | Result | What it predicts | What the training data say |
+|---|---|---|---|
+| Standing vs seated heel raise, 10 people with a previous Achilles rupture | Gastrocnemius activity lower seated on the uninjured side; soleus unchanged (Zellers et al., 2020). **Caveat:** the seated task was one-legged and the standing task two-legged, and every participant had a repaired tendon | Seated raises spare the gastrocnemius | Confirmed, and more strongly: seated raises did not grow it (Kinoshita et al., 2023) |
+| Stretched vs unstretched start, within standing and within seated, 10 men | Lateral head higher when the standing raise started stretched; medial head higher when the seated raise started unstretched (Paz et al., 2021). The study made no standing-against-seated comparison | Head-specific targeting by start position | Foot rotation does change head-specific growth (Nunes et al., 2020b); start position has not been tested for growth |
+
+---
+
+### B.12 The mechanical checklist
+
+Apply these to any calf exercise.
+
+1. **Is the knee straight?** If it is bent, the gastrocnemius is out and you are training the soleus
+   (Part XII §B.2).
+2. **Can the heel drop below the forefoot?** If not, the half of the range that matters most is missing
+   (Part XII §B.7).
+3. **Does the repetition stop at the bottom?** A bounce spends milliseconds where a pause spends a second,
+   and hands part of the work to the tendon (Part XII §B.8).
+4. **How many sets a week is this muscle actually getting?** Twelve beat six in the only dose trial
+   (Part XII §B.4).
+5. **Is the top of the range being chased?** It is the easiest part of the profile and the least productive
+   part of the range (Part XII §B.7).
+
+---
+
+## partxiictherepspecified
+
+**PART C — The rep, specified**
+
+### C.1 The two calf reps
+
+Every exercise in Part XII §D is one of two reps: one with the knee straight, which trains both muscles, and
+one with the knee bent, which trains the soleus alone. **A complete week has both, and the first is the one
+that decides whether the visible calf changes.**
+
+**Rep 1 — the straight-knee calf raise.** Standing, on a [Smith machine](#smithmachinesquat), in a [leg press](#legpress) or on a dedicated
+machine — the position of the body does not matter, only that the knee stays straight and the heel can drop.
+
+```
+THE STRAIGHT-KNEE CALF RAISE
+  Set-up   Forefoot on a step or platform, heel free to drop below it.
+           Knee straight, not locked hard. Weight through the ball of
+           the foot, not the toes.
+  Descent  2-3 s, letting the heel sink as far as the ankle allows.
+           This is the half of the range worth four times the other
+           (Part XII B.4).
+  Bottom   Pause 1 s. No bounce: a rebound spends milliseconds in the
+           stretched position where a pause spends a second, and lets
+           the tendon return part of the work (Part XII B.8).
+  Ascent   1-2 s to full plantar flexion.
+  Top      No pause needed; the external torque there is about 70% of
+           what it was at the bottom of the range.
+  Breath   Free.
+  Progress Load first, then repetitions, then sets.
+```
+
+**Why each line is there.** The knee stays straight because bending it removed all measurable gastrocnemius
+growth in twelve weeks (Kinoshita et al., 2023). The heel drops because the stretched half of the range grew
+the medial gastrocnemius 15.2% against 3.4% for the shortened half (Kassiano et al., 2023b). The pause is
+there because each running step holds the tendon above its strain threshold for only **90 ± 40 ms** while
+returning 8–11 J elastically (Kharazi et al., 2021), and a bounced repetition does the same thing — **a
+mechanical inference**, since no trial has compared paused with bounced calf raises.
+
+**Rep 2 — the bent-knee (seated) calf raise.** The same movement with the knee at about 90°.
+
+```
+THE SEATED CALF RAISE
+  Set-up   Knee at about 90 deg, pad low on the thigh, forefoot on the
+           platform with the heel free.
+  Descent  2-3 s to a full heel drop.
+  Bottom   Pause 1 s.
+  Ascent   1-2 s to full plantar flexion.
+  Rule     This is a SOLEUS exercise. It is not a substitute for rep 1
+           and does not train the visible gastrocnemius (Part XII B.4).
+  Progress Load, then repetitions. The soleus responded to set count
+           more than to anything else (Part XII B.4).
+```
+
+**Why it is in the programme at all.** The soleus is half or more of the muscle group's volume (Part XII
+§A.1), it grew 6.7–12.7% in six weeks when set count was the only variable (Kassiano et al., 2024b), and it
+grew the same amount whether the knee was bent or straight (Kinoshita et al., 2023) — so the seated raise is
+a way of giving it sets without adding more straight-knee work to an already loaded ankle.
+
+---
+
+### C.2 The technical errors, in order of how much they cost
+
+| # | Error | What it costs | Fix |
+|---|---|---|---|
+| 1 | **Not letting the heel drop** | Throws away the half of the range worth 15.2% against 3.4% in eight weeks (Kassiano et al., 2023b) | Forefoot on a step, heel below the platform on every repetition |
+| 2 | **Doing all the calf work seated** | Removes the gastrocnemius from the programme: it did not measurably grow in twelve weeks of seated training (Kinoshita et al., 2023) | At least one straight-knee exercise every week |
+| 3 | **Bouncing out of the bottom** | Replaces muscle force with tendon recoil in the one part of the range that matters (Part XII §B.8) | A one-second pause with the heel down |
+| 4 | **Chasing the top of the range** | The part of the profile where external torque is lowest and the muscle is shortest | Full plantar flexion, then straight back down without a held squeeze |
+| 5 | **Letting the knee bend during a standing raise** | Converts rep 1 into rep 2 without noticing | Watch the knee, not the heel, on the last repetitions |
+| 6 | **Counting walking, running or jump rope as calf training** | High forces held for milliseconds, with the tendon returning much of the work and nothing progressing (Part XII §B.8) | Count nothing that is not a calf raise (Part XII §F.1) |
+| 7 | **Training the calf once a week with three sets** | Six weekly sets was beaten by twelve in the only dose trial (Kassiano et al., 2024b) | 8–14 weekly sets, split across two or three sessions |
+| 8 | **Rising onto the toes rather than the ball of the foot** | Moves the pivot forward, which *increases* the calf's task and loads the toes and forefoot joints with it — heavier, but not where you wanted it | Pressure through the ball, toes relaxed |
+
+**Errors 1, 3 and 4 are the same error in three costumes**: each one avoids the stretched half. Errors 2 and 6
+are bookkeeping failures — training that feels like calf work and is not.
+
+---
+
+### C.3 Prerequisites — can you actually reach the positions?
+
+**One check: how far the ankle bends.** Kneel one foot in front of a wall and drive the knee forward over the
+toes, heel down. The distance from the wall at which the knee still touches is the weight-bearing lunge
+test — reliable, and now with norms in 899 adults across three countries, where dorsiflexion declined with
+age from the sixties onward and men measured slightly more than women (McBride et al., 2026).
+
+*If the range is small:* it changes nothing about the prescription except its depth. Use the range you have,
+with the forefoot on a step so the heel can drop as far as the ankle allows.
+
+*If the range is small **and** there is pain at the front of the ankle:* that is an assessment question, not
+a training one.
+
+**A note on stretching.** Long-duration stretching of the plantar flexors is not only a flexibility
+intervention: six weeks of one hour a day matched conventional calf training for strength and thickness in
+one trial (Warneke et al., 2023b), while a second six-week comparison found [muscle thickness](#musclethickness) rising only in
+the training group (Murakami et al., 2025). **Evidence remains limited and inconsistent**, and the dose is
+the practical objection either way — up to seven hours a week of stretching against forty-five minutes of
+training.
+
+---
+
+### C.4 Cues — which ones work and which ones harm
+
+| Cue | Verdict | Why |
+|---|---|---|
+| "Let the heel sink all the way" | **Useful, and the most valuable cue in this Part** | The stretched half is where the growth was (Kassiano et al., 2023b) |
+| "Straight knee" | **Useful** | It is the difference between training the gastrocnemius and not (Kinoshita et al., 2023) |
+| "Pause at the bottom" | **Useful** | It keeps the muscle in the stretched position for a second instead of milliseconds, and removes the tendon's elastic contribution to the work — **a mechanical inference** (Part XII §B.8) |
+| "Squeeze at the top" | **Situational** | Harmless, but the external torque there is about 70% of the bottom-of-range value |
+| "Point the toes in or out to hit the heads" | **Promising but under-replicated** | Toes out grew the medial head more and toes in the lateral head more, over nine weeks in 22 men (Nunes et al., 2020b) — a small effect on which head, not on how much calf |
+| "High reps only, the calf is a slow muscle" | **Not supported** as a reason | Fibre type does not set the rep range (Part II §F.3); the trials used 15–20 repetitions because that is what they chose, not because it was compared against anything |
+| "You walk on them all day, so they need huge volume" | **Not supported** | Walking loads the tendon below its adaptation threshold (Kharazi et al., 2021), and twelve weekly sets was enough to grow the group 12% in six weeks (Kassiano et al., 2024b) |
+
+---
+
+### C.5 The limiting links
+
+| Exercise | What usually ends the set | Fix |
+|---|---|---|
+| **Standing calf raise, machine** | The calves, as designed | Nothing |
+| **Standing calf raise with a barbell or dumbbells** | Balance and grip, before the calves | Use a machine, a Smith machine or a leg press |
+| **Leg-press calf raise** | The calves, with the knee near straight | Keep the knee from bending as fatigue arrives |
+| **Single-leg body-weight raise** | The calves, eventually — it is about 60–70% of a maximal effort (Part XII §B.9) | A real set for most people, but one that needs high repetitions; add load once it takes more than about 25 |
+| **Seated calf raise** | The soleus, and the pad on the thigh | Pad low on the thigh, not on the knee |
+| **Jumping or skipping** | Breathing and the shins | It is conditioning; count it as zero calf sets (Part XII §F.1) |
+
+---
+
+### C.6 The Achilles tendon during a calf set
+
+**The tendon is in series with the muscle, so it takes some of every repetition.** Three practical
+consequences.
+
+- **Speed changes who does the work.** The faster the turnaround at the bottom, the more of the load is
+  returned by tendon recoil rather than produced by muscle (Kharazi et al., 2021).
+- **Tendons adapt to different loading than muscles.** The Achilles adaptation study in this Part used about
+  90% of maximal voluntary contraction at 4.5–6.5% strain across sixteen weeks (Tsai et al., 2024) — heavier
+  and slower than hypertrophy work. **Caveat:** every arm of that trial used the same high intensity and
+  varied only frequency and volume, so it shows what worked at 90%, not that less would fail. If the tendon
+  is the goal, the companion document's tendon section is the place to look.
+- **Tendon pain is not muscle soreness.** Pain localized to the tendon, worst at the start of activity and
+  eased once warm, is the presentation in Part XII §E.4, and it changes the loading rather than stopping it.
+
+---
+
+### C.7 How to know it worked
+
+**Within the set.** The bottom of the range is the hard part and the top is easy. If the top is the hard
+part, the heel is not dropping far enough.
+
+**Across weeks.**
+
+- **Load or repetitions rise at the same depth and the same pause.** Depth first: a heavier load with a
+  shorter heel drop is a downgrade, not progress.
+- **Measure at a fixed point.** Every trial in this Part used ultrasound at a marked site or magnetic
+  resonance imaging; a tape around the widest part of the calf conflates the two muscles and the fat over
+  them.
+- **Expect the gastrocnemius to move before the soleus does.** In twelve weeks of standing raises the two
+  gastrocnemius heads grew 9–12% and the soleus 2% (Kinoshita et al., 2023); in six weeks of high-volume
+  training the soleus grew 12.7% (Kassiano et al., 2024b). The difference between those two results is set
+  count, not time.
+- **Not soreness.** The calf gets sore easily from unaccustomed downhill walking, which trains nothing
+  (Part XII §B.8).
+
+---
+
+## partxiidexercisecatalogue
+
+**PART D — Exercise catalogue**
+
+Every entry gives the knee position that defines it, whether the heel can drop below the forefoot, and the
+failure mode. **Entries are grouped by knee angle**, because that is the variable the one volume-measured
+trial separated (Part XII §B.4).
+
+A warning that applies to the whole catalogue: **only three calf exercises have been used in a training trial
+in this document — the standing raise, the seated raise and the leg-press calf raise.** Everything else below
+is classified by the same mechanics and says so.
+
+---
+
+### D.1 Straight-knee raises — the category that grows the visible calf
+
+#### Standing calf raise (machine, Smith machine or dedicated unit)
+**Knee:** straight. **Heel drop:** yes, with the forefoot on a step.
+**Role:** the reference exercise of this Part. It is the exercise that grew the lateral gastrocnemius 12.4%
+and the medial 9.2% in twelve weeks, against no measurable growth from its seated counterpart (Kinoshita et
+al., 2023).
+
+*Setup.* Forefoot on the platform, knee straight, pad on the shoulders or hips.
+*Execution.* Full heel drop, one-second pause, full plantar flexion (Part XII §C.1).
+*Failure mode.* The knee bending as the set gets hard, which quietly converts it into Part XII §D.2.
+
+#### Leg-press calf raise
+**Knee:** near straight — the trials that used it kept it so. **Heel drop:** yes.
+*Reality.* The exercise used in both of the range and volume trials (Kassiano et al., 2023b). The sled's line
+of action replaces gravity's, so the torque profile is set by the sled angle, but the muscle mechanics are
+the standing raise's.
+*Advantage.* No spinal loading and no balance demand, which makes it the easiest place to add sets.
+
+#### Smith-machine calf raise
+**Knee:** straight. **Heel drop:** yes, with a step.
+*Reality.* The exercise used in the trained-participant partials trial (Larsen et al., 2025d). Mechanically
+the standing raise with the bar path fixed.
+
+#### Donkey calf raise
+**Knee:** straight, hips flexed. **Heel drop:** yes.
+*Reality.* A standing raise with the trunk horizontal. No trial. The hip position does not change either
+muscle's length (Part XII §B.2), so it is a standing raise with a different way of holding the load.
+
+#### Single-leg body-weight calf raise
+**Knee:** straight. **Heel drop:** yes, on a step.
+*Reality.* About **60% of a maximal effort** flat-footed and **70%** with the heel down for an 80 kg lifter
+(Part XII §B.9), and a scoping review puts single-leg heel raising at 3–5.12 times body weight through the
+Achilles (Escriche-Escuder et al., 2022). It is a genuine set, taken to high repetitions; add load when the
+repetitions run past about 25.
+
+---
+
+### D.2 Bent-knee raises — the soleus category
+
+#### Seated calf raise
+**Knee:** about 90°. **Heel drop:** yes.
+*Reality.* **Not a substitute for the standing raise.** Twelve weeks of it produced no measurable
+gastrocnemius growth, while soleus growth matched the standing condition (Kinoshita et al., 2023).
+*Role.* A way to give the soleus — half or more of the group's volume — its own sets without adding more
+straight-knee work.
+*Failure mode.* A pad placed on the kneecap rather than low on the thigh.
+
+#### Leg-press calf raise with the knees bent
+**Knee:** bent. **Heel drop:** yes.
+*Reality.* A seated calf raise performed in a leg press. It has the same standing-versus-seated consequence,
+and it is the commonest way people accidentally turn a straight-knee exercise into a soleus exercise.
+
+---
+
+### D.3 Exercises people miscount
+
+| Exercise | What people assume | Reality |
+|---|---|---|
+| Walking and running | "My calves work all day" | The forces are real — 1.99–2.56 kN, 60–80% of a maximal plantar flexion — but each step holds them for about 90 ms, the tendon returns 8–11 J of the work, and nothing progresses (Kharazi et al., 2021). **Zero** calf sets |
+| Jump rope, pogo hops, plyometrics | "That is calf training" | A stretch–shortening task in which the tendon supplies much of the work and the stretched position lasts milliseconds (Part XII §B.8). **Zero** calf sets, and charge the ankle's recovery anyway |
+| Leg curls | "The gastrocnemius crosses the knee" | It does, and knee flexion **shortens** it. A leg curl is a hamstring exercise (Part VII §A.3). **Zero** |
+| Squats, deadlifts, lunges | "The calves stabilize" | Isometric holding at low torque and no ankle range. **Zero** |
+| Seated raises, counted as calf training in general | "I train calves twice a week" | They train the soleus only (Kinoshita et al., 2023). **Count them for the soleus, not the gastrocnemius** |
+| Standing on a step stretching the calf | "Stretching builds them" | It can, but at a dose nobody does: six hours a week of it matched a 45-minute-a-week training programme (Warneke et al., 2023b) |
+
+---
+
+### D.4 Selection rules
+
+1. **At least one straight-knee exercise every week, always.** It is the only category shown to grow the
+   gastrocnemius (Kinoshita et al., 2023).
+2. **Use a step.** Without a heel drop the exercise trains the half of the range worth 3.4% rather than the
+   half worth 15.2% (Kassiano et al., 2023b).
+3. **Give the soleus its own sets.** It is half the muscle group, it responds to set count, and it is
+   indifferent to knee position (Part XII §B.4) — so seated work is an efficient way to add volume that the
+   knee-straight exercise would otherwise have to carry.
+4. **Choose the exercise by where the load sits, not by its name.** Machine, Smith machine, leg press and
+   donkey raises are the same mechanics with different ways of holding the weight.
+5. **Do not count anything that is not a calf raise.** Walking, running and jumping are loading below the
+   training threshold (Part XII §B.8).
+6. **When a set reaches failure, consider continuing with heel-down partials.** Doing so grew the medial
+   gastrocnemius 9.6% against 6.7% over ten weeks, with "strong" Bayesian support (Larsen et al., 2025e) —
+   though with volume load equated the advantage disappeared (Goli et al., 2026), so it may be a way of
+   adding work rather than a special stimulus.
+
+---
+
+## partxiiecontextmodifiers
+
+**PART E — Context modifiers — when "perfect" changes**
+
+### E.1 Goal contexts
+
+| Goal | What changes | Why |
+|---|---|---|
+| **Calf size** | The default: one straight-knee exercise and one seated, 8–14 weekly sets, full heel drop | The knee-position and range trials (Part XII §B.4) |
+| **The visible calf specifically** | Straight-knee work only, and more of it | The gastrocnemius is the part that shows and the part that needs the knee straight (Kinoshita et al., 2023) |
+| **Ankle strength for sport** | Keep the range full and add load | Heavy and light loads grew the calf alike (Schoenfeld et al., 2020), so load is chosen for the strength goal rather than for the growth |
+| **Running economy** | Train the calf, but expect the tendon rather than the muscle to carry the transfer | Elastic recoil supplies 7.8–11.3 J per step (Kharazi et al., 2021); sprinters have longer Achilles moment arms than distance runners (Kovács et al., 2025) |
+| **Achilles tendon health** | Heavier, slower loading than hypertrophy work | The protocols that changed tendon properties used ~90% of maximal voluntary contraction at 4.5–6.5% strain over sixteen weeks (Tsai et al., 2024); no lighter arm was tested |
+| **Minimum effective dose** | One straight-knee exercise, 6 weekly sets | Six sets grew the group 6.9% in six weeks against 12.0% for twelve (Kassiano et al., 2024b) — a floor, not a target |
+
+---
+
+### E.2 Body contexts
+
+| Context | What changes | Why |
+|---|---|---|
+| **Little ankle dorsiflexion** | Use the range you have, on a step; do not force the heel down with body weight | Dorsiflexion declines with age and varies widely between people (McBride et al., 2026) |
+| **A long Achilles tendon and a short muscle belly** | Nothing in the prescription; the shape of the calf is largely where the muscle ends, and no trial in this Part changed it | Where the muscle belly ends is not a training variable *[consensus — no single source]* |
+| **Previous Achilles rupture** | The seated raise stops sparing the gastrocnemius | After rupture, gastrocnemius activity no longer dropped in the seated position the way it does in an uninjured leg (Zellers et al., 2020) |
+| **Older trainee** | Same exercises, expect less range | Dorsiflexion falls markedly from the sixties (McBride et al., 2026); triceps surae volume is lower in older cohorts (Harper et al., 2025) |
+| **Standing all day at work** | Changes nothing about the programme | That loading is below the adaptation threshold (Kharazi et al., 2021) |
+
+---
+
+### E.3 Equipment contexts
+
+| Equipment available | Best available choice | Note |
+|---|---|---|
+| **Full gym** | Standing calf raise machine + seated calf raise | One of each knee position (Part XII §D.4) |
+| **Leg press only** | Leg-press calf raise with the knee near straight, plus a bent-knee set | The exercise used in the range and volume trials (Kassiano et al., 2023b) |
+| **Smith machine** | Smith-machine calf raise with the forefoot on a plate | The exercise used in the trained-participant trial (Larsen et al., 2025d) |
+| **Dumbbells only** | Single-leg raise on a step, dumbbell in hand | Load is limited by grip long before the calf |
+| **Nothing** | Single-leg body-weight raises, high repetitions, full heel drop | About 45% of a maximal effort per repetition (Part XII §B.9), so expect to need many |
+| **Injured and immobilized** | Long-duration stretching of the plantar flexors | Six weeks of it raised strength and thickness against a control (Warneke et al., 2023a) — at a dose of an hour a day |
+
+---
+
+### E.4 Pain and pathology contexts
+
+| Presentation | What it is | What to do |
+|---|---|---|
+| **Sudden sharp pain in the inner calf during a push-off, often with a pop** | A strain where the medial gastrocnemius meets the soleus — "tennis leg" | Assessment, then conservative management: gradual stretching, eccentric strengthening and a progressive return over **6–12 weeks**, judged by function (Schwach et al., 2026) |
+| **A snap above the heel, inability to push off, a gap you can feel** | Achilles rupture | **Emergency assessment.** Not a training decision |
+| **Pain in the tendon itself, worst on the first steps and easing when warm** | Achilles tendinopathy | The companion document's tendon section governs the loading; calf work continues in a modified form rather than stopping |
+| **Calf pain with swelling, warmth or breathlessness** | Not a training presentation | Same-day medical assessment |
+| **Cramping in the calf during sets** | Common and not dangerous | Lower the load, shorten the range slightly, and let it settle; nothing in this Part turns on it |
+
+**General education only.** Every row above is an assessment question before it is a programme question.
+
+---
+
+### E.5 Sport contexts
+
+| Sport | What changes | Why |
+|---|---|---|
+| **Distance running** | Keep calf training, keep it away from key sessions | Running itself is sub-threshold loading (Kharazi et al., 2021), and the calf is the commonest site of running-related muscle complaints *[consensus — no single source]* |
+| **Sprinting and jumping** | Train the calf heavy and keep the tendon work separate | Sprinters carry longer Achilles moment arms than distance runners (Kovács et al., 2025) |
+| **Football, basketball and court sports** | Bias the straight-knee exercise and keep the range full | The injury this Part warns about happens at push-off (Schwach et al., 2026) |
+| **Cycling** | Nothing transfers; train the calf directly if you want it | Cycling's ankle range and force are both small *[consensus — no single source]* |
+
+---
+
+### E.6 Session and cycle contexts
+
+- **Where calf work goes in the session.** Last, or on its own. It is the one muscle group whose fatigue does
+  not compromise anything else in the session.
+- **It recovers quickly, and the trials trained it three times a week.** Every trial in Part XII §B.4 used
+  2–3 sessions a week without reporting a recovery problem.
+- **Soreness after the first sessions of full-range work is expected**, especially from the heel-down half,
+  and it settles within two or three sessions.
+- **A [deload](#deload) does not need to cut calf work**, for the same reason: small muscles, small systemic cost.
+- **Unloading shrinks it quickly, which is not the same as detraining.** The claim that the calf atrophies
+  readily comes from bed-rest and unloading work rather than from stopping calf training (Kinoshita et al.,
+  2023, reviewing that literature); **no maintenance or detraining trial exists for this muscle group.**
+  Keeping one set a week is cheap insurance, not a tested prescription.
+
+---
+
+### E.7 The context decision table
+
+| If this is true | Then | Because |
+|---|---|---|
+| All your calf work is seated | Add a straight-knee exercise this week | Seated work did not grow the gastrocnemius in twelve weeks (Kinoshita et al., 2023) |
+| You train calves flat on the floor | Get the forefoot on a step | The heel-down half is worth four times the other (Kassiano et al., 2023b) |
+| You do 3–6 weekly sets | Go to 10–14 | Twelve sets beat six on three of four measures (Kassiano et al., 2024b) |
+| You bounce every repetition | Add a one-second pause at the bottom | A bounce spends milliseconds under stretch and lets the tendon return part of the work (Part XII §B.8) |
+| You run a lot and never train calves | The running is not training them | Sub-threshold tendon loading (Kharazi et al., 2021) |
+| Your ankle does not dorsiflex far | Train the range you have | Dorsiflexion varies widely and declines with age (McBride et al., 2026) |
+| You felt a pop at push-off | Stop and get it assessed | Part XII §E.4 |
+
+---
+
+## partxiifprogramming
+
+**PART F — Programming**
+
+### F.1 Volume
+
+Counted as [hard sets](#hardset) per week for the calves, by one rule.
+
+> **Calf set count.** A hard set of any **calf raise** — standing, seated, leg press, Smith machine, one leg
+> or two — counts as **1**. Sets are counted **separately for the two knee positions**: a straight-knee set
+> counts toward both the gastrocnemius and the soleus; a bent-knee set counts toward the **soleus only**.
+> Walking, running, jumping, skipping, squatting and leg curls count as **0**.
+
+**Why those numbers, and how firm each is.** The zero for locomotion follows from measurement rather than
+convention: peak Achilles force in walking and running is 1.99–2.56 kN at 4.0–4.9% strain, which the authors
+of that study call insufficient to drive tendon adaptation (Kharazi et al., 2021). The split between knee
+positions follows the one trial that measured muscle volume: seated training grew the soleus as well as
+standing did and the gastrocnemius not at all (Kinoshita et al., 2023). **Moderate evidence** for both.
+
+| Training age | Straight-knee sets | Bent-knee sets | Total | Note |
+|---|---|---|---|---|
+| Beginner | 4–6 | 0–4 | 4–8 | One exercise is enough to start; the range matters more than the count |
+| Intermediate | 6–9 | 3–6 | 9–14 | The dose range the trials used |
+| Advanced | 8–12 | 4–8 | 12–20 | Above the tested range; the trials stopped at twelve weekly sets |
+| Maintenance or deficit | 3–4 | 0–2 | 3–6 | Keep the straight-knee exercise |
+
+**The one dose trial in this muscle group.** Sixty-one untrained women trained calves three times a week for
+six weeks at six, nine or twelve weekly sets of 15–20 repetitions. Twelve sets beat six in the lateral
+gastrocnemius (**+14.3% vs +8.1%**), the soleus (**+12.7% vs +6.7%**) and the summed triceps surae
+(**+12.0% vs +6.9%**); the medial gastrocnemius favoured twelve sets without reaching significance (+9.9% vs
++6.6%, p = 0.067), and nine sets could not be separated from either (Kassiano et al., 2024b). **Moderate
+evidence** for a [dose–response](#doseresponserelationship). **Interpretive caution:** twelve sets was the highest dose tested, so the
+trial locates no ceiling; the advanced band above extrapolates past its data.
+
+---
+
+### F.2 Frequency
+
+**2–3×/week, which is what every trial in this Part used.** No calf trial has compared frequencies, so this
+is a statement about the evidence's design rather than a finding: Kinoshita trained twice a week for twelve
+weeks, Kassiano three times a week for six and eight, Larsen twice a week for eight, Goli twice a week for
+ten.
+
+**What supports the higher end** is recovery rather than stimulus: the calf is the most fatigue-resistant
+muscle group in this document (Part XII §A.6), the loads are modest, and no trial reported a recovery
+problem at three sessions a week. **1×/week is defensible only at the low end of the volume bands**, and
+nothing in this Part tests it.
+
+---
+
+### F.3 Load and rep range
+
+**10–20 repetitions, with the caveat that nobody has tested anything else here.**
+
+```
+LOAD AND REPS FOR THE CALVES
+  Straight-knee raise   8-15 reps   the loadable slot; add weight before
+                                    adding repetitions
+  Seated raise         12-20 reps   the soleus slot; cheap to recover from
+  Single-leg bodyweight 15-30 reps   about 45% of a maximal effort per rep,
+                                    so it takes many (Part XII B.9)
+  Pause                 1 s at the bottom of every repetition
+```
+
+**What the evidence is.** Every training trial in this Part used **15–20 repetitions per set**, and none
+compared that against anything heavier or lighter. The ranges above therefore inherit Part II §F.3's general
+answer — at matched effort, load is a free choice for growth — rather than resting on calf-specific data.
+**Evidence remains limited and inconsistent** for any claim that the calf needs high repetitions because it
+is a slow muscle (Part XII §A.6).
+
+**Tempo has one rule and it is about time under stretch.** Pause at the bottom. A running step holds the
+tendon above its strain threshold for about 90 ± 40 ms and returns 8–11 J elastically (Kharazi et al.,
+2021); a bounced repetition does the same, where a paused one holds the stretched position for a second —
+**a mechanical inference**, untested as a training variable.
+
+---
+
+### F.4 Proximity to failure
+
+**0–2 [repetitions in reserve](#rir).** The calf trials took sets to or near momentary failure — Larsen's four sets
+were performed to failure twice a week for eight weeks, Goli's sets to full-range failure — and none reported
+a problem with it.
+
+**Partials past failure are optional, not superior.** Adding dorsiflexed partial repetitions after full-range
+failure produced thickness changes equivalent to full-range sets when volume load was equated, with more
+growth per set (0.16% against 0.08%) because each set did more work (Goli et al., 2026). Training with
+initial partials instead of full range plus past-failure partials produced an average difference of 0.40 mm
+in favour of the partials, with a Bayes factor of 1.2 — anecdotal (Larsen et al., 2025d). **Use them to save
+time, not to gain growth.**
+
+---
+
+### F.5 Progression
+
+```
+THE CALF PROGRESSION
+  Weeks 1-2    Learn the range: full heel drop, 1 s pause, no bounce.
+               Expect soreness from the heel-down half.
+  Weeks 3-8    Double progression on both exercises: add repetitions to
+               the top of the range, then load, then return.
+  Weeks 9+     Add sets before adding exercises: the dose trial moved
+               growth by set count (Part XII F.1).
+  Stalled?     Check depth before adding weight - a heavier load with a
+               shorter heel drop is a downgrade.
+```
+
+**Two rules this muscle group needs.**
+
+- **Depth is never the variable that gets progressed away.** The heel-down half of the range produced four
+  times the growth of the shortened half (Kassiano et al., 2023b); a load that shortens it is the wrong load.
+- **Sets are the lever that moved the numbers.** Six to twelve weekly sets doubled the response in the one
+  dose trial (Kassiano et al., 2024b), which is a larger effect than any exercise-selection difference this
+  Part can demonstrate apart from knee position.
+
+---
+
+### F.6 Session templates
+
+```
+TWO SESSIONS A WEEK - THE DEFAULT (9-14 calf sets)
+  Session 1   after lower body
+    Standing calf raise      4 x 8-15   @ 0-1 RIR, 1 s pause
+    Seated calf raise        3 x 12-20  @ 0-1 RIR
+  Session 2   after upper body
+    Leg-press calf raise,
+    knee near straight       4 x 10-15  @ 0-1 RIR
+    Seated calf raise        2 x 15-20  @ 1 RIR
+
+THREE SESSIONS A WEEK - HIGHER VOLUME (14-20 sets)
+    Add 3-4 sets of a straight-knee raise on a third day; keep the
+    heel drop and the pause on every set.
+
+ONE SESSION A WEEK - MAINTENANCE (3-6 sets)
+    Standing calf raise      3-4 x 10-15 @ 1 RIR
+    (the seated work is what gets cut first)
+```
+
+---
+
+### F.7 Timeline, measurement and expectations
+
+| Time | What to expect | Source |
+|---|---|---|
+| **Weeks 1–2** | Soreness from the heel-down half, settling within two or three sessions | Part XII §E.6 |
+| **Week 6** | In untrained people, 7–12% thickness across the group at 6–12 weekly sets | Kassiano et al., 2024 |
+| **Week 8** | Up to 15% in the medial gastrocnemius when the stretched half is trained | Kassiano et al., 2023 |
+| **Week 12** | 9–12% gastrocnemius volume by magnetic resonance imaging from standing raises; about 2% soleus | Kinoshita et al., 2023 |
+| **In trained people** | Still substantial: eight weeks of four sets twice a week grew the medial gastrocnemius **6.7–9.5%** in participants with about seven years of training behind them | Larsen et al., 2025d |
+| **Measurement** | Ultrasound at a marked site, or magnetic resonance imaging; not a tape measure | Part XII §C.7 |
+
+**What not to expect.** A change in the shape of the calf. Where the muscle belly ends and the tendon begins
+varies widely between people *[consensus — no single source]*, and nothing in this Part moves it.
+
+---
+
+## partxiigsynthesis
+
+**PART G — Synthesis, and what the evidence does not support**
+
+### G.1 The rules that hold
+
+1. **The gastrocnemius crosses the knee and the soleus does not**, so knee position decides which of them an exercise trains *[consensus — no single source]*.
+2. **A straight knee is the difference between growing the visible calf and not.** Twelve weeks of standing calf raises grew the lateral gastrocnemius **12.4%** and the medial **9.2%**; the same people's seated leg showed **1.7%** and **0.6%**, neither significant (Kinoshita et al., 2023). **Moderate evidence.**
+3. **The soleus is indifferent to the knee and responsive to sets.** It grew 2.1% and 2.9% in the standing and seated legs alike (Kinoshita et al., 2023), and 6.7% to 12.7% as weekly sets rose from six to twelve (Kassiano et al., 2024b).
+4. **The stretched half of the range is worth about four times the shortened half.** Training −25° to 0° of ankle angle grew the medial gastrocnemius **15.2%** against **3.4%** for 0° to +25°, and beat full range as well (Kassiano et al., 2023b). **Moderate evidence.**
+5. **Volume moves the result.** Twelve weekly sets beat six in the lateral gastrocnemius, the soleus and the group as a whole (Kassiano et al., 2024b). **Moderate evidence**, with no ceiling located.
+6. **The exercise is stretch-loaded by its own geometry.** The external torque changes by less than a tenth across the middle of the range, while the Achilles lever grows about 9% from a neutral ankle to 15° of plantar flexion (Faux-Dugan & Piazza, 2024), so the muscle's hardest moment is the bottom. **A mechanical inference.**
+7. **Walking and running are not calf training, though not because the forces are small.** Peak Achilles force in running reaches 1.99–2.56 kN — 60–80% of a maximal plantar flexion — but each step holds it for about **90 ± 40 ms**, returns 8–11 J elastically, and never progresses (Kharazi et al., 2021).
+8. **The soleus is the slowest muscle measured in this document** — about 82% type I (Part IX §A.6) — **and that changes nothing about the rep range**: heavy and light loads grew it alike (Schoenfeld et al., 2020).
+9. **Continuing past failure with heel-down partials adds growth.** Medial gastrocnemius **+9.6% against +6.7%** over ten weeks, Bayes factor 13.3 (Larsen et al., 2025e) — though the advantage disappeared when volume load was equated (Goli et al., 2026), so it may be extra work rather than a special stimulus. **Moderate evidence.**
+10. **Long-duration stretching may grow the calf, at a dose nobody will do.** An hour a day for six weeks matched conventional training for strength and thickness in one trial (Warneke et al., 2023b) and failed to change thickness in another (Murakami et al., 2025). **Evidence remains limited and inconsistent.**
+
+---
+
+### G.2 What the evidence does **not** support
+
+| Claim | Verdict |
+|---|---|
+| "Calves are genetic — some people cannot grow them" | **Not supported** as stated. Untrained calves grew 6–15% in six to twelve weeks in every trial in this Part, and trained calves 6.7–9.6% in eight to ten weeks (Larsen et al., 2025d); what varies between people is where the muscle belly ends, which is a matter of shape rather than of trainability |
+| "Seated calf raises are a fine substitute for standing ones" | **Not supported.** Twelve weeks of seated training produced no measurable gastrocnemius growth in the same people whose standing leg grew 9–12% (Kinoshita et al., 2023) |
+| "Calves need very high repetitions because they are slow-twitch" | **Not supported**, and tested in the one muscle where the argument should have worked: 6–10RM and 20–30RM produced similar growth in the soleus and both gastrocnemius heads (Schoenfeld et al., 2020) |
+| "You train your calves every day by walking" | **Not supported.** Walking and running load the Achilles below the level their own investigators call adaptive (Kharazi et al., 2021) |
+| "Bouncing out of the bottom is fine — it is the stretch reflex" | **Evidence remains limited and inconsistent.** A rebound shortens the time spent in the stretched position from about a second to tens of milliseconds and lets the tendon return part of the work (Kharazi et al., 2021); whether that reduces growth has never been tested. **A mechanical inference** |
+| "Pointing the toes in or out builds the inner or outer head" | **Promising but under-replicated** — and it is the rare gym claim that survived a test. Nine weeks of calf raises with the toes out grew the medial head more and with the toes in grew the lateral head more, both significantly, in 22 young men (Nunes et al., 2020b) |
+| "The soleus does not matter because you cannot see it" | **Not supported.** It is 50–61% of the group's volume in every dataset measured (Harper et al., 2025) and it lies beneath the gastrocnemius rather than beside it |
+| "Calf raises need a machine with a special cam" | **Not supported.** The exercise is stretch-loaded by geometry alone (Part XII §B.7), and the trials used a leg press, a Smith machine and a standing machine interchangeably |
+| "More range is always better, so use the deepest step you can find" | **Evidence remains limited and inconsistent.** The partial that kept the stretched half beat full range in one trial (Kassiano et al., 2023b); depth beyond the ankle's own range has never been tested |
+| "Stretching is as good as training for the calves" | **Evidence remains limited and inconsistent**, and impractical either way. One six-week trial had an hour a day matching a 45-minute-a-week programme (Warneke et al., 2023b); another found thickness rising only with training (Murakami et al., 2025) |
+
+---
+
+### G.3 The one-paragraph version
+
+The calf is two muscles on one tendon: the gastrocnemius, which crosses the knee and is the part you can see,
+and the soleus underneath, which crosses only the ankle and is **half or more of the muscle group's volume**.
+**Knee position decides which one you train** — twelve weeks of standing calf raises grew the gastrocnemius
+9–12% while the same people's seated leg did not grow it at all, and the soleus grew the same either way. The
+second decision is depth: training the heel-down half of the range grew the medial gastrocnemius 15.2%
+against 3.4% for the shortened half, the largest penalty for a cut range anywhere in this document. The third
+is volume: twelve weekly sets roughly doubled six. **So: one straight-knee exercise and one seated,
+8–14 hard sets a week across two or three sessions, the forefoot on a step so the heel drops below it, a
+one-second pause at the bottom of every repetition, and 8–20 repetitions taken close to failure.** Walking,
+running and jumping are not calf training — the tendon returns most of that work and the forces sit below
+what its own investigators call adaptive. The calf is not ungrowable; it is usually trained seated, shallow,
+bounced, and six sets a week.
+
+---
+
+# partxiiimasterglossary
+
+**Part XIII — Master Glossary**
 
 Every technical term used anywhere in this document, defined formally with formula and units where
 the quantity is physically or operationally defined.
@@ -16428,150 +17607,154 @@ plain same-file heading anchor.
 | [45° back extension (hip extension)](#backextension) | 12 | [Middle deltoid](#middledeltoid) | 9 |
 | [Ab wheel](#abwheel) | 12 | [Moment arm](#momentarm) | 2 |
 | [Abdominal wall](#abdominalwall) | 9 | [Momentary (muscular) failure](#momentaryfailure) | 10 |
-| [ACL reconstruction](#aclreconstruction) | 13 | [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 |
-| [Acromioclavicular joint (AC joint)](#acromioclavicularjoint) | 3 | [Motor unit](#motorunit) | 6 |
-| [Acromion](#acromion) | 3 | [Multifidus](#multifidus) | 9 |
-| [Adductor magnus](#adductormagnus) | 8 | [Muscle thickness](#musclethickness) | 5 |
-| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Muscle volume](#musclevolume) | 5 |
-| [Anconeus](#anconeus) | 9 | [Musculocutaneous nerve](#musculocutaneousnerve) | 9 |
-| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
-| [Anterior deltoid](#anteriordeltoid) | 9 | [Net joint moment](#netjointmoment) | 11 |
-| [Aponeurosis](#aponeurosis) | 3 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
-| [Apophysis](#apophysis) | 3 | [Nordic hamstring curl](#nordiccurl) | 12 |
-| [Attentional focus](#attentionalfocus) | 10 | [Olecranon](#olecranon) | 3 |
-| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Open kinetic chain exercise](#openkineticchain) | 11 |
-| [Axillary nerve](#axillarynerve) | 9 | [Overhead press (shoulder press, military press)](#overheadpress) | 12 |
-| [Back squat](#backsquat) | 12 | [Overhead triceps extension](#overheadtricepsextension) | 12 |
-| [Bar position](#barposition) | 11 | [Painful arc](#painfularc) | 13 |
-| [Barbell glute bridge](#glutebridge) | 12 | [Pallof press](#pallofpress) | 12 |
-| [Barbell hip thrust](#hipthrust) | 12 | [Passive tension](#passivetension) | 5 |
-| [Bayes factor (BF)](#bayesfactor) | 9 | [Patella (kneecap)](#patella) | 3 |
-| [Bayesian cable curl](#bayesiancurl) | 12 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
-| [Belt squat](#beltsquat) | 12 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
-| [Bench inclination](#benchinclination) | 11 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
-| [Bench press](#benchpress) | 12 | [Patellofemoral pain](#patellofemoralpain) | 13 |
-| [Biacromial width](#biacromialwidth) | 3 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
-| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Pectoral nerves (lateral and medial)](#pectoralnerves) | 9 |
-| [Biceps brachii](#bicepsbrachii) | 9 | [Pectoralis major](#pectoralismajor) | 9 |
-| [Biceps curl](#bicepscurl) | 12 | [Pectoralis major tear (pectoralis major rupture)](#pectoralismajortear) | 13 |
-| [Biceps femoris, long head (BFlh)](#bicepsfemorislonghead) | 8 | [Pectoralis major, abdominal part (the "lower chest")](#pectoralisabdominalhead) | 9 |
-| [Biceps femoris, short head (BFsh)](#bicepsfemorisshorthead) | 8 | [Pectoralis major, clavicular head (the "upper chest")](#pectoralisclavicularhead) | 9 |
-| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Pectoralis major, sternocostal head (the "mid chest")](#pectoralissternocostalhead) | 9 |
-| [Biering-Sørensen test](#bieringsorensentest) | 9 | [Pectoralis minor](#pectoralisminor) | 9 |
-| [Bilaminar tendon](#bilaminartendon) | 3 | [Pelvic floor](#pelvicfloor) | 9 |
-| [Brachialis](#brachialis) | 9 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
-| [Brachioradialis](#brachioradialis) | 9 | [Pelvis](#pelvis) | 3 |
-| [Cable crunch](#cablecrunch) | 12 | [Pennation angle](#pennationangle) | 5 |
-| [Cable or machine kickback (standing hip extension)](#kickback) | 12 | [Plane of elevation](#planeofelevation) | 4 |
-| [Cable pull-through](#cablepullthrough) | 12 | [Plank](#plank) | 12 |
-| [Chest fly (dumbbell fly, cable fly or crossover, pec deck)](#chestfly) | 12 | [Posterior deltoid](#posteriordeltoid) | 9 |
-| [Chin-up](#chinup) | 12 | [Posterior oblique sling](#posteriorobliquesling) | 8 |
-| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Preacher curl](#preachercurl) | 12 |
-| [Clavicle (collarbone)](#clavicle) | 3 | [Progressive overload](#progressiveoverload) | 10 |
-| [Close-grip bench press](#closegripbenchpress) | 12 | [Pronated (overhand) grip](#pronatedgrip) | 11 |
-| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Proximity to failure](#proximitytofailure) | 10 |
-| [Compound exercise](#compound) | 11 | [Psoas major](#psoasmajor) | 9 |
-| [Concentric contraction](#concentriccontraction) | 6 | [Pull-up](#pullup) | 12 |
-| [Contralateral](#contralateral) | 1 | [Pullover](#pullover) | 12 |
-| [Coracobrachialis](#coracobrachialis) | 9 | [Push-up](#pushup) | 12 |
-| [Coracoid process](#coracoidprocess) | 3 | [Quadratus lumborum](#quadratuslumborum) | 9 |
-| [Costal cartilage](#costalcartilage) | 3 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
-| [Crunch](#crunch) | 12 | [Quadriceps tendon](#quadricepstendon) | 3 |
-| [Deadlift](#deadlift) | 12 | [Radial nerve](#radialnerve) | 9 |
-| [Deep hip external rotators](#hipexternalrotators) | 8 | [Radial tuberosity](#radialtuberosity) | 3 |
-| [Deload](#deload) | 10 | [Range of motion (ROM)](#rangeofmotion) | 4 |
-| [Deltoid](#deltoid) | 9 | [Rectus abdominis](#rectusabdominis) | 9 |
-| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Rectus femoris](#rectusfemoris) | 8 |
-| [Diaphragm](#diaphragm) | 9 | [Rectus sheath](#rectussheath) | 3 |
-| [Diastasis recti](#diastasisrecti) | 13 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
-| [Dip (parallel-bar dip)](#dip) | 12 | [Repetition (rep)](#repetition) | 10 |
-| [Distal biceps tendon rupture](#distalbicepstendonrupture) | 13 | [Resistance profile](#resistanceprofile) | 11 |
-| [Distal clavicular osteolysis ("weightlifter's shoulder")](#distalclavicularosteolysis) | 13 | [Reverse curl](#reversecurl) | 12 |
-| [Distal triceps tendon rupture](#distaltricepsrupture) | 13 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 12 |
-| [Dose–response relationship](#doseresponserelationship) | 10 | [Reverse hyperextension](#reversehyperextension) | 12 |
-| [Double progression](#doubleprogression) | 10 | [Reverse Nordic curl](#reversenordic) | 12 |
-| [Dumbbell bench press](#dumbbellbenchpress) | 12 | [RIR (repetitions in reserve)](#rir) | 10 |
-| [Eccentric contraction](#eccentriccontraction) | 6 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
-| [Effect size](#effectsize) | 9 | [Rotator cuff](#rotatorcuff) | 9 |
-| [Effort tolerance](#efforttolerance) | 10 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
-| [Elbow extension](#elbowextension) | 4 | [Row](#row) | 12 |
-| [Elbow flexion](#elbowflexion) | 4 | [RPE (rating of perceived exertion)](#rpe) | 10 |
-| [Elbow flexor loading class (stretch-loaded, half-loaded, stretch-free)](#elbowflexorloadingclass) | 11 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
-| [Elbow flexors](#elbowflexors) | 8 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
-| [Elbow path](#elbowpath) | 11 | [Sacrum](#sacrum) | 3 |
-| [EMG (electromyography)](#emg) | 9 | [Sagittal plane](#sagittalplane) | 1 |
-| [Erector spinae](#erectorspinae) | 8 | [Sarcomere](#sarcomere) | 5 |
-| [Erector spinae aponeurosis](#erectorspinaeaponeurosis) | 3 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
-| [Excursion](#excursion) | 4 | [Scapula (shoulder blade)](#scapula) | 3 |
-| [External oblique](#externaloblique) | 9 | [Scapular depression](#scapulardepression) | 4 |
-| [Face pull](#facepull) | 12 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
-| [Fascicle length](#fasciclelength) | 5 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
-| [Femoral nerve](#femoralnerve) | 8 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
-| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
-| [Femur (thigh bone)](#femur) | 3 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
-| [Flexion relaxation](#flexionrelaxation) | 11 | [Semimembranosus (SM)](#semimembranosus) | 8 |
-| [Force–length relationship](#forcelengthrelationship) | 5 | [Semitendinosus (ST)](#semitendinosus) | 8 |
-| [Forearm pronation](#forearmpronation) | 4 | [Serratus anterior](#serratusanterior) | 8 |
-| [Forearm supination](#forearmsupination) | 4 | [Sesamoid bone](#sesamoid) | 3 |
-| [Front raise](#frontraise) | 12 | [Set](#set) | 10 |
-| [Front squat](#frontsquat) | 12 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
-| [Frontal (coronal) plane](#frontalplane) | 1 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
-| [Gastrocnemius](#gastrocnemius) | 8 | [Shoulder abduction](#shoulderabduction) | 4 |
-| [Glenohumeral joint](#glenohumeraljoint) | 3 | [Shoulder adduction](#shoulderadduction) | 4 |
-| [Glute-ham raise (GHR)](#glutehamraise) | 12 | [Shoulder extension](#shoulderextension) | 4 |
-| [Gluteal tendinopathy (greater trochanteric pain syndrome)](#glutealtendinopathy) | 13 | [Shoulder external (lateral) rotation](#shoulderexternalrotation) | 4 |
-| [Gluteus maximus](#gluteusmaximus) | 8 | [Shoulder flexion](#shoulderflexion) | 4 |
-| [Gluteus medius](#gluteusmedius) | 8 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
-| [Gluteus minimus](#gluteusminimus) | 8 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
-| [Good morning](#goodmorning) | 12 | [Shoulder instability](#shoulderinstability) | 13 |
-| [Greater trochanter](#greatertrochanter) | 3 | [Shoulder position class (Overhead, Raised, Down)](#shoulderpositionclass) | 11 |
-| [Grip width](#gripwidth) | 11 | [Side plank](#sideplank) | 12 |
-| [Hack squat](#hacksquat) | 12 | [Sissy squat](#sissysquat) | 12 |
-| [Hammer curl](#hammercurl) | 12 | [Sit-up](#situp) | 12 |
-| [Hamstrings](#hamstrings) | 8 | [Size principle](#sizeprinciple) | 6 |
-| [Hanging knee raise](#hangingkneeraise) | 12 | [Smith machine squat](#smithmachinesquat) | 12 |
-| [Hard set](#hardset) | 10 | [Snapping triceps](#snappingtriceps) | 13 |
-| [Hip abduction](#hipabduction) | 4 | [Specific tension](#specifictension) | 5 |
-| [Hip adduction](#hipadduction) | 4 | [Spinal role class (spine-moving, spine-holding, supported)](#spinalroleclass) | 11 |
-| [Hip adductors](#hipadductors) | 8 | [Split squat](#splitsquat) | 12 |
-| [Hip extension](#hipextension) | 4 | [Spondylolysis](#spondylolysis) | 13 |
-| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Squat depth](#squatdepth) | 11 |
-| [Hip flexion](#hipflexion) | 4 | [Stance width](#stancewidth) | 11 |
-| [Hip hinge](#hiphinge) | 11 | [Step-up](#stepup) | 12 |
-| [Hip internal (medial) rotation](#hipinternalrotation) | 4 | [Sternum (breastbone)](#sternum) | 3 |
-| [Hip joint (acetabulofemoral joint)](#hipjoint) | 3 | [Sticking region](#stickingregion) | 11 |
-| [Hip osteoarthritis](#hiposteoarthritis) | 13 | [Straight-arm pulldown](#straightarmpulldown) | 12 |
-| [Horizontal pull](#horizontalpull) | 11 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
-| [Humeral elevation](#humeralelevation) | 4 | [Subacromial impingement](#impingement) | 13 |
-| [Humerus (upper arm bone)](#humerus) | 3 | [Subacromial space](#subacromialspace) | 3 |
-| [Hypertrophy](#hypertrophy) | 7 | [Suitcase carry](#suitcasecarry) | 12 |
-| [Iliocostalis lumborum](#iliocostalislumborum) | 8 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
-| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
-| [Incline curl](#inclinecurl) | 12 | [Supraspinatus](#supraspinatus) | 9 |
-| [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [T2-weighted MRI (transverse relaxation time)](#t2mri) | 9 |
-| [Infraglenoid tubercle](#infraglenoidtubercle) | 3 | [Technical failure](#technicalfailure) | 10 |
-| [Internal (medial) rotation](#internalrotation) | 4 | [Tempo](#tempo) | 10 |
-| [Internal oblique](#internaloblique) | 9 | [Tensor fasciae latae (TFL)](#tensorfascialatae) | 8 |
-| [Intra-abdominal pressure (IAP)](#intraabdominalpressure) | 3 | [Tensor vastus intermedius](#tensorvastusintermedius) | 8 |
-| [Inverted row](#invertedrow) | 12 | [Teres major](#teresmajor) | 8 |
-| [Ischial tuberosity](#ischialtuberosity) | 3 | [The EMG–hypertrophy dissociation](#emghypertrophydissociation) | 9 |
-| [Isolated lumbar extension (ILEX)](#isolatedlumbarextension) | 12 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
-| [Isolation exercise](#isolation) | 11 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
-| [Joint reaction force](#jointreactionforce) | 3 | [Tibia (shin bone)](#tibia) | 3 |
-| [Kettlebell swing](#kettlebellswing) | 12 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
-| [Kipping](#kipping) | 12 | [Torque (moment)](#torque) | 2 |
-| [Knee extension](#kneeextension) | 4 | [Torso inclination](#torsoinclination) | 11 |
-| [Knee flexion](#kneeflexion) | 4 | [Training frequency](#trainingfrequency) | 10 |
-| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [Training volume](#trainingvolume) | 10 |
-| [Knee travel](#kneetravel) | 11 | [Transverse (horizontal) plane](#transverseplane) | 1 |
-| [Lacertus fibrosus (bicipital aponeurosis)](#lacertusfibrosus) | 3 | [Transversus abdominis](#transversusabdominis) | 9 |
-| [Lat pulldown](#latpulldown) | 12 | [Trapezius](#trapezius) | 9 |
-| [Lateral raise](#lateralraise) | 12 | [Triceps brachii](#tricepsbrachii) | 9 |
-| [Latissimus dorsi](#latissimusdorsi) | 8 | [Triceps brachii, lateral head](#tricepslateralhead) | 9 |
-| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Triceps brachii, long head](#tricepslonghead) | 9 |
-| [Leg extension](#legextension) | 12 | [Triceps brachii, medial head](#tricepsmedialhead) | 9 |
-| [Leg press](#legpress) | 12 | [Triceps kickback](#tricepskickback) | 12 |
-| [Lengthened partials](#lengthenedpartials) | 7 | [Triceps pushdown (cable pushdown)](#tricepspushdown) | 12 |
+| [Achilles tendinopathy](#achillestendinopathy) | 13 | [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 |
+| [Achilles tendon](#achillestendon) | 3 | [Motor unit](#motorunit) | 6 |
+| [ACL reconstruction](#aclreconstruction) | 13 | [Multifidus](#multifidus) | 9 |
+| [Acromioclavicular joint (AC joint)](#acromioclavicularjoint) | 3 | [Muscle thickness](#musclethickness) | 5 |
+| [Acromion](#acromion) | 3 | [Muscle volume](#musclevolume) | 5 |
+| [Adductor magnus](#adductormagnus) | 8 | [Musculocutaneous nerve](#musculocutaneousnerve) | 9 |
+| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
+| [Anconeus](#anconeus) | 9 | [Net joint moment](#netjointmoment) | 11 |
+| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
+| [Ankle plantar flexion](#ankleplantarflexion) | 4 | [Nordic hamstring curl](#nordiccurl) | 12 |
+| [Anterior deltoid](#anteriordeltoid) | 9 | [Olecranon](#olecranon) | 3 |
+| [Aponeurosis](#aponeurosis) | 3 | [Open kinetic chain exercise](#openkineticchain) | 11 |
+| [Apophysis](#apophysis) | 3 | [Overhead press (shoulder press, military press)](#overheadpress) | 12 |
+| [Attentional focus](#attentionalfocus) | 10 | [Overhead triceps extension](#overheadtricepsextension) | 12 |
+| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Painful arc](#painfularc) | 13 |
+| [Axillary nerve](#axillarynerve) | 9 | [Pallof press](#pallofpress) | 12 |
+| [Back squat](#backsquat) | 12 | [Passive tension](#passivetension) | 5 |
+| [Bar position](#barposition) | 11 | [Patella (kneecap)](#patella) | 3 |
+| [Barbell glute bridge](#glutebridge) | 12 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
+| [Barbell hip thrust](#hipthrust) | 12 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
+| [Bayes factor (BF)](#bayesfactor) | 9 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
+| [Bayesian cable curl](#bayesiancurl) | 12 | [Patellofemoral pain](#patellofemoralpain) | 13 |
+| [Belt squat](#beltsquat) | 12 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
+| [Bench inclination](#benchinclination) | 11 | [Pectoral nerves (lateral and medial)](#pectoralnerves) | 9 |
+| [Bench press](#benchpress) | 12 | [Pectoralis major](#pectoralismajor) | 9 |
+| [Biacromial width](#biacromialwidth) | 3 | [Pectoralis major tear (pectoralis major rupture)](#pectoralismajortear) | 13 |
+| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Pectoralis major, abdominal part (the "lower chest")](#pectoralisabdominalhead) | 9 |
+| [Biceps brachii](#bicepsbrachii) | 9 | [Pectoralis major, clavicular head (the "upper chest")](#pectoralisclavicularhead) | 9 |
+| [Biceps curl](#bicepscurl) | 12 | [Pectoralis major, sternocostal head (the "mid chest")](#pectoralissternocostalhead) | 9 |
+| [Biceps femoris, long head (BFlh)](#bicepsfemorislonghead) | 8 | [Pectoralis minor](#pectoralisminor) | 9 |
+| [Biceps femoris, short head (BFsh)](#bicepsfemorisshorthead) | 8 | [Pelvic floor](#pelvicfloor) | 9 |
+| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
+| [Biering-Sørensen test](#bieringsorensentest) | 9 | [Pelvis](#pelvis) | 3 |
+| [Bilaminar tendon](#bilaminartendon) | 3 | [Pennation angle](#pennationangle) | 5 |
+| [Brachialis](#brachialis) | 9 | [Plane of elevation](#planeofelevation) | 4 |
+| [Brachioradialis](#brachioradialis) | 9 | [Plank](#plank) | 12 |
+| [Cable crunch](#cablecrunch) | 12 | [Posterior deltoid](#posteriordeltoid) | 9 |
+| [Cable or machine kickback (standing hip extension)](#kickback) | 12 | [Posterior oblique sling](#posteriorobliquesling) | 8 |
+| [Cable pull-through](#cablepullthrough) | 12 | [Preacher curl](#preachercurl) | 12 |
+| [Calf raise](#calfraise) | 12 | [Progressive overload](#progressiveoverload) | 10 |
+| [Chest fly (dumbbell fly, cable fly or crossover, pec deck)](#chestfly) | 12 | [Pronated (overhand) grip](#pronatedgrip) | 11 |
+| [Chin-up](#chinup) | 12 | [Proximity to failure](#proximitytofailure) | 10 |
+| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Psoas major](#psoasmajor) | 9 |
+| [Clavicle (collarbone)](#clavicle) | 3 | [Pull-up](#pullup) | 12 |
+| [Close-grip bench press](#closegripbenchpress) | 12 | [Pullover](#pullover) | 12 |
+| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Push-up](#pushup) | 12 |
+| [Compound exercise](#compound) | 11 | [Quadratus lumborum](#quadratuslumborum) | 9 |
+| [Concentric contraction](#concentriccontraction) | 6 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
+| [Contralateral](#contralateral) | 1 | [Quadriceps tendon](#quadricepstendon) | 3 |
+| [Coracobrachialis](#coracobrachialis) | 9 | [Radial nerve](#radialnerve) | 9 |
+| [Coracoid process](#coracoidprocess) | 3 | [Radial tuberosity](#radialtuberosity) | 3 |
+| [Costal cartilage](#costalcartilage) | 3 | [Range of motion (ROM)](#rangeofmotion) | 4 |
+| [Crunch](#crunch) | 12 | [Rectus abdominis](#rectusabdominis) | 9 |
+| [Deadlift](#deadlift) | 12 | [Rectus femoris](#rectusfemoris) | 8 |
+| [Deep hip external rotators](#hipexternalrotators) | 8 | [Rectus sheath](#rectussheath) | 3 |
+| [Deload](#deload) | 10 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
+| [Deltoid](#deltoid) | 9 | [Repetition (rep)](#repetition) | 10 |
+| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Resistance profile](#resistanceprofile) | 11 |
+| [Diaphragm](#diaphragm) | 9 | [Reverse curl](#reversecurl) | 12 |
+| [Diastasis recti](#diastasisrecti) | 13 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 12 |
+| [Dip (parallel-bar dip)](#dip) | 12 | [Reverse hyperextension](#reversehyperextension) | 12 |
+| [Distal biceps tendon rupture](#distalbicepstendonrupture) | 13 | [Reverse Nordic curl](#reversenordic) | 12 |
+| [Distal clavicular osteolysis ("weightlifter's shoulder")](#distalclavicularosteolysis) | 13 | [RIR (repetitions in reserve)](#rir) | 10 |
+| [Distal triceps tendon rupture](#distaltricepsrupture) | 13 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
+| [Dose–response relationship](#doseresponserelationship) | 10 | [Rotator cuff](#rotatorcuff) | 9 |
+| [Double progression](#doubleprogression) | 10 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
+| [Dumbbell bench press](#dumbbellbenchpress) | 12 | [Row](#row) | 12 |
+| [Eccentric contraction](#eccentriccontraction) | 6 | [RPE (rating of perceived exertion)](#rpe) | 10 |
+| [Effect size](#effectsize) | 9 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
+| [Effort tolerance](#efforttolerance) | 10 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
+| [Elbow extension](#elbowextension) | 4 | [Sacrum](#sacrum) | 3 |
+| [Elbow flexion](#elbowflexion) | 4 | [Sagittal plane](#sagittalplane) | 1 |
+| [Elbow flexor loading class (stretch-loaded, half-loaded, stretch-free)](#elbowflexorloadingclass) | 11 | [Sarcomere](#sarcomere) | 5 |
+| [Elbow flexors](#elbowflexors) | 8 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
+| [Elbow path](#elbowpath) | 11 | [Scapula (shoulder blade)](#scapula) | 3 |
+| [EMG (electromyography)](#emg) | 9 | [Scapular depression](#scapulardepression) | 4 |
+| [Erector spinae](#erectorspinae) | 8 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
+| [Erector spinae aponeurosis](#erectorspinaeaponeurosis) | 3 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
+| [Excursion](#excursion) | 4 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
+| [External oblique](#externaloblique) | 9 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
+| [Face pull](#facepull) | 12 | [Seated calf raise](#seatedcalfraise) | 12 |
+| [Fascicle length](#fasciclelength) | 5 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
+| [Femoral nerve](#femoralnerve) | 8 | [Semimembranosus (SM)](#semimembranosus) | 8 |
+| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Semitendinosus (ST)](#semitendinosus) | 8 |
+| [Femur (thigh bone)](#femur) | 3 | [Serratus anterior](#serratusanterior) | 8 |
+| [Flexion relaxation](#flexionrelaxation) | 11 | [Sesamoid bone](#sesamoid) | 3 |
+| [Force–length relationship](#forcelengthrelationship) | 5 | [Set](#set) | 10 |
+| [Forearm pronation](#forearmpronation) | 4 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
+| [Forearm supination](#forearmsupination) | 4 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
+| [Front raise](#frontraise) | 12 | [Shoulder abduction](#shoulderabduction) | 4 |
+| [Front squat](#frontsquat) | 12 | [Shoulder adduction](#shoulderadduction) | 4 |
+| [Frontal (coronal) plane](#frontalplane) | 1 | [Shoulder extension](#shoulderextension) | 4 |
+| [Gastrocnemius](#gastrocnemius) | 8 | [Shoulder external (lateral) rotation](#shoulderexternalrotation) | 4 |
+| [Glenohumeral joint](#glenohumeraljoint) | 3 | [Shoulder flexion](#shoulderflexion) | 4 |
+| [Glute-ham raise (GHR)](#glutehamraise) | 12 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
+| [Gluteal tendinopathy (greater trochanteric pain syndrome)](#glutealtendinopathy) | 13 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
+| [Gluteus maximus](#gluteusmaximus) | 8 | [Shoulder instability](#shoulderinstability) | 13 |
+| [Gluteus medius](#gluteusmedius) | 8 | [Shoulder position class (Overhead, Raised, Down)](#shoulderpositionclass) | 11 |
+| [Gluteus minimus](#gluteusminimus) | 8 | [Side plank](#sideplank) | 12 |
+| [Good morning](#goodmorning) | 12 | [Sissy squat](#sissysquat) | 12 |
+| [Greater trochanter](#greatertrochanter) | 3 | [Sit-up](#situp) | 12 |
+| [Grip width](#gripwidth) | 11 | [Size principle](#sizeprinciple) | 6 |
+| [Hack squat](#hacksquat) | 12 | [Smith machine squat](#smithmachinesquat) | 12 |
+| [Hammer curl](#hammercurl) | 12 | [Snapping triceps](#snappingtriceps) | 13 |
+| [Hamstrings](#hamstrings) | 8 | [Soleus](#soleus) | 8 |
+| [Hanging knee raise](#hangingkneeraise) | 12 | [Specific tension](#specifictension) | 5 |
+| [Hard set](#hardset) | 10 | [Spinal role class (spine-moving, spine-holding, supported)](#spinalroleclass) | 11 |
+| [Hip abduction](#hipabduction) | 4 | [Split squat](#splitsquat) | 12 |
+| [Hip adduction](#hipadduction) | 4 | [Spondylolysis](#spondylolysis) | 13 |
+| [Hip adductors](#hipadductors) | 8 | [Squat depth](#squatdepth) | 11 |
+| [Hip extension](#hipextension) | 4 | [Stance width](#stancewidth) | 11 |
+| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Step-up](#stepup) | 12 |
+| [Hip flexion](#hipflexion) | 4 | [Sternum (breastbone)](#sternum) | 3 |
+| [Hip hinge](#hiphinge) | 11 | [Sticking region](#stickingregion) | 11 |
+| [Hip internal (medial) rotation](#hipinternalrotation) | 4 | [Straight-arm pulldown](#straightarmpulldown) | 12 |
+| [Hip joint (acetabulofemoral joint)](#hipjoint) | 3 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
+| [Hip osteoarthritis](#hiposteoarthritis) | 13 | [Subacromial impingement](#impingement) | 13 |
+| [Horizontal pull](#horizontalpull) | 11 | [Subacromial space](#subacromialspace) | 3 |
+| [Humeral elevation](#humeralelevation) | 4 | [Suitcase carry](#suitcasecarry) | 12 |
+| [Humerus (upper arm bone)](#humerus) | 3 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
+| [Hypertrophy](#hypertrophy) | 7 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
+| [Iliocostalis lumborum](#iliocostalislumborum) | 8 | [Supraspinatus](#supraspinatus) | 9 |
+| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [T2-weighted MRI (transverse relaxation time)](#t2mri) | 9 |
+| [Incline curl](#inclinecurl) | 12 | [Technical failure](#technicalfailure) | 10 |
+| [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [Tempo](#tempo) | 10 |
+| [Infraglenoid tubercle](#infraglenoidtubercle) | 3 | [Tennis leg](#tennisleg) | 13 |
+| [Internal (medial) rotation](#internalrotation) | 4 | [Tensor fasciae latae (TFL)](#tensorfascialatae) | 8 |
+| [Internal oblique](#internaloblique) | 9 | [Tensor vastus intermedius](#tensorvastusintermedius) | 8 |
+| [Intra-abdominal pressure (IAP)](#intraabdominalpressure) | 3 | [Teres major](#teresmajor) | 8 |
+| [Inverted row](#invertedrow) | 12 | [The EMG–hypertrophy dissociation](#emghypertrophydissociation) | 9 |
+| [Ischial tuberosity](#ischialtuberosity) | 3 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
+| [Isolated lumbar extension (ILEX)](#isolatedlumbarextension) | 12 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
+| [Isolation exercise](#isolation) | 11 | [Tibia (shin bone)](#tibia) | 3 |
+| [Joint reaction force](#jointreactionforce) | 3 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
+| [Kettlebell swing](#kettlebellswing) | 12 | [Torque (moment)](#torque) | 2 |
+| [Kipping](#kipping) | 12 | [Torso inclination](#torsoinclination) | 11 |
+| [Knee extension](#kneeextension) | 4 | [Training frequency](#trainingfrequency) | 10 |
+| [Knee flexion](#kneeflexion) | 4 | [Training volume](#trainingvolume) | 10 |
+| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [Transverse (horizontal) plane](#transverseplane) | 1 |
+| [Knee travel](#kneetravel) | 11 | [Transversus abdominis](#transversusabdominis) | 9 |
+| [Lacertus fibrosus (bicipital aponeurosis)](#lacertusfibrosus) | 3 | [Trapezius](#trapezius) | 9 |
+| [Lat pulldown](#latpulldown) | 12 | [Triceps brachii](#tricepsbrachii) | 9 |
+| [Lateral raise](#lateralraise) | 12 | [Triceps brachii, lateral head](#tricepslateralhead) | 9 |
+| [Latissimus dorsi](#latissimusdorsi) | 8 | [Triceps brachii, long head](#tricepslonghead) | 9 |
+| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Triceps brachii, medial head](#tricepsmedialhead) | 9 |
+| [Leg extension](#legextension) | 12 | [Triceps kickback](#tricepskickback) | 12 |
+| [Leg press](#legpress) | 12 | [Triceps pushdown (cable pushdown)](#tricepspushdown) | 12 |
+| [Lengthened partials](#lengthenedpartials) | 7 | [Triceps surae](#tricepssurae) | 8 |
 | [Lengthened position](#lengthenedposition) | 7 | [Trunk extension](#trunkextension) | 5 |
 | [Limiting link](#limitinglink) | 10 | [Trunk flexion](#trunkflexion) | 5 |
 | [Line of action](#lineofaction) | 2 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
@@ -16798,6 +17981,11 @@ Raising it together with abdominal muscle force increased the load a physical mo
 *Anatomy & Structure*
 
 **Erector spinae aponeurosis** — The broad, flat tendon lying over the lower back that carries the pull of back-muscle bellies sitting beside the ribs down to the pelvis. Formally: the [aponeurosis](#aponeurosis) formed by the long caudal tendons of the thoracic parts of the longissimus thoracis and iliocostalis lumborum, lying over the lumbar parts of those muscles (Macintosh & Bogduk, 1987); in the lumbar region it and its ventral reflection, the lumbar intermuscular aponeurosis, separate the two columns (Bogduk, 1980). It matters because it is how muscle that is not in the lower back extends the lower back: in a model of the upright spine, the thoracic parts that act through it supplied about half the extensor moment at L4 and L5 (Bogduk et al., 1992a).
+
+## achillestendon
+*Anatomy & Structure*
+
+**Achilles tendon** — The thick cord at the back of the ankle that joins the calf muscles to the heel bone. Formally: the common tendon of the gastrocnemius and soleus, inserting on the posterior calcaneus, and the load path through which every plantar-flexion force these muscles produce must pass; its [moment arm](#momentarm) about the ankle measured **47.5 ± 9.3 mm** at a neutral ankle and **51.7 ± 9.5 mm** at 15° of plantar flexion in sixteen adults (Faux-Dugan & Piazza, 2024). It is elastic enough to change what a set of calf raises trains: in running it returns **7.8–11.3 J** of stored energy per step, and although peak tendon force reaches 1.99–2.56 kN, each step holds it for only about **90 ± 40 ms** (Kharazi et al., 2021) — which is why running loads the calf hard and trains it barely at all (Part XII §B.8).
 
 ## lineaalba
 
@@ -17075,6 +18263,11 @@ Three quantities are routinely confused and are not the same. **Joint excursion*
 *Biomechanics & Mechanics*
 
 **Ankle dorsiflexion** — Bringing the top of the foot toward the shin, or equivalently the shin forward over a planted foot. Formally: sagittal-plane rotation at the talocrural joint that decreases the angle between the shin and the foot. In a squat it is the motion that lets the knee move forward over the foot, so the available range at this joint sets a hard ceiling on how deep a squat can go for a given foot position — the reason a 1.5–2.5 cm heel elevation changes depth immediately for some people and not at all for others.
+
+## ankleplantarflexion
+*Biomechanics & Mechanics*
+
+**Ankle plantar flexion** — Pushing the foot down, so the heel lifts and the toes point. Formally: sagittal-plane rotation at the talocrural joint that increases the angle between the shin and the top of the foot, the opposite of [ankle dorsiflexion](#ankledorsiflexion); measured in this document from a neutral foot, where **0° is the foot at a right angle to the shin** and positive values are plantar flexion. It is the only action that trains the calf muscles (Part XII §B.1), and the range below 0° — the heel dropping past neutral — is the half that the training trials separate (Part XII §B.4).
 
 ## hipabduction
 
@@ -17468,7 +18661,17 @@ That combination — very long fascicles, very small PCSA — defines it as an *
 
 *Anatomy & Structure*
 
-**Gastrocnemius** — The two-headed calf muscle that forms the visible bulge at the back of the lower leg. Formally: a [biarticular](#biarticularmuscle) muscle originating on the posterior femoral condyles and inserting via the Achilles tendon on the calcaneus, producing ankle plantar flexion and [knee flexion](#kneeflexion). Because it crosses the knee, its tension rises in a deep squat, and because it crosses the ankle, its length limits [ankle dorsiflexion](#ankledorsiflexion) — so it appears twice in the list of things that cap how deep a squat can go.
+**Gastrocnemius** — The two-headed calf muscle that forms the visible bulge at the back of the lower leg. Formally: a [biarticular](#biarticularmuscle) muscle originating on the posterior femoral condyles and inserting via the Achilles tendon on the calcaneus, producing ankle plantar flexion and [knee flexion](#kneeflexion). Because it crosses the knee, bending the knee shortens it and takes it out of a calf raise — twelve weeks of seated calf raises did not measurably grow it, while standing raises grew it 9–12% in the same people (Kinoshita et al., 2023) — its tension rises in a deep squat, and because it crosses the ankle, its length limits [ankle dorsiflexion](#ankledorsiflexion) — so it appears twice in the list of things that cap how deep a squat can go.
+
+## soleus
+*Anatomy & Structure*
+
+**Soleus** — The broad, flat calf muscle that lies underneath the one you can see. Formally: the [monoarticular](#monoarticularmuscle) muscle arising from the head and upper shaft of the fibula and the soleal line of the tibia — **below the knee** — and inserting through the [Achilles tendon](#achillestendon) on the calcaneus, producing [ankle plantar flexion](#ankleplantarflexion) alone *[consensus — no single source]*. It is **50–61% of all triceps surae muscle volume** in every dataset compiled (Harper et al., 2025), it is about 82% type I and therefore the slowest muscle measured in this document (Part IX §A.6), and because it does not cross the knee, **no knee position changes its training**: it grew alike in the standing and seated legs of the same people (Kinoshita et al., 2023). **Moderate evidence** — one within-participant trial of fourteen untrained adults.
+
+## tricepssurae
+*Anatomy & Structure*
+
+**Triceps surae** — The calf, taken as one working unit: the two heads of the gastrocnemius plus the soleus. Formally: the three-headed muscle group of the superficial posterior compartment of the leg — [gastrocnemius](#gastrocnemius) medial and lateral heads and the [soleus](#soleus) — converging on the [Achilles tendon](#achillestendon) to produce [ankle plantar flexion](#ankleplantarflexion); by architecture the plantar flexors are the strongest muscle group acting at the ankle, and the soleus one of the three strongest muscles of the lower limb (Ward et al., 2009a). The name matters for training because its three parts do not share a prescription: the two gastrocnemius heads cross the knee and respond to knee position, while the soleus does not and responds to set count (Part XII §B.4).
 
 ## gluteusmedius
 
@@ -18107,7 +19310,7 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 *Exercises & Technique*
 
-**Elbow flexor loading class (stretch-loaded, half-loaded, stretch-free)** — How much of an arm exercise's hardest moment is still there when the elbow is straight. Formally: find the exercise's **peak angle** — the elbow angle at which the resistance acts perpendicular to the forearm, which for a free weight is where the forearm is horizontal and for a cable is where the forearm lies at a right angle to the cable — and take the **stretch fraction**, the share of that peak [torque](#torque) still present at a straight elbow, which for a gravity-driven curl is the cosine of the peak angle. **Stretch-loaded:** a stretch fraction of 0.60 or more, as in a preacher curl on a 45–50° pad (0.71 and 0.64). **Half-loaded:** 0.25 to 0.59, as on a steep preacher pad. **Stretch-free:** below 0.25, which includes every curl performed with the upper arm hanging vertically, where it is zero. **Caveat:** the boundaries are conventions chosen to separate the exercises of Part XI §D, and the one trial that moved the torque emphasis inside a single exercise found no difference in growth (Nunes et al., 2020); the class describes where an exercise loads the muscle, not how much it grows it. What the training trials do separate is the [elbow flexion](#elbowflexion) range used: training the straighter half grew the muscles about two and a half times as fast as training the bent half (Part XI §B.4). **Moderate evidence** for the range.
+**Elbow flexor loading class (stretch-loaded, half-loaded, stretch-free)** — How much of an arm exercise's hardest moment is still there when the elbow is straight. Formally: find the exercise's **peak angle** — the elbow angle at which the resistance acts perpendicular to the forearm, which for a free weight is where the forearm is horizontal and for a cable is where the forearm lies at a right angle to the cable — and take the **stretch fraction**, the share of that peak [torque](#torque) still present at a straight elbow, which for a gravity-driven curl is the cosine of the peak angle. **Stretch-loaded:** a stretch fraction of 0.60 or more, as in a preacher curl on a 45–50° pad (0.71 and 0.64). **Half-loaded:** 0.25 to 0.59, as on a steep preacher pad. **Stretch-free:** below 0.25, which includes every curl performed with the upper arm hanging vertically, where it is zero. **Caveat:** the boundaries are conventions chosen to separate the exercises of Part XI §D, and the one trial that moved the torque emphasis inside a single exercise found no difference in growth (Nunes et al., 2020a); the class describes where an exercise loads the muscle, not how much it grows it. What the training trials do separate is the [elbow flexion](#elbowflexion) range used: training the straighter half grew the muscles about two and a half times as fast as training the bent half (Part XI §B.4). **Moderate evidence** for the range.
 
 ## weightliftingbelt
 
@@ -18316,6 +19519,16 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 *Exercises & Technique*
 
 **Seated hip abduction machine** — A seated machine that resists pushing the knees apart. Formally: a loaded [hip abduction](#hipabduction) exercise performed with the hip flexed and the trunk supported, resisting at the distal thigh. It is the only abduction exercise with a load ceiling high enough to progress like any other lift, which is its entire justification; leaning the torso forward biases the posterior fibres of the [gluteus medius](#gluteusmedius), sitting upright biases the anterior fibres.
+
+## calfraise
+*Exercises & Technique*
+
+**Calf raise** — Rising onto the balls of the feet against resistance. Formally: an [ankle plantar flexion](#ankleplantarflexion) exercise performed with the forefoot on a platform and the heel free to drop below it, loaded by body weight, a machine, a barbell or a leg press, and classified in this document by **knee angle**: with the knee straight it trains the [gastrocnemius](#gastrocnemius) and the [soleus](#soleus), with the knee bent it trains the soleus alone (Part XII §B.2). Its external [torque](#torque) falls steeply as the heel rises — to about 30% of the heel-down value at full plantar flexion — because the ankle travels forward over the forefoot pivot as well as upward, and the muscle's own lever is shortest at the bottom, so the exercise is stretch-loaded by its own geometry (Part XII §B.7). Training the heel-down half of the range grew the medial gastrocnemius **15.2%** against **3.4%** for the heel-up half over eight weeks (Kassiano et al., 2023b). **Moderate evidence.**
+
+## seatedcalfraise
+*Exercises & Technique*
+
+**Seated calf raise** — A calf raise performed sitting, with the knee bent to about a right angle and the load on the thigh. Formally: a [calf raise](#calfraise) performed with the knee flexed near 90°, which slackens the [gastrocnemius](#gastrocnemius) — a muscle that crosses the knee — and leaves the [soleus](#soleus) to do the work; maximal isometric plantar flexion torque in this position was **93.1 ± 22.3 N·m** against **154.4 ± 37.8 N·m** with the knee straight (Kovács et al., 2024). **It is not a substitute for the straight-knee version:** twelve weeks of it produced no measurable gastrocnemius growth in people whose other leg gained 9–12% from standing raises, while soleus growth was the same in both legs (Kinoshita et al., 2023). **Moderate evidence.** It also loads the tendon far less: a scoping review puts the seated heel raise at 0.41–0.5 times body weight through the Achilles against 3–5.12 for the standing version (Escriche-Escuder et al., 2022).
 
 ## legcurl
 
@@ -18633,6 +19846,16 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Distal biceps tendon rupture** — The biceps tendon tearing off the forearm bone, usually when a bent arm is suddenly forced straight. Formally: avulsion of the distal biceps tendon from the [radial tuberosity](#radialtuberosity), typically complete, producing a proximally retracted muscle belly, weakness of elbow flexion and of forearm [supination](#forearmsupination), and a changed contour of the upper arm. It is uncommon and stereotyped: **1.2 ruptures per 100,000 people per year**, thirteen of fourteen cases in men of mean age 47, 86% in the dominant arm, every one caused by excessive eccentric tension as the arm was forced from a flexed position, and a **7.5-fold** higher risk in smokers (Safran & Graham, 2002). Anatomical surgical reinsertion restores function well, with conservative treatment usually reserved for older or low-demand patients (Jaschke et al., 2023); it is a same-week surgical assessment, not a training problem (Part XI §E.4).
 
+## achillestendinopathy
+*Pathology & Clinical*
+
+**Achilles tendinopathy** — A painful, often thickened Achilles tendon, typically worst on the first steps of the day and easing once warm. Formally: a load-related tendon disorder of the mid-portion or the insertion of the [Achilles tendon](#achillestendon), presenting with localized pain and tenderness and managed by progressive loading rather than rest *[consensus — no single source]*. It matters to Part XII because it changes the loading rather than stopping it, and because the tendon adapts to different work than the muscle: Achilles adaptation required about **90% of maximal voluntary contraction at 4.5–6.5% tendon strain** sustained over sixteen weeks (Tsai et al., 2024), which is heavier and slower than hypertrophy training.
+
+## tennisleg
+*Pathology & Clinical*
+
+**Tennis leg** — A tear where the inner calf muscle meets the muscle beneath it, felt as a sudden sharp pain during a push-off. Formally: a strain at the medial [gastrocnemius](#gastrocnemius)–[soleus](#soleus) junction, produced by sudden overstretch or repetitive microtrauma, diagnosed clinically and confirmed by ultrasound or magnetic resonance imaging. It is managed without surgery — graded stretching, eccentric strengthening and a progressive return over **6–12 weeks**, with the return guided by function rather than by the absence of symptoms (Schwach et al., 2026). It is the commonest serious calf injury in this document and an assessment before it is a training problem (Part XII §E.4).
+
 ## lowbackpain
 
 *Pathology & Clinical*
@@ -18653,16 +19876,16 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 ---
 
-# partxiiibibliography
+# partxivbibliography
 
-**Part XIII — Bibliography**
+**Part XIV — Bibliography**
 
-Every source cited in this document: **521 papers**, each with a DOI you can paste into a search box
+Every source cited in this document: **546 papers**, each with a DOI you can paste into a search box
 or a library request form — with nine exceptions, noted at their entries: eight for which no DOI was ever
 issued and a PubMed or PubMed Central identifier is given instead, and one master's thesis that has neither. Alphabetical by first author, so an in-text citation like
 *(Gerling & Brown, 2013)* is found by scanning for **Gerling**.
 
-**248 are open access** — free to read now. **273 are paywalled**; any university or public library can
+**266 are open access** — free to read now. **280 are paywalled**; any university or public library can
 obtain those through interlibrary loan at no cost, usually in a few days, and authors may legally
 share their own accepted manuscripts if you email them. Every DOI below was verified against
 Crossref, and open-access status against Unpaywall, at the time of writing.
@@ -18674,7 +19897,7 @@ discussion, the text says so at the claim itself — that context matters more t
 marks claims that could not be traced to a source we could read; they are flagged rather than quietly
 dropped. **Twenty-two of these papers measured the latissimus dorsi directly, twenty-eight measured the
 quadriceps femoris directly, thirty-eight measured a gluteal muscle directly, twenty-one measured a
-deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, twenty-nine measured a hamstring directly, thirty-one measured a pectoral muscle directly, at least seventy-six measured the triceps brachii or its tendon directly, at least ninety-two measured the erector spinae, the multifidus or the lumbar extensors directly, and at least thirty-eight measured the biceps brachii, the brachialis or the elbow flexors as a group directly**; the rest supply general training principles or the mechanical
+deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, twenty-nine measured a hamstring directly, thirty-one measured a pectoral muscle directly, at least seventy-six measured the triceps brachii or its tendon directly, at least ninety-two measured the erector spinae, the multifidus or the lumbar extensors directly, at least thirty-eight measured the biceps brachii, the brachialis or the elbow flexors as a group directly, and at least twenty-four measured the gastrocnemius, the soleus or the Achilles tendon directly**; the rest supply general training principles or the mechanical
 framework. Where a paper's own research group has been
 the subject of a published data-integrity analysis, its entry says so. Where two or more papers by the same first author share a year, the bibliography entry
 records the `a`/`b`/`c` suffix used in the text.
@@ -18861,6 +20084,8 @@ Cholewicki J, McGill SM. Lumbar posterior ligament involvement during extremely 
 
 Chumanov ES, Heiderscheit BC, Thelen DG. Hamstring Musculotendon Dynamics during Stance and Swing Phases of High-Speed Running. Medicine & Science in Sports & Exercise. 2011;43(3):525-532. doi:10.1249/MSS.0b013e3181f23fe8 · **open access**
 
+Cidrais M, Teodósio C, Correia JM, Vila-Chã C, Pezarat-Correia P, Bruno PM, et al. Adaptation of Muscles With Different Physiological Properties to Resistance Training With and Without Bloodflow Restriction. Sports Health: A Multidisciplinary Approach. 2026;:19417381261459244. doi:10.1177/19417381261459244 · **open access**
+
 Collings TJ, Bourne MN, Barrett RS, Meinders E, Gonçalves B, Shield AJ, et al. Reconsidering Exercise Selection with EMG: Poor Agreement between Ranking Hip Exercises with Gluteal EMG and Muscle Force. Medicine & Science in Sports & Exercise. 2025;57(9):1829-1837. doi:10.1249/MSS.0000000000003733 · *paywalled*
 
 Collings TJ, Bourne MN, Barrett RS, Meinders E, Gonçalves BAM, Shield AJ, et al. Gluteal Muscle Forces during Hip-Focused Injury Prevention and Rehabilitation Exercises. Medicine & Science in Sports & Exercise. 2023;55(4):650-660. doi:10.1249/MSS.0000000000003091 · **open access**
@@ -18973,9 +20198,13 @@ Escamilla RF, Francisco AC, Fleisig GS, Barrentine SW, Welch CM, Kayes AV, et al
 
 Escamilla RF. Knee biomechanics of the dynamic squat exercise. Medicine & Science in Sports & Exercise. 2001;33(1):127-141. doi:10.1097/00005768-200101000-00020 · *paywalled*
 
+Escriche-Escuder A, Cuesta-Vargas AI, Casaña J. Modelling and in vivo evaluation of tendon forces and strain in dynamic rehabilitation exercises: a scoping review. BMJ Open. 2022;12(7):e057605. doi:10.1136/bmjopen-2021-057605 · **open access**
+
 Esola MA, McClure PW, Fitzgerald GK, Siegler S. Analysis of Lumbar Spine and Hip Motion During Forward Bending in Subjects With and Without a History of Low Back Pain. Spine. 1996;21(1):71-78. doi:10.1097/00007632-199601010-00017 · *paywalled*
 
 Evangelista P, Rum L, Picerno P, Biscarini A. Decoding the Contribution of Shoulder and Elbow Mechanics to Barbell Kinematics and the Sticking Region in Bench and Overhead Press Exercises: A Link-Chain Model with Single- and Two-Joint Muscles. Journal of Functional Morphology and Kinesiology. 2025;10(3):322. doi:10.3390/jfmk10030322 · **open access**
+
+Faux-Dugan L, Piazza SJ. Correlations between Achilles tendon moment arm and plantarflexor muscle architecture variables. PLOS ONE. 2024;19(8):e0309406. doi:10.1371/journal.pone.0309406 · **open access**
 
 Fenwick CMJ, Brown SHM, McGill SM. Comparison of Different Rowing Exercises: Trunk Muscle Activation and Lumbar Spine Motion, Load, and Stiffness. Journal of Strength and Conditioning Research. 2009;23(5):1408-1417. doi:10.1519/JSC.0b013e3181b07334 · *paywalled*
 
@@ -19012,6 +20241,8 @@ Gentil P, Soares SR, Pereira MC, Cunha RR, Martorelli SS, Martorelli AS, et al. 
 Gerling ME, Brown SHM. Architectural analysis and predicted functional capability of the human latissimus dorsi muscle. Journal of Anatomy. 2013;223(2):112-122. doi:10.1111/joa.12074 · **open access**
 
 Gibbons LE, Videman T, Battié MC, Kaprio J. Determinants of Paraspinal Muscle Cross-sectional Area in Male Monozygotic Twins. Physical Therapy. 1998;78(6):602-610. doi:10.1093/ptj/78.6.602 · **open access**
+
+Goli A, Attarieh P, Nunes JP, Nehegadar S, Khani S, Fashi M, et al. Does Performing Partial Repetitions Beyond Momentary Failure Enhance Muscle Hypertrophy in Volume-Load-Equated Calf-Raise Resistance Training. International Journal of Exercise Science. 2026;19(4):. doi:10.70252/ijes2026403 · **open access**
 
 Gomo O, van den Tillaar R. The effects of grip width on sticking region in bench press. Journal of Sports Sciences. 2016;34(3):232-238. doi:10.1080/02640414.2015.1046395 · *paywalled*
 
@@ -19062,6 +20293,8 @@ Hammami R, Jerez-Martínez A, Jiménez-Martínez P, Alix-Fages C, Rebai H, Kassi
 Hammond A, Perrin C, Steele J, Giessing J, Gentil P, Fisher JP. The effects of a 4-week mesocycle of barbell back squat or barbell hip thrust strength training upon isolated lumbar extension strength. PeerJ. 2019;7:e7337. doi:10.7717/peerj.7337 · **open access**
 
 Harman EA, Rosenstein RM, Frykman PN, Nigro GA. Effects of a belt on intra-abdominal pressure during weight lifting. Medicine & Science in Sports & Exercise. 1989;21(2):186-190. doi:10.1249/00005768-198904000-00012 · *paywalled*
+
+Harper CM, Sylvester AD, Kramer PA. Implications of variability in triceps surae muscle volumes on peak lower limb muscle forces during human walking. PLOS ONE. 2025;20(3):e0320516. doi:10.1371/journal.pone.0320516 · **open access**
 
 Hartmann H, Wirth K, Klusemann M. Analysis of the Load on the Knee Joint and Vertebral Column with Changes in Squatting Depth and Weight Load. Sports Medicine. 2013;43(10):993-1008. doi:10.1007/s40279-013-0073-6 · *paywalled*
 
@@ -19135,9 +20368,13 @@ Kassiano W, Costa B, Kunevaliki G, Lisboa F, Prado A, Alves L, et al. Comparison
 
 Kassiano W, Costa B, Kunevaliki G, Lisboa F, Stavinski N, Prado A, et al. Distinct muscle growth and strength adaptations after preacher and incline biceps curls. International Journal of Sports Medicine. 2025;46(5):334-343. doi:10.1055/a-2517-0509 · *paywalled*
 
-Kassiano W, Costa B, Nunes JP, Ribeiro AS, Schoenfeld BJ, Cyrino ES. Which ROMs Lead to Rome? A Systematic Review of the Effects of Range of Motion on Muscle Hypertrophy. Journal of Strength and Conditioning Research. 2023;37(5):1135-1144. doi:10.1519/JSC.0000000000004415 · *paywalled*
+Kassiano W, Costa B, Kunevaliki G, Soares D, Zacarias G, Manske I, et al. Greater Gastrocnemius Muscle Hypertrophy After Partial Range of Motion Training Performed at Long Muscle Lengths [cited as Kassiano et al., 2023b]. Journal of Strength & Conditioning Research. 2023;37(9):1746-1753. doi:10.1519/jsc.0000000000004460 · *paywalled*
 
-Kassiano W, Kunevaliki G, Costa B, Nunes JP, Castro-e-Souza P, Tricoli I, et al. Addition of The Barbell Hip Thrust Elicits Greater Increases in Gluteus Maximus Muscle Thickness in Untrained Young Women. International Journal of Strength and Conditioning. 2024;4(1). doi:10.47206/ijsc.v4i1.284 · **open access**
+Kassiano W, Costa B, Nunes JP, Ribeiro AS, Schoenfeld BJ, Cyrino ES. Which ROMs Lead to Rome? A Systematic Review of the Effects of Range of Motion on Muscle Hypertrophy [cited as Kassiano et al., 2023a]. Journal of Strength and Conditioning Research. 2023;37(5):1135-1144. doi:10.1519/JSC.0000000000004415 · *paywalled*
+
+Kassiano W, Costa BDV, Kunevaliki G, Lisboa F, Tricoli I, Francsuel J, et al. Bigger Calves from Doing Higher Resistance Training Volume? [cited as Kassiano et al., 2024b]. International Journal of Sports Medicine. 2024;45(10):739-747. doi:10.1055/a-2316-7885 · *paywalled*
+
+Kassiano W, Kunevaliki G, Costa B, Nunes JP, Castro-e-Souza P, Tricoli I, et al. Addition of The Barbell Hip Thrust Elicits Greater Increases in Gluteus Maximus Muscle Thickness in Untrained Young Women [cited as Kassiano et al., 2024a]. International Journal of Strength and Conditioning. 2024;4(1). doi:10.47206/ijsc.v4i1.284 · **open access**
 
 Kassiano W, Santos-Melo V, Manske I, Lisboa F, Miguel A, Gomes F, et al. Progressive Overload Affects the Magnitude of Muscle Hypertrophy [cited as Kassiano et al., 2026b]. Medicine and Science in Sports and Exercise. 2026;58(7):1556-1565. doi:10.1249/MSS.0000000000003968 · *paywalled*
 
@@ -19157,6 +20394,8 @@ Kellis E, Blazevich AJ. Hamstrings force-length relationships and their implicat
 
 Kennedy D, Casebolt JB, Farren GL, Fiaud V, Bartlett M, Strong L. Electromyographic differences of the gluteus maximus, gluteus medius, biceps femoris, and vastus lateralis between the barbell hip thrust and barbell glute bridge. Sports Biomechanics. 2024;23(12):2935-2949. doi:10.1080/14763141.2022.2074875 · *paywalled*
 
+Kharazi M, Bohm S, Theodorakis C, Mersmann F, Arampatzis A. Quantifying mechanical loading and elastic strain energy of the human Achilles tendon during walking and running. Scientific Reports. 2021;11(1):5830. doi:10.1038/s41598-021-84847-w · **open access**
+
 Kholinne E, Zulkarnain RF, Sun YC, Lim S, Chun JM, Jeon IH. The different role of each head of the triceps brachii muscle in elbow extension. Acta Orthopaedica et Traumatologica Turcica. 2018;52(3):201-205. doi:10.1016/j.aott.2018.02.005 · **open access**
 
 Kikuchi N, Nakazato K. Low-load bench press and push-up induce similar muscle hypertrophy and strength gain. Journal of Exercise Science and Fitness. 2017;15(1):37-42. doi:10.1016/j.jesf.2017.06.003 · **open access**
@@ -19166,6 +20405,8 @@ Kim D, Woo J, Lee S, Jung J, Lee D, Hong J, et al. Effects of Mind–Muscle Conn
 Kim YS, Kim DY, Ha MS. Effect of the push-up exercise at different palmar width on muscle activities. Journal of Physical Therapy Science. 2016;28(2):446-449. doi:10.1589/jpts.28.446 · **open access**
 
 Kingma I, Faber GS, Suwarganda EK, Bruijnen TBM, Peters RJA, van Dieën JH. Effect of a Stiff Lifting Belt on Spine Compression During Lifting. Spine. 2006;31(22):E833-E839. doi:10.1097/01.brs.0000240670.50834.77 · *paywalled*
+
+Kinoshita M, Maeo S, Kobayashi Y, Eihara Y, Ono M, Sato M, et al. Triceps surae muscle hypertrophy is greater after standing versus seated calf-raise training. Frontiers in Physiology. 2023;14:1272106. doi:10.3389/fphys.2023.1272106 · **open access**
 
 Kircher K, Chaudry O, Nagel AM, Ghasemikaram M, Uder M, Jakob F, et al. Effects of high-intensity training on fatty infiltration in paraspinal muscles in elderly males with osteosarcopenia – the randomized controlled FrOST study. BMC Geriatrics. 2024;24(1):141. doi:10.1186/s12877-024-04736-5 · **open access**
 
@@ -19186,6 +20427,10 @@ Kondi S, Murugesan T, Postans N, Thumri P, Kantamaneni K, Ansari S, et al. An El
 Konrad A, Reiner MM, Warneke K, Keiner M, Nakamura M, Tilp M. Relationship between pectoralis major stiffness and shoulder extension range of motion. Frontiers in Physiology. 2024;15:1349426. doi:10.3389/fphys.2024.1349426 · **open access**
 
 Kostek MA, Pescatello LS, Seip RL, Angelopoulos TJ, Clarkson PM, Gordon PM, et al. Subcutaneous Fat Alterations Resulting from an Upper-Body Resistance Training Program. Medicine and Science in Sports and Exercise. 2007;39(7):1177-1185. doi:10.1249/mss.0b0138058a5cb · **open access**
+
+Kovács B, Hegyi A, Yaodong G, Kóbor I, Gyebnár G, Tihanyi J, et al. Sprint runners have longer Achilles tendon moment arm than distance runners. Journal of Biomechanics. 2025;182:112557. doi:10.1016/j.jbiomech.2025.112557 · *paywalled*
+
+Kovács B, Yaodong G, Kóbor I, Tihanyi J, Hortobágyi T, Gyebnár G. Effects of knee joint position on the triceps surae torque-size relationship during plantarflexion in healthy young adults. Journal of Biomechanics. 2024;177:112436. doi:10.1016/j.jbiomech.2024.112436 · **open access**
 
 Krajewski KT, LeFavi RG, Riemann BL. A Biomechanical Analysis of the Effects of Bouncing the Barbell in the Conventional Deadlift. Journal of Strength and Conditioning Research. 2019;33(Suppl 1):S70-S77. doi:10.1519/jsc.0000000000002545 · *paywalled*
 
@@ -19213,9 +20458,13 @@ Lanza MB, Prado GC, Lacerda LT, Dinardi RR, Carvalho Junior LH, Diniz RC, et al.
 
 Larsen S, Gomo O, van den Tillaar R. A Biomechanical Analysis of Wide, Medium, and Narrow Grip Width Effects on Kinematics, Horizontal Kinetics, and Muscle Activity on the Sticking Region in Recreationally Trained Males. Frontiers in Sports and Active Living. 2020;2:637066. doi:10.3389/fspor.2020.637066 · **open access**
 
+Larsen S, Sandberg NØ, Schoenfeld BJ, Fredriksen AB, Kristiansen BS, Wolf M, et al. Resistance Training Beyond Momentary Failure: The Effects of Past‐Failure Partials Versus Initial Partials on Calf Muscle Hypertrophy Among a Resistance‐Trained Cohort [cited as Larsen et al., 2025d]. European Journal of Sport Science. 2025;25(9):e70030. doi:10.1002/ejsc.70030 · **open access**
+
 Larsen S, Sandvik Kristiansen B, Swinton PA, Wolf M, Bao Fredriksen A, Nygaard Falch H, et al. The effects of hip flexion angle on quadriceps femoris muscle hypertrophy in the leg extension exercise [cited as Larsen et al., 2025a]. Journal of Sports Sciences. 2025;43(2):210-221. doi:10.1080/02640414.2024.2444713 · **open access**
 
 Larsen S, Sandvik Kristiansen B, Østerås Sandberg N, Bao Fredriksen A, van den Tillaar R, Wolf M, et al. The effects of shoulder extension angle on elbow flexor hypertrophy in the cable curl exercise. Frontiers in Physiology. 2026;17:1750722. doi:10.3389/fphys.2026.1750722 · **open access**
+
+Larsen S, Swinton PA, Sandberg NØ, Kristiansen BS, Fredriksen AB, Falch HN, et al. Resistance training beyond momentary failure: the effects of past-failure partials on muscle hypertrophy in the gastrocnemius [cited as Larsen et al., 2025e]. Frontiers in Psychology. 2025;16:1494323. doi:10.3389/fpsyg.2025.1494323 · **open access**
 
 Larsen S, Wolf M, Schoenfeld BJ, Sandberg NØ, Fredriksen AB, Kristiansen BS, et al. Dumbbell versus cable lateral raises for lateral deltoid hypertrophy: an experimental study [cited as Larsen et al., 2025c]. Frontiers in Physiology. 2025;16:1611468. doi:10.3389/fphys.2025.1611468 · **open access**
 
@@ -19283,6 +20532,8 @@ Maeo S, Wu Y, Huang M, Sakurai H, Kusagawa Y, Sugiyama T, et al. Triceps brachii
 
 Malliaras P, Barton CJ, Reeves ND, Langberg H. Achilles and Patellar Tendinopathy Loading Programmes: A Systematic Review Comparing Clinical Outcomes and Identifying Potential Mechanisms for Effectiveness. Sports Medicine. 2013;43(4):267-286. doi:10.1007/s40279-013-0019-z · *paywalled*
 
+Manal K, Cowder JD, Buchanan TS. Subject-specific measures of Achilles tendon moment arm using ultrasound and video-based motion capture. Physiological Reports. 2013;1(6):e00139. doi:10.1002/phy2.139 · **open access**
+
 Mannarino P, Matta T, Lima J, Simão R, Freitas de Salles B. Single-Joint Exercise Results in Higher Hypertrophy of Elbow Flexors Than Multijoint Exercise. Journal of Strength & Conditioning Research. 2021;35(10):2677-2681. doi:10.1519/jsc.0000000000003234 · *paywalled*
 
 Mannion AF, Dumas GA, Cooper RG, Espinosa FJ, Faris MW, Stevenson JM. Muscle fibre size and type distribution in thoracic and lumbar regions of erector spinae in healthy subjects without low back pain: normal values and sex differences [cited as Mannion et al., 1997b]. Journal of Anatomy. 1997;190(4):505-513. doi:10.1046/j.1469-7580.1997.19040505.x · **open access**
@@ -19316,6 +20567,8 @@ Mayer JM, Nuzzo JL. Worksite back and core exercise in firefighters: Effect on d
 Mayer JM, Udermann BE, Graves JE, Ploutz-Snyder LL. Effect of Roman Chair Exercise Training on the Development of Lumbar Extension Strength. The Journal of Strength and Conditioning Research. 2003;17(2):356-361. doi:10.1519/1533-4287(2003)017<0356:eorcet>2.0.co;2 · *paywalled*
 
 Mayer JM, Verna JL, Manini TM, Mooney V, Graves JE. Electromyographic activity of the trunk extensor muscles: Effect of varying hip position and lumbar posture during Roman chair exercise [cited as Mayer et al., 2002b]. Archives of Physical Medicine and Rehabilitation. 2002;83(11):1543-1546. doi:10.1053/apmr.2002.35103 · *paywalled*
+
+McBride S, Isabelle PL, Gómez-Carrión Á, Farahpour N, Chicoine D, Griffiths I, et al. International normative values for the weight-bearing lunge test across age and sex in 899 healthy adults. Musculoskeletal Science and Practice. 2026;82:103525. doi:10.1016/j.msksp.2026.103525 · **open access**
 
 McCurdy K, Walker J, Yuen D. Gluteus Maximus and Hamstring Activation During Selected Weight-Bearing Resistance Exercises. Journal of Strength and Conditioning Research. 2018;32(3):594-601. doi:10.1519/JSC.0000000000001893 · *paywalled*
 
@@ -19357,6 +20610,8 @@ Mukai H, Umehara J, Yagi M, Yanase K, Itsuda H, Ichihashi N. Effective stretchin
 
 Muñoz-Garcés M, Peñailillo L, Mendez-Rebolledo G. Regional Activation of the Latissimus Dorsi Muscle by High-Density Surface Electromyography During Isometric Shoulder and Trunk Exercises. Sports Health. 2026;18(4):841-850. doi:10.1177/19417381251393643 · **open access**
 
+Murakami Y, Konrad A, Kasahara K, Yoshida R, Warneke K, Behm DG, et al. Comparison between 6 weeks of static stretching and resistance training programs on passive and active properties of plantar flexors. a randomized controlled trial. Frontiers in Physiology. 2025;16:1555253. doi:10.3389/fphys.2025.1555253 · **open access**
+
 Murphy C, Koehler K. Energy deficiency impairs resistance training gains in lean mass but not strength: A meta-analysis and meta-regression. Scandinavian Journal of Medicine & Science in Sports. 2022;32(1):125-137. doi:10.1111/sms.14075 · **open access**
 
 Murray WM, Buchanan TS, Delp SL. Scaling of peak moment arms of elbow muscles with upper extremity bone dimensions. Journal of Biomechanics. 2002;35(1):19-26. doi:10.1016/S0021-9290(01)00173-7 · *paywalled*
@@ -19395,9 +20650,11 @@ Noteboom L, Belli I, Hoozemans MJM, Seth A, Veeger HEJ, van der Helm FCT. Effect
 
 Nunes JP, Blazevich AJ, Schoenfeld BJ, Kassiano W, Costa BDV, Ribeiro AS, et al. Determining Changes in Muscle Size and Architecture After Exercise Training: One Site Does Not Fit All. Journal of Strength and Conditioning Research. 2024;38(4):787-790. doi:10.1519/JSC.0000000000004722 · *paywalled*
 
+Nunes JP, Costa BDV, Kassiano W, Kunevaliki G, Castro-e-Souza P, Rodacki ALF, et al. Different Foot Positioning During Calf Training to Induce Portion-Specific Gastrocnemius Muscle Hypertrophy [cited as Nunes et al., 2020b]. Journal of Strength and Conditioning Research. 2020;34(8):2347-2351. doi:10.1519/jsc.0000000000003674 · *paywalled*
+
 Nunes JP, Grgic J, Cunha PM, Ribeiro AS, Schoenfeld BJ, de Salles BF, et al. What influence does resistance exercise order have on muscular strength gains and muscle hypertrophy? A systematic review and meta-analysis. European Journal of Sport Science. 2021;21(2):149-157. doi:10.1080/17461391.2020.1733672 · *paywalled*
 
-Nunes JP, Jacinto JL, Ribeiro AS, Mayhew JL, Nakamura M, Capel DMG, et al. Placing Greater Torque at Shorter or Longer Muscle Lengths? Effects of Cable vs. Barbell Preacher Curl Training on Muscular Strength and Hypertrophy in Young Adults. International Journal of Environmental Research and Public Health. 2020;17(16):5859. doi:10.3390/ijerph17165859 · **open access**
+Nunes JP, Jacinto JL, Ribeiro AS, Mayhew JL, Nakamura M, Capel DMG, et al. Placing Greater Torque at Shorter or Longer Muscle Lengths? Effects of Cable vs. Barbell Preacher Curl Training on Muscular Strength and Hypertrophy in Young Adults [cited as Nunes et al., 2020a]. International Journal of Environmental Research and Public Health. 2020;17(16):5859. doi:10.3390/ijerph17165859 · **open access**
 
 O'Connell DG, Cooper KA, Richeson SM, Moeller MB, Stephens JW, Key DJ. The effect of forearm position on elbow flexion strength in nursing, occupational, and physical therapy students. Work. 2021;69(2):403-409. doi:10.3233/wor-213486 · *paywalled*
 
@@ -19442,6 +20699,8 @@ Parkkola R, Kujala U, Rytökoski U. Response of the trunk muscles to training as
 Parpa K, Vasiliou A, Michaelides M, Govindasamy K, Chernov A, Intziegianni K. An Exploratory Study of Biceps Brachii Electromyographic Activity During Traditional Dumbbell Versus Bayesian Cable Curls. Muscles. 2025;4(4):45. doi:10.3390/muscles4040045 · **open access**
 
 Paton ME, Brown JMM. An electromyographic analysis of functional differentiation in human pectoralis major muscle. Journal of Electromyography and Kinesiology. 1994;4(3):161-169. doi:10.1016/1050-6411(94)90017-5 · *paywalled*
+
+Paz GA, de Freitas Maia M, Pinto de Castro JB, de Oliveira F, Miranda H, Lima VP, et al. Myoelectric activity of the gastrocnemius during plantar flexion in a standing versus seated position and with a neutral or dorsiflexed ankle: A pilot study. Journal of Bodywork and Movement Therapies. 2021;26:406-410. doi:10.1016/j.jbmt.2020.09.003 · *paywalled*
 
 Pedrosa GF, Lima FV, Schoenfeld BJ, Lacerda LT, Simões MG, Pereira MR, et al. Partial range of motion training elicits favorable improvements in muscular adaptations when carried out at long muscle lengths. European Journal of Sport Science. 2022;22(8):1250-1260. doi:10.1080/17461391.2021.1927199 · *paywalled*
 
@@ -19541,7 +20800,11 @@ Schoenfeld BJ, Pope ZK, Benik FM, Hester GM, Sellers J, Nooner JL, et al. Longer
 
 Schoenfeld BJ, Vigotsky A, Contreras B, Golden S, Alto A, Larson R, et al. Differential effects of attentional focus strategies during long-term resistance training. European Journal of Sport Science. 2018;18(5):705-712. doi:10.1080/17461391.2018.1447020 · **open access**
 
+Schoenfeld BJ, Vigotsky AD, Grgic J, Haun C, Contreras B, Delcastillo K, et al. Do the anatomical and physiological properties of a muscle determine its adaptive response to different loading protocols?. Physiological Reports. 2020;8(9):. doi:10.14814/phy2.14427 · **open access**
+
 Schuermans J, Witvrouw E, Wezenbeek E, Lievens E. Hamstring muscle fibre typology is not associated with hamstring strain injury history or performance in amateur male soccer players: a retrospective magnetic resonance spectroscopy study. Biology of Sport. 2023;40(4):1177-1186. doi:10.5114/biolsport.2023.126663 · **open access**
+
+Schwach M, Gaulin B, Vermorel PH, Horteur C, Tourné Y. Tennis leg: Diagnosis and management: A state-of-the-art review. The Foot. 2026;68:102267. doi:10.1016/j.foot.2026.102267 · *paywalled*
 
 Sekáč J, Šagát P, Bartík P, Kilián M, Tohănean DI, Perez J, et al. Distal Triceps Tendon Rupture—First Retrospective Study in Central Europe. Journal of Clinical Medicine. 2024;13(24):7792. doi:10.3390/jcm13247792 · **open access**
 
@@ -19617,6 +20880,8 @@ Toby EB, Hanesworth D. Ulnar nerve strains at the elbow. The Journal of Hand Sur
 
 Trybulski R, Michał W, Małgorzata S, Bogdański B, Bichowska-Pawęska M, Ryszkiel I, et al. Impact of isolated lumbar extension strength training on reducing nonspecific low back pain, disability, and improving function: a systematic review and meta-analysis. Scientific Reports. 2025;15(1):6426. doi:10.1038/s41598-025-90699-5 · **open access**
 
+Tsai MS, Domroes T, Pentidis N, Koschinski S, Schroll A, Bohm S, et al. Effect of the temporal coordination and volume of cyclic mechanical loading on human Achilles tendon adaptation in men. Scientific Reports. 2024;14(1):6875. doi:10.1038/s41598-024-56840-6 · **open access** !!UPDATED!!
+
 Tsaopoulos DE, Baltzopoulos V, Richards PJ, Maganaris CN. A comparison of different two-dimensional approaches for the determination of the patellar tendon moment arm length. European Journal of Applied Physiology. 2009;105(5):809-814. doi:10.1007/s00421-008-0968-3 · *paywalled*
 
 Tucci JT, Carpenter DM, Pollock ML, Graves JE, Leggett SH. Effect of Reduced Frequency of Training and Detraining on Lumbar Extension Strength. Spine. 1992;17(12):1497-1501. doi:10.1097/00007632-199212000-00009 · *paywalled*
@@ -19675,7 +20940,11 @@ Ward SR, Eng CM, Smallwood LH, Lieber RL. Are Current Measurements of Lower Extr
 
 Ward SR, Kim CW, Eng CM, Gottschalk LJ, Tomiya A, Garfin SR, et al. Architectural Analysis and Intraoperative Measurements Demonstrate the Unique Design of the Multifidus Muscle for Lumbar Spine Stability [cited as Ward et al., 2009b]. The Journal of Bone and Joint Surgery-American Volume. 2009;91(1):176-185. doi:10.2106/JBJS.G.01311 · **open access**
 
+Warneke K, Keiner M, Wohlann T, Lohmann LH, Schmitt T, Hillebrecht M, et al. Influence of Long-Lasting Static Stretching Intervention on Functional and Morphological Parameters in the Plantar Flexors: A Randomized Controlled Trial [cited as Warneke et al., 2023a]. Journal of Strength & Conditioning Research. 2023;37(10):1993-2001. doi:10.1519/jsc.0000000000004513 · *paywalled*
+
 Warneke K, Siegel SD, Drabow J, Zech A, Behm DG, et al. Examiner experience moderates reliability of human lower extremity muscle ultrasound measurement — a double blinded measurement error study. The Ultrasound Journal. 2025;17(1):20. doi:10.1186/s13089-025-00424-6 · **open access**
+
+Warneke K, Wirth K, Keiner M, Lohmann LH, Hillebrecht M, Brinkmann A, et al. Comparison of the effects of long-lasting static stretching and hypertrophy training on maximal strength, muscle thickness and flexibility in the plantar flexors [cited as Warneke et al., 2023b]. European Journal of Applied Physiology. 2023;123(8):1773-1787. doi:10.1007/s00421-023-05184-6 · **open access**
 
 Wei W, Zhu J, Ren S, Jan YK, Zhang W, Su R, et al. Effects of progressive body-weight versus barbell back squat training on strength, hypertrophy and body fat among sedentary young women. Scientific Reports. 2023;13:14601. doi:10.1038/s41598-023-40319-x · **open access**
 
@@ -19701,6 +20970,8 @@ Yamaguchi Y, Nishiyama T, Wada N, Fukuda W, Mizuno M, Otsuka M. Different morpho
 
 Yamamoto R, Nimura A, Muro S, Hoshika S, Akita K. Anatomy of the distal tendinous structure of the triceps brachii: implications for the role of the triceps brachii to resist valgus elbow forces during baseball pitching. Journal of Shoulder and Elbow Surgery. 2025;34(8):e672-e682. doi:10.1016/j.jse.2024.11.023 · **open access**
 
+Yeh CH, Calder JD, Antflick J, Bull AMJ, Kedgley AE. Maximum dorsiflexion increases Achilles tendon force during exercise for midportion Achilles tendinopathy. Scandinavian Journal of Medicine & Science in Sports. 2021;31(8):1674-1682. doi:10.1111/sms.13974 · **open access**
+
 Yoo WG. Comparison of the isolated contraction ratios of the hip extensors and erector spinae muscles of the lumbar region and thoracic muscles during different back extension exercises. Journal of Physical Therapy Science. 2015;27(2):315-316. doi:10.1589/jpts.27.315 · **open access**
 
 Youdas JW, Amundson CL, Cicero KS, Hahn JJ, Harezlak DT, Hollman JH. Surface Electromyographic Activation Patterns and Elbow Joint Motion During a Pull-Up, Chin-Up, or Perfect-Pullup Rotational Exercise. Journal of Strength and Conditioning Research. 2010;24(12):3404-3414. doi:10.1519/JSC.0b013e3181f1598c · *paywalled*
@@ -19718,6 +20989,8 @@ Zanesco L, Uthant R, Arai C, Assunção J, Checchia C, Beraldo RA, et al. Elbow 
 Zaras N, Stasinaki AN, Mpampoulis T, Spiliopoulou P, Hadjicharalambous M, Terzis G. Effect of Inter-Repetition Rest vs. Traditional Resistance Training on the Upper Body Strength Rate of Force Development and Triceps Brachii Muscle Architecture. Journal of Human Kinetics. 2022;81:189-198. doi:10.2478/hukin-2022-0016 · **open access**
 
 Zaroni RS, Brigatto FA, Schoenfeld BJ, Braz TV, Benvenutti JC, Germano MD, et al. High Resistance-Training Frequency Enhances Muscle Thickness in Resistance-Trained Men. Journal of Strength and Conditioning Research. 2019;33(Suppl 1):S140-S151. doi:10.1519/JSC.0000000000002643 · *paywalled*
+
+Zellers JA, Brorsson A, Grävare Silbernagel K. Impact of seated and standing positions on triceps surae muscle activation in unilateral Achilles tendon rupture. Translational Sports Medicine. 2020;3(1):3-8. doi:10.1002/tsm2.117 · **open access**
 
 Zhang B, Raguzzi IA, Dupuis F, Gianola S, Morgan-Daniel J, Roy JS, et al. Addressing Shoulder Weakness in Individuals With Rotator Cuff-Related Shoulder Pain: A Systematic Review With Meta-analysis. Journal of Orthopaedic & Sports Physical Therapy. 2026;56(2):67-84. doi:10.2519/jospt.2025.13445 · **open access**
 
