@@ -5,7 +5,7 @@
 > the rep → exercise catalogue → contexts → programming. **This volume covers the latissimus
 > dorsi, the quadriceps femoris, the gluteal muscles, the deltoids, the core, the
 > hamstrings, the pectoral muscles, the triceps brachii, the erector spinae, the elbow flexors, the calves, the trapezius and
-> scapular muscles, the forearms and grip, and the hip adductors.** Further muscles are added as
+> scapular muscles, the forearms and grip, the hip adductors and the rotator cuff.** Further muscles are added as
 > new Parts; the glossary and bibliography are always the final two Parts and are shared across all
 > of them.
 >
@@ -129,8 +129,16 @@
    - **§E** [Context modifiers — when "perfect" changes](#partxvecontextmodifiers)
    - **§F** [Programming](#partxvfprogramming)
    - **§G** [Synthesis, and what the evidence does not support](#partxvgsynthesis)
-16. **[Part XVI — Master Glossary](#partxvimasterglossary)** (400 entries, in dependency order, with an alphabetical index at its head)
-17. **[Part XVII — Bibliography](#partxviibibliography)** (657 sources, 322 open access)
+16. **[Part XVI — The Rotator Cuff](#partxvitherotatorcuff)**
+   - **§A** [Anatomy and architecture](#partxviaanatomyandarchitecture)
+   - **§B** [Biomechanics — what actually loads the rotator cuff](#partxvibbiomechanics)
+   - **§C** [The rep, specified](#partxvictherepspecified)
+   - **§D** [Exercise catalogue](#partxvidexercisecatalogue)
+   - **§E** [Context modifiers, rehabilitation and prevention](#partxviecontextmodifiers)
+   - **§F** [Programming](#partxvifprogramming)
+   - **§G** [Synthesis, and what the evidence does not support](#partxvigsynthesis)
+17. **[Part XVII — Master Glossary](#partxviimasterglossary)** (411 entries, in dependency order, with an alphabetical index at its head)
+18. **[Part XVIII — Bibliography](#partxviiibibliography)** (687 sources, 343 open access)
 
 **How to read this.** The first occurrence of a technical term in each Part links to its glossary
 entry. Cross-references are written `Part II §B.4`.
@@ -156,8 +164,8 @@ and no punctuation of any kind** — `forcelengthrelationship`, `momentarm`, `pa
 That character set is the fixed point of all four algorithms: each maps it to itself, so one link form
 works everywhere without HTML anchors or renderer-specific syntax. The cost is that the heading itself
 is not meant to be read; **the human-readable name is the bold lead-in immediately below it**, and the
-alphabetical index at the head of Part XVI is the place to look a term up. Structural anchors carry
-their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to XV share
+alphabetical index at the head of Part XVII is the place to look a term up. Structural anchors carry
+their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to XVI share
 section titles and would otherwise collide. Links are same-file only: no HTML anchors, no relative file links, no external
 links.
 
@@ -1914,7 +1922,7 @@ THREE-TIMES-WEEKLY — HIGH VOLUME, ROTATING EMPHASIS
 large. Row three has one lat-specific anchor — eight weeks of pulldown-and-row training produced
 **+22% latissimus fibre cross-sectional area** on biopsy in 18 novice men (Paoli et al., 2016) — but
 no study has tracked lat *thickness* by ultrasound over these timelines, and the method is a poor index
-of individual change in any case (Part XVI, muscle thickness). Rows four and five
+of individual change in any case (Part XVII, muscle thickness). Rows four and five
 are coaching convention, not measured outcomes.
 
 **Validity caveat:** thickness measured in the first weeks of a new program is inflated by
@@ -5278,7 +5286,7 @@ Part V §B.11.
 
 ### A.4 Architecture — the least-measured muscle in this document
 
-**There is no Ward et al. (2009a) for the shoulder that this document could obtain.** Parts III and IV
+**There is a Ward et al. for the shoulder, and Part XVI obtained it** — rotator cuff architecture in ten cadaveric specimens, with PCSA, fibre length and sarcomere operating ranges (Ward et al., 2006), now supplemented by the same measurements in twenty living shoulders (Zhang et al., 2024). What there is no equivalent of, for the shoulder as a whole, is the lower limb's single-specimen-set completeness. Parts III and IV
 rested on one dataset that measured mass, [fascicle length](#fasciclelength),
 [sarcomere](#sarcomere) length, [pennation angle](#pennationangle) and [PCSA](#pcsa) for every muscle
 of the lower limb in the same twenty-one specimens. **One comparable study exists for the shoulder and
@@ -5388,9 +5396,14 @@ The measured [moment arms](#momentarm) state this precisely. In eight cadaveric 
 
 **At the start of the range the rotator cuff out-levers the deltoid by more than three to one, and by
 the middle of the range the ordering has reversed.** That is the mechanical content of the
-century-old description of the shoulder as a force couple (Inman et al., 1996): the cuff compresses and
-depresses the humeral head into the socket while the deltoid elevates it, and the pair produce rotation
-that neither produces alone. The review that pooled the moment-arm literature draws exactly this
+century-old description of the shoulder as a force couple (Inman et al., 1996): the cuff compresses the
+humeral head into the socket while the deltoid elevates it, and the pair produce rotation that neither
+produces alone. **Part XVI §B.2 sharpens the traditional wording of that couple.** The cuff's *depressor*
+leverage is weak — pectoralis major, latissimus dorsi and teres major carry the large depressor moment arms
+— so the cuff's share is compressive (Hik & Ackland, 2019; Ackland & Pandy, 2009). A depressor *moment arm*
+is a statement about torque and cannot by itself refute the older claim, which was about the head
+*translating* upward; what the two papers together support is that the cuff resists that translation by
+**compressing**, not by pulling down. The review that pooled the moment-arm literature draws exactly this
 conclusion — because the deltoid's moment arms are small in early elevation, the supraspinatus's
 prominent leverage there suggests it behaves as the **initiator** of elevation (Hik & Ackland, 2019).
 
@@ -6569,7 +6582,7 @@ of exposure, so they establish where injuries land, not how likely they are.
 | Context | Common modification | Evidence note |
 |---|---|---|
 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) — a painful arc, pain reaching overhead, pain lying on that side | **Reduce the provoking arc first**, then load progressively in the pain-free range. Keep the press below the painful band or replace it with a landmine press; keep raises in the scapular plane | Rehabilitation improved shoulder strength in this population across twenty-eight studies, and **interventions that did not include exercise had no effect at all** (Zhang et al., 2026). The active ingredient is loading |
-| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part XVI, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
+| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part XVII, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
 | History of dislocation or [shoulder instability](#shoulderinstability) | Overhead and behind-the-neck positions are commonly restricted; abduction with external rotation is the classic apprehension position | Governed by the clinician, not by this document |
 | Acromioclavicular joint pain — point tenderness on top of the shoulder | Reduce [horizontal adduction](#shoulderhorizontaladduction) across the body; raises and presses are usually well tolerated | The joint is compressed by reaching across, not by reaching out |
 | Long head of biceps pain — front-of-shoulder pain with a defined tender line | Reduce front raises and dips; the tendon runs in the [bicipital groove](#bicipitalgroove) directly under them | Mechanism, not trial evidence |
@@ -21440,9 +21453,1299 @@ and not the pooled paper; and a wider squat stance does **not** raise what the a
 three-dimensionally, their moment is unchanged across stance widths while the hip extensors' and rotators'
 both rise.
 
-# partxvimasterglossary
+# partxvitherotatorcuff
 
-**Part XVI — Master Glossary**
+**Part XVI — The [Rotator Cuff](#rotatorcuffmuscles)**
+
+> Scope: the anatomy, mechanics, technique, exercise selection, context modifiers, **rehabilitation**,
+> **injury prevention** and programming for the four muscles that hold the ball of the shoulder in its
+> socket — [supraspinatus](#supraspinatus), [infraspinatus](#infraspinatus), [teres minor](#teresminor) and [subscapularis](#subscapularis).
+>
+> **General education only, and this Part more than any other.** Shoulder pain lasting more than a few weeks,
+> weakness that does not recover, an arm you cannot lift after a fall, or night pain that wakes you needs
+> assessment rather than a training programme — see §E.4.
+>
+> **Angle conventions, fixed for the whole Part.** Arm [elevation](#humeralelevation) keeps its Part XIII meaning: **0° is the arm
+> hanging, 180° is straight overhead**, measured relative to the trunk. Humeral rotation is measured with the
+> arm at the side unless stated: **0° is the forearm pointing straight forward**, positive is external
+> rotation (forearm swinging outward) and negative is internal.
+>
+> **What makes this Part different.** Three things, and they point in awkward directions.
+>
+> First, **the cuff's famous job is not its main job.** Measured across every published moment-arm dataset,
+> the cuff muscles have **the largest axial rotation moment arms of any muscles at the shoulder** and act as
+> only *weak* elevators or depressors of the arm (Hik & Ackland, 2019). They are a rotator group with a
+> stabilizing sideline, not a "depressor" group.
+>
+> Second, **rotator cuff tears are mostly an age phenomenon and mostly silent.** Pooled across 30 studies and
+> 6,112 shoulders, cuff abnormality runs from **9.7% of people under 20 to 62% of people over 80** — and the
+> rise is "similar regardless of symptoms" (Teunis et al., 2014).
+>
+> Third, and most uncomfortable: **the operation this region is famous for does not beat placebo surgery**
+> (Beard et al., 2018), and it still does not at ten years (Kanto et al., 2025). And in the largest trial of
+> the conservative alternative, **six sessions of progressive physiotherapy did not beat one session of
+> advice** (Hopewell et al., 2021). This Part reports all three results and does not pretend they are
+> comfortable.
+
+---
+
+## partxviaanatomyandarchitecture
+
+**PART A — Anatomy and Architecture**
+
+### A.1 What the rotator cuff is
+
+Four small muscles that wrap the top of the [arm bone](#humerus) from the [shoulder blade](#scapula) and blend into a continuous
+sleeve of tendon over the ball of the joint.
+
+Three facts organize the Part.
+
+1. **The joint they serve has almost no bony stability.** The socket is shallow and the ball is large — the
+   usual comparison is a golf ball on a tee. What keeps the two together through a full [range of motion](#rangeofmotion) is
+   mostly these four muscles, plus the labrum, capsule and ligaments (Part V §A.1).
+2. **They are rotators first, with one exception.** As a group the cuff carries the largest rotation
+   leverage at the shoulder and very little depression leverage (Hik & Ackland, 2019): the [deltoid](#deltoid) raises
+   your arm, and the cuff decides where it points and keeps the ball centred while the deltoid works. **The
+   exception is supraspinatus**, whose [abduction](#shoulderabduction) [moment arm](#momentarm) peaks at 28.2 mm in very early elevation
+   (Hik & Ackland, 2019), more than three times the **middle** deltoid's 8.3 mm at that angle (Ackland et al., 2008) —
+   which is why Part V §A.5 calls it the initiator. The ratio comes from two papers, not one.
+3. **Part of their stabilizing job is passive.** Two of them sit at long [sarcomere](#sarcomere) lengths with the arm at
+   your side and carry real resting tension there, which is a structural contribution rather than a
+   contractile one (Ward et al., 2006). You cannot train [passive tension](#passivetension) the way you train a muscle.
+
+The four, from front to back around the top of the humerus:
+
+- **Subscapularis** — on the front of the shoulder blade, under it, inserting on the [lesser tubercle](#lessertubercle).
+  **Internally rotates.** The largest of the four, and the one almost nobody trains.
+- **Supraspinatus** — above the spine of the scapula, running under the bony roof to the top of the greater
+  tubercle. **Assists elevation**, especially early.
+- **Infraspinatus** — below the scapular spine, the main **external rotator**.
+- **Teres minor** — a small strap below the infraspinatus, also **externally rotating**.
+
+The long head of the biceps runs through the same space and is covered in Part XI.
+
+### A.2 Attachments — the map you load
+
+| Muscle | From | To | Nerve | Main action |
+|---|---|---|---|---|
+| **Subscapularis** | Subscapular fossa — the **front** of the scapula | **Lesser tubercle** of the humerus | Upper and lower subscapular (C5–C6) | [Internal rotation](#internalrotation) |
+| **Supraspinatus** | Supraspinous fossa, above the scapular spine | **Superior facet**, [greater tubercle](#greatertubercle) | Suprascapular (C5–C6) | Elevation, especially early |
+| **Infraspinatus** | Infraspinous fossa, below the spine | **Middle facet**, greater tubercle | Suprascapular (C5–C6) | [External rotation](#shoulderexternalrotation) |
+| **Teres minor** | Upper lateral border of the scapula | **Inferior facet**, greater tubercle | **Axillary** (C5–C6) | External rotation |
+
+Spinal levels are the textbook account *[consensus — no single source]*. Four points do the work.
+
+**One tendon, not four.** The four tendons do not arrive separately; they interdigitate into a continuous
+sheet over the humeral head before inserting. That is why a tear rarely respects a single muscle's name, and
+why "supraspinatus tear" usually means a tear centred on the supraspinatus footprint rather than a tear
+confined to it. *[consensus — no single source]*
+
+**Three of the four insert on the same bump — approximately.** Supraspinatus, infraspinatus and teres minor
+take the three facets of the greater tubercle roughly in order from top to bottom, and subscapularis crosses
+to the front. So **the cuff wraps the head from both sides**, which is the anatomical basis of the force
+couple in §A.4. That is the textbook map, and it is a simplification in two ways that matter. Dissecting 113
+shoulders from 64 cadavers, Mochizuki et al. found the supraspinatus footprint to be **small and
+front-to-back, not side-to-side** — on average 6.9 mm across and 12.6 mm from front to back — with much of
+the superior facet actually occupied by infraspinatus, and with supraspinatus reaching **the lesser tubercle
+in 21% of specimens** (Mochizuki et al., 2008). So "subscapularis alone crosses to the front" is wrong in
+about one shoulder in five, and a tear centred on the top of the head is more likely to involve
+infraspinatus than the tidy map suggests.
+
+**Two nerves, and one of them is the axillary.** Teres minor is supplied by the [axillary nerve](#axillarynerve) — the
+deltoid's nerve — and the other three by the suprascapular and subscapular nerves. An axillary nerve injury
+therefore costs you deltoid *and* one external rotator.
+
+**The [suprascapular nerve](#suprascapularnerve) passes through a notch.** It is a recognized entrapment site, and suprascapular
+neuropathy is one of the differential diagnoses for a cuff that tests weak without a tear.
+
+### A.3 Architecture — the biggest one is the one you have never trained
+
+Ten cadaveric shoulders were dissected and their sarcomere-length operating ranges modelled across 75° of
+rotation and 75° of abduction (Ward et al., 2006). Three results, and each one is useful.
+
+**First, the force ranking.** By physiological [cross-sectional area](#pcsa):
+
+```
+  SUBSCAPULARIS  >  INFRASPINATUS  >  SUPRASPINATUS  >  TERES MINOR
+  (greatest force-producing capacity)              (least)
+```
+
+**The largest rotator cuff muscle is the internal rotator on the front of the shoulder blade** — the one that
+no rehabilitation protocol, exercise catalogue or gym programme in common use makes its first target. The
+external rotators get all the attention and the internal rotator is bigger than either of them.
+
+**Second, the supraspinatus is the long-range one.** By [fibre length](#fasciclelength) it "would operate over the widest range
+of sarcomere lengths" of the four (Ward et al., 2006). It is tempting to read that as a design virtue — a
+muscle built to keep working while the shoulder travels a long way. **Resist the reading.** Ward's paper
+states the fact without evaluating it, and the figure is **modelled** rather than measured: operating ranges
+were computed from fibre lengths plus previously published joint-excursion data. Where the same laboratory
+does evaluate a wide operating range, it treats it as a **liability** — a muscle forced "to operate over a
+wider range of the length-tension curve" has "compromised force-generating capacity" (Ward et al., 2010, in
+a rat model of supraspinatus detachment). A wide sarcomere excursion means more of the range is spent away
+from the peak of the force–length curve. **This document's judgement:** treat it as a fact about
+supraspinatus's working conditions, not as evidence that it is well designed for them.
+
+**Third, and this is the one that changes how you think about training them:**
+
+> **Supraspinatus and infraspinatus sit at relatively long sarcomere lengths with the arm at your side and
+> are under relatively high passive tension at rest** — which the authors read as making them "responsible
+> for [glenohumeral](#glenohumeraljoint) resting stability". **Subscapularis contributes its passive tension somewhere else: at
+> maximum abduction and external rotation**, the position of apprehension. Across the whole range the cuff
+> "produce[s] near maximal active tensions in the midrange and produce[s] passive tensions in the various
+> end-range positions" (Ward et al., 2006).
+
+Read that carefully. **A meaningful part of what the cuff does for your shoulder, it does without
+contracting.** It is doing it now, while you read this. That is a structural property of muscle sitting at a
+particular length, and it is the single best argument for why cuff training is not simply "get the external
+rotators strong" — and also why you should not expect a strength number to capture what the cuff contributes.
+
+The same paper ends with a line worth keeping: **"relatively small changes to rotator cuff muscle length may
+result in relatively large changes in shoulder function."**
+
+### A.4 The division of labour
+
+| Job | Who does it | Loaded by |
+|---|---|---|
+| **External rotation** | Infraspinatus, teres minor | Almost nothing in a normal programme |
+| **Internal rotation** | Subscapularis, with the lats and pecs | Every press and pull, indirectly |
+| **Keeping the head centred while the deltoid lifts** | All four, as stabilizers | Every overhead and lateral movement |
+| **End-range restraint** | Subscapularis in front, the others behind | Positions rather than exercises |
+
+The third [row](#row) is the classic textbook picture and it deserves precision. **The cuff and the deltoid form a
+force couple in the vertical plane**: the deltoid's line of pull would drag the humeral head upward if
+nothing opposed it, and the cuff opposes that. **And the cuff forms a second force couple around the head in
+the horizontal plane**, subscapularis in front against infraspinatus and teres minor behind.
+
+But the vertical couple has a limit that the textbook picture usually omits, and §B.2 gives it: the cuff's
+*depressor* leverage is weak. The counterbalance is real; it is just not mostly what the cuff is built for.
+
+### A.5 What is known about making them grow
+
+Little, but more than nothing, and the two studies that exist point the same way: **the cuff grows on light
+loads.**
+
+> **Sixteen healthy men were randomly assigned to eight weeks of shoulder external rotation — three sets of
+> ten, three times a week — performed either with low intensity and slow movement (n = 8) or with normal
+> intensity and normal speed (n = 8). Infraspinatus cross-sectional area was measured before and after**
+> (Matsumura et al., 2023).
+>
+> | | Low-intensity, slow | Normal intensity, normal speed |
+> |---|---|---|
+> | Infraspinatus cross-sectional area | **+7.3%** | no significant change |
+> | External rotation strength | no significant change | no significant change |
+
+This is a **randomized trial, in healthy people, with a size outcome**, and it is also the only comparison of
+load and tempo the cuff has. Two cautions, both real. **Eight per group**, all young and male. And the
+result is a *within-group* change that reached significance in one arm and not the other — which is **not
+the same as a significant difference between the arms**, a distinction this document insists on elsewhere and
+will not drop here. Read it as: light, slow external rotation grew the infraspinatus about 7% in eight weeks,
+and the heavier, faster version was not shown to do better.
+
+The second study is not a trial.
+
+> **Fourteen people with asymptomatic, untrained shoulders did eight weeks of a low-load shoulder exercise
+> programme, with blood-flow restriction applied to the dominant arm only. Ultrasound measured
+> cross-sectional area before and after** (Safford et al., 2024).
+>
+> | | Restricted arm |
+> |---|---|
+> | Supraspinatus cross-sectional area | **+9.8%** (d = 0.40) |
+> | Infraspinatus cross-sectional area | **+11.7%** (d = 0.46) |
+> | Supraspinatus tendon thickness | no significant change |
+>
+> **Both arms improved — and both arms trained.** Only the blood-flow restriction was one-sided; the exercise
+> programme was performed bilaterally. There was **no significant difference between the restricted and
+> unrestricted arms** for strength or cross-sectional area. So this is not evidence of a systemic or
+> cross-education effect on an untrained limb; it is two trained arms, one of which also had a cuff on it.
+> **Level of evidence 4 — a case series with no control group.**
+
+What the pair permits you to say is narrow but not nothing: **cuff muscles grow roughly 7–12% in eight weeks
+of light shoulder work**, in the only two datasets that exist, and blood-flow restriction cannot be credited
+for it. What they do not permit is a dose statement — nobody has compared sets, [frequency](#trainingfrequency), range of motion or
+long-term progression for the cuff with a size outcome, and the one load-and-tempo comparison is eight men
+per arm.
+
+> **Searched and found, on the second pass.** The first draft of this Part asserted that no randomized trial
+> had measured cuff size after training in healthy people, and that no study had compared load or rep range
+> with a size outcome. **Both claims were false**, and Matsumura et al., 2023 falsifies both. The claim is
+> recorded here because the failure is instructive: the trial is small, in a physiotherapy journal, and indexed
+> under "infraspinatus" rather than "rotator cuff". **An absence claim is a claim about the literature, and
+> this document has now been wrong about one four Parts running.**
+
+### A.6 The tendon, the space and the footprint
+
+The cuff's problems are mostly tendon problems, so the tendon deserves its own lines.
+
+- **The tendons blend before they insert**, so tears propagate across muscle boundaries (§A.2).
+- **The supraspinatus tendon passes under a bony roof** — the [acromion](#acromion) and the ligament spanning it — with a
+  bursa between. That anatomy generated the whole "[impingement](#impingement)" model of shoulder pain, which §E.4 examines
+  and largely dismantles.
+- **The footprint is small, and narrower than the textbooks imply.** The supraspinatus footprint averages
+  **6.9 mm from the edge of the cartilage outward and 12.6 mm front to back** (Mochizuki et al., 2008) — about
+  a centimetre of bone in the direction the repair has to hold. That is why surgical repair is a reattachment
+  problem rather than a suturing problem, and why re-tear rates are what they are.
+- **There is one real gap in the sleeve: the rotator interval**, the triangle between the supraspinatus and
+  subscapularis tendons at the front, bridged by capsule and the coracohumeral ligament rather than by tendon.
+  It is where subscapularis tears tend to begin and propagate, and it is the honest exception to "one
+  continuous sheet" (Clark & Harryman, 1992).
+
+### A.7 The nerves
+
+- **Suprascapular nerve (C5–C6)** — supraspinatus and infraspinatus, passing through the suprascapular notch
+  and then around the spinoglenoid notch. Entrapment at either point produces weakness that mimics a tear;
+  at the second point it can spare supraspinatus and hit infraspinatus alone, which is a recognized picture
+  in volleyball players and other overhead athletes.
+- **Subscapular nerves (C5–C6)** — subscapularis.
+- **Axillary nerve (C5–C6)** — teres minor, and the deltoid (Part V §A.7).
+
+### A.8 How the rotator cuff is injured — and how common that is
+
+This is the section that should change what you expect from a scan.
+
+> **Pooled across 30 studies and 6,112 shoulders, the prevalence of rotator cuff abnormality rises from
+> 9.7% in people aged 20 and under to 62% in people aged 80 and over** — an odds ratio of **15**
+> (95% CI 9.6–24) across the age range. And the crucial finding: **"there was a similar increasing
+> prevalence of abnormalities regardless of symptoms"** (Teunis et al., 2014).
+
+**A cuff tear is, statistically, a normal feature of an ageing shoulder.** By your seventies, a tear found on
+imaging is more likely to be an incidental finding than an explanation. That does not mean tears never hurt;
+it means **the presence of a tear does not establish that it is the cause of your pain**, and it is the
+single most useful fact in this Part for anyone who has just been handed a report.
+
+The injury categories:
+
+- **Degenerative tearing** — the age process above. Usually supraspinatus first, at the footprint.
+- **Traumatic tearing** — a fall onto the arm, a sudden heavy catch, a dislocation. Sudden weakness after a
+  clear event is the presentation that genuinely needs assessment.
+- **Rotator cuff tendinopathy / [rotator-cuff-related shoulder pain](#rotatorcuffpain)** — the commonest painful presentation,
+  and the one §E.4 is about.
+- **Subscapularis tears** — under-recognized, often with a traumatic mechanism involving forced external
+  rotation.
+- **Suprascapular neuropathy** — the mimic (§A.7).
+
+### A.9 What the anatomy dictates, in nine lines
+
+1. The shoulder is a large ball on a shallow socket; **the cuff is most of what holds it together.**
+2. **They are rotators first**, with only weak elevation or depression leverage (Hik & Ackland, 2019).
+3. **Subscapularis is the largest of the four**, and it is an internal rotator that nobody trains.
+4. **Part of the cuff's stabilizing work is passive**, from muscles sitting at long lengths at rest
+   (Ward et al., 2006) — you cannot train that directly.
+5. The four tendons **blend into one sheet**, so tears do not respect muscle names.
+6. Three insert on the greater tubercle behind, one on the lesser tubercle in front — **the cuff wraps the
+   head from both sides.**
+7. **Cuff abnormality runs from 10% of young people to 62% of the over-80s, largely regardless of symptoms**
+   (Teunis et al., 2014).
+8. Therefore **a tear on a scan is not automatically the cause of the pain**.
+9. **The cuff grows on light loads**, in the only two datasets that exist: a small randomized trial
+   (+7.3% infraspinatus, Matsumura et al., 2023) and a fourteen-person case series (Safford et al., 2024).
+   **Nobody has established a dose.**
+
+## partxvibbiomechanics
+
+**PART B — Biomechanics — what actually loads the rotator cuff**
+
+### B.1 The joint actions, ranked
+
+| Rank | Action | What it looks like | Prime movers |
+|---|---|---|---|
+| 1 | **Humeral external rotation** | Forearm swinging outward with the elbow fixed | Infraspinatus, teres minor |
+| 2 | **Humeral internal rotation** | Forearm swinging inward | **Subscapularis**, with latissimus and [pectoralis major](#pectoralismajor) |
+| 3 | **Centring the head under load** | Nothing visible; the ball staying in the socket | All four, as stabilizers |
+| 4 | **Assisting elevation** | Raising the arm, especially the first part | Supraspinatus, with the deltoid |
+| 5 | **End-range restraint** | The shoulder not going further than it should | Subscapularis in front, the rest behind |
+
+Rank 1 and 2 are first because that is where the leverage is for three of the four (§B.2). Rank 3 is what
+the cuff is famous for and is real but hard to train on purpose. Rank 4 belongs almost entirely to
+supraspinatus, and in the first few degrees of elevation it is not small at all (Part V §A.5).
+
+### B.2 The cuff is a rotator group, not a depressor group
+
+The standard picture has the cuff pulling the humeral head down while the deltoid pulls it up. That couple is
+real (§B.3), but as a description of what these muscles are *for* it is upside down.
+
+Every published moment-arm dataset for the muscles crossing the glenohumeral joint was pooled in a systematic
+review covering both the geometric and tendon-excursion methods (Hik & Ackland, 2019):
+
+```
+  LARGEST AXIAL ROTATION MOMENT ARMS   the rotator cuff, as a group,
+                                        "regardless of the axial position of the humerus"
+
+  LARGEST ELEVATOR MOMENT ARMS          anterior and middle deltoid, through the whole range
+
+  LARGEST DEPRESSOR MOMENT ARMS         pectoralis major, latissimus dorsi, teres major
+
+  THE ROTATOR CUFF'S ELEVATOR AND       WEAK
+  DEPRESSOR MOMENT ARMS
+```
+
+**Three qualifications, and this document already carries two of them.**
+
+**The group claim is not a per-muscle claim.** Pooled across studies, the **anterior deltoid's** rotation
+moment arm of 22.2 mm actually exceeds the **subscapularis's** 20.6 mm, and the supraspinatus's is only
+4.0 mm (Hik & Ackland, 2019, as set out in this document's `rotator cuff` glossary entry). The cuff is the
+rotator group; it does not own every individual rotation moment arm.
+
+**Supraspinatus is a genuine elevator early on.** Its abduction moment arm peaks at **28.2 ± 1.6 mm in very
+early abduction** (Hik & Ackland, 2019) — more than three times the **middle** deltoid's 8.3 mm at that
+angle
+(Ackland et al., 2008) — before falling away. **The ratio comes from two papers**, and the ± 1.6 mm is a
+standard error, not a standard deviation. Part V §A.5 is built on that number, and this Part does not soften
+it: supraspinatus initiates elevation, and then hands over.
+
+**Those two paragraphs are in tension, and the tension is in the source.** Hik & Ackland report both that the
+deltoid's sub-regions are the largest elevators *throughout* the range and that supraspinatus has the most
+prominent elevator moment arm *in early abduction*. Both are true as stated: the deltoid owns the range taken
+as a whole, and supraspinatus owns the first few degrees of it. **Nothing here says the cuff elevates your
+arm** — it says one cuff muscle starts the movement the deltoid then dominates.
+
+**The weak depressor role still matters**, because it acts continuously and very close to the joint, where a
+small moment arm buys a large stabilizing effect per newton.
+
+> **The practical consequence, and it runs through §D:** if you want to train the cuff as muscle, you train
+> **rotation**, because that is where its leverage is. Everything else it does, it does as a stabilizer, a
+> by-product of what the big muscles are doing.
+
+**A word this Part deliberately avoids: "isometric".** It is tempting to say the cuff "works isometrically"
+during a press or a raise, and the first draft said it nine times. It is not quite true — elevating the arm
+obligatorily rotates the humerus outward, and supraspinatus shortens during every abduction. **Stabilizing is
+a role, not a muscle length.** The cuff's stabilizing work involves real length change; what makes it
+stabilizing is that it is not the movement being resisted.
+
+### B.3 The two force couples
+
+**The vertical couple.** The deltoid's line of pull, acting alone, would translate the humeral head upward
+against the bony roof. Something opposes that, and the balance is measurable: imaged in twelve live shoulders
+during elevation, **abductor activity narrowed the space under the acromion while adductor co-activation
+widened it**, by moving the humerus inferiorly relative to the glenoid (Graichen et al., 2005).
+
+**Read that citation carefully, because it is easy to misuse — and the first draft of this Part misused it.**
+Graichen and colleagues measured [subacromial space](#subacromialspace), scapular kinematics and head translation under
+*abductor* versus *adductor* contraction. **They did not measure the rotator cuff at all.** Their "adductors"
+are pectoralis major, [latissimus dorsi](#latissimusdorsi) and [teres major](#teresmajor) — precisely the muscles §B.2 names as the shoulder's
+real depressors. So the study is good evidence that **the big adductors depress the head**, and no evidence
+that the cuff does.
+
+What the cuff contributes to this couple is **compression, not depression**, and that is measured elsewhere:
+across eighteen muscles and sub-regions, the cuff sub-regions were **better aligned to stabilize the joint in
+the transverse plane than in the scapular plane**, and the **anterior supraspinatus was the muscle most
+favourably oriented to apply glenohumeral compression** of any studied (Ackland & Pandy, 2009). The vertical
+couple is real; the cuff's share of it is a compressive share.
+
+**The horizontal couple.** Subscapularis in front against infraspinatus and teres minor behind. This one has
+no famous name and is the one the exercise catalogue neglects, because subscapularis is trained by almost
+nothing deliberate (§A.3).
+
+**And a third mechanism that is not a couple at all.** Two of the four sit at long sarcomere lengths with the
+arm at the side and carry **passive** tension there (Ward et al., 2006). The shoulder is partly held together
+by muscle that is not switched on.
+
+### B.4 The cuff loading class — the decision rule this Part runs on
+
+The rotator cuff is worked by nearly everything and trained by almost nothing, and those are not the same
+statement. This rule separates them.
+
+> **[CUFF LOADING CLASS](#cuffloadingclass) — the rule.**
+>
+> Apply all five tests to one repetition. **An exercise carries every tag it earns**, and most earn more than
+> one. The tags are not alternatives.
+>
+> **Tag 1 — ROTATION-LOADED.** Is rotation of the humerus about its own long axis **the movement being
+> resisted** — so that if the rotators stopped working the rep could not be performed at all? Name the
+> direction:
+>
+> | Resisted direction | Tag | Which muscles |
+> |---|---|---|
+> | The arm being rotated **inward** | **External-rotation-loaded** | Infraspinatus, teres minor |
+> | The arm being rotated **outward** | **Internal-rotation-loaded** | Subscapularis |
+>
+> **Tag 2 — COMPRESSION-LOADED.** Does the load press the humeral head **into** the socket while other
+> muscles move the arm — a press, a row, a raise? The cuff's work here is stabilizing, not moving.
+>
+> **Tag 3 — TRACTION-LOADED.** Does the load pull the humerus **away** from the socket — a dead hang, a
+> [pull-up](#pullup) at the bottom, a heavy carry, a suitcase hold? This is the opposite demand to Tag 2 and the cuff
+> resists it differently.
+>
+> **Tag 4 — ELEVATION-LOADED.** Does the rep resist elevation **in roughly the first 30°**, where
+> supraspinatus is a prime mover with its largest moment arm rather than a stabilizer (§B.2)? A "can" raise
+> from the side, a [lateral raise](#lateralraise)'s first inches.
+>
+> **Tag 5 — END-RANGE RESTRAINT.** Does the rep reach **end-range abduction with external rotation** under
+> load — the bottom of a behind-the-neck press, the lay-back of a throw, a deep [bench press](#benchpress) with the elbows
+> flared? This is where the passive contribution and the injury risk both live, and where the training
+> benefit does not.
+>
+> **No tag = unloaded** for the cuff. Most lower-body work, and any arm movement light enough that the head
+> is not being displaced, earns nothing.
+
+**Worked examples, because the tags overlap by design.**
+
+| Exercise | Tags |
+|---|---|
+| Cable external rotation, elbow at side | Rotation-loaded (external) |
+| Bench press, elbows tucked | Compression |
+| Bench press, elbows flared, deep | Compression + end-range restraint |
+| [Overhead press](#overheadpress) | Compression + elevation (at the start) |
+| Lateral or "can" raise | Elevation + compression |
+| Dead hang | **Traction** |
+| Heavy farmer's carry | Traction + compression (alternating with the stride) |
+| The lay-back of a throw | Rotation-loaded (external, eccentric) + end-range restraint |
+| Barbell squat | None |
+
+**Why the rule earns its place.** It separates two things that look identical in a training log: the cuff
+being **worked** and the cuff being **trained**. Nearly every exercise in a normal programme earns Tag 2 or
+Tag 3 and almost none earns Tag 1.
+
+That single asymmetry explains why a strong presser can have a weak external rotation test, why the cuff is
+simultaneously the most-worked and least-trained muscle group in the upper body, and why the exercises in
+§D.2 look trivially light next to everything else you do.
+
+**Caveats.** The tags are derived in this document from directions of pull; **no study has trained one tag and
+tested transfer to another**. The 30° boundary in Tag 4 is a convenience drawn from where supraspinatus's
+moment arm peaks, not a measured threshold. And unlike the other Parts' classes, this one can be validated
+against a growth outcome only for Tag 1, and only by a single sixteen-man trial (§A.5). **This document's
+judgement.**
+
+### B.5 What a "supraspinatus exercise" actually trains
+
+The empty-can and full-can tests are the two positions the cuff literature is built on, and they are usually
+presented as isolating supraspinatus. They do not.
+
+[Electromyography](#emg) from **13 muscles in 15 people** during both tests found that **nine other shoulder muscles
+were as highly activated as supraspinatus during the empty can, and eight during the full can**. The authors'
+conclusion is blunt: the tests "do not satisfy basic criteria to be valid diagnostic tools for supraspinatus
+pathology" and "should not be interpreted as definitive tests" (Boettcher et al., 2009a).
+
+> **Two things follow, and they point in opposite directions.**
+>
+> As a **diagnostic test**, the empty can is not measuring what it claims. If someone has told you your
+> supraspinatus is the problem on the strength of one, the inference was never available.
+>
+> As an **exercise**, it is fine — the same authors say so explicitly. It loads a lot of shoulder muscles
+> including supraspinatus, which is what an exercise is supposed to do. **It is a poor test and an
+> acceptable exercise**, and the literature has spent thirty years confusing the two.
+
+**And the same group published the answer to "so what should I do instead?" in the same year.** Comparing
+five arm positions, there was **no significant difference in supraspinatus activation between any of them** —
+but the positions using **external rotation activated the deltoid significantly less** than the can and prone
+positions, which the authors read as making pendant and prone external rotation "more valid" choices for
+supraspinatus strengthening (Boettcher et al., 2009b).
+
+> **That reverses the obvious advice.** If you want to load supraspinatus, the best-supported option is not to
+> raise your arm — it is the **plain external rotation this Part already prescribes** (§C.1), which loads
+> supraspinatus as much as any can position while asking much less of the deltoid. The Part's reference
+> exercise turns out to be the one the evidence ranks first, which was not the reasoning that put it there.
+
+There is no way around the isolation problem: **no common exercise isolates a single cuff muscle.** The
+closest anything gets is that external rotation preferentially loads infraspinatus and teres minor, and
+internal rotation preferentially loads subscapularis — which is Tag 1 of §B.4 and the whole of the honest
+catalogue.
+
+### B.6 The stimulus map for the rotator cuff
+
+```
+MUSCLE           LOADED BEST BY                          MEASURED IN
+---------------  --------------------------------------  ---------------------------
+Infraspinatus    External rotation against resistance    moment arms: Hik & Ackland 2019
+Teres minor      The same, with the arm further from     moment arms: Hik & Ackland 2019
+                 the side
+Subscapularis    Push-up plus and diagonal patterns;     fine-wire EMG: Decker 2003;
+                 internal rotation beats external        Boettcher 2010
+                 rotation but loses to both of those
+Supraspinatus    External rotation, which loads it as    Hik & Ackland 2019;
+                 much as the "can" positions with far    Boettcher 2009a, 2009b
+                 less deltoid; early abduction
+All four         Any loaded press, raise, carry or hang  no direct measurement of the
+                                                         stabilizing demand in training
+```
+
+**The subscapularis row changed between drafts, and the change matters.** This Part first asserted that no
+exercise study of subscapularis existed. That was false. Fine-wire electrodes in the **upper and lower
+halves** of subscapularis across seven exercises in fifteen people found **the push-up plus and diagonal
+patterns superior to traditional internal rotation** for activating both portions (Decker et al., 2003), and
+a second study recording thirteen muscle sites found subscapularis significantly more active in internal than
+external rotation (Boettcher et al., 2010). The two agree: internal rotation beats external rotation for
+subscapularis, and **the push-up plus beats internal rotation**. The exercise §C.1 prescribes for
+subscapularis on architectural grounds is therefore not the best-evidenced option — see §D.2.
+
+One line remains an honest admission rather than a finding: **the stabilizing demand has never been quantified
+during a normal gym exercise**, so the bottom row is a mechanical inference.
+
+### B.7 Resistance profiles
+
+**This section was wrong in the first draft, in both directions, and the corrected version changes the
+advice.** The moment a resistance applies about the humerus's long axis is (force) x (the perpendicular
+distance from that axis), and for a 70° arc of external rotation the three common set-ups behave like this:
+
+```
+                                      START    MIDDLE   FINISH   RATIO
+Side-lying dumbbell                    1.00      0.77     0.34    2.9 : 1  descending
+Cable, anchor straight out to the side 0.34      0.77     1.00    2.9 : 1  ascending
+Cable, anchor swung ~35 deg behind     0.82      1.00     0.82    1.2 : 1  flat
+Band, anchor straight out to the side  0.34      0.85     1.30    steepest ascending
+```
+
+- **Side-lying dumbbell** — the dumbbell hangs vertically, so its moment is largest when the forearm is
+  **horizontal, which is the start**, and falls to zero when the forearm points at the ceiling. The exercise
+  is hardest in the **inner** range and gives the outer range away. The first draft of this Part stated this
+  backwards in six places, and in one sentence stated both versions at once.
+- **Cable, anchored straight out to the side at elbow height** — the line of pull is nearly *along* the
+  forearm at the start and perpendicular to it at the finish, so resistance climbs from almost nothing to
+  maximum. This is **the mirror image of the dumbbell, not an improvement on it**, and "a cable is roughly
+  constant" is true only if the line of pull stays perpendicular, which this set-up does not.
+- **Cable, anchor swung about 35° behind you** — now perpendicular falls in the middle of the arc, and the
+  profile is genuinely flat. **The advantage belongs to where you stand, not to the machine.**
+- **Band** — tension rises as the band stretches, and that multiplies an already-ascending moment arm. A band
+  is the **steepest** of the three, not equivalent to a cable.
+
+All four rows are **mechanical inference**, not a tested comparison: no study has compared resistance profiles
+for cuff training against any outcome.
+- **Prone or side-lying variants with the arm abducted** — change which of the external rotators has the
+  better line, and change the end-range position toward apprehension (§B.4 step 3). Use with care rather
+  than by default.
+- **Everything else** — a press, a row, a carry — loads the cuff as a stabilizer and has no profile.
+
+### B.8 Everything you press and pull is already cuff work
+
+This is the Part's programming problem, and it is the mirror image of Part XIV's.
+
+Every bench press, overhead press, row and raise is **compression-loaded** by §B.4, and every hang and heavy
+carry is **traction-loaded**: in both cases the big muscles move the arm, or hold it, and the cuff works to
+keep the humeral head where it belongs. **A lifter doing a normal programme gives the rotator cuff a very
+large volume of stabilizing work and has never counted a single set of it.**
+
+What none of that programme contains is **Tag 1**. You can press and pull for years and never once resist
+rotation as the trained movement — which is the entire argument for §D.
+
+Three consequences.
+
+1. **Direct cuff work is additive, not foundational.** The cuff is not weak because it is neglected; it is
+   under-*rotated*, which is a different complaint.
+2. **The gap is specific and small.** What a normal programme misses is **rotation under resistance**, in
+   both directions — perhaps five minutes a week to cover.
+3. **Internal rotation is partly covered and external rotation is not.** Every press and every pulldown
+   loads internal rotation as a by-product, through the pectoralis major and latissimus dorsi. Nothing loads
+   external rotation at all. That asymmetry, not weakness in general, is what an external-rotation exercise
+   is actually correcting.
+
+> **The honest framing:** the case for cuff training is not that the cuff is untrained. It is that **one of
+> its two rotation directions is untrained**, and that the cost of fixing it is trivial.
+
+### B.9 A worked example, so the numbers are not abstract
+
+Take a side-lying external rotation with a 3 kg dumbbell, forearm 30 cm from elbow to hand.
+
+With the forearm horizontal at the top of the movement, the [torque](#torque) the external rotators must produce is
+**3 × 9.81 × 0.30 ≈ 8.8 N·m**. For most untrained people that is a genuinely [hard set](#hardset) of ten.
+
+Now take a lateral raise with 8 kg, hand 60 cm from the shoulder. At horizontal the deltoid is producing
+**8 × 9.81 × 0.60 ≈ 47 N·m** — more than **five times** as much, in an exercise most lifters consider an
+accessory.
+
+> **That ratio is the Part in one number.** The cuff is a small muscle group with short lines of action, and
+> the loads that train it are correspondingly small. **A cuff exercise that feels embarrassingly light is
+> not a badly chosen exercise; it is a correctly loaded one.** If you are doing external rotations with
+> anything like your lateral raise weight, you are not training your cuff — you are swinging your arm with
+> your lats.
+>
+> **Caveats.** Both figures are simple external-torque arithmetic, not internal muscle forces, and they
+> ignore the moment arms of the muscles themselves *[consensus — no single source]*. The comparison is the
+> point, not the absolute numbers.
+
+### B.10 Setup variables
+
+| Variable | Effect | Evidence |
+|---|---|---|
+| **Cable or band vs dumbbell for rotation** | Near-constant resistance instead of a profile that peaks at end range | Mechanical, §B.7 |
+| **Arm at the side vs abducted to 90°** | Changes the external rotators' lines of action and moves the end range toward apprehension | Mechanical; Ward et al., 2006 for the passive-tension position |
+| **Elbow supported (towel under the arm)** | Keeps the humerus from drifting into flexion, which is how these exercises are usually cheated | *[consensus — no single source]* |
+| **Empty can vs full can** | Neither isolates supraspinatus; 8–9 other muscles are equally active | Boettcher et al., 2009 |
+| **Load** | Small. See §B.9 | Arithmetic |
+| **Speed** | Slow. A fast rotation exercise is a momentum exercise | Judgement |
+
+### B.11 What the measurements here can and cannot settle
+
+**The moment-arm evidence is unusually good.** It is a systematic review pooling two independent measurement
+methods across all the major shoulder muscles (Hik & Ackland, 2019), and its central finding — the cuff as a
+rotator group — is robust to which method you prefer.
+
+> **One caveat this document is obliged to flag and unable to resolve.** That review carries a **six-page
+> erratum** published two years later (*Journal of Anatomy* 2021;238:1497–1502, doi:10.1111/joa.13417, which
+> Crossref records as an erratum to it). Its existence is verified; **its contents could
+> not be obtained** from any route available here. Six pages of correction on a fifteen-page paper is a lot,
+> and the review is load-bearing in Part V as well as here. Two things reduce the worry without removing it:
+> the individual figures this Part quotes are also reported in the paper's own abstract, and an independent
+> in vivo study published after the erratum cites the review approvingly and uses its rotation-range result
+> (Zhang et al., 2024). **Treat the Hik & Ackland numbers as sound in direction and provisional in the third
+> significant figure**, and prefer the group-level claims, which is what §B.2 already does.
+
+**The architecture evidence is no longer one cadaveric study of ten specimens.** Ward et al., 2006 dissected
+ten shoulders; **Zhang et al., 2024 measured twenty living ones** with MRI and diffusion-tensor imaging, and
+**replicated Ward's force ranking in vivo** — subscapularis largest, then infraspinatus, then supraspinatus,
+then teres minor:
+```
+                  VOLUME        PCSA      FASCICLE LENGTH
+                  (% of cuff)   (cm2)     (mm)
+Subscapularis     43            23        61.8
+Infraspinatus     34            17        69.7
+Supraspinatus     15             8        59.8
+Teres minor        8             6        41.9
+                                          Zhang et al., 2024, n = 20
+```
+Zhang's own conclusion carries a warning this Part takes seriously: fascicle length and pennation vary so
+much **within** each cuff muscle (coefficients of variation 26–40% and 56–62%) that previously reported mean
+architectural values may not "adequately describe rotator cuff function". Treat every single number in §A.3
+as a centre of a wide distribution.
+
+**One thing Zhang's table cannot do is settle moment arms.** Its moment-arm column is a *scalar* perpendicular
+distance measured in the neutral position, not a plane-specific value, so it is not comparable with
+Hik & Ackland's abduction or rotation moment arms and is not used that way anywhere in this Part.
+
+**Surface electromyography of the cuff is mostly impossible.** Three of the four lie under other muscles or
+under the scapula; subscapularis is unreachable without a needle through the axilla. Where this Part quotes
+supraspinatus activity it comes from studies using **intramuscular** recording alongside surface electrodes
+(Boettcher et al., 2009a, and again in the 2010 companion paper), and the subscapularis evidence in §B.6 is from
+**fine-wire** electrodes in its upper and lower halves (Decker et al., 2003). **Any source offering
+"subscapularis EMG" from a surface electrode is not measuring subscapularis.**
+
+**And the growth evidence is two studies, one of them randomized and both of them small** (§A.5). Every
+ranking in §D is therefore a ranking of leverage or of activation, never of [hypertrophy](#hypertrophy) — and this Part will
+not pretend otherwise.
+
+### B.12 The mechanical checklist
+
+1. The cuff has **the largest rotation leverage at the shoulder** and only weak elevation or depression
+   leverage.
+2. So **train it with rotation**; everything else it does is stabilizing work and incidental.
+3. **Subscapularis is the biggest of the four** and the least trained.
+4. Part of the cuff's stabilizing contribution is **passive**, and cannot be trained directly.
+5. Classify every exercise by **what the load would do to humeral rotation** (§B.4).
+6. **Almost everything you do is compression-loaded and almost nothing is rotation-loaded** — that gap is the
+   whole training case.
+7. **No common exercise isolates one cuff muscle**, and the empty-can test does not isolate supraspinatus.
+8. **Use a cable or band**, not a dumbbell, for the better [resistance profile](#resistanceprofile).
+9. **The loads are small by design** — about a fifth of a lateral raise's torque (§B.9).
+10. End-range abduction with external rotation under load is where the **risk** lives, not the benefit.
+
+## partxvictherepspecified
+
+**PART C — The rep, specified**
+
+### C.1 The two cuff reps
+
+Two, because there are two rotation directions, and the second one is the one nobody does.
+
+---
+
+**1. The external rotation rep**
+
+> **Setup.** Stand at a cable set to elbow height, with the **anchor about 35° behind you** rather than
+> straight out to the side — that one detail is what flattens the resistance curve (§B.7). **Elbow at your
+> side, bent 90°, with a folded towel between elbow and ribs.** Forearm across your body to start.
+>
+> **The rep.** Rotate the forearm outward, keeping the elbow pinned and the upper arm still. Stop when the
+> forearm is pointing straight ahead or a little past it — not as far as it will go.
+>
+> **The load.** Small. A hard set here is **under 10 N·m** of shoulder torque, about a fifth of a lateral
+> raise's (§B.9). If you need your torso to help, the weight is wrong.
+>
+> **Why the anchor position, not the machine.** A side-lying dumbbell is hardest at the **start** and fades
+> to nothing at the finish; a cable anchored straight out to the side does the exact opposite. Neither is
+> flat. Swinging the anchor back about 35° is what makes the resistance even, and a band is the steepest
+> profile of the three, not the equal of a cable (§B.7).
+>
+> **What the towel is for.** It stops the humerus drifting into flexion, which is how this exercise is
+> universally cheated — the elbow slides forward and the movement becomes a row.
+
+---
+
+**2. The internal rotation rep**
+
+> **Setup.** The same, facing the other way. Elbow at the side, towel in place, forearm pointing outward.
+>
+> **The rep.** Rotate inward across the body, upper arm still.
+>
+> **Why bother, when every press already internally rotates?** Because **subscapularis is the largest of the
+> four cuff muscles** (Ward et al., 2006), confirmed in living shoulders by Zhang et al., 2024, and pressing loads it only as an assistant to
+> much bigger muscles. If you are going to spend five minutes on the cuff, spending all of it on external
+> rotation trains the smaller half of the group.
+>
+> **Honest status — and a correction.** Internal rotation does load subscapularis more than external rotation
+> does, measured with fine wire (Boettcher et al., 2010). But it is **not** the best-evidenced way to load it:
+> across seven exercises, **the push-up plus and diagonal patterns beat internal rotation** for both the upper
+> and lower halves of the muscle (Decker et al., 2003). If you want the evidence-led option, add a **push-up
+> plus** (Part XIII) rather than a cable internal rotation. The cable version is kept here because it is
+> easier to load progressively and it pairs with the external rotation you are already set up for.
+
+---
+
+**What is deliberately not here: an "isolation supraspinatus exercise."** No common exercise isolates a
+single cuff muscle, and the empty-can position — the usual candidate — activates eight or nine other shoulder
+muscles just as strongly (Boettcher et al., 2009a). But you do not need a separate exercise, because
+**the external rotation above already is one**: supraspinatus is activated just as much by external rotation
+as by any can or prone position, and external rotation recruits far less deltoid while doing it
+(Boettcher et al., 2009b). **The rep you have just read is the best-supported supraspinatus exercise there
+is.** That is a better answer than the first draft's, which sent you off to elevate your arm.
+
+### C.2 The technical errors, in order of how much they cost
+
+| Error | What it costs | Fix |
+|---|---|---|
+| **Too much weight** | The torso and lats take over; the cuff does nothing | Under 10 N·m. Embarrassingly light is correct (§B.9) |
+| **Elbow drifting forward** | Turns external rotation into a row | Towel between elbow and ribs |
+| **Rotating as far as the shoulder will go** | Pushes into end-range restraint, which is where the risk is and not the benefit (§B.4 step 3) | Stop at or just past neutral |
+| **Only training external rotation** | Leaves the largest of the four untrained | Do both directions |
+| **Using a dumbbell side-lying and calling the profile fine** | Almost no resistance through the **outer** half, where the range you want is | A cable with the anchor swung back (§B.7) |
+| **Treating the empty-can test as a diagnosis** | The inference was never available (§B.5) | Use it as an exercise if you like it, not as a test |
+| **Doing cuff work before pressing** | Fatigues the stabilizers for the lift that needs them | Cuff work last, or on separate days |
+
+### C.3 Prerequisites
+
+- **No current unexplained weakness.** Weakness that does not recover between sessions, or an arm you cannot
+  lift after a fall, is §E.4 and not a programming question.
+- **A cable, band, or nothing.** A band works, but its resistance climbs steeply as it stretches, so it loads
+  the outer range hardest and the inner range barely at all — the opposite fault to a dumbbell's (§B.7).
+- **No special mobility requirement.** The range used is small and deliberately short of end range.
+
+### C.4 Cues — which work, which harm
+
+| Cue | Verdict |
+|---|---|
+| "Elbow glued to your side" | **Use.** The single most useful cue here |
+| "Go light — lighter than that" | **Use.** The commonest error by a distance |
+| "Stop at neutral, don't chase range" | **Use.** End range is where the risk is (§B.4) |
+| "Pull your shoulder down and back first" | **Conditional.** A scapular cue, covered in Part XIII; it does not change what the cuff is doing |
+| "This strengthens the depressors so the head won't ride up" | **Weak.** The cuff's depressor leverage is weak; it is a rotator group (§B.2) |
+| "Train the cuff to fix your impingement" | **Not supported as stated** — see §E.4, where both the impingement model and the treatment evidence are examined |
+
+### C.5 The limiting links
+
+- **On rotation work: nothing.** Isolated, small, self-limiting — which is why it is easy to add.
+- **On pressing: not the cuff, usually.** The cuff's stabilizing contribution rarely ends a set.
+- **On overhead work: shoulder range** and the scapula (Part XIII §C.3) before the cuff.
+
+### C.6 What cuff work feels like, and what it should not
+
+A small, specific ache deep in the back of the shoulder for external rotation, or in the armpit for internal.
+It should feel local and unimpressive.
+
+**What it should not feel like:** a sharp catch at the top of the movement, pain that builds over the
+following day, or a dead arm. And a distinction worth holding onto for §E.4 — **cuff exercise for a painful
+shoulder is expected to be mildly uncomfortable and is not expected to be sharp.**
+
+### C.7 How to know it worked
+
+1. **You can hold more load in the same strict position.** That is the only progression signal available.
+2. **Your external rotation strength approaches your internal.** A rough field check, not a validated one.
+3. **What a scan will tell you: less than you think.** Cuff abnormality is present in a rising majority of
+   shoulders with age and largely regardless of symptoms (Teunis et al., 2014).
+4. **What size you have gained: unknown.** The only measurement in healthy people is a fourteen-person case
+   series (§A.5).
+
+## partxvidexercisecatalogue
+
+**PART D — Exercise catalogue**
+
+Organized by cuff loading tag (§B.4); an exercise can appear under more than one, because the tags are
+additive. **A warning that governs every row:** the cuff has **one small randomized training trial**
+(Matsumura et al., 2023) and surface electromyography cannot see three of the four muscles (§B.11). Every
+verdict below rests on **leverage, on intramuscular activation data, or on mechanics** — only the external
+rotation row rests on a growth outcome at all.
+
+### D.1 External-rotation-loaded — the gap worth closing
+
+| Exercise | What is measured | Verdict |
+|---|---|---|
+| **Cable external rotation, elbow at side, anchor swung ~35° back** | **The only cuff exercise with a randomized size outcome**: +7.3% infraspinatus in 8 weeks, light and slow (Matsumura et al., 2023). The external rotators also have the largest rotation moment arms at the shoulder (Hik & Ackland, 2019), and it loads supraspinatus as well as any can position with less deltoid (Boettcher et al., 2009b) | **The reference exercise of Part XVI**, and now the best-evidenced one. Cheap, small, and the one thing a normal programme genuinely lacks |
+| **Side-lying dumbbell external rotation** | Same leverage argument; resistance is **largest at the start and fades to zero at the finish** (§B.7) | Works, with the opposite fault to a badly-anchored cable. Use if you have no cable |
+| **External rotation at 90° of abduction** | Changes the external rotators' lines of action and adds **end-range restraint** (§B.4 Tag 5) | **For throwers and overhead athletes**, deliberately, rather than as a default |
+| **Prone horizontal abduction with external rotation** | Ranks highly for the **scapular** muscles (Part XIII §D.2), and fine-wire recording across 17 exercises put it among **four exercises that challenged every glenohumeral muscle tested**, including all four cuff muscles (Townsend et al., 1991) | A scapular exercise that also rotates. Good value, and better evidenced than its reputation |
+
+### D.2 Internal-rotation-loaded — the muscle nobody trains
+
+| Exercise | What is measured | Verdict |
+|---|---|---|
+| **Push-up plus** | **The best-evidenced subscapularis exercise.** Fine-wire recording in the upper and lower halves across seven exercises found the push-up plus and diagonal patterns **superior to internal rotation** for both portions (Decker et al., 2003) | **Do this one.** It is also a serratus anterior exercise (Part XIII), so it costs nothing extra |
+| **Cable or band internal rotation, elbow at side** | Loads subscapularis more than external rotation does, measured with fine wire (Boettcher et al., 2010) — but **loses to the push-up plus** (Decker et al., 2003). Subscapularis is also the largest of the four (Ward et al., 2006), a ranking replicated in vivo (Zhang et al., 2024) | **Reasonable and easy to load progressively**, but no longer the first choice. This document changed its mind here |
+| **Bench press, push-up, dip, pulldown** | — | Load internal rotation as a **by-product**, through much larger muscles. Real, but not the same as loading subscapularis directly |
+
+### D.3 Compression-, traction- and elevation-loaded — everything else you already do
+
+| Exercise | Tags | What is measured | Verdict |
+|---|---|---|---|
+| **Overhead press, bench press, row, lateral raise** | Compression | No direct quantification of the cuff's stabilizing demand during training | **Substantial incidental cuff work.** Count it before adding anything (§B.8) |
+| **Dead hang, pull-up at the bottom, heavy carries** | **Traction** | Not quantified for the cuff | The opposite demand to a press. Grouped with pressing in the first draft, which was a mechanical error |
+| **"Can" exercises — empty and full** | **Elevation** + compression | Eight or nine other shoulder muscles are as active as supraspinatus (Boettcher et al., 2009a), and no can position beats plain external rotation for supraspinatus (Boettcher et al., 2009b) | **A fine exercise and a bad test** — and not the supraspinatus exercise it is sold as. Here supraspinatus is a prime mover, not a stabilizer |
+
+### D.4 What to avoid, and why
+
+| Position | Why |
+|---|---|
+| **Heavy behind-the-neck pressing and pulling** | End-range abduction plus external rotation under load — §B.4 Tag 5, and Part V §E.4 declines it on the same grounds |
+| **Chasing maximum external rotation range under load** | End range is where the restraint is passive and the risk is concentrated |
+| **Upright rows to the chin, narrow grip** | Elevation plus internal rotation, declined in Part V §E.4 |
+| **Loading through sharp shoulder pain** | §E.4 |
+
+### D.5 Selection rules
+
+1. **Add one [external rotation exercise](#externalrotationexercise).** It is the only genuine gap in a normal programme, and it costs
+   two minutes (§B.8).
+2. **Add a push-up plus for subscapularis.** The largest cuff muscle has no dedicated exercise in most
+   programmes, and the push-up plus is the best-evidenced way to load it (Decker et al., 2003).
+3. **Swing the cable anchor about 35° behind you.** The even resistance comes from the anchor position, not
+   from choosing a cable over a dumbbell (§B.7).
+4. **Keep the load small and the range short of end range.**
+5. **Do not buy a separate "supraspinatus exercise".** Nothing isolates it, and your external rotation
+   already loads it as well as anything does (§B.5).
+6. **Count your pressing and pulling as cuff work**, because it is.
+7. **Put cuff work after the heavy work**, not before it.
+
+## partxviecontextmodifiers
+
+**PART E — Context modifiers, rehabilitation and prevention**
+
+### E.1 Goal contexts
+
+**Size.** Do not set this goal. The cuff lies under the deltoid and the scapula; nothing you do to it is
+visible, and the only measurement of its growth in healthy people is a fourteen-person case series (§A.5).
+
+**Strength and sport.** The realistic target is **external rotation strength**, which is the one rotation
+direction a normal programme never loads (§B.8).
+
+**Shoulder health.** This is why most people are here, and §E.4 to §E.6 are the honest answer — which is
+less satisfying than the usual one.
+
+**Rehabilitation.** §E.5. It is the best-evidenced part of this Part and the evidence is uncomfortable.
+
+### E.2 Body contexts
+
+- **Age.** The dominant variable in this Part. Cuff abnormality runs from **9.7% under 20 to 62% over 80**,
+  largely regardless of symptoms (Teunis et al., 2014). Past sixty, assume some cuff change is present and
+  train around how the shoulder behaves rather than around what a scan says.
+- **Previous dislocation.** Changes the end-range picture, and the apprehension position (abduction plus
+  external rotation) becomes a position to respect rather than to load.
+- **Overhead sport history.** Years of throwing or serving reshape rotation range and strength balance
+  (§E.7).
+- **Sex.** No cuff-specific prescription difference has been shown, and none is given.
+
+### E.3 Equipment contexts
+
+| Equipment | What changes |
+|---|---|
+| **Cable** | Near-constant resistance through the rotation range — the best option (§B.7) |
+| **Resistance band** | Functionally equivalent for this purpose, and free |
+| **Dumbbell, side-lying** | Resistance peaks at end range and is zero at the start. Usable, worse |
+| **Nothing** | Isometric external rotation against a doorframe. Better than skipping it |
+
+### E.4 Pain and pathology — and why the standard story has collapsed
+
+**Start with what a scan means.** Rotator cuff abnormality is present in a rising majority of shoulders with
+age, and the rise is "similar regardless of symptoms" (Teunis et al., 2014). **Finding a tear does not
+establish that the tear is causing the pain.** That is the most useful sentence in this Part.
+
+**The impingement model.** For decades, pain under the acromion was explained as the cuff tendon being
+mechanically pinched by the bony roof, and the treatment that followed was to remove some of the roof. The
+mechanism is at least partly real — measured with imaging during active abduction, abductor activity narrows
+the subacromial space while adductor co-activation widens it (Graichen et al., 2005). **The problem is what
+happened when the treatment was tested.**
+
+> **CSAW (Beard et al., 2018)** — 313 patients across 32 UK hospitals, all of whom had already failed
+> non-operative management including exercise and at least one steroid injection. Randomised to arthroscopic
+> [subacromial decompression](#subacromialdecompression), **arthroscopy alone as a placebo**, or no treatment. Oxford Shoulder Score at
+> six months (0–48), with 4.5 points set as the difference worth having:
+>
+> | Group | Score |
+> |---|---|
+> | Decompression | 32.7 (SD 11.6) |
+> | **Placebo arthroscopy** | **34.2 (SD 9.2)** |
+> | No treatment | 29.4 (SD 11.9) |
+>
+> **Decompression versus placebo: −1.3 points (95% CI −3.9 to 1.3), p = 0.31.** Both surgical arms beat no
+> treatment by 2.8 and 4.2 points — **below the 4.5 threshold**, and the authors call the difference "not
+> clinically important". The only study-related complications were frozen shoulders.
+>
+> **FIMPACT at ten years (Kanto et al., 2025)** — 210 adults, decompression versus **placebo surgery**
+> versus exercise therapy, blinded participants and assessors, 87% followed to a decade. **No between-group
+> difference in pain at rest or on activity at 10 years.**
+
+A Cochrane review covers the same comparison (Karjalainen et al., 2019). **The operation does not beat a
+sham.** That is about as clean a result as musculoskeletal medicine produces, and it is why this document
+treats "impingement" as a symptom label rather than a mechanical diagnosis.
+
+> **The limit on all of it, which this Part is obliged to state plainly.** **CSAW excluded patients with a
+> full-thickness tear, and so did the Cochrane review.** Every result above is about shoulder pain with an
+> *intact* cuff. In a Part called "The Rotator Cuff" that exclusion has to be in the foreground, not the
+> small print: **none of this evidence tells you what to do about a torn cuff.** That question is §E.5,
+> and it has different trials and a different answer.
+
+**What this does *not* mean.** It does not mean the pain is imaginary, that the anatomy is irrelevant, or
+that nothing helps. It means the pinching model does not license the operation built on it.
+
+### E.5 Rehabilitation
+
+Three separate questions, three different answers.
+
+**1. Rotator-cuff-related shoulder pain, no surgery.** The largest trial is uncomfortable reading for
+physiotherapy as usually delivered.
+
+> **GRASP (Hopewell et al., 2021)** — 708 adults with a new episode of rotator-cuff-related shoulder pain
+> across 20 NHS physiotherapy services, randomised 2 × 2 to **progressive exercise (up to six sessions)** or
+> **one session of best-practice advice**, each with or without a corticosteroid injection first. Primary
+> outcome: Shoulder Pain and Disability Index over 12 months.
+>
+> - **Progressive exercise versus one session of advice: no difference** — adjusted mean difference
+>   **−0.66 (99% CI −4.52 to 3.20)** — and none at 8 weeks, 6 months or 12 months separately.
+> - **Injection helped at 8 weeks** (−5.64, 99% CI −9.93 to −1.35) **and not over 12 months** (−1.11,
+>   99% CI −4.47 to 2.26).
+> - **Every group improved from baseline.** No serious adverse events.
+
+Read it precisely. It does **not** show that exercise fails — all groups improved, and the comparator was a
+single session of best-practice physiotherapy advice rather than nothing at all. What it shows is that **the
+extra five sessions bought nothing**, and that a steroid injection buys about two months.
+
+A statement paper grading the wider treatment literature found a large effect against no intervention in
+athletes with subacromial impingement syndrome, at **very low to moderate quality of evidence**
+(Liaghat et al., 2023). **Describe that finding accurately:** the intervention was a package of "stretching,
+ice packs, electrotherapy and compression, and strengthening exercises", in athletes — not exercise alone, and
+not the general population. It is weaker support for "exercise beats nothing" than it first appears. What
+GRASP does establish cleanly is the second half: **more exercise does not beat less.**
+
+**2. A full-thickness tear, treated without surgery.** An older systematic review of exercise therapy for
+full-thickness, massive and inoperable tears found little consensus and generally poor surgical outcomes in
+older patients (Ainsworth & Lewis, 2007). It predates the two long randomized trials that now exist, and
+**those two disagree with each other** — which is the honest answer, not a fudge:
+
+> **Kukkonen et al., 2021** — 180 shoulders with small (~10 mm), **nontraumatic** supraspinatus tears in
+> patients over 55, randomized to physiotherapy, acromioplasty plus physiotherapy, or repair plus both. At a
+> mean **6.2 years**, 150 shoulders analysed, mean age 71: **no significant difference** in Constant score
+> change — **+18.5, +17.9 and +20.0** (p = 0.84). Eight physiotherapy patients crossed over to repair.
+>
+> **Moosmayer et al., 2024** — 103 patients with full-thickness tears **up to 3 cm**, randomized to repair or
+> physiotherapy with optional secondary repair. At **15 years**, 81% followed up: **repair was superior by
+> 11.8 Constant points** (p = 0.001) and 13.9 ASES points. **Fifteen of 51 physiotherapy patients had
+> crossed over to surgery.**
+
+> **How to read the pair.** They are not really contradicting each other so much as describing different
+> patients. Kukkonen's are older (mean 71), with **small, degenerative** tears, followed 6 years. Moosmayer's
+> are younger with **larger** tears, followed 15 years — long enough for a gap to open, and it widened at
+> every follow-up. **Tear size, age and time horizon decide which result applies to you**, and that is a
+> conversation with a surgeon, not a conclusion this document can draw for you. **Moderate evidence.**
+
+**3. After a surgical repair.** Here the evidence is clearer and more actionable.
+
+> **Eleven randomized trials of early exercise versus brace immobilisation after arthroscopic repair**
+> (Hao et al., 2025):
+>
+> - **Range of motion favours early motion** — flexion +10.6° at 6 weeks, +12.4° at 3 months, +2.9° at 6
+>   months, +2.6° at 1 year; abduction +13.2° at 6 weeks; internal rotation +5.1° at 6 weeks and +8.2° at 3
+>   months.
+> - **Stiffness risk falls: RR 0.34 (95% CI 0.19–0.60).**
+> - **No difference in pain** (WMD 0.05) **or in shoulder function score** (SMD 0.05).
+>
+> **On re-tears**, the larger review answers the question better: pooling **20 randomized trials and 1,841
+> patients**, early mobilisation **did not raise the re-tear rate — OR 1.05 (95% CI 0.64 to 1.75)**
+> (Mazuquin et al., 2021), which also found the same pattern of early range-of-motion gains without pain or
+> function differences.
+
+**The reading for a patient:** early motion buys range and protects against stiffness, does not appear to buy
+pain relief or function, and **does not appear to cost you a re-tear**. Which protocol you follow after a repair is a surgical decision and
+not a training decision — **this Part does not prescribe post-operative rehabilitation**, and the summary
+above exists so you can read your protocol rather than replace it.
+
+### E.6 Injury prevention — better evidenced than this Part first claimed
+
+The first draft of this section graded shoulder injury prevention **Contested** and said the cuff had no
+cluster-randomized trial behind it. **That was wrong on both counts**, and one of the papers that refutes it
+was already cited in the paragraph below. The corrected picture:
+
+**The individual trials.** Three randomized trials, all in overhead sports, all against ordinary training:
+
+| Trial | Design | Result |
+|---|---|---|
+| **Andersson et al., 2017** | Cluster RCT, 45 elite handball teams, 660 players, one season | Shoulder problem prevalence **17% vs 23%**; **28% lower risk, OR 0.72** |
+| **Asker et al., 2022** | Three-armed cluster RCT, 18 handball schools, adolescent elite | **56% lower shoulder injury rate, HRR 0.44 (95% CI 0.29–0.68)**; NNT **9** |
+| **Al Attar et al., 2021** | RCT, 726 amateur goalkeepers, FIFA 11+ Shoulder, one season | **68% fewer upper-extremity injuries, IRR 0.32** |
+
+**The syntheses.** A statement paper grading the evidence found four programmes — the Oslo Sports Trauma
+Research Center programme, Shoulder Control, the FIFA 11+ shoulder programme and a baseball-specific
+programme — showing **moderate to large effect sizes against no intervention**, at very low to moderate
+quality (Liaghat et al., 2023). A 2025 meta-analysis in female athletes pooled three trials and found
+shoulder programmes **cut shoulder injury rates by 51% (0.49, 95% CI 0.30 to 0.79)**, graded **very low
+certainty** (Heming et al., 2025).
+
+**The dissenting synthesis.** A meta-analysis restricted to handball pooled three trials and found **no
+significant difference against a usual warm-up: OR 0.73 (95% CI 0.45 to 1.17)**, 747 players
+(Yonneau et al., 2025).
+
+> **Verdict: Moderate evidence, and the apparent conflict is mostly about power, not about effect.** Look at
+> the numbers rather than the verdicts: Yonneau's pooled **OR 0.73** and Andersson's **OR 0.72** are
+> effectively the same estimate. One reached significance and one did not, because one pooled 747 players
+> and the other randomized 660 with a longer follow-up. **A confidence interval crossing 1 is not a finding
+> of no effect**, and this document will not report it as one — as it does not in Part XV.
+>
+> **What this document takes from it:** an external rotation exercise costs two minutes, has a mechanical
+> rationale (§B.8), and now has three randomized trials and two meta-analyses pointing the same way in
+> overhead sport. That is **weaker than Part XV §E.4's Copenhagen result and much weaker than Part VII's
+> Nordic**, both of which this document rates higher. But it is real evidence, and the honest summary is
+> "probably helps in overhead sport, unproven in the gym" — not "contested".
+>
+> **One caution that does survive.** Every trial above is in handball, volleyball or goalkeeping, in athletes
+> who throw. **Nothing here tests a lifter.** Transferring the result to someone who benches and presses is
+> an assumption, not a finding.
+
+### E.7 Sport contexts
+
+- **Throwing and overhead sport.** The population the entire cuff literature was built on. Programmes
+  combining range-of-motion, scapular and cuff work are widely used and consistently improve rotator cuff
+  strength, range and scapular measures across eight studies, though the designs are mixed and the reviews
+  are descriptive rather than pooled (Patel & Vaishnav, 2025). **Do the external rotation work at 90° of
+  abduction here** (§D.1), because that is the position the sport uses.
+- **Swimming.** Very high cumulative internal-rotation volume; the external rotators are the
+  under-represented side by a wide margin.
+- **Powerlifting and general training.** The gap is the same as everyone's and smaller than the internet
+  suggests: one external rotation exercise.
+- **Contact sport.** Dislocation and traumatic tearing dominate; nothing in §D prevents a tackle.
+
+### E.8 Session and cycle contexts
+
+- **Where in the session.** Last. Fatiguing the stabilizers before pressing is the one genuinely
+  counterproductive placement.
+- **Frequency tolerance.** Very high — the loads are tiny. Two to three times a week is comfortable.
+- **When something hurts.** Reduce range and load before removing the exercise. Sharp pain is a stop signal;
+  mild discomfort during rehabilitation is expected (§C.6).
+- **Deloads.** Nothing cuff-specific is known.
+
+### E.9 The context decision table
+
+| If… | Then… |
+|---|---|
+| You want a stronger, more balanced shoulder | One cable external rotation exercise, twice a week. That is the whole prescription |
+| You have been told you have "impingement" | The label names a symptom pattern; the operation built on it does not beat placebo (§E.4) |
+| A scan found a [rotator cuff tear](#rotatorcufftear) | Cuff **abnormality** of some kind is common with age and often unrelated to symptoms (Teunis et al., 2014). A tear is a finding that needs interpreting, not panicking about |
+| You have been offered subacromial decompression | Two placebo-controlled trials found no benefit over sham, one at ten years (§E.4) |
+| You have shoulder pain and want physiotherapy | Worth doing, and **six sessions did not beat one** in the largest trial (§E.5) |
+| You are recovering from a repair | Early motion buys range and less stiffness, not less pain. **Follow your surgeon's protocol** (§E.5) |
+| You throw or serve for a living | Do the rotation work at 90° of abduction. Prevention programmes have three randomized trials behind them **in your sport** (§E.6) |
+| You want to prevent shoulder injury | **Moderate evidence in overhead sport, untested in the gym.** Two minutes of external rotation is cheap and rational (§E.6) |
+| Your arm is weak after a fall, or pain wakes you at night | Assessment, not programming (§A.8) |
+
+## partxvifprogramming
+
+**PART F — Programming**
+
+> **Read this first.** The rotator cuff has **one small randomized training trial** — sixteen men, eight
+> weeks, external rotation, +7.3% infraspinatus on the light-and-slow protocol (Matsumura et al., 2023) — and
+> **one fourteen-person case series** (Safford et al., 2024). Between them they establish that the cuff grows
+> on light loads. They establish **no dose**: nobody has compared sets, frequency, range of motion or
+> progression for the cuff with a size outcome, and the single load-and-tempo comparison had eight men per
+> arm (§A.5). So this section is **mostly judgement**, and every line says so. It is deliberately short,
+> because the honest prescription is small.
+
+### F.1 Volume
+
+**What is known.** Both size measurements used light loads for eight weeks: **three sets of ten external
+rotations, three times a week**, randomized (Matsumura et al., 2023), and **a low-load shoulder programme**
+without a control group (Safford et al., 2024). That is the entire evidential basis for a volume
+prescription, and it is one protocol tested twice, not a dose-response. The largest treatment trial used
+**up to six physiotherapy sessions and found no advantage over one** (Hopewell et al., 2021).
+
+**What is judgement.**
+
+| Class | Direct sets per week | Where they come from |
+|---|---|---|
+| **External rotation** | **4–8** | Nothing else. This is the gap |
+| **Internal rotation** | **0–4** | Partly covered by pressing; the direct version is unevidenced |
+| **Compression** | **0 extra** | Every press, pull, raise and carry you already do (§B.8) |
+
+**The counting rule.** If you press and pull, the cuff's stabilizing work is already large. What you are adding
+is **rotation**, and 4–8 sets a week of it is more than anyone in the literature has been shown to need —
+because nobody has been shown to need any particular amount.
+
+### F.2 Frequency
+
+**Two to three times a week.** The loads are small enough that recovery is not the constraint, and the
+exercise takes two minutes. **This document's judgement** — no frequency comparison exists.
+
+### F.3 Load and repetitions
+
+| Exercise | Prescription | Basis |
+|---|---|---|
+| **External rotation** | **10–20 repetitions**, under about 10 N·m of shoulder torque (§B.9) | Judgement |
+| **Internal rotation** | **10–20 repetitions**, similar load | Judgement |
+| **Range** | **Stop at or just past neutral**, short of end range | §B.4 step 3 |
+| **Tempo** | Slow, controlled | Judgement |
+
+**Why the reps are high and the load low.** Not because of fibre type — nothing is known about cuff fibre
+type in this context — but because the muscles are small, the moment arms are short, and the failure mode of
+loading them heavily is that bigger muscles take over (§C.2).
+
+### F.4 Proximity to failure
+
+Untested, and the considerations are one-sided for once. **Keep 2–4 [repetitions in reserve](#rir).** There is no
+demonstrated benefit to taking a cuff exercise to failure, the form deteriorates into a row when you do, and
+the tissue at the end of the chain is a tendon with a poor blood supply. **This document's judgement.**
+
+### F.5 Progression
+
+- **Load, in the smallest increments available** — a lighter band, a single pin on the stack.
+- Then **repetitions**, then **a second weekly session**.
+- **Not range.** Do not progress toward end range; that is the one direction this Part actively discourages
+  (§B.4 step 3).
+- **Not to failure** (§F.4).
+
+### F.6 Session templates
+
+**A. The whole prescription (about 3 minutes, 2×/week)**
+
+| Exercise | Prescription |
+|---|---|
+| Cable or band external rotation, elbow at side | 2–3 × 12–15 per arm |
+
+**B. Adding the neglected direction (about 5 minutes, 2×/week)**
+
+| Exercise | Prescription |
+|---|---|
+| Cable or band external rotation | 2–3 × 12–15 per arm |
+| Cable or band internal rotation | 2 × 12–15 per arm |
+
+**C. Overhead athlete**
+
+| Exercise | Prescription |
+|---|---|
+| External rotation at 90° of abduction | 3 × 12–15 per arm |
+| Internal rotation, elbow at side | 2 × 12–15 per arm |
+| Scapular work | Part XIII §F.6 |
+
+There is no template D. **The honest programme for this muscle group fits in one line**, and the reason this
+Part is long is the clinical content in §E, not the prescription.
+
+### F.7 Timeline, measurement and expectations
+
+| Timeframe | What to expect |
+|---|---|
+| Weeks 1–2 | Rapid improvement in how much you can hold in strict position. Skill, not muscle |
+| **Week 8** | The only measured point in healthy people: **supraspinatus +9.8%, infraspinatus +11.7%** of cross-sectional area — in a **case series with no control group**, where the untrained arm also improved (Safford et al., 2024) |
+| **12 months** | In people with rotator-cuff-related pain: substantial improvement, **and no more of it from six physiotherapy sessions than from one** (Hopewell et al., 2021) |
+| Ever | No dose-response data of any kind |
+
+**How to measure it.** Load held in a strict external rotation, and nothing else. Do not measure this muscle
+group with a mirror, a tape or a scan.
+
+**What to expect in absolute terms.** For size, unknown, and this Part will not invent a number — the one
+figure available is roughly a tenth in eight weeks from a study that cannot attribute it. For symptoms, if
+that is why you are here: **expect improvement, expect it to be slow, and do not expect the amount of
+physiotherapy to be the variable that decides it.**
+
+## partxvigsynthesis
+
+**PART G — Synthesis, and what the evidence does not support**
+
+### G.1 The rules that hold
+
+1. **The rotator cuff is a rotator group.** It has the largest axial rotation moment arms at the shoulder and
+   only weak elevation or depression leverage (Hik & Ackland, 2019).
+2. **So train it with rotation.** Everything else it does is stabilizing work and happens anyway (§B.8).
+3. **Subscapularis is the largest of the four** by cross-section, in cadavers (Ward et al., 2006) and in
+   twenty living shoulders (Zhang et al., 2024), and almost nobody trains it deliberately. The
+   best-evidenced way to load it is the **push-up plus** (Decker et al., 2003).
+4. **Part of the cuff's stabilizing contribution is passive**, from muscles sitting at long lengths at rest
+   (Ward et al., 2006) — it is not all trainable.
+5. **Almost every exercise you do loads the cuff as a stabilizer and almost none loads rotation** (§B.4).
+   One external rotation exercise closes the only real gap.
+6. **The loads are small by design** — about a fifth of a lateral raise's torque (§B.9). Light is correct.
+7. **Cuff abnormality is an age phenomenon and largely symptom-independent**: 9.7% under 20, **62% over 80**,
+   rising "similarly regardless of symptoms" (Teunis et al., 2014).
+8. **Subacromial decompression does not beat placebo surgery**, at six months (Beard et al., 2018) or at ten
+   years (Kanto et al., 2025).
+9. **Exercise beats nothing for rotator-cuff-related pain, and more exercise does not beat less**: six
+   physiotherapy sessions matched one session of advice over 12 months (Hopewell et al., 2021).
+10. **After a repair, early motion buys range and less stiffness — not less pain** (Hao et al., 2025), and
+    does not raise the re-tear rate, OR 1.05 (Mazuquin et al., 2021).
+11. **The cuff grows on light loads.** Eight weeks of light, slow external rotation added **7.3%** to
+    infraspinatus cross-section in a randomized trial (Matsumura et al., 2023). Nobody has established a dose.
+12. **Shoulder injury prevention programmes work in overhead sport** — three randomized trials reporting
+    risk reductions of 28% (Andersson et al., 2017), 56% (Asker et al., 2022) and 68%
+    (Al Attar et al., 2021). Untested in lifters.
+
+### G.2 What the evidence does **not** support
+
+**That the cuff's main job is depressing the humeral head.** Its depressor moment arms are weak; the
+significant depressors at the shoulder are pectoralis major, latissimus dorsi and teres major
+(Hik & Ackland, 2019). The vertical force couple is real and it is not what these muscles are built for.
+
+**That the empty-can or full-can test isolates supraspinatus.** During the empty can, **nine other shoulder
+muscles were as highly activated as supraspinatus**; during the full can, eight (Boettcher et al., 2009a).
+The authors conclude the tests "should not be interpreted as definitive tests" for supraspinatus pathology —
+while noting they remain reasonable **exercises**.
+
+**That you need a special exercise to load supraspinatus.** You do not. No arm position activates it more than
+another, and **external rotation loads it as well as any can position while recruiting significantly less
+deltoid** (Boettcher et al., 2009b). The exercise in §C.1 is already the answer.
+
+**That any common exercise isolates a single cuff muscle.** None does (§B.5). The most you can do is bias
+rotation in one direction or the other.
+
+**That a rotator cuff tear on a scan explains the pain.** Abnormality rises steeply with age "regardless of
+symptoms" (Teunis et al., 2014). A tear is a finding, not a diagnosis.
+
+**That subacromial decompression works.** Two placebo-controlled randomized trials say otherwise, one of
+them followed to ten years — the six-month trial (Beard et al., 2018) and the decade-long one
+(Kanto et al., 2025) — and a Cochrane review covers the same ground (Karjalainen et al., 2019). In CSAW both surgical arms did beat no treatment — by **less than the
+trial's own threshold for a difference worth having**.
+
+**That a full-thickness tear is automatically a surgical problem — or automatically not one.** Two long
+randomized trials disagree, and the disagreement tracks the patient: in small nontraumatic tears in the over-55s,
+physiotherapy matched surgery at 6 years (Kukkonen et al., 2021); in full-thickness tears up to 3 cm followed
+for 15 years, repair was superior by 11.8 Constant points, with 15 of 51 physiotherapy patients crossing over
+to surgery (Moosmayer et al., 2024). **Moderate evidence**, and the decision depends on tear size, age and
+time horizon (§E.5).
+
+**That more physiotherapy is better physiotherapy.** In 708 patients, up to six sessions of progressive
+exercise produced **no better outcome than a single session of advice** over 12 months, adjusted mean
+difference −0.66 (99% CI −4.52 to 3.20) (Hopewell et al., 2021).
+
+**That a corticosteroid injection is a long-term solution.** It improved pain and function at eight weeks
+and not over twelve months (Hopewell et al., 2021).
+
+**That shoulder prevention programmes are unproven.** The first draft of this Part said so, and it was wrong
+(§E.6). Three randomized trials in overhead sport report reductions of **28%** (Andersson et al., 2017),
+**56%** (Asker et al., 2022) and **68%** (Al Attar et al., 2021), and a 2025 meta-analysis pools a **51%**
+reduction (Heming et al., 2025). The one null meta-analysis reports **OR 0.73 (95% CI 0.45 to 1.17)**
+(Yonneau et al., 2025) — an estimate almost identical to Andersson's 0.72, with a wider interval.
+**Moderate evidence.** What is genuinely unproven is whether any of it transfers to a lifter.
+
+**That a dose is known for growing the rotator cuff.** Something is known — light, slow external rotation
+grew infraspinatus 7.3% in eight weeks, randomized (Matsumura et al., 2023), and a fourteen-person case series
+agrees on the direction (Safford et al., 2024). What is *not* known is any dose: **nobody has compared sets,
+frequency, range of motion or progression with a size outcome**, and the one load-and-tempo comparison had
+eight men per arm. **Most of §F remains judgement, and it says so.**
+
+**That surface electromyography can tell you about the cuff.** Three of the four muscles lie under other
+structures; subscapularis cannot be recorded without a needle through the axilla (§B.11).
+
+### G.3 The one-paragraph version
+
+Four small muscles wrap the ball of your shoulder and hold it in a socket too shallow to hold it on its own —
+but their famous job is not their main one. Measured across every published dataset, **the cuff has the
+largest rotation leverage at the shoulder and only weak leverage for raising or depressing the arm**: the
+deltoid lifts, and the cuff decides where the arm points and keeps the ball centred while it does. So you
+train the cuff with **rotation**, and with almost nothing else — everything you press, pull, carry and hang
+from already loads it as a stabilizer, which is why it is simultaneously the most-worked and least-trained
+muscle group in your upper body. The gap is specific: pressing loads **internal** rotation as a by-product
+and nothing loads **external** rotation at all, so one cable external rotation exercise, twice a week, under
+about a fifth of your lateral raise weight, closes it — and it should feel embarrassingly light, because that
+is what a small muscle with a short moment arm needs. Worth knowing before you go looking for a diagnosis:
+**cuff abnormality of some kind shows up in about a tenth of people under twenty and nearly two-thirds of
+people over eighty, and the rise happens much the same whether or not the shoulder hurts** — so a finding on a
+scan is a finding and not an explanation. And the two treatments this region is most famous for do not survive
+testing: **subacromial decompression does not beat placebo surgery, at six months or at ten years**, and in
+the largest trial of the conservative alternative, **six sessions of progressive physiotherapy did no better
+than one session of advice** — though everyone improved. The cuff is worth two minutes of your week. It is
+not worth the story that has been built around it — though if you throw for a sport, the two minutes have
+three randomized trials behind them, and eight weeks of it will measurably grow the muscle.
+
+# partxviimasterglossary
+
+**Part XVII — Master Glossary**
 
 Every technical term used anywhere in this document, defined formally with formula and units where
 the quantity is physically or operationally defined.
@@ -21478,88 +22781,89 @@ plain same-file heading anchor.
 
 | Term | Layer | Term | Layer |
 |---|---|---|---|
-| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Medial epicondylalgia ("golfer's elbow")](#medialepicondylalgia) | 13 |
-| [45° back extension (hip extension)](#backextension) | 12 | [Medial epicondyle](#medialepicondyle) | 3 |
-| [Ab wheel](#abwheel) | 12 | [Median nerve](#mediannerve) | 9 |
-| [Abdominal wall](#abdominalwall) | 9 | [Middle (transverse) trapezius](#middletrapezius) | 9 |
-| [Accessory nerve (CN XI)](#accessorynerve) | 9 | [Middle deltoid](#middledeltoid) | 9 |
-| [Achilles tendinopathy](#achillestendinopathy) | 13 | [Mixed grip](#mixedgrip) | 11 |
-| [Achilles tendon](#achillestendon) | 3 | [Moment arm](#momentarm) | 2 |
-| [ACL reconstruction](#aclreconstruction) | 13 | [Momentary (muscular) failure](#momentaryfailure) | 10 |
-| [Acromioclavicular joint (AC joint)](#acromioclavicularjoint) | 3 | [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 |
-| [Acromion](#acromion) | 3 | [Motor unit](#motorunit) | 6 |
-| [Adductor brevis](#adductorbrevis) | 8 | [Multifidus](#multifidus) | 9 |
-| [Adductor loading mode (adduction-loaded, extension-loaded, unloaded)](#adductorloadingmode) | 11 | [Muscle thickness](#musclethickness) | 5 |
-| [Adductor longus](#adductorlongus) | 8 | [Muscle volume](#musclevolume) | 5 |
-| [Adductor magnus](#adductormagnus) | 8 | [Musculocutaneous nerve](#musculocutaneousnerve) | 9 |
-| [Adductor strain](#adductorstrain) | 13 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
-| [Adductor tubercle](#adductortubercle) | 3 | [Net joint moment](#netjointmoment) | 11 |
-| [Adductor-related groin pain](#adductorrelatedgroinpain) | 13 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
-| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Nordic hamstring curl](#nordiccurl) | 12 |
-| [Anconeus](#anconeus) | 9 | [Nuchal ligament](#nuchalligament) | 3 |
-| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Obturator nerve](#obturatornerve) | 8 |
-| [Ankle plantar flexion](#ankleplantarflexion) | 4 | [Olecranon](#olecranon) | 3 |
-| [Annular pulley](#annularpulley) | 3 | [Open kinetic chain exercise](#openkineticchain) | 11 |
-| [Anterior deltoid](#anteriordeltoid) | 9 | [Overhead press (shoulder press, military press)](#overheadpress) | 12 |
-| [Aponeurosis](#aponeurosis) | 3 | [Overhead triceps extension](#overheadtricepsextension) | 12 |
-| [Apophysis](#apophysis) | 3 | [Painful arc](#painfularc) | 13 |
-| [Attentional focus](#attentionalfocus) | 10 | [Pallof press](#pallofpress) | 12 |
-| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Passive tension](#passivetension) | 5 |
-| [Axillary nerve](#axillarynerve) | 9 | [Patella (kneecap)](#patella) | 3 |
-| [Back squat](#backsquat) | 12 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
-| [Bar position](#barposition) | 11 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
-| [Barbell glute bridge](#glutebridge) | 12 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
-| [Barbell hip thrust](#hipthrust) | 12 | [Patellofemoral pain](#patellofemoralpain) | 13 |
-| [Bayes factor (BF)](#bayesfactor) | 9 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
-| [Bayesian cable curl](#bayesiancurl) | 12 | [Pectineus](#pectineus) | 8 |
-| [Belt squat](#beltsquat) | 12 | [Pectoral nerves (lateral and medial)](#pectoralnerves) | 9 |
-| [Bench inclination](#benchinclination) | 11 | [Pectoralis major](#pectoralismajor) | 9 |
-| [Bench press](#benchpress) | 12 | [Pectoralis major tear (pectoralis major rupture)](#pectoralismajortear) | 13 |
-| [Biacromial width](#biacromialwidth) | 3 | [Pectoralis major, abdominal part (the "lower chest")](#pectoralisabdominalhead) | 9 |
-| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Pectoralis major, clavicular head (the "upper chest")](#pectoralisclavicularhead) | 9 |
-| [Biceps brachii](#bicepsbrachii) | 9 | [Pectoralis major, sternocostal head (the "mid chest")](#pectoralissternocostalhead) | 9 |
-| [Biceps curl](#bicepscurl) | 12 | [Pectoralis minor](#pectoralisminor) | 9 |
-| [Biceps femoris, long head (BFlh)](#bicepsfemorislonghead) | 8 | [Pelvic floor](#pelvicfloor) | 9 |
-| [Biceps femoris, short head (BFsh)](#bicepsfemorisshorthead) | 8 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
-| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Pelvis](#pelvis) | 3 |
-| [Biering-Sørensen test](#bieringsorensentest) | 9 | [Pennation angle](#pennationangle) | 5 |
-| [Bilaminar tendon](#bilaminartendon) | 3 | [Plane of elevation](#planeofelevation) | 4 |
-| [Brachialis](#brachialis) | 9 | [Plank](#plank) | 12 |
-| [Brachioradialis](#brachioradialis) | 9 | [Plate pinch](#platepinch) | 12 |
-| [Cable crunch](#cablecrunch) | 12 | [Posterior deltoid](#posteriordeltoid) | 9 |
-| [Cable or machine kickback (standing hip extension)](#kickback) | 12 | [Posterior oblique sling](#posteriorobliquesling) | 8 |
-| [Cable pull-through](#cablepullthrough) | 12 | [Preacher curl](#preachercurl) | 12 |
-| [Calf raise](#calfraise) | 12 | [Progressive overload](#progressiveoverload) | 10 |
-| [Carpal tunnel](#carpaltunnel) | 3 | [Pronated (overhand) grip](#pronatedgrip) | 11 |
-| [Carpal tunnel syndrome](#carpaltunnelsyndrome) | 13 | [Prone Y raise (prone overhead arm raise)](#proneyraise) | 12 |
-| [Chest fly (dumbbell fly, cable fly or crossover, pec deck)](#chestfly) | 12 | [Proximity to failure](#proximitytofailure) | 10 |
-| [Chin-up](#chinup) | 12 | [Psoas major](#psoasmajor) | 9 |
-| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Pubic ramus](#pubicramus) | 3 |
-| [Clavicle (collarbone)](#clavicle) | 3 | [Pull-up](#pullup) | 12 |
-| [Close-grip bench press](#closegripbenchpress) | 12 | [Pullover](#pullover) | 12 |
-| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Push-up](#pushup) | 12 |
-| [Compound exercise](#compound) | 11 | [Push-up plus](#pushupplus) | 12 |
-| [Concentric contraction](#concentriccontraction) | 6 | [Quadratus lumborum](#quadratuslumborum) | 9 |
-| [Contralateral](#contralateral) | 1 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
-| [Copenhagen adduction exercise](#copenhagenadduction) | 12 | [Quadriceps tendon](#quadricepstendon) | 3 |
-| [Coracobrachialis](#coracobrachialis) | 9 | [Radial nerve](#radialnerve) | 9 |
-| [Coracoid process](#coracoidprocess) | 3 | [Radial tuberosity](#radialtuberosity) | 3 |
-| [Costal cartilage](#costalcartilage) | 3 | [Range of motion (ROM)](#rangeofmotion) | 4 |
-| [Crunch](#crunch) | 12 | [Rectus abdominis](#rectusabdominis) | 9 |
-| [Dead hang](#deadhang) | 12 | [Rectus femoris](#rectusfemoris) | 8 |
-| [Deadlift](#deadlift) | 12 | [Rectus sheath](#rectussheath) | 3 |
-| [Deep hip external rotators](#hipexternalrotators) | 8 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
-| [Deload](#deload) | 10 | [Repetition (rep)](#repetition) | 10 |
-| [Deltoid](#deltoid) | 9 | [Resistance profile](#resistanceprofile) | 11 |
-| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Reverse curl](#reversecurl) | 12 |
-| [Diaphragm](#diaphragm) | 9 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 12 |
-| [Diastasis recti](#diastasisrecti) | 13 | [Reverse hyperextension](#reversehyperextension) | 12 |
-| [Dip (parallel-bar dip)](#dip) | 12 | [Reverse Nordic curl](#reversenordic) | 12 |
-| [Distal biceps tendon rupture](#distalbicepstendonrupture) | 13 | [Reverse wrist curl](#reversewristcurl) | 12 |
-| [Distal clavicular osteolysis ("weightlifter's shoulder")](#distalclavicularosteolysis) | 13 | [Rhomboids (major and minor)](#rhomboids) | 9 |
-| [Distal triceps tendon rupture](#distaltricepsrupture) | 13 | [RIR (repetitions in reserve)](#rir) | 10 |
-| [Dorsal scapular nerve](#dorsalscapularnerve) | 9 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
-| [Dose–response relationship](#doseresponserelationship) | 10 | [Rotator cuff](#rotatorcuff) | 9 |
+| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Medial epicondyle](#medialepicondyle) | 3 |
+| [45° back extension (hip extension)](#backextension) | 12 | [Median nerve](#mediannerve) | 9 |
+| [Ab wheel](#abwheel) | 12 | [Middle (transverse) trapezius](#middletrapezius) | 9 |
+| [Abdominal wall](#abdominalwall) | 9 | [Middle deltoid](#middledeltoid) | 9 |
+| [Accessory nerve (CN XI)](#accessorynerve) | 9 | [Mixed grip](#mixedgrip) | 11 |
+| [Achilles tendinopathy](#achillestendinopathy) | 13 | [Moment arm](#momentarm) | 2 |
+| [Achilles tendon](#achillestendon) | 3 | [Momentary (muscular) failure](#momentaryfailure) | 10 |
+| [ACL reconstruction](#aclreconstruction) | 13 | [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 |
+| [Acromioclavicular joint (AC joint)](#acromioclavicularjoint) | 3 | [Motor unit](#motorunit) | 6 |
+| [Acromion](#acromion) | 3 | [Multifidus](#multifidus) | 9 |
+| [Adductor brevis](#adductorbrevis) | 8 | [Muscle thickness](#musclethickness) | 5 |
+| [Adductor loading mode (adduction-loaded, extension-loaded, unloaded)](#adductorloadingmode) | 11 | [Muscle volume](#musclevolume) | 5 |
+| [Adductor longus](#adductorlongus) | 8 | [Musculocutaneous nerve](#musculocutaneousnerve) | 9 |
+| [Adductor magnus](#adductormagnus) | 8 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
+| [Adductor strain](#adductorstrain) | 13 | [Net joint moment](#netjointmoment) | 11 |
+| [Adductor tubercle](#adductortubercle) | 3 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
+| [Adductor-related groin pain](#adductorrelatedgroinpain) | 13 | [Nordic hamstring curl](#nordiccurl) | 12 |
+| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Nuchal ligament](#nuchalligament) | 3 |
+| [Anconeus](#anconeus) | 9 | [Obturator nerve](#obturatornerve) | 8 |
+| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Olecranon](#olecranon) | 3 |
+| [Ankle plantar flexion](#ankleplantarflexion) | 4 | [Open kinetic chain exercise](#openkineticchain) | 11 |
+| [Annular pulley](#annularpulley) | 3 | [Overhead press (shoulder press, military press)](#overheadpress) | 12 |
+| [Anterior deltoid](#anteriordeltoid) | 9 | [Overhead triceps extension](#overheadtricepsextension) | 12 |
+| [Aponeurosis](#aponeurosis) | 3 | [Painful arc](#painfularc) | 13 |
+| [Apophysis](#apophysis) | 3 | [Pallof press](#pallofpress) | 12 |
+| [Attentional focus](#attentionalfocus) | 10 | [Passive tension](#passivetension) | 5 |
+| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Patella (kneecap)](#patella) | 3 |
+| [Axillary nerve](#axillarynerve) | 9 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
+| [Back squat](#backsquat) | 12 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
+| [Bar position](#barposition) | 11 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
+| [Barbell glute bridge](#glutebridge) | 12 | [Patellofemoral pain](#patellofemoralpain) | 13 |
+| [Barbell hip thrust](#hipthrust) | 12 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
+| [Bayes factor (BF)](#bayesfactor) | 9 | [Pectineus](#pectineus) | 8 |
+| [Bayesian cable curl](#bayesiancurl) | 12 | [Pectoral nerves (lateral and medial)](#pectoralnerves) | 9 |
+| [Belt squat](#beltsquat) | 12 | [Pectoralis major](#pectoralismajor) | 9 |
+| [Bench inclination](#benchinclination) | 11 | [Pectoralis major tear (pectoralis major rupture)](#pectoralismajortear) | 13 |
+| [Bench press](#benchpress) | 12 | [Pectoralis major, abdominal part (the "lower chest")](#pectoralisabdominalhead) | 9 |
+| [Biacromial width](#biacromialwidth) | 3 | [Pectoralis major, clavicular head (the "upper chest")](#pectoralisclavicularhead) | 9 |
+| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Pectoralis major, sternocostal head (the "mid chest")](#pectoralissternocostalhead) | 9 |
+| [Biceps brachii](#bicepsbrachii) | 9 | [Pectoralis minor](#pectoralisminor) | 9 |
+| [Biceps curl](#bicepscurl) | 12 | [Pelvic floor](#pelvicfloor) | 9 |
+| [Biceps femoris, long head (BFlh)](#bicepsfemorislonghead) | 8 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
+| [Biceps femoris, short head (BFsh)](#bicepsfemorisshorthead) | 8 | [Pelvis](#pelvis) | 3 |
+| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Pennation angle](#pennationangle) | 5 |
+| [Biering-Sørensen test](#bieringsorensentest) | 9 | [Plane of elevation](#planeofelevation) | 4 |
+| [Bilaminar tendon](#bilaminartendon) | 3 | [Plank](#plank) | 12 |
+| [Brachialis](#brachialis) | 9 | [Plate pinch](#platepinch) | 12 |
+| [Brachioradialis](#brachioradialis) | 9 | [Posterior deltoid](#posteriordeltoid) | 9 |
+| [Cable crunch](#cablecrunch) | 12 | [Posterior oblique sling](#posteriorobliquesling) | 8 |
+| [Cable or machine kickback (standing hip extension)](#kickback) | 12 | [Preacher curl](#preachercurl) | 12 |
+| [Cable pull-through](#cablepullthrough) | 12 | [Progressive overload](#progressiveoverload) | 10 |
+| [Calf raise](#calfraise) | 12 | [Pronated (overhand) grip](#pronatedgrip) | 11 |
+| [Carpal tunnel](#carpaltunnel) | 3 | [Prone Y raise (prone overhead arm raise)](#proneyraise) | 12 |
+| [Carpal tunnel syndrome](#carpaltunnelsyndrome) | 13 | [Proximity to failure](#proximitytofailure) | 10 |
+| [Chest fly (dumbbell fly, cable fly or crossover, pec deck)](#chestfly) | 12 | [Psoas major](#psoasmajor) | 9 |
+| [Chin-up](#chinup) | 12 | [Pubic ramus](#pubicramus) | 3 |
+| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Pull-up](#pullup) | 12 |
+| [Clavicle (collarbone)](#clavicle) | 3 | [Pullover](#pullover) | 12 |
+| [Close-grip bench press](#closegripbenchpress) | 12 | [Push-up](#pushup) | 12 |
+| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Push-up plus](#pushupplus) | 12 |
+| [Compound exercise](#compound) | 11 | [Quadratus lumborum](#quadratuslumborum) | 9 |
+| [Concentric contraction](#concentriccontraction) | 6 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
+| [Contralateral](#contralateral) | 1 | [Quadriceps tendon](#quadricepstendon) | 3 |
+| [Copenhagen adduction exercise](#copenhagenadduction) | 12 | [Radial nerve](#radialnerve) | 9 |
+| [Coracobrachialis](#coracobrachialis) | 9 | [Radial tuberosity](#radialtuberosity) | 3 |
+| [Coracoid process](#coracoidprocess) | 3 | [Range of motion (ROM)](#rangeofmotion) | 4 |
+| [Costal cartilage](#costalcartilage) | 3 | [Rectus abdominis](#rectusabdominis) | 9 |
+| [Crunch](#crunch) | 12 | [Rectus femoris](#rectusfemoris) | 8 |
+| [Cuff loading class (rotation-loaded, compression-, traction-, elevation-loaded, end-range restraint)](#cuffloadingclass) | 11 | [Rectus sheath](#rectussheath) | 3 |
+| [Dead hang](#deadhang) | 12 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
+| [Deadlift](#deadlift) | 12 | [Repetition (rep)](#repetition) | 10 |
+| [Deep hip external rotators](#hipexternalrotators) | 8 | [Resistance profile](#resistanceprofile) | 11 |
+| [Deload](#deload) | 10 | [Reverse curl](#reversecurl) | 12 |
+| [Deltoid](#deltoid) | 9 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 12 |
+| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Reverse hyperextension](#reversehyperextension) | 12 |
+| [Diaphragm](#diaphragm) | 9 | [Reverse Nordic curl](#reversenordic) | 12 |
+| [Diastasis recti](#diastasisrecti) | 13 | [Reverse wrist curl](#reversewristcurl) | 12 |
+| [Dip (parallel-bar dip)](#dip) | 12 | [Rhomboids (major and minor)](#rhomboids) | 9 |
+| [Distal biceps tendon rupture](#distalbicepstendonrupture) | 13 | [RIR (repetitions in reserve)](#rir) | 10 |
+| [Distal clavicular osteolysis ("weightlifter's shoulder")](#distalclavicularosteolysis) | 13 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
+| [Distal triceps tendon rupture](#distaltricepsrupture) | 13 | [Rotator cuff](#rotatorcuff) | 9 |
+| [Dorsal scapular nerve](#dorsalscapularnerve) | 9 | [Rotator cuff muscles](#rotatorcuffmuscles) | 9 |
+| [Dose–response relationship](#doseresponserelationship) | 10 | [Rotator cuff tear](#rotatorcufftear) | 13 |
 | [Double progression](#doubleprogression) | 10 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
 | [Dumbbell bench press](#dumbbellbenchpress) | 12 | [Row](#row) | 12 |
 | [Eccentric contraction](#eccentriccontraction) | 6 | [RPE (rating of perceived exertion)](#rpe) | 10 |
@@ -21576,91 +22880,95 @@ plain same-file heading anchor.
 | [Excursion](#excursion) | 4 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
 | [Extensor carpi radialis brevis (ECRB)](#extensorcarpiradialisbrevis) | 9 | [Scapular dyskinesis](#scapulardyskinesis) | 13 |
 | [External oblique](#externaloblique) | 9 | [Scapular elevation](#scapularelevation) | 4 |
-| [Face pull](#facepull) | 12 | [Scapular internal and external rotation](#scapularinternalrotation) | 4 |
-| [Farmer's walk](#farmerswalk) | 12 | [Scapular load class (elevation-, depression-, retraction-, protraction-, upward-rotation-, downward-rotation-loaded)](#scapularloadclass) | 11 |
-| [Fascicle length](#fasciclelength) | 5 | [Scapular posterior tilt](#scapularposteriortilt) | 4 |
-| [Femoral nerve](#femoralnerve) | 8 | [Scapular protraction (abduction)](#scapularprotraction) | 4 |
-| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
-| [Femur (thigh bone)](#femur) | 3 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
-| [Finger flexion](#fingerflexion) | 4 | [Scapular winging](#scapularwinging) | 13 |
-| [Finger pulley injury](#pulleyinjury) | 13 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
-| [Flexion relaxation](#flexionrelaxation) | 11 | [Scapulothoracic articulation](#scapulothoracicarticulation) | 3 |
-| [Flexor digitorum profundus (FDP)](#flexordigitorumprofundus) | 9 | [Seated calf raise](#seatedcalfraise) | 12 |
-| [Flexor digitorum superficialis (FDS)](#flexordigitorumsuperficialis) | 9 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
-| [Force–length relationship](#forcelengthrelationship) | 5 | [Semimembranosus (SM)](#semimembranosus) | 8 |
-| [Forearm muscles](#forearmmuscles) | 9 | [Semitendinosus (ST)](#semitendinosus) | 8 |
-| [Forearm pronation](#forearmpronation) | 4 | [Serratus anterior](#serratusanterior) | 8 |
-| [Forearm supination](#forearmsupination) | 4 | [Sesamoid bone](#sesamoid) | 3 |
-| [Front raise](#frontraise) | 12 | [Set](#set) | 10 |
-| [Front squat](#frontsquat) | 12 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
-| [Frontal (coronal) plane](#frontalplane) | 1 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
-| [Gastrocnemius](#gastrocnemius) | 8 | [Shoulder abduction](#shoulderabduction) | 4 |
-| [Glenohumeral joint](#glenohumeraljoint) | 3 | [Shoulder adduction](#shoulderadduction) | 4 |
-| [Glute-ham raise (GHR)](#glutehamraise) | 12 | [Shoulder extension](#shoulderextension) | 4 |
-| [Gluteal tendinopathy (greater trochanteric pain syndrome)](#glutealtendinopathy) | 13 | [Shoulder external (lateral) rotation](#shoulderexternalrotation) | 4 |
-| [Gluteus maximus](#gluteusmaximus) | 8 | [Shoulder flexion](#shoulderflexion) | 4 |
-| [Gluteus medius](#gluteusmedius) | 8 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
-| [Gluteus minimus](#gluteusminimus) | 8 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
-| [Good morning](#goodmorning) | 12 | [Shoulder instability](#shoulderinstability) | 13 |
-| [Gracilis](#gracilis) | 8 | [Shoulder position class (Overhead, Raised, Down)](#shoulderpositionclass) | 11 |
-| [Greater trochanter](#greatertrochanter) | 3 | [Shrug](#shrug) | 12 |
-| [Grip demand class (support, crush, pinch, open-hand)](#gripdemandclass) | 11 | [Side plank](#sideplank) | 12 |
-| [Grip width](#gripwidth) | 11 | [Sissy squat](#sissysquat) | 12 |
-| [Hack squat](#hacksquat) | 12 | [Sit-up](#situp) | 12 |
-| [Hammer curl](#hammercurl) | 12 | [Size principle](#sizeprinciple) | 6 |
-| [Hamstrings](#hamstrings) | 8 | [Smith machine squat](#smithmachinesquat) | 12 |
-| [Hand gripper](#handgripper) | 12 | [Snapping triceps](#snappingtriceps) | 13 |
-| [Handgrip dynamometry](#handgripdynamometry) | 9 | [Soleus](#soleus) | 8 |
-| [Hangboard hang](#hangboardhang) | 12 | [Specific tension](#specifictension) | 5 |
-| [Hanging knee raise](#hangingkneeraise) | 12 | [Spinal role class (spine-moving, spine-holding, supported)](#spinalroleclass) | 11 |
-| [Hard set](#hardset) | 10 | [Spine of the scapula](#scapularspine) | 3 |
-| [Hip abduction](#hipabduction) | 4 | [Split squat](#splitsquat) | 12 |
-| [Hip adduction](#hipadduction) | 4 | [Spondylolysis](#spondylolysis) | 13 |
-| [Hip adduction machine](#hipadductionmachine) | 12 | [Squat depth](#squatdepth) | 11 |
-| [Hip adductors](#hipadductors) | 8 | [Stance width](#stancewidth) | 11 |
-| [Hip extension](#hipextension) | 4 | [Step-up](#stepup) | 12 |
-| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Sternoclavicular joint](#sternoclavicularjoint) | 3 |
-| [Hip flexion](#hipflexion) | 4 | [Sternum (breastbone)](#sternum) | 3 |
-| [Hip hinge](#hiphinge) | 11 | [Sticking region](#stickingregion) | 11 |
-| [Hip internal (medial) rotation](#hipinternalrotation) | 4 | [Straight-arm pulldown](#straightarmpulldown) | 12 |
-| [Hip joint (acetabulofemoral joint)](#hipjoint) | 3 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
-| [Hip osteoarthritis](#hiposteoarthritis) | 13 | [Subacromial impingement](#impingement) | 13 |
-| [Hook grip](#hookgrip) | 11 | [Subacromial space](#subacromialspace) | 3 |
+| [External rotation exercise](#externalrotationexercise) | 12 | [Scapular internal and external rotation](#scapularinternalrotation) | 4 |
+| [Face pull](#facepull) | 12 | [Scapular load class (elevation-, depression-, retraction-, protraction-, upward-rotation-, downward-rotation-loaded)](#scapularloadclass) | 11 |
+| [Farmer's walk](#farmerswalk) | 12 | [Scapular posterior tilt](#scapularposteriortilt) | 4 |
+| [Fascicle length](#fasciclelength) | 5 | [Scapular protraction (abduction)](#scapularprotraction) | 4 |
+| [Femoral nerve](#femoralnerve) | 8 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
+| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
+| [Femur (thigh bone)](#femur) | 3 | [Scapular winging](#scapularwinging) | 13 |
+| [Finger flexion](#fingerflexion) | 4 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
+| [Finger pulley injury](#pulleyinjury) | 13 | [Scapulothoracic articulation](#scapulothoracicarticulation) | 3 |
+| [Flexion relaxation](#flexionrelaxation) | 11 | [Seated calf raise](#seatedcalfraise) | 12 |
+| [Flexor digitorum profundus (FDP)](#flexordigitorumprofundus) | 9 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
+| [Flexor digitorum superficialis (FDS)](#flexordigitorumsuperficialis) | 9 | [Semimembranosus (SM)](#semimembranosus) | 8 |
+| [Force–length relationship](#forcelengthrelationship) | 5 | [Semitendinosus (ST)](#semitendinosus) | 8 |
+| [Forearm muscles](#forearmmuscles) | 9 | [Serratus anterior](#serratusanterior) | 8 |
+| [Forearm pronation](#forearmpronation) | 4 | [Sesamoid bone](#sesamoid) | 3 |
+| [Forearm supination](#forearmsupination) | 4 | [Set](#set) | 10 |
+| [Front raise](#frontraise) | 12 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
+| [Front squat](#frontsquat) | 12 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
+| [Frontal (coronal) plane](#frontalplane) | 1 | [Shoulder abduction](#shoulderabduction) | 4 |
+| [Gastrocnemius](#gastrocnemius) | 8 | [Shoulder adduction](#shoulderadduction) | 4 |
+| [Glenohumeral joint](#glenohumeraljoint) | 3 | [Shoulder extension](#shoulderextension) | 4 |
+| [Glute-ham raise (GHR)](#glutehamraise) | 12 | [Shoulder external (lateral) rotation](#shoulderexternalrotation) | 4 |
+| [Gluteal tendinopathy (greater trochanteric pain syndrome)](#glutealtendinopathy) | 13 | [Shoulder flexion](#shoulderflexion) | 4 |
+| [Gluteus maximus](#gluteusmaximus) | 8 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
+| [Gluteus medius](#gluteusmedius) | 8 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
+| [Gluteus minimus](#gluteusminimus) | 8 | [Shoulder instability](#shoulderinstability) | 13 |
+| [Good morning](#goodmorning) | 12 | [Shoulder position class (Overhead, Raised, Down)](#shoulderpositionclass) | 11 |
+| [Gracilis](#gracilis) | 8 | [Shrug](#shrug) | 12 |
+| [Greater trochanter](#greatertrochanter) | 3 | [Side plank](#sideplank) | 12 |
+| [Greater tubercle](#greatertubercle) | 3 | [Sissy squat](#sissysquat) | 12 |
+| [Grip demand class (support, crush, pinch, open-hand)](#gripdemandclass) | 11 | [Sit-up](#situp) | 12 |
+| [Grip width](#gripwidth) | 11 | [Size principle](#sizeprinciple) | 6 |
+| [Hack squat](#hacksquat) | 12 | [Smith machine squat](#smithmachinesquat) | 12 |
+| [Hammer curl](#hammercurl) | 12 | [Snapping triceps](#snappingtriceps) | 13 |
+| [Hamstrings](#hamstrings) | 8 | [Soleus](#soleus) | 8 |
+| [Hand gripper](#handgripper) | 12 | [Specific tension](#specifictension) | 5 |
+| [Handgrip dynamometry](#handgripdynamometry) | 9 | [Spinal role class (spine-moving, spine-holding, supported)](#spinalroleclass) | 11 |
+| [Hangboard hang](#hangboardhang) | 12 | [Spine of the scapula](#scapularspine) | 3 |
+| [Hanging knee raise](#hangingkneeraise) | 12 | [Split squat](#splitsquat) | 12 |
+| [Hard set](#hardset) | 10 | [Spondylolysis](#spondylolysis) | 13 |
+| [Hip abduction](#hipabduction) | 4 | [Squat depth](#squatdepth) | 11 |
+| [Hip adduction](#hipadduction) | 4 | [Stance width](#stancewidth) | 11 |
+| [Hip adduction machine](#hipadductionmachine) | 12 | [Step-up](#stepup) | 12 |
+| [Hip adductors](#hipadductors) | 8 | [Sternoclavicular joint](#sternoclavicularjoint) | 3 |
+| [Hip extension](#hipextension) | 4 | [Sternum (breastbone)](#sternum) | 3 |
+| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Sticking region](#stickingregion) | 11 |
+| [Hip flexion](#hipflexion) | 4 | [Straight-arm pulldown](#straightarmpulldown) | 12 |
+| [Hip hinge](#hiphinge) | 11 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
+| [Hip internal (medial) rotation](#hipinternalrotation) | 4 | [Subacromial decompression](#subacromialdecompression) | 13 |
+| [Hip joint (acetabulofemoral joint)](#hipjoint) | 3 | [Subacromial impingement](#impingement) | 13 |
+| [Hip osteoarthritis](#hiposteoarthritis) | 13 | [Subacromial space](#subacromialspace) | 3 |
+| [Hook grip](#hookgrip) | 11 | [Subscapularis](#subscapularis) | 9 |
 | [Horizontal pull](#horizontalpull) | 11 | [Suitcase carry](#suitcasecarry) | 12 |
 | [Humeral elevation](#humeralelevation) | 4 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
 | [Humerus (upper arm bone)](#humerus) | 3 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
-| [Hypertrophy](#hypertrophy) | 7 | [Supraspinatus](#supraspinatus) | 9 |
-| [Iliocostalis lumborum](#iliocostalislumborum) | 8 | [T2-weighted MRI (transverse relaxation time)](#t2mri) | 9 |
-| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [Technical failure](#technicalfailure) | 10 |
-| [Incline curl](#inclinecurl) | 12 | [Tempo](#tempo) | 10 |
-| [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [Tennis leg](#tennisleg) | 13 |
-| [Infraglenoid tubercle](#infraglenoidtubercle) | 3 | [Tenodesis effect](#tenodesiseffect) | 4 |
+| [Hypertrophy](#hypertrophy) | 7 | [Suprascapular nerve](#suprascapularnerve) | 9 |
+| [Iliocostalis lumborum](#iliocostalislumborum) | 8 | [Supraspinatus](#supraspinatus) | 9 |
+| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [T2-weighted MRI (transverse relaxation time)](#t2mri) | 9 |
+| [Incline curl](#inclinecurl) | 12 | [Technical failure](#technicalfailure) | 10 |
+| [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [Tempo](#tempo) | 10 |
+| [Infraglenoid tubercle](#infraglenoidtubercle) | 3 | [Tennis leg](#tennisleg) | 13 |
+| [Infraspinatus](#infraspinatus) | 9 | [Tenodesis effect](#tenodesiseffect) | 4 |
 | [Internal (medial) rotation](#internalrotation) | 4 | [Tensor fasciae latae (TFL)](#tensorfascialatae) | 8 |
 | [Internal oblique](#internaloblique) | 9 | [Tensor vastus intermedius](#tensorvastusintermedius) | 8 |
 | [Intra-abdominal pressure (IAP)](#intraabdominalpressure) | 3 | [Teres major](#teresmajor) | 8 |
-| [Inverted row](#invertedrow) | 12 | [The EMG–hypertrophy dissociation](#emghypertrophydissociation) | 9 |
-| [Ischial tuberosity](#ischialtuberosity) | 3 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
-| [Isolated lumbar extension (ILEX)](#isolatedlumbarextension) | 12 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
-| [Isolation exercise](#isolation) | 11 | [Tibia (shin bone)](#tibia) | 3 |
-| [Joint reaction force](#jointreactionforce) | 3 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
-| [Kettlebell swing](#kettlebellswing) | 12 | [Torque (moment)](#torque) | 2 |
-| [Kipping](#kipping) | 12 | [Torso inclination](#torsoinclination) | 11 |
-| [Knee extension](#kneeextension) | 4 | [Training frequency](#trainingfrequency) | 10 |
-| [Knee flexion](#kneeflexion) | 4 | [Training volume](#trainingvolume) | 10 |
-| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [Transverse (horizontal) plane](#transverseplane) | 1 |
-| [Knee travel](#kneetravel) | 11 | [Transversus abdominis](#transversusabdominis) | 9 |
-| [Lacertus fibrosus (bicipital aponeurosis)](#lacertusfibrosus) | 3 | [Trapezius](#trapezius) | 9 |
-| [Lat pulldown](#latpulldown) | 12 | [Trapezius myalgia](#trapeziusmyalgia) | 13 |
-| [Lateral epicondylalgia ("tennis elbow")](#lateralepicondylalgia) | 13 | [Triceps brachii](#tricepsbrachii) | 9 |
-| [Lateral epicondyle](#lateralepicondyle) | 3 | [Triceps brachii, lateral head](#tricepslateralhead) | 9 |
-| [Lateral raise](#lateralraise) | 12 | [Triceps brachii, long head](#tricepslonghead) | 9 |
-| [Lateral slide](#lateralslide) | 12 | [Triceps brachii, medial head](#tricepsmedialhead) | 9 |
-| [Latissimus dorsi](#latissimusdorsi) | 8 | [Triceps kickback](#tricepskickback) | 12 |
-| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Triceps pushdown (cable pushdown)](#tricepspushdown) | 12 |
-| [Leg extension](#legextension) | 12 | [Triceps surae](#tricepssurae) | 8 |
-| [Leg press](#legpress) | 12 | [Trunk extension](#trunkextension) | 5 |
-| [Lengthened partials](#lengthenedpartials) | 7 | [Trunk flexion](#trunkflexion) | 5 |
-| [Lengthened position](#lengthenedposition) | 7 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
+| [Inverted row](#invertedrow) | 12 | [Teres minor](#teresminor) | 9 |
+| [Ischial tuberosity](#ischialtuberosity) | 3 | [The EMG–hypertrophy dissociation](#emghypertrophydissociation) | 9 |
+| [Isolated lumbar extension (ILEX)](#isolatedlumbarextension) | 12 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
+| [Isolation exercise](#isolation) | 11 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
+| [Joint reaction force](#jointreactionforce) | 3 | [Tibia (shin bone)](#tibia) | 3 |
+| [Kettlebell swing](#kettlebellswing) | 12 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
+| [Kipping](#kipping) | 12 | [Torque (moment)](#torque) | 2 |
+| [Knee extension](#kneeextension) | 4 | [Torso inclination](#torsoinclination) | 11 |
+| [Knee flexion](#kneeflexion) | 4 | [Training frequency](#trainingfrequency) | 10 |
+| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [Training volume](#trainingvolume) | 10 |
+| [Knee travel](#kneetravel) | 11 | [Transverse (horizontal) plane](#transverseplane) | 1 |
+| [Lacertus fibrosus (bicipital aponeurosis)](#lacertusfibrosus) | 3 | [Transversus abdominis](#transversusabdominis) | 9 |
+| [Lat pulldown](#latpulldown) | 12 | [Trapezius](#trapezius) | 9 |
+| [Lateral epicondylalgia ("tennis elbow")](#lateralepicondylalgia) | 13 | [Trapezius myalgia](#trapeziusmyalgia) | 13 |
+| [Lateral epicondyle](#lateralepicondyle) | 3 | [Triceps brachii](#tricepsbrachii) | 9 |
+| [Lateral raise](#lateralraise) | 12 | [Triceps brachii, lateral head](#tricepslateralhead) | 9 |
+| [Lateral slide](#lateralslide) | 12 | [Triceps brachii, long head](#tricepslonghead) | 9 |
+| [Latissimus dorsi](#latissimusdorsi) | 8 | [Triceps brachii, medial head](#tricepsmedialhead) | 9 |
+| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Triceps kickback](#tricepskickback) | 12 |
+| [Leg extension](#legextension) | 12 | [Triceps pushdown (cable pushdown)](#tricepspushdown) | 12 |
+| [Leg press](#legpress) | 12 | [Triceps surae](#tricepssurae) | 8 |
+| [Lengthened partials](#lengthenedpartials) | 7 | [Trunk extension](#trunkextension) | 5 |
+| [Lengthened position](#lengthenedposition) | 7 | [Trunk flexion](#trunkflexion) | 5 |
+| [Lesser tubercle](#lessertubercle) | 3 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
 | [Levator scapulae](#levatorscapulae) | 9 | [Trunk rotation](#trunkrotation) | 5 |
 | [Lifting straps](#liftingstraps) | 11 | [Ulnar nerve](#ulnarnerve) | 9 |
 | [Limiting link](#limitinglink) | 10 | [Upper (descending) trapezius](#uppertrapezius) | 9 |
@@ -21678,6 +22986,7 @@ plain same-file heading anchor.
 | [Machine chest press](#machinechestpress) | 12 | [Wrist flexion](#wristflexion) | 4 |
 | [Mechanical tension](#mechanicaltension) | 6 | [Wrist flexors](#wristflexors) | 9 |
 | [Mechanotransduction](#mechanotransduction) | 6 | [Wrist joint](#wristjoint) | 3 |
+| [Medial epicondylalgia ("golfer's elbow")](#medialepicondylalgia) | 13 |  |  |
 
 ---
 
@@ -21898,6 +23207,16 @@ Raising it together with abdominal muscle force increased the load a physical mo
 *Anatomy & Structure*
 
 **Bicipital (intertubercular) groove** — The vertical channel on the front of the upper arm bone that the long head of the biceps tendon runs through. Formally: the sulcus on the proximal humerus between the greater and lesser tubercles, bounded by lips into which three muscles insert: its **floor** receives the latissimus dorsi, its **medial lip** teres major, and its **lateral lip** pectoralis major. That tightly clustered shared insertion is the anatomical reason no exercise can separate the latissimus dorsi from teres major.
+
+## greatertubercle
+*Anatomy & Structure*
+
+**Greater tubercle** — The bony knuckle on the outer top of the arm bone that you can feel just below the point of the shoulder. Formally: the lateral prominence of the proximal [humerus](#humerus), carrying three facets that receive, from top to bottom, the supraspinatus, infraspinatus and teres minor tendons — approximately: dissection of 113 shoulders found the supraspinatus footprint to be only about 6.9 mm across and 12.6 mm front to back, with much of the superior facet occupied by infraspinatus (Mochizuki et al., 2008). It is the structure that passes under the [acromion](#acromion) as the arm is raised, and the bone from which a degenerative rotator cuff tear usually peels away.
+
+## lessertubercle
+*Anatomy & Structure*
+
+**Lesser tubercle** — The smaller bony knuckle on the **front** of the upper arm bone, just inside the greater one. Formally: the anterior prominence of the proximal [humerus](#humerus), receiving the subscapularis tendon, and forming the medial wall of the [bicipital groove](#bicipitalgroove). It is the usual rotator cuff attachment on the front of the humerus, which is why the cuff wraps the head from both sides (Part XVI §A.2) — though supraspinatus also reaches it in about 21% of shoulders (Mochizuki et al., 2008).
 
 ## apophysis
 
@@ -22785,13 +24104,38 @@ That combination — very long fascicles, very small PCSA — defines it as an *
 
 *Anatomy & Structure*
 
-**Rotator cuff** — The four small muscles that wrap the ball of the shoulder joint and hold it in its socket while the big muscles move the arm. Formally: supraspinatus, infraspinatus, teres minor and subscapularis, arising from the [scapula](#scapula) and inserting as a continuous tendinous sleeve onto the greater and lesser tuberosities of the [humerus](#humerus); their combined [line of action](#lineofaction) compresses and depresses the humeral head into the glenoid fossa. They are not a hypertrophy target in this document, and they set the ceiling on what the deltoid can be asked to do: their opposing rotations form a transverse-plane force couple that stabilizes the head while the deltoid elevates it, and the infraspinatus and subscapularis carry the largest axial-rotation [moment arms](#momentarm) at the joint — though not larger than every deltoid sub-region's, since the anterior deltoid's pooled rotation arm of 22.2 mm exceeds the subscapularis's 20.6 mm and the supraspinatus's 4.0 mm (Hik & Ackland, 2019).
+**Rotator cuff** — The four small muscles that wrap the ball of the shoulder joint and hold it in its socket while the big muscles move the arm. Formally: supraspinatus, infraspinatus, teres minor and subscapularis, arising from the [scapula](#scapula) and inserting as a continuous tendinous sleeve onto the greater and lesser tuberosities of the [humerus](#humerus); their combined [line of action](#lineofaction) compresses the humeral head into the glenoid fossa. **It does not meaningfully depress it:** the cuff's depressor moment arms are weak, and the shoulder's significant depressors are pectoralis major, latissimus dorsi and teres major (Hik & Ackland, 2019). The cuff sub-regions are better aligned to stabilize the joint in the transverse plane than the vertical one, with anterior supraspinatus the muscle best oriented to apply compression (Ackland & Pandy, 2009). **Part XVI is devoted to them.** They set the ceiling on what the deltoid can be asked to do: their opposing rotations form a transverse-plane force couple that stabilizes the head while the deltoid elevates it, and the infraspinatus and subscapularis carry the largest axial-rotation [moment arms](#momentarm) at the joint — though not larger than every deltoid sub-region's, since the anterior deltoid's pooled rotation arm of 22.2 mm exceeds the subscapularis's 20.6 mm and the supraspinatus's 4.0 mm (Hik & Ackland, 2019).
 
 ## supraspinatus
 
 *Anatomy & Structure*
 
-**Supraspinatus** — The [rotator cuff](#rotatorcuff) muscle that runs across the top of the shoulder blade and starts the arm moving away from your side. Formally: arising from the supraspinous fossa of the [scapula](#scapula), passing beneath the [acromion](#acromion) through the [subacromial space](#subacromialspace) to insert on the superior facet of the greater tuberosity of the [humerus](#humerus); supplied by the suprascapular nerve. Its abduction [moment arm](#momentarm) peaks at **28.2 ± 1.6 mm in very early abduction** and falls thereafter (Hik & Ackland, 2019), which is more than three times the deltoid's at the same angle — the measurement behind the description of this muscle as the **initiator** of elevation, and behind the whole of Part V §A.5. Its tendon is the most commonly torn in the body, and it is the structure a painful arc most often implicates.
+**Supraspinatus** — The [rotator cuff](#rotatorcuff) muscle that runs across the top of the shoulder blade and starts the arm moving away from your side. Formally: arising from the supraspinous fossa of the [scapula](#scapula), passing beneath the [acromion](#acromion) through the [subacromial space](#subacromialspace) to insert on the superior facet of the greater tuberosity of the [humerus](#humerus); supplied by the suprascapular nerve. Its abduction [moment arm](#momentarm) peaks at **28.2 ± 1.6 mm in very early abduction** and falls thereafter (Hik & Ackland, 2019), which is more than three times the **middle** deltoid's 8.3 mm at the same angle (Ackland et al., 2008) — the two measurements behind the description of this muscle as the **initiator** of elevation, and behind the whole of Part V §A.5. Its tendon is the most commonly torn in the body, and it is the structure a painful arc most often implicates.
+
+## suprascapularnerve
+*Anatomy & Structure*
+
+**Suprascapular nerve** — The nerve that supplies the two rotator cuff muscles on the back of the shoulder blade. Formally: a branch of the upper trunk of the brachial plexus (C5–C6) passing through the suprascapular notch to supply [supraspinatus](#supraspinatus), then around the spinoglenoid notch to supply infraspinatus. It is entrapped at either point, and entrapment at the second can weaken infraspinatus while sparing supraspinatus — a recognized picture in volleyball players and other overhead athletes, and one of the reasons a cuff can test weak without a tear (Part XVI §A.7).
+
+## infraspinatus
+*Anatomy & Structure*
+
+**Infraspinatus** — The rotator cuff muscle filling the hollow below the ridge on the back of your shoulder blade, and the main muscle that turns your arm outward. Formally: arising from the infraspinous fossa of the [scapula](#scapula) and inserting on the **middle facet** of the [greater tubercle](#greatertubercle), supplied by the [suprascapular nerve](#suprascapularnerve); the principal [external rotator](#shoulderexternalrotation) of the humerus. It has **the second-largest [PCSA](#pcsa) of the four cuff muscles** (Ward et al., 2006), and along with supraspinatus it sits at long sarcomere lengths with the arm at the side, carrying real **passive** tension there — which is why part of what it does for your shoulder happens without contracting.
+
+## teresminor
+*Anatomy & Structure*
+
+**Teres minor** — The small strap of rotator cuff below the infraspinatus. Formally: arising from the upper lateral border of the [scapula](#scapula) and inserting on the **inferior facet** of the [greater tubercle](#greatertubercle), supplied by the [axillary nerve](#axillarynerve) rather than the suprascapular; an [external rotator](#shoulderexternalrotation) working with [infraspinatus](#infraspinatus). It is **the smallest of the four by cross-section** (Ward et al., 2006). Its nerve supply matters clinically: an axillary nerve injury costs the deltoid **and** one external rotator.
+
+## subscapularis
+*Anatomy & Structure*
+
+**Subscapularis** — The rotator cuff muscle on the **front** of the shoulder blade, between it and the ribcage, and the one almost nobody trains. Formally: arising from the subscapular fossa and inserting on the [lesser tubercle](#lessertubercle) of the humerus, supplied by the upper and lower subscapular nerves; the principal **internal** rotator of the cuff. **It has the largest [PCSA](#pcsa) of the four** — 23 cm² against infraspinatus's 17 and supraspinatus's 8, measured in twenty living shoulders (Zhang et al., 2024), agreeing with cadaveric dissection (Ward et al., 2006) — and it contributes passive tension at maximum abduction and external rotation, the position of apprehension. It cannot be recorded with surface electrodes, but **exercise studies of it do exist**, using fine wire: across seven exercises the **push-up plus and diagonal patterns activate both its upper and lower halves better than internal rotation does** (Decker et al., 2003), and it is significantly more active in internal than external rotation (Boettcher et al., 2010).
+
+## rotatorcuffmuscles
+*Anatomy & Structure*
+
+**Rotator cuff muscles** — The four muscles that wrap the ball of the shoulder and hold it in its socket: [supraspinatus](#supraspinatus), [infraspinatus](#infraspinatus), [teres minor](#teresminor) and [subscapularis](#subscapularis). Formally: the muscles arising from the [scapula](#scapula) and inserting on the tubercles of the humerus, whose tendons **blend into a continuous sleeve** before insertion — which is why tears do not respect individual muscle names. **They are a rotator group first:** pooled across every published dataset the group carries the largest axial rotation [moment arms](#momentarm) at the shoulder and only weak depressor moment arms, while the deltoid does the elevating (Hik & Ackland, 2019) — with two caveats this document already records in the [rotator cuff](#rotatorcuff) and [supraspinatus](#supraspinatus) entries: the anterior deltoid's pooled rotation arm exceeds the subscapularis's, and supraspinatus is a powerful elevator in the first degrees of abduction. By force capacity they rank subscapularis > infraspinatus > supraspinatus > teres minor — measured in ten cadaveric shoulders (Ward et al., 2006) and replicated in twenty living ones, where the four hold 43%, 34%, 15% and 8% of total cuff volume (Zhang et al., 2024). See also the clinical entry [rotator cuff](#rotatorcuff), and Part XVI.
 
 ## anteriordeltoid
 
@@ -23467,6 +24811,11 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Adductor loading mode (adduction-loaded, extension-loaded, unloaded)** — Which of two jobs an exercise asks the inner thigh to do. Formally: decide it from one repetition as prescribed, by asking what the external load is trying to do to the working thigh. **Pulling it away from the midline** is *adduction-loaded*, resisted by **all five** adductors — [longus](#adductorlongus), [brevis](#adductorbrevis), [gracilis](#gracilis), [pectineus](#pectineus) and the [magnus](#adductormagnus). **Folding the hip while the foot is planted** is *extension-loaded*, resisted by the ischiocondylar part of the adductor magnus alone. Anything else is *unloaded*; holding the thigh against a sideways pull without moving is the first mode performed isometrically, not a third mode. **Then check the angle:** adduction torque is about 18% lower at 90° of [hip flexion](#hipflexion) than at 0° or 45°, which do not differ (Marušič et al., 2025); and the adductor magnus's extension moment arm grows from about 15 mm at a straight hip to a peak near 75° (Németh & Ohlsén, 1985), so **depth is the variable** for extension work (Kubo et al., 2019). **Why it exists, and the asymmetry runs one way:** extension work reaches the magnus and largely misses longus and brevis — twelve weeks of leg pressing grew the magnus 6.2% while knee extension grew it not at all (Kinoshita et al., 2026) — whereas adduction work reaches all five (Collings et al., 2026). **Caveats:** the mode is derived in this document from the direction of the load; no study has trained one mode and tested transfer to the other; it says nothing about the hip **flexion** role of longus and brevis, which is how they are loaded in sprinting and kicking; and moment-arm data for the individual adductors are largely absent from the literature.
 
+## cuffloadingclass
+*Exercises & Technique*
+
+**Cuff loading class (rotation-loaded, compression-, traction-, elevation-loaded, end-range restraint)** — What an exercise asks the rotator cuff to do. Formally: apply all five tests to one repetition as prescribed, and **give the exercise every tag it earns** — the tags are additive, and most exercises earn more than one. **Tag 1, rotation-loaded:** rotation of the humerus about its own long axis is the movement being resisted, so that the rep could not be performed without the rotators — resisting inward rotation is *external-rotation-loaded* ([infraspinatus](#infraspinatus), [teres minor](#teresminor)), resisting outward rotation is *internal-rotation-loaded* ([subscapularis](#subscapularis)). **Tag 2, compression-loaded:** the load presses the humeral head into the socket while other muscles move the arm — a press, a row, a raise. **Tag 3, traction-loaded:** the load pulls the humerus away from the socket — a dead hang, a heavy carry. **Tag 4, elevation-loaded:** the rep resists elevation in roughly the first 30°, where [supraspinatus](#supraspinatus) is a prime mover rather than a stabilizer. **Tag 5, end-range restraint:** the rep reaches end-range abduction with [external rotation](#shoulderexternalrotation) under load, where the contribution is largely passive and the injury risk is concentrated. **No tag = unloaded.** **Why it exists:** nearly everything in a normal programme earns Tag 2 or Tag 3 and almost nothing earns Tag 1, which is why the cuff is the most-worked and least-trained muscle group in the upper body (Part XVI §B.8). **Caveats:** derived in this document from directions of pull; no study has trained one tag and tested transfer to another; the 30° boundary is a convenience, not a measured threshold; and only Tag 1 can be checked against a growth outcome, by a single sixteen-man trial (Matsumura et al., 2023).
+
 ## weightliftingbelt
 
 *Exercises & Technique*
@@ -23853,6 +25202,11 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Prone Y raise (prone overhead arm raise)** — Lying face down and raising the arm overhead on a diagonal, thumb up, until it is in line with the torso. Formally: an [upward-rotation-loaded](#scapularloadclass) exercise performed prone on a flat or 30–45° inclined bench, with the arm raised on the diagonal that follows the line of the [lower trapezius](#lowertrapezius) fibres — well above shoulder height and closer to straight overhead than to straight out to the side. It produced **the greatest lower-trapezius activity of ten exercises tested**, and was joint-greatest for the [middle trapezius](#middletrapezius) (Ekstrom et al., 2003). Across six variations of it the lower trapezius ran 42–48% and the middle trapezius 63–66% of maximal contraction with **no significant difference between the variations**, while adding external-rotation resistance lowered [upper trapezius](#uppertrapezius) involvement and adding trunk extension raised it (Borms et al., 2022). It is a **position** exercise: loading it heavily converts it into a bent-over [lateral raise](#lateralraise).
 
+## externalrotationexercise
+*Exercises & Technique*
+
+**External rotation exercise** — Rotating the forearm outward against a cable or band with the elbow pinned at the side. Formally: the [external-rotation-loaded](#cuffloadingclass) exercise for [infraspinatus](#infraspinatus) and [teres minor](#teresminor), performed with the upper arm still, stopping at or just past neutral rather than at end range. **It is the only real gap a normal programme has in this muscle group** — pressing and pulling load internal rotation as a by-product and nothing loads external rotation at all (Part XVI §B.8). A hard set is **under about 10 N·m** of shoulder torque, roughly a fifth of a lateral raise's, so it should feel embarrassingly light. **Set the anchor about 35° behind you:** a side-lying dumbbell is hardest at the start and fades to nothing at the finish, a cable anchored straight out to the side does the exact opposite, and a band is steeper than either — the even resistance comes from where you stand, not from the machine (Part XVI §B.7). It is also, on the evidence, **the best supraspinatus exercise available**: no arm position activates supraspinatus more than another, and external rotation recruits significantly less deltoid than the "can" positions (Boettcher et al., 2009b). **It is the one cuff exercise with a randomized size outcome** — eight weeks of light, slow external rotation added 7.3% to infraspinatus cross-section in sixteen men (Matsumura et al., 2023).
+
 ## reversefly
 
 *Exercises & Technique*
@@ -23975,6 +25329,16 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 **Subacromial impingement** — Pain from the rotator-cuff tendons being compressed in the narrow space beneath the bony shelf at the top of the shoulder. Formally: symptomatic compression of the subacromial contents — supraspinatus tendon, long head of biceps tendon, subacromial bursa — between the humeral head and the coracoacromial arch beneath the [acromion](#acromion), provoked by [humeral elevation](#humeralelevation) combined with [internal rotation](#internalrotation). **Interpretive caution:** the term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized. Training-relevant because that provoking combination — elevation, abduction and internal rotation — is exactly the position a behind-the-neck pulldown creates and exactly what an "internally rotate to feel the lat" cue asks for.
 
 ---
+
+## rotatorcufftear
+*Pathology & Clinical*
+
+**Rotator cuff tear** — A defect in one or more of the [rotator cuff](#rotatorcuff) tendons, usually beginning at the supraspinatus footprint on the [greater tubercle](#greatertubercle). Formally: partial- or full-thickness discontinuity of the cuff tendon sleeve, degenerative in most cases and traumatic in a minority. **The number to know before interpreting a scan:** pooled across 30 studies and 6,112 shoulders, the prevalence of rotator cuff abnormality rises from **9.7% in people aged 20 and under to 62% in people aged 80 and over** (odds ratio 15, 95% CI 9.6–24), and the rise is "similar regardless of symptoms" (Teunis et al., 2014). **A tear is therefore a finding, not a diagnosis** — common with age, and often present in shoulders that do not hurt. **Surgery versus exercise depends on the tear and the patient**, and two long randomized trials disagree in an informative way: for small (~10 mm) nontraumatic tears in the over-55s, physiotherapy matched repair at six years (Kukkonen et al., 2021), while for full-thickness tears up to 3 cm followed for fifteen years repair was superior by 11.8 Constant points, with 15 of 51 physiotherapy patients crossing over to surgery (Moosmayer et al., 2024). **Moderate evidence**, and tear size, age and time horizon decide which result applies.
+
+## subacromialdecompression
+*Pathology & Clinical*
+
+**Subacromial decompression** — An operation that removes bone from the underside of the [acromion](#acromion) and soft tissue from the space beneath it, on the theory that the cuff tendon is being mechanically pinched. Formally: arthroscopic acromioplasty with bursectomy, performed for [subacromial impingement](#impingement). **It does not beat placebo surgery.** In a three-group placebo-controlled trial of 313 patients, Oxford Shoulder Scores at six months were 32.7 after decompression against **34.2 after arthroscopy alone** — a difference of −1.3 (95% CI −3.9 to 1.3) — and both surgical arms beat no treatment by less than the trial's own 4.5-point threshold for a difference worth having (Beard et al., 2018). A separate placebo-surgery-controlled trial followed 210 patients for **ten years** and found **no between-group difference in pain at rest or on activity** (Kanto et al., 2025); a Cochrane review covers the same comparison (Karjalainen et al., 2019). **Not supported.**
 
 ## painfularc
 
@@ -24141,16 +25505,16 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 ---
 
-# partxviibibliography
+# partxviiibibliography
 
-**Part XVII — Bibliography**
+**Part XVIII — Bibliography**
 
-Every source cited in this document: **657 papers**, each with a DOI you can paste into a search box
+Every source cited in this document: **687 papers**, each with a DOI you can paste into a search box
 or a library request form — with nine exceptions, noted at their entries: eight for which no DOI was ever
 issued and a PubMed or PubMed Central identifier is given instead, and one master's thesis that has neither. Alphabetical by first author, so an in-text citation like
 *(Gerling & Brown, 2013)* is found by scanning for **Gerling**.
 
-**322 are open access** — free to read now. **335 are paywalled**; any university or public library can
+**343 are open access** — free to read now. **344 are paywalled**; any university or public library can
 obtain those through interlibrary loan at no cost, usually in a few days, and authors may legally
 share their own accepted manuscripts if you email them. Every DOI below was verified against
 Crossref, and open-access status against Unpaywall, at the time of writing.
@@ -24162,7 +25526,7 @@ discussion, the text says so at the claim itself — that context matters more t
 marks claims that could not be traced to a source we could read; they are flagged rather than quietly
 dropped. **Twenty-two of these papers measured the latissimus dorsi directly, twenty-eight measured the
 quadriceps femoris directly, thirty-eight measured a gluteal muscle directly, twenty-one measured a
-deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, twenty-nine measured a hamstring directly, thirty-one measured a pectoral muscle directly, at least seventy-six measured the triceps brachii or its tendon directly, at least ninety-two measured the erector spinae, the multifidus or the lumbar extensors directly, at least thirty-eight measured the biceps brachii, the brachialis or the elbow flexors as a group directly, at least twenty-four measured the gastrocnemius, the soleus or the Achilles tendon directly, at least thirty-five measured the trapezius, the serratus anterior or another scapular muscle directly, at least thirty measured a forearm muscle, the grip or the finger flexors directly, and at least twenty measured a hip adductor directly**; the rest supply general training principles or the mechanical
+deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, twenty-nine measured a hamstring directly, thirty-one measured a pectoral muscle directly, at least seventy-six measured the triceps brachii or its tendon directly, at least ninety-two measured the erector spinae, the multifidus or the lumbar extensors directly, at least thirty-eight measured the biceps brachii, the brachialis or the elbow flexors as a group directly, at least twenty-four measured the gastrocnemius, the soleus or the Achilles tendon directly, at least thirty-five measured the trapezius, the serratus anterior or another scapular muscle directly, at least thirty measured a forearm muscle, the grip or the finger flexors directly, at least twenty measured a hip adductor directly, and and at least twenty-eight measured the rotator cuff or its tendons directly**; the rest supply general training principles or the mechanical
 framework. Where a paper's own research group has been
 the subject of a published data-integrity analysis, its entry says so. Where two or more papers by the same first author share a year, the bibliography entry
 records the `a`/`b`/`c` suffix used in the text.
@@ -24179,6 +25543,8 @@ Abe T, Sakamaki M, Yasuda T, Bemben MG, Kondo M, Kawakami Y, et al. Age-related,
 
 Ackland DC, Pak P, Richardson M, Pandy MG. Moment arms of the muscles crossing the anatomical shoulder. Journal of Anatomy. 2008;213(4):383-390. doi:10.1111/j.1469-7580.2008.00965.x · **open access**
 
+Ackland DC, Pandy MG. Lines of action and stabilizing potential of the shoulder musculature. Journal of Anatomy. 2009;215(2):184-197. doi:10.1111/j.1469-7580.2009.01090.x · **open access**
+
 Ackland DC, Pandy MG. Moment arms of the shoulder muscles during axial rotation. Journal of Orthopaedic Research. 2011;29(5):658-667. doi:10.1002/jor.21269 · *paywalled*
 
 Adkins AN, Dewald JPA, Garmirian LP, Nelson CM, Murray WM. Serial sarcomere number is substantially decreased within the paretic biceps brachii in individuals with chronic hemiparetic stroke. Proceedings of the National Academy of Sciences. 2021;118(26):e2008597118. doi:10.1073/pnas.2008597118 · **open access**
@@ -24191,9 +25557,13 @@ Agten A, Stevens S, Verbrugghe J, Eijnde BO, Timmermans A, Vandenabeele F. The l
 
 Ahtiainen JP, Walker S, Peltonen H, Holviala J, Sillanpää E, Karavirta L, et al. Heterogeneity in resistance training-induced muscle strength and mass responses in men and women of different ages. Age. 2016;38(1):10. doi:10.1007/s11357-015-9870-1 · **open access**
 
+Ainsworth R, Lewis JS. Exercise therapy for the conservative management of full thickness tears of the rotator cuff: a systematic review. British Journal of Sports Medicine. 2007;41(4):200-210. doi:10.1136/bjsm.2006.032524 · **open access**
+
 Akbaş A. Hand-Focused Strength and Proprioceptive Training for Improving Grip Strength and Manual Dexterity in Healthy Adults: A Systematic Review and Meta-Analysis. Journal of Clinical Medicine. 2025;14(19):6882. doi:10.3390/jcm14196882 · **open access**
 
 Akima H, Maeda H, Koike T, Ishida K. Effect of elbow joint angles on electromyographic activity versus force relationships of synergistic muscles of the triceps brachii. PLOS ONE. 2021;16(6):e0252644. doi:10.1371/journal.pone.0252644 · **open access**
+
+Al Attar WSA, Faude O, Bizzini M, Alarifi S, Alzahrani H, Almalki RS, et al. The FIFA 11+ Shoulder Injury Prevention Program Was Effective in Reducing Upper Extremity Injuries Among Soccer Goalkeepers: A Randomized Controlled Trial. The American Journal of Sports Medicine. 2021;49(9):2293-2300. doi:10.1177/03635465211021828 · **open access**
 
 Albarello JCDS, Cabral HV, Leitão BFM, Halmenschlager GH, Lulic-Kuryllo T, Matta TT. Non-uniform excitation of pectoralis major induced by changes in bench press inclination leads to uneven variations in the cross-sectional area measured by panoramic ultrasonography. Journal of Electromyography and Kinesiology. 2022;67:102722. doi:10.1016/j.jelekin.2022.102722 · *paywalled*
 
@@ -24221,6 +25591,8 @@ Andersen V, Hermans E, Hansen KG, Solstad TEJ, Saeterbakken AH, Baláš J, et al
 
 Andersen V, Hermans E, Vereide V, Stien N, Paulsen G, Baláš J, et al. Comparison of finger flexor resistance training, with and without blood flow restriction, on perceptional and physiological responses in advanced climbers. Scientific Reports. 2023;13(1):3287. doi:10.1038/s41598-023-30499-x · **open access** — a publisher correction was issued in 2023 (doi:10.1038/s41598-023-31266-8).
 
+Andersson SH, Bahr R, Clarsen B, Myklebust G. Preventing overuse shoulder injuries among throwing athletes: a cluster-randomised controlled trial in 660 elite handball players. British Journal of Sports Medicine. 2017;51(14):1073-1080. doi:10.1136/bjsports-2016-096226 · **open access**
+
 Androulakis-Korakakis P, Gentil P, Fisher JP, Steele J. Comparison of Isolated Lumbar Extension Strength in Competitive and Noncompetitive Powerlifters, and Recreationally Trained Men. Journal of Strength & Conditioning Research. 2021;35(3):652-658. doi:10.1519/jsc.0000000000002722 · *paywalled*
 
 Anetai H, Kato K, Kudoh H, Sakai T, Ichimura K. Structural re-evaluation of the human gluteus maximus. Scientific Reports. 2025;15(1):21251. doi:10.1038/s41598-025-05361-x · **open access**
@@ -24232,6 +25604,8 @@ Aronis G, Kurz M, Wimmer F, Hackl H, Angeli T, Gföhler M. Maximum Shoulder Torq
 Asayama A, Tateuchi H, Ota M, Motomura Y, Yanase K, Komamura T, et al. Differences in shear elastic modulus of the latissimus dorsi muscle during stretching among varied trunk positions. Journal of Biomechanics. 2021;118:110324. doi:10.1016/j.jbiomech.2021.110324 · *paywalled*
 
 Asghari SH, Wong A, Comfort P, Mirghani SJ, Sharifian S, Ghaderi M. Comparing the impact of hip thrust versus squat training on lower limb performance in sub-elite athletes: a systematic review and meta-analysis. Sports Biomechanics. 2025;24(12):3473-3492. doi:10.1080/14763141.2025.2553700 · *paywalled*
+
+Asker M, Hägglund M, Waldén M, Källberg H, Skillgate E. The Effect of Shoulder and Knee Exercise Programmes on the Risk of Shoulder and Knee Injuries in Adolescent Elite Handball Players: A Three-Armed Cluster Randomised Controlled Trial. Sports Medicine - Open. 2022;8(1):91. doi:10.1186/s40798-022-00478-z · **open access**
 
 Askling CM, Tengvar M, Tarassova O, Thorstensson A. Acute hamstring injuries in Swedish elite sprinters and jumpers: a prospective randomised controlled clinical trial comparing two rehabilitation protocols. British Journal of Sports Medicine. 2014;48(7):532-539. doi:10.1136/bjsports-2013-093214 · *paywalled*
 
@@ -24262,6 +25636,8 @@ Bartolomei S, Rosaci G, Latini D, Nigro F. Effects of horizontally versus vertic
 Bassett RW, Browne AO, Morrey BF, An KN. Glenohumeral muscle force and moment mechanics in a position of shoulder instability. Journal of Biomechanics. 1990;23(5):405-415. doi:10.1016/0021-9290(90)90295-E · *paywalled*
 
 Baz-Valle E, Schoenfeld BJ, Torres-Unda J, Santos-Concejero J, Balsalobre-Fernández C. The effects of exercise variation in muscle thickness, maximal strength and motivation in resistance trained men. PLOS ONE. 2019;14(12):e0226989. doi:10.1371/journal.pone.0226989 · **open access**
+
+Beard DJ, Rees JL, Cook JA, Rombach I, Cooper C, Merritt N, et al. Arthroscopic subacromial decompression for subacromial shoulder pain (CSAW): a multicentre, pragmatic, parallel group, placebo-controlled, three-group, randomised surgical trial. The Lancet. 2018;391(10118):329-338. doi:10.1016/s0140-6736(17)32457-1 · **open access**
 
 Bearn JG. Direct observations on the function of the capsule of the sternoclavicular joint in clavicular support. Journal of Anatomy. 1967;101(Pt 1):159-170. PMID:6047697 — no DOI was ever issued · **open access**
 
@@ -24296,6 +25672,12 @@ Blemker SS, Delp SL. Three-Dimensional Representation of Complex Muscle Architec
 Bloomquist K, Langberg H, Karlsen S, Madsgaard S, Boesen M, Raastad T. Effect of range of motion in heavy load squatting on muscle and tendon adaptations. European Journal of Applied Physiology. 2013;113(8):2133-2142. doi:10.1007/s00421-013-2642-7 · **open access**
 
 Boehler B. Electromyographic analysis of the triceps brachii muscle during a variety of triceps exercises. Master's thesis, University of Wisconsin–La Crosse. 2011. No DOI or PubMed identifier exists · **open access** — *master's thesis; not peer reviewed*
+
+Boettcher CE, Cathers I, Ginn KA. The role of shoulder muscles is task specific. Journal of Science and Medicine in Sport. 2010;13(6):651-656. doi:10.1016/j.jsams.2010.03.008 · *paywalled*
+
+Boettcher CE, Ginn KA, Cathers I. The ‘empty can’ and ‘full can’ tests do not selectively activate supraspinatus [cited as Boettcher et al., 2009a]. Journal of Science and Medicine in Sport. 2009;12(4):435-439. doi:10.1016/j.jsams.2008.09.005 · *paywalled*
+
+Boettcher CE, Ginn KA, Cathers I. Which is the Optimal Exercise to Strengthen Supraspinatus? [cited as Boettcher et al., 2009b]. Medicine & Science in Sports & Exercise. 2009;41(11):1979-1983. doi:10.1249/mss.0b013e3181a740a7 · *paywalled*
 
 Bogduk N, Johnson G, Spalding D. The morphology and biomechanics of latissimus dorsi. Clinical Biomechanics. 1998;13(6):377-385. doi:10.1016/S0268-0033(98)00102-8 · *paywalled*
 
@@ -24383,6 +25765,8 @@ Chumanov ES, Heiderscheit BC, Thelen DG. Hamstring Musculotendon Dynamics during
 
 Cidrais M, Teodósio C, Correia JM, Vila-Chã C, Pezarat-Correia P, Bruno PM, et al. Adaptation of Muscles With Different Physiological Properties to Resistance Training With and Without Bloodflow Restriction. Sports Health: A Multidisciplinary Approach. 2026;:19417381261459244. doi:10.1177/19417381261459244 · **open access**
 
+Clark JM, Harryman DT. Tendons, ligaments, and capsule of the rotator cuff. Gross and microscopic anatomy.. The Journal of Bone & Joint Surgery. 1992;74(5):713-725. doi:10.2106/00004623-199274050-00010 · *paywalled*
+
 Cobanoglu G, Demirkan MY, Ecemis ZB, Karatas N, Guzel NA. Trapezius Muscle Activity During Bilateral Scapular Retraction With Shoulder External Rotation: Incorporation of Kinetic Chain and Surface. Journal of Strength & Conditioning Research. 2026;:. doi:10.1519/jsc.0000000000005631 · *paywalled*
 
 Collings TJ, Bourne MN, Barrett RS, Meinders E, Gonçalves B, Shield AJ, et al. Reconsidering Exercise Selection with EMG: Poor Agreement between Ranking Hip Exercises with Gluteal EMG and Muscle Force. Medicine & Science in Sports & Exercise. 2025;57(9):1829-1837. doi:10.1249/MSS.0000000000003733 · *paywalled*
@@ -24438,6 +25822,8 @@ Danneels LA, Cools AM, Vanderstraeten GG, Cambier DC, Witvrouw EE, Bourgois J, e
 Danneels LA, Vanderstraeten GG, Cambier DC, Witvrouw EE, Bourgois J, Dankaerts W, et al. Effects of three different training modalities on the cross sectional area of the lumbar multifidus muscle in patients with chronic low back pain [cited as Danneels et al., 2001a]. British Journal of Sports Medicine. 2001;35(3):186-191. doi:10.1136/bjsm.35.3.186 · **open access**
 
 De Martino E, Hides J, Elliott JM, Hoggarth MA, Zange J, Lindsay K, et al. The Effects of Reconditioning Exercises Following Prolonged Bed Rest on Lumbopelvic Muscle Volume and Accumulation of Paraspinal Muscle Fat. Frontiers in Physiology. 2022;13:862793. doi:10.3389/fphys.2022.862793 · **open access**
+
+Decker MJ, Tokish JM, Ellis HB, Torry MR, Hawkins RJ. Subscapularis Muscle Activity during Selected Rehabilitation Exercises. The American Journal of Sports Medicine. 2003;31(1):126-134. doi:10.1177/03635465030310010601 · *paywalled*
 
 Delgado J, Drinkwater EJ, Banyard HG, Haff GG, Nosaka K. Comparison Between Back Squat, Romanian Deadlift, and Barbell Hip Thrust for Leg and Hip Muscle Activities During Hip Extension. Journal of Strength and Conditioning Research. 2019;33(10):2595-2601. doi:10.1519/JSC.0000000000003290 · **open access**
 
@@ -24623,6 +26009,8 @@ Hammami R, Jerez-Martínez A, Jiménez-Martínez P, Alix-Fages C, Rebai H, Kassi
 
 Hammond A, Perrin C, Steele J, Giessing J, Gentil P, Fisher JP. The effects of a 4-week mesocycle of barbell back squat or barbell hip thrust strength training upon isolated lumbar extension strength. PeerJ. 2019;7:e7337. doi:10.7717/peerj.7337 · **open access**
 
+Hao B, Li H, Liang A. Effects of early exercise and immobilization after arthroscopic rotator cuff repair surgery: a systematic review and meta-analysis of randomized controlled trials. BMC Musculoskeletal Disorders. 2025;26(1):254. doi:10.1186/s12891-025-08500-7 · **open access**
+
 Harman EA, Rosenstein RM, Frykman PN, Nigro GA. Effects of a belt on intra-abdominal pressure during weight lifting. Medicine & Science in Sports & Exercise. 1989;21(2):186-190. doi:10.1249/00005768-198904000-00012 · *paywalled*
 
 Harper CM, Sylvester AD, Kramer PA. Implications of variability in triceps surae muscle volumes on peak lower limb muscle forces during human walking. PLOS ONE. 2025;20(3):e0320516. doi:10.1371/journal.pone.0320516 · **open access**
@@ -24645,6 +26033,8 @@ Hegyi A, Csala D, Péter A, Finni T, Cronin NJ. High-density electromyography ac
 
 Hegyi A, Péter A, Finni T, Cronin NJ. Region-dependent hamstrings activity in Nordic hamstring exercise and stiff-leg deadlift defined with high-density electromyography [cited as Hegyi et al., 2018]. Scandinavian Journal of Medicine & Science in Sports. 2018;28(3):992-1000. doi:10.1111/sms.13016 · **open access**
 
+Heming EE, Gibson ES, Friesen KB, Martin CL, Martin M, Asker M, et al. Prevention strategies and modifiable risk factors for upper extremity injury: a systematic review and meta-analysis for the Female, woman and/or girl Athlete Injury pRevention (FAIR) consensus. British Journal of Sports Medicine. 2025;59(22):1587-1598. doi:10.1136/bjsports-2025-109907 · **open access**
+
 Henneman E, Somjen G, Carpenter DO. Functional significance of cell size in spinal motoneurons. Journal of Neurophysiology. 1965;28(3):560-580. doi:10.1152/jn.1965.28.3.560 · *paywalled*
 
 Hermann T, Mohan AE, Enes A, Sapuppo M, Piñero A, Zamanzadeh A, et al. Without Fail: Muscular Adaptations in Single-Set Resistance Training Performed to Failure or with Repetitions-in-Reserve. Medicine and Science in Sports and Exercise. 2025;57(9):2021-2031. doi:10.1249/MSS.0000000000003728 · **open access**
@@ -24657,7 +26047,7 @@ Hides JA, Oostenbroek T, Franettovich Smith MM, Mendis MD. The effect of low bac
 
 Hides JA, Richardson CA, Jull GA. Multifidus Muscle Recovery Is Not Automatic After Resolution of Acute, First-Episode Low Back Pain. Spine. 1996;21(23):2763-2769. doi:10.1097/00007632-199612010-00011 · *paywalled*
 
-Hik F, Ackland DC. The moment arms of the muscles spanning the glenohumeral joint: a systematic review. Journal of Anatomy. 2019;234(1):1-15. doi:10.1111/joa.12903 · **open access**
+Hik F, Ackland DC. The moment arms of the muscles spanning the glenohumeral joint: a systematic review. Journal of Anatomy. 2019;234(1):1-15. doi:10.1111/joa.12903 · **open access** — a six-page erratum was published in 2021 (doi:10.1111/joa.13417); its contents could not be retrieved.
 
 Hirashima M, Yamane K, Nakamura Y, Ohtsuki T. Kinetic chain of overarm throwing in terms of joint rotations revealed by induced acceleration analysis. Journal of Biomechanics. 2008;41(13):2874-2883. doi:10.1016/j.jbiomech.2008.06.014 · *paywalled*
 
@@ -24672,6 +26062,8 @@ Holzbaur KRS, Delp SL, Gold GE, Murray WM. Moment-generating capacity of upper l
 Holzbaur KRS, Murray WM, Gold GE, Delp SL. Upper limb muscle volumes in adult subjects [cited as Holzbaur et al., 2007a]. Journal of Biomechanics. 2007;40(4):742-749. doi:10.1016/j.jbiomech.2006.11.011 · *paywalled*
 
 Honkanen T, Mäntysaari M, Leino T, Avela J, Kerttula L, Haapamäki V, et al. Cross-sectional area of the paraspinal muscles and its association with muscle strength among fighter pilots: a 5-year follow-up. BMC Musculoskeletal Disorders. 2019;20(1):170. doi:10.1186/s12891-019-2551-y · **open access**
+
+Hopewell S, Keene DJ, Marian IR, Dritsaki M, Heine P, Cureton L, et al. Progressive exercise compared with best practice advice, with or without corticosteroid injection, for the treatment of patients with rotator cuff disorders (GRASP): a multicentre, pragmatic, 2 × 2 factorial, randomised controlled trial. The Lancet. 2021;398(10298):416-428. doi:10.1016/s0140-6736(21)00846-1 · **open access**
 
 Hopkins JE, Hopkins CE, Chiu LZF. Greater squat stance width alters three-dimensional hip moment demands. Journal of Biomechanics. 2024;177:112391. doi:10.1016/j.jbiomech.2024.112391 · **open access**
 
@@ -24722,6 +26114,10 @@ Kadi F, Thornell LE. Concomitant increases in myonuclear and satellite cell cont
 Kalli I, Niglas M, Naeini MK, Freidin M, Thomas L, Menni C, et al. Paraspinal muscle quality in chronic low back pain: a systematic review and meta-analysis of muscle atrophy and fat infiltration. European Spine Journal. 2026;35(5):2693-2711. doi:10.1007/s00586-025-09454-z · **open access**
 
 Kang FJ, Ou HL, Lin KY, Lin JJ. Serratus Anterior and Upper Trapezius Electromyographic Analysis of the Push-Up Plus Exercise: A Systematic Review and Meta-Analysis. Journal of Athletic Training. 2019;54(11):1156-1164. doi:10.4085/1062-6050-237-18 · **open access**
+
+Kanto K, Bäck M, Ibounig T, Björkenheim R, Malmivaara A, Czuba T, et al. Arthroscopic subacromial decompression versus placebo surgery for subacromial pain syndrome: 10 year follow-up of the FIMPACT randomised, placebo surgery controlled trial. BMJ. 2025;391:e086201. doi:10.1136/bmj-2025-086201 · **open access**
+
+Karjalainen TV, Jain NB, Page CM, Lähdeoja TA, Johnston RV, Salamh P, et al. Subacromial decompression surgery for rotator cuff disease. Cochrane Database of Systematic Reviews. 2019;2019(1):. doi:10.1002/14651858.cd005619.pub3 · **open access**
 
 Käser L, Mannion AF, Rhyner A, Weber E, Dvorak J, Müntener M. Active Therapy for Chronic Low Back Pain: Part 2. Effects on Paraspinal Muscle Cross-Sectional Area, Fiber Type Size, and Distribution. Spine. 2001;26(8):909-919. doi:10.1097/00007632-200104150-00014 · *paywalled*
 
@@ -24811,6 +26207,8 @@ Kubo K, Ikebukuro T, Yata H. Effects of squat training with different depths on 
 
 Kuechle DK, Newman SR, Itoi E, Morrey BF, An KN. Shoulder muscle moment arms during horizontal flexion and elevation. Journal of Shoulder and Elbow Surgery. 1997;6(5):429-439. doi:10.1016/S1058-2746(97)70049-1 · *paywalled*
 
+Kukkonen J, Ryösä A, Joukainen A, Lehtinen J, Kauko T, Mattila K, et al. Operative versus conservative treatment of small, nontraumatic supraspinatus tears in patients older than 55 years: over 5-year follow-up of a randomized controlled trial. Journal of Shoulder and Elbow Surgery. 2021;30(11):2455-2464. doi:10.1016/j.jse.2021.03.133 · **open access**
+
 Lander JE, Hundley JR, Simonton RL. The effectiveness of weight-belts during multiple repetitions of the squat exercise. Medicine & Science in Sports & Exercise. 1992;24(5):603-609. doi:10.1249/00005768-199205000-00015 · *paywalled*
 
 Lander JE, Simonton RL, Giacobbe JKF. The effectiveness of weight-belts during the squat exercise. Medicine & Science in Sports & Exercise. 1990;22(1):117-126. doi:10.1249/00005768-199002000-00019 · *paywalled*
@@ -24880,6 +26278,8 @@ Leong HT, Liang P, Feng Y, Long Y, Ho CYC. Altered Scapulothoracic Muscle Activi
 Lescher S, Bender B, Eifler R, Haas F, Gruber K, Felber S. Isometric Non-Machine-Based Prevention Training Program: Effects on the Cross-Sectional Area of the Paravertebral Muscles on Magnetic Resonance Imaging. Clinical Neuroradiology. 2011;21(4):217-222. doi:10.1007/s00062-011-0104-3 · *paywalled*
 
 Li FX, Margetts S, Fowler I. Use of ‘chalk’ in rock climbing: sine qua non or myth?. Journal of Sports Sciences. 2001;19(6):427-432. doi:10.1080/026404101300149375 · *paywalled*
+
+Liaghat B, Pedersen JR, Husted RS, Pedersen LL, Thorborg K, Juhl CB. Diagnosis, prevention and treatment of common shoulder injuries in sport: grading the evidence – a statement paper commissioned by the Danish Society of Sports Physical Therapy (DSSF). British Journal of Sports Medicine. 2023;57(7):408-416. doi:10.1136/bjsports-2022-105674 · **open access**
 
 Liao CN, Fan CH, Hsu WH, Chang CF, Yu PA, Kuo LT, et al. Twelve-Week Lower Trapezius-Centred Muscular Training Regimen in University Archers. Healthcare. 2022;10(1):171. doi:10.3390/healthcare10010171 · **open access** — a correction to the ethics-approval number was published in 2022 (doi:10.3390/healthcare10020378).
 
@@ -24961,6 +26361,8 @@ Marušič J, Cvjetičanin O, Supej M, Babič J, Šarabon N. Biomechanics of Cope
 
 Masaki M, Ji X, Yamauchi T, Tateuchi H, Ichihashi N. Effects of the trunk position on muscle stiffness that reflects elongation of the lumbar erector spinae and multifidus muscles: an ultrasonic shear wave elastography study. European Journal of Applied Physiology. 2019;119(5):1085-1091. doi:10.1007/s00421-019-04098-6 · **open access**
 
+Matsumura A, Tateuchi H, Nakamura M, Ichihashi N. Effect of 8-week Shoulder External Rotation Exercise with Low Intensity and Slow Movement on Infraspinatus. Physical Therapy Research. 2023;26(2):58-64. doi:10.1298/ptr.e10227 · **open access**
+
 Matta T, Simão R, de Salles BF, Spineti J, Oliveira LF. Strength Training's Chronic Effects on Muscle Architecture Parameters of Different Arm Sites. Journal of Strength and Conditioning Research. 2011;25(6):1711-1717. doi:10.1519/JSC.0b013e3181dba162 · *paywalled*
 
 Mausehund L, Werkhausen A, Bartsch J, Krosshaug T. Understanding Bench Press Biomechanics-The Necessity of Measuring Lateral Barbell Forces. Journal of Strength and Conditioning Research. 2022;36(10):2685-2695. doi:10.1519/JSC.0000000000003948 · *paywalled*
@@ -24974,6 +26376,8 @@ Mayer JM, Nuzzo JL. Worksite back and core exercise in firefighters: Effect on d
 Mayer JM, Udermann BE, Graves JE, Ploutz-Snyder LL. Effect of Roman Chair Exercise Training on the Development of Lumbar Extension Strength. The Journal of Strength and Conditioning Research. 2003;17(2):356-361. doi:10.1519/1533-4287(2003)017<0356:eorcet>2.0.co;2 · *paywalled*
 
 Mayer JM, Verna JL, Manini TM, Mooney V, Graves JE. Electromyographic activity of the trunk extensor muscles: Effect of varying hip position and lumbar posture during Roman chair exercise [cited as Mayer et al., 2002b]. Archives of Physical Medicine and Rehabilitation. 2002;83(11):1543-1546. doi:10.1053/apmr.2002.35103 · *paywalled*
+
+Mazuquin B, Moffatt M, Gill P, Selfe J, Rees J, Drew S, et al. Effectiveness of early versus delayed rehabilitation following rotator cuff repair: Systematic review and meta-analyses. PLOS ONE. 2021;16(5):e0252137. doi:10.1371/journal.pone.0252137 · **open access**
 
 McAllister MJ, Schilling BK, Hammond KG, Weiss LW, Farney TM. Effect of Grip Width on Electromyographic Activity During the Upright Row. Journal of Strength and Conditioning Research. 2013;27(1):181-187. doi:10.1519/jsc.0b013e31824f23ad · *paywalled*
 
@@ -25011,11 +26415,15 @@ Miller MC, Schimoler PJ, Kharlamov A, Hammerstedt J, Angelides G, Sumarriva G, e
 
 Mitsuya H, Nakazato K, Hakkaku T, Okada T. Hip flexion angle affects longitudinal muscle activity of the rectus femoris in leg extension exercise. European Journal of Applied Physiology. 2023;123(6):1299-1309. doi:10.1007/s00421-023-05156-w · *paywalled*
 
+Mochizuki T, Sugaya H, Uomizu M, Maeda K, Matsuki K, Sekiya I, et al. Humeral Insertion of the Supraspinatus and Infraspinatus. The Journal of Bone and Joint Surgery-American Volume. 2008;90(5):962-969. doi:10.2106/jbjs.g.00427 · *paywalled*
+
 Mogk JPM, Keir PJ. Crosstalk in surface electromyography of the proximal forearm during gripping tasks. Journal of Electromyography and Kinesiology. 2003;13(1):63-71. doi:10.1016/s1050-6411(02)00071-8 · *paywalled*
 
 Montpetit C, Vaillancourt N, Rosenstein B, Wesselink EO, Dover G, Weiss C, et al. Effects of aquatic therapy vs. standard care on gluteal muscle morphology and function in individuals with chronic low back pain: a randomized controlled trial. BMC Sports Science, Medicine and Rehabilitation. 2026;18(1):241. doi:10.1186/s13102-026-01666-0 · **open access**
 
 Moore D, Semciw AI, Pizzari T. A Systematic Review and Meta-Analysis of Common Therapeutic Exercises That Generate Highest Muscle Activity in the Gluteus Medius and Gluteus Minimus Segments. International Journal of Sports Physical Therapy. 2020;15(6):856-881. doi:10.26603/ijspt20200856 · **open access**
+
+Moosmayer S, Lund G, Seljom US, Haldorsen B, Svege IC, Hennig T, et al. Fifteen-Year Results of a Comparative Analysis of Tendon Repair Versus Physiotherapy for Small-to-Medium-Sized Rotator Cuff Tears. Journal of Bone and Joint Surgery. 2024;106(19):1785-1796. doi:10.2106/jbjs.24.00065 · **open access**
 
 Morton RW, Murphy KT, McKellar SR, Schoenfeld BJ, Henselmans M, Helms E, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults. British Journal of Sports Medicine. 2018;52(6):376-384. doi:10.1136/bjsports-2017-097608 · **open access**
 
@@ -25129,6 +26537,8 @@ Parkkola R, Kujala U, Rytökoski U. Response of the trunk muscles to training as
 
 Parpa K, Vasiliou A, Michaelides M, Govindasamy K, Chernov A, Intziegianni K. An Exploratory Study of Biceps Brachii Electromyographic Activity During Traditional Dumbbell Versus Bayesian Cable Curls. Muscles. 2025;4(4):45. doi:10.3390/muscles4040045 · **open access**
 
+Patel P, Vaishnav J. Rehabilitative and Preventive Effects of the Thrower’s Ten Program in Overhead Athletes: A Systematic Review. Cureus. 2025;:. doi:10.7759/cureus.95081 · **open access**
+
 Paton ME, Brown JMM. An electromyographic analysis of functional differentiation in human pectoralis major muscle. Journal of Electromyography and Kinesiology. 1994;4(3):161-169. doi:10.1016/1050-6411(94)90017-5 · *paywalled*
 
 Paz GA, de Freitas Maia M, Pinto de Castro JB, de Oliveira F, Miranda H, Lima VP, et al. Myoelectric activity of the gastrocnemius during plantar flexion in a standing versus seated position and with a neutral or dorsiflexed ankle: A pilot study. Journal of Bodywork and Movement Therapies. 2021;26:406-410. doi:10.1016/j.jbmt.2020.09.003 · *paywalled*
@@ -25216,6 +26626,8 @@ Saeterbakken AH, Mo DA, Scott S, Andersen V. The Effects of Bench Press Variatio
 Saeterbakken AH, Stien N, Pedersen H, Solstad TEJ, Cumming KT, Andersen V. The Effect of Grip Width on Muscle Strength and Electromyographic Activity in Bench Press among Novice- and Resistance-Trained Men. International Journal of Environmental Research and Public Health. 2021;18(12):6444. doi:10.3390/ijerph18126444 · **open access**
 
 Saeterbakken AH, van den Tillaar R, Fimland MS. A comparison of muscle activity and 1-RM strength of three chest-press exercises with different stability requirements. Journal of Sports Sciences. 2011;29(5):533-538. doi:10.1080/02640414.2010.543916 · *paywalled*
+
+Safford DW, Shah KM, Breidenbach F, McClure PW. Effects of Low-Load Blood Flow Restriction Training on Rotator Cuff Strength and Hypertrophy: Case Series. International Journal of Sports Physical Therapy. 2024;19(6):. doi:10.26603/001c.118143 · **open access**
 
 Safran MR, Graham SM. Distal biceps tendon ruptures: incidence, demographics, and the effect of smoking. Clinical Orthopaedics and Related Research. 2002;(404):275-283. PMID:12439270 — no DOI was ever issued · *paywalled*
 
@@ -25343,6 +26755,8 @@ Takahashi K, Kamibayashi K, Wakahara T. Gluteus and posterior thigh muscle sizes
 
 Tanimoto M, Arakawa H, Sato M, Nagano A. Lateral Force and EMG Activity in Wide- and Narrow-Grip Bench Press in Various Conditions. Sports. 2023;11(8):154. doi:10.3390/sports11080154 · **open access**
 
+Teunis T, Lubberts B, Reilly BT, Ring D. A systematic review and pooled analysis of the prevalence of rotator cuff disease with increasing age. Journal of Shoulder and Elbow Surgery. 2014;23(12):1913-1921. doi:10.1016/j.jse.2014.08.001 · *paywalled*
+
 Thoreson AR, Rappaport PO, Yang TH, Reisdorf RL, Zhao C, An KN, et al. Calculation of flexor pollicis longus moment arm for wrist motion in a cadaver model validates the tenodesis effect for therapy. Journal of Hand Therapy. 2020;33(4):470-476. doi:10.1016/j.jht.2019.01.005 · *paywalled*
 
 Thorstensson A, Carlson H. Fibre types in human lumbar back muscles. Acta Physiologica Scandinavica. 1987;131(2):195-202. doi:10.1111/j.1748-1716.1987.tb08226.x · *paywalled*
@@ -25350,6 +26764,8 @@ Thorstensson A, Carlson H. Fibre types in human lumbar back muscles. Acta Physio
 Timmins RG, Bourne MN, Shield AJ, Williams MD, Lorenzen C, Opar DA. Short biceps femoris fascicles and eccentric knee flexor weakness increase the risk of hamstring injury in elite football (soccer): a prospective cohort study. British Journal of Sports Medicine. 2016;50(24):1524-1535. doi:10.1136/bjsports-2015-095362 · *paywalled*
 
 Toby EB, Hanesworth D. Ulnar nerve strains at the elbow. The Journal of Hand Surgery. 1998;23(6):992-997. doi:10.1016/S0363-5023(98)80005-1 · *paywalled*
+
+Townsend H, Jobe FW, Pink M, Perry J. Electromyographic analysis of the glenohumeral muscles during a baseball rehabilitation program. The American Journal of Sports Medicine. 1991;19(3):264-272. doi:10.1177/036354659101900309 · *paywalled*
 
 Trahey KM, Lapp EM, Talipan TN, Guydan TJ, Krupka AJ, Ellis CE. The Effect of Lifting Straps on Deadlift Performance in Females. Journal of Strength & Conditioning Research. 2023;37(10):1924-1928. doi:10.1519/jsc.0000000000004494 · *paywalled*
 
@@ -25423,7 +26839,11 @@ Wakahara T, Shiraogawa A. Effects of neuromuscular electrical stimulation traini
 
 Ward SR, Eng CM, Smallwood LH, Lieber RL. Are Current Measurements of Lower Extremity Muscle Architecture Accurate? [cited as Ward et al., 2009a] Clinical Orthopaedics and Related Research. 2009;467(4):1074-1082. doi:10.1007/s11999-008-0594-8 · **open access**
 
+Ward SR, Hentzen ER, Smallwood LH, Eastlack RK, Burns KA, Fithian DC, et al. Rotator cuff muscle architecture: implications for glenohumeral stability. Clinical Orthopaedics and Related Research. 2006;448:157-163. PMID:16826111 — the DOI registered against this article resolves to a different paper, so the PubMed identifier is given instead · *paywalled*
+
 Ward SR, Kim CW, Eng CM, Gottschalk LJ, Tomiya A, Garfin SR, et al. Architectural Analysis and Intraoperative Measurements Demonstrate the Unique Design of the Multifidus Muscle for Lumbar Spine Stability [cited as Ward et al., 2009b]. The Journal of Bone and Joint Surgery-American Volume. 2009;91(1):176-185. doi:10.2106/JBJS.G.01311 · **open access**
+
+Ward SR, Sarver JJ, Eng CM, Kwan A, Würgler-Hauri CC, Perry SM, et al. Plasticity of Muscle Architecture After Supraspinatus Tears. Journal of Orthopaedic & Sports Physical Therapy. 2010;40(11):729-735. doi:10.2519/jospt.2010.3279 · **open access**
 
 Warneke K, Keiner M, Wohlann T, Lohmann LH, Schmitt T, Hillebrecht M, et al. Influence of Long-Lasting Static Stretching Intervention on Functional and Morphological Parameters in the Plantar Flexors: A Randomized Controlled Trial [cited as Warneke et al., 2023a]. Journal of Strength & Conditioning Research. 2023;37(10):1993-2001. doi:10.1519/jsc.0000000000004513 · *paywalled*
 
@@ -25457,6 +26877,8 @@ Yamamoto R, Nimura A, Muro S, Hoshika S, Akita K. Anatomy of the distal tendinou
 
 Yeh CH, Calder JD, Antflick J, Bull AMJ, Kedgley AE. Maximum dorsiflexion increases Achilles tendon force during exercise for midportion Achilles tendinopathy. Scandinavian Journal of Medicine & Science in Sports. 2021;31(8):1674-1682. doi:10.1111/sms.13974 · **open access**
 
+Yonneau J, Lefèvre-Colau MM, Compagnat M, Salle JY, Rannou F, Daviet JC. Shoulder injuries prevention programmes in handball: a systematic review with meta-analysis. BMJ Open Sport & Exercise Medicine. 2025;11(3):e002416. doi:10.1136/bmjsem-2024-002416 · **open access**
+
 Yoo WG. Comparison of the isolated contraction ratios of the hip extensors and erector spinae muscles of the lumbar region and thoracic muscles during different back extension exercises. Journal of Physical Therapy Science. 2015;27(2):315-316. doi:10.1589/jpts.27.315 · **open access**
 
 Youdas JW, Amundson CL, Cicero KS, Hahn JJ, Harezlak DT, Hollman JH. Surface Electromyographic Activation Patterns and Elbow Joint Motion During a Pull-Up, Chin-Up, or Perfect-Pullup Rotational Exercise. Journal of Strength and Conditioning Research. 2010;24(12):3404-3414. doi:10.1519/JSC.0b013e3181f1598c · *paywalled*
@@ -25480,5 +26902,7 @@ Zaroni RS, Brigatto FA, Schoenfeld BJ, Braz TV, Benvenutti JC, Germano MD, et al
 Zellers JA, Brorsson A, Grävare Silbernagel K. Impact of seated and standing positions on triceps surae muscle activation in unilateral Achilles tendon rupture. Translational Sports Medicine. 2020;3(1):3-8. doi:10.1002/tsm2.117 · **open access**
 
 Zhang B, Raguzzi IA, Dupuis F, Gianola S, Morgan-Daniel J, Roy JS, et al. Addressing Shoulder Weakness in Individuals With Rotator Cuff-Related Shoulder Pain: A Systematic Review With Meta-analysis. Journal of Orthopaedic & Sports Physical Therapy. 2026;56(2):67-84. doi:10.2519/jospt.2025.13445 · **open access**
+
+Zhang Y, Herbert RD, Bilston LE, Bolsterlee B. Three‐dimensional architecture and moment arms of human rotator cuff muscles in vivo: Interindividual, intermuscular, and intramuscular variations. Journal of Anatomy. 2024;245(2):258-270. doi:10.1111/joa.14050 · **open access**
 
 Zwambag DP, Ricketts TA, Brown SHM. Sarcomere length organization as a design for cooperative function amongst all lumbar spine muscles. Journal of Biomechanics. 2014;47(12):3087-3093. doi:10.1016/j.jbiomech.2014.06.030 · *paywalled*
