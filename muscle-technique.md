@@ -5,7 +5,7 @@
 > the rep → exercise catalogue → contexts → programming. **This volume covers the latissimus
 > dorsi, the quadriceps femoris, the gluteal muscles, the deltoids, the core, the
 > hamstrings, the pectoral muscles, the triceps brachii, the erector spinae, the elbow flexors, the calves, the trapezius and
-> scapular muscles, and the forearms and grip.** Further muscles are added as
+> scapular muscles, the forearms and grip, and the hip adductors.** Further muscles are added as
 > new Parts; the glossary and bibliography are always the final two Parts and are shared across all
 > of them.
 >
@@ -121,8 +121,16 @@
    - **§E** [Context modifiers — when "perfect" changes](#partxivecontextmodifiers)
    - **§F** [Programming](#partxivfprogramming)
    - **§G** [Synthesis, and what the evidence does not support](#partxivgsynthesis)
-15. **[Part XV — Master Glossary](#partxvmasterglossary)** (387 entries, in dependency order, with an alphabetical index at its head)
-16. **[Part XVI — Bibliography](#partxvibibliography)** (635 sources, 309 open access)
+15. **[Part XV — Hip Adductors](#partxvhipadductors)**
+   - **§A** [Anatomy and architecture](#partxvaanatomyandarchitecture)
+   - **§B** [Biomechanics — what actually loads the adductors](#partxvbbiomechanics)
+   - **§C** [The rep, specified](#partxvctherepspecified)
+   - **§D** [Exercise catalogue](#partxvdexercisecatalogue)
+   - **§E** [Context modifiers — when "perfect" changes](#partxvecontextmodifiers)
+   - **§F** [Programming](#partxvfprogramming)
+   - **§G** [Synthesis, and what the evidence does not support](#partxvgsynthesis)
+16. **[Part XVI — Master Glossary](#partxvimasterglossary)** (400 entries, in dependency order, with an alphabetical index at its head)
+17. **[Part XVII — Bibliography](#partxviibibliography)** (657 sources, 322 open access)
 
 **How to read this.** The first occurrence of a technical term in each Part links to its glossary
 entry. Cross-references are written `Part II §B.4`.
@@ -148,8 +156,8 @@ and no punctuation of any kind** — `forcelengthrelationship`, `momentarm`, `pa
 That character set is the fixed point of all four algorithms: each maps it to itself, so one link form
 works everywhere without HTML anchors or renderer-specific syntax. The cost is that the heading itself
 is not meant to be read; **the human-readable name is the bold lead-in immediately below it**, and the
-alphabetical index at the head of Part XV is the place to look a term up. Structural anchors carry
-their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to XIV share
+alphabetical index at the head of Part XVI is the place to look a term up. Structural anchors carry
+their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to XV share
 section titles and would otherwise collide. Links are same-file only: no HTML anchors, no relative file links, no external
 links.
 
@@ -1906,7 +1914,7 @@ THREE-TIMES-WEEKLY — HIGH VOLUME, ROTATING EMPHASIS
 large. Row three has one lat-specific anchor — eight weeks of pulldown-and-row training produced
 **+22% latissimus fibre cross-sectional area** on biopsy in 18 novice men (Paoli et al., 2016) — but
 no study has tracked lat *thickness* by ultrasound over these timelines, and the method is a poor index
-of individual change in any case (Part XV, muscle thickness). Rows four and five
+of individual change in any case (Part XVI, muscle thickness). Rows four and five
 are coaching convention, not measured outcomes.
 
 **Validity caveat:** thickness measured in the first weeks of a new program is inflated by
@@ -6561,7 +6569,7 @@ of exposure, so they establish where injuries land, not how likely they are.
 | Context | Common modification | Evidence note |
 |---|---|---|
 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) — a painful arc, pain reaching overhead, pain lying on that side | **Reduce the provoking arc first**, then load progressively in the pain-free range. Keep the press below the painful band or replace it with a landmine press; keep raises in the scapular plane | Rehabilitation improved shoulder strength in this population across twenty-eight studies, and **interventions that did not include exercise had no effect at all** (Zhang et al., 2026). The active ingredient is loading |
-| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part XV, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
+| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part XVI, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
 | History of dislocation or [shoulder instability](#shoulderinstability) | Overhead and behind-the-neck positions are commonly restricted; abduction with external rotation is the classic apprehension position | Governed by the clinician, not by this document |
 | Acromioclavicular joint pain — point tenderness on top of the shoulder | Reduce [horizontal adduction](#shoulderhorizontaladduction) across the body; raises and presses are usually well tolerated | The joint is compressed by reaching across, not by reaching out |
 | Long head of biceps pain — front-of-shoulder pain with a defined tender line | Reduce front raises and dips; the tendon runs in the [bicipital groove](#bicipitalgroove) directly under them | Mechanism, not trial evidence |
@@ -20303,9 +20311,1138 @@ curls if either elbow has ever hurt** — that last one is the only exercise her
 it. Finally, grip strength is the most famous number in this document and the most misread: it predicts death
 better than blood pressure does, and nobody has ever shown that training it changes anything at all.
 
-# partxvmasterglossary
+# partxvhipadductors
 
-**Part XV — Master Glossary**
+**Part XV — [Hip Adductors](#hipadductors)**
+
+> Scope: the anatomy, mechanics, technique, exercise selection, context modifiers and programming for the
+> muscles of the inner thigh — [adductor magnus](#adductormagnus), longus and brevis, [pectineus](#pectineus) and [gracilis](#gracilis) — including the
+> part of the adductor magnus that is functionally a hamstring, and the groin injuries this region is
+> famous for.
+>
+> **General education only.** Groin pain that comes on during sprinting or kicking, pain on squeezing the
+> knees together, or a sudden tearing sensation at the top of the inner thigh is an injury and not a
+> training problem — see §E.4.
+>
+> **Angle conventions, fixed for the whole Part.** [Hip flexion](#hipflexion) keeps its Part IV meaning: **0° is standing
+> upright**, and larger numbers are more folded. [Hip adduction](#hipadduction) is measured from a standing neutral leg:
+> **0° is the thigh vertical**, positive numbers are adduction (thigh crossing toward the midline) and
+> negative numbers are [abduction](#hipabduction) (thigh swung away).
+>
+> **What makes this Part different.** It is the Part where the muscle group is systematically mis-filed.
+> "Adductors" sounds like a small accessory group on the inside of the leg. Imaged in 66 living athletes,
+> **the adductor magnus is the third-largest muscle in the lower limb** — behind only the [gluteus maximus](#gluteusmaximus) and
+> the vastus lateralis — and **the five adductors together carry more [muscle volume](#musclevolume) than the gluteus maximus**
+> (Martin et al., 2026). The biggest of them is a hip extensor that takes a real share of every [squat](#backsquat) you
+> do. It is also the Part with one of the two best-evidenced injury
+> prevention results in this document — **one exercise, 41% fewer groin problems** across 35 football teams
+> (Harøy et al., 2019a), second only to the Nordic hamstring exercise (Part VII §E.4) — and a retracted
+> meta-analysis sitting right next to it (§G.2).
+
+---
+
+## partxvaanatomyandarchitecture
+
+**PART A — Anatomy and Architecture**
+
+### A.1 What the hip adductors are
+
+A large sheet of muscle filling the inside of the thigh, running from the front of the pelvis down to the
+back of the [thigh bone](#femur) — and doing rather more than its name suggests.
+
+Three facts organize the Part.
+
+1. **They are not small.** [Magnetic resonance imaging](#t2mri) of the whole lower limb in 66 collegiate athletes puts
+   **adductor magnus third by volume behind only the gluteus maximus and vastus lateralis**, and the five
+   adductors together above the gluteus maximus (Martin et al., 2026). That is a major muscle group by any
+   measure, and it is trained by almost nobody on purpose.
+2. **The largest of them is a hip extensor.** The adductor magnus has a rear portion that starts on the
+   [sitting bone](#ischialtuberosity) alongside the [hamstrings](#hamstrings) and behaves like one. Its [cross-section](#pcsa) of **20.5 cm²**
+   (Ward et al., 2009a) is larger than any single hamstring and about 60% of the gluteus maximus's. When you
+   squat, it works.
+3. **Therefore "training the adductors" means two different things**, and the exercises for each barely
+   overlap. That is what §B.4 formalizes.
+
+The muscles, from front to back:
+
+- **Pectineus** — the small one at the top, between the hip flexors and the adductors, and part of both.
+- **[Adductor longus](#adductorlongus)** — the one you can feel as a cord at the top of the inner thigh when you squeeze your
+  knees together. **The one that tears.**
+- **[Adductor brevis](#adductorbrevis)** — behind longus, shorter, doing the same job.
+- **Adductor magnus** — the big one, in two functionally separate parts (§A.6).
+- **Gracilis** — a long thin strap running all the way from the pubis past the knee to the shin. The only
+  adductor that [crosses the knee](#biarticularmuscle), and one of the three longest-excursion muscles in the leg
+  (Ward et al., 2009a).
+
+### A.2 Attachments — the map you load
+
+| Muscle | From | To | Nerve |
+|---|---|---|---|
+| Pectineus | Pectineal line of the pubis | Pectineal line of the femur, below the lesser trochanter | Femoral (often obturator too) |
+| Adductor longus | Front of the pubis, by a narrow tendon | Middle third of the linea aspera | Obturator |
+| Adductor brevis | Body and inferior ramus of the pubis | Upper linea aspera | Obturator |
+| **Adductor magnus, pubofemoral part** | Inferior [pubic ramus](#pubicramus) and ischial ramus | Along the **linea aspera** | Obturator |
+| **Adductor magnus, ischiocondylar part** | **Ischial tuberosity** — with the hamstrings | **[Adductor tubercle](#adductortubercle)** of the femur | **Sciatic (tibial division)** |
+| Gracilis | Body and inferior ramus of the pubis | Medial tibia, at the **pes anserinus** | Obturator |
+
+Spinal levels are the textbook account *[consensus — no single source]*. Three rows do most of the work.
+
+**The adductor magnus has two nerves and two jobs.** Its front part is an adductor supplied by the obturator
+nerve; its rear part starts on the **sitting bone**, ends on a bump above the knee, and is supplied by the
+**sciatic** nerve — the hamstrings' nerve. That is not a quirk of nomenclature. It is two muscles sharing a
+name, and §A.6 treats them separately.
+
+**Adductor longus attaches by a narrow tendon and that is why it tears.** Everything else in this group
+attaches over a broad area of bone. The longus funnels into a small, discrete tendon at the pubis, and that
+tendon is the single commonest site of groin injury in sport (§A.8).
+
+**Gracilis crosses the knee.** It joins the sartorius and semitendinosus at the pes anserinus on the inner
+shin, so knee angle changes its length — the only adductor for which that is true.
+
+**One clinical consequence worth knowing before it surprises you.** The adductor magnus tendon sits on the
+ischial tuberosity right next to the hamstrings'. Dissected in eleven cadaveric specimens, its footprint sat
+**8.5 ± 4.2 mm** from the medial edge of the hamstring conjoint tendon footprint, with a tendon **13.1 ±
+8.7 cm** long and considerable variation between specimens (Obey et al., 2016). Imaging of a suspected
+proximal hamstring tear can and does pick up the adductor magnus instead.
+
+### A.3 Architecture — one big muscle and four small ones
+
+The most useful size statement comes from living people rather than cadavers. Magnetic resonance imaging of
+the whole lower limb in 66 collegiate American football players, with volumes normalized to body size
+(Martin et al., 2026):
+
+```
+  Gluteus maximus    8.44      <- largest muscle in the lower limb
+  Vastus lateralis   7.95
+  ADDUCTOR MAGNUS    5.73      <- third largest
+  Vastus medialis    4.27
+  Soleus             3.05
+  ...
+  Adductor longus    1.45      Gracilis  1.02
+  Adductor brevis    0.86      Pectineus 0.57
+```
+
+Two readings, and both matter. **The adductor magnus alone is the third-largest muscle in the leg.** And
+**the five adductors summed (9.63) exceed the gluteus maximus (8.44)** — so as a group they are the largest
+thing in the thigh's posterior and medial compartments. But the group is extremely lopsided: the magnus is
+**60% of it**, and the four others together are smaller than one vastus medialis.
+
+For cross-sectional area, the figure this document has used since Part IV is **adductor magnus PCSA
+20.5 cm²** (Ward et al., 2009a). For scale: gluteus maximus 33.4 cm², gluteus medius 33.8 cm², vastus
+lateralis 35.1 cm², and the four hamstrings spanning 4.8–18.4 cm². **The adductor magnus out-cross-sections
+every individual hamstring.**
+
+> **What this Part does not claim, and why.** An earlier draft opened on two sentences from that cadaveric
+> study's abstract — that the hip adductors are the strongest group acting at any joint in the leg and one of
+> the two with the largest [excursion](#excursion). **Those claims have been withdrawn.** The paper's full text is not
+> retrievable from here, and a reader with access reports that its own results table gives the hip extensors
+> a substantially larger total cross-section than the adductors. This document does not build a framing on a
+> claim it cannot check, so §A.1 is now built on the in-vivo volumes above, which it can. Per-muscle
+> cadaveric values for adductor longus, brevis and gracilis are likewise not quoted here.
+
+One passive property has been measured directly. In nine adductor longus muscles from a soft-embalmed
+cadaver, shear modulus rose **linearly** with passive load in every region of the muscle, with coefficients
+of determination of 0.982–0.989, and the rate of rise tracked the reciprocal of muscle mass
+(Kato et al., 2022). Practically: a bigger adductor longus is a more compliant one at the same load, which
+is a mechanism for why strengthening it might protect it, and not a demonstration that it does.
+
+### A.4 The division of labour — three jobs
+
+| Job | Who does it | Loaded by |
+|---|---|---|
+| **Pull the thigh toward the midline** | Longus, brevis, gracilis, pectineus | [Copenhagen adduction](#copenhagenadduction), the machine, lateral movement |
+| **Extend the hip from a flexed position** | **Adductor magnus, ischiocondylar part** | Every squat, [deadlift](#deadlift) and [step-up](#stepup) |
+| **Hold the thigh against a sideways pull** | All of them, isometrically | Split stance, single-leg work, change of direction |
+
+The second row is the one that surprises people, and it is the reason this Part exists in a training
+document rather than a rehabilitation one. **The adductors are not an optional accessory group. They are
+being trained, [hard](#hardset), by exercises you already do** — just not the ones you would guess, and not in the
+direction their name implies.
+
+The third row has no dedicated exercise and probably needs none.
+
+### A.5 What is known about making them grow
+
+Better evidence than most Parts in this document, from an unexpected place: the squat-depth literature.
+
+> **Seventeen men were randomized to ten weeks of full squats or half squats, twice a week, with lower-limb
+> muscle volumes measured by magnetic resonance imaging before and after** (Kubo et al., 2019).
+>
+> | Muscle group | Full squat | Half squat | Group difference |
+> |---|---|---|---|
+> | **Adductors** | **+6.2 ± 2.6%** | +2.7 ± 3.1% | **p = 0.026** |
+> | Gluteus maximus | +6.7 ± 3.5% | +2.2 ± 2.6% | p = 0.008 |
+> | Knee extensors | +4.9 ± 2.6% | +4.6 ± 3.1% | **none** |
+> | Rectus femoris | no change | no change | — |
+> | Hamstrings | **no change** | **no change** | — |
+>
+> Full-squat [one-repetition maximum](#onerepmax) rose 31.8 ± 14.9% against 11.3 ± 8.6% (p = 0.003).
+
+Three things fall out of that table, and the third is the useful one.
+
+1. **The adductors grew more than the knee extensors did** in the full-squat group. In a squat study.
+2. **The hamstrings did not grow at all**, in either group — which is Part VII's point, made here again.
+3. **[Depth](#squatdepth) changed the adductors and the glutes and left the quadriceps alone.** If you want to know what
+   squatting deep actually buys over squatting shallow, the honest answer from this trial is: **the
+   adductors and the gluteus maximus, not the quadriceps.**
+
+**What that study cannot say.** Seventeen men, ten weeks, and "adductors" measured as one group.
+
+**But it is not the only size evidence, and the rest of it is better than this Part first claimed.**
+
+- **A trial has separated the adductor magnus by name.** Seventeen untrained adults trained knee extension
+  with one leg and leg press with the other for twelve weeks, with seventeen individual muscle volumes
+  measured by magnetic resonance imaging. **The leg press grew the adductor magnus 6.2% and the knee
+  extension did not grow it at all** (Kinoshita et al., 2026) — the cleanest confirmation available that this
+  muscle is trained by [hip extension](#hipextension) and not by knee work (§B.4).
+- **An exercise comparison exists.** Nine weeks of back squats against hip thrusts, with cross-sectional
+  areas by magnetic resonance imaging: adductor growth **favoured the squat by 2.5 ± 0.7 cm²**
+  (95% CI 1.2–3.9) (Plotkin et al., 2023).
+- **The Copenhagen adduction exercise has been tested for size twice, and the two trials disagree.** In 45
+  active adults, eight weeks raised adductor **muscle thickness by 17.8% and 18.4%** on the two sides
+  (d ≈ 1.8, p < 0.001) — **and four weeks of detraining returned it to baseline**
+  (Alonso-Fernández et al., 2022). In twelve U-17 footballers, thickness rose in **both** the trained and
+  the control group, and the exercise added nothing over normal training
+  (Alonso-Calvete et al., 2021). **Contested** — and the likeliest reconciliation is that the second study's
+  controls were themselves training hard.
+
+**What is still missing.** No study has compared **sets, [frequency](#trainingfrequency), load or rep range** for this muscle group
+with a size outcome, and there is no size trial of a [hip adduction machine](#hipadductionmachine).
+
+### A.6 The adductor magnus problem — a hip extensor filed under "adductors"
+
+The adductor magnus is two muscles wearing one name, and almost every practical confusion in this Part comes
+from collapsing them.
+
+```
+  PUBOFEMORAL PART        from the pubic and ischial rami -> along the linea aspera
+                          obturator nerve   |  adducts the thigh
+
+  ISCHIOCONDYLAR PART     from the ISCHIAL TUBEROSITY -> the adductor tubercle above the knee
+                          SCIATIC nerve     |  EXTENDS the hip, especially from flexion
+```
+
+The rear part shares the hamstrings' origin, the hamstrings' nerve, and the hamstrings' job. It differs from
+them in one respect that matters: **it does not cross the knee**, so nothing you do at the knee changes its
+length or takes it out of an exercise. That makes it the hip extensor with the fewest escape routes.
+
+This is why modelling work separates them, and why the separation changes the answer. Estimating individual
+muscle forces across eight exercises, **the deadlift, sumo deadlift, step-up and squat were all top-tier for
+the ischiocondylar part of the adductor magnus, while the same exercises were mid- or bottom-tier for the
+pubofemoral part** (Collings et al., 2026). The front of the muscle and the back of it are trained by
+different things.
+
+### A.7 The nerve
+
+The **[obturator nerve](#obturatornerve)** (L2–L4) supplies all the adductors except the ischiocondylar part of the magnus,
+which the sciatic nerve supplies, and pectineus, which usually takes a femoral branch. It leaves the pelvis
+through the obturator canal and is unusual in one respect worth knowing: **obturator nerve entrapment
+produces exercise-induced medial thigh pain and weakness in athletes** and is one of the differential
+diagnoses for groin pain that strengthening will not fix. *[consensus — no single source]*
+
+### A.8 How the adductors are injured
+
+This region is injured more than any other in this document relative to how little it is trained.
+
+- **[Adductor-related groin pain](#adductorrelatedgroinpain)** — the **most frequently reported subtype** of athletic groin pain, and a
+  substantial cause of time loss and reduced performance (Larkins et al., 2026). It centres on the adductor
+  longus tendon at the pubis (§A.2).
+- **Adductor longus strain and avulsion** — the acute end of the same problem, classically during a sprint,
+  a kick, or a hard change of direction.
+- **The risk factors are reasonably consistent.** Across eight retrospective cohorts and 4,249 male athletes,
+  the most consistent were **previous groin injury, reduced [eccentric](#eccentriccontraction) hip adduction strength, limited hip
+  rotation and inadequate preseason conditioning** (Martins et al., 2025), with an **adduction-to-abduction
+  strength imbalance** added by clinical review (Larkins et al., 2026). **Evidence remains limited and
+  inconsistent** — the pooled studies were retrospective and graded low to moderate quality.
+- **Confusion with a proximal hamstring tear** — see §A.2 and the 8.5 mm that separates the two footprints.
+
+The important asymmetry: **reduced eccentric adduction strength is a modifiable risk factor with a
+randomized prevention trial behind it** (§E.4). Most risk factors in this document do not have that.
+
+### A.9 What the anatomy dictates, in nine lines
+
+1. **The adductor magnus is the third-largest muscle in the lower limb** in living athletes, and the five
+   adductors together outweigh the gluteus maximus (Martin et al., 2026).
+2. The group is **lopsided**: the magnus is 60% of it, and the other four together are smaller than one
+   vastus medialis. At 20.5 cm² of cross-section the magnus also beats every individual hamstring.
+3. It is **two muscles**: a front adductor on the obturator nerve and a rear **hip extensor on the sciatic
+   nerve**, which does not cross the knee.
+4. So "training the adductors" means two different things, trained by two different sets of exercises (§B.4).
+5. **Adductor longus attaches by a narrow tendon**, and that is where groin injuries happen.
+6. **Gracilis is the only adductor that crosses the knee**, and one of the longest-excursion muscles in the
+   leg.
+7. **Squat depth is an adductor question**: +6.2% full against +2.7% half, while the quadriceps grew the same
+   either way.
+8. The hamstrings did not grow from squatting at any depth; the adductors did.
+9. **Reduced eccentric adduction strength is a modifiable injury risk factor** with a randomized prevention
+   trial behind it — though a later prospective cohort found no dose relationship (§E.4).
+
+## partxvbbiomechanics
+
+**PART B — Biomechanics — what actually loads the adductors**
+
+### B.1 The joint actions, ranked
+
+| Rank | Action | What it looks like | Prime movers |
+|---|---|---|---|
+| 1 | **Hip extension from flexion** | Standing up out of a deep squat | Adductor magnus, ischiocondylar part |
+| 2 | **Hip adduction** | Squeezing the knees together; the leg crossing the midline | Longus, brevis, gracilis, pectineus, magnus |
+| 3 | **Frontal-plane control** | The pelvis and thigh not collapsing sideways | All of them, isometrically |
+| 4 | **Hip flexion (from extension)** | The leg swinging forward | Pectineus, longus and brevis, up to about neutral |
+| 5 | **[Knee flexion](#kneeflexion) and internal rotation** | The shin bending and turning in | Gracilis only |
+
+Rank 1 is first because it is the one loaded by the heaviest exercises anybody does, and the one nobody
+credits to this muscle group. Rank 2 is the one the group is named after and the one a normal programme
+never loads at all.
+
+Rank 4 is worth a paragraph because this Part previously mis-stated it. The adductors' contribution in the
+sagittal plane depends on where the hip already is, and **the crossover is not near neutral — it is deep**.
+Reviews of hip kinesiology place the switch from flexor to extensor for the adductors other than the magnus
+somewhere beyond **40–70° of hip flexion** (Neumann, 2010). **So through the top half of a squat, adductor
+longus and brevis are hip *flexors*, not extensors** — which is exactly why the modelling in §B.5 ranks the
+squat only tier 2–3 for them while ranking it tier 1 for the magnus. The adductor magnus is the exception:
+it has an extension [moment arm](#momentarm) at every hip angle measured, rising from about 15 mm at 0° to a peak near 75°
+(Németh & Ohlsén, 1985).
+
+### B.2 Why hip angle changes adduction strength
+
+Fold the hip and the adductors get weaker at pulling the leg inward. This has been measured.
+
+Sixteen recreationally active adults performed bilateral eccentric hip adduction on a custom dynamometer at
+**0°, 45° and 90° of hip flexion** (Marušič et al., 2025), with these peak torques on the dominant leg:
+
+```
+  Hip 0 deg    217.3 +- 57.2 Nm       0 deg vs 45 deg:  no difference (p = 0.29-0.79)
+  Hip 45 deg   208.7 +- 64.1 Nm       90 deg vs both:   lower (p < 0.01, d = 0.52-0.70)
+  Hip 90 deg   177.0 +- 57.4 Nm       adductor longus EMG: unchanged across all three
+```
+
+**Read the size of that effect honestly, because this Part first overstated it.** A folded hip costs about
+**18%** of peak adduction [torque](#torque), not most of it, and **0° and 45° are equivalent** — there is no premium on
+a perfectly straight hip. What is striking is the pairing: the muscle was driven just as hard at 90° and
+produced less torque anyway, so **the loss is mechanical rather than neural**.
+
+**Moderate evidence** — one study, sixteen people, one contraction mode. The practical reading is modest: a
+seated machine at 90° of hip flexion gives up roughly a fifth of the available torque, which is a reason to
+prefer a straighter hip and not a reason to avoid the machine.
+
+### B.3 The other half of the muscle group works in the opposite direction
+
+Everything in §B.2 concerns pulling the leg inward. The adductor magnus's rear part is not doing that. It is
+extending the hip, and its demand rises with **hip flexion** rather than falling with it — the deeper you
+fold, the more of the extension job there is to do and the better placed it is to do it.
+
+So the group has two strength curves pointing opposite ways:
+
+```
+  ADDUCTION (longus, brevis, gracilis)     equal at 0 and 45 deg of hip flexion
+                                           about 18% weaker by 90 deg
+
+  HIP EXTENSION (magnus, ischiocondylar)   extension moment arm grows from ~15 mm at 0 deg
+                                           to a peak near 75 deg, then falls back
+```
+
+(Marušič et al., 2025), with the moment-arm figures from Németh & Ohlsén (1985). Note that the magnus's
+extension leverage **peaks and then declines**, so "more depth is more adductor magnus" holds through the range most squats use and should not
+be extrapolated past it.
+
+This is the mechanical root of §B.4, and of why a lifter can have well-developed adductors from squatting
+and a weak adduction squeeze test at the same time.
+
+### B.4 The adductor loading mode — the decision rule this Part runs on
+
+> **[ADDUCTOR LOADING MODE](#adductorloadingmode) — the rule.**
+>
+> **Step 1.** Ask what the external load is trying to do to the working thigh.
+>
+> | The load tries to… | Mode | Which muscles resist it |
+> |---|---|---|
+> | Pull the thigh **away from the midline** | **Adduction-loaded** | **All five** — longus, brevis, gracilis, pectineus **and the magnus** |
+> | Fold the hip while the foot is **planted** | **Extension-loaded** | Adductor magnus, ischiocondylar part, alone |
+> | None of these | **Unloaded** | — |
+>
+> Where the thigh is held against a sideways pull without moving — a split stance, a single-leg squat — the
+> exercise is **adduction-loaded isometrically**. That is not a third mode; it is the first one with the
+> velocity set to zero.
+>
+> **Step 2.** For adduction-loaded exercises, check the **hip angle**: adduction torque is significantly
+> lower at 90° of hip flexion than near straight (Marušič et al., 2025), so a folded hip means a lighter
+> exercise whatever it feels like.
+>
+> **Step 3.** For extension-loaded exercises, check the **depth**: the adductor magnus's share rises with hip
+> flexion, and the one trial that varied depth found the adductors grew more than twice as much in the deep
+> condition (Kubo et al., 2019).
+>
+> **Step 4.** An exercise can be in more than one mode. Rank them by which one the load is largest in.
+>
+> **Step 5 (tie-break).** Where a measurement exists for that exercise, it decides; otherwise the direction
+> of the load does.
+
+**Why the rule earns its place, stated precisely because the first draft overstated it:** the asymmetry runs
+**one way only**. Extension-loaded work reaches the adductor magnus and largely misses longus and brevis —
+the deadlift, sumo deadlift, step-up and squat were top-tier for the ischiocondylar magnus and bottom- or
+mid-tier for brevis and longus (Collings et al., 2026), and twelve weeks of leg pressing grew the magnus 6.2%
+while knee extension grew it not at all (Kinoshita et al., 2026). **Adduction-loaded work does not miss the
+magnus**: the long-lever Copenhagen was tier 1 for every adductor including both parts of the magnus. So
+extension work is partial and adduction work is complete — which is an argument for adding the second, not
+for splitting your programme in half.
+
+**Three caveats.** The mode is a classification derived in this document from the direction of the load, and
+no study has trained one mode and tested transfer to the other. It says nothing about the hip **flexion**
+role of longus and brevis, which is how they are loaded in sprinting and kicking — and that is the action in
+which the adductor longus actually tears (§A.8). And moment-arm data for the individual adductors are
+essentially absent from the modelling literature, so the underlying leverage is less well characterized here
+than in any other Part. **This document's judgement.**
+
+### B.5 What the modelling says about exercises, in one table
+
+This is the best exercise-selection evidence in Part XV, and it is a model rather than a measurement.
+Fifteen injury-free participants performed eight exercises with three-dimensional kinematics, ground reaction
+forces and surface [electromyography](#emg) feeding an **EMG-assisted neuromusculoskeletal model** that estimated
+forces in each adductor separately. Exercises were then sorted into three tiers by peak normalized muscle
+force (Collings et al., 2026).
+
+| Exercise | Brevis | Longus | Magnus (pubofemoral) | Magnus (ischiocondylar) | Gracilis |
+|---|---|---|---|---|---|
+| **Copenhagen, long lever** | **1** | **1** | **1** | **1** | **1** |
+| **Copenhagen, short lever** | **1** | **1** | — | — | — |
+| **Deadlift** | — | — | — | **1** | **1** |
+| **Sumo deadlift** | — | — | — | **1** | **1** |
+| **Step up** | 3 | 3 | 3 | **1** | 2 |
+| **Squat** | — | 2 | 2 | **1** | 2 |
+| [Lateral slide](#lateralslide) | 2 | 2 | 2 | 2 | 2 |
+| Lying leg lift | 2 | 2 | 3 | 3 | 3 |
+
+(Tier 1 = highest force group. Blank = not reported separately in the abstract.)
+
+The authors' own summary: **"High adductor magnus (ischiocondylar) forces were generated during hip
+extension-oriented exercises."** Which is §B.4 in one sentence.
+
+> **And one important disagreement with a different method.** Measured as **joint torque** rather than
+> modelled as muscle force, the Copenhagen adduction produced **significantly lower** peak eccentric hip
+> torque than every variation tested on a purpose-built adductor dynamometer, at either lever length
+> (Marušič et al., 2026). The long lever beat the short lever on torque but over a smaller [range of motion](#rangeofmotion).
+> **Both results can be true** — a modelled muscle force and a measured joint torque are different
+> quantities — but it means the Copenhagen's crown is less secure than the tier table alone suggests.
+
+### B.6 The stimulus map for the adductors
+
+```
+MUSCLE                    LOADED BEST BY                        MEASURED IN
+------------------------  ------------------------------------  --------------------------
+Adductor longus/brevis    Copenhagen adduction, either lever    Collings 2026 (modelled)
+                          Lateral slide                         Collings 2026
+Adductor magnus,          Deadlift, sumo deadlift, step up,     Collings 2026 (modelled)
+  ischiocondylar          squat - hip extension under load
+                          Deep squatting specifically           Kubo 2019 (volume, +6.2%)
+Adductor magnus,          Copenhagen long lever                 Collings 2026
+  pubofemoral             Squat and lateral slide, moderately    Collings 2026
+Gracilis                  Deadlift and sumo deadlift            Collings 2026
+Pectineus                 Not separately measured anywhere      -
+```
+
+The gap in that table is worth naming: **pectineus has never been measured in a training or modelling study
+of exercise**, and adductor longus — the muscle that actually tears — is measured by a model rather than by a
+needle. Pectineus is not entirely invisible, though: imaged by magnetic resonance in 66 athletes, its volume
+explained **32% of the variance in sprint speed** (Martin et al., 2026).
+
+### B.7 Resistance profiles
+
+Two exercises here have a profile worth naming.
+
+- **Copenhagen adduction** — the resistance is your own body weight acting at the hip, and the moment arm is
+  set by how far the supporting foot or knee is from your shoulder. **Lever length is the load setting**, and
+  it is a large one: moving from short to long lever raised both peak and average torque
+  (Marušič et al., 2026). The torque falls as the hip rises toward the bench, so the exercise is hardest at
+  the bottom.
+- **Hip adduction machine** — near-constant resistance through the range, which is unusual and useful, and
+  entirely untested for anything.
+- **Squats, deadlifts and step-ups** — the adductor magnus's share is set by hip flexion, so it follows the
+  hip-extension profile of Part IV rather than having one of its own.
+
+### B.8 Squat depth is an adductor decision
+
+This is the most practically useful section in Part XV, so it gets stated plainly.
+
+When people argue about squat depth they argue about the quadriceps. In the trial that measured it, the
+quadriceps did not separate: knee extensor volume rose 4.9% deep and 4.6% shallow, and the difference was not
+significant. What did separate was the **adductors (+6.2% against +2.7%, p = 0.026)** and the **gluteus
+maximus (+6.7% against +2.2%, p = 0.008)** (Kubo et al., 2019).
+
+> **So the clearest case for the deep squat is an adductor and glute case.** That part is measured, and it
+> is the reason this section exists in Part XV.
+
+**But the quadriceps half of that claim is Contested, and this Part previously overstated it.** A
+same-sized twelve-week trial comparing deep squats (0–120° of knee flexion) with shallow ones (0–60°) found
+**superior front-thigh cross-sectional area with the deep squat, by 4–7%** (Bloomquist et al., 2013). So one
+range-of-motion trial finds no quadriceps advantage to depth and another finds a clear one. What both agree
+on is that depth does not *cost* you anything, and only Kubo measured the adductors.
+
+Two further caveats on Kubo. Seventeen men, ten weeks, one comparison — **Moderate evidence**. And
+"adductors" there is the whole group by magnetic resonance imaging. For the ischiocondylar magnus
+specifically, the separate evidence is Kinoshita's leg-press result (§A.5).
+
+### B.9 A worked example, so the numbers are not abstract
+
+An 80 kg lifter does a Copenhagen adduction, long lever: side-lying, the top foot resting on a bench, the
+body held in a straight line from that foot to the shoulder.
+
+The load on the top hip's adductors is the body's weight acting through the distance from the supporting
+foot to the centre of mass. Shorten that distance — support the knee on the bench instead of the foot — and
+the torque falls with it. This has been measured directly in fifteen people:
+
+```
+                      peak torque      normalized        peak force
+  Long lever CAE     121.9 +- 29.5 Nm  1.7 +- 0.2 Nm/kg  203.4 +- 35.7 N
+  Short lever CAE     81.5 +- 17.6 Nm  1.1 +- 0.1 Nm/kg  265.6 +- 47.4 N
+  Dynamometer, best  206.6 +- 47.6 Nm  2.8 +- 0.4 Nm/kg  552.1 +- 106.7 N
+```
+
+(Marušič et al., 2026). Three things fall out of that table.
+
+1. **The long lever is about 50% more torque than the short one** — the single largest load adjustment
+   available in this exercise, and the whole progression scheme.
+2. **The short lever carries the higher peak force.** A shorter moment arm means more force for less torque,
+   which is worth knowing before assuming the easy version is gentle on the tissue.
+3. **Even the long lever is well short of a dynamometer's** 206.6 N·m. The Copenhagen is a well-chosen
+   exercise, not a maximal one — and the long lever buys its torque at the cost of a significantly smaller
+   range of motion.
+
+### B.10 Setup variables
+
+| Variable | Effect | Evidence |
+|---|---|---|
+| **Hip near straight vs 90° flexed** | Adduction torque significantly lower at 90°, with EMG unchanged | Marušič et al., 2025 |
+| **Copenhagen lever length** | Long lever raises peak and average torque, reduces range | Marušič et al., 2026 |
+| **Squat depth** | Decides adductor and gluteal growth; does not change quadriceps growth | Kubo et al., 2019 |
+| **Bilateral vs unilateral eccentric adduction** | Bilateral produced 27.9 ± 16.5% greater peak torque | Marušič et al., 2026 |
+| **Sumo vs conventional deadlift** | Both top-tier for ischiocondylar magnus and gracilis in the model | Collings et al., 2026 |
+| **Squat stance width** | **Hip adductor net joint moment did not differ** across narrow, medium and wide (p = 0.414), while hip extensor and lateral rotator moments both rose | Hopkins et al., 2024 |
+| **Squat stance width, electromyographically** | Adductor longus showed a stance-by-phase interaction and a load effect | McCaw & Melrose, 1999 |
+| **Foot rotation** | Not measured for the adductors | — |
+
+The stance-width rows deserve a sentence, because the answer is more useful than the question. **Widening
+your stance does not increase the adductors' share of a squat** — the moment they must supply is unchanged —
+while it does increase what the hip extensors and lateral rotators must supply (Hopkins et al., 2024). If you
+squat wide for your adductors, the measurement does not support you. Foot rotation genuinely has not been
+looked at.
+
+### B.11 What the evidence here can and cannot settle
+
+**The exercise ranking is a model, and that has a specific meaning.** The tier table in §B.5 comes from an
+EMG-assisted neuromusculoskeletal model — surface electromyography and motion capture feeding a simulation
+that apportions force between muscles. It is the only way to separate adductor brevis from longus from
+magnus in a living person doing a squat, and it is **not a measurement of muscle force**. Fifteen
+participants.
+
+**Surface electromyography is poor here for a specific reason.** The adductors lie in layers on the inner
+thigh with gracilis draped over the top, so a surface electrode over the adductor group has the same problem
+as one over the forearm (Part XIV §B.11): it records a region.
+
+**Two quantities are being mixed across this Part's sources, and the Part keeps them apart.** Modelled
+individual **muscle force** (Collings) and measured **joint torque** (Marušič) rank the Copenhagen adduction
+in opposite places (§B.5). Neither is wrong; they measure different things.
+
+**And the growth evidence, unusually, is real.** Kubo's magnetic resonance imaging is a direct size
+measurement of the group — which is more than Parts XIII and XIV had.
+
+### B.12 The mechanical checklist
+
+1. The adductors are **strong and long-ranged at once**, which is rare.
+2. **Adductor magnus's rear part is a hip extensor** on the sciatic nerve, and it does not cross the knee.
+3. So the group has **two strength curves pointing opposite ways** (§B.3).
+4. Classify every exercise by **what the load tries to do to the thigh** (§B.4).
+5. **Adduction is strongest near a straight hip** and significantly weaker at 90° of flexion — and the loss
+   is mechanical, not neural.
+6. **Hip extension work loads the magnus and barely touches longus and brevis**, and vice versa.
+7. **Squat depth decides the adductors and the glutes, not the quadriceps.**
+8. The Copenhagen adduction is top of the modelled muscle-force ranking and bottom of the measured
+   joint-torque ranking — a well-chosen exercise, not a maximal one.
+9. **Nothing in a normal barbell programme loads adduction at all.**
+10. Stance width and foot rotation, the two variables everyone asks about, **have never been measured** for
+    this muscle group.
+
+## partxvctherepspecified
+
+**PART C — The rep, specified**
+
+### C.1 The three adductor reps
+
+One per loading mode (§B.4), and they have almost nothing in common.
+
+---
+
+**1. The adduction rep — the Copenhagen**
+
+> **Setup.** Lie on your side, propped on the bottom forearm with the elbow under the shoulder. Rest the
+> **top** leg on a bench at about knee height — the **inside** of the foot on the bench for the long lever,
+> the inside of the knee for the short one.
+>
+> **Up.** Lift the hips and the bottom leg until the body is a straight line from the supporting foot to the
+> shoulder, with the bottom leg held just under the top one.
+>
+> **The rep.** Lower under control until the hip nearly touches the floor, then lift again. The work is done
+> by the **top** leg's adductors pulling down against the bench.
+>
+> **Hip angle.** Keep the hip near straight. Adduction torque is significantly lower at 90° of hip flexion
+> than near neutral, with no change in muscle activity — the loss is mechanical (Marušič et al., 2025).
+>
+> **Load.** The **lever is the load setting**: knee on the bench is the easy version, foot on the bench the
+> hard one, and the long lever produces greater peak and average torque over a smaller range
+> (Marušič et al., 2026). Progress by lever first, then by repetitions.
+>
+> **What it costs.** Expect soreness in the first two weeks. In the trial that used it in-season, compliance
+> was 91% and median soreness ran 0–2 on a ten-point scale (Ishøi et al., 2016).
+
+---
+
+**2. The extension rep — a deep squat, deadlift or step-up**
+
+> **Setup.** As Part III, IV or VII prescribes. Nothing about the adductors changes the technique.
+>
+> **The one variable that matters.** **Depth.** The adductor magnus's share of the work rises with hip
+> flexion, and the trial that varied it found the adductors grew **6.2% deep against 2.7% shallow**, while
+> the quadriceps grew the same either way (Kubo et al., 2019).
+>
+> **What not to do.** Nothing special. This is not a separate exercise; it is the squat you already do,
+> performed to a depth your hips actually reach.
+
+---
+
+**3. The isometric adduction rep — a split stance or lateral movement**
+
+> **Setup.** Any single-leg or laterally loaded position: [split squat](#splitsquat), lateral [lunge](#lunge), lateral slide.
+>
+> **The rep.** The adductors resist the thigh being pulled away from the midline without the hip moving —
+> the same demand as the Copenhagen with the velocity set to zero, at a fraction of the load.
+>
+> **The honest status.** The lateral slide came out **mid-tier for every adductor muscle** in the modelling
+> (Collings et al., 2026) — never the best exercise for anything, never useless. Treat it as something you
+> get for free, not as a training target. **One exception is worth knowing:** a [progressive](#progressiveoverload) isometric
+> adductor squeeze matched the Copenhagen for eccentric and isometric adduction strength over eight weeks,
+> with less soreness (Pippas et al., 2025). Isometric work here is not a consolation prize.
+
+### C.2 The technical errors, in order of how much they cost
+
+| Error | What it costs | Fix |
+|---|---|---|
+| **Half-squatting and calling it leg training** | The adductors and glutes get less than half the growth stimulus; the quads do not notice (Kubo et al., 2019) | Squat to a depth your hips reach |
+| **Doing the Copenhagen with the hip folded** | Adduction torque is significantly lower at 90° of hip flexion | Body in a straight line, hip near neutral |
+| **Starting on the long lever** | The commonest cause of quitting it in week one | Knee on the bench for two weeks, then the foot |
+| **Adding a machine and calling it prevention** | The prevention trial used the Copenhagen, not a machine (§E.4) | Use the exercise the evidence used |
+| **Treating the adductor machine as a substitute for depth** | Different mode, different muscles (§B.4) | They are additive, not interchangeable |
+| **Training through sharp pubic-tendon pain** | This is where the tears happen (§A.8) | Stop and see §E.4 |
+
+### C.3 Prerequisites
+
+- **Hip range.** If you cannot reach a deep squat with the pelvis under control, the extension mode is capped
+  by mobility rather than strength, and depth is the thing to work on.
+- **A bench and a floor.** That is the entire equipment list for the adduction mode.
+- **No current groin pain.** The Copenhagen is a prevention exercise, not a treatment for an acute strain —
+  see §E.4.
+
+### C.4 Cues — which work, which harm
+
+| Cue | Verdict |
+|---|---|
+| "Squat to depth, not to a box height" | **Use.** Depth is what buys the adductor and gluteal growth (Kubo et al., 2019) |
+| "Body in a straight line" (Copenhagen) | **Use.** It keeps the hip near neutral, which is where adduction torque is highest |
+| "Squeeze your knees in at the bottom of the squat" | **Avoid as a cue for the adductors.** It is a knee-tracking cue, and the adductors' squat contribution comes from hip extension, not adduction (§B.3) |
+| "Push the knees out" | **Use, for the knee.** It does not reduce adductor work; the magnus is extending the hip either way |
+| "Wide stance to hit the adductors" | **Unknown.** Stance width has never been measured for this muscle group (§B.10) |
+| "Train adductors to prevent groin strains" | **Use — this one is actually supported** (§E.4), and it is unusual in this document that it is |
+
+### C.5 The limiting links
+
+- **On the Copenhagen: the bottom shoulder**, often, before the adductors. Shorten the lever rather than
+  fighting it.
+- **On deep squats: hip and ankle range**, then the trunk.
+- **On the adduction machine: nothing.** It is isolated and self-limiting.
+- **On lateral movement: skill and confidence** before tissue.
+
+### C.6 What a hard adductor set feels like, and where it should not hurt
+
+A deep burning ache spread along the whole inner thigh, arriving late in the set. Soreness for two or three
+days after the first few Copenhagen sessions is normal and is documented at a median of 0–2 out of 10 in the
+trial that ran it in-season (Ishøi et al., 2016).
+
+**What is not normal:** a sharp, well-localized pain at the very top of the inner thigh where the tendon
+meets the pubic bone, pain on squeezing the knees together against resistance, or a sudden tearing sensation
+during a sprint or kick. That is §E.4, and training through it is how a niggle becomes a season.
+
+### C.7 How to know it worked
+
+1. **Your squat depth is real and your deep squat load is climbing.** That is the extension mode.
+2. **A long-lever Copenhagen becomes possible, then easy.** That is the adduction mode, and the lever is the
+   measure.
+3. **Inner-thigh size.** The one direct measurement available says **6.2% of adductor volume in ten weeks**
+   of full squatting (Kubo et al., 2019) — which is real growth and not visible in a mirror.
+4. **What you cannot know.** Whether your adduction strength has changed, without a dynamometer or a
+   squeeze test. Reduced eccentric adduction strength is the modifiable risk factor here
+   (Martins et al., 2025), and a lifter has no good home proxy for it.
+
+## partxvdexercisecatalogue
+
+**PART D — Exercise catalogue**
+
+Organized by adductor loading mode (§B.4). **A warning that applies to most rows:** the force rankings come
+from a model of fifteen people (Collings et al., 2026), and the only direct size measurement in this Part is
+a squat-depth comparison (Kubo et al., 2019). Nothing below is a growth ranking.
+
+### D.1 Extension-loaded — the mode you already train
+
+| Exercise | What is measured | Verdict |
+|---|---|---|
+| **Deep squat** | Adductor volume **+6.2 ± 2.6%** in ten weeks against +2.7% for half squats (p = 0.026), while the quadriceps grew the same either way (Kubo et al., 2019). Tier 1 for ischiocondylar adductor magnus in the model (Collings et al., 2026) | **The reference exercise, and the only one with a size outcome.** Depth is the variable |
+| **Deadlift** | Tier 1 for ischiocondylar adductor magnus and gracilis (Collings et al., 2026) | Excellent, and already in your programme |
+| **Sumo deadlift** | Tier 1 for the same two muscles (Collings et al., 2026) | No better than the conventional pull in the model, despite the folklore |
+| **Step up** | Tier 1 for ischiocondylar adductor magnus; **tier 3** for brevis, longus and pubofemoral magnus (Collings et al., 2026) | A clean example of the mode split: top-tier for one part of the group, bottom-tier for the rest |
+| **Half squat** | +2.7% adductor volume in ten weeks (Kubo et al., 2019) | Less than half the deep squat's effect on this group |
+
+### D.2 Adduction-loaded — the mode nobody trains
+
+| Exercise | What is measured | Verdict |
+|---|---|---|
+| **Copenhagen adduction, long lever** | **Tier 1 for every adductor muscle** in the model (Collings et al., 2026); 121.9 N·m peak torque against 81.5 for the short lever (Marušič et al., 2026); **+35.7% eccentric adduction strength within-group in 8 weeks** (Ishøi et al., 2016) and **+8.9% between-group** when added to a warm-up (Harøy et al., 2017); **41% lower odds of groin problems** across 35 teams (Harøy et al., 2019a). For size, two trials disagree (§A.5) | **The reference exercise of Part XV**, and the one with by far the most evidence attached. Only the Nordic hamstring exercise has stronger prevention evidence in this document (Part VII §E.4) |
+| **Copenhagen adduction, short lever** | Tier 1 for adductor brevis and longus (Collings et al., 2026) | The entry point. Two weeks here before the long lever |
+| **Hip adduction machine** | Not measured — no force ranking, no strength trial, no size trial. It is also used at roughly 90° of hip flexion, where adduction torque is significantly lower (Marušič et al., 2025) | Near-constant resistance and easy to load, and **entirely unevidenced**. Reasonable by mode; do not mistake it for the Copenhagen |
+| **Lateral slide** | **Tier 2 for all five muscles** (Collings et al., 2026) | Never the best, never useless. Adduction-loaded, largely isometrically, and it is the same mode as the Copenhagen rather than a category of its own |
+| **Lying leg lift (side-lying adduction)** | Tier 2 for brevis and longus, **tier 3** for magnus and gracilis (Collings et al., 2026) | The weakest option here. Use it only as a first step into the mode |
+
+### D.3 Isometric adduction — what you get for free
+
+| Exercise | What is measured | Verdict |
+|---|---|---|
+| **Split squat, lunge, single-leg work** | Not measured for the adductors specifically | Real isometric demand; no dedicated prescription is justified |
+| **Lateral lunge** | Not measured | Adduction-loaded by the rule, mostly isometrically. No data |
+| **Isometric adductor squeeze** | Eight weeks of a progressive squeeze protocol matched the Copenhagen for both eccentric and isometric adduction torque, with **less soreness** (Pippas et al., 2025) | **A genuine alternative**, and the finding that most complicates "use the exercise that was tested" |
+| **Change-of-direction drills** | Not measured in a training context | The sport itself; treat as exposure rather than training |
+
+### D.4 Selection rules
+
+1. **Squat deep, and count it as adductor work.** It is the only exercise here with a measured size outcome,
+   and depth is what makes it one (Kubo et al., 2019).
+2. **Add the Copenhagen if you play a multidirectional sport.** One cluster-randomized trial put the odds of
+   groin problems 41% lower (Harøy et al., 2019a); one later prospective cohort found no dose relationship at
+   all (Quintana-Cepedal et al., 2026), so the case is good rather than settled (§E.4).
+3. **Start on the short lever.** Two weeks, then progress the lever, not the repetitions.
+4. **Substitute cautiously.** The evidence belongs to the exercise that was tested — but a simple isometric
+   adductor squeeze matched the Copenhagen on both strength outcomes over eight weeks, with less soreness
+   (Pippas et al., 2025). The machine, by contrast, has nothing behind it at all.
+5. **Do not buy a second extension exercise for the adductors.** Squats, deadlifts and step-ups are the same
+   mode, and the model ranks them together.
+6. **Skip the side-lying leg lift** unless it is a first step. It is bottom-tier for the biggest muscle in
+   the group.
+7. **Accept that stance width and foot rotation are unknown here**, and stop optimizing them for this
+   purpose.
+
+## partxvecontextmodifiers
+
+**PART E — Context modifiers — when "perfect" changes**
+
+### E.1 Goal contexts
+
+**Size.** Squat deep. The adductor group grew **6.2% in ten weeks** of full squatting and less than half that
+from half squats (Kubo et al., 2019); adductor growth favoured the squat over the hip thrust by 2.5 cm² of
+cross-section (Plotkin et al., 2023); and the adductor magnus specifically grew **6.2% from leg pressing and
+not at all from knee extension** (Kinoshita et al., 2026). Inner-thigh development is a hip-extension-under-
+load decision, and depth is its main dial.
+
+**Strength and sport.** Two separate targets. Hip extension strength comes from the squat and deadlift
+family; **eccentric adduction strength** comes from the Copenhagen and is the one that tracks injury risk
+(Martins et al., 2025).
+
+**Injury prevention.** This is the strongest recommendation in Part XV and one of the strongest in the
+document — see §E.4.
+
+**Rehabilitation.** Out of scope, with the note that the prevention exercise and the rehabilitation exercise
+are usually the same movement at different doses.
+
+### E.2 Body contexts
+
+- **Hip range of motion.** Limited hip rotation is one of the consistent risk factors for groin pain
+  (Martins et al., 2025), and limited hip flexion caps the extension mode directly. It is the one body
+  context here that changes the prescription.
+- **Previous groin injury.** The single most consistent risk factor across 4,249 athletes
+  (Martins et al., 2025). It does not contraindicate training; it raises the priority of doing it.
+- **Sex.** The prevention and strength trials in this Part are in **male** football players
+  (Harøy et al., 2019a), as was the strength trial (Ishøi et al., 2016), and the risk-factor review pooled
+  **male** athletes only
+  (Martins et al., 2025). Whether the effects transfer to women is untested, and this Part does not assume
+  it does.
+- **Age.** No adductor-specific data.
+
+### E.3 Equipment contexts
+
+| Equipment | What changes |
+|---|---|
+| **A bench and a floor** | Everything the adduction mode needs. The Copenhagen requires nothing else |
+| **Hip adduction machine** | Near-constant resistance, easy small increments, and no evidence of any kind |
+| **Barbell** | The extension mode, via squats and deadlifts you already do |
+| **Sliders or a smooth floor** | Lateral slides — mid-tier for every adductor muscle (Collings et al., 2026) |
+| **Nothing at all** | Short-lever Copenhagen from the floor, and deep body-weight squats |
+
+### E.4 Pain and pathology contexts
+
+**Adductor-related groin pain is the most frequently reported subtype of athletic groin pain** and a
+substantial cause of time loss (Larkins et al., 2026). It centres on the adductor longus tendon where it
+attaches to the pubis by a narrow tendon (§A.2).
+
+**The risk factors are consistent enough to act on.** Across eight retrospective cohorts and 4,249 male
+athletes, the recurring ones were **previous groin injury, reduced eccentric hip adduction strength, limited
+hip rotation and inadequate preseason conditioning** (Martins et al., 2025), with an
+**adduction-to-abduction strength imbalance** added by clinical review (Larkins et al., 2026).
+**Evidence remains limited and inconsistent** on the individual factors — the pooled studies were
+retrospective and graded low to moderate.
+
+**The prevention evidence is good, and it is not unanimous.**
+
+> **Thirty-five semi-professional Norwegian football teams were cluster-randomized: 18 teams (339 players) to
+> an Adductor Strengthening Programme, 17 teams (313 players) to train as normal. The programme was
+> a single exercise — the Copenhagen adduction, with three progression levels — three times a week through a
+> 6–8 week preseason, then once a week for 28 weeks of season.**
+>
+> | | Intervention | Control |
+> |---|---|---|
+> | Average in-season prevalence of groin problems | **13.5%** (95% CI 12.3–14.7) | 21.3% (20.0–22.6) |
+>
+> **Risk of reporting groin problems 41% lower: OR 0.59 (95% CI 0.40–0.86), p = 0.008**
+> (Harøy et al., 2019a).
+
+**Three things temper that result, and all three matter.**
+
+1. **The outcome was self-reported** on a questionnaire, in a trial where players and coaches knew which
+   group they were in.
+2. **Adherence was poor outside the trial's supervision.** Of 501 players surveyed afterwards, only **46%
+   had performed the programme as recommended**, and only **31%** planned to continue the following season —
+   despite 96% agreeing that prevention was needed and 73% taking under five minutes to do it
+   (Harøy et al., 2019b).
+3. **A later prospective cohort found nothing.** One hundred and sixty-two rink-hockey players were followed
+   for a full season on the same questionnaire, with teams free to do zero, one or two sessions a week.
+   **The number of monthly sessions was not associated with groin problems at all** (OR 1.02, 95% CI
+   0.93–1.11, p = 0.71), while previous injury was (OR 2.17) (Quintana-Cepedal et al., 2026). That is a
+   weaker design than a cluster-randomized trial — teams self-selected their dose — but it is a genuine
+   contrary result in the same outcome instrument. A scoping review of 19 randomized trials reaches the same
+   temperature: the exercise improves strength, and "CAE alone shows limited preventive effects"
+   (Saito et al., 2025).
+
+The mechanism has its own trials, and they are worth separating. Eight weeks of the exercise in-season raised
+**eccentric hip adduction strength by 35.7% within the training group** against no change in controls, with
+91% compliance and median soreness of 0–2 (Ishøi et al., 2016). Added to a standard warm-up in a second
+randomized trial, the **between-group** effect was **+8.9%** (0.29 N·m/kg, p = .01), with the standard warm-up
+producing no change at all (Harøy et al., 2017). **Quote the second number when planning**: 8.9% is what the
+exercise adds over what you were already doing.
+
+> **Put together: one exercise, no equipment, a measured strength gain, and one randomized trial showing 41%
+> lower odds of groin problems against one cohort showing none.** **Moderate evidence** — good enough to
+> program, not good enough to promise. The Nordic hamstring exercise remains the stronger case in this
+> document, on a meta-analysis rather than a single trial (Part VII §E.4).
+
+**A caution about the wider literature, and it is instructive.** A 2025 systematic review and meta-analysis of
+the Copenhagen adduction exercise reported large pooled effects and was widely shared. It was **retracted in
+2026**. The retraction notice states that the journal "determined that the meta-analysis misrepresents the
+reported outcomes of two out of the three cited studies, and contains fundamental methodological flaws that
+invalidate the article's conclusions", and that a revised version was judged unsuitable for publication
+(retracted; the original article is Quintana-Cepedal et al., 2025). **The primary trials above are
+unaffected** — but the episode is a reminder that a meta-analysis is not automatically better evidence than
+the trials inside it, and this document prefers the trials.
+
+**Acute strain.** A sudden tearing sensation at the top of the inner thigh during a sprint or kick is an
+[adductor strain](#adductorstrain), most often the longus. It is an injury, not a training problem, and the Copenhagen is a
+prevention exercise rather than a treatment for it.
+
+**Do not mistake it for a hamstring tear.** The adductor magnus's tendon footprint sits **8.5 ± 4.2 mm** from
+the hamstrings' on the sitting bone (Obey et al., 2016), and imaging for a suspected proximal hamstring
+avulsion can pick up the adductor magnus instead.
+
+### E.5 Sport contexts
+
+- **Football, hockey, handball and other multidirectional sports.** The groin is the defining injury site and
+  the prevention programme above was built for exactly this population (Harøy et al., 2019a). Non-negotiable.
+- **Sprinting.** The adductors matter more here than this Part first said. In 66 collegiate American
+  football players with whole-lower-limb magnetic resonance imaging, psoas major explained the most variance
+  in sprint speed (R² = 0.50), followed by gluteus medius (0.45) and gluteus maximus (0.37) — but
+  **pectineus came in at R² = 0.323 and adductor magnus at 0.287**, the latter ahead of every hamstring
+  measured (Martin et al., 2026). Cross-sectional, and volume is not causation.
+- **Powerlifting.** The extension mode is fully covered by the sport. The adduction mode is not covered at
+  all, which is worth thinking about given how many lifters squat wide.
+- **General training.** Squat deep, and consider the Copenhagen for the reason anyone takes an insurance
+  policy.
+
+### E.6 Session and cycle contexts
+
+- **Where in the session.** The Copenhagen goes last; it is fatiguing and it makes the following day's
+  sprinting feel worse before it feels better. The extension mode is your squat, wherever that already sits.
+- **Preseason and in-season.** The tested schedule was **three times a week preseason and once a week
+  in-season** (Harøy et al., 2019a). For strength specifically, more is better: a three-arm randomized trial
+  found a **high-volume Copenhagen protocol beat a low-volume one by 24%** in adductor squeeze strength
+  (mean difference 0.68 N·m/kg, p = 0.03) (Quintana-Cepedal et al., 2024).
+- **First two weeks.** Expect soreness. Start on the short lever.
+- **Deloads.** Nothing specific is known. Treat as Part I.
+
+### E.7 The context decision table
+
+| If… | Then… |
+|---|---|
+| You want bigger inner thighs | Squat deep. +6.2% in ten weeks, against +2.7% shallow (§A.5) |
+| You play a multidirectional sport | Copenhagen adduction, on the tested schedule (§E.4) |
+| You have had a groin injury before | The single strongest risk factor. Prioritize the Copenhagen |
+| You squat only to parallel | You are getting less than half the adductor and gluteal stimulus available |
+| You want to train adduction and have no equipment | Short-lever Copenhagen. That is the whole answer |
+| You have sharp pain at the pubic tendon | Stop. Not a training problem (§E.4) |
+| Someone shows you the Copenhagen meta-analysis | It was retracted in 2026. The underlying trials still stand, and so does a null cohort (§E.4) |
+| You already deadlift and squat deep | Your extension mode is covered. Only the adduction mode is missing |
+
+## partxvfprogramming
+
+**PART F — Programming**
+
+> **Read this first.** This Part has **four size outcomes** (two squat comparisons and two Copenhagen trials
+> that disagree — §A.5), **three strength trials**, **one prevention trial** and **one null prevention
+> cohort**. Only one of them is a dose comparison, and it is a strength study. **No study has compared sets,
+> load or rep range for the hip adductors with a size outcome.** What follows reports the tested protocols
+> exactly and marks every extrapolation as judgement.
+
+### F.1 Volume
+
+**What is known.** The prevention programme used **one exercise** — three progression levels of the
+Copenhagen adduction — and nothing else (Harøy et al., 2019a). The strength trial used a supervised
+progressive Copenhagen programme over eight weeks (Ishøi et al., 2016). The size result came from squat
+training at **two sessions a week for ten weeks** (Kubo et al., 2019).
+
+**What is judgement.**
+
+| Mode | Direct sets per week | Where they usually come from |
+|---|---|---|
+| **Extension** | **0 extra** | Deep squats and deadlifts already supply this in full |
+| **Adduction** | **2–6 sets** | Copenhagen. Zero in almost every programme without deliberate work |
+| **Control** | **0** | Split-stance and lateral work you already do |
+
+**The counting rule.** If you squat deep and deadlift, the largest muscle in this group is well trained and
+needs nothing added. The gap is adduction, and it is a complete gap.
+
+### F.2 Frequency
+
+**What is known, and it is unusually specific.** The prevention trial ran the Copenhagen **three times a week
+for a 6–8 week preseason, then once a week for 28 weeks of season** (Harøy et al., 2019a). That schedule is
+attached to a 41% reduction in groin problems, so it is the one to copy.
+
+**And for strength specifically, dose matters.** A three-arm cluster-randomized trial in 30 high-level youth
+players compared a high-volume with a low-volume Copenhagen warm-up protocol over eight weeks. **The
+high-volume group gained 24% more adductor squeeze strength than the low-volume group** (mean difference
+0.68 N·m/kg, p = 0.03) and 34% more than controls, with identical compliance (92–93%) and one case of muscle
+soreness across 208 sessions (Quintana-Cepedal et al., 2024).
+
+**What is judgement.** Two to three times a week throughout, rather than dropping to once a week in season —
+the once-weekly maintenance dose comes from the prevention trial's protocol, and the only dose comparison
+that exists favours more. The extension mode follows whatever frequency your squatting already has.
+
+### F.3 Load and repetitions
+
+| Mode | Prescription | Basis |
+|---|---|---|
+| **Copenhagen** | Progress by **lever length first**, then repetitions. Short lever → long lever → added repetitions | Marušič et al., 2026 (lever sets the torque) |
+| **Deep squat** | As Part III prescribes. **Depth is the adductor variable** | Kubo et al., 2019 |
+| **Hip adduction machine** | 10–20 repetitions | Judgement — no data of any kind |
+| **Hip angle for adduction work** | Keep the hip **near neutral**, not folded | Marušič et al., 2025 |
+
+**One finding worth weighing.** Eccentric adduction torque was significantly lower at 90° of hip flexion than
+near straight, **with no change in muscle activity** (Marušič et al., 2025). A folded-hip adduction exercise
+is a lighter exercise than it feels, and the exercise the prevention literature settled on keeps the hip
+straight.
+
+### F.4 Proximity to failure
+
+Untested. Two considerations in opposite directions:
+
+- **Toward going close:** the trials that worked used progressive programmes taken to genuine difficulty, and
+  the Copenhagen's own failure mode is benign — the hips drop.
+- **Away from it:** the adductor longus tendon is the tissue that tears (§A.8), and there is no reason to
+  find its limit.
+
+**This document's judgement:** leave 1–3 [repetitions in reserve](#rir) on the Copenhagen, and treat the first two
+weeks as a tissue-tolerance phase rather than a training phase.
+
+### F.5 Progression
+
+- **Copenhagen:** short lever → long lever → repetitions → added load. **The lever is the main dial**, and it
+  is a large one (Marušič et al., 2026).
+- **Squat:** depth first, then load. Depth is what the adductors respond to (Kubo et al., 2019).
+- **Machine:** load, in the smallest increments available.
+- **Everything else:** no tested progression exists.
+
+### F.6 Session templates
+
+**A. You squat deep already — add the missing mode (about 4 minutes, 1–3×/week)**
+
+| Exercise | Prescription |
+|---|---|
+| Copenhagen adduction | 3 × 6–12 per side, lever set so the last repetitions are hard |
+
+**B. The tested prevention programme, reproduced (Harøy et al., 2019a)**
+
+| | |
+|---|---|
+| Exercise | Copenhagen adduction, three progression levels |
+| Preseason | **3×/week for 6–8 weeks** |
+| In-season | **1×/week for 28 weeks** |
+| Result | Groin-problem prevalence **13.5% vs 21.3%**; risk **41% lower** (OR 0.59, 0.40–0.86) |
+
+**C. Building inner-thigh size (no extra session at all)**
+
+| Change | Detail |
+|---|---|
+| Squat depth | Full, not half. **+6.2% vs +2.7% adductor volume in ten weeks** (Kubo et al., 2019) |
+| Everything else | Unchanged |
+
+### F.7 Timeline, measurement and expectations
+
+| Timeframe | What to expect |
+|---|---|
+| Weeks 1–2 | Soreness from the Copenhagen, median 0–2 out of 10 (Ishøi et al., 2016). Short lever only |
+| **Week 8** | The measured strength point: **+35.7% eccentric hip adduction strength within-group** (Ishøi et al., 2016), or **+8.9% between-group** when added to an existing warm-up (Harøy et al., 2017). Adductor **thickness** rose 17.8–18.4% in one trial and not at all in another (§A.5) |
+| **Week 10** | The measured size point: **+6.2% adductor volume** from full squats, +2.7% from half (Kubo et al., 2019) |
+| **A full season** | The measured prevention point: **41% lower odds of self-reported groin problems** in one cluster-randomized trial (Harøy et al., 2019a) — and **no association at all** in a later prospective cohort (Quintana-Cepedal et al., 2026) |
+| **Detraining** | Adductor **thickness** returned fully to baseline after 4 weeks off (Alonso-Fernández et al., 2022), while **strength** held after 3 weeks off (Quintana-Cepedal et al., 2024) |
+
+**How to measure it.** Lever length on the Copenhagen, and depth-plus-load on the squat. A dynamometer or a
+long-lever squeeze test would measure the thing that actually tracks injury risk, and most lifters do not
+have one.
+
+**What to expect in absolute terms.** For size, **about 6% of adductor volume in ten weeks** of deep squat
+training in untrained men, and the same 6% for the adductor magnus alone from leg pressing over twelve
+(Kinoshita et al., 2026). For strength, **about 9% over what your existing programme already gives you**
+(Harøy et al., 2017) — use that number rather than the 36% within-group figure, which includes whatever the
+rest of training contributed.
+
+## partxvgsynthesis
+
+**PART G — Synthesis, and what the evidence does not support**
+
+### G.1 The rules that hold
+
+1. **The adductor magnus is the third-largest muscle in the lower limb**, and the five adductors together
+   outweigh the gluteus maximus, in living athletes (Martin et al., 2026). They are not an accessory group —
+   though the group is lopsided, with the magnus making up 60% of it.
+2. **Adductor magnus is two muscles**: a front adductor on the obturator nerve, and a rear **hip extensor**
+   on the sciatic nerve that does not cross the knee (§A.6).
+3. Therefore the group has **two strength curves pointing opposite ways** — adduction is strongest near a
+   straight hip, hip extension demand rises with hip flexion (§B.3).
+4. **Classify every exercise by what the load tries to do to the thigh** (§B.4): adduction-loaded,
+   extension-loaded, or unloaded — with the isometric case of adduction as a sub-type rather than a mode.
+5. **Extension work is partial and adduction work is complete.** Deadlifts, squats and step-ups are top-tier
+   for the ischiocondylar adductor magnus and bottom- or mid-tier for brevis and longus, while the long-lever
+   Copenhagen is top-tier for all five (Collings et al., 2026).
+6. **Squat depth is an adductor and gluteal decision**: +6.2% against +2.7% adductor volume in ten weeks
+   (Kubo et al., 2019). Whether it is *also* a quadriceps decision is **contested** (§B.8).
+7. **A folded hip costs about 18% of adduction torque**, with 0° and 45° equivalent and muscle activity
+   unchanged (Marušič et al., 2025) — a mechanical loss, and a modest one.
+8. **Eccentric adduction strength is a modifiable risk factor for groin injury** (Martins et al., 2025), and
+   eight weeks of the Copenhagen raises it **35.7%** (Ishøi et al., 2016).
+9. **One exercise, three times a week preseason and once weekly in-season, put the odds of groin problems
+   41% lower** across 35 football teams (Harøy et al., 2019a) — though a later cohort found no dose
+   relationship, so grade it **Moderate evidence** (§E.4). The Nordic hamstring exercise remains the stronger
+   case in this document (Part VII §E.4).
+10. **A barbell programme loads adduction weakly rather than not at all** — the squat was tier 2 for
+    adductor longus in the model, and hip adductor moment is non-zero at every stance width
+    (Hopkins et al., 2024). The gap is a matter of degree, and it is cheap to close.
+
+### G.2 What the evidence does **not** support
+
+**That the adductors are a small accessory group.** The adductor magnus is the third-largest muscle in the
+lower limb by in-vivo volume (Martin et al., 2026), and at 20.5 cm² of cross-section it beats every
+individual hamstring (Ward et al., 2009a).
+
+**That they are the strongest muscle group at the hip, or one of the two with the largest excursion.** An
+earlier draft of this Part said both, on the strength of two sentences in a cadaveric study's abstract. **The
+claims are withdrawn**: the paper's full text is not retrievable from here, and a reader with access reports
+that its own results give the hip extensors a substantially larger total cross-section. Neither claim is
+relied on anywhere in this Part now (§A.3).
+
+**That squat depth is settled as a quadriceps question either way.** One trial found knee extensor volume
+rising 4.9% deep and 4.6% shallow with no significant difference (Kubo et al., 2019); another found
+**superior front-thigh cross-sectional area with the deep squat, by 4–7%** (Bloomquist et al., 2013).
+**Contested.** What is not contested is that depth changed the **adductors and the gluteus maximus** in the
+only trial that measured them.
+
+**That a sumo deadlift is a distinctively adductor-heavy lift.** In the model it was tier 1 for the
+ischiocondylar adductor magnus and gracilis — **exactly like the conventional deadlift**
+(Collings et al., 2026). And the electromyographic comparison of the two styles **did record the hip
+adductors**: it found significant sumo-versus-conventional differences only in the vasti, tibialis anterior
+and medial gastrocnemius, with no adductor difference between styles — but **adductor activity was
+significantly greater in the deeper knee-flexion intervals of both lifts** (Escamilla et al., 2002), which is
+the depth argument of §B.8 arriving from a different direction.
+
+**That the Copenhagen adduction is the highest-torque adductor exercise.** It tops the ranking of **modelled
+muscle force** (Collings et al., 2026) and comes **last** on **measured joint torque**, below every variation
+tested on a purpose-built dynamometer (Marušič et al., 2026). Those are different quantities. What the
+Copenhagen has that the dynamometer does not is a randomized prevention trial.
+
+**That the pooled evidence for the Copenhagen is stronger than the individual trials.** A 2025 systematic
+review and meta-analysis of the exercise was **retracted in 2026**: the journal determined that it
+"misrepresents the reported outcomes of two out of the three cited studies, and contains fundamental
+methodological flaws that invalidate the article's conclusions" (Quintana-Cepedal et al., 2025, retracted).
+The primary trials this Part relies on are untouched by that, and are cited directly for exactly this
+reason.
+
+**That a hip adduction machine is equivalent to the Copenhagen.** They are in the same mode, and that is all
+that can be said. **The machine has no force ranking, no strength trial and no size trial**, and it is used
+at roughly the hip angle where adduction torque is weakest (Marušič et al., 2025). The prevention result
+belongs to the exercise that was tested.
+
+**That the Copenhagen reliably grows the adductors.** Two randomized trials disagree: +17.8–18.4% of
+thickness in 45 active adults (Alonso-Fernández et al., 2022) against no effect over control in 12 youth
+footballers (Alonso-Calvete et al., 2021). **Contested** — and in the first trial the gain **fully reversed
+after four weeks without training**.
+
+**That anything is known about adductor training dose for size.** No study has compared sets, load or rep
+range for this muscle group with a size outcome. **Frequency has been compared, for strength only**: a
+high-volume Copenhagen protocol beat a low-volume one by 24% (Quintana-Cepedal et al., 2024).
+
+**That a wider squat stance trains the adductors more.** Measured three-dimensionally, **hip adductor net
+joint moment did not differ across narrow, medium and wide stances** (p = 0.414), while hip extensor and
+lateral rotator moments both rose (Hopkins et al., 2024); electromyographically, adductor longus showed only
+a stance-by-phase interaction and a load effect (McCaw & Melrose, 1999). Widening your stance changes what
+the hip extensors and rotators must do, **not what the adductors must do**. Foot rotation genuinely has never
+been measured for this group.
+
+**That the adductors are the leading determinant of sprint speed — or that they are irrelevant to it.**
+Neither. In 66 collegiate American football players with whole-lower-limb magnetic resonance imaging, the
+volumes explaining most variance in sprint speed were psoas major (R² = 0.50), gluteus medius (0.45) and
+gluteus maximus (0.37); **pectineus reached 0.323 and adductor magnus 0.287**, the latter above every
+hamstring measured (Martin et al., 2026). Cross-sectional, and volume is not causation.
+
+**That the prevention result transfers to women, or to other sports.** The prevention and strength trials
+were in **male** football players and the risk-factor review pooled male athletes only. The one prospective
+cohort in a different sport — rink hockey, 67% male — found **no association** between Copenhagen sessions
+and groin problems (Quintana-Cepedal et al., 2026).
+
+**That squeezing the knees in during a squat trains the adductors.** The adductors' squat contribution comes
+from the magnus **extending the hip**, not from adduction (§B.3). Knee-tracking cues are knee-tracking cues.
+
+### G.3 The one-paragraph version
+
+The muscles on the inside of your thigh are not an accessory group: measured properly they are **one of the
+three strongest muscle groups in the lower limb** and one of the two with the longest range, and the biggest
+of them — the adductor magnus — is really two muscles, a front half that pulls the leg inward and a rear half
+that starts on your sitting bone, runs on the hamstrings' nerve, and **extends the hip**. That split is the
+whole Part. It means "training the adductors" is two jobs: the **extension** job, which your deep squats and
+deadlifts already do rather well, and the **adduction** job, which nothing in a barbell programme touches.
+If you want inner-thigh size, the lever is **squat depth** — deep squatting grew the adductors 6.2% in ten
+weeks against 2.7% for half squats, while the quadriceps grew the same either way, so depth is an adductor
+decision and not a quadriceps one. If you want the other half, the answer is the **Copenhagen adduction**,
+performed with the hip near straight because adduction torque drops sharply once the hip folds, progressed by
+moving the support from your knee to your foot: eight weeks of it raised eccentric adduction strength by
+36% within the group that did it and about 9% over a warm-up that did not, and one cluster-randomized trial
+put the odds of groin problems **41% lower** across thirty-five football teams — against one later cohort
+that found no dose relationship at all, so call it good rather than settled. Two final cautions: the widely shared meta-analysis of that exercise was **retracted**, so cite the trials
+and not the pooled paper; and a wider squat stance does **not** raise what the adductors have to do — measured
+three-dimensionally, their moment is unchanged across stance widths while the hip extensors' and rotators'
+both rise.
+
+# partxvimasterglossary
+
+**Part XVI — Master Glossary**
 
 Every technical term used anywhere in this document, defined formally with formula and units where
 the quantity is physically or operationally defined.
@@ -20341,34 +21478,40 @@ plain same-file heading anchor.
 
 | Term | Layer | Term | Layer |
 |---|---|---|---|
-| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Middle deltoid](#middledeltoid) | 9 |
-| [45° back extension (hip extension)](#backextension) | 12 | [Mixed grip](#mixedgrip) | 11 |
-| [Ab wheel](#abwheel) | 12 | [Moment arm](#momentarm) | 2 |
-| [Abdominal wall](#abdominalwall) | 9 | [Momentary (muscular) failure](#momentaryfailure) | 10 |
-| [Accessory nerve (CN XI)](#accessorynerve) | 9 | [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 |
-| [Achilles tendinopathy](#achillestendinopathy) | 13 | [Motor unit](#motorunit) | 6 |
-| [Achilles tendon](#achillestendon) | 3 | [Multifidus](#multifidus) | 9 |
-| [ACL reconstruction](#aclreconstruction) | 13 | [Muscle thickness](#musclethickness) | 5 |
-| [Acromioclavicular joint (AC joint)](#acromioclavicularjoint) | 3 | [Muscle volume](#musclevolume) | 5 |
-| [Acromion](#acromion) | 3 | [Musculocutaneous nerve](#musculocutaneousnerve) | 9 |
-| [Adductor magnus](#adductormagnus) | 8 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
-| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Net joint moment](#netjointmoment) | 11 |
-| [Anconeus](#anconeus) | 9 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
-| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Nordic hamstring curl](#nordiccurl) | 12 |
-| [Ankle plantar flexion](#ankleplantarflexion) | 4 | [Nuchal ligament](#nuchalligament) | 3 |
-| [Annular pulley](#annularpulley) | 3 | [Olecranon](#olecranon) | 3 |
-| [Anterior deltoid](#anteriordeltoid) | 9 | [Open kinetic chain exercise](#openkineticchain) | 11 |
-| [Aponeurosis](#aponeurosis) | 3 | [Overhead press (shoulder press, military press)](#overheadpress) | 12 |
-| [Apophysis](#apophysis) | 3 | [Overhead triceps extension](#overheadtricepsextension) | 12 |
-| [Attentional focus](#attentionalfocus) | 10 | [Painful arc](#painfularc) | 13 |
-| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Pallof press](#pallofpress) | 12 |
-| [Axillary nerve](#axillarynerve) | 9 | [Passive tension](#passivetension) | 5 |
-| [Back squat](#backsquat) | 12 | [Patella (kneecap)](#patella) | 3 |
-| [Bar position](#barposition) | 11 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
-| [Barbell glute bridge](#glutebridge) | 12 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
-| [Barbell hip thrust](#hipthrust) | 12 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
-| [Bayes factor (BF)](#bayesfactor) | 9 | [Patellofemoral pain](#patellofemoralpain) | 13 |
-| [Bayesian cable curl](#bayesiancurl) | 12 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
+| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Medial epicondylalgia ("golfer's elbow")](#medialepicondylalgia) | 13 |
+| [45° back extension (hip extension)](#backextension) | 12 | [Medial epicondyle](#medialepicondyle) | 3 |
+| [Ab wheel](#abwheel) | 12 | [Median nerve](#mediannerve) | 9 |
+| [Abdominal wall](#abdominalwall) | 9 | [Middle (transverse) trapezius](#middletrapezius) | 9 |
+| [Accessory nerve (CN XI)](#accessorynerve) | 9 | [Middle deltoid](#middledeltoid) | 9 |
+| [Achilles tendinopathy](#achillestendinopathy) | 13 | [Mixed grip](#mixedgrip) | 11 |
+| [Achilles tendon](#achillestendon) | 3 | [Moment arm](#momentarm) | 2 |
+| [ACL reconstruction](#aclreconstruction) | 13 | [Momentary (muscular) failure](#momentaryfailure) | 10 |
+| [Acromioclavicular joint (AC joint)](#acromioclavicularjoint) | 3 | [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 |
+| [Acromion](#acromion) | 3 | [Motor unit](#motorunit) | 6 |
+| [Adductor brevis](#adductorbrevis) | 8 | [Multifidus](#multifidus) | 9 |
+| [Adductor loading mode (adduction-loaded, extension-loaded, unloaded)](#adductorloadingmode) | 11 | [Muscle thickness](#musclethickness) | 5 |
+| [Adductor longus](#adductorlongus) | 8 | [Muscle volume](#musclevolume) | 5 |
+| [Adductor magnus](#adductormagnus) | 8 | [Musculocutaneous nerve](#musculocutaneousnerve) | 9 |
+| [Adductor strain](#adductorstrain) | 13 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
+| [Adductor tubercle](#adductortubercle) | 3 | [Net joint moment](#netjointmoment) | 11 |
+| [Adductor-related groin pain](#adductorrelatedgroinpain) | 13 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
+| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Nordic hamstring curl](#nordiccurl) | 12 |
+| [Anconeus](#anconeus) | 9 | [Nuchal ligament](#nuchalligament) | 3 |
+| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Obturator nerve](#obturatornerve) | 8 |
+| [Ankle plantar flexion](#ankleplantarflexion) | 4 | [Olecranon](#olecranon) | 3 |
+| [Annular pulley](#annularpulley) | 3 | [Open kinetic chain exercise](#openkineticchain) | 11 |
+| [Anterior deltoid](#anteriordeltoid) | 9 | [Overhead press (shoulder press, military press)](#overheadpress) | 12 |
+| [Aponeurosis](#aponeurosis) | 3 | [Overhead triceps extension](#overheadtricepsextension) | 12 |
+| [Apophysis](#apophysis) | 3 | [Painful arc](#painfularc) | 13 |
+| [Attentional focus](#attentionalfocus) | 10 | [Pallof press](#pallofpress) | 12 |
+| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Passive tension](#passivetension) | 5 |
+| [Axillary nerve](#axillarynerve) | 9 | [Patella (kneecap)](#patella) | 3 |
+| [Back squat](#backsquat) | 12 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
+| [Bar position](#barposition) | 11 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
+| [Barbell glute bridge](#glutebridge) | 12 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
+| [Barbell hip thrust](#hipthrust) | 12 | [Patellofemoral pain](#patellofemoralpain) | 13 |
+| [Bayes factor (BF)](#bayesfactor) | 9 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
+| [Bayesian cable curl](#bayesiancurl) | 12 | [Pectineus](#pectineus) | 8 |
 | [Belt squat](#beltsquat) | 12 | [Pectoral nerves (lateral and medial)](#pectoralnerves) | 9 |
 | [Bench inclination](#benchinclination) | 11 | [Pectoralis major](#pectoralismajor) | 9 |
 | [Bench press](#benchpress) | 12 | [Pectoralis major tear (pectoralis major rupture)](#pectoralismajortear) | 13 |
@@ -20391,13 +21534,14 @@ plain same-file heading anchor.
 | [Carpal tunnel syndrome](#carpaltunnelsyndrome) | 13 | [Prone Y raise (prone overhead arm raise)](#proneyraise) | 12 |
 | [Chest fly (dumbbell fly, cable fly or crossover, pec deck)](#chestfly) | 12 | [Proximity to failure](#proximitytofailure) | 10 |
 | [Chin-up](#chinup) | 12 | [Psoas major](#psoasmajor) | 9 |
-| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Pull-up](#pullup) | 12 |
-| [Clavicle (collarbone)](#clavicle) | 3 | [Pullover](#pullover) | 12 |
-| [Close-grip bench press](#closegripbenchpress) | 12 | [Push-up](#pushup) | 12 |
-| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Push-up plus](#pushupplus) | 12 |
-| [Compound exercise](#compound) | 11 | [Quadratus lumborum](#quadratuslumborum) | 9 |
-| [Concentric contraction](#concentriccontraction) | 6 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
-| [Contralateral](#contralateral) | 1 | [Quadriceps tendon](#quadricepstendon) | 3 |
+| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Pubic ramus](#pubicramus) | 3 |
+| [Clavicle (collarbone)](#clavicle) | 3 | [Pull-up](#pullup) | 12 |
+| [Close-grip bench press](#closegripbenchpress) | 12 | [Pullover](#pullover) | 12 |
+| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Push-up](#pushup) | 12 |
+| [Compound exercise](#compound) | 11 | [Push-up plus](#pushupplus) | 12 |
+| [Concentric contraction](#concentriccontraction) | 6 | [Quadratus lumborum](#quadratuslumborum) | 9 |
+| [Contralateral](#contralateral) | 1 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
+| [Copenhagen adduction exercise](#copenhagenadduction) | 12 | [Quadriceps tendon](#quadricepstendon) | 3 |
 | [Coracobrachialis](#coracobrachialis) | 9 | [Radial nerve](#radialnerve) | 9 |
 | [Coracoid process](#coracoidprocess) | 3 | [Radial tuberosity](#radialtuberosity) | 3 |
 | [Costal cartilage](#costalcartilage) | 3 | [Range of motion (ROM)](#rangeofmotion) | 4 |
@@ -20458,83 +21602,82 @@ plain same-file heading anchor.
 | [Gluteus medius](#gluteusmedius) | 8 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
 | [Gluteus minimus](#gluteusminimus) | 8 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
 | [Good morning](#goodmorning) | 12 | [Shoulder instability](#shoulderinstability) | 13 |
-| [Greater trochanter](#greatertrochanter) | 3 | [Shoulder position class (Overhead, Raised, Down)](#shoulderpositionclass) | 11 |
-| [Grip demand class (support, crush, pinch, open-hand)](#gripdemandclass) | 11 | [Shrug](#shrug) | 12 |
-| [Grip width](#gripwidth) | 11 | [Side plank](#sideplank) | 12 |
-| [Hack squat](#hacksquat) | 12 | [Sissy squat](#sissysquat) | 12 |
-| [Hammer curl](#hammercurl) | 12 | [Sit-up](#situp) | 12 |
-| [Hamstrings](#hamstrings) | 8 | [Size principle](#sizeprinciple) | 6 |
-| [Hand gripper](#handgripper) | 12 | [Smith machine squat](#smithmachinesquat) | 12 |
-| [Handgrip dynamometry](#handgripdynamometry) | 9 | [Snapping triceps](#snappingtriceps) | 13 |
-| [Hangboard hang](#hangboardhang) | 12 | [Soleus](#soleus) | 8 |
-| [Hanging knee raise](#hangingkneeraise) | 12 | [Specific tension](#specifictension) | 5 |
-| [Hard set](#hardset) | 10 | [Spinal role class (spine-moving, spine-holding, supported)](#spinalroleclass) | 11 |
-| [Hip abduction](#hipabduction) | 4 | [Spine of the scapula](#scapularspine) | 3 |
-| [Hip adduction](#hipadduction) | 4 | [Split squat](#splitsquat) | 12 |
-| [Hip adductors](#hipadductors) | 8 | [Spondylolysis](#spondylolysis) | 13 |
-| [Hip extension](#hipextension) | 4 | [Squat depth](#squatdepth) | 11 |
-| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Stance width](#stancewidth) | 11 |
-| [Hip flexion](#hipflexion) | 4 | [Step-up](#stepup) | 12 |
-| [Hip hinge](#hiphinge) | 11 | [Sternoclavicular joint](#sternoclavicularjoint) | 3 |
-| [Hip internal (medial) rotation](#hipinternalrotation) | 4 | [Sternum (breastbone)](#sternum) | 3 |
-| [Hip joint (acetabulofemoral joint)](#hipjoint) | 3 | [Sticking region](#stickingregion) | 11 |
-| [Hip osteoarthritis](#hiposteoarthritis) | 13 | [Straight-arm pulldown](#straightarmpulldown) | 12 |
-| [Hook grip](#hookgrip) | 11 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
-| [Horizontal pull](#horizontalpull) | 11 | [Subacromial impingement](#impingement) | 13 |
-| [Humeral elevation](#humeralelevation) | 4 | [Subacromial space](#subacromialspace) | 3 |
-| [Humerus (upper arm bone)](#humerus) | 3 | [Suitcase carry](#suitcasecarry) | 12 |
-| [Hypertrophy](#hypertrophy) | 7 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
-| [Iliocostalis lumborum](#iliocostalislumborum) | 8 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
-| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [Supraspinatus](#supraspinatus) | 9 |
-| [Incline curl](#inclinecurl) | 12 | [T2-weighted MRI (transverse relaxation time)](#t2mri) | 9 |
-| [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [Technical failure](#technicalfailure) | 10 |
-| [Infraglenoid tubercle](#infraglenoidtubercle) | 3 | [Tempo](#tempo) | 10 |
-| [Internal (medial) rotation](#internalrotation) | 4 | [Tennis leg](#tennisleg) | 13 |
-| [Internal oblique](#internaloblique) | 9 | [Tenodesis effect](#tenodesiseffect) | 4 |
-| [Intra-abdominal pressure (IAP)](#intraabdominalpressure) | 3 | [Tensor fasciae latae (TFL)](#tensorfascialatae) | 8 |
-| [Inverted row](#invertedrow) | 12 | [Tensor vastus intermedius](#tensorvastusintermedius) | 8 |
-| [Ischial tuberosity](#ischialtuberosity) | 3 | [Teres major](#teresmajor) | 8 |
-| [Isolated lumbar extension (ILEX)](#isolatedlumbarextension) | 12 | [The EMG–hypertrophy dissociation](#emghypertrophydissociation) | 9 |
-| [Isolation exercise](#isolation) | 11 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
-| [Joint reaction force](#jointreactionforce) | 3 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
-| [Kettlebell swing](#kettlebellswing) | 12 | [Tibia (shin bone)](#tibia) | 3 |
-| [Kipping](#kipping) | 12 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
-| [Knee extension](#kneeextension) | 4 | [Torque (moment)](#torque) | 2 |
-| [Knee flexion](#kneeflexion) | 4 | [Torso inclination](#torsoinclination) | 11 |
-| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [Training frequency](#trainingfrequency) | 10 |
-| [Knee travel](#kneetravel) | 11 | [Training volume](#trainingvolume) | 10 |
-| [Lacertus fibrosus (bicipital aponeurosis)](#lacertusfibrosus) | 3 | [Transverse (horizontal) plane](#transverseplane) | 1 |
-| [Lat pulldown](#latpulldown) | 12 | [Transversus abdominis](#transversusabdominis) | 9 |
-| [Lateral epicondylalgia ("tennis elbow")](#lateralepicondylalgia) | 13 | [Trapezius](#trapezius) | 9 |
-| [Lateral epicondyle](#lateralepicondyle) | 3 | [Trapezius myalgia](#trapeziusmyalgia) | 13 |
-| [Lateral raise](#lateralraise) | 12 | [Triceps brachii](#tricepsbrachii) | 9 |
-| [Latissimus dorsi](#latissimusdorsi) | 8 | [Triceps brachii, lateral head](#tricepslateralhead) | 9 |
-| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Triceps brachii, long head](#tricepslonghead) | 9 |
-| [Leg extension](#legextension) | 12 | [Triceps brachii, medial head](#tricepsmedialhead) | 9 |
-| [Leg press](#legpress) | 12 | [Triceps kickback](#tricepskickback) | 12 |
-| [Lengthened partials](#lengthenedpartials) | 7 | [Triceps pushdown (cable pushdown)](#tricepspushdown) | 12 |
-| [Lengthened position](#lengthenedposition) | 7 | [Triceps surae](#tricepssurae) | 8 |
-| [Levator scapulae](#levatorscapulae) | 9 | [Trunk extension](#trunkextension) | 5 |
-| [Lifting straps](#liftingstraps) | 11 | [Trunk flexion](#trunkflexion) | 5 |
-| [Limiting link](#limitinglink) | 10 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
-| [Line of action](#lineofaction) | 2 | [Trunk rotation](#trunkrotation) | 5 |
-| [Linea alba](#lineaalba) | 3 | [Ulnar nerve](#ulnarnerve) | 9 |
-| [Load](#load) | 10 | [Upper (descending) trapezius](#uppertrapezius) | 9 |
-| [Long thoracic nerve](#longthoracicnerve) | 8 | [Upright row](#uprightrow) | 12 |
-| [Longissimus thoracis](#longissimusthoracis) | 8 | [Vastus intermedius](#vastusintermedius) | 8 |
-| [Lower (ascending) trapezius](#lowertrapezius) | 9 | [Vastus lateralis](#vastuslateralis) | 8 |
-| [Lumbar compression](#lumbarcompression) | 11 | [Vastus medialis](#vastusmedialis) | 8 |
-| [Lumbar flexion](#lumbarflexion) | 4 | [Vertical pull](#verticalpull) | 11 |
-| [Lumbopelvic rhythm](#lumbopelvicrhythm) | 4 | [Volume load](#volumeload) | 10 |
-| [Lunge](#lunge) | 12 | [Weightlifting belt](#weightliftingbelt) | 11 |
-| [Lying triceps extension ("skull crusher")](#lyingtricepsextension) | 12 | [Woodchop](#woodchop) | 12 |
-| [Machine chest press](#machinechestpress) | 12 | [Wrist curl](#wristcurl) | 12 |
-| [Mechanical tension](#mechanicaltension) | 6 | [Wrist extension](#wristextension) | 4 |
-| [Mechanotransduction](#mechanotransduction) | 6 | [Wrist extensors](#wristextensors) | 9 |
-| [Medial epicondylalgia ("golfer's elbow")](#medialepicondylalgia) | 13 | [Wrist flexion](#wristflexion) | 4 |
-| [Medial epicondyle](#medialepicondyle) | 3 | [Wrist flexors](#wristflexors) | 9 |
-| [Median nerve](#mediannerve) | 9 | [Wrist joint](#wristjoint) | 3 |
-| [Middle (transverse) trapezius](#middletrapezius) | 9 |  |  |
+| [Gracilis](#gracilis) | 8 | [Shoulder position class (Overhead, Raised, Down)](#shoulderpositionclass) | 11 |
+| [Greater trochanter](#greatertrochanter) | 3 | [Shrug](#shrug) | 12 |
+| [Grip demand class (support, crush, pinch, open-hand)](#gripdemandclass) | 11 | [Side plank](#sideplank) | 12 |
+| [Grip width](#gripwidth) | 11 | [Sissy squat](#sissysquat) | 12 |
+| [Hack squat](#hacksquat) | 12 | [Sit-up](#situp) | 12 |
+| [Hammer curl](#hammercurl) | 12 | [Size principle](#sizeprinciple) | 6 |
+| [Hamstrings](#hamstrings) | 8 | [Smith machine squat](#smithmachinesquat) | 12 |
+| [Hand gripper](#handgripper) | 12 | [Snapping triceps](#snappingtriceps) | 13 |
+| [Handgrip dynamometry](#handgripdynamometry) | 9 | [Soleus](#soleus) | 8 |
+| [Hangboard hang](#hangboardhang) | 12 | [Specific tension](#specifictension) | 5 |
+| [Hanging knee raise](#hangingkneeraise) | 12 | [Spinal role class (spine-moving, spine-holding, supported)](#spinalroleclass) | 11 |
+| [Hard set](#hardset) | 10 | [Spine of the scapula](#scapularspine) | 3 |
+| [Hip abduction](#hipabduction) | 4 | [Split squat](#splitsquat) | 12 |
+| [Hip adduction](#hipadduction) | 4 | [Spondylolysis](#spondylolysis) | 13 |
+| [Hip adduction machine](#hipadductionmachine) | 12 | [Squat depth](#squatdepth) | 11 |
+| [Hip adductors](#hipadductors) | 8 | [Stance width](#stancewidth) | 11 |
+| [Hip extension](#hipextension) | 4 | [Step-up](#stepup) | 12 |
+| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Sternoclavicular joint](#sternoclavicularjoint) | 3 |
+| [Hip flexion](#hipflexion) | 4 | [Sternum (breastbone)](#sternum) | 3 |
+| [Hip hinge](#hiphinge) | 11 | [Sticking region](#stickingregion) | 11 |
+| [Hip internal (medial) rotation](#hipinternalrotation) | 4 | [Straight-arm pulldown](#straightarmpulldown) | 12 |
+| [Hip joint (acetabulofemoral joint)](#hipjoint) | 3 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
+| [Hip osteoarthritis](#hiposteoarthritis) | 13 | [Subacromial impingement](#impingement) | 13 |
+| [Hook grip](#hookgrip) | 11 | [Subacromial space](#subacromialspace) | 3 |
+| [Horizontal pull](#horizontalpull) | 11 | [Suitcase carry](#suitcasecarry) | 12 |
+| [Humeral elevation](#humeralelevation) | 4 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
+| [Humerus (upper arm bone)](#humerus) | 3 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
+| [Hypertrophy](#hypertrophy) | 7 | [Supraspinatus](#supraspinatus) | 9 |
+| [Iliocostalis lumborum](#iliocostalislumborum) | 8 | [T2-weighted MRI (transverse relaxation time)](#t2mri) | 9 |
+| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [Technical failure](#technicalfailure) | 10 |
+| [Incline curl](#inclinecurl) | 12 | [Tempo](#tempo) | 10 |
+| [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [Tennis leg](#tennisleg) | 13 |
+| [Infraglenoid tubercle](#infraglenoidtubercle) | 3 | [Tenodesis effect](#tenodesiseffect) | 4 |
+| [Internal (medial) rotation](#internalrotation) | 4 | [Tensor fasciae latae (TFL)](#tensorfascialatae) | 8 |
+| [Internal oblique](#internaloblique) | 9 | [Tensor vastus intermedius](#tensorvastusintermedius) | 8 |
+| [Intra-abdominal pressure (IAP)](#intraabdominalpressure) | 3 | [Teres major](#teresmajor) | 8 |
+| [Inverted row](#invertedrow) | 12 | [The EMG–hypertrophy dissociation](#emghypertrophydissociation) | 9 |
+| [Ischial tuberosity](#ischialtuberosity) | 3 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
+| [Isolated lumbar extension (ILEX)](#isolatedlumbarextension) | 12 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
+| [Isolation exercise](#isolation) | 11 | [Tibia (shin bone)](#tibia) | 3 |
+| [Joint reaction force](#jointreactionforce) | 3 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
+| [Kettlebell swing](#kettlebellswing) | 12 | [Torque (moment)](#torque) | 2 |
+| [Kipping](#kipping) | 12 | [Torso inclination](#torsoinclination) | 11 |
+| [Knee extension](#kneeextension) | 4 | [Training frequency](#trainingfrequency) | 10 |
+| [Knee flexion](#kneeflexion) | 4 | [Training volume](#trainingvolume) | 10 |
+| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [Transverse (horizontal) plane](#transverseplane) | 1 |
+| [Knee travel](#kneetravel) | 11 | [Transversus abdominis](#transversusabdominis) | 9 |
+| [Lacertus fibrosus (bicipital aponeurosis)](#lacertusfibrosus) | 3 | [Trapezius](#trapezius) | 9 |
+| [Lat pulldown](#latpulldown) | 12 | [Trapezius myalgia](#trapeziusmyalgia) | 13 |
+| [Lateral epicondylalgia ("tennis elbow")](#lateralepicondylalgia) | 13 | [Triceps brachii](#tricepsbrachii) | 9 |
+| [Lateral epicondyle](#lateralepicondyle) | 3 | [Triceps brachii, lateral head](#tricepslateralhead) | 9 |
+| [Lateral raise](#lateralraise) | 12 | [Triceps brachii, long head](#tricepslonghead) | 9 |
+| [Lateral slide](#lateralslide) | 12 | [Triceps brachii, medial head](#tricepsmedialhead) | 9 |
+| [Latissimus dorsi](#latissimusdorsi) | 8 | [Triceps kickback](#tricepskickback) | 12 |
+| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Triceps pushdown (cable pushdown)](#tricepspushdown) | 12 |
+| [Leg extension](#legextension) | 12 | [Triceps surae](#tricepssurae) | 8 |
+| [Leg press](#legpress) | 12 | [Trunk extension](#trunkextension) | 5 |
+| [Lengthened partials](#lengthenedpartials) | 7 | [Trunk flexion](#trunkflexion) | 5 |
+| [Lengthened position](#lengthenedposition) | 7 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
+| [Levator scapulae](#levatorscapulae) | 9 | [Trunk rotation](#trunkrotation) | 5 |
+| [Lifting straps](#liftingstraps) | 11 | [Ulnar nerve](#ulnarnerve) | 9 |
+| [Limiting link](#limitinglink) | 10 | [Upper (descending) trapezius](#uppertrapezius) | 9 |
+| [Line of action](#lineofaction) | 2 | [Upright row](#uprightrow) | 12 |
+| [Linea alba](#lineaalba) | 3 | [Vastus intermedius](#vastusintermedius) | 8 |
+| [Load](#load) | 10 | [Vastus lateralis](#vastuslateralis) | 8 |
+| [Long thoracic nerve](#longthoracicnerve) | 8 | [Vastus medialis](#vastusmedialis) | 8 |
+| [Longissimus thoracis](#longissimusthoracis) | 8 | [Vertical pull](#verticalpull) | 11 |
+| [Lower (ascending) trapezius](#lowertrapezius) | 9 | [Volume load](#volumeload) | 10 |
+| [Lumbar compression](#lumbarcompression) | 11 | [Weightlifting belt](#weightliftingbelt) | 11 |
+| [Lumbar flexion](#lumbarflexion) | 4 | [Woodchop](#woodchop) | 12 |
+| [Lumbopelvic rhythm](#lumbopelvicrhythm) | 4 | [Wrist curl](#wristcurl) | 12 |
+| [Lunge](#lunge) | 12 | [Wrist extension](#wristextension) | 4 |
+| [Lying triceps extension ("skull crusher")](#lyingtricepsextension) | 12 | [Wrist extensors](#wristextensors) | 9 |
+| [Machine chest press](#machinechestpress) | 12 | [Wrist flexion](#wristflexion) | 4 |
+| [Mechanical tension](#mechanicaltension) | 6 | [Wrist flexors](#wristflexors) | 9 |
+| [Mechanotransduction](#mechanotransduction) | 6 | [Wrist joint](#wristjoint) | 3 |
 
 ---
 
@@ -20846,6 +21989,16 @@ Raising it together with abdominal muscle force increased the load a physical mo
 *Anatomy & Structure*
 
 **Femur (thigh bone)** — The single long bone of the thigh, running from the hip socket to the knee. Formally: the longest and strongest bone in the human body, articulating proximally with the acetabulum of the pelvis and distally at the knee. Its shaft carries a raised ridge on the back — the linea aspera — from which three of the four classical quadriceps heads originate, which is why those three heads can only ever act on the knee.
+
+## pubicramus
+*Anatomy & Structure*
+
+**Pubic ramus** — The bar of bone at the front of the pelvis, low down, that you can feel through the groin. Formally: the superior and inferior rami of the pubis, meeting the ischial ramus below to frame the obturator foramen, and joined to their opposite number at the pubic symphysis in the midline. It is the origin of every hip adductor except the ischiocondylar part of the adductor magnus, and the bone that the adductor longus tendon attaches to — which makes it the site of most groin pain in sport (Part XV §A.8).
+
+## adductortubercle
+*Anatomy & Structure*
+
+**Adductor tubercle** — A small bony bump on the inner side of the [femur](#femur), just above the knee. Formally: the prominence at the distal end of the medial supracondylar line, giving insertion to the tendon of the **ischiocondylar part of the adductor magnus**. Its position matters: a muscle running from the sitting bone to a point just above the knee, without crossing it, is built to extend the hip and nothing else (Part XV §A.6).
 
 ## tibia
 
@@ -21513,11 +22666,36 @@ That combination — very long fascicles, very small PCSA — defines it as an *
 
 **Hamstrings** — The muscle group on the back of the thigh. Formally: [biceps femoris long head](#bicepsfemorislonghead) and [short head](#bicepsfemorisshorthead), [semitendinosus](#semitendinosus) and [semimembranosus](#semimembranosus); all but the biceps femoris short head cross both the hip and the knee, producing [hip extension](#hipextension) and [knee flexion](#kneeflexion), and the short head is excluded from every hip extensor calculation in Part IV §B.4. **The group is architecturally incoherent**: [PCSA](#pcsa) spans 4.8 to 18.4 cm² and [fascicle length](#fasciclelength) 6.9 to 19.3 cm across the four, running in opposite directions, so the strongest is the shortest-fibred (Ward et al., 2009a). In a squat they act mainly as co-contractors stabilizing the knee rather than as movers, because the descent flexes both joints at once — hip flexion lengthening them at the top end while knee flexion shortens them at the bottom — and the two changes partly cancel. The cancellation is partial, not exact (Part VII §B.9). It is the mirror image of the [rectus femoris](#rectusfemoris) situation. Which of the four an exercise grows is set by which joint it moves, and that prediction has been confirmed by hypertrophy trials rather than merely inferred from activation (Part VII §B.4).
 
+## obturatornerve
+*Anatomy & Structure*
+
+**Obturator nerve** — The nerve that supplies the muscles of the inner thigh. Formally: a branch of the lumbar plexus (L2–L4) leaving the pelvis through the obturator canal to supply adductor longus, adductor brevis, gracilis, part of pectineus and the pubofemoral part of the adductor magnus — **but not** its ischiocondylar part, which the sciatic nerve supplies. Entrapment at the obturator canal causes exercise-induced medial thigh pain and weakness, and is one of the differential diagnoses for groin pain that strengthening will not fix *[consensus — no single source]*.
+
+## adductorlongus
+*Anatomy & Structure*
+
+**Adductor longus** — The cord you can feel at the top of the inner thigh when you squeeze your knees together, and **the muscle that tears**. Formally: a hip adductor arising by a **narrow tendon** from the front of the [pubis](#pubicramus) and inserting on the middle third of the linea aspera of the [femur](#femur), supplied by the [obturator nerve](#obturatornerve). The narrow proximal tendon is the point: every other muscle in the group attaches over a broad area of bone, and this one funnels into a small discrete attachment that is the commonest site of groin injury in sport (Part XV §A.8). Measured in nine cadaveric specimens, its shear modulus rose **linearly** with passive load in every region (R² 0.982–0.989), and the rate of rise tracked the reciprocal of muscle mass (Kato et al., 2022).
+
+## adductorbrevis
+*Anatomy & Structure*
+
+**Adductor brevis** — The shorter adductor lying behind the longus. Formally: a hip adductor arising from the body and inferior ramus of the [pubis](#pubicramus) and inserting on the upper linea aspera of the [femur](#femur), supplied by the [obturator nerve](#obturatornerve). It does the same job as [adductor longus](#adductorlongus) over a shorter range and is measured together with it in almost every study; in the one model that separated them, both were top-tier in the Copenhagen adduction exercise and bottom- or mid-tier in every barbell exercise tested (Collings et al., 2026).
+
+## pectineus
+*Anatomy & Structure*
+
+**Pectineus** — The small flat muscle at the very top of the inner thigh, between the hip flexors and the adductors. Formally: a quadrangular muscle arising from the pectineal line of the [pubis](#pubicramus) and inserting on the femur just below the lesser trochanter, usually supplied by the femoral nerve and often the [obturator nerve](#obturatornerve) as well; it both adducts and flexes the hip. It is **the only muscle in this group never separately measured in a training or exercise study** — though it is not invisible: imaged in 66 athletes, its volume explained **32% of the variance in sprint speed**, more than any other adductor (Martin et al., 2026).
+
+## gracilis
+*Anatomy & Structure*
+
+**Gracilis** — The long thin strap running down the innermost edge of the thigh, from the pubis all the way past the knee. Formally: a [biarticular](#biarticularmuscle) muscle arising from the body and inferior ramus of the [pubis](#pubicramus) and inserting on the medial tibia at the **pes anserinus**, supplied by the [obturator nerve](#obturatornerve); it adducts the hip and flexes and internally rotates the knee. **It is the only adductor that crosses the knee**, and one of the three longest-excursion muscles measured anywhere in the lower limb, alongside sartorius and semitendinosus (Ward et al., 2009a). In the one model that ranked it, the deadlift and sumo deadlift loaded it most (Collings et al., 2026).
+
 ## hipadductors
 
 *Anatomy & Structure*
 
-**Hip adductors** — The muscle group on the inside of the thigh that pulls the leg toward the midline. Formally: adductor magnus, longus and brevis, pectineus and gracilis, originating on the pubis and ischium and inserting along the medial femur; adductor magnus in particular is a powerful hip extensor from a flexed hip. They grow substantially from deep squatting (Kubo et al., 2019), which is one reason deep squats produce more total lower-limb development than shallow ones without producing proportionally more quadriceps.
+**Hip adductors** — The muscle group on the inside of the thigh that pulls the leg toward the midline, and a great deal more. Formally: adductor magnus, [longus](#adductorlongus) and [brevis](#adductorbrevis), [pectineus](#pectineus) and [gracilis](#gracilis), originating on the [pubic ramus](#pubicramus) and ischium and inserting along the medial [femur](#femur), supplied by the [obturator nerve](#obturatornerve) except the ischiocondylar adductor magnus. **The adductor magnus alone is the third-largest muscle in the lower limb by in-vivo volume, and the five together outweigh the gluteus maximus** (Martin et al., 2026) — though the group is lopsided, the magnus making up about 60% of it. The group does two separable jobs (Part XV §B.4): adduction, which nothing in a barbell programme loads, and hip extension by the adductor magnus, which every squat and deadlift loads. They grew **6.2% in ten weeks of full squatting against 2.7% of half squatting** (Kubo et al., 2019), and adductor growth favoured the squat over the hip thrust by 2.5 cm² of cross-section (Plotkin et al., 2023) — so squat depth and hip-extension loading, rather than anything called adduction, are what build them. **Widening your stance does not help:** hip adductor net joint moment was unchanged across narrow, medium and wide squat stances (Hopkins et al., 2024).
 
 ## gastrocnemius
 
@@ -21563,7 +22741,7 @@ That combination — very long fascicles, very small PCSA — defines it as an *
 
 *Anatomy & Structure*
 
-**Adductor magnus** — The largest muscle of the inner thigh, whose rear portion behaves like a hamstring. Formally: a large triangular muscle arising from the inferior pubic ramus and the [ischial tuberosity](#ischialtuberosity) and inserting along the linea aspera of the [femur](#femur) and at the adductor tubercle; its posterior, ischiocondylar part shares the hamstrings' origin and produces [hip extension](#hipextension), particularly from a flexed hip. With a [PCSA](#pcsa) of 20.5 cm² (Ward et al., 2009a) it adds about 30% again to the hip extensor group, and it grew 6.2% in ten weeks of full squatting (Kubo et al., 2019) — which is a large part of why a deep squat is not a pure gluteal exercise.
+**Adductor magnus** — The largest muscle of the inner thigh, whose rear portion behaves like a hamstring. Formally: a large triangular muscle arising from the inferior pubic ramus and the [ischial tuberosity](#ischialtuberosity) and inserting along the linea aspera of the [femur](#femur) and at the adductor tubercle; its posterior, ischiocondylar part shares the hamstrings' origin and produces [hip extension](#hipextension), particularly from a flexed hip. With a [PCSA](#pcsa) of 20.5 cm² (Ward et al., 2009a) it adds about 30% again to the hip extensor group — **more cross-section than any single hamstring** — and the group it belongs to grew 6.2% in ten weeks of full squatting (Kubo et al., 2019), which is a large part of why a deep squat is not a pure gluteal exercise. **Treat it as two muscles.** The pubofemoral part is an adductor on the [obturator nerve](#obturatornerve); the ischiocondylar part runs from the ischial tuberosity to the [adductor tubercle](#adductortubercle) on the **sciatic** nerve, does **not** cross the knee, and is a hip extensor with no escape route. Modelled across eight exercises, the deadlift, sumo deadlift, step-up and squat were top-tier for the ischiocondylar part and bottom- or mid-tier for the pubofemoral part (Collings et al., 2026); and measured directly, **twelve weeks of leg pressing grew it 6.2% while knee extension in the same people grew it not at all** (Kinoshita et al., 2026).
 
 ## iliocostalislumborum
 
@@ -21725,7 +22903,7 @@ That combination — very long fascicles, very small PCSA — defines it as an *
 ## scapularmuscles
 *Anatomy & Structure*
 
-**Scapular (scapulothoracic) muscles** — The group of muscles that hold the shoulder blade on the ribcage and move it: [upper](#uppertrapezius), [middle](#middletrapezius) and [lower trapezius](#lowertrapezius), the [rhomboids](#rhomboids), the [levator scapulae](#levatorscapulae) and the [serratus anterior](#serratusanterior), with [pectoralis minor](#pectoralisminor) attaching at the coracoid. Formally: the muscles crossing the [scapulothoracic articulation](#scapulothoracicarticulation), which is not a joint — so the group has **no resistance profiles**, and moment arms for it exist only inside models that impose an axis on the sliding contact (Seth et al., 2019). Architecture is known from one complete single-cadaver dissection, in which the **serratus anterior had the largest [PCSA](#pcsa) of any muscle in that shoulder at 22.2 cm² and the two rhomboids together only 5.6 cm²** (Ruggiero et al., 2016), and cross-sections alone from both shoulders of seven cadavers (Veeger et al., 1991). They are loaded by everything done with the arms and trained deliberately by almost nobody, and size has been tracked through a training programme for the [trapezius](#trapezius) only (Rønnestad et al., 2007; see Part XIII §A.5).
+**Scapular (scapulothoracic) muscles** — The group of muscles that hold the shoulder blade on the ribcage and move it: [upper](#uppertrapezius), [middle](#middletrapezius) and [lower trapezius](#lowertrapezius), the [rhomboids](#rhomboids), the [levator scapulae](#levatorscapulae) and the [serratus anterior](#serratusanterior), with [pectoralis minor](#pectoralisminor) attaching at the coracoid. Formally: the muscles crossing the [scapulothoracic articulation](#scapulothoracicarticulation), which is not a joint — so the group has **no resistance profiles**, and moment arms for it exist only inside models that impose an axis on the sliding contact (Seth et al., 2019). Architecture is known from one complete single-cadaver dissection, in which the **serratus anterior had the largest [PCSA](#pcsa) of any muscle in that shoulder at 22.2 cm² and the two rhomboids together only 5.6 cm²** (Ruggiero et al., 2016), and cross-sections alone from both shoulders of seven cadavers (Veeger et al., 1991). They are loaded by everything done with the arms and trained deliberately by almost nobody, and size has been tracked through a training programme for the [trapezius](#trapezius) only (Rønnestad et al., 2007), as Part XIII §A.5 sets out.
 
 ## radialnerve
 
@@ -22284,6 +23462,11 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Lifting straps** — Fabric loops wrapped around the wrist and the bar so the load hangs on the strap rather than on the fingers. Formally: a grip aid that transfers part of the holding force from [finger flexion](#fingerflexion) to the wrist and the strap, removing the hand as the [limiting link](#limitinglink). Measured in ten resistance-trained women, straps allowed **significantly more repetitions** at 80% of deadlift 1RM with **no change in mean or peak bar velocity** (Trahey et al., 2023). A review of the wider literature found they can raise maximal strength and grip perception but that **no consistent effects have been observed for pulling and back exercises** (Martins et al., 2026). **Whether habitual use blunts long-term grip development has never been tested.**
 
+## adductorloadingmode
+*Exercises & Technique*
+
+**Adductor loading mode (adduction-loaded, extension-loaded, unloaded)** — Which of two jobs an exercise asks the inner thigh to do. Formally: decide it from one repetition as prescribed, by asking what the external load is trying to do to the working thigh. **Pulling it away from the midline** is *adduction-loaded*, resisted by **all five** adductors — [longus](#adductorlongus), [brevis](#adductorbrevis), [gracilis](#gracilis), [pectineus](#pectineus) and the [magnus](#adductormagnus). **Folding the hip while the foot is planted** is *extension-loaded*, resisted by the ischiocondylar part of the adductor magnus alone. Anything else is *unloaded*; holding the thigh against a sideways pull without moving is the first mode performed isometrically, not a third mode. **Then check the angle:** adduction torque is about 18% lower at 90° of [hip flexion](#hipflexion) than at 0° or 45°, which do not differ (Marušič et al., 2025); and the adductor magnus's extension moment arm grows from about 15 mm at a straight hip to a peak near 75° (Németh & Ohlsén, 1985), so **depth is the variable** for extension work (Kubo et al., 2019). **Why it exists, and the asymmetry runs one way:** extension work reaches the magnus and largely misses longus and brevis — twelve weeks of leg pressing grew the magnus 6.2% while knee extension grew it not at all (Kinoshita et al., 2026) — whereas adduction work reaches all five (Collings et al., 2026). **Caveats:** the mode is derived in this document from the direction of the load; no study has trained one mode and tested transfer to the other; it says nothing about the hip **flexion** role of longus and brevis, which is how they are loaded in sprinting and kicking; and moment-arm data for the individual adductors are largely absent from the literature.
+
 ## weightliftingbelt
 
 *Exercises & Technique*
@@ -22491,6 +23674,21 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 *Exercises & Technique*
 
 **Seated hip abduction machine** — A seated machine that resists pushing the knees apart. Formally: a loaded [hip abduction](#hipabduction) exercise performed with the hip flexed and the trunk supported, resisting at the distal thigh. It is the only abduction exercise with a load ceiling high enough to progress like any other lift, which is its entire justification; leaning the torso forward biases the posterior fibres of the [gluteus medius](#gluteusmedius), sitting upright biases the anterior fibres.
+
+## copenhagenadduction
+*Exercises & Technique*
+
+**Copenhagen adduction exercise** — A side-lying exercise in which the top leg rests on a bench and the body is lifted into a straight line, so the top leg's adductors hold the whole body up. Formally: an [adduction-loaded](#adductorloadingmode) body-weight exercise performed with the hip near neutral, loaded by **lever length** — the support under the knee for the short lever, under the foot for the long one. **It is the most-studied single exercise in Part XV.** Eight weeks of it in-season raised eccentric hip adduction strength **35.7% within the training group** against no change in controls (Ishøi et al., 2016); added to an existing warm-up the **between-group** effect was **+8.9%** (Harøy et al., 2017); and one exercise performed three times a week in preseason and once a week across a season cut the prevalence of self-reported groin problems from 21.3% to 13.5% — **41% lower odds** (OR 0.59, 95% CI 0.40–0.86) — across 35 football teams (Harøy et al., 2019a). In modelled muscle force it was **tier 1 for every adductor muscle** (Collings et al., 2026); measured as joint torque it produced **less** peak eccentric torque than any purpose-built dynamometer exercise, 121.9 N·m at long lever against 81.5 at short (Marušič et al., 2026). **Moderate evidence for prevention**, not more: a later prospective cohort of 162 rink-hockey players found **no association** between monthly sessions and groin problems (Quintana-Cepedal et al., 2026), and a scoping review of 19 trials concluded that the exercise alone shows limited preventive effect (Saito et al., 2025). **For size it is Contested** — +17.8–18.4% of adductor thickness in one randomized trial, fully reversed by four weeks of detraining (Alonso-Fernández et al., 2022), and no effect over control in another (Alonso-Calvete et al., 2021).
+
+## hipadductionmachine
+*Exercises & Technique*
+
+**Hip adduction machine** — A seated machine with pads on the inner knees, squeezed together against a weight stack. Formally: an [adduction-loaded](#adductorloadingmode) exercise with a near-constant [resistance profile](#resistanceprofile) and small load increments, performed with the hip flexed to roughly 90° — the angle at which adduction torque is significantly **lower** than near straight (Marušič et al., 2025). **It has no force ranking, no strength trial and no size trial of any kind**, and it is used at roughly the hip angle where adduction torque is weakest. It is reasonable by mode and is not a substitute for the [Copenhagen adduction exercise](#copenhagenadduction), to which all of the training evidence belongs (Part XV §D.2).
+
+## lateralslide
+*Exercises & Technique*
+
+**Lateral slide** — Sliding one foot out sideways on a low-friction surface and pulling it back under the body. Formally: a combined [adduction-loaded](#adductorloadingmode) and control exercise in which the returning leg's adductors decelerate and reverse the slide. It was **tier 2 for all five adductor muscles** in the one model that ranked it — never the best option for any of them and never a poor one (Collings et al., 2026).
 
 ## calfraise
 *Exercises & Technique*
@@ -22903,6 +24101,16 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Finger pulley injury** — A pop felt in a finger during a hard hold, followed by pain and swelling at the base of that finger. Formally: partial or complete rupture of an [annular pulley](#annularpulley), most often A2, allowing the flexor tendon to bowstring away from the bone; classically produced from a crimped position, where the bent middle knuckle raises the force the pulley must contain. Across 45 rock-climbing studies, pulley injuries were frequent in both sport climbing and bouldering, and fingers and hands were among the most injured regions (Vagy et al., 2026). On taping — the standard self-treatment — a systematic review found evidence of **low to moderate certainty** (Larsson et al., 2022). **Evidence remains limited and inconsistent.**
 
+## adductorrelatedgroinpain
+*Pathology & Clinical*
+
+**Adductor-related groin pain** — Persistent pain at the top of the inner thigh where the tendon meets the pubic bone, provoked by squeezing the knees together and by sprinting, kicking and changing direction. Formally: load-related pain localized to the [adductor longus](#adductorlongus) origin on the [pubic ramus](#pubicramus), and **the most frequently reported subtype of athletic groin pain** (Larkins et al., 2026). The recurring risk factors across eight retrospective cohorts and 4,249 male athletes were **previous groin injury, reduced eccentric hip adduction strength, limited hip rotation and inadequate preseason conditioning** (Martins et al., 2025), with an adduction-to-abduction strength imbalance added by clinical review. **Evidence remains limited and inconsistent** on the individual risk factors. The prevention evidence is better but not settled: one cluster-randomized trial put the odds of groin problems **41% lower** with a single exercise across 35 football teams (Harøy et al., 2019a), while a later prospective cohort found **no association** between that exercise's dose and groin problems (Quintana-Cepedal et al., 2026). **Moderate evidence.**
+
+## adductorstrain
+*Pathology & Clinical*
+
+**Adductor strain** — A sudden tearing sensation at the top of the inner thigh during a sprint, a kick or a hard change of direction. Formally: an acute muscle–tendon injury of the hip adductors, most often the [adductor longus](#adductorlongus) at or near its narrow proximal tendon. **One diagnostic trap is worth knowing:** the adductor magnus's tendon footprint sits only **8.5 ± 4.2 mm** from the hamstrings' on the [ischial tuberosity](#ischialtuberosity) (Obey et al., 2016), so imaging for a suspected proximal hamstring avulsion can pick up the adductor magnus instead. The [Copenhagen adduction exercise](#copenhagenadduction) is a **prevention** exercise, not a treatment for an acute strain (Part XV §E.4).
+
 ## achillestendinopathy
 *Pathology & Clinical*
 
@@ -22933,16 +24141,16 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 ---
 
-# partxvibibliography
+# partxviibibliography
 
-**Part XVI — Bibliography**
+**Part XVII — Bibliography**
 
-Every source cited in this document: **635 papers**, each with a DOI you can paste into a search box
+Every source cited in this document: **657 papers**, each with a DOI you can paste into a search box
 or a library request form — with nine exceptions, noted at their entries: eight for which no DOI was ever
 issued and a PubMed or PubMed Central identifier is given instead, and one master's thesis that has neither. Alphabetical by first author, so an in-text citation like
 *(Gerling & Brown, 2013)* is found by scanning for **Gerling**.
 
-**309 are open access** — free to read now. **326 are paywalled**; any university or public library can
+**322 are open access** — free to read now. **335 are paywalled**; any university or public library can
 obtain those through interlibrary loan at no cost, usually in a few days, and authors may legally
 share their own accepted manuscripts if you email them. Every DOI below was verified against
 Crossref, and open-access status against Unpaywall, at the time of writing.
@@ -22954,7 +24162,7 @@ discussion, the text says so at the claim itself — that context matters more t
 marks claims that could not be traced to a source we could read; they are flagged rather than quietly
 dropped. **Twenty-two of these papers measured the latissimus dorsi directly, twenty-eight measured the
 quadriceps femoris directly, thirty-eight measured a gluteal muscle directly, twenty-one measured a
-deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, twenty-nine measured a hamstring directly, thirty-one measured a pectoral muscle directly, at least seventy-six measured the triceps brachii or its tendon directly, at least ninety-two measured the erector spinae, the multifidus or the lumbar extensors directly, at least thirty-eight measured the biceps brachii, the brachialis or the elbow flexors as a group directly, at least twenty-four measured the gastrocnemius, the soleus or the Achilles tendon directly, at least thirty-five measured the trapezius, the serratus anterior or another scapular muscle directly, and at least thirty measured a forearm muscle, the grip or the finger flexors directly**; the rest supply general training principles or the mechanical
+deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, twenty-nine measured a hamstring directly, thirty-one measured a pectoral muscle directly, at least seventy-six measured the triceps brachii or its tendon directly, at least ninety-two measured the erector spinae, the multifidus or the lumbar extensors directly, at least thirty-eight measured the biceps brachii, the brachialis or the elbow flexors as a group directly, at least twenty-four measured the gastrocnemius, the soleus or the Achilles tendon directly, at least thirty-five measured the trapezius, the serratus anterior or another scapular muscle directly, at least thirty measured a forearm muscle, the grip or the finger flexors directly, and at least twenty measured a hip adductor directly**; the rest supply general training principles or the mechanical
 framework. Where a paper's own research group has been
 the subject of a published data-integrity analysis, its entry says so. Where two or more papers by the same first author share a year, the bibliography entry
 records the `a`/`b`/`c` suffix used in the text.
@@ -22989,7 +24197,11 @@ Akima H, Maeda H, Koike T, Ishida K. Effect of elbow joint angles on electromyog
 
 Albarello JCDS, Cabral HV, Leitão BFM, Halmenschlager GH, Lulic-Kuryllo T, Matta TT. Non-uniform excitation of pectoralis major induced by changes in bench press inclination leads to uneven variations in the cross-sectional area measured by panoramic ultrasonography. Journal of Electromyography and Kinesiology. 2022;67:102722. doi:10.1016/j.jelekin.2022.102722 · *paywalled*
 
+Alonso-Calvete A, Lorenzo-Martínez M, Padrón-Cabo A, Rey E. Effects of Copenhagen Adduction Exercise on the Architectural Characteristics of Adductors in U-17 Male Soccer Players: A Randomized Controlled Trial. International Journal of Environmental Research and Public Health. 2021;18(24):12956. doi:10.3390/ijerph182412956 · **open access**
+
 Alonso-Fernández D, Fernández-Rodríguez R, Abalo-Núñez R. Changes in rectus femoris architecture induced by the reverse nordic hamstring exercises. The Journal of Sports Medicine and Physical Fitness. 2019;59(4):640-647. doi:10.23736/S0022-4707.18.08873-4 · **open access**
+
+Alonso-Fernández D, Fernández-Rodríguez R, Taboada-Iglesias Y, Gutiérrez-Sánchez Á. Effects of Copenhagen Adduction Exercise on Muscle Architecture and Adductor Flexibility. International Journal of Environmental Research and Public Health. 2022;19(11):6563. doi:10.3390/ijerph19116563 · **open access**
 
 Alves D, Matta T, Oliveira L. Effect of shoulder position on triceps brachii heads activity in dumbbell elbow extension exercises. The Journal of Sports Medicine and Physical Fitness. 2018;58(9):1247-1252. doi:10.23736/S0022-4707.17.06849-9 · *paywalled*
 
@@ -23177,6 +24389,8 @@ Collings TJ, Bourne MN, Barrett RS, Meinders E, Gonçalves B, Shield AJ, et al. 
 
 Collings TJ, Bourne MN, Barrett RS, Meinders E, Gonçalves BAM, Shield AJ, et al. Gluteal Muscle Forces during Hip-Focused Injury Prevention and Rehabilitation Exercises. Medicine & Science in Sports & Exercise. 2023;55(4):650-660. doi:10.1249/MSS.0000000000003091 · **open access**
 
+Collings TJ, Horsman A, Hams AH, McGill A, Watts D, Hambly MJ, et al. Hip Adductor Muscle Forces during Strength Training and Rehabilitation Exercises. Medicine & Science in Sports & Exercise. 2026;58(8):1751-1763. doi:10.1249/mss.0000000000004002 · *paywalled*
+
 Colloca CJ, Hinrichs RN. The Biomechanical and Clinical Significance of the Lumbar Erector Spinae Flexion-Relaxation Phenomenon: A Review of Literature. Journal of Manipulative and Physiological Therapeutics. 2005;28(8):623-631. doi:10.1016/j.jmpt.2005.08.005 · *paywalled*
 
 Contreras B, Cronin JB, Schoenfeld BJ, Nates RJ, Tiryaki Sonmez G. Are All Hip Extension Exercises Created Equal? Strength & Conditioning Journal. 2013;35(2):17-22. doi:10.1519/SSC.0b013e318289fffd · *paywalled*
@@ -23292,6 +24506,8 @@ Escamilla RF, Fleisig GS, Zheng N, Barrentine SW, Wilk KE, Andrews JR. Biomechan
 Escamilla RF, Fleisig GS, Zheng N, Lander JE, Barrentine SW, Andrews JR, et al. Effects of technique variations on knee biomechanics during the squat and leg press [cited as Escamilla et al., 2001b]. Medicine & Science in Sports & Exercise. 2001;33(9):1552-1566. doi:10.1097/00005768-200109000-00020 · *paywalled*
 
 Escamilla RF, Francisco AC, Fleisig GS, Barrentine SW, Welch CM, Kayes AV, et al. A three-dimensional biomechanical analysis of sumo and conventional style deadlifts. Medicine & Science in Sports & Exercise. 2000;32(7):1265-1275. doi:10.1097/00005768-200007000-00013 · *paywalled*
+
+Escamilla RF, Francisco AC, Kayes AV, Speer KP, Moorman CT. An electromyographic analysis of sumo and conventional style deadlifts. Medicine & Science in Sports & Exercise. 2002;34(4):682-688. doi:10.1097/00005768-200204000-00019 · *paywalled*
 
 Escamilla RF. Knee biomechanics of the dynamic squat exercise. Medicine & Science in Sports & Exercise. 2001;33(1):127-141. doi:10.1097/00005768-200101000-00020 · *paywalled*
 
@@ -23413,6 +24629,12 @@ Harper CM, Sylvester AD, Kramer PA. Implications of variability in triceps surae
 
 Hartmann H, Wirth K, Klusemann M. Analysis of the Load on the Knee Joint and Vertebral Column with Changes in Squatting Depth and Weight Load. Sports Medicine. 2013;43(10):993-1008. doi:10.1007/s40279-013-0073-6 · *paywalled*
 
+Harøy J, Clarsen B, Wiger EG, Øyen MG, Serner A, Thorborg K, et al. The Adductor Strengthening Programme prevents groin problems among male football players: a cluster-randomised controlled trial. British Journal of Sports Medicine. 2019;53(3):150-157. doi:10.1136/bjsports-2017-098937 · *paywalled*
+
+Harøy J, Thorborg K, Serner A, Bjørkheim A, Rolstad LE, Hölmich P, et al. Including the Copenhagen Adduction Exercise in the FIFA 11+ Provides Missing Eccentric Hip Adduction Strength Effect in Male Soccer Players: A Randomized Controlled Trial. The American Journal of Sports Medicine. 2017;45(13):3052-3059. doi:10.1177/0363546517720194 · **open access**
+
+Harøy J, Wiger EG, Bahr R, Andersen TE. Implementation of the Adductor Strengthening Programme: Players primed for adoption but reluctant to maintain — a cross-sectional study [cited as Harøy et al., 2019b]. Scandinavian Journal of Medicine & Science in Sports. 2019;29(8):1092-1100. doi:10.1111/sms.13444 · **open access**
+
 Havers T, Micke F, Geisler S, Held S. Acute and Chronic Effects of Drop-Set Training: A Meta-Analysis and Systematic Review. Sports Medicine - Open. 2026;12(1):38. doi:10.1186/s40798-026-01012-1 · **open access**
 
 Havers T, Wagner N, Held S, Geisler S, Wiewelhove T. Partial Range, Full Gains? The Effect of 8 Weeks of Partial Range of Motion Training at Long Muscle Lengths on Elbow Flexor Hypertrophy and Strength in Trained Individuals. European Journal of Sport Science. 2025;25(12):e70087. doi:10.1002/ejsc.70087 · **open access**
@@ -23469,6 +24691,8 @@ Inman VT, Saunders JB, Abbott LC. Observations of the Function of the Shoulder J
 
 Intziegianni K, Katsamis E, Michaelides M, Parpa K. Electromyographic Activation of the Pectoralis Major and Triceps Brachii Muscles During Standard, Diamond, and Wide Hand Position Push-Ups. Muscles. 2026;5(1):18. doi:10.3390/muscles5010018 · **open access**
 
+Ishøi L, Sørensen CN, Kaae NM, Jørgensen LB, Hölmich P, Serner A. Large eccentric strength increase using the Copenhagen Adduction exercise in football: A randomized controlled trial. Scandinavian Journal of Medicine & Science in Sports. 2016;26(11):1334-1342. doi:10.1111/sms.12585 · *paywalled*
+
 Iwai K, Koyama K, Okada T, Nakazato K, Takahashi R, Matsumoto S, et al. Asymmetrical and smaller size of trunk muscles in combat sports athletes with lumbar intervertebral disc degeneration. SpringerPlus. 2016;5(1):1474. doi:10.1186/s40064-016-3155-8 · **open access**
 
 Jaschke M, Rekawek K, Sokolowski S, Kolodziej L. Distal biceps tendon rupture: a comprehensive overview. EFORT Open Reviews. 2023;8(11):865-873. doi:10.1530/eor-23-0035 · **open access**
@@ -23517,6 +24741,8 @@ Kassiano W, Santos-Melo V, Manske I, Lisboa F, Miguel A, Gomes F, et al. Progres
 
 Kataoka R, Yamada Y, Hammert WB, Sallberg RW, Kang A, Song JS, et al. Skeletal Muscles Do Not Compete for Growth: Activating Additional Muscle Mass Does Not Compromise Changes in Muscle Size. Journal of Strength & Conditioning Research. 2026;40(9):1043-1049. doi:10.1519/jsc.0000000000005439 · *paywalled*
 
+Kato T, Taniguchi K, Kodesho T, Nakao G, Yokoyama Y, Saito Y, et al. Adductor longus: An anatomical study to better understand groin pain. Clinical Anatomy. 2022;35(7):867-872. doi:10.1002/ca.23881 · *paywalled*
+
 Kavcic N, Grenier S, McGill SM. Quantifying Tissue Loads and Spine Stability While Performing Commonly Prescribed Low Back Stabilization Exercises. Spine. 2004;29(20):2319-2329. doi:10.1097/01.brs.0000142222.62203.67 · *paywalled*
 
 Kawakami Y, Abe T, Fukunaga T. Muscle-fiber pennation angles are greater in hypertrophied than in normal muscles. Journal of Applied Physiology. 1993;74(6):2740-2744. doi:10.1152/jappl.1993.74.6.2740 · *paywalled*
@@ -23542,6 +24768,8 @@ Kim D, Woo J, Lee S, Jung J, Lee D, Hong J, et al. Effects of Mind–Muscle Conn
 Kim YS, Kim DY, Ha MS. Effect of the push-up exercise at different palmar width on muscle activities. Journal of Physical Therapy Science. 2016;28(2):446-449. doi:10.1589/jpts.28.446 · **open access**
 
 Kingma I, Faber GS, Suwarganda EK, Bruijnen TBM, Peters RJA, van Dieën JH. Effect of a Stiff Lifting Belt on Spine Compression During Lifting. Spine. 2006;31(22):E833-E839. doi:10.1097/01.brs.0000240670.50834.77 · *paywalled*
+
+Kinoshita M, Maeo S, Kobayashi Y, Eihara Y, Nishizawa N, Kusagawa Y, et al. Hypertrophic Effects of Single- versus Multi-Joint Exercise: A Direct Comparison between Knee Extension and Leg Press. Medicine & Science in Sports & Exercise. 2026;58(7):1566-1580. doi:10.1249/mss.0000000000003957 · **open access**
 
 Kinoshita M, Maeo S, Kobayashi Y, Eihara Y, Ono M, Sato M, et al. Triceps surae muscle hypertrophy is greater after standing versus seated calf-raise training. Frontiers in Physiology. 2023;14:1272106. doi:10.3389/fphys.2023.1272106 · **open access**
 
@@ -23594,6 +24822,8 @@ Landin D, Thompson M. The shoulder extension function of the triceps brachii. Jo
 Langenderfer J, Jerabek SA, Thangamani VB, Kuhn JE, Hughes RE. Musculoskeletal parameters of muscles crossing the shoulder and elbow and the effect of sarcomere length sample size on estimation of optimal muscle length. Clinical Biomechanics. 2004;19(7):664-670. doi:10.1016/j.clinbiomech.2004.04.009 · *paywalled*
 
 Lanza MB, Prado GC, Lacerda LT, Dinardi RR, Carvalho Junior LH, Diniz RC, et al. Muscle hypertrophy response across four muscles involved in the bench press exercise: Randomized 10 weeks training intervention. Journal of Bodywork and Movement Therapies. 2024;40:1417-1422. doi:10.1016/j.jbmt.2024.07.054 · *paywalled*
+
+Larkins D, Rowland R, Zarro M, Addison O. Adductor-Related Athletic Groin Pain: A Clinical Commentary. International Journal of Sports Physical Therapy. 2026;21(9):890-905. doi:10.26603/001c.167118 · **open access**
 
 Larsen S, Gomo O, van den Tillaar R. A Biomechanical Analysis of Wide, Medium, and Narrow Grip Width Effects on Kinematics, Horizontal Kinetics, and Muscle Activity on the Sticking Region in Recreationally Trained Males. Frontiers in Sports and Active Living. 2020;2:637066. doi:10.3389/fspor.2020.637066 · **open access**
 
@@ -23711,6 +24941,8 @@ Marchetti PH, Cook K, Neely RC, Martinez VG, Lhanre L, Awakimian S, et al. Seate
 
 Marchetti PH, Uchida MC. Effects of the Pullover Exercise on the Pectoralis Major and Latissimus Dorsi Muscles as Evaluated by EMG. Journal of Applied Biomechanics. 2011;27(4):380-384. doi:10.1123/jab.27.4.380 · *paywalled*
 
+Martin JA, Joachim MR, Blemker SS, Opar DA, Mortensen B, Heiderscheit BC, et al. Lower-Body Muscle Volumes Can Explain Half of the Variance in Sprint Speed Between Collegiate American Football Players. Scandinavian Journal of Medicine & Science in Sports. 2026;36(4):e70283. doi:10.1111/sms.70283 · **open access**
+
 Martín-Fuentes I, Oliva-Lozano JM, Muyor JM. Electromyographic activity in deadlift exercise and its variants. A systematic review. PLOS ONE. 2020;15(2):e0229507. doi:10.1371/journal.pone.0229507 · **open access**
 
 Martín-San Agustín R, Castillo-Ballesta L, Esbri-Navarro R, Garvín JH. Comparison of Architectural and Performance Adaptations of Hip Extension Exercise Under Gravitational or Inertial Loading Conditions: A Randomized Controlled Trial. European Journal of Sport Science. 2025;25(10):e70048. doi:10.1002/ejsc.70048 · **open access**
@@ -23720,6 +24952,12 @@ Martínez-Cava A, Hernández-Belmonte A, Courel-Ibáñez J, Morán-Navarro R, Go
 Martins J, Tucci HT, Andrade R, Araújo RC, Bevilaqua-Grossi D, Oliveira AS. Electromyographic Amplitude Ratio of Serratus Anterior and Upper Trapezius Muscles During Modified Push-Ups and Bench Press Exercises. Journal of Strength and Conditioning Research. 2008;22(2):477-484. doi:10.1519/jsc.0b013e3181660748 · *paywalled*
 
 Martins R, Rosa M, Padovan R, Sá M, Antunes JP, Afonso J, et al. Are Lifting Straps a Game Changer for Resistance Training or an Overrated Tool? An Exploratory Review of Current Evidence and Future Research Directions. International Journal of Sports Physiology and Performance. 2026;21(3):342-349. doi:10.1123/ijspp.2025-0296 · **open access**
+
+Martins TB, Martins TB, Migliorini F, Maffulli N, Okubo R. Risk Factors Associated with Groin Pain in Athletes: A Systematic Review. Life. 2025;15(11):1688. doi:10.3390/life15111688 · **open access**
+
+Marušič J, Cvjetičanin O, Šarabon N. Joint torque and electromyographic activity during eccentric exercise for hip adductors at different hip flexion angles. PLOS One. 2025;20(11):e0336699. doi:10.1371/journal.pone.0336699 · **open access**
+
+Marušič J, Cvjetičanin O, Supej M, Babič J, Šarabon N. Biomechanics of Copenhagen Adduction Exercise and Eccentric Hip Adductor Exercises on a Novel Isokinetic Dynamometer With Within-Session Repeatability. Scandinavian Journal of Medicine & Science in Sports. 2026;36(9):e70365. doi:10.1111/sms.70365 · **open access**
 
 Masaki M, Ji X, Yamauchi T, Tateuchi H, Ichihashi N. Effects of the trunk position on muscle stiffness that reflects elongation of the lumbar erector spinae and multifidus muscles: an ultrasonic shear wave elastography study. European Journal of Applied Physiology. 2019;119(5):1085-1091. doi:10.1007/s00421-019-04098-6 · **open access**
 
@@ -23740,6 +24978,8 @@ Mayer JM, Verna JL, Manini TM, Mooney V, Graves JE. Electromyographic activity o
 McAllister MJ, Schilling BK, Hammond KG, Weiss LW, Farney TM. Effect of Grip Width on Electromyographic Activity During the Upright Row. Journal of Strength and Conditioning Research. 2013;27(1):181-187. doi:10.1519/jsc.0b013e31824f23ad · *paywalled*
 
 McBride S, Isabelle PL, Gómez-Carrión Á, Farahpour N, Chicoine D, Griffiths I, et al. International normative values for the weight-bearing lunge test across age and sex in 899 healthy adults. Musculoskeletal Science and Practice. 2026;82:103525. doi:10.1016/j.msksp.2026.103525 · **open access**
+
+McCaw ST, Melrose DR. Stance width and bar load effects on leg muscle activity during the parallel squat. Medicine & Science in Sports & Exercise. 1999;31(3):428-436. doi:10.1097/00005768-199903000-00012 · *paywalled*
 
 McClure PW, Michener LA, Sennett BJ, Karduna AR. Direct 3-dimensional measurement of scapular kinematics during dynamic movements in vivo. Journal of Shoulder and Elbow Surgery. 2001;10(3):269-277. doi:10.1067/mse.2001.112954 · *paywalled*
 
@@ -23839,6 +25079,8 @@ O'Connell DG, Cooper KA, Richeson SM, Moeller MB, Stephens JW, Key DJ. The effec
 
 O'Driscoll SW, Horii E, Ness R, Cahalan TD, Richards RR, An KN. The relationship between wrist position, grasp size, and grip strength. The Journal of Hand Surgery. 1992;17(1):169-177. doi:10.1016/0363-5023(92)90136-d · *paywalled*
 
+Obey MR, Broski SM, Spinner RJ, Collins MS, Krych AJ. Anatomy of the Adductor Magnus Origin: Implications for Proximal Hamstring Injuries. Orthopaedic Journal of Sports Medicine. 2016;4(1):2325967115625055. doi:10.1177/2325967115625055 · **open access**
+
 Ogasawara R, Loenneke JP, Thiebaud RS, Abe T. Low-Load Bench Press Training to Fatigue Results in Muscle Hypertrophy Similar to High-Load Bench Press Training [cited as Ogasawara et al., 2013a]. International Journal of Clinical Medicine. 2013;4(2):114-121. doi:10.4236/ijcm.2013.42022 · **open access**
 
 Ogasawara R, Thiebaud RS, Loenneke JP, Loftin M, Abe T. Time course for arm and chest muscle thickness changes following bench press training. Interventional Medicine and Applied Science. 2012;4(4):217-220. doi:10.1556/IMAS.4.2012.4.7 · **open access**
@@ -23913,6 +25155,8 @@ Pinto MD, Ughini C, Nunes JP, Cadore EL, Pinto RS. Pectoralis Clavicular and Ste
 
 Pinto RS, Gomes N, Radaelli R, Botton CE, Brown LE, Bottaro M. Effect of Range of Motion on Muscle Strength and Thickness. Journal of Strength and Conditioning Research. 2012;26(8):2140-2145. doi:10.1519/jsc.0b013e31823a3b15 · *paywalled*
 
+Pippas C, Gioftsos G, Korakakis V, Serner A. Strength effects of the Copenhagen adduction exercise vs an adductor squeeze exercise in male football players – A randomized controlled trial. Science and Medicine in Football. 2025;9(4):382-391. doi:10.1080/24733938.2024.2419659 · *paywalled*
+
 Pizzari T, Wickham J, Balster S, Ganderton C, Watson L. Modifying a shrug exercise can facilitate the upward rotator muscles of the scapula. Clinical Biomechanics. 2014;29(2):201-205. doi:10.1016/j.clinbiomech.2013.11.011 · *paywalled*
 
 Plamondon A, Serresse O, Boyd K, Ladouceur D, Desjardins P. Estimated moments at L5/S1 level and muscular activation of back extensors for six prone back extension exercises in healthy individuals. Scandinavian Journal of Medicine & Science in Sports. 2002;12(2):81-89. doi:10.1034/j.1600-0838.2002.120204.x · **open access**
@@ -23934,6 +25178,12 @@ Pratt J, Hoffman A, Grainger A, Ditroilo M. Forearm electromyographic activity d
 Prieske O, Muehlbauer T, Granacher U. The Role of Trunk Muscle Strength for Physical Fitness and Athletic Performance in Trained Individuals: A Systematic Review and Meta-Analysis. Sports Medicine. 2016;46(3):401-419. doi:10.1007/s40279-015-0426-4 · *paywalled*
 
 Psilander N, Eftestøl E, Cumming KT, Juvkam I, Ekblom MM, Sunding K, et al. Effects of training, detraining, and retraining on strength, hypertrophy, and myonuclear number in human skeletal muscle. Journal of Applied Physiology. 2019;126(6):1636-1645. doi:10.1152/japplphysiol.00917.2018 · **open access**
+
+Quintana-Cepedal M, de la Calle O, Diez-Solorzano P, Sanchez-Martinez B, Crespo I, Olmedillas H. The Copenhagen Adduction Exercise Effect on Sport Performance and Injury Prevention: A Systematic Review With Meta-Analysis. Scandinavian Journal of Medicine & Science in Sports. 2025;35(8):e70119. doi:10.1111/sms.70119 · **open access** — **RETRACTED in 2026** (doi:10.1111/sms.70287): the journal determined that the meta-analysis misrepresented the reported outcomes of two of its three included studies and contained methodological flaws invalidating its conclusions. Cited in this document only as a caution.
+
+Quintana-Cepedal M, de la Calle O, Medina-Sánchez M, Crespo I, Olmedillas H. The dose–response of the Copenhagen adduction exercise on adductor strength in high-level youth hockey players: A three-arm randomised controlled trial. Journal of Sports Sciences. 2024;:1-7. doi:10.1080/02640414.2024.2430875 · *paywalled*
+
+Quintana-Cepedal M, López-Pérez E, Del Valle M, Crespo I, Olmedillas H. The dose-response of the Copenhagen adduction exercise on prevention of groin problems in rink hockey: A prospective cohort study. Journal of Sports Sciences. 2026;:1-9. doi:10.1080/02640414.2026.2713905 · *paywalled*
 
 Refalo MC, Helms ER, Robinson ZP, Hamilton DL, Fyfe JJ. Similar muscle hypertrophy following eight weeks of resistance training to momentary muscular failure or with repetitions-in-reserve in resistance-trained individuals. Journal of Sports Sciences. 2024;42(1):85-101. doi:10.1080/02640414.2024.2321021 · **open access**
 
@@ -23970,6 +25220,8 @@ Saeterbakken AH, van den Tillaar R, Fimland MS. A comparison of muscle activity 
 Safran MR, Graham SM. Distal biceps tendon ruptures: incidence, demographics, and the effect of smoking. Clinical Orthopaedics and Related Research. 2002;(404):275-283. PMID:12439270 — no DOI was ever issued · *paywalled*
 
 Sahu D, Joshi M, Rathod V, Nathani P, Valavi AS, Jagiasi JD. Geometric analysis of the humeral head and glenoid in the Indian population and its clinical significance. JSES International. 2020;4(4):992-1001. doi:10.1016/j.jseint.2020.06.008 · **open access**
+
+Saito H, Hakariya N, Ebato T, Hirose N. A Scoping Review of Exercises for Preventing Athletic Groin Pain. Cureus. 2025;:. doi:10.7759/cureus.99883 · **open access**
 
 Sakoma Y, Sano H, Shinozaki N, Itoigawa Y, Yamamoto N, Ozaki T, et al. Anatomical and functional segments of the deltoid muscle. Journal of Anatomy. 2011;218(2):185-190. doi:10.1111/j.1469-7580.2010.01325.x · **open access**
 
