@@ -4,8 +4,8 @@
 > leverage rather than from tradition. Each muscle gets its own Part: anatomy → biomechanics →
 > the rep → exercise catalogue → contexts → programming. **This volume covers the latissimus
 > dorsi, the quadriceps femoris, the gluteal muscles, the deltoids, the core, the
-> hamstrings, the pectoral muscles, the triceps brachii, the erector spinae, the elbow flexors, the calves and the trapezius and
-> scapular muscles.** Further muscles are added as
+> hamstrings, the pectoral muscles, the triceps brachii, the erector spinae, the elbow flexors, the calves, the trapezius and
+> scapular muscles, and the forearms and grip.** Further muscles are added as
 > new Parts; the glossary and bibliography are always the final two Parts and are shared across all
 > of them.
 >
@@ -113,8 +113,16 @@
    - **§E** [Context modifiers — when "perfect" changes](#partxiiiecontextmodifiers)
    - **§F** [Programming](#partxiiifprogramming)
    - **§G** [Synthesis, and what the evidence does not support](#partxiiigsynthesis)
-14. **[Part XIV — Master Glossary](#partxivmasterglossary)** (354 entries, in dependency order, with an alphabetical index at its head)
-15. **[Part XV — Bibliography](#partxvbibliography)** (600 sources, 291 open access)
+14. **[Part XIV — Forearms and Grip](#partxivforearmsandgrip)**
+   - **§A** [Anatomy and architecture](#partxivaanatomyandarchitecture)
+   - **§B** [Biomechanics — what actually loads the forearms](#partxivbbiomechanics)
+   - **§C** [The rep, specified](#partxivctherepspecified)
+   - **§D** [Exercise catalogue](#partxivdexercisecatalogue)
+   - **§E** [Context modifiers — when "perfect" changes](#partxivecontextmodifiers)
+   - **§F** [Programming](#partxivfprogramming)
+   - **§G** [Synthesis, and what the evidence does not support](#partxivgsynthesis)
+15. **[Part XV — Master Glossary](#partxvmasterglossary)** (387 entries, in dependency order, with an alphabetical index at its head)
+16. **[Part XVI — Bibliography](#partxvibibliography)** (635 sources, 309 open access)
 
 **How to read this.** The first occurrence of a technical term in each Part links to its glossary
 entry. Cross-references are written `Part II §B.4`.
@@ -140,8 +148,8 @@ and no punctuation of any kind** — `forcelengthrelationship`, `momentarm`, `pa
 That character set is the fixed point of all four algorithms: each maps it to itself, so one link form
 works everywhere without HTML anchors or renderer-specific syntax. The cost is that the heading itself
 is not meant to be read; **the human-readable name is the bold lead-in immediately below it**, and the
-alphabetical index at the head of Part XIV is the place to look a term up. Structural anchors carry
-their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to XIII share
+alphabetical index at the head of Part XV is the place to look a term up. Structural anchors carry
+their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to XIV share
 section titles and would otherwise collide. Links are same-file only: no HTML anchors, no relative file links, no external
 links.
 
@@ -1898,7 +1906,7 @@ THREE-TIMES-WEEKLY — HIGH VOLUME, ROTATING EMPHASIS
 large. Row three has one lat-specific anchor — eight weeks of pulldown-and-row training produced
 **+22% latissimus fibre cross-sectional area** on biopsy in 18 novice men (Paoli et al., 2016) — but
 no study has tracked lat *thickness* by ultrasound over these timelines, and the method is a poor index
-of individual change in any case (Part XIV, muscle thickness). Rows four and five
+of individual change in any case (Part XV, muscle thickness). Rows four and five
 are coaching convention, not measured outcomes.
 
 **Validity caveat:** thickness measured in the first weeks of a new program is inflated by
@@ -6553,7 +6561,7 @@ of exposure, so they establish where injuries land, not how likely they are.
 | Context | Common modification | Evidence note |
 |---|---|---|
 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) — a painful arc, pain reaching overhead, pain lying on that side | **Reduce the provoking arc first**, then load progressively in the pain-free range. Keep the press below the painful band or replace it with a landmine press; keep raises in the scapular plane | Rehabilitation improved shoulder strength in this population across twenty-eight studies, and **interventions that did not include exercise had no effect at all** (Zhang et al., 2026). The active ingredient is loading |
-| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part XIV, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
+| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part XV, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
 | History of dislocation or [shoulder instability](#shoulderinstability) | Overhead and behind-the-neck positions are commonly restricted; abduction with external rotation is the classic apprehension position | Governed by the clinician, not by this document |
 | Acromioclavicular joint pain — point tenderness on top of the shoulder | Reduce [horizontal adduction](#shoulderhorizontaladduction) across the body; raises and presses are usually well tolerated | The joint is compressed by reaching across, not by reaching out |
 | Long head of biceps pain — front-of-shoulder pain with a defined tender line | Reduce front raises and dips; the tendon runs in the [bicipital groove](#bicipitalgroove) directly under them | Mechanism, not trial evidence |
@@ -7032,7 +7040,7 @@ connective tissue rather than blending into one another. That is a stronger anat
 regional training than exists for the gluteal portions in Part IV §A.3. And regional development **has** been measured: in professional tennis
 players the side-to-side difference in rectus abdominis volume rose **linearly from the first lumbar
 disc to the pubic symphysis (r = 0.97)**, which its authors read as evidence that the upper and lower
-regions of the muscle can be recruited differentially (Sanchis-Moysi et al., 2010). What is missing is
+regions of the muscle can be recruited differentially (Sanchis-Moysi et al., 2010a). What is missing is
 a trial: nobody has manipulated exercise selection and measured the segments before and after.
 **Promising but under-replicated**, and Part VI §B.11 is why the [EMG](#emg) studies that appear to
 settle it do not.
@@ -7161,7 +7169,7 @@ than this Part first claimed**, and the regional evidence is unexpectedly the be
 
 - **The whole rectus abdominis grows from training.** Thirty-six weeks of Pilates in previously inactive women raised rectus abdominis volume markedly and the obliques-plus-transversus by 8%, measured by **MRI before and after** (Dorado et al., 2012). **Moderate evidence** — nine participants, untrained, and a modality rather than a loading prescription.
 - **And from training that never targets it.** Eight weeks of a squat, bench press, prone row and shoulder press programme — **no direct abdominal work at all** — raised rectus abdominis cross-sectional area in **thirty-eight resistance-trained men** (Hernández-Belmonte et al., 2023). **Moderate evidence**, and the population this document is written for.
-- **Between rectus abdominis segments, the answer is the strongest regional finding in this document.** MRI of eight professional tennis players against six non-active controls found rectus abdominis volume **58% greater** in the players, **35% greater on the non-dominant side than the dominant one** within them, and — the key number — **the side-to-side asymmetry increasing linearly from the first lumbar disc to the pubic symphysis (r = 0.97)** (Sanchis-Moysi et al., 2010). The authors read it as evidence that people can differentially recruit the upper and lower regions of each rectus abdominis, and it is hard to read it any other way.
+- **Between rectus abdominis segments, the answer is the strongest regional finding in this document.** MRI of eight professional tennis players against six non-active controls found rectus abdominis volume **58% greater** in the players, **35% greater on the non-dominant side than the dominant one** within them, and — the key number — **the side-to-side asymmetry increasing linearly from the first lumbar disc to the pubic symphysis (r = 0.97)** (Sanchis-Moysi et al., 2010a). The authors read it as evidence that people can differentially recruit the upper and lower regions of each rectus abdominis, and it is hard to read it any other way.
 - **Between the abdominal wall muscles.** Segmental MRI in professional tennis and soccer players found the hypertrophy of the lateral wall and [quadratus lumborum](#quadratuslumborum) to be **sport-specific** in its distribution (Sanchis-Moysi et al., 2013). **Moderate evidence** — cross-sectional athlete comparisons, not training studies.
 - **The multifidus.** Real training data, from clinical populations: multifidus size responds to some lumbar resistance programmes and not others (Part X §A.5), summarized in Part VI §E.4 rather than here because nearly every study of it was designed around pain rather than size.
 
@@ -7555,7 +7563,7 @@ it is a different summary from the deltoid's in Part V §B.7.
 | Full range versus partial? | **None** |
 | Isometric versus dynamic? | **None** for this region. The general isometric case is real (Part VI §B.4) |
 | Loaded versus body-weight? | **None** |
-| Do the segments grow differently? | **Yes, cross-sectionally** — asymmetry rising linearly from L1 to the pubic symphysis in tennis players, r = 0.97 (Sanchis-Moysi et al., 2010). **Untested longitudinally** |
+| Do the segments grow differently? | **Yes, cross-sectionally** — asymmetry rising linearly from L1 to the pubic symphysis in tennis players, r = 0.97 (Sanchis-Moysi et al., 2010a). **Untested longitudinally** |
 | Does any of it change abdominal appearance? | **Tested, and no** — see below |
 
 **The one thing that has been tested is the thing people actually want, and the answer is no.**
@@ -8690,7 +8698,7 @@ applied to a muscle whose visibility is governed by something other than its siz
 | "Squats and deadlifts are all the core work you need" | **Not supported.** They load spinal extension isometrically and supply nothing for flexion, rotation or lateral flexion — one of four actions (Part VI §D.6) |
 | "Planks build abdominal muscle" | **Evidence remains limited and inconsistent.** Isometric training does grow muscle, most reliably at long muscle lengths (Oranchuk et al., 2019), so the premise that a plank cannot work is wrong. What is true is that a plank holds one joint angle under a load capped by body weight, which is a narrow stimulus — and that no trial has tested it for this region |
 | "Hollowing is the way to brace" | **Not supported.** Bracing improved stability by 32% against the hollow, and the authors conclude there is "no mechanical rationale" for hollowing or for isolating the transversus abdominis to enhance stability (Grenier & McGill, 2007). **Caveat:** bracing bought that stability at a **15% increase in lumbar compression** |
-| "You can train the lower abs" | **Promising but under-replicated**, and the strongest regional claim in this document. The segments are anatomically real, unequal and separated by connective tissue (Brown et al., 2011), and regional development **has** been measured: rectus abdominis asymmetry in professional tennis players rose linearly from L1 to the pubic symphysis, r = 0.97 (Sanchis-Moysi et al., 2010). What is missing is any trial that manipulated exercise selection and measured segments before and after — and regional activation does not predict regional growth (Zabaleta-Korta et al., 2024) |
+| "You can train the lower abs" | **Promising but under-replicated**, and the strongest regional claim in this document. The segments are anatomically real, unequal and separated by connective tissue (Brown et al., 2011), and regional development **has** been measured: rectus abdominis asymmetry in professional tennis players rose linearly from L1 to the pubic symphysis, r = 0.97 (Sanchis-Moysi et al., 2010a). What is missing is any trial that manipulated exercise selection and measured segments before and after — and regional activation does not predict regional growth (Zabaleta-Korta et al., 2024) |
 | "High reps are what abs respond to" | **Not supported**, and its usual rationale is wrong. The recommendation is published — a core-training review suggests "multiple sets with high repetitions" and rests it explicitly on the region's supposed type I dominance (Behm et al., 2010) — but the abdominal wall is 55–58% type I, indistinguishable from limb muscle (Häggmark & Thorstensson, 1979), and fibre type does not predict which rep range grows a given person's muscle anyway (Part VI §A.7) |
 | "Surface EMG shows which exercise trains the transversus abdominis" | **Not supported.** It lies under two other sheets; a surface electrode cannot reach it (Part VI §B.11) |
 
@@ -19030,9 +19038,1274 @@ difference in upper-trapezius cross-section. Finally, treat this region's confid
 suspicion — the visual test for "scapular dyskinesis" agrees with itself about as often as a coin flip, and
 nearly three in ten pain-free professional athletes fail it.
 
-# partxivmasterglossary
+# partxivforearmsandgrip
 
-**Part XIV — Master Glossary**
+**Part XIV — Forearms and Grip**
+
+> Scope: the anatomy, mechanics, technique, exercise selection, context modifiers and programming for the
+> muscles of the [forearm](#forearmmuscles) — the [wrist flexors](#wristflexors) and extensors, the long finger flexors and extensors, and the
+> pronators and supinator — together with the grip they produce and the question of whether grip should be
+> trained directly at all.
+>
+> **General education only.** Numbness or tingling in the hand, night pain, a snap felt in a finger during a
+> hard hold, or elbow pain that persists for months are not training problems — see §E.4.
+>
+> **Angle conventions, fixed for the whole Part.** [Wrist](#wristjoint) angle is measured from a straight wrist: **0° is the
+> hand in line with the forearm**, positive numbers are **extension** (knuckles toward the back of the
+> forearm) and negative numbers are **flexion**. Forearm rotation is named by where the palm points: **neutral**
+> (thumb up), **[pronated](#forearmpronation)** (palm down) and **supinated** ([palm up](#supinatedgrip)), keeping the Part XI meaning.
+>
+> **What makes this Part different.** It contains the most famous measurement in this whole document and one
+> of the weakest training literatures. Grip strength predicts death better than blood pressure does across
+> 139,691 people in seventeen countries (Leong et al., 2015) — and **no trial has ever shown that training it
+> changes that**, which the authors of that study say themselves. Meanwhile the one controlled trial that
+> added direct wrist and forearm work to a normal programme improved **every** wrist and forearm strength
+> measure it took, **except grip strength** (Szymanski et al., 2004). Those two facts, held together, are
+> most of what this Part has to teach.
+
+---
+
+## partxivaanatomyandarchitecture
+
+**PART A — Anatomy and Architecture**
+
+### A.1 What the forearm is
+
+A set of engines placed away from the thing they drive.
+
+Your fingers contain almost no muscle. The power to close them comes from bellies in the forearm that pull on
+tendons running the length of the wrist and hand — a remote-control arrangement found nowhere else in the
+body at this scale. It exists for one reason: **fingers thin enough to be useful cannot also be thick enough
+to be strong.**
+
+Three consequences run through everything below.
+
+1. **Long tendons mean the wrist and the fingers are mechanically coupled.** The finger flexors cross the
+   wrist on their way to the hand, so wrist position changes finger strength whether you want it to or not.
+   Bend your wrist fully and try to make a fist: you cannot. That is not weakness, it is the flexors having
+   run out of length.
+2. **The tendons need retaining structures, and those structures are where the trouble is.** A tunnel at the
+   wrist, a set of small [pulleys](#annularpulley) along each finger. Both are on the injury list in §A.8, and neither is
+   trainable.
+3. **Almost every exercise you already do loads these muscles.** Anything you hold, hang from, pull or carry
+   is grip work. This is the Part's central programming problem, not a bonus — it means the forearm is
+   rarely under-trained and frequently over-assumed.
+
+The muscles, grouped by what they do rather than by their layer:
+
+- **Wrist flexors** — flexor carpi radialis and flexor carpi ulnaris, with palmaris longus when present.
+- **[Wrist extensors](#wristextensors)** — extensor carpi radialis longus and brevis, extensor carpi ulnaris.
+- **Long finger flexors** — [flexor digitorum superficialis](#flexordigitorumsuperficialis) (bends the middle knuckle), flexor digitorum
+  profundus (bends the fingertip), flexor pollicis longus for the thumb. **These are the grip.**
+- **Long finger extensors** — extensor digitorum and its neighbours. They open the hand and almost nothing
+  in a gym loads them.
+- **Rotators** — pronator teres and pronator quadratus turn the palm down; supinator, with the biceps
+  brachii, turns it up (Part XI §A.4).
+- **[Brachioradialis](#brachioradialis)**, which lives in the forearm but acts on the elbow, and is covered in Part XI.
+
+The hand's own small muscles — the thenar group, lumbricals and interossei — position the fingers and matter
+enormously for dexterity. They contribute little to how much you can hold, and this Part does not pretend to
+cover them.
+
+### A.2 Attachments — the map you load
+
+| Muscle | From | To | Nerve |
+|---|---|---|---|
+| Flexor carpi radialis | [Medial epicondyle](#medialepicondyle) (common flexor origin) | Base of metacarpals 2–3 | Median |
+| Flexor carpi ulnaris | Medial epicondyle and ulna | Pisiform, hamate, metacarpal 5 | **Ulnar** |
+| Flexor digitorum superficialis | Medial epicondyle, ulna, radius | **Middle phalanx**, digits 2–5 | Median |
+| [Flexor digitorum profundus](#flexordigitorumprofundus) | Ulna and interosseous membrane | **Distal phalanx**, digits 2–5 | Median (2–3) and **ulnar** (4–5) |
+| Extensor carpi radialis longus | Lateral supracondylar ridge | Base of metacarpal 2 | Radial |
+| [Extensor carpi radialis brevis](#extensorcarpiradialisbrevis) | **[Lateral epicondyle](#lateralepicondyle)** (common extensor origin) | Base of metacarpal 3 | Radial |
+| Extensor carpi ulnaris | Lateral epicondyle and ulna | Base of metacarpal 5 | Radial (posterior interosseous) |
+| Extensor digitorum | Lateral epicondyle | Extensor expansions, digits 2–5 | Radial (posterior interosseous) |
+| Pronator teres | Medial epicondyle and ulna | Lateral mid-shaft of radius | Median |
+| Pronator quadratus | Distal ulna | Distal radius | Median (anterior interosseous) |
+| Supinator | Lateral epicondyle, ulna, ligaments | Upper third of radius | Radial (posterior interosseous) |
+
+Spinal levels and the exact ulnar/median split for the deep flexors are the textbook account
+*[consensus — no single source]*. Four entries do most of the work.
+
+**Two small areas carry almost everything.** The flexors converge on the **medial epicondyle** — the bump on
+the inner side of your elbow — and the extensors on the **lateral epicondyle** on the outer side. That is why
+a hand problem is felt at the elbow, and why the two commonest overuse diagnoses in this whole document are
+named after those two bumps (§A.8).
+
+**Extensor carpi radialis brevis is the one to know by name.** It attaches directly to the lateral epicondyle
+and it is the muscle implicated in [tennis elbow](#lateralepicondylalgia). It is also the wrist extensor whose activity **rises when
+the forearm is pronated** — measured directly at a constant wrist [torque](#torque), it worked harder with the palm down
+than in neutral (Ikeda et al., 2025). [Palm-down](#pronatedgrip) gripping is the position most gym work happens in.
+
+**The two finger flexors insert on different bones.** Superficialis stops at the **middle** bone of the
+finger, profundus runs on to the **last** one. So the superficialis bends the middle knuckle and the profundus
+curls the fingertip — the anatomical basis of the two climbing grips in §B.5.
+
+**The deep flexor to the little and ring fingers is supplied by the [ulnar nerve](#ulnarnerve)**, the rest by the median.
+This is why an ulnar problem at the elbow weakens the last two fingers first, and why those two fingers are
+where a failing [hook grip](#hookgrip) lets go.
+
+### A.3 Architecture — short fibres, long tendons, and one table to distrust
+
+The forearm is built for a different job from a limb muscle, and the architecture shows it: **short fibres, a
+small volume, long tendons.**
+
+Start with the honest size statement. Measured by magnetic resonance imaging in ten living adults, the muscles
+**crossing the wrist** were **16.0%** of total upper-limb [muscle volume](#musclevolume), against 31.4% for the elbow and
+52.5% for the shoulder (Holzbaur et al., 2007a). Read that precisely: it counts muscles that *cross the
+wrist*, so brachioradialis, both pronators and the supinator — all of which sit in the forearm — are in the
+elbow and forearm-rotation figures, not this one. **The wrist-crossing group is nonetheless the smallest of
+the three**, and no amount of training reorders that.
+
+For individual muscles, one complete dataset exists, and it comes from the dissection of a **104-year-old
+female cadaver** (Ruggiero et al., 2016) — the same source Parts V, VIII, IX and XIII draw on. The finger
+flexors are dissected slip by slip in that paper, one per digit; the whole-muscle values below are those
+slips summed.
+
+```
+                                  mass    optimal fascicle   PCSA
+  Flexor digitorum superficialis 53.9 g    6.9-12.5 cm      4.5 cm2   <- four digit slips
+  Flexor digitorum profundus     47.7 g     6.7-8.2 cm      4.9 cm2   <- four digit slips
+  Extensor digitorum             21.9 g     3.0-4.7 cm      3.1 cm2   <- four digit slips
+  Brachioradialis                19.1 g       7.3 cm        2.2 cm2   (an elbow muscle; Part XI)
+  Flexor carpi ulnaris           17.1 g       7.0 cm        2.1 cm2
+  Flexor carpi radialis          14.2 g       6.8 cm        1.7 cm2
+  Extensor carpi radialis longus 13.7 g       9.0 cm        1.2 cm2
+  Extensor carpi radialis brevis 12.1 g       6.3 cm        1.5 cm2
+  Extensor carpi ulnaris         11.9 g       2.3 cm        4.4 cm2
+  Supinator                       9.8 g       2.3 cm        3.8 cm2
+  Flexor pollicis longus          8.3 g       4.7 cm        1.3 cm2
+  Pronator quadratus              3.9 g       2.3 cm        1.5 cm2
+  Pronator teres                  3.0 g       3.4 cm        0.8 cm2
+```
+
+**The two finger flexors are the largest muscles in the forearm**, by mass and by cross-section, and
+together they carry **9.4 cm²** of [physiological cross-section](#pcsa) against **3.1 cm²** for the finger extensors —
+about three to one. The muscle group this Part is mostly about is also the one the forearm is mostly made
+of, and the hand's closing apparatus outweighs its opening apparatus threefold. That single comparison does
+more work than any other number here.
+
+> **Two caveats on the dataset.** It is **one specimen, aged 104 and severely atrophied** — its pronator
+> teres weighs 3.0 g against roughly five times that in younger cadaveric series, so **treat the ranking as
+> informative and the absolute values as indicative**. And the fascicle lengths span a much wider range than
+> a single figure suggests: from **2.3 cm** in extensor carpi ulnaris, supinator and pronator quadratus to
+> **12.5 cm** in the middle-finger slip of the superficial flexor, against 26 cm in the latissimus dorsi
+> (Part II §A.4). The wrist and rotation muscles are short-fibred; the long finger flexors are not.
+
+The larger cadaveric series agree on the qualitative structure. Across 154 forearm muscles, the digital
+extensors were architecturally alike, and the deep and superficial digital flexors were alike — with one
+exception, **the flexor digitorum superficialis to the little finger, which is much smaller and shorter than
+the rest** (Lieber et al., 1992). In a separate series of 25 wrist flexors and extensors, the muscles were
+"highly specialized", differing mainly in fibre-length-to-muscle-length ratio, muscle length and pennation
+angle — enough that those three numbers alone could correctly identify each muscle (Lieber et al., 1990).
+
+And one architectural comparison is worth keeping, because it explains a common confusion. **Brachioradialis
+and pronator teres have nearly identical masses but behave completely differently**: brachioradialis has long
+fibres at a small [pennation angle](#pennationangle), so it has a small cross-section and a large excursion, while pronator teres
+is the opposite (Lieber et al., 1992). Mass tells you almost nothing about what a forearm muscle can do.
+
+### A.4 The division of labour — four jobs
+
+| Job | Who does it | Loaded by |
+|---|---|---|
+| **Hold the fingers closed** | Flexor digitorum profundus and superficialis | Everything you hang from or carry |
+| **Hold the wrist rigid** | Wrist flexors and extensors together, as a pair | The same things — they stop the [load](#load) bending your wrist |
+| **Turn the forearm** | Pronators; supinator with biceps | Almost nothing in a normal programme |
+| **Open the hand** | Extensor digitorum and friends | **Nothing at all** |
+
+The second [row](#row) is the one people miss. When you hold a heavy bar, your wrist extensors are working as hard as
+your flexors — not to extend the wrist, but to stop the weight folding it. **The wrist is stabilized by
+co-contraction**, which is why a grip that is failing often shows up first as the wrist collapsing, and why
+the wrist extensors get sore from heavy pulling that never once asked them to extend anything.
+
+The fourth row is the reason §D includes an exercise almost nobody does. Nothing in a gym resists the hand
+**opening**. Whether that matters is §G.2's problem.
+
+### A.5 What is known about making them grow
+
+Less than you would expect for a muscle group this popular, and the honest summary is three findings.
+
+**First: forearm size tracks grip strength.** In 42 healthy adults imaged with fat-water magnetic resonance
+imaging, grip strength correlated strongly with **both** flexor (p = 0.004) and extensor (p = 0.001) forearm
+muscle volume. Volume tracked body-mass index (p < 0.001) but **not age** (p > 0.249), and intramuscular fat
+was unrelated to grip strength or dexterity (Fundaun et al., 2025). Cross-sectional, so it establishes the
+association and not its direction.
+
+**Second: the forearm is where hard hand use shows up, and it shows up regionally.** Thirty male climbers at
+three performance levels were scanned by dual-energy X-ray absorptiometry. **Fat mass percentage, total lean
+mass, upper-trunk lean mass and total muscle mass did not differ between levels. Forearm lean mass did** —
+higher in the elite group, on the left and non-dominant sides (p = 0.047 and 0.041) (Carrasco et al., 2024).
+Elite climbers are not bigger people; they have bigger forearms. **And in the same study handgrip strength —
+absolute, relative, and adjusted for forearm lean mass — did not differ between levels at all**, which is
+the first sign of the problem §B.4 is built to solve: the [dynamometer](#handgripdynamometry) was measuring something climbing does
+not train.
+
+**Third: forearm size does change with training, measured, in five weeks.** Twenty-two advanced climbers
+were randomized to low-load blood-flow-restricted or high-load finger-flexor training, twice a week for five
+weeks. **Dominant forearm circumference rose 0.8 cm in the restricted group (p = 0.012) and 0.6 cm in the
+high-load group (p = 0.038)**, with no difference between them, alongside gains in maximal voluntary
+contraction and climbing performance (Andersen et al., 2026). **Promising but under-replicated** — a pilot
+study of 22, and **circumference is a tape measure**, which counts skin, fat and swelling as well as muscle.
+
+A second trial in the same population measured **finger-flexor thickness** by ultrasound across the same
+five weeks and reports strength and endurance gains, with a thickness change not among its significant
+findings (Perrin et al., 2026). So the crude measure moved and the more specific one did not, in five weeks.
+**No study has measured forearm muscle volume or cross-sectional area by imaging before and after a training
+programme** — that gap is real, and it is narrower than this Part first claimed.
+
+So the size evidence is a correlation and a cross-section. What exists instead is **strength** evidence, and
+it contains the single most useful result in this Part.
+
+> **Forty-three high-school baseball players trained three days a week for twelve weeks on the same
+> periodized programme. One group added wrist and forearm exercises. Both groups improved their wrist and
+> forearm strength; the group that added the extra work improved significantly more in every measure taken —
+> [wrist flexion](#wristflexion) and extension, pronation, [supination](#forearmsupination), radial and ulnar deviation — with one exception:
+> grip strength, where the added work bought nothing over the general programme** (Szymanski et al., 2004).
+
+Read the exception precisely, because it is easy to overstate and this Part did so in its first draft.
+**Grip strength rose in both groups. What the twelve weeks of dedicated wrist and forearm work failed to do
+was raise it any further.** §B.4 explains why, and it is the reason this Part has a classification system at
+all.
+
+And direct hand work is not futile in general. Pooling **22 randomized trials in 1,017 healthy adults**,
+hand-focused strength and proprioceptive training improved grip strength with a small-to-moderate effect,
+**g = 0.44 (95% CI 0.23–0.64)** — but almost all of it in older adults (g = 0.97) rather than younger ones
+(g = 0.18), and the authors flag a high risk of bias across the included trials (Akbaş, 2025).
+**Moderate evidence.** The pattern that reconciles the two results is the one §B.4 formalizes: training the
+hand *closing* raises the number that measures the hand closing; training the *wrist* does not.
+
+### A.6 Grip strength — the most famous number here, and what it does not mean
+
+Grip strength is the best-established simple biomarker in medicine, and it is routinely misread by people who
+lift.
+
+> **From the PURE study: 139,691 adults with known vital status across 17 countries, Jamar dynamometer,
+> median follow-up 4.0 years, 3,379 deaths (Leong et al., 2015).**
+>
+> Hazard ratio **per 5 kg lower grip strength**:
+>
+> | Outcome | HR (95% CI) |
+> |---|---|
+> | All-cause mortality | **1.16 (1.13–1.20)** |
+> | Cardiovascular mortality | 1.17 (1.11–1.24) |
+> | Non-cardiovascular mortality | 1.17 (1.12–1.21) |
+> | Myocardial infarction | 1.07 (1.02–1.11) |
+> | Stroke | 1.09 (1.05–1.15) |
+>
+> **Grip strength predicted all-cause and cardiovascular death better than systolic blood pressure did.**
+>
+> And it predicted **nothing** for incident diabetes, hospital admission for pneumonia or COPD, injury from a
+> fall, or fracture. In high-income countries only, **stronger** grip went with **more** cancer
+> (HR 0.916 per 5 kg lower, 0.880–0.953) — an association absent elsewhere and unexplained.
+
+Now the part that gets dropped. The authors' own conclusion calls for research "to test whether improvement in
+strength reduces mortality" — because **that has never been shown**. Grip strength is an excellent *proxy*
+for whole-body muscular condition, nutrition, neurological health and general robustness. Squeezing a [gripper](#handgripper)
+until your grip number rises does not obviously change any of those things.
+
+> **The honest reading: grip strength is a thermometer, not a thermostat.** It is worth measuring. It is not
+> obviously worth training *for that reason*. **Contested** — the association is among the strongest in
+> epidemiology and the intervention evidence does not exist.
+
+### A.7 The nerves and the tunnels
+
+Three nerves cross the forearm, and each has a place where it is squeezed.
+
+- **[Median nerve](#mediannerve)** — supplies most of the flexors and passes through the **[carpal tunnel](#carpaltunnel)** at the wrist,
+  under a tough band of tissue, alongside nine tendons. Compression there produces numbness and tingling in
+  the thumb, index, middle and half the ring finger, classically worse at night, with thumb-base wasting
+  late.
+- **Ulnar nerve** — supplies flexor carpi ulnaris and the deep flexors to the last two fingers, and passes
+  behind the medial epicondyle where you can knock it. Problems show as numbness in the little and ring
+  fingers and weakness of the hand's small muscles.
+- **[Radial nerve](#radialnerve)** — supplies all the extensors; its deep branch passes through the supinator muscle, which
+  is a recognized compression site that can mimic tennis elbow.
+
+> **Why a lifter needs this.** Hand numbness during or after heavy carries and hangs is common and is usually
+> positional. Numbness that persists, wakes you at night, or comes with visible wasting is a nerve
+> presentation, and no amount of grip training addresses it.
+
+### A.8 How the forearm and hand are injured
+
+- **Lateral epicondylalgia ("tennis elbow")** — pain at the outer elbow, at the common extensor origin, with
+  extensor carpi radialis brevis the usual suspect. Overwhelmingly the commonest problem in this Part, and
+  the one with the best trial evidence behind its treatment (§E.4).
+- **Medial epicondylalgia ("[golfer's elbow](#medialepicondylalgia)")** — the same story on the inner side, at the common flexor
+  origin. Less studied.
+- **Finger [pulley injury](#pulleyinjury)** — the annular bands that hold the flexor tendons against the finger bones can
+  partially or completely rupture, classically with an audible pop during a hard crimped hold. In a scoping
+  review of 45 rock-climbing studies, **finger pulley injuries were frequent in both sport climbing and
+  bouldering**, and fingers and hands were among the most commonly injured regions overall
+  (Vagy et al., 2026).
+- **[Carpal tunnel syndrome](#carpaltunnelsyndrome)** — see §A.7.
+- **Wrist tendon problems** — de Quervain's at the thumb side, extensor carpi ulnaris at the little-finger
+  side. Both are load-and-position problems rather than strength problems.
+
+### A.9 What the anatomy dictates, in ten lines
+
+1. The muscles that close your hand live in your **forearm**, and their tendons cross the wrist to get there.
+2. Therefore **wrist position changes grip strength**, always, whether or not you intended it.
+3. The flexors gather on the **inner** elbow bump and the extensors on the **outer** one — which is why hand
+   overuse is felt at the elbow.
+4. Superficialis bends the **middle** knuckle, profundus curls the **fingertip**; the two climbing grips in
+   §B.5 come straight from that.
+5. The wrist muscles work as a **co-contracting pair** on every heavy hold, not as agonist and antagonist.
+6. **The finger flexors are the biggest muscles in the forearm**, and they outweigh the finger extensors
+   about three to one by cross-section.
+7. Wrist and rotation muscles are **short-fibred** (2–3 cm); the long finger flexors are not (7–12 cm). The
+   wrist-crossing group is **16% of upper-limb muscle volume** — a small compartment that will look like one.
+8. **Almost nothing in a normal programme loads hand opening or forearm rotation.**
+9. Forearm **circumference** rose 0.6–0.8 cm in five weeks of finger training, but no imaging study has
+   measured forearm muscle volume before and after training.
+10. Twelve weeks of direct wrist and forearm training raised every wrist measure — and bought **no extra
+    grip strength** over the general programme. That distinction is what the rest of this Part is built on.
+
+## partxivbbiomechanics
+
+**PART B — Biomechanics — what actually loads the forearms**
+
+### B.1 The joint actions, ranked
+
+| Rank | Action | What it looks like | Prime movers |
+|---|---|---|---|
+| 1 | **[Finger flexion](#fingerflexion)** | Closing the hand; holding on | Flexor digitorum profundus and superficialis |
+| 2 | **Wrist stabilization** | The wrist not folding under load | Flexors and extensors **together** |
+| 3 | **Wrist flexion / extension** | Curling the hand up or down | Flexor and extensor carpi radialis/ulnaris |
+| 4 | **Forearm pronation / supination** | Turning the palm down or up | Pronator teres and quadratus; supinator, biceps |
+| 5 | **Radial / ulnar deviation** | Waving the hand sideways | The carpi muscles in pairs |
+| 6 | **Finger extension** | Opening the hand | Extensor digitorum |
+
+Rank 1 is what "grip" means to almost everybody, and it is the only one loaded by a normal programme without
+any deliberate effort. Rank 2 is loaded just as much and is almost never named. Ranks 3 to 6 are loaded only
+if you choose to load them.
+
+### B.2 Why wrist position changes grip strength
+
+The muscles that close your fingers start above the wrist. So they cross two regions, and their length is set
+by both.
+
+Bend your wrist forward as far as it goes and try to squeeze hard. You cannot — not because the hand is weak,
+but because the flexors have already given up most of their length at the wrist and have nothing left to spend
+on the fingers. Extend the wrist instead, and the same muscles are pre-lengthened and pull harder.
+
+**How much this matters has been measured, and it is more than "slight".** Twenty healthy people gripped
+maximally with the wrist free, then at deliberately deviated angles. The self-selected position was
+**35° of extension and 7° of ulnar deviation**, grip was significantly weaker in every deviation from it,
+and **at only 15° of extension, or at neutral radio-ulnar deviation, grip fell to two-thirds or
+three-quarters of maximum**. A minimum of **25° of extension** was needed for optimal grip. [Wrist extension](#wristextension)
+was also inversely and linearly related to handle size (O'Driscoll et al., 1992).
+
+That is a large effect for a joint position nobody thinks about. It is also the mechanism behind the
+**[tenodesis effect](#tenodesiseffect)** — move the wrist and the digits move on their own, without a motor command. The
+cadaveric measurement most often quoted for it tracked the **thumb's** long flexor across eight arms with
+the fingers fixed, so it validates the effect for the thumb specifically (Thoreson et al., 2020); for the
+fingers the mechanism is the same and the quantification is not in that paper.
+
+**One thing that is often claimed and is not true:** that grip measurement is standardized. A review of the
+grip-strength literature found wide variability in equipment, posture, number of attempts and summary
+measure, and concluded that standard conditions "remain to be defined" (Roberts et al., 2011).
+
+Two practical consequences:
+
+1. **A wrist that collapses into flexion under load takes your grip with it.** This is the real reason a
+   failing [deadlift](#deadlift) grip often looks like the wrist folding rather than the fingers opening.
+2. **A wrist held around 25–35° of extension is the strongest gripping position** (O'Driscoll et al., 1992),
+   which is roughly what a hook grip and a well-set [hangboard](#hangboardhang) hold arrange for.
+
+### B.3 The wrist's two strength curves — and a correction this Part owes the reader
+
+Part XIV originally claimed here that wrist extensor torque varies across the range while flexor torque is
+flat, and drew a range-of-motion prescription from it. **That was built on a modelling result and the
+in-vivo measurement points the other way.** Both are set out below, because the disagreement is more useful
+than either alone.
+
+**The model.** Cadaveric human forearms were dissected for moment arms — obtained by differentiating tendon
+excursion with respect to joint rotation — plus muscle architecture and tendon compliance, and the three were
+combined to **model** a torque–angle profile for each individual wrist muscle. Extensor profiles varied
+considerably across the range and were shaped mainly by the [moment arm](#momentarm); flexor profiles were nearer maximal
+throughout and were shaped more by muscle force and tendon strain (Loren et al., 1996). Note what that is: a
+computed profile for **one muscle at a time**, not a measurement of what the joint can do.
+
+**The measurement.** Maximum isometric wrist moments were measured across the range in ten healthy men:
+
+```
+  Peak flexion moment      12.2 N.m (SD 3.7)   peaked at 40 degrees of FLEXION
+  Peak extension moment     7.1 N.m (SD 2.1)   relatively CONSTANT from 30 flexion to 70 extension
+```
+
+(Delp et al., 1996). A companion modelling paper asks explicitly why **flexion** moment varies more with
+wrist angle than extension moment does, and attributes it to the flexors' moment arms
+(Gonzalez et al., 1997).
+
+> **The honest verdict. Contested.** The per-muscle model and the net-joint measurement disagree about which
+> side of the wrist has the flatter curve, and this document has no basis for preferring one. **The
+> range-of-motion argument for reverse wrist curls that Part XIV used to make is withdrawn.**
+
+**What survives, and it is worth having:** the wrist can produce about **1.7 times more flexion torque than
+extension torque** (12.2 against 7.1 N·m), and passive resistance is near zero through the central 150° of
+the range, rising only at the ends (Delp et al., 1996). So load your reverse wrist curls at a fraction of
+your wrist curls, and expect neither exercise to be limited by passive tissue anywhere but the extremes.
+
+### B.4 The grip demand class — the decision rule this Part runs on
+
+A lifter who deadlifts 250 kg double-overhand can fail badly on a hand dynamometer, and a twelve-week wrist
+and forearm programme improved six wrist measures and left grip strength untouched (Szymanski et al., 2004).
+Both facts stop being surprising once you stop treating "grip" as one thing.
+
+> **[GRIP DEMAND CLASS](#gripdemandclass) — the rule.**
+>
+> **Step 1.** Find where the load touches the hand.
+>
+> - Across the fingers, **with the palm behind it**, so the curled fingers can wrap the object → the load is
+>   *held in the hand*. A thumbless grip on a bar still qualifies; what matters is that the fingers wrap.
+> - Between the **finger pads and the thumb**, with no palm contact → *pinched*.
+> - On the **finger pads only**, thumb doing little or nothing → *hanging off the fingers*.
+>
+> **Step 2.** Ask whether the hand must **close against resistance** or only **resist being opened**.
+>
+> **Step 3.** Name the class:
+>
+> | Contact | Hand must… | Class | Example |
+> |---|---|---|---|
+> | Held in the hand | resist opening | **Support grip** | Deadlift, row, carry, [dead hang](#deadhang), [pull-up](#pullup) |
+> | Held in the hand | close against resistance | **Crush grip** | Gripper, hand dynamometer |
+> | Pinched | resist opening | **Pinch grip** | [Plate pinch](#platepinch), hex dumbbell by the head |
+> | Finger pads only | resist opening | **Open-hand grip** | Hangboard, climbing hold, thick bar without the thumb |
+>
+> **Step 4.** If the load also tries to **bend the wrist**, add **wrist-loaded** — which almost every heavy
+> support-grip exercise is, and which is why §B.1 ranks wrist stabilization second.
+>
+> **Step 5 (tie-break).** The **contact** decides, not the exercise's name. A dumbbell held by the handle is
+> support grip; the same dumbbell held by the head is a pinch. Where an exercise moves between classes inside
+> one repetition — a gripper starts open and finishes closed — classify it by the demand at the hardest
+> point.
+>
+> **Step 6 (what the class does not distinguish).** Hook grip and double-overhand are the **same** class;
+> they differ in how much of the hold is a mechanical latch, not in what the hand is asked to do. Nor does
+> the class capture rotational demand, which is why §D.5 lists rotation exercises separately.
+
+**What follows, and it is the whole practical point:** the classes **transfer poorly into one another**. The
+standard grip-strength measurement is a **crush** test. Almost all your training is **support**. That is the
+most economical explanation of why twelve weeks of wrist and forearm work moved every wrist measure and not
+the dynamometer, and of why strong lifters are unremarkable on grippers.
+
+**The evidence for it is better than one trial.** Three results line up. Adding wrist and forearm work bought
+no extra grip strength over a general programme (Szymanski et al., 2004). Hand-focused training — training
+the hand *closing* — raises grip strength across 22 randomized trials, g = 0.44 (Akbaş, 2025). And elite
+climbers, who load the open-hand class harder than anyone, had **no better handgrip strength** than
+lower-level climbers despite larger forearms (Carrasco et al., 2024). Each result is odd on its own; together
+they say the demands are separable.
+
+**Caveats, stated plainly.** No study has trained one class and tested transfer to the others directly. The
+boundaries are conventions, and hand taxonomies of this kind are old — the power/precision distinction goes
+back to the classical hand-surgery literature — so what is original here is the training application rather
+than the categories. **This document's judgement.**
+
+### B.5 The two finger grips — crimp and open hand
+
+Climbing has done more to characterize finger loading than the whole of strength training, and it names two
+positions worth knowing.
+
+- **Crimp** — the middle knuckles bent sharply, fingertips flat on the hold, thumb often over the index
+  fingernail. Small edges demand it.
+- **Open hand (or "slope")** — the fingers draped over the hold with the middle knuckles much straighter.
+
+The two load the finger differently because superficialis stops at the middle bone and profundus continues to
+the last one (§A.2). The crimp puts the last joint into extension and the middle joint into deep flexion,
+which raises the force the **pulleys** — the small bands holding the tendon against the bone — have to
+contain. That is the mechanical basis for the well-documented pulley-injury pattern in climbers (§A.8), and
+it is why the crimp is the position people are hurt in.
+
+**And the two grips do load the two finger flexors differently — that much is measured.** Shear-wave
+elastography in 46 experienced climbers found the **deep flexor stiffer in the slope grip** and the
+**superficial flexor stiffer in the crimp**, which fits their insertions: the deep flexor reaches the last
+bone and must stabilize the fingertip joint in an open hand, while the superficial flexor has the better
+leverage at the middle knuckle that the crimp bends (Hugues et al., 2026). A biomechanical model of the same
+two grips puts numbers on it: the deep-to-superficial tendon force ratio was **1.75:1 in the crimp** and
+**0.88:1 in the slope** (Vigouroux et al., 2006). **Moderate evidence** — one elastography study with
+substantial within-person variability (ICC 0.62–0.83) and one model.
+
+**A third finding from the same study is worth more to a general lifter than either.** Extensor digitorum
+stiffness **rose with fingertip force in both grips**, and more so in the open hand (Hugues et al., 2026).
+The finger extensors are not idle during hard gripping; they co-contract to stabilize the joints. That
+qualifies this Part's repeated claim that nothing loads hand opening — nothing loads it *as a movement*, but
+it is loaded isometrically every time you grip hard.
+
+**For a general lifter this matters in one direction only:** if you use a hangboard or thick edges, the open
+hand is the lower-risk default, and the crimp is a position to earn rather than to start with.
+
+### B.6 The stimulus map for the forearms
+
+```
+MUSCLE GROUP         LOADED BEST BY                         MEASURED IN
+-------------------  -------------------------------------  ---------------------------
+Long finger flexors  Heavy support grip: deadlifts,          Pratt 2020 (deadlift grips)
+                     carries, hangs, rows
+                     Hangboard and edge holds               Gilmore 2024; Perrin 2026
+Wrist flexors        Wrist curl; every heavy hold           Loren 1996 (torque profile)
+Wrist extensors      Reverse wrist curl, full range         Loren 1996; Tyler 2010
+                     Also loaded isometrically by any       Ikeda 2025 (pronated position
+                     heavy pronated hold                     raises ECRB activity)
+Pronators/supinator  Nothing in a normal programme;         not measured for training
+                     needs a deliberate rotation exercise
+Finger extensors     Nothing at all                         not measured
+```
+
+Two of those lines deserve their sources spelled out. In the deadlift, **[mixed grip](#mixedgrip) produced the least
+brachioradialis and flexor carpi ulnaris activation** of three grips, at every load and in both sexes
+(ES 0.64–0.68), and was rated the easiest; hand orientation did not change bar velocity (Pratt et al., 2020).
+**Validity caveat:** that study recorded brachialis, brachioradialis and flexor carpi ulnaris — two elbow
+flexors and one wrist flexor — and **no finger flexor at all**, so it is evidence about forearm and elbow
+involvement rather than about the muscles that actually hold the bar.
+And in wrist extension at a fixed torque, **extensor carpi radialis brevis worked harder with the forearm
+pronated** than in neutral (Ikeda et al., 2025) — which is the position a barbell puts you in.
+
+### B.7 Resistance profiles
+
+Only two exercises in this Part have a profile worth naming, and one of them is a warning.
+
+- **[Wrist curl](#wristcurl)** — the load's moment about the wrist is largest with the forearm supported and the wrist at
+  full extension, falling as the wrist curls up. The wrist flexors are near-maximal across the range
+  (Loren et al., 1996), so demand and capacity move in the same direction and the exercise is unremarkable —
+  which is a compliment.
+- **[Reverse wrist curl](#reversewristcurl)** — the same falling profile, but the extensors' capacity **also** varies with angle,
+  and the two curves do not line up. This is the one place in the forearm where range selection has a
+  mechanical argument behind it (§B.3).
+- **Everything else** — a deadlift, a carry, a hang, a hangboard hold — is **isometric for the hand**. There
+  is no profile because there is no range. What varies instead is *time*, and that is why grip work is
+  prescribed in seconds far more often than in repetitions (§F.3).
+
+### B.8 Everything you already do is grip work
+
+This is the Part's programming problem in one section.
+
+A set of heavy deadlifts is a support-grip isometric held for the duration of the set. So is a row, a
+pull-up, a dumbbell press's setup, a [farmer's carry](#farmerswalk) and a dead hang. **A lifter doing a normal programme is
+already performing a substantial amount of grip training and has usually not counted a single set of it.**
+
+Three consequences:
+
+1. **Direct forearm work is additive, not foundational.** If grip is limiting your pulls, the cheapest fix is
+   usually to stop using straps on your lighter sets, not to buy a gripper.
+2. **Straps change what the set trains.** With straps, ten women performed **significantly more repetitions**
+   at 80% of deadlift [1RM](#onerepmax) with no change in bar velocity (Trahey et al., 2023). That is the point of straps:
+   they move the limit off the hand. Whether chronic strap use blunts grip development has not been tested;
+   a review of the strap literature concluded that they can raise maximal strength and grip perception but
+   that **no consistent effects have been observed for pulling and back exercises** and the evidence base is
+   largely experiential (Martins et al., 2026).
+3. **Grip choice on the deadlift is a grip-training decision.** Mixed grip is the easiest and demands the
+   least of the forearm; double-overhand and hook demand the most (Pratt et al., 2020). If you want the
+   deadlift to train your grip, that is the lever.
+
+### B.9 A worked example, so the numbers are not abstract
+
+An 80 kg lifter holds a 180 kg deadlift at lockout, double-overhand.
+
+Each hand is holding **90 kg**, or about **883 N**. The obvious question is what holds it there, and the
+obvious answer — friction — turns out to be arithmetically impossible.
+
+Skin on knurled steel has a coefficient of friction somewhere around 0.4–0.6, and the best measured figure
+for chalked skin on rock is in that region (Amca et al., 2012). To hold 883 N by friction alone you would
+need to squeeze the bar with roughly **1,500–2,200 N** of inward force. **Maximum whole-hand grip force is
+around 500 N.** Friction is short by a factor of three or four.
+
+> **So a bar in a closed hand is not held by friction. It is held by the fingers wrapping round it** — the
+> curled fingers form a hook, and friction only has to stop the bar rotating and creeping toward the
+> fingertips. That is why a hook grip works at all, why the bar rolling to the fingertips is the failure
+> mode rather than the hand simply sliding open, and why chalk helps at the margin rather than carrying the
+> load. **The entire load still passes through nine long flexor tendons per hand** (four superficial, four
+> deep, one for the thumb), each a few millimetres across, running under the retaining structures of §A.7.
+
+Now put the same 180 kg on a 50 mm bar. Going from a 29 mm barbell to 50 mm raises the circumference by
+about **70%**, and the fingers can no longer wrap far enough to form that hook. Measured directly, maximal
+power-grip force against handle diameter follows a smooth **inverted U**, peaking at a diameter of about
+**17.9% of hand length** (Rossi et al., 2012) — roughly 33 mm for a 185 mm hand, so a standard barbell is
+near the optimum and a 50 mm bar is well down the falling limb.
+
+> **One correction to an earlier claim.** Part XIV first said a thick bar "changes the class rather than the
+> difficulty". That is too strong: the measured relationship is a continuum, not a step. What is fair to say
+> is that as the bar thickens the **hook disappears and the hold becomes progressively more frictional and
+> more dependent on the fingertips** — which is why thick-bar work feels disproportionate to the weight on
+> it, and why it fails suddenly.
+
+### B.10 Setup variables
+
+| Variable | Effect | Evidence |
+|---|---|---|
+| **Wrist at 25–35° extension** | Strongest gripping position; 15° costs a quarter to a third of maximum | O'Driscoll et al., 1992 |
+| **Mixed grip on the deadlift** | Least forearm activation of three grips; rated easiest | Pratt et al., 2020 |
+| **Double-overhand or hook grip** | The choice if you want the pull to train grip | Pratt et al., 2020 |
+| **[Lifting straps](#liftingstraps)** | More repetitions at 80% 1RM, unchanged bar velocity, grip strength preserved across sets | Trahey et al., 2023 |
+| **Forearm pronated** | Raises extensor carpi radialis brevis activity at matched torque | Ikeda et al., 2025 |
+| **Thick bar** | Grip force follows an inverted U against diameter, peaking near 17.9% of hand length | Rossi et al., 2012 |
+| **Chalk** | **Contested.** One study found the friction coefficient rose 18.7–21.6%, another found it **fell** | Amca et al., 2012; and Li et al., 2001 |
+| **Hanging vs squeezing** | Different class entirely; do not expect transfer | §B.4 |
+
+### B.11 What EMG and dynamometry can and cannot settle here
+
+**Dynamometry is unusually good here, with one large caveat.** Handgrip dynamometry is cheap, standardized
+and reproducible, and it underpins the epidemiology of §A.6. In climbers, maximal isometric finger-strength
+testing is also highly reliable — 12 of 15 studies in a systematic review reported intraclass correlation
+coefficients with a median range of **0.85–0.99** (Pérez-Cordero et al., 2025). **The caveat is not
+reliability but validity of scope:** a dynamometer measures the **crush** class and nothing else (§B.4).
+
+**[Electromyography](#emg) here has an extra problem, and it has been quantified.** With electrodes placed around the
+proximal forearm during gripping, adjacent pairs 3 cm apart shared about **40%** of their signal — over
+**60%** on the flexor side — falling to 10% at 6 cm and 2.5% at 9 cm (Mogk & Keir, 2003). So studies in this
+Part that name flexor carpi ulnaris or extensor carpi radialis brevis from surface electrodes should be read
+as naming a **region**, not a muscle. **But the same study found less than 2% common signal between flexor
+and extensor pairs**, so comparisons *across* the two compartments survive intact. Within a compartment the
+resolution is poor; between them it is fine.
+
+**And the usual limit applies, harder than usual.** Excitation is not growth (Part II §B.11), and in this
+Part there is **no** size trial in healthy people to anchor any exercise ranking to (§A.5). Every ranking in
+§D is a ranking of activation or of strength outcome.
+
+### B.12 The mechanical checklist
+
+1. The hand's engines are in the **forearm**; wrist position therefore changes grip strength, always.
+2. **About 25–35° of wrist extension** is the strong position, and 15° already costs a quarter to a third of
+   your grip; a collapsing wrist is a failing grip.
+3. The wrist produces about **1.7× more flexion than extension torque**, and which side has the flatter
+   torque curve is **contested** — so load the two sides differently and do not build a range argument on it.
+4. Classify the demand by **where the load touches the hand** and whether the hand must close (§B.4).
+5. **Support, crush, pinch and open-hand transfer poorly**, so a dynamometer does not measure your deadlift
+   grip and your deadlift does not train your gripper number.
+6. Gripping hard loads the wrist **extensors** isometrically, because closing the fingers pulls the wrist
+   into flexion and something must resist it.
+7. **You are already doing grip work** in every pull, hang and carry — count it before adding more.
+8. Straps move the limit off the hand; mixed grip does the same thing for free.
+9. **Thickness destroys the finger hook**, which is why thick bars feel absurd for the load and fail
+   suddenly.
+10. Almost nothing in a normal programme loads **hand opening** as a movement or **forearm rotation** at
+    all — though the finger extensors co-contract hard whenever you grip (§B.5).
+
+## partxivctherepspecified
+
+**PART C — The rep, specified**
+
+### C.1 The four forearm reps
+
+Three of the four are isometric, which is unusual in this document and follows directly from §B.7: for the
+hand there is no range, only time.
+
+---
+
+**1. The support hold — the one that matters most**
+
+> **Setup.** A loaded bar, two heavy dumbbells, or a pull-up bar. Stand tall, arms hanging.
+>
+> **The grip.** Fingers wrapped, **thumb around the bar** if you want it to be a support grip rather than an
+> open-hand one (§B.4). Bar sitting where the fingers meet the palm rather than deep in the palm — a bar held
+> low in the fingers rolls out, a bar held too deep pinches skin.
+>
+> **The wrist.** Extended, not neutral — the self-selected position for maximal grip is about **35°** of
+> extension, and dropping to 15° costs a quarter to a third of your grip (O'Driscoll et al., 1992). **Hold
+> it there.** If the wrist starts to fold, the set is over whatever the fingers say (§B.2).
+>
+> **The hold.** Squeeze and wait. Time under tension is the whole dose.
+>
+> **The end.** Stop when the bar starts to roll to the fingertips, not when it leaves your hand. Dropping a
+> loaded bar to prove a point costs more than the set was worth.
+
+---
+
+**2. The wrist curl**
+
+> **Setup.** Forearm supported on a bench or thigh, palm up, wrist and hand off the end, bar or dumbbell held.
+>
+> **The rep.** Let the wrist extend fully under control, then curl it up as far as it goes. Full range.
+>
+> **On range.** Use the full one. The two sources that speak to it disagree about which side of the wrist has
+> the flatter torque curve (§B.3), so there is no basis for choosing a partial range on either side.
+>
+> **What not to do.** Letting the bar roll down to the fingers and rolling it back up. That is a fine
+> exercise, but it is a **finger** exercise, and it is not what you counted.
+
+---
+
+**3. The reverse wrist curl**
+
+> **Setup.** The same, palm down.
+>
+> **The rep.** Full range, and **light**. This is the one exercise in Part XIV where the load is routinely too
+> heavy by a factor of two or more, because people pick it by analogy with the wrist curl.
+>
+> **On load.** The wrist can produce about **1.7 times more flexion than extension torque** — 12.2 against
+> 7.1 N·m measured across ten men (Delp et al., 1996) — so expect to use well under half your wrist-curl
+> weight. The range argument Part XIV used to make here has been withdrawn (§B.3).
+
+---
+
+**4. The open-hand or pinch hold**
+
+> **Setup.** A hangboard edge, a thick bar, or two smooth plates held together.
+>
+> **The rep.** Hang or hold. For pinches, the thumb opposes the fingers with **no palm contact** — if the
+> plate touches your palm, it has become a support hold.
+>
+> **The dose.** Seconds, not repetitions. In climbers, frequent **low-intensity** long-duration hangs improved
+> finger strength as much as maximal-load hangs, and combining the two was additive (Gilmore et al., 2024) —
+> though that is retrospective app data from self-selecting users, not a trial.
+>
+> **The caution.** This is the class that hurts people. Build it slowly and prefer the open hand to the crimp
+> (§B.5).
+
+### C.2 The technical errors, in order of how much they cost
+
+| Error | What it costs | Fix |
+|---|---|---|
+| **Letting the wrist fold under a heavy hold** | The grip goes with it; the set ends early | Hold neutral-to-slightly-extended; drop the load if you cannot |
+| **Using straps on every set** | Removes the grip stimulus from your entire pulling volume | Straps on top sets only, bare hands on back-off sets (§B.8) |
+| **Always using mixed grip** | The grip with the least forearm demand of the three (Pratt et al., 2020) | Double-overhand or hook until it genuinely limits the lift |
+| **Loading reverse wrist curls like wrist curls** | Form collapses, elbow takes it | The wrist makes about 1.7× more flexion than extension torque (Delp et al., 1996) — start well under half |
+| **Crimping everything on a hangboard** | The position pulley injuries happen in (§A.8) | Open hand by default |
+| **Counting a bar roll as a wrist curl** | Different exercise, different muscles | Pick one deliberately |
+| **Training grip the day before a heavy pull** | Fatigues the [limiting link](#limitinglink) for the lift that matters | Grip work after pulling, or on separate days |
+| **Chasing a gripper number to improve your deadlift** | Different class; poor transfer (§B.4) | Train the class you care about |
+
+### C.3 Prerequisites
+
+- **Skin.** The genuine limiting tissue for high-volume grip work. Calluses that are allowed to grow tall
+  tear; filed flat, they do not. There is no strength prerequisite for a support hold — everyone can do one —
+  but there is a skin one.
+- **A wrist that tolerates end-range extension.** If it does not, wrist curls and push-up positions will
+  provoke it before the muscles are trained.
+- **No current numbness.** See §A.7 and §E.4.
+
+### C.4 Cues — which work, which harm
+
+| Cue | Verdict |
+|---|---|
+| "Squeeze the bar hard" | **Use.** Genuinely raises forearm demand and stabilizes the wrist |
+| "Keep the wrist straight" | **Use, but it undersells it.** The strongest grip is at 25–35° of *extension*, not straight (O'Driscoll et al., 1992); "straight" is simply much better than folded |
+| "Hold the bar in your fingers, not your palm" | **Conditional.** Correct for open-hand work, wrong for a heavy support hold |
+| "Thumbless grip is safer on your wrists" | **Avoid for heavy holds.** It changes the class (§B.4) and removes the thumb's contribution |
+| "Train grip to lower your risk of dying" | **Not supported.** The association is real; the intervention has never been tested (§A.6) |
+| "Crush a gripper to build deadlift grip" | **Weak.** Different class, poor expected transfer (§B.4) |
+| "Squeeze until the fingers open" | **Avoid on loaded bars.** Stop when the bar starts to roll |
+
+### C.5 The limiting links
+
+- **On pulls and carries: the hand itself.** That is the whole point — and it is the one place in this
+  document where the limiting link and the target muscle are the same thing.
+- **On wrist curls: nothing.** Isolated, small, and self-limiting.
+- **On hangs and hangboards: the skin and the pulleys**, before the muscle.
+- **On grippers: hand size against the tool.** A gripper that does not fit your hand measures your hand's
+  geometry as much as its strength.
+
+### C.6 What a hard forearm set feels like
+
+A dense, hot, spreading ache through the whole forearm that arrives late and leaves slowly, and a hand that
+will not fully close afterwards. Both are normal.
+
+What is not normal: **pins and needles into the fingers**, numbness that outlasts the set, a sharp pop in a
+finger during a hard hold, or a localized point of pain at either elbow bump that gets worse week by week.
+Those are §E.4.
+
+### C.7 How to know it worked
+
+1. **You hold heavier for longer.** Load × time on your support holds is the whole progress signal.
+2. **Your working sets stop needing straps.**
+3. **Your double-overhand deadlift creeps toward your strapped deadlift.** This is the cleanest real-world
+   grip measure a lifter has.
+4. **What a dynamometer will tell you: something else.** It measures the crush class (§B.4), and twelve weeks
+   of dedicated wrist and forearm training bought no extra grip strength over the general programme those
+   athletes were already doing (Szymanski et al., 2004).
+5. **What a tape measure might tell you, slowly.** Forearm circumference rose **0.6–0.8 cm in five weeks** of
+   finger training in advanced climbers (Andersen et al., 2026) — a pilot study, and circumference counts
+   skin and swelling too. It is the only published expectation that exists (§A.5).
+
+## partxivdexercisecatalogue
+
+**PART D — Exercise catalogue**
+
+Organized by grip demand class (§B.4), because that is the variable that decides what an exercise trains.
+**A warning that applies to every row:** the only size outcome anywhere in this literature is forearm
+**circumference** in one pilot trial (Andersen et al., 2026). Every verdict below otherwise rests on
+activation data, on strength outcomes, or on mechanics. Nothing here is a growth ranking.
+
+### D.1 Support grip — the class you already train
+
+| Exercise | What is measured | Verdict |
+|---|---|---|
+| **Deadlift, double-overhand** | Greater brachioradialis and flexor carpi ulnaris activation than mixed grip at every load, in both sexes (Pratt et al., 2020) | **The reference exercise.** Free grip training attached to a lift you already do |
+| **Hook grip** | Same as above — among the two demanding grips | Highest load tolerance; a skill and briefly painful to learn |
+| **Mixed grip** | **Least** forearm activation of three grips, rated easiest (Pratt et al., 2020) | Use it to lift the most weight, not to train grip |
+| **Farmer's / [suitcase carry](#suitcasecarry)** | Not measured for the forearm directly; the force argument is §B.9 | **The best dedicated support-grip exercise.** Loadable, timed, and trains the trunk too |
+| **Dead hang** | Not measured for the forearm | Free, scalable by one arm or added weight, and the easiest to progress by time |
+| **Barbell / dumbbell row, pull-up, [pulldown](#latpulldown)** | — | Substantial incidental grip work; count it (§B.8) |
+| **Lifting straps** | More repetitions at 80% 1RM, unchanged bar velocity (Trahey et al., 2023); no consistent effect on pulling exercises across the literature (Martins et al., 2026) | A tool for moving the limit off the hand. Not a grip exercise |
+
+### D.2 Crush grip — the class the tests measure
+
+| Exercise | What is measured | Verdict |
+|---|---|---|
+| **Hand gripper** | No trial of grippers specifically. But pooling 22 randomized trials of hand-focused training in 1,017 healthy adults, grip strength improved with **g = 0.44 (0.23–0.64)** — mostly in older adults (g = 0.97 vs 0.18 in younger), at high risk of bias (Akbaş, 2025) | The only common exercise in this class. **Trains what a dynamometer measures**, which is a real effect and not what your pulls need |
+| **Hand dynamometer squeeze** | The measurement instrument of §A.6 | A test, not an exercise |
+
+**The honest verdict on this class:** it is the class the famous epidemiology is built on (§A.6) and the
+class your deadlift does not specifically train. Training it **does** raise the number, modestly, and mostly
+in older people. If you want your grip **number** to go up, train here. If you want to hold heavier weights,
+go to §D.1.
+
+### D.3 Pinch grip — the class nobody trains
+
+| Exercise | What is measured | Verdict |
+|---|---|---|
+| **Plate pinch** (two smooth plates, thumb against fingers) | Not measured | The reference exercise. Timed holds, easily loaded by adding a plate |
+| **Hex dumbbell held by the head** | Not measured | The same thing with equipment you already have |
+| **Thick-bar hold** | Not measured; mechanically a partial pinch (§B.9) | Brutal for the load used, and the reason is geometry rather than strength |
+
+Pinch strength is the most neglected class and the cheapest to add. **This document's judgement** — there is
+no trial evidence on its value.
+
+### D.4 Open-hand and finger grip — the class with the best training evidence
+
+| Exercise | What is measured | Verdict |
+|---|---|---|
+| **Hangboard, maximal hangs** | Improved finger strength; matched by low-intensity hangs, and the two were additive (Gilmore et al., 2024) | Effective, and the class with actual trials behind it |
+| **Hangboard, low-intensity long-duration hangs** | As effective as maximal hangs in the same analysis (Gilmore et al., 2024) | **Gentler and apparently equally effective.** Retrospective app data, not a trial |
+| **Combining maximal and intermittent hangs** | In a randomized 8-week comparison of three programmes for grip **endurance**, intermittent hangs gained 45% (ES 1.0), maximal hangs 34% (ES 0.6), and **the combination only 7% (ES 0.1)** (López-Rivera & González-Badillo, 2019) | **Contested.** One retrospective analysis says combining is additive for strength; one randomized trial says it was the worst of three for endurance |
+| **Dynamic finger-flexor training** | The training group improved dynamic finger strength (ES 1.83) **and isometric peak and average force** (ES 0.98 and 0.75); the between-group difference in dynamic strength was p = 0.075, ES 0.90 — a near-miss on a small sample, not a flat null. **No change in bouldering performance or rate of force development in either group** (Saeterbakken et al., 2024) | Works on the muscle, unproven on the sport |
+| **Low-load finger training with blood-flow restriction** | Two concordant randomized trials. +9 ± 8% [maximal voluntary contraction](#mvic) and +22 ± 15% critical force in 5 weeks, matching high load (+13% and +24%); thickness measured, not among the significant findings (Perrin et al., 2026). And in 22 climbers, **forearm circumference rose 0.8 cm with restriction and 0.6 cm with high load**, with no group difference (Andersen et al., 2026) | **Moderate evidence** that it matches heavy loading for strength at lower mechanical cost |
+| **Thick bar without the thumb** | Not measured | A hangboard substitute for people who do not have one |
+
+### D.5 Wrist and rotation exercises
+
+| Exercise | What is measured | Verdict |
+|---|---|---|
+| **Wrist curl** | Wrist flexors are near-maximal across the whole range (Loren et al., 1996) | Straightforward. Full range, unremarkable, works |
+| **Reverse wrist curl** | Not tested directly. The trial usually cited for it used an **[eccentric](#eccentriccontraction) twist of a rubber bar**, not a reverse wrist curl (Tyler et al., 2010) — see §E.4 | Reasonable as a wrist-extensor exercise; the tennis-elbow evidence belongs to a different movement |
+| **Eccentric rubber-bar twist (the trial's own exercise)** | Added to standard treatment for chronic tennis elbow it beat standard treatment alone on every outcome — disability 76% vs 13%, pain 81% vs 22%, tenderness 71% vs 5%, strength 79% vs 15% (Tyler et al., 2010) | **The best-evidenced exercise in Part XIV**, and it costs the price of a rubber bar |
+| **Pronation / supination with a hammer or cable** | Not measured for training | The only way to load rotation at all. Nothing else in a programme does (§A.4) |
+| **Finger extension against a band** | Not measured as training. Note the finger extensors are **not** unloaded in normal gripping — their stiffness rose with fingertip force in both climbing grips (Hugues et al., 2026) | The only exercise that loads hand opening as a movement. Cheap, quick, and entirely unevidenced |
+| **Wrist roller** | Not measured | Loads flexion and extension in one tool, in a very long time-under-tension format |
+
+### D.6 Selection rules
+
+1. **Count what you already do first.** A programme with deadlifts, rows and carries contains a great deal of
+   support-grip work. Adding more before counting is how forearms get over-trained and elbows get sore.
+2. **Take the grip off the straps, not onto a gripper.** Double-overhand your back-off sets before buying
+   equipment (§B.8).
+3. **Add one timed support hold** — a carry or a hang — if you want a dedicated exercise. It is the highest
+   return per minute in this Part.
+4. **Add eccentric wrist-extensor work if either elbow has ever hurt**, and for no other reason. Use the
+   rubber-bar twist the trial actually tested rather than the reverse wrist curl it is usually reported as
+   (§E.4).
+5. **Add a pinch hold if you want the neglected class**, and accept that the evidence for doing so is
+   mechanical rather than experimental.
+6. **Do not buy a second exercise in the same class.** Carries and hangs are the same class; so are grippers
+   and dynamometers.
+7. **Train the class you actually care about**, because they transfer poorly (§B.4).
+
+## partxivecontextmodifiers
+
+**PART E — Context modifiers — when "perfect" changes**
+
+### E.1 Goal contexts
+
+**Visible size.** The muscles crossing the wrist are **16% of upper-limb muscle volume** against 31% for the
+elbow and 53% for the shoulder (Holzbaur et al., 2007a) — and that figure excludes brachioradialis and the
+rotators, which sit in the forearm but cross other joints. The compartment also carries relatively little
+subcutaneous fat, so what is there shows early. The only measured expectation is **0.6–0.8 cm of
+circumference in five weeks** of hard finger training (Andersen et al., 2026).
+
+**Performance in pulling.** The target is the **support** class (§D.1), and the cheapest route is removing
+straps from your lighter sets.
+
+**Climbing and grappling.** The target is the **open-hand** class, and it is the only class with randomized
+training evidence behind it (§D.4).
+
+**Health markers.** Grip strength is an outstanding predictor and an untested lever (§A.6). Train for the
+reasons in the rest of this Part, and treat a rising grip number as a pleasant side effect rather than as the
+mechanism.
+
+**Rehabilitation.** Out of scope, with one exception: the best-evidenced exercise in this Part is a
+**rehabilitation** exercise for tennis elbow (§E.4).
+
+### E.2 Body contexts
+
+- **Hand size.** Determines how far your fingers wrap a bar and therefore how much of a support grip you
+  actually have. It is also why a gripper rated for one hand measures something different in another (§C.5).
+  No data, unavoidable geometry.
+- **Palmaris longus.** Absent in a substantial minority of people, in one or both arms, with no functional
+  consequence. If you cannot find its tendon at your wrist, nothing is wrong.
+  *[consensus — no single source]*
+- **Body mass.** Forearm muscle volume tracked body-mass index and **not** age in 42 healthy adults
+  (Fundaun et al., 2025).
+- **Sex.** Men had larger forearm muscle volumes in the same study; forearm-training trials are largely in
+  men and boys (Szymanski et al., 2004) or in male climbers (Andersen et al., 2023). No sex-specific
+  prescription is justified and none is given.
+- **Age.** Grip strength falls with age and is the basis of sarcopenia screening, but forearm muscle **volume**
+  did not correlate with age in the imaging study above. Those two facts are not contradictory and the gap
+  between them is unexplained.
+
+### E.3 Equipment contexts
+
+| Equipment | What changes |
+|---|---|
+| **Chalk** | **Contested.** One study measured the friction coefficient rising 18.7–21.6% with chalk (Amca et al., 2012); an earlier one found it **fell**, because drying the skin reduces its compliance (Li et al., 2001) |
+| **Straps** | Move the limit off the hand. More reps at 80% 1RM, same bar velocity (Trahey et al., 2023) |
+| **Hook grip** | Straps made of your own thumb: high demand, high load tolerance, briefly painful to learn |
+| **Thick bar or fat grips** | Grip force follows an inverted U against handle diameter, peaking near 17.9% of hand length (Rossi et al., 2012); a thick bar sits well down the falling limb |
+| **Hangboard** | The only common tool for the open-hand class, and the one with training evidence (§D.4) |
+| **Gripper** | The only common tool for the crush class, and it has no training trial behind it |
+| **Nothing at all** | A dead hang from any bar covers the main class for free |
+
+### E.4 Pain and pathology contexts
+
+This is the most useful section in Part XIV, because the forearm is where a lifter's overuse problems
+actually happen.
+
+**Lateral epicondylalgia ("tennis elbow").** Pain at the outer elbow over the common extensor origin,
+provoked by gripping, worst with the forearm pronated — the position that raises extensor carpi radialis
+brevis activity at a fixed torque (Ikeda et al., 2025). **The treatment evidence is unusually good for this
+document.** Twenty-one patients with chronic lateral epicondylosis were randomized to standard treatment or
+standard treatment plus an isolated eccentric wrist-extensor exercise. The groups were matched on symptom
+duration, number of visits and treatment length, and every outcome favoured the eccentric group:
+
+> | Outcome | Eccentric | Standard | p |
+> |---|---|---|---|
+> | Disability (DASH) | **76%** improvement | 13% | .01 |
+> | Pain (VAS) | **81%** | 22% | .002 |
+> | Tenderness | **71%** | 5% | .003 |
+> | Strength | **79%** | 15% | .011 |
+>
+> (Tyler et al., 2010). **Moderate evidence** — one small randomized trial, twenty-one patients, an add-on
+> design rather than a head-to-head.
+
+**Know what the exercise actually was.** It is routinely reported as a reverse wrist curl. It was not: the
+trial used an **eccentric twist of an inexpensive rubber bar**, held in both hands and untwisted slowly by
+the painful side. Part XIV said "reverse wrist curl" in its first draft and that was wrong. If you want the
+result the trial produced, do the movement the trial used; a reverse wrist curl is a reasonable
+wrist-extensor exercise with no trial behind it.
+
+**Medial epicondylalgia ("golfer's elbow").** The mirror image at the inner elbow, over the common flexor
+origin, provoked by gripping and by resisted wrist flexion. Far less studied than the lateral version, and
+the reasonable inference is the same progressive loading applied to the flexors. **It is an inference**, not
+a transfer of the lateral trial.
+
+**Finger pulley injury.** A pop felt in a finger during a hard hold, with pain and swelling at the base of
+the finger, classically from a crimped position (§B.5). Finger pulley injuries were frequent in both sport
+climbing and bouldering across 45 studies, and fingers and hands were among the most-injured regions
+(Vagy et al., 2026). On taping — the standard self-treatment — a systematic review of eight studies, 206
+climbers and 23 pairs of cadaver hands found evidence of **low to moderate certainty**
+(Larsson et al., 2022). **Evidence remains limited and inconsistent.**
+
+**Carpal tunnel syndrome.** Numbness and tingling in the thumb, index, middle and half the ring finger, worse
+at night. It is a nerve compression, not a muscle problem, and grip training does not address it (§A.7).
+
+**The general rule for this region.** Elbow and wrist overuse problems respond to **loading the painful
+tissue progressively**, and they do not respond to resting until they feel better and then returning to the
+same load. That is the pattern the tennis-elbow trial demonstrates and the pattern the rest of this document
+follows for tendon problems (Part XII §E.4).
+
+### E.5 Sport contexts
+
+- **Climbing.** The forearm is the sport's defining adaptation: elite climbers had **more forearm lean mass**
+  than lower-level climbers with identical total lean mass — and, tellingly, **no better handgrip strength**
+  (Carrasco et al., 2024). Training evidence is better here than anywhere else in the Part (§D.4), and so is
+  the injury risk (§A.8).
+- **Grappling and strongman.** Support and pinch classes, trained by the sport itself in large volumes. The
+  limiting factor is usually recovery of the elbows, not stimulus.
+- **Throwing and racquet sports.** The forearm is loaded eccentrically and at speed, and the size asymmetry
+  it produces is the clearest natural experiment available. In professional tennis players the dominant
+  **forearm superficial flexors** were **11–15%** larger than the non-dominant by magnetic resonance imaging
+  (Sanchis-Moysi et al., 2010b); in prepubescent players the dominant forearm flexors were **21%** and the
+  extensors **25%** larger than the other arm, against 3% total-arm asymmetry in controls
+  (Sanchis-Moysi et al., 2012). **That is the best answer this document has to "how much can a forearm
+  grow"**, and it comes from years of unilateral sport rather than from a training trial. Twelve weeks of
+  added wrist and forearm training in high-school baseball players raised every wrist and forearm strength
+  measure, though not grip strength beyond what the general programme already gave (Szymanski et al., 2004).
+- **Powerlifting.** Grip is a deadlift problem and a grip-selection problem before it is a training problem
+  (§B.8).
+- **Desk and manual work.** Both epicondylalgias are occupational as often as athletic.
+
+### E.6 Session and cycle contexts
+
+- **Where in the session.** Grip work goes **last**, always. It is the limiting link for everything else you
+  might do afterwards (§C.5).
+- **Same day as heavy pulls.** Your grip has already worked. Direct forearm work on a deadlift day is
+  duplication; if you do it, do it after.
+- **[Frequency](#trainingfrequency) tolerance.** The forearm recovers quickly from isometric holds and slowly from heavy finger
+  loading. Treat hangboard work like a joint exposure rather than a muscle session. **This document's
+  judgement.**
+- **Deloads.** Skin and elbows first. If either is sore, stop the direct work before you stop the pulling.
+
+### E.7 The context decision table
+
+| If… | Then… |
+|---|---|
+| You want bigger forearms | Support holds and carries. The only published expectation is 0.6–0.8 cm of circumference in five weeks of hard finger work (§A.5) |
+| Your deadlift grip fails | Drop the straps on back-off sets; use double-overhand or hook, not mixed (§B.8) |
+| You want a higher grip **number** | Train the crush class — but know it is a different class from your pulls (§D.2) |
+| You climb | Open-hand hangs, low-intensity as well as maximal (§D.4) |
+| Either elbow hurts | Eccentric wrist-extensor work — the rubber-bar twist the trial tested, not the reverse wrist curl it is reported as (§E.4) |
+| You have numbness or tingling | Nerve question, not a training question (§A.7) |
+| A finger popped during a hard hold | Stop, and see §E.4 — taping evidence is weak either way |
+| You already deadlift, row and carry heavy | You have substantial grip volume. Add one pinch or one hang, not a programme |
+
+## partxivfprogramming
+
+**PART F — Programming**
+
+> **Read this first.** One trial has reported a forearm **size** outcome — circumference, in a pilot of 22
+> climbers (Andersen et al., 2026) — and **no study has compared sets, frequency, load, rep range, range of
+> motion or failure proximity with any size outcome** (§A.5). What exists otherwise is a handful of strength
+> trials, most of them in climbers' fingers, one twelve-week trial of added wrist and forearm work, and one
+> meta-analysis of hand-focused training. This section reports those and marks everything else as judgement.
+> Where a number appears without a citation, it is reasoning from Part I and from the other Parts.
+
+### F.1 Volume
+
+**What is known.** The twelve-week trial added wrist and forearm exercises **three days a week** on top of a
+normal periodized programme, and improved every wrist and forearm strength measure — without adding to grip
+strength (Szymanski et al., 2004). The blood-flow-restriction finger trials used **two sessions a week** for
+five weeks (Perrin et al., 2026), the same dose in the circumference pilot (Andersen et al., 2026), and **three** in the
+dynamic finger-strength trial (Saeterbakken et al., 2024).
+
+**What is judgement.** Count incidental work first, then add:
+
+| Class | Direct sets or holds per week | Where they usually come from |
+|---|---|---|
+| **Support** | **0–4 extra** | Deadlifts, rows, carries and hangs already supply this |
+| **Crush** | **0–3** | Only if you specifically want the grip number |
+| **Pinch** | **2–4** | Almost always zero without deliberate work |
+| **Open-hand** | **2–6 holds** | Hangboard; zero in a normal gym programme |
+| **Wrist flexion/extension** | **2–4** | Wrist curls; reverse curls if an elbow has complained |
+
+**The counting rule that matters more than the numbers.** A session with heavy deadlifts, two sets of rows
+and a carry contains more support-grip work than any forearm routine you would write. **This document's
+judgement.**
+
+### F.2 Frequency
+
+**What is known.** Three times a week for wrist and forearm work (Szymanski et al., 2004). Twice a week for
+blood-flow-restricted finger training (Perrin et al., 2026) and three times for dynamic finger-strength
+training (Saeterbakken et al., 2024). Frequent low-intensity finger loading was as effective as infrequent
+maximal loading in a retrospective analysis (Gilmore et al., 2024) — though a randomized trial of three
+8-week hangboard programmes found **combining** maximal and intermittent hangs the worst of the three for
+grip endurance (López-Rivera & González-Badillo, 2019).
+
+**What is judgement.** Two to three exposures a week for direct work, and the light classes tolerate more.
+The constraint is rarely the muscle — it is the **skin, the elbows and the finger pulleys**.
+
+### F.3 Load and time
+
+Most of this Part is isometric (§B.7), so the dose is stated in **seconds**, not repetitions.
+
+| Class | Prescription | Basis |
+|---|---|---|
+| **Support holds** | **20–60 s** per hold, loaded so the hold ends there | Judgement |
+| **Carries** | **30–60 m** or 30–60 s, load-limited | Judgement |
+| **Open-hand hangs** | **7–15 s** maximal, or **20–40 s** low-intensity | Gilmore et al., 2024 (retrospective) |
+| **Finger training, loaded** | **~40% MVC to failure with occlusion**, or **~75% MVC** | Perrin et al., 2026 |
+| **Wrist curls** | **10–20 repetitions**, full range | Judgement |
+| **Reverse wrist curls** | **10–20 repetitions**, full range, at well under half your wrist-curl load | Judgement; load ratio from Delp et al., 1996 |
+
+**One finding worth weighing.** In advanced climbers, five weeks of low-load blood-flow-restricted finger
+training to failure at ~40% of maximum produced **+9 ± 8% maximal voluntary contraction and +22 ± 15%
+critical force**, statistically comparable to high-load training at ~75% (**+13 ± 11%** and **+24 ± 21%**),
+with no change in controls — at **19% lower force–time integral** but greater discomfort (Perrin et al.,
+2026). **Moderate evidence** that the finger flexors do not need heavy loading to get stronger.
+
+### F.4 Proximity to failure
+
+Nothing has been tested. Two considerations, in opposite directions:
+
+- **Toward going close:** the finger-training trial that worked took low-load sets **to failure**
+  (Perrin et al., 2026).
+- **Away from it:** on a loaded bar, "failure" means the bar leaves your hand, and on a hangboard it means a
+  tendon takes a load the muscle was supposed to be holding. **Neither is a good place to be.**
+
+**This document's judgement:** stop support holds when the bar starts to roll, stop hangs a few seconds short,
+and take wrist curls to 0–2 [repetitions in reserve](#rir) like any other small [isolation](#isolation) exercise.
+
+### F.5 Progression
+
+- **Support holds:** load first, then time. Then one hand.
+- **Carries:** distance, then load.
+- **Hangs:** two hands to one, body weight to added weight, bigger edge to smaller — **in that order**,
+  because edge size is what loads the pulleys.
+- **Pinch:** add a plate, then add time.
+- **Wrist curls:** load, in the smallest increments you have.
+- **Grippers:** the only class where progression is a fixed ladder of tools rather than a continuum, which is
+  a real disadvantage.
+
+### F.6 Session templates
+
+**A. Already deadlifting, rowing and carrying — add the missing classes (about 6 minutes, 2×/week)**
+
+| Exercise | Prescription |
+|---|---|
+| Plate pinch hold | 3 × 20–30 s per hand |
+| Reverse wrist curl | 2 × 12–20, light |
+
+**B. Grip is limiting your pulls (no extra session at all)**
+
+| Change | Detail |
+|---|---|
+| Straps | Top sets only |
+| Deadlift grip | Double-overhand or hook on everything below the top set |
+| Finisher | One set of dead hangs or one heavy carry, after pulling |
+
+**C. Climbing or open-hand focus (about 20 minutes, 2×/week)**
+
+| Exercise | Prescription |
+|---|---|
+| Maximal hangs, open hand **or** intermittent hangs — pick one and run it | 4–6 × 7–15 s, long rests |
+| Eccentric rubber-bar twist | 3 × 15 — the elbow insurance, and the exercise the trial actually used |
+
+**Why "pick one".** A retrospective analysis found maximal and low-intensity hangs additive for strength
+(Gilmore et al., 2024); a randomized trial found combining maximal and intermittent hangs the **worst** of
+three programmes for grip endurance, at +7% against +45% and +34% (López-Rivera & González-Badillo, 2019).
+**Contested** — so run one method for a block rather than blending them.
+
+**D. Elbow pain (the one with trial evidence)**
+
+| Exercise | Prescription |
+|---|---|
+| Eccentric rubber-bar twist | As in Tyler et al., 2010 — **their exercise, not a reverse wrist curl** — added to whatever else you are doing |
+
+### F.7 Timeline, measurement and expectations
+
+| Timeframe | What to expect |
+|---|---|
+| Sessions 1–3 | Large jumps in hold time. This is skill, tolerance and skin, not muscle |
+| Weeks 1–2 | Skin is the limiting tissue. Manage calluses before they manage you |
+| **Week 5** | The measured point for finger flexors: **+9% to +13% maximal voluntary contraction**, +22% to +24% critical force. Thickness was measured and **is not among the significant findings** (Perrin et al., 2026) |
+| **Week 12** | The measured point for wrist and forearm strength: significant gains in every wrist measure, and **no gain in grip strength beyond what the general programme already gave** (Szymanski et al., 2004) |
+| Months 3–6 | Visible forearm change, if anywhere. The only long-run anchor is unilateral sport: tennis players' dominant forearm flexors run **11–25%** larger than the other arm — 11–15% in professionals (Sanchis-Moysi et al., 2010b) and 21% in prepubescent players (Sanchis-Moysi et al., 2012) |
+
+**How to measure it.** Use **load × time on a support hold**, and your double-overhand deadlift against your
+strapped deadlift. Do not use a dynamometer to judge your training unless the crush class is what you trained
+(§B.4), and expect a tape measure to move slowly on a compartment this small.
+
+**What to expect in absolute terms.** For strength, roughly a tenth in five weeks at the fingers and rather
+more at the wrist over twelve, in untrained or sport-trained people. For size, **0.6–0.8 cm of forearm
+circumference in five weeks** in one pilot trial (Andersen et al., 2026), and **11–25%** inter-arm asymmetry
+after years of unilateral sport — 11–15% in professional tennis players (Sanchis-Moysi et al., 2010b), 21% in
+prepubescent ones (Sanchis-Moysi et al., 2012) — as an upper anchor.
+
+## partxivgsynthesis
+
+**PART G — Synthesis, and what the evidence does not support**
+
+### G.1 The rules that hold
+
+1. **The muscles that close your hand are in your forearm**, so wrist position changes grip strength — always,
+   and whether or not you meant it to (§B.2).
+2. **About 25–35° of wrist extension is the strong gripping position** — at 15° you have two-thirds to
+   three-quarters of your maximum (O'Driscoll et al., 1992) — and a wrist folding under load is a grip that
+   is already failing.
+3. **"Grip" is four different demands** — support, crush, pinch and open-hand — decided by where the load
+   touches the hand and whether the hand must close (§B.4).
+4. **They transfer poorly.** Twelve weeks of added wrist and forearm training improved every wrist measure
+   and added **nothing** to grip strength (Szymanski et al., 2004), while hand-focused training does raise it
+   (Akbaş, 2025), and elite climbers have larger forearms with no better handgrip at all
+   (Carrasco et al., 2024).
+5. **You are already doing grip work** in every pull, hang and carry; count it before adding any (§B.8).
+6. **Straps and mixed grip both move the limit off the hand.** Use them to lift more, not to train more
+   (Pratt et al., 2020) — as do straps (Trahey et al., 2023).
+7. **The wrist makes about 1.7× more flexion than extension torque** — 12.2 against 7.1 N·m
+   (Delp et al., 1996) — so load the two sides very differently.
+8. **The best-evidenced exercise in this Part is a rehabilitation exercise**: an eccentric rubber-bar twist
+   beat standard treatment for chronic tennis elbow on every outcome measured (Tyler et al., 2010).
+9. **Finger flexors get stronger without heavy loading**: five weeks at ~40% of maximum with occlusion
+   matched ~75% without it (Perrin et al., 2026).
+10. **Forearm size tracks grip strength** (Fundaun et al., 2025), separates elite climbers from good ones at
+    identical total lean mass (Carrasco et al., 2024), and rises measurably — 0.6–0.8 cm of circumference in
+    five weeks — with hard finger training (Andersen et al., 2026).
+
+### G.2 What the evidence does **not** support
+
+**That training grip strength lowers your risk of dying.** Grip strength predicts all-cause and
+cardiovascular death better than systolic blood pressure across 139,691 people (Leong et al., 2015), and the
+authors of that study explicitly call for research to test whether *improving* strength changes the outcome.
+**That test has not been done.** Grip strength is a thermometer, and this Part declines to treat it as a
+thermostat.
+
+**That a hand dynamometer measures your gripping ability.** It measures the **crush** class (§B.4). The
+support class — what actually holds a barbell — is not what it tests, which is the most economical
+explanation for the Szymanski result.
+
+**That direct wrist and forearm work adds grip strength on top of a general programme.** In the only
+controlled test, the added work raised six other wrist and forearm measures and added nothing to grip
+strength — which **both** groups improved anyway (Szymanski et al., 2004). Training the hand *closing* is a
+different matter and does work, at g = 0.44 across 22 trials, mostly in older adults (Akbaş, 2025).
+
+**That the dose for growing a forearm is known.** It is not. **One** size outcome exists — forearm
+circumference up 0.6–0.8 cm over five weeks of twice-weekly finger training in a pilot of 22 climbers
+(Andersen et al., 2026) — and **no study has compared sets, frequency, load, rep range, range of motion or
+failure proximity with any size outcome**. A companion trial measuring finger-flexor thickness over the same
+five weeks reports strength and endurance gains with no thickness change among its significant findings
+(Perrin et al., 2026). Everything in §F beyond those results is judgement, and should be read that way.
+
+**That forearm architecture is well characterized in living people.** The complete per-muscle dataset comes
+from a **single 104-year-old cadaver**, severely atrophied (Ruggiero et al., 2016); the larger cadaveric
+series give structure rather than size, across 25 wrist muscles (Lieber et al., 1990) and 154 forearm muscles
+(Lieber et al., 1992). What is solid in living people is the compartment total: **16% of upper-limb muscle
+volume for the muscles crossing the wrist** — a figure that excludes brachioradialis and the rotators
+(Holzbaur et al., 2007a).
+
+**That a thick bar simply makes a grip "harder".** Maximal power-grip force against handle diameter is a
+smooth inverted U peaking near **17.9% of hand length** (Rossi et al., 2012). A thick bar is down the falling
+limb of a continuum; it does not put the hold into a different category, though it does progressively destroy
+the finger hook that carries most of the load (§B.9).
+
+**That a bar is held by friction.** It is not. Holding 883 N per hand by friction alone would need 1,500–2,200
+N of squeeze against a maximum whole-hand grip of about 500 N. **The curled fingers form a hook**; friction
+only stops the bar creeping (§B.9).
+
+**That chalk is known to help.** **Contested.** One study measured the friction coefficient rising 18.7–21.6%
+(Amca et al., 2012); an earlier one measured it falling, because drying the skin makes it less compliant
+(Li et al., 2001).
+
+**That dynamic finger-strength training improves climbing.** In the one randomized test, five weeks of it
+produced **no change in bouldering performance or rate of force development** in either group, and the
+between-group difference in dynamic finger strength missed significance at p = 0.075 — though the training
+group did improve its own isometric peak and average force (Saeterbakken et al., 2024).
+
+**That low-intensity hangs are proven equal to maximal hangs, or that combining methods is additive.** The
+"as effective, and additive" finding comes from a **retrospective** analysis of self-selected app users
+(Gilmore et al., 2024). A randomized 8-week comparison of three hangboard programmes found the **combination
+was the worst of the three** for grip endurance — +7% against +45% for intermittent hangs and +34% for
+maximal hangs (López-Rivera & González-Badillo, 2019). **Contested.**
+
+**That taping a finger pulley injury helps.** The systematic review of it found evidence of **low to moderate
+certainty** across eight studies (Larsson et al., 2022). **Evidence remains limited and inconsistent.**
+
+**That straps blunt long-term grip development.** Widely asserted, never tested. What is measured is acute:
+more repetitions at the same velocity (Trahey et al., 2023), and no consistent effect on pulling exercises
+across the literature (Martins et al., 2026).
+
+**That a thumbless grip is safer, or that a thick bar is simply "harder".** The thumbless grip and the thick
+bar both **change the grip class** (§B.4, §B.9); they do not scale the same demand up or down.
+
+**That surface electromyography over the forearm identifies individual muscles.** It does not: adjacent
+electrode pairs 3 cm apart shared about 40% of their signal, over 60% on the flexor side
+(Mogk & Keir, 2003). **But the same study found under 2% common signal between flexor and extensor pairs**,
+so comparisons across the two compartments are sound even though comparisons within one are not.
+
+### G.3 The one-paragraph version
+
+Your fingers have almost no muscle in them; the engines are in your forearm and they pull through long
+tendons that cross your wrist — which is why bending your wrist weakens your grip, and why a wrist that folds
+under a heavy bar is a grip that has already failed. "Grip" is really four demands, sorted by where the load
+touches your hand and whether the hand has to close: **support** (a bar you hang onto), **crush** (a
+gripper), **pinch** (a plate between thumb and fingers) and **open-hand** (fingertips on an edge). They
+transfer poorly, which is why twelve weeks of wrist and forearm training improved six wrist measures and left
+grip strength exactly where it was, and why a hand dynamometer tells you almost nothing about your deadlift.
+You are already training the support class in every pull, hang and carry, so the cheapest improvement
+available is to take the straps off your lighter sets and stop defaulting to mixed grip. Add a timed carry or
+hang if you want a dedicated exercise, a plate pinch if you want the neglected class, and **reverse wrist
+curls if either elbow has ever hurt** — that last one is the only exercise here with a randomized trial behind
+it. Finally, grip strength is the most famous number in this document and the most misread: it predicts death
+better than blood pressure does, and nobody has ever shown that training it changes anything at all.
+
+# partxvmasterglossary
+
+**Part XV — Master Glossary**
 
 Every technical term used anywhere in this document, defined formally with formula and units where
 the quantity is physically or operationally defined.
@@ -19068,183 +20341,200 @@ plain same-file heading anchor.
 
 | Term | Layer | Term | Layer |
 |---|---|---|---|
-| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Multifidus](#multifidus) | 9 |
-| [45° back extension (hip extension)](#backextension) | 12 | [Muscle thickness](#musclethickness) | 5 |
-| [Ab wheel](#abwheel) | 12 | [Muscle volume](#musclevolume) | 5 |
-| [Abdominal wall](#abdominalwall) | 9 | [Musculocutaneous nerve](#musculocutaneousnerve) | 9 |
-| [Accessory nerve (CN XI)](#accessorynerve) | 9 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
-| [Achilles tendinopathy](#achillestendinopathy) | 13 | [Net joint moment](#netjointmoment) | 11 |
-| [Achilles tendon](#achillestendon) | 3 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
-| [ACL reconstruction](#aclreconstruction) | 13 | [Nordic hamstring curl](#nordiccurl) | 12 |
-| [Acromioclavicular joint (AC joint)](#acromioclavicularjoint) | 3 | [Nuchal ligament](#nuchalligament) | 3 |
-| [Acromion](#acromion) | 3 | [Olecranon](#olecranon) | 3 |
-| [Adductor magnus](#adductormagnus) | 8 | [Open kinetic chain exercise](#openkineticchain) | 11 |
-| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Overhead press (shoulder press, military press)](#overheadpress) | 12 |
-| [Anconeus](#anconeus) | 9 | [Overhead triceps extension](#overheadtricepsextension) | 12 |
-| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Painful arc](#painfularc) | 13 |
-| [Ankle plantar flexion](#ankleplantarflexion) | 4 | [Pallof press](#pallofpress) | 12 |
-| [Anterior deltoid](#anteriordeltoid) | 9 | [Passive tension](#passivetension) | 5 |
-| [Aponeurosis](#aponeurosis) | 3 | [Patella (kneecap)](#patella) | 3 |
-| [Apophysis](#apophysis) | 3 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
-| [Attentional focus](#attentionalfocus) | 10 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
-| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
-| [Axillary nerve](#axillarynerve) | 9 | [Patellofemoral pain](#patellofemoralpain) | 13 |
-| [Back squat](#backsquat) | 12 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
-| [Bar position](#barposition) | 11 | [Pectoral nerves (lateral and medial)](#pectoralnerves) | 9 |
-| [Barbell glute bridge](#glutebridge) | 12 | [Pectoralis major](#pectoralismajor) | 9 |
-| [Barbell hip thrust](#hipthrust) | 12 | [Pectoralis major tear (pectoralis major rupture)](#pectoralismajortear) | 13 |
-| [Bayes factor (BF)](#bayesfactor) | 9 | [Pectoralis major, abdominal part (the "lower chest")](#pectoralisabdominalhead) | 9 |
-| [Bayesian cable curl](#bayesiancurl) | 12 | [Pectoralis major, clavicular head (the "upper chest")](#pectoralisclavicularhead) | 9 |
-| [Belt squat](#beltsquat) | 12 | [Pectoralis major, sternocostal head (the "mid chest")](#pectoralissternocostalhead) | 9 |
-| [Bench inclination](#benchinclination) | 11 | [Pectoralis minor](#pectoralisminor) | 9 |
-| [Bench press](#benchpress) | 12 | [Pelvic floor](#pelvicfloor) | 9 |
-| [Biacromial width](#biacromialwidth) | 3 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
-| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Pelvis](#pelvis) | 3 |
-| [Biceps brachii](#bicepsbrachii) | 9 | [Pennation angle](#pennationangle) | 5 |
-| [Biceps curl](#bicepscurl) | 12 | [Plane of elevation](#planeofelevation) | 4 |
-| [Biceps femoris, long head (BFlh)](#bicepsfemorislonghead) | 8 | [Plank](#plank) | 12 |
-| [Biceps femoris, short head (BFsh)](#bicepsfemorisshorthead) | 8 | [Posterior deltoid](#posteriordeltoid) | 9 |
-| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Posterior oblique sling](#posteriorobliquesling) | 8 |
-| [Biering-Sørensen test](#bieringsorensentest) | 9 | [Preacher curl](#preachercurl) | 12 |
-| [Bilaminar tendon](#bilaminartendon) | 3 | [Progressive overload](#progressiveoverload) | 10 |
-| [Brachialis](#brachialis) | 9 | [Pronated (overhand) grip](#pronatedgrip) | 11 |
-| [Brachioradialis](#brachioradialis) | 9 | [Prone Y raise (prone overhead arm raise)](#proneyraise) | 12 |
-| [Cable crunch](#cablecrunch) | 12 | [Proximity to failure](#proximitytofailure) | 10 |
-| [Cable or machine kickback (standing hip extension)](#kickback) | 12 | [Psoas major](#psoasmajor) | 9 |
-| [Cable pull-through](#cablepullthrough) | 12 | [Pull-up](#pullup) | 12 |
-| [Calf raise](#calfraise) | 12 | [Pullover](#pullover) | 12 |
-| [Chest fly (dumbbell fly, cable fly or crossover, pec deck)](#chestfly) | 12 | [Push-up](#pushup) | 12 |
-| [Chin-up](#chinup) | 12 | [Push-up plus](#pushupplus) | 12 |
-| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Quadratus lumborum](#quadratuslumborum) | 9 |
-| [Clavicle (collarbone)](#clavicle) | 3 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
-| [Close-grip bench press](#closegripbenchpress) | 12 | [Quadriceps tendon](#quadricepstendon) | 3 |
-| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Radial nerve](#radialnerve) | 9 |
-| [Compound exercise](#compound) | 11 | [Radial tuberosity](#radialtuberosity) | 3 |
-| [Concentric contraction](#concentriccontraction) | 6 | [Range of motion (ROM)](#rangeofmotion) | 4 |
-| [Contralateral](#contralateral) | 1 | [Rectus abdominis](#rectusabdominis) | 9 |
-| [Coracobrachialis](#coracobrachialis) | 9 | [Rectus femoris](#rectusfemoris) | 8 |
-| [Coracoid process](#coracoidprocess) | 3 | [Rectus sheath](#rectussheath) | 3 |
-| [Costal cartilage](#costalcartilage) | 3 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
-| [Crunch](#crunch) | 12 | [Repetition (rep)](#repetition) | 10 |
-| [Deadlift](#deadlift) | 12 | [Resistance profile](#resistanceprofile) | 11 |
-| [Deep hip external rotators](#hipexternalrotators) | 8 | [Reverse curl](#reversecurl) | 12 |
-| [Deload](#deload) | 10 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 12 |
-| [Deltoid](#deltoid) | 9 | [Reverse hyperextension](#reversehyperextension) | 12 |
-| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Reverse Nordic curl](#reversenordic) | 12 |
-| [Diaphragm](#diaphragm) | 9 | [Rhomboids (major and minor)](#rhomboids) | 9 |
-| [Diastasis recti](#diastasisrecti) | 13 | [RIR (repetitions in reserve)](#rir) | 10 |
-| [Dip (parallel-bar dip)](#dip) | 12 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
-| [Distal biceps tendon rupture](#distalbicepstendonrupture) | 13 | [Rotator cuff](#rotatorcuff) | 9 |
-| [Distal clavicular osteolysis ("weightlifter's shoulder")](#distalclavicularosteolysis) | 13 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
-| [Distal triceps tendon rupture](#distaltricepsrupture) | 13 | [Row](#row) | 12 |
-| [Dorsal scapular nerve](#dorsalscapularnerve) | 9 | [RPE (rating of perceived exertion)](#rpe) | 10 |
-| [Dose–response relationship](#doseresponserelationship) | 10 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
-| [Double progression](#doubleprogression) | 10 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
-| [Dumbbell bench press](#dumbbellbenchpress) | 12 | [Sacrum](#sacrum) | 3 |
-| [Eccentric contraction](#eccentriccontraction) | 6 | [Sagittal plane](#sagittalplane) | 1 |
-| [Effect size](#effectsize) | 9 | [Sarcomere](#sarcomere) | 5 |
-| [Effort tolerance](#efforttolerance) | 10 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
-| [Elbow extension](#elbowextension) | 4 | [Scapula (shoulder blade)](#scapula) | 3 |
-| [Elbow flexion](#elbowflexion) | 4 | [Scapular (scapulothoracic) muscles](#scapularmuscles) | 9 |
-| [Elbow flexor loading class (stretch-loaded, half-loaded, stretch-free)](#elbowflexorloadingclass) | 11 | [Scapular anterior tilt](#scapularanteriortilt) | 4 |
-| [Elbow flexors](#elbowflexors) | 8 | [Scapular depression](#scapulardepression) | 4 |
-| [Elbow path](#elbowpath) | 11 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
-| [EMG (electromyography)](#emg) | 9 | [Scapular dyskinesis](#scapulardyskinesis) | 13 |
-| [Erector spinae](#erectorspinae) | 8 | [Scapular elevation](#scapularelevation) | 4 |
-| [Erector spinae aponeurosis](#erectorspinaeaponeurosis) | 3 | [Scapular internal and external rotation](#scapularinternalrotation) | 4 |
-| [Excursion](#excursion) | 4 | [Scapular load class (elevation-, depression-, retraction-, protraction-, upward-rotation-, downward-rotation-loaded)](#scapularloadclass) | 11 |
-| [External oblique](#externaloblique) | 9 | [Scapular posterior tilt](#scapularposteriortilt) | 4 |
-| [Face pull](#facepull) | 12 | [Scapular protraction (abduction)](#scapularprotraction) | 4 |
-| [Fascicle length](#fasciclelength) | 5 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
-| [Femoral nerve](#femoralnerve) | 8 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
-| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Scapular winging](#scapularwinging) | 13 |
-| [Femur (thigh bone)](#femur) | 3 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
+| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Middle deltoid](#middledeltoid) | 9 |
+| [45° back extension (hip extension)](#backextension) | 12 | [Mixed grip](#mixedgrip) | 11 |
+| [Ab wheel](#abwheel) | 12 | [Moment arm](#momentarm) | 2 |
+| [Abdominal wall](#abdominalwall) | 9 | [Momentary (muscular) failure](#momentaryfailure) | 10 |
+| [Accessory nerve (CN XI)](#accessorynerve) | 9 | [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 |
+| [Achilles tendinopathy](#achillestendinopathy) | 13 | [Motor unit](#motorunit) | 6 |
+| [Achilles tendon](#achillestendon) | 3 | [Multifidus](#multifidus) | 9 |
+| [ACL reconstruction](#aclreconstruction) | 13 | [Muscle thickness](#musclethickness) | 5 |
+| [Acromioclavicular joint (AC joint)](#acromioclavicularjoint) | 3 | [Muscle volume](#musclevolume) | 5 |
+| [Acromion](#acromion) | 3 | [Musculocutaneous nerve](#musculocutaneousnerve) | 9 |
+| [Adductor magnus](#adductormagnus) | 8 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
+| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Net joint moment](#netjointmoment) | 11 |
+| [Anconeus](#anconeus) | 9 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
+| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Nordic hamstring curl](#nordiccurl) | 12 |
+| [Ankle plantar flexion](#ankleplantarflexion) | 4 | [Nuchal ligament](#nuchalligament) | 3 |
+| [Annular pulley](#annularpulley) | 3 | [Olecranon](#olecranon) | 3 |
+| [Anterior deltoid](#anteriordeltoid) | 9 | [Open kinetic chain exercise](#openkineticchain) | 11 |
+| [Aponeurosis](#aponeurosis) | 3 | [Overhead press (shoulder press, military press)](#overheadpress) | 12 |
+| [Apophysis](#apophysis) | 3 | [Overhead triceps extension](#overheadtricepsextension) | 12 |
+| [Attentional focus](#attentionalfocus) | 10 | [Painful arc](#painfularc) | 13 |
+| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Pallof press](#pallofpress) | 12 |
+| [Axillary nerve](#axillarynerve) | 9 | [Passive tension](#passivetension) | 5 |
+| [Back squat](#backsquat) | 12 | [Patella (kneecap)](#patella) | 3 |
+| [Bar position](#barposition) | 11 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
+| [Barbell glute bridge](#glutebridge) | 12 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
+| [Barbell hip thrust](#hipthrust) | 12 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
+| [Bayes factor (BF)](#bayesfactor) | 9 | [Patellofemoral pain](#patellofemoralpain) | 13 |
+| [Bayesian cable curl](#bayesiancurl) | 12 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
+| [Belt squat](#beltsquat) | 12 | [Pectoral nerves (lateral and medial)](#pectoralnerves) | 9 |
+| [Bench inclination](#benchinclination) | 11 | [Pectoralis major](#pectoralismajor) | 9 |
+| [Bench press](#benchpress) | 12 | [Pectoralis major tear (pectoralis major rupture)](#pectoralismajortear) | 13 |
+| [Biacromial width](#biacromialwidth) | 3 | [Pectoralis major, abdominal part (the "lower chest")](#pectoralisabdominalhead) | 9 |
+| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Pectoralis major, clavicular head (the "upper chest")](#pectoralisclavicularhead) | 9 |
+| [Biceps brachii](#bicepsbrachii) | 9 | [Pectoralis major, sternocostal head (the "mid chest")](#pectoralissternocostalhead) | 9 |
+| [Biceps curl](#bicepscurl) | 12 | [Pectoralis minor](#pectoralisminor) | 9 |
+| [Biceps femoris, long head (BFlh)](#bicepsfemorislonghead) | 8 | [Pelvic floor](#pelvicfloor) | 9 |
+| [Biceps femoris, short head (BFsh)](#bicepsfemorisshorthead) | 8 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
+| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Pelvis](#pelvis) | 3 |
+| [Biering-Sørensen test](#bieringsorensentest) | 9 | [Pennation angle](#pennationangle) | 5 |
+| [Bilaminar tendon](#bilaminartendon) | 3 | [Plane of elevation](#planeofelevation) | 4 |
+| [Brachialis](#brachialis) | 9 | [Plank](#plank) | 12 |
+| [Brachioradialis](#brachioradialis) | 9 | [Plate pinch](#platepinch) | 12 |
+| [Cable crunch](#cablecrunch) | 12 | [Posterior deltoid](#posteriordeltoid) | 9 |
+| [Cable or machine kickback (standing hip extension)](#kickback) | 12 | [Posterior oblique sling](#posteriorobliquesling) | 8 |
+| [Cable pull-through](#cablepullthrough) | 12 | [Preacher curl](#preachercurl) | 12 |
+| [Calf raise](#calfraise) | 12 | [Progressive overload](#progressiveoverload) | 10 |
+| [Carpal tunnel](#carpaltunnel) | 3 | [Pronated (overhand) grip](#pronatedgrip) | 11 |
+| [Carpal tunnel syndrome](#carpaltunnelsyndrome) | 13 | [Prone Y raise (prone overhead arm raise)](#proneyraise) | 12 |
+| [Chest fly (dumbbell fly, cable fly or crossover, pec deck)](#chestfly) | 12 | [Proximity to failure](#proximitytofailure) | 10 |
+| [Chin-up](#chinup) | 12 | [Psoas major](#psoasmajor) | 9 |
+| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Pull-up](#pullup) | 12 |
+| [Clavicle (collarbone)](#clavicle) | 3 | [Pullover](#pullover) | 12 |
+| [Close-grip bench press](#closegripbenchpress) | 12 | [Push-up](#pushup) | 12 |
+| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Push-up plus](#pushupplus) | 12 |
+| [Compound exercise](#compound) | 11 | [Quadratus lumborum](#quadratuslumborum) | 9 |
+| [Concentric contraction](#concentriccontraction) | 6 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
+| [Contralateral](#contralateral) | 1 | [Quadriceps tendon](#quadricepstendon) | 3 |
+| [Coracobrachialis](#coracobrachialis) | 9 | [Radial nerve](#radialnerve) | 9 |
+| [Coracoid process](#coracoidprocess) | 3 | [Radial tuberosity](#radialtuberosity) | 3 |
+| [Costal cartilage](#costalcartilage) | 3 | [Range of motion (ROM)](#rangeofmotion) | 4 |
+| [Crunch](#crunch) | 12 | [Rectus abdominis](#rectusabdominis) | 9 |
+| [Dead hang](#deadhang) | 12 | [Rectus femoris](#rectusfemoris) | 8 |
+| [Deadlift](#deadlift) | 12 | [Rectus sheath](#rectussheath) | 3 |
+| [Deep hip external rotators](#hipexternalrotators) | 8 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
+| [Deload](#deload) | 10 | [Repetition (rep)](#repetition) | 10 |
+| [Deltoid](#deltoid) | 9 | [Resistance profile](#resistanceprofile) | 11 |
+| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Reverse curl](#reversecurl) | 12 |
+| [Diaphragm](#diaphragm) | 9 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 12 |
+| [Diastasis recti](#diastasisrecti) | 13 | [Reverse hyperextension](#reversehyperextension) | 12 |
+| [Dip (parallel-bar dip)](#dip) | 12 | [Reverse Nordic curl](#reversenordic) | 12 |
+| [Distal biceps tendon rupture](#distalbicepstendonrupture) | 13 | [Reverse wrist curl](#reversewristcurl) | 12 |
+| [Distal clavicular osteolysis ("weightlifter's shoulder")](#distalclavicularosteolysis) | 13 | [Rhomboids (major and minor)](#rhomboids) | 9 |
+| [Distal triceps tendon rupture](#distaltricepsrupture) | 13 | [RIR (repetitions in reserve)](#rir) | 10 |
+| [Dorsal scapular nerve](#dorsalscapularnerve) | 9 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
+| [Dose–response relationship](#doseresponserelationship) | 10 | [Rotator cuff](#rotatorcuff) | 9 |
+| [Double progression](#doubleprogression) | 10 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
+| [Dumbbell bench press](#dumbbellbenchpress) | 12 | [Row](#row) | 12 |
+| [Eccentric contraction](#eccentriccontraction) | 6 | [RPE (rating of perceived exertion)](#rpe) | 10 |
+| [Effect size](#effectsize) | 9 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
+| [Effort tolerance](#efforttolerance) | 10 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
+| [Elbow extension](#elbowextension) | 4 | [Sacrum](#sacrum) | 3 |
+| [Elbow flexion](#elbowflexion) | 4 | [Sagittal plane](#sagittalplane) | 1 |
+| [Elbow flexor loading class (stretch-loaded, half-loaded, stretch-free)](#elbowflexorloadingclass) | 11 | [Sarcomere](#sarcomere) | 5 |
+| [Elbow flexors](#elbowflexors) | 8 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
+| [Elbow path](#elbowpath) | 11 | [Scapula (shoulder blade)](#scapula) | 3 |
+| [EMG (electromyography)](#emg) | 9 | [Scapular (scapulothoracic) muscles](#scapularmuscles) | 9 |
+| [Erector spinae](#erectorspinae) | 8 | [Scapular anterior tilt](#scapularanteriortilt) | 4 |
+| [Erector spinae aponeurosis](#erectorspinaeaponeurosis) | 3 | [Scapular depression](#scapulardepression) | 4 |
+| [Excursion](#excursion) | 4 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
+| [Extensor carpi radialis brevis (ECRB)](#extensorcarpiradialisbrevis) | 9 | [Scapular dyskinesis](#scapulardyskinesis) | 13 |
+| [External oblique](#externaloblique) | 9 | [Scapular elevation](#scapularelevation) | 4 |
+| [Face pull](#facepull) | 12 | [Scapular internal and external rotation](#scapularinternalrotation) | 4 |
+| [Farmer's walk](#farmerswalk) | 12 | [Scapular load class (elevation-, depression-, retraction-, protraction-, upward-rotation-, downward-rotation-loaded)](#scapularloadclass) | 11 |
+| [Fascicle length](#fasciclelength) | 5 | [Scapular posterior tilt](#scapularposteriortilt) | 4 |
+| [Femoral nerve](#femoralnerve) | 8 | [Scapular protraction (abduction)](#scapularprotraction) | 4 |
+| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
+| [Femur (thigh bone)](#femur) | 3 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
+| [Finger flexion](#fingerflexion) | 4 | [Scapular winging](#scapularwinging) | 13 |
+| [Finger pulley injury](#pulleyinjury) | 13 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
 | [Flexion relaxation](#flexionrelaxation) | 11 | [Scapulothoracic articulation](#scapulothoracicarticulation) | 3 |
-| [Force–length relationship](#forcelengthrelationship) | 5 | [Seated calf raise](#seatedcalfraise) | 12 |
-| [Forearm pronation](#forearmpronation) | 4 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
-| [Forearm supination](#forearmsupination) | 4 | [Semimembranosus (SM)](#semimembranosus) | 8 |
-| [Front raise](#frontraise) | 12 | [Semitendinosus (ST)](#semitendinosus) | 8 |
-| [Front squat](#frontsquat) | 12 | [Serratus anterior](#serratusanterior) | 8 |
-| [Frontal (coronal) plane](#frontalplane) | 1 | [Sesamoid bone](#sesamoid) | 3 |
-| [Gastrocnemius](#gastrocnemius) | 8 | [Set](#set) | 10 |
-| [Glenohumeral joint](#glenohumeraljoint) | 3 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
-| [Glute-ham raise (GHR)](#glutehamraise) | 12 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
-| [Gluteal tendinopathy (greater trochanteric pain syndrome)](#glutealtendinopathy) | 13 | [Shoulder abduction](#shoulderabduction) | 4 |
-| [Gluteus maximus](#gluteusmaximus) | 8 | [Shoulder adduction](#shoulderadduction) | 4 |
-| [Gluteus medius](#gluteusmedius) | 8 | [Shoulder extension](#shoulderextension) | 4 |
-| [Gluteus minimus](#gluteusminimus) | 8 | [Shoulder external (lateral) rotation](#shoulderexternalrotation) | 4 |
-| [Good morning](#goodmorning) | 12 | [Shoulder flexion](#shoulderflexion) | 4 |
-| [Greater trochanter](#greatertrochanter) | 3 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
-| [Grip width](#gripwidth) | 11 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
-| [Hack squat](#hacksquat) | 12 | [Shoulder instability](#shoulderinstability) | 13 |
-| [Hammer curl](#hammercurl) | 12 | [Shoulder position class (Overhead, Raised, Down)](#shoulderpositionclass) | 11 |
-| [Hamstrings](#hamstrings) | 8 | [Shrug](#shrug) | 12 |
-| [Hanging knee raise](#hangingkneeraise) | 12 | [Side plank](#sideplank) | 12 |
-| [Hard set](#hardset) | 10 | [Sissy squat](#sissysquat) | 12 |
-| [Hip abduction](#hipabduction) | 4 | [Sit-up](#situp) | 12 |
-| [Hip adduction](#hipadduction) | 4 | [Size principle](#sizeprinciple) | 6 |
-| [Hip adductors](#hipadductors) | 8 | [Smith machine squat](#smithmachinesquat) | 12 |
-| [Hip extension](#hipextension) | 4 | [Snapping triceps](#snappingtriceps) | 13 |
-| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Soleus](#soleus) | 8 |
-| [Hip flexion](#hipflexion) | 4 | [Specific tension](#specifictension) | 5 |
-| [Hip hinge](#hiphinge) | 11 | [Spinal role class (spine-moving, spine-holding, supported)](#spinalroleclass) | 11 |
-| [Hip internal (medial) rotation](#hipinternalrotation) | 4 | [Spine of the scapula](#scapularspine) | 3 |
-| [Hip joint (acetabulofemoral joint)](#hipjoint) | 3 | [Split squat](#splitsquat) | 12 |
-| [Hip osteoarthritis](#hiposteoarthritis) | 13 | [Spondylolysis](#spondylolysis) | 13 |
-| [Horizontal pull](#horizontalpull) | 11 | [Squat depth](#squatdepth) | 11 |
-| [Humeral elevation](#humeralelevation) | 4 | [Stance width](#stancewidth) | 11 |
-| [Humerus (upper arm bone)](#humerus) | 3 | [Step-up](#stepup) | 12 |
-| [Hypertrophy](#hypertrophy) | 7 | [Sternoclavicular joint](#sternoclavicularjoint) | 3 |
-| [Iliocostalis lumborum](#iliocostalislumborum) | 8 | [Sternum (breastbone)](#sternum) | 3 |
-| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [Sticking region](#stickingregion) | 11 |
-| [Incline curl](#inclinecurl) | 12 | [Straight-arm pulldown](#straightarmpulldown) | 12 |
-| [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
-| [Infraglenoid tubercle](#infraglenoidtubercle) | 3 | [Subacromial impingement](#impingement) | 13 |
-| [Internal (medial) rotation](#internalrotation) | 4 | [Subacromial space](#subacromialspace) | 3 |
-| [Internal oblique](#internaloblique) | 9 | [Suitcase carry](#suitcasecarry) | 12 |
-| [Intra-abdominal pressure (IAP)](#intraabdominalpressure) | 3 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
-| [Inverted row](#invertedrow) | 12 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
-| [Ischial tuberosity](#ischialtuberosity) | 3 | [Supraspinatus](#supraspinatus) | 9 |
-| [Isolated lumbar extension (ILEX)](#isolatedlumbarextension) | 12 | [T2-weighted MRI (transverse relaxation time)](#t2mri) | 9 |
-| [Isolation exercise](#isolation) | 11 | [Technical failure](#technicalfailure) | 10 |
-| [Joint reaction force](#jointreactionforce) | 3 | [Tempo](#tempo) | 10 |
-| [Kettlebell swing](#kettlebellswing) | 12 | [Tennis leg](#tennisleg) | 13 |
-| [Kipping](#kipping) | 12 | [Tensor fasciae latae (TFL)](#tensorfascialatae) | 8 |
-| [Knee extension](#kneeextension) | 4 | [Tensor vastus intermedius](#tensorvastusintermedius) | 8 |
-| [Knee flexion](#kneeflexion) | 4 | [Teres major](#teresmajor) | 8 |
-| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [The EMG–hypertrophy dissociation](#emghypertrophydissociation) | 9 |
-| [Knee travel](#kneetravel) | 11 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
-| [Lacertus fibrosus (bicipital aponeurosis)](#lacertusfibrosus) | 3 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
-| [Lat pulldown](#latpulldown) | 12 | [Tibia (shin bone)](#tibia) | 3 |
-| [Lateral raise](#lateralraise) | 12 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
-| [Latissimus dorsi](#latissimusdorsi) | 8 | [Torque (moment)](#torque) | 2 |
-| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Torso inclination](#torsoinclination) | 11 |
-| [Leg extension](#legextension) | 12 | [Training frequency](#trainingfrequency) | 10 |
-| [Leg press](#legpress) | 12 | [Training volume](#trainingvolume) | 10 |
-| [Lengthened partials](#lengthenedpartials) | 7 | [Transverse (horizontal) plane](#transverseplane) | 1 |
-| [Lengthened position](#lengthenedposition) | 7 | [Transversus abdominis](#transversusabdominis) | 9 |
-| [Levator scapulae](#levatorscapulae) | 9 | [Trapezius](#trapezius) | 9 |
-| [Limiting link](#limitinglink) | 10 | [Trapezius myalgia](#trapeziusmyalgia) | 13 |
-| [Line of action](#lineofaction) | 2 | [Triceps brachii](#tricepsbrachii) | 9 |
-| [Linea alba](#lineaalba) | 3 | [Triceps brachii, lateral head](#tricepslateralhead) | 9 |
-| [Load](#load) | 10 | [Triceps brachii, long head](#tricepslonghead) | 9 |
-| [Long thoracic nerve](#longthoracicnerve) | 8 | [Triceps brachii, medial head](#tricepsmedialhead) | 9 |
-| [Longissimus thoracis](#longissimusthoracis) | 8 | [Triceps kickback](#tricepskickback) | 12 |
-| [Lower (ascending) trapezius](#lowertrapezius) | 9 | [Triceps pushdown (cable pushdown)](#tricepspushdown) | 12 |
-| [Lumbar compression](#lumbarcompression) | 11 | [Triceps surae](#tricepssurae) | 8 |
-| [Lumbar flexion](#lumbarflexion) | 4 | [Trunk extension](#trunkextension) | 5 |
-| [Lumbopelvic rhythm](#lumbopelvicrhythm) | 4 | [Trunk flexion](#trunkflexion) | 5 |
-| [Lunge](#lunge) | 12 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
-| [Lying triceps extension ("skull crusher")](#lyingtricepsextension) | 12 | [Trunk rotation](#trunkrotation) | 5 |
-| [Machine chest press](#machinechestpress) | 12 | [Upper (descending) trapezius](#uppertrapezius) | 9 |
-| [Mechanical tension](#mechanicaltension) | 6 | [Upright row](#uprightrow) | 12 |
-| [Mechanotransduction](#mechanotransduction) | 6 | [Vastus intermedius](#vastusintermedius) | 8 |
-| [Middle (transverse) trapezius](#middletrapezius) | 9 | [Vastus lateralis](#vastuslateralis) | 8 |
-| [Middle deltoid](#middledeltoid) | 9 | [Vastus medialis](#vastusmedialis) | 8 |
-| [Moment arm](#momentarm) | 2 | [Vertical pull](#verticalpull) | 11 |
-| [Momentary (muscular) failure](#momentaryfailure) | 10 | [Volume load](#volumeload) | 10 |
-| [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 | [Weightlifting belt](#weightliftingbelt) | 11 |
-| [Motor unit](#motorunit) | 6 | [Woodchop](#woodchop) | 12 |
+| [Flexor digitorum profundus (FDP)](#flexordigitorumprofundus) | 9 | [Seated calf raise](#seatedcalfraise) | 12 |
+| [Flexor digitorum superficialis (FDS)](#flexordigitorumsuperficialis) | 9 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
+| [Force–length relationship](#forcelengthrelationship) | 5 | [Semimembranosus (SM)](#semimembranosus) | 8 |
+| [Forearm muscles](#forearmmuscles) | 9 | [Semitendinosus (ST)](#semitendinosus) | 8 |
+| [Forearm pronation](#forearmpronation) | 4 | [Serratus anterior](#serratusanterior) | 8 |
+| [Forearm supination](#forearmsupination) | 4 | [Sesamoid bone](#sesamoid) | 3 |
+| [Front raise](#frontraise) | 12 | [Set](#set) | 10 |
+| [Front squat](#frontsquat) | 12 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
+| [Frontal (coronal) plane](#frontalplane) | 1 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
+| [Gastrocnemius](#gastrocnemius) | 8 | [Shoulder abduction](#shoulderabduction) | 4 |
+| [Glenohumeral joint](#glenohumeraljoint) | 3 | [Shoulder adduction](#shoulderadduction) | 4 |
+| [Glute-ham raise (GHR)](#glutehamraise) | 12 | [Shoulder extension](#shoulderextension) | 4 |
+| [Gluteal tendinopathy (greater trochanteric pain syndrome)](#glutealtendinopathy) | 13 | [Shoulder external (lateral) rotation](#shoulderexternalrotation) | 4 |
+| [Gluteus maximus](#gluteusmaximus) | 8 | [Shoulder flexion](#shoulderflexion) | 4 |
+| [Gluteus medius](#gluteusmedius) | 8 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
+| [Gluteus minimus](#gluteusminimus) | 8 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
+| [Good morning](#goodmorning) | 12 | [Shoulder instability](#shoulderinstability) | 13 |
+| [Greater trochanter](#greatertrochanter) | 3 | [Shoulder position class (Overhead, Raised, Down)](#shoulderpositionclass) | 11 |
+| [Grip demand class (support, crush, pinch, open-hand)](#gripdemandclass) | 11 | [Shrug](#shrug) | 12 |
+| [Grip width](#gripwidth) | 11 | [Side plank](#sideplank) | 12 |
+| [Hack squat](#hacksquat) | 12 | [Sissy squat](#sissysquat) | 12 |
+| [Hammer curl](#hammercurl) | 12 | [Sit-up](#situp) | 12 |
+| [Hamstrings](#hamstrings) | 8 | [Size principle](#sizeprinciple) | 6 |
+| [Hand gripper](#handgripper) | 12 | [Smith machine squat](#smithmachinesquat) | 12 |
+| [Handgrip dynamometry](#handgripdynamometry) | 9 | [Snapping triceps](#snappingtriceps) | 13 |
+| [Hangboard hang](#hangboardhang) | 12 | [Soleus](#soleus) | 8 |
+| [Hanging knee raise](#hangingkneeraise) | 12 | [Specific tension](#specifictension) | 5 |
+| [Hard set](#hardset) | 10 | [Spinal role class (spine-moving, spine-holding, supported)](#spinalroleclass) | 11 |
+| [Hip abduction](#hipabduction) | 4 | [Spine of the scapula](#scapularspine) | 3 |
+| [Hip adduction](#hipadduction) | 4 | [Split squat](#splitsquat) | 12 |
+| [Hip adductors](#hipadductors) | 8 | [Spondylolysis](#spondylolysis) | 13 |
+| [Hip extension](#hipextension) | 4 | [Squat depth](#squatdepth) | 11 |
+| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Stance width](#stancewidth) | 11 |
+| [Hip flexion](#hipflexion) | 4 | [Step-up](#stepup) | 12 |
+| [Hip hinge](#hiphinge) | 11 | [Sternoclavicular joint](#sternoclavicularjoint) | 3 |
+| [Hip internal (medial) rotation](#hipinternalrotation) | 4 | [Sternum (breastbone)](#sternum) | 3 |
+| [Hip joint (acetabulofemoral joint)](#hipjoint) | 3 | [Sticking region](#stickingregion) | 11 |
+| [Hip osteoarthritis](#hiposteoarthritis) | 13 | [Straight-arm pulldown](#straightarmpulldown) | 12 |
+| [Hook grip](#hookgrip) | 11 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
+| [Horizontal pull](#horizontalpull) | 11 | [Subacromial impingement](#impingement) | 13 |
+| [Humeral elevation](#humeralelevation) | 4 | [Subacromial space](#subacromialspace) | 3 |
+| [Humerus (upper arm bone)](#humerus) | 3 | [Suitcase carry](#suitcasecarry) | 12 |
+| [Hypertrophy](#hypertrophy) | 7 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
+| [Iliocostalis lumborum](#iliocostalislumborum) | 8 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
+| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [Supraspinatus](#supraspinatus) | 9 |
+| [Incline curl](#inclinecurl) | 12 | [T2-weighted MRI (transverse relaxation time)](#t2mri) | 9 |
+| [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [Technical failure](#technicalfailure) | 10 |
+| [Infraglenoid tubercle](#infraglenoidtubercle) | 3 | [Tempo](#tempo) | 10 |
+| [Internal (medial) rotation](#internalrotation) | 4 | [Tennis leg](#tennisleg) | 13 |
+| [Internal oblique](#internaloblique) | 9 | [Tenodesis effect](#tenodesiseffect) | 4 |
+| [Intra-abdominal pressure (IAP)](#intraabdominalpressure) | 3 | [Tensor fasciae latae (TFL)](#tensorfascialatae) | 8 |
+| [Inverted row](#invertedrow) | 12 | [Tensor vastus intermedius](#tensorvastusintermedius) | 8 |
+| [Ischial tuberosity](#ischialtuberosity) | 3 | [Teres major](#teresmajor) | 8 |
+| [Isolated lumbar extension (ILEX)](#isolatedlumbarextension) | 12 | [The EMG–hypertrophy dissociation](#emghypertrophydissociation) | 9 |
+| [Isolation exercise](#isolation) | 11 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
+| [Joint reaction force](#jointreactionforce) | 3 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
+| [Kettlebell swing](#kettlebellswing) | 12 | [Tibia (shin bone)](#tibia) | 3 |
+| [Kipping](#kipping) | 12 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
+| [Knee extension](#kneeextension) | 4 | [Torque (moment)](#torque) | 2 |
+| [Knee flexion](#kneeflexion) | 4 | [Torso inclination](#torsoinclination) | 11 |
+| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [Training frequency](#trainingfrequency) | 10 |
+| [Knee travel](#kneetravel) | 11 | [Training volume](#trainingvolume) | 10 |
+| [Lacertus fibrosus (bicipital aponeurosis)](#lacertusfibrosus) | 3 | [Transverse (horizontal) plane](#transverseplane) | 1 |
+| [Lat pulldown](#latpulldown) | 12 | [Transversus abdominis](#transversusabdominis) | 9 |
+| [Lateral epicondylalgia ("tennis elbow")](#lateralepicondylalgia) | 13 | [Trapezius](#trapezius) | 9 |
+| [Lateral epicondyle](#lateralepicondyle) | 3 | [Trapezius myalgia](#trapeziusmyalgia) | 13 |
+| [Lateral raise](#lateralraise) | 12 | [Triceps brachii](#tricepsbrachii) | 9 |
+| [Latissimus dorsi](#latissimusdorsi) | 8 | [Triceps brachii, lateral head](#tricepslateralhead) | 9 |
+| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Triceps brachii, long head](#tricepslonghead) | 9 |
+| [Leg extension](#legextension) | 12 | [Triceps brachii, medial head](#tricepsmedialhead) | 9 |
+| [Leg press](#legpress) | 12 | [Triceps kickback](#tricepskickback) | 12 |
+| [Lengthened partials](#lengthenedpartials) | 7 | [Triceps pushdown (cable pushdown)](#tricepspushdown) | 12 |
+| [Lengthened position](#lengthenedposition) | 7 | [Triceps surae](#tricepssurae) | 8 |
+| [Levator scapulae](#levatorscapulae) | 9 | [Trunk extension](#trunkextension) | 5 |
+| [Lifting straps](#liftingstraps) | 11 | [Trunk flexion](#trunkflexion) | 5 |
+| [Limiting link](#limitinglink) | 10 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
+| [Line of action](#lineofaction) | 2 | [Trunk rotation](#trunkrotation) | 5 |
+| [Linea alba](#lineaalba) | 3 | [Ulnar nerve](#ulnarnerve) | 9 |
+| [Load](#load) | 10 | [Upper (descending) trapezius](#uppertrapezius) | 9 |
+| [Long thoracic nerve](#longthoracicnerve) | 8 | [Upright row](#uprightrow) | 12 |
+| [Longissimus thoracis](#longissimusthoracis) | 8 | [Vastus intermedius](#vastusintermedius) | 8 |
+| [Lower (ascending) trapezius](#lowertrapezius) | 9 | [Vastus lateralis](#vastuslateralis) | 8 |
+| [Lumbar compression](#lumbarcompression) | 11 | [Vastus medialis](#vastusmedialis) | 8 |
+| [Lumbar flexion](#lumbarflexion) | 4 | [Vertical pull](#verticalpull) | 11 |
+| [Lumbopelvic rhythm](#lumbopelvicrhythm) | 4 | [Volume load](#volumeload) | 10 |
+| [Lunge](#lunge) | 12 | [Weightlifting belt](#weightliftingbelt) | 11 |
+| [Lying triceps extension ("skull crusher")](#lyingtricepsextension) | 12 | [Woodchop](#woodchop) | 12 |
+| [Machine chest press](#machinechestpress) | 12 | [Wrist curl](#wristcurl) | 12 |
+| [Mechanical tension](#mechanicaltension) | 6 | [Wrist extension](#wristextension) | 4 |
+| [Mechanotransduction](#mechanotransduction) | 6 | [Wrist extensors](#wristextensors) | 9 |
+| [Medial epicondylalgia ("golfer's elbow")](#medialepicondylalgia) | 13 | [Wrist flexion](#wristflexion) | 4 |
+| [Medial epicondyle](#medialepicondyle) | 3 | [Wrist flexors](#wristflexors) | 9 |
+| [Median nerve](#mediannerve) | 9 | [Wrist joint](#wristjoint) | 3 |
+| [Middle (transverse) trapezius](#middletrapezius) | 9 |  |  |
 
 ---
 
@@ -19422,6 +20712,31 @@ Raising it together with abdominal muscle force increased the load a physical mo
 *Anatomy & Structure*
 
 **Radial tuberosity** — The small raised patch of bone on the inner side of the forearm bone that rotates, just below the elbow, where the biceps tendon lands. Formally: the oval eminence on the anteromedial aspect of the proximal radius, distal to the radial neck, carrying the insertional footprint of the distal biceps tendon — an area of about 108 mm², 21 mm long and 7 mm wide, beginning some 23 mm distal to the articular margin of the radial head, with the long head's tendon inserting proximally on it and the short head's distally (Athwal et al., 2007). Because the radius rotates about the ulna, a muscle attaching here both bends the elbow and turns the palm upward, which is the whole mechanical reason the biceps brachii is a supinator (Part XI §A.2).
+
+## medialepicondyle
+*Anatomy & Structure*
+
+**Medial epicondyle** — The bony bump on the inner side of your elbow, the one you can feel when your palm faces forward. Formally: the medial projection of the distal [humerus](#humerus), carrying the **common flexor origin** from which flexor carpi radialis, flexor carpi ulnaris, palmaris longus, the superficial finger flexor and pronator teres arise, and immediately behind which the ulnar nerve runs in its groove. It matters because it is where hand and wrist overuse is felt: pain here under gripping load is what "golfer's elbow" names (Part XIV §E.4).
+
+## lateralepicondyle
+*Anatomy & Structure*
+
+**Lateral epicondyle** — The bony bump on the outer side of your elbow. Formally: the lateral projection of the distal [humerus](#humerus), carrying the **common extensor origin** from which extensor carpi radialis brevis, extensor digitorum and extensor carpi ulnaris arise, together with part of the supinator. It is the commonest site of overuse pain in the whole upper limb — "tennis elbow" — and the one exercise in this document with a randomized trial behind it is aimed at exactly this spot (Tyler et al., 2010).
+
+## wristjoint
+*Anatomy & Structure*
+
+**Wrist joint** — The joint between the forearm bones and the hand. Formally: the radiocarpal articulation together with the midcarpal joints acting as one functional unit, permitting flexion, extension, radial and ulnar deviation; forearm rotation happens at the radioulnar joints, not here. Its importance for training is indirect but total: the muscles that close the fingers cross it, so **wrist angle sets finger strength** (Part XIV §B.2).
+
+## carpaltunnel
+*Anatomy & Structure*
+
+**Carpal tunnel** — The tight passage on the palm side of the wrist through which the finger tendons and one major nerve pass. Formally: the fibro-osseous canal bounded by the carpal bones and roofed by the flexor retinaculum, containing the nine long flexor tendons of the fingers and thumb plus the median nerve. It has no capacity to enlarge, which is why anything that increases pressure inside it — swelling, sustained loaded bending of the wrist, fluid retention — presses on the nerve rather than on anything expandable.
+
+## annularpulley
+*Anatomy & Structure*
+
+**Annular pulley** — One of the small bands that strap each finger's flexor tendons against the finger bones. Formally: the A1–A5 annular ligaments of the digital flexor sheath, which prevent the tendon "bowstringing" away from the bone as the finger flexes and so preserve its [moment arm](#momentarm). The A2 pulley, at the base of the finger, is the one that fails in climbers. **It is not trainable** — it is a passive restraint. The loads it must contain depend strongly on grip: a biomechanical model of the two climbing grips put the deep-to-superficial flexor tendon force ratio at **1.75:1 in the crimp against 0.88:1 in the slope** (Vigouroux et al., 2006), and the crimp's hyperextended fingertip joint is what raises pulley loading (Part XIV §B.5).
 
 ## coracoidprocess
 
@@ -19755,6 +21070,26 @@ Three quantities are routinely confused and are not the same. **Joint excursion*
 *Biomechanics & Mechanics*
 
 **Forearm pronation** — Turning the forearm so the palm faces downward. Formally: rotation of the radius about the ulna at the radioulnar joints in the direction that crosses the radius over the ulna and brings the palm posterior, measured from the neutral thumb-up position as 0°. It is the position in which maximal elbow flexion force is smallest — 17.3 kg against 28.2 kg with the forearm neutral in eighty-five young adults (O'Connell et al., 2021) — because it removes the biceps from its best flexion leverage (Murray et al., 1995).
+
+## wristflexion
+*Biomechanics & Mechanics*
+
+**Wrist flexion** — Bending the hand toward the palm side. Formally: sagittal-plane rotation at the [wrist joint](#wristjoint) that decreases the angle between the palm and the front of the forearm, measured in this document from a straight wrist where **0° is the hand in line with the forearm** and flexion is negative. Its prime movers are flexor carpi radialis and flexor carpi ulnaris. The wrist produces about **1.7 times more flexion than extension torque** — 12.2 N·m against 7.1, measured across ten men (Delp et al., 1996) — so a wrist curl takes far more load than its mirror image.
+
+## wristextension
+*Biomechanics & Mechanics*
+
+**Wrist extension** — Bending the hand back toward the forearm, the reverse of [wrist flexion](#wristflexion). Formally: sagittal-plane rotation at the [wrist joint](#wristjoint) that decreases the angle between the back of the hand and the back of the forearm; positive in this document's convention. Two facts matter for training. **The strongest gripping position is about 35° of extension** — the self-selected position for maximal grip, with a minimum of 25° needed for the optimum, and only two-thirds to three-quarters of maximum available at 15° (O'Driscoll et al., 1992). And **which side of the wrist has the flatter torque curve is contested**: a per-muscle cadaveric model puts the variation on the extensor side (Loren et al., 1996), while in-vivo net-joint measurement found extension moment relatively constant from 30° flexion to 70° extension and **flexion** moment peaking at 40° of flexion (Delp et al., 1996).
+
+## fingerflexion
+*Biomechanics & Mechanics*
+
+**Finger flexion** — Closing the hand. Formally: flexion at the metacarpophalangeal and interphalangeal joints, produced by the long flexors in the forearm acting through tendons that cross the [wrist joint](#wristjoint) and run under the [annular pulleys](#annularpulley); the superficial flexor stops at the middle bone of the finger and the deep flexor continues to the last one. **It is what "grip" means**, and because its motors cross the wrist, it cannot be considered independently of wrist angle (Part XIV §B.2).
+
+## tenodesiseffect
+*Biomechanics & Mechanics*
+
+**Tenodesis effect** — The fingers closing on their own when you bend your wrist back, and opening when you bend it forward, without any effort. Formally: passive digital motion produced by changing the length available to the long finger flexors and extensors as the [wrist joint](#wristjoint) rotates beneath them. The cadaveric measurement usually quoted for it tracked the **thumb's** long flexor across eight arms with the fingers fixed in extension, so it quantifies the effect for the thumb rather than the fingers (Thoreson et al., 2020); for the fingers the mechanism is the same and the quantification is not in that paper. For a lifter it is the mechanism behind the single most useful cue in Part XIV: **a wrist that folds under load takes the grip with it**.
 
 ## kneeextension
 
@@ -20444,13 +21779,53 @@ That combination — very long fascicles, very small PCSA — defines it as an *
 
 *Anatomy & Structure*
 
-**Brachioradialis** — The muscle that stands out on the thumb side of the forearm when you bend the elbow with the thumb up. Formally: the muscle arising from the lateral supracondylar ridge of the humerus and inserting on the styloid process of the radius at the wrist, supplied by the [radial nerve](#radialnerve); it has the longest fascicles (17.7 cm) and the smallest [PCSA](#pcsa) (1.2 cm²) of the muscles crossing the elbow, and the largest flexion [moment arm](#momentarm), peaking at 7.7 cm (Murray et al., 2000). It is a leverage muscle rather than a force muscle: of the three elbow flexors it supplies the smallest share of elbow flexion torque, 19% against the brachialis' 47% in four men (Kawakami et al., 1994), and a calculation from its cadaveric [specific tension](#specifictension) puts it lower still (Part XI §B.9). **Evidence remains limited and inconsistent** on the exact share; the ranking is consistent.
+**Brachioradialis** — The muscle that stands out on the thumb side of the forearm when you bend the elbow with the thumb up. Formally: the muscle arising from the lateral supracondylar ridge of the humerus and inserting on the styloid process of the radius at the wrist, supplied by the [radial nerve](#radialnerve); it has the longest fascicles (17.7 cm) and the smallest [PCSA](#pcsa) (1.2 cm²) of the muscles crossing the elbow, and the largest flexion [moment arm](#momentarm), peaking at 7.7 cm (Murray et al., 2000). Its architecture makes the point twice over: dissected alongside pronator teres, **the two have nearly identical masses and dramatically different predicted contractile properties**, because brachioradialis carries long fibres at a small pennation angle and pronator teres does not (Lieber et al., 1992). It is a leverage muscle rather than a force muscle: of the three elbow flexors it supplies the smallest share of elbow flexion torque, 19% against the brachialis' 47% in four men (Kawakami et al., 1994), and a calculation from its cadaveric [specific tension](#specifictension) puts it lower still (Part XI §B.9). **Evidence remains limited and inconsistent** on the exact share; the ranking is consistent.
 
 ## musculocutaneousnerve
 
 *Anatomy & Structure*
 
 **Musculocutaneous nerve** — The nerve that runs down the front of the upper arm and switches on the muscles that bend the elbow. Formally: the terminal branch of the lateral cord of the brachial plexus, carrying fibres from C5–C7, supplying [biceps brachii](#bicepsbrachii), [brachialis](#brachialis) and coracobrachialis before continuing as the lateral cutaneous nerve of the forearm *[consensus — no single source]*. It matters to this document only as the reason the two large elbow flexors are switched on together and cannot be trained apart (Part XI §A.7).
+
+## mediannerve
+*Anatomy & Structure*
+
+**Median nerve** — The nerve that supplies most of the muscles that close your hand, and the skin of the thumb side of the palm. Formally: a terminal branch of the brachial plexus (C6–T1) descending the front of the arm, passing between the heads of pronator teres and then through the [carpal tunnel](#carpaltunnel) to supply the thenar muscles and the lateral two lumbricals; in the forearm it supplies the wrist flexors, the superficial finger flexor and the deep flexor to the index and middle fingers. Compression at the carpal tunnel is the commonest entrapment neuropathy in the body, and it presents as numbness in the thumb, index, middle and half the ring finger, classically worse at night.
+
+## ulnarnerve
+*Anatomy & Structure*
+
+**Ulnar nerve** — The nerve you hit when you bang your "funny bone". Formally: a terminal branch of the brachial plexus (C8–T1) passing behind the [medial epicondyle](#medialepicondyle) in a shallow groove with almost no soft-tissue cover, then down the ulnar side of the forearm to supply flexor carpi ulnaris, **the deep finger flexors to the ring and little fingers**, and most of the hand's small muscles. That innervation split is why an ulnar problem weakens the last two fingers first — and those are the two fingers where a failing hook grip lets go.
+
+## extensorcarpiradialisbrevis
+*Anatomy & Structure*
+
+**Extensor carpi radialis brevis (ECRB)** — The wrist extensor that attaches directly to the outer elbow bump, and the muscle behind tennis elbow. Formally: a wrist extensor arising from the [lateral epicondyle](#lateralepicondyle) by the common extensor tendon and inserting on the base of the third metacarpal, supplied by the radial nerve. Measured at a fixed wrist torque, **its activity rose with the forearm pronated** compared with neutral (Ikeda et al., 2025) — palm-down being the position most barbell work happens in, and the position that provokes lateral elbow pain.
+
+## wristflexors
+*Anatomy & Structure*
+
+**Wrist flexors** — The muscles on the palm side of the forearm that bend the wrist and help hold it rigid. Formally: flexor carpi radialis and flexor carpi ulnaris, with palmaris longus where present, arising largely from the [medial epicondyle](#medialepicondyle) and inserting on the carpal bones and metacarpal bases; supplied by the [median nerve](#mediannerve) except flexor carpi ulnaris, which is [ulnar](#ulnarnerve). They produce **near-maximal torque across their entire range** (Loren et al., 1996). In a heavy hold they are not flexing anything — they are co-contracting with the extensors to stop the load folding the wrist (Part XIV §A.4).
+
+## wristextensors
+*Anatomy & Structure*
+
+**Wrist extensors** — The muscles on the back of the forearm that bend the wrist back and help hold it rigid. Formally: extensor carpi radialis longus and [brevis](#extensorcarpiradialisbrevis) and extensor carpi ulnaris, arising from the [lateral epicondyle](#lateralepicondyle) and the supracondylar ridge and inserting on the metacarpal bases; supplied by the radial nerve. Unlike the [flexors](#wristflexors), their torque **varies considerably across the range** and is governed largely by the moment arm changing with wrist angle (Loren et al., 1996). They are loaded isometrically by every heavy pull, they are the site of tennis elbow, and they are the only muscles in Part XIV with a randomized training trial behind them.
+
+## flexordigitorumsuperficialis
+*Anatomy & Structure*
+
+**Flexor digitorum superficialis (FDS)** — The finger flexor that bends the middle knuckle. Formally: a forearm muscle arising from the [medial epicondyle](#medialepicondyle), ulna and radius and inserting on the **middle phalanx** of digits 2–5, supplied by the [median nerve](#mediannerve). Across 154 dissected forearm muscles the deep and superficial digital flexors were architecturally alike, with one exception — **the slip to the little finger, which is much smaller and shorter than the rest** (Lieber et al., 1992). With the deep flexor it is the muscle that "grip training" means (Part XIV §B.4).
+
+## flexordigitorumprofundus
+*Anatomy & Structure*
+
+**Flexor digitorum profundus (FDP)** — The finger flexor that curls the fingertip. Formally: a forearm muscle arising from the ulna and interosseous membrane and inserting on the **distal phalanx** of digits 2–5; supplied by the [median nerve](#mediannerve) for the index and middle fingers and the [ulnar nerve](#ulnarnerve) for the ring and little. Because it reaches the last bone of the finger, it is the muscle loaded most heavily by hanging from the fingertips, and its tendon is the one the [annular pulleys](#annularpulley) must restrain. It is the muscle five weeks of finger training made stronger, with no thickness change among the significant findings (Perrin et al., 2026).
+
+## forearmmuscles
+*Anatomy & Structure*
+
+**Forearm muscles** — The group that drives the wrist and hand from a distance: [wrist flexors](#wristflexors) and [extensors](#wristextensors), the long finger flexors ([superficial](#flexordigitorumsuperficialis) and [deep](#flexordigitorumprofundus)) and extensors, the pronators (teres and quadratus) and the supinator, plus [brachioradialis](#brachioradialis), which lives here but acts on the elbow. Formally: the muscles of the anterior and posterior forearm compartments, acting on the [wrist joint](#wristjoint) and the digits through long tendons. Measured in living people, the muscles **crossing the wrist** are **16.0% of total upper-limb muscle volume**, against 31.4% for the elbow and 52.5% for the shoulder (Holzbaur et al., 2007a) — a figure that excludes brachioradialis and the rotators, which sit in the forearm but cross other joints. Their per-muscle architecture rests on a single, severely atrophied 104-year-old cadaver (Ruggiero et al., 2016), in which **the two long finger flexors are the largest muscles in the forearm** — together 9.4 cm² of [PCSA](#pcsa) against 3.1 cm² for the finger extensors — and fascicle length ranges from 2.3 cm in the short wrist and rotation muscles to 12.5 cm in the middle-finger slip of the superficial flexor.
 
 ## rectusabdominis
 
@@ -20554,6 +21929,11 @@ In a passively stretched muscle it rises monotonically with muscle length, which
 
 **T2-weighted MRI (transverse relaxation time)** — A magnetic resonance measurement that shows which parts of a muscle have just been working, by detecting the fluid shift that exercise causes. Formally: the transverse relaxation time constant of the MRI signal, which rises transiently after contractile activity in proportion to intracellular fluid accumulation; the pre-to-post change in T2 is used as a spatially resolved index of which muscle regions were recruited by a bout. It is a far better instrument than surface [EMG](#emg) for the *regional* question, because it reads the whole muscle volume rather than the field beneath one electrode — but it is still an acute measure, and Part II §B.11's warning against inferring growth from acute measures applies to it in full.
 
+## handgripdynamometry
+*Measurement & Research Methods*
+
+**Handgrip dynamometry** — Squeezing a calibrated handle as hard as you can, usually with a Jamar device, seated with the elbow at 90°. Formally: measurement of maximal isometric whole-hand grip force in kilograms or newtons, standardized for posture and wrist position because the finger flexors cross the [wrist joint](#wristjoint) (Part XIV §B.2). It is cheap and reproducible, though a review of the literature found wide variation in equipment, posture, number of attempts and summary measure, and concluded that standard conditions "remain to be defined" (Roberts et al., 2011). It underpins a very large epidemiology: **per 5 kg of lower grip strength, the hazard ratio for all-cause mortality was 1.16 (95% CI 1.13–1.20) across 139,691 adults in 17 countries**, a better predictor of death than systolic blood pressure (Leong et al., 2015). **Two caveats decide how to use it.** It measures the **crush** demand only — the hand closing against a resistance that pushes back — and not the support grip that holds a barbell: twelve weeks of added wrist and forearm training raised six other wrist measures and added **nothing** to grip strength, which both groups improved anyway (Szymanski et al., 2004). Training the hand *closing* does raise it — g = 0.44 across 22 randomized trials, almost all of the effect in older adults (Akbaş, 2025). And no trial has shown that **improving** it changes any health outcome; it is a marker, not a demonstrated lever.
+
 ## bieringsorensentest
 
 *Measurement & Research Methods*
@@ -20624,7 +22004,7 @@ Its practical advantage over a p-value is that it can express support **for** a 
 
 *Training Variables & Prescription*
 
-**Limiting link** — The thing that actually stops a set, which is often not the muscle you meant to train. Formally: the first structure, system or skill in the chain of a multi-joint exercise to reach its own tolerance under the prescribed load, terminating the set before the target muscle reaches [momentary failure](#momentaryfailure). Common limiting links in hip extension work are the [erector spinae](#erectorspinae) in every hinge, the bar against the pelvis in a barbell hip thrust, the breath above roughly ten repetitions on a free squat, balance in split-stance work, and the hands in the hinge family. It matters because a set terminated by its limiting link delivers the target muscle a smaller stimulus than the logbook implies, and because changing exercise is usually the fix rather than trying harder.
+**Limiting link** — The thing that actually stops a set, which is often not the muscle you meant to train. Formally: the first structure, system or skill in the chain of a multi-joint exercise to reach its own tolerance under the prescribed load, terminating the set before the target muscle reaches [momentary failure](#momentaryfailure). Common limiting links in hip extension work are the [erector spinae](#erectorspinae) in every hinge, the bar against the pelvis in a barbell hip thrust, the breath above roughly ten repetitions on a free squat, balance in split-stance work, and the hands in the hinge family. The commonest limiting link in the whole document is **the hand**, on every pull, hang and carry — and it is the one case where the limiting link and a trainable target are the same tissue, which is why lifting straps are a decision about what the set trains rather than a convenience (Part XIV §B.8). It matters because a set terminated by its limiting link delivers the target muscle a smaller stimulus than the logbook implies, and because changing exercise is usually the fix rather than trying harder.
 
 ## rir
 
@@ -20883,6 +22263,26 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 *Exercises & Technique*
 
 **Scapular load class (elevation-, depression-, retraction-, protraction-, upward-rotation-, downward-rotation-loaded)** — Which way an exercise's load tries to move your shoulder blade, and therefore which scapular muscles resist it. Formally: decide it from one repetition as prescribed. **Step 1:** identify the external force acting on the arm and its direction. **Step 2:** ask which way the blade would travel if every muscle switched off, and name the class for that direction — **down along the trunk** is *elevation-loaded* ([upper trapezius](#uppertrapezius), [levator scapulae](#levatorscapulae)); **up along the trunk**, as when you hang from your hands, is *depression-loaded* ([lower trapezius](#lowertrapezius), [pectoralis minor](#pectoralisminor), [latissimus dorsi](#latissimusdorsi)); **forward away from the trunk** is *retraction-loaded* ([middle trapezius](#middletrapezius), [rhomboids](#rhomboids)); **backward into the trunk** is *protraction-loaded* ([serratus anterior](#serratusanterior)); a load that turns the socket **down** is *upward-rotation-loaded* (upper and lower trapezius with the serratus anterior); a load that turns it **up** is *downward-rotation-loaded* (rhomboids, levator scapulae, pectoralis minor). **Step 3:** if the trunk is supported on the side the force pushes toward — a bench behind the back, a chest pad in front — the muscles no longer have to hold the trunk up in that direction, which **reduces the demand without abolishing it**. **Step 4:** an exercise may fall in more than one class; list them in order of component size, and note that the pairs travel together — hanging loads depression and downward rotation, a shrug with the arm out loads elevation and upward rotation. **Step 5 (tie-break):** the set-up decides over the felt sensation, and a measurement decides over the set-up. **Caveat:** the class names a **direction**, not a dose. It cannot say how much load a muscle takes, and it does not predict growth. The class is derived in this document from directions of pull; no study has tested it.
+
+## gripdemandclass
+*Exercises & Technique*
+
+**Grip demand class (support, crush, pinch, open-hand)** — Which of four different jobs an exercise asks your hand to do. Formally: decide it from one repetition as prescribed. **Step 1:** find where the load touches the hand — across the fingers **with the palm behind it** (held in the hand), between the **finger pads and thumb with no palm contact** (pinched), or on the **finger pads alone** with the thumb doing little (hanging off the fingers). **Step 2:** ask whether the hand must **close against resistance** or only **resist being opened**. **Step 3:** name the class — held and resisting opening is **support grip** (deadlift, row, carry, dead hang); held and closing against resistance is **crush grip** (gripper, [dynamometer](#handgripdynamometry)); pinched is **pinch grip** (plate pinch); finger pads alone is **open-hand grip** (hangboard, thick bar without the thumb). **Step 4:** if the load also tries to bend the wrist, add **wrist-loaded**, which nearly every heavy support hold is. **Step 5 (tie-break):** the contact decides, not the exercise's name — a dumbbell held by the handle is support, the same dumbbell held by the head is a pinch. **Why it exists:** the classes transfer poorly. Three results line up — adding wrist and forearm work bought no extra grip strength (Szymanski et al., 2004), hand-focused training does raise grip strength (Akbaş, 2025), and elite climbers have larger forearms with **no better handgrip** than lower-level climbers (Carrasco et al., 2024). **Caveats:** no study has trained one class and tested transfer to the others; hook grip and double-overhand fall in the same class; and taxonomies of the human grip are old, so what is original here is the training application rather than the categories.
+
+## hookgrip
+*Exercises & Technique*
+
+**Hook grip** — Gripping a bar with the thumb trapped underneath the fingers. Formally: a [pronated](#pronatedgrip) bar grip in which the thumb is placed against the bar first and the index and middle fingers close over the thumbnail, converting part of the hold from friction into a mechanical latch. It is a **support grip** ([grip demand class](#gripdemandclass)) with the highest load tolerance available without equipment, and along with the double-overhand grip it demands the most of the forearm — a mixed grip produced the least brachioradialis and flexor carpi ulnaris activation of the three (Pratt et al., 2020). It is briefly painful to learn and the pain resolves.
+
+## mixedgrip
+*Exercises & Technique*
+
+**Mixed grip** — Gripping a bar with one palm forward and one palm back. Formally: an asymmetric bar grip in which supination of one forearm opposes the bar's tendency to roll out of the fingers. It allows the heaviest pull for most people and it is the **least demanding of the three deadlift grips**: it produced the lowest brachioradialis and flexor carpi ulnaris activation regardless of load and sex, and was consistently rated the easiest (Pratt et al., 2020). **Validity caveat:** that study recorded two elbow flexors and one wrist flexor and **no finger flexor**, so it measures forearm involvement rather than the muscles that hold the bar. Hand orientation did not change bar velocity. **Use it to lift the most weight, not to train the grip** (Part XIV §B.8).
+
+## liftingstraps
+*Exercises & Technique*
+
+**Lifting straps** — Fabric loops wrapped around the wrist and the bar so the load hangs on the strap rather than on the fingers. Formally: a grip aid that transfers part of the holding force from [finger flexion](#fingerflexion) to the wrist and the strap, removing the hand as the [limiting link](#limitinglink). Measured in ten resistance-trained women, straps allowed **significantly more repetitions** at 80% of deadlift 1RM with **no change in mean or peak bar velocity** (Trahey et al., 2023). A review of the wider literature found they can raise maximal strength and grip perception but that **no consistent effects have been observed for pulling and back exercises** (Martins et al., 2026). **Whether habitual use blunts long-term grip development has never been tested.**
 
 ## weightliftingbelt
 
@@ -21273,6 +22673,36 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Upright row** — Pulling a barbell or cable straight up the front of the body with the elbows leading. Formally: a multi-joint exercise combining [shoulder abduction](#shoulderabduction), [internal rotation](#internalrotation) and elbow flexion, with a mid-range-loaded [resistance profile](#resistanceprofile). **The narrow-grip version taken to chin height is the elevation-plus-internal-rotation combination this document declines to program** (Part V §E.4). A wide grip finishing at sternum height removes most of that combination and leaves an unremarkable raise with a large [trapezius](#trapezius) share (Part V §D.1). Grip width changed upper- and middle-trapezius activity **in the eccentric phase only** (McAllister et al., 2013), and the exercise was one of the five in the only programme ever shown to grow the trapezius (Andersen et al., 2014b).
 
+## wristcurl
+*Exercises & Technique*
+
+**Wrist curl** — Resting the forearm on a bench palm-up and curling the wrist through its range against a bar or dumbbell. Formally: a loaded [wrist flexion](#wristflexion) exercise performed with the forearm supported and the hand free beyond the support. Use the full range: the two sources that speak to wrist torque profiles disagree about which side has the flatter curve (Part XIV §B.3), so there is no basis for choosing a partial range on either. Its characteristic error is letting the bar roll down into the fingers and back — a perfectly good **finger** exercise, and not the one being counted.
+
+## reversewristcurl
+*Exercises & Technique*
+
+**Reverse wrist curl** — The same movement palm-down. Formally: a loaded [wrist extension](#wristextension) exercise performed with the forearm supported. It is routinely loaded far too heavily by analogy with the wrist curl: the wrist makes about **1.7 times more flexion than extension torque** (Delp et al., 1996). **A correction worth knowing:** the randomized trial that is usually cited in support of this exercise for chronic lateral elbow pain did not use it — that trial's exercise was an **eccentric twist of a rubber bar** (Tyler et al., 2010), and the reverse wrist curl itself has no trial behind it.
+
+## deadhang
+*Exercises & Technique*
+
+**Dead hang** — Hanging at arm's length from a bar. Formally: a body-weight isometric **support grip** ([grip demand class](#gripdemandclass)) in which the whole body mass is held by [finger flexion](#fingerflexion), dosed in seconds rather than repetitions. It costs nothing, needs only a [pull-up](#pullup) bar, and progresses by time, then by one hand, then by added load. It is also a scapular exercise, and in the opposite direction to a shrug (Part XIII §D.5).
+
+## platepinch
+*Exercises & Technique*
+
+**Plate pinch** — Holding two smooth weight plates together between the thumb and fingers. Formally: a **pinch grip** ([grip demand class](#gripdemandclass)) isometric with **no palm contact**, dosed in seconds and loaded by adding plates. If the plates touch your palm it has become a support hold. It is the cheapest way to cover the most neglected grip class, and there is **no trial evidence for its value** — the argument for it is mechanical.
+
+## hangboardhang
+*Exercises & Technique*
+
+**Hangboard hang** — Hanging from a fixed edge by the fingers, on a purpose-made board. Formally: an **open-hand** or crimped [grip demand class](#gripdemandclass) isometric in which body weight, or a fraction of it, is held on the finger pads with the thumb contributing little; dosed in seconds. It is the only class in Part XIV with randomized training evidence: five weeks of finger training at ~40% of maximum with blood-flow restriction raised maximal voluntary contraction **9 ± 8%** and critical force **22 ± 15%**, comparable to high-load training; muscle thickness was measured and **is not among the significant findings** (Perrin et al., 2026). Frequent low-intensity hangs matched maximal hangs in a retrospective analysis, and combining them was additive (Gilmore et al., 2024) — but a randomized 8-week comparison of three programmes found the **combination the worst of the three** for grip endurance, at +7% against +45% for intermittent and +34% for maximal hangs (López-Rivera & González-Badillo, 2019). **Contested.** **It is also the exercise that injures fingers** — the open hand is the lower-risk default and the crimp is a position to earn (Part XIV §B.5).
+
+## handgripper
+*Exercises & Technique*
+
+**Hand gripper** — A sprung tool squeezed shut in one hand. Formally: the only common exercise in the **crush** [grip demand class](#gripdemandclass), in which the hand closes against a resistance that pushes back. It trains what a [dynamometer](#handgripdynamometry) measures, which is **not** the class that holds a barbell. No trial has tested grippers specifically, but pooling 22 randomized trials of hand-focused training in 1,017 healthy adults, grip strength improved with **g = 0.44 (95% CI 0.23–0.64)** — mostly in older adults, and at high risk of bias (Akbaş, 2025). Its other limitation is progression: a fixed ladder of tools rather than a continuum, and one sized for a hand that may not be yours.
+
 ## crunch
 
 *Exercises & Technique*
@@ -21326,6 +22756,11 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 *Exercises & Technique*
 
 **Suitcase carry** — Walking with a heavy weight in one hand and nothing in the other. Formally: an isometric anti-[lateral-flexion](#trunklateralflexion) exercise in which the load's [moment arm](#momentarm) about the spine is fixed by the lifter's width and the demand is set entirely by the weight — which makes it, unusually for this region, **loadable without limit and progressible like any other lift**. Its [limiting link](#limitinglink) is the grip, and straps are legitimate.
+
+## farmerswalk
+*Exercises & Technique*
+
+**Farmer's walk** — Carrying a heavy load in each hand and walking. Formally: a bilateral loaded carry, a **support grip** ([grip demand class](#gripdemandclass)) held isometrically for distance or time, and the bilateral counterpart of the [suitcase carry](#suitcasecarry). It is the highest-return dedicated grip exercise available because it loads the hand at gym-level absolute weights, and the same set trains the trunk and the shoulder girdle. Straps convert it from a grip exercise into a carry.
 
 ## woodchop
 
@@ -21448,6 +22883,26 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Distal biceps tendon rupture** — The biceps tendon tearing off the forearm bone, usually when a bent arm is suddenly forced straight. Formally: avulsion of the distal biceps tendon from the [radial tuberosity](#radialtuberosity), typically complete, producing a proximally retracted muscle belly, weakness of elbow flexion and of forearm [supination](#forearmsupination), and a changed contour of the upper arm. It is uncommon and stereotyped: **1.2 ruptures per 100,000 people per year**, thirteen of fourteen cases in men of mean age 47, 86% in the dominant arm, every one caused by excessive eccentric tension as the arm was forced from a flexed position, and a **7.5-fold** higher risk in smokers (Safran & Graham, 2002). Anatomical surgical reinsertion restores function well, with conservative treatment usually reserved for older or low-demand patients (Jaschke et al., 2023); it is a same-week surgical assessment, not a training problem (Part XI §E.4).
 
+## lateralepicondylalgia
+*Pathology & Clinical*
+
+**Lateral epicondylalgia ("tennis elbow")** — Pain on the outer side of the elbow, provoked by gripping. Formally: a load-related tendinopathy of the common extensor origin at the [lateral epicondyle](#lateralepicondyle), usually centred on [extensor carpi radialis brevis](#extensorcarpiradialisbrevis); the "-itis" name is a misnomer, since the tissue change is degenerative rather than inflammatory. It is provoked most in **pronation**, the position that raises that muscle's activity at a fixed wrist torque (Ikeda et al., 2025). **The treatment evidence is unusually good:** adding an eccentric wrist-extensor exercise — specifically an **eccentric twist of an inexpensive rubber bar**, not a reverse wrist curl — to standard treatment beat standard treatment alone on every outcome: disability improved 76% against 13%, pain 81% against 22%, tenderness 71% against 5%, strength 79% against 15% (Tyler et al., 2010). **Moderate evidence** — one randomized trial of twenty-one patients, add-on design.
+
+## medialepicondylalgia
+*Pathology & Clinical*
+
+**Medial epicondylalgia ("golfer's elbow")** — Pain on the inner side of the elbow, provoked by gripping and by resisted [wrist flexion](#wristflexion). Formally: a load-related tendinopathy of the common flexor origin at the [medial epicondyle](#medialepicondyle); the mirror image of [lateral epicondylalgia](#lateralepicondylalgia) and much less studied. The reasonable approach is the same progressive loading applied to the flexors, and that is **a mechanical inference from the lateral evidence, not a tested treatment**.
+
+## carpaltunnelsyndrome
+*Pathology & Clinical*
+
+**Carpal tunnel syndrome** — Numbness and tingling in the thumb, index, middle and half the ring finger, classically worst at night. Formally: compression of the [median nerve](#mediannerve) within the [carpal tunnel](#carpaltunnel), with sensory symptoms first and wasting of the thumb-base muscles late. It is a **nerve** problem rather than a muscle problem, so grip training does not address it, and numbness that outlasts a training session is a reason to be assessed rather than to train through (Part XIV §A.7).
+
+## pulleyinjury
+*Pathology & Clinical*
+
+**Finger pulley injury** — A pop felt in a finger during a hard hold, followed by pain and swelling at the base of that finger. Formally: partial or complete rupture of an [annular pulley](#annularpulley), most often A2, allowing the flexor tendon to bowstring away from the bone; classically produced from a crimped position, where the bent middle knuckle raises the force the pulley must contain. Across 45 rock-climbing studies, pulley injuries were frequent in both sport climbing and bouldering, and fingers and hands were among the most injured regions (Vagy et al., 2026). On taping — the standard self-treatment — a systematic review found evidence of **low to moderate certainty** (Larsson et al., 2022). **Evidence remains limited and inconsistent.**
+
 ## achillestendinopathy
 *Pathology & Clinical*
 
@@ -21478,16 +22933,16 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 ---
 
-# partxvbibliography
+# partxvibibliography
 
-**Part XV — Bibliography**
+**Part XVI — Bibliography**
 
-Every source cited in this document: **600 papers**, each with a DOI you can paste into a search box
+Every source cited in this document: **635 papers**, each with a DOI you can paste into a search box
 or a library request form — with nine exceptions, noted at their entries: eight for which no DOI was ever
 issued and a PubMed or PubMed Central identifier is given instead, and one master's thesis that has neither. Alphabetical by first author, so an in-text citation like
 *(Gerling & Brown, 2013)* is found by scanning for **Gerling**.
 
-**291 are open access** — free to read now. **309 are paywalled**; any university or public library can
+**309 are open access** — free to read now. **326 are paywalled**; any university or public library can
 obtain those through interlibrary loan at no cost, usually in a few days, and authors may legally
 share their own accepted manuscripts if you email them. Every DOI below was verified against
 Crossref, and open-access status against Unpaywall, at the time of writing.
@@ -21499,7 +22954,7 @@ discussion, the text says so at the claim itself — that context matters more t
 marks claims that could not be traced to a source we could read; they are flagged rather than quietly
 dropped. **Twenty-two of these papers measured the latissimus dorsi directly, twenty-eight measured the
 quadriceps femoris directly, thirty-eight measured a gluteal muscle directly, twenty-one measured a
-deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, twenty-nine measured a hamstring directly, thirty-one measured a pectoral muscle directly, at least seventy-six measured the triceps brachii or its tendon directly, at least ninety-two measured the erector spinae, the multifidus or the lumbar extensors directly, at least thirty-eight measured the biceps brachii, the brachialis or the elbow flexors as a group directly, at least twenty-four measured the gastrocnemius, the soleus or the Achilles tendon directly, and at least thirty-five measured the trapezius, the serratus anterior or another scapular muscle directly**; the rest supply general training principles or the mechanical
+deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, twenty-nine measured a hamstring directly, thirty-one measured a pectoral muscle directly, at least seventy-six measured the triceps brachii or its tendon directly, at least ninety-two measured the erector spinae, the multifidus or the lumbar extensors directly, at least thirty-eight measured the biceps brachii, the brachialis or the elbow flexors as a group directly, at least twenty-four measured the gastrocnemius, the soleus or the Achilles tendon directly, at least thirty-five measured the trapezius, the serratus anterior or another scapular muscle directly, and at least thirty measured a forearm muscle, the grip or the finger flexors directly**; the rest supply general training principles or the mechanical
 framework. Where a paper's own research group has been
 the subject of a published data-integrity analysis, its entry says so. Where two or more papers by the same first author share a year, the bibliography entry
 records the `a`/`b`/`c` suffix used in the text.
@@ -21528,6 +22983,8 @@ Agten A, Stevens S, Verbrugghe J, Eijnde BO, Timmermans A, Vandenabeele F. The l
 
 Ahtiainen JP, Walker S, Peltonen H, Holviala J, Sillanpää E, Karavirta L, et al. Heterogeneity in resistance training-induced muscle strength and mass responses in men and women of different ages. Age. 2016;38(1):10. doi:10.1007/s11357-015-9870-1 · **open access**
 
+Akbaş A. Hand-Focused Strength and Proprioceptive Training for Improving Grip Strength and Manual Dexterity in Healthy Adults: A Systematic Review and Meta-Analysis. Journal of Clinical Medicine. 2025;14(19):6882. doi:10.3390/jcm14196882 · **open access**
+
 Akima H, Maeda H, Koike T, Ishida K. Effect of elbow joint angles on electromyographic activity versus force relationships of synergistic muscles of the triceps brachii. PLOS ONE. 2021;16(6):e0252644. doi:10.1371/journal.pone.0252644 · **open access**
 
 Albarello JCDS, Cabral HV, Leitão BFM, Halmenschlager GH, Lulic-Kuryllo T, Matta TT. Non-uniform excitation of pectoralis major induced by changes in bench press inclination leads to uneven variations in the cross-sectional area measured by panoramic ultrasonography. Journal of Electromyography and Kinesiology. 2022;67:102722. doi:10.1016/j.jelekin.2022.102722 · *paywalled*
@@ -21535,6 +22992,8 @@ Albarello JCDS, Cabral HV, Leitão BFM, Halmenschlager GH, Lulic-Kuryllo T, Matt
 Alonso-Fernández D, Fernández-Rodríguez R, Abalo-Núñez R. Changes in rectus femoris architecture induced by the reverse nordic hamstring exercises. The Journal of Sports Medicine and Physical Fitness. 2019;59(4):640-647. doi:10.23736/S0022-4707.18.08873-4 · **open access**
 
 Alves D, Matta T, Oliveira L. Effect of shoulder position on triceps brachii heads activity in dumbbell elbow extension exercises. The Journal of Sports Medicine and Physical Fitness. 2018;58(9):1247-1252. doi:10.23736/S0022-4707.17.06849-9 · *paywalled*
+
+Amca AM, Vigouroux L, Aritan S, Berton E. The effect of chalk on the finger–hold friction coefficient in rock climbing. Sports Biomechanics. 2012;11(4):473-479. doi:10.1080/14763141.2012.724700 · *paywalled*
 
 Andersen CH, Zebis MK, Saervoll C, Sundstrup E, Jakobsen MD, Sjøgaard G, et al. Scapular Muscle Activity from Selected Strengthening Exercises Performed at Low and High Intensities. Journal of Strength and Conditioning Research. 2012;26(9):2408-2416. doi:10.1519/jsc.0b013e31823f8d24 · *paywalled*
 
@@ -21545,6 +23004,10 @@ Andersen V, Fimland M, Saeterbakken A. Trunk Muscle Activity in One- and Two-Arm
 Andersen V, Fimland MS, Mo DA, Iversen VM, Vederhus T, Rockland Hellebø LR, et al. Electromyographic Comparison of Barbell Deadlift, Hex Bar Deadlift, and Hip Thrust Exercises: A Cross-Over Study. Journal of Strength and Conditioning Research. 2018;32(3):587-593. doi:10.1519/jsc.0000000000001826 · **open access**
 
 Andersen V, Fimland MS, Wiik E, Skoglund A, Saeterbakken AH. Effects of Grip Width on Muscle Strength and Activation in the Lat Pull-Down [cited as Andersen et al., 2014a]. Journal of Strength and Conditioning Research. 2014;28(4):1135-1142. doi:10.1097/JSC.0000000000000232 · *paywalled*
+
+Andersen V, Hermans E, Hansen KG, Solstad TEJ, Saeterbakken AH, Baláš J, et al. Comparison of low load blood flow restriction and high load resistance training of the finger flexors in advanced level climbers: a pilot study. Frontiers in Physiology. 2026;17:1807492. doi:10.3389/fphys.2026.1807492 · **open access**
+
+Andersen V, Hermans E, Vereide V, Stien N, Paulsen G, Baláš J, et al. Comparison of finger flexor resistance training, with and without blood flow restriction, on perceptional and physiological responses in advanced climbers. Scientific Reports. 2023;13(1):3287. doi:10.1038/s41598-023-30499-x · **open access** — a publisher correction was issued in 2023 (doi:10.1038/s41598-023-31266-8).
 
 Androulakis-Korakakis P, Gentil P, Fisher JP, Steele J. Comparison of Isolated Lumbar Extension Strength in Competitive and Noncompetitive Powerlifters, and Recreationally Trained Men. Journal of Strength & Conditioning Research. 2021;35(3):652-658. doi:10.1519/jsc.0000000000002722 · *paywalled*
 
@@ -21680,6 +23143,8 @@ Cannon J, Weithman BA, Powers CM. Activation training facilitates gluteus maximu
 
 Carpenter DM, Graves JE, Pollock ML, Leggett SH, Foster D, Holmes B, et al. Effect of 12 and 20 Weeks of Resistance Training on Lumbar Extension Torque Production. Physical Therapy. 1991;71(8):580-588. doi:10.1093/ptj/71.8.580 · *paywalled*
 
+Carrasco F, Arias-Tellez MJ, Solar-Altamirano I, Inostroza J, Carrasco G. Regional Body Composition and Strength, Not Total Body Composition, Are Determinants of Performance in Climbers. Journal of Functional Morphology and Kinesiology. 2024;9(4):228. doi:10.3390/jfmk9040228 · **open access**
+
 Caterisano A, Moss RF, Pellinger TK, Woodruff K, Lewis VC, Booth W, et al. The Effect of Back Squat Depth on the EMG Activity of 4 Superficial Hip and Thigh Muscles. Journal of Strength and Conditioning Research. 2002;16(3):428-432. doi:10.1519/00124278-200208000-00014 · *paywalled*
 
 Çergel Y, Topuz O, Alkan H, Sarsan A, Sabir Akkoyunlu N. The effects of short-term back extensor strength training in postmenopausal osteoporotic women with vertebral fractures: comparison of supervised and home exercise program. Archives of Osteoporosis. 2019;14(1):82. doi:10.1007/s11657-019-0632-z · *paywalled*
@@ -21761,6 +23226,8 @@ Danneels LA, Vanderstraeten GG, Cambier DC, Witvrouw EE, Bourgois J, Dankaerts W
 De Martino E, Hides J, Elliott JM, Hoggarth MA, Zange J, Lindsay K, et al. The Effects of Reconditioning Exercises Following Prolonged Bed Rest on Lumbopelvic Muscle Volume and Accumulation of Paraspinal Muscle Fat. Frontiers in Physiology. 2022;13:862793. doi:10.3389/fphys.2022.862793 · **open access**
 
 Delgado J, Drinkwater EJ, Banyard HG, Haff GG, Nosaka K. Comparison Between Back Squat, Romanian Deadlift, and Barbell Hip Thrust for Leg and Hip Muscle Activities During Hip Extension. Journal of Strength and Conditioning Research. 2019;33(10):2595-2601. doi:10.1519/JSC.0000000000003290 · **open access**
+
+Delp SL, Grierson AE, Buchanan TS. Maximumisometric moments generated by the wrist muscles in flexion-extension and radial-ulnar deviation. Journal of Biomechanics. 1996;29(10):1371-1375. doi:10.1016/0021-9290(96)00029-2 · *paywalled*
 
 Delp SL, Hess WE, Hungerford DS, Jones LC. Variation of rotation moment arms with hip flexion. Journal of Biomechanics. 1999;32(5):493-501. doi:10.1016/S0021-9290(99)00032-9 · *paywalled*
 
@@ -21862,6 +23329,8 @@ Fry AC, Smith JC, Schilling BK. Effect of Knee Position on Hip and Knee Torques 
 
 Fukumoto Y, Tateuchi H, Ikezoe T, Tsukagoshi R, Akiyama H, So K, et al. Effects of high-velocity resistance training on muscle function, muscle properties, and physical performance in individuals with hip osteoarthritis: a randomized controlled trial. Clinical Rehabilitation. 2014;28(1):48-58. doi:10.1177/0269215513492161 · *paywalled*
 
+Fundaun J, Oliva V, Bédard S, Wesselink EO, Lynn BP, Pai SA, et al. Automated Segmentation of Forearm Muscles: Clinical Associations With Hand Function, Muscle Volume and Intramuscular Fat. JCSM Communications. 2025;8(2):e70015. doi:10.1002/rco2.70015 · **open access**
+
 Fung L, Wong B, Ravichandiran K, Agur A, Rindlisbacher T, Elmaraghy A. Three-dimensional study of pectoralis major muscle and tendon architecture. Clinical Anatomy. 2009;22(4):500-508. doi:10.1002/ca.20784 · *paywalled*
 
 Ganderton C, Semciw A, Cook J, Moreira E, Pizzari T. Gluteal Loading Versus Sham Exercises to Improve Pain and Dysfunction in Postmenopausal Women with Greater Trochanteric Pain Syndrome: A Randomized Controlled Trial. Journal of Women's Health. 2018;27(6):815-829. doi:10.1089/jwh.2017.6729 · *paywalled*
@@ -21876,6 +23345,8 @@ Gerling ME, Brown SHM. Architectural analysis and predicted functional capabilit
 
 Gibbons LE, Videman T, Battié MC, Kaprio J. Determinants of Paraspinal Muscle Cross-sectional Area in Male Monozygotic Twins. Physical Therapy. 1998;78(6):602-610. doi:10.1093/ptj/78.6.602 · **open access**
 
+Gilmore NK, Klimek P, Abrahamsson E, Baar K. Effects of Different Loading Programs on Finger Strength in Rock Climbers. Sports Medicine - Open. 2024;10(1):125. doi:10.1186/s40798-024-00793-7 · **open access**
+
 Ginn KA, Cools A, Halaki M. Do surface electrodes validly represent lower trapezius activation patterns during shoulder tasks?. Journal of Electromyography and Kinesiology. 2020;53:102427. doi:10.1016/j.jelekin.2020.102427 · *paywalled*
 
 Ginn KA, Halaki M. Do surface electrode recordings validly represent latissimus dorsi activation patterns during shoulder tasks? Journal of Electromyography and Kinesiology. 2015;25(1):8-13. doi:10.1016/j.jelekin.2014.10.008 · *paywalled*
@@ -21885,6 +23356,8 @@ Go SU, Lee BH. Effects of scapular stability exercise on shoulder stability and 
 Goli A, Attarieh P, Nunes JP, Nehegadar S, Khani S, Fashi M, et al. Does Performing Partial Repetitions Beyond Momentary Failure Enhance Muscle Hypertrophy in Volume-Load-Equated Calf-Raise Resistance Training. International Journal of Exercise Science. 2026;19(4):. doi:10.70252/ijes2026403 · **open access**
 
 Gomo O, van den Tillaar R. The effects of grip width on sticking region in bench press. Journal of Sports Sciences. 2016;34(3):232-238. doi:10.1080/02640414.2015.1046395 · *paywalled*
+
+Gonzalez RV, Buchanan TS, Delp SL. How muscle architecture and moment arms affect wrist flexion-extension moments. Journal of Biomechanics. 1997;30(7):705-712. doi:10.1016/s0021-9290(97)00015-8 · *paywalled*
 
 Goto M, Maeda C, Hirayama T, Terada S, Nirengi S, Kurosawa Y, et al. Partial Range of Motion Exercise Is Effective for Facilitating Muscle Hypertrophy and Function Through Sustained Intramuscular Hypoxia in Young Trained Men. Journal of Strength and Conditioning Research. 2019;33(5):1286-1294. doi:10.1519/JSC.0000000000002051 · *paywalled*
 
@@ -21984,9 +23457,13 @@ Hubal MJ, Gordish-Dressman H, Thompson PD, Price TB, Hoffman EP, Angelopoulos TJ
 
 Huberti HH, Hayes WC, Stormont TJ, Chao EY. Force ratios in the quadriceps tendon and ligamentum patellae. Journal of Orthopaedic Research. 1984;2(1):49-54. doi:10.1002/jor.1100020108 · *paywalled*
 
+Hugues X, Quaine F, Nordez A, Perrin T, Beaudoin P, Brugniaux JV, et al. Finger flexor and extensor muscles load sharing: Effect of the climbing grip technique. Journal of Biomechanics. 2026;198:113193. doi:10.1016/j.jbiomech.2026.113193 · *paywalled*
+
 Hussain J, Sundaraj K, Subramaniam ID, Lam CK. Muscle Fatigue in the Three Heads of Triceps Brachii During Intensity and Speed Variations of Triceps Push-Down Exercise. Frontiers in Physiology. 2020;11:112. doi:10.3389/fphys.2020.00112 · **open access**
 
 Hutton WC, Adams MA. Can the Lumbar Spine Be Crushed in Heavy Lifting? Spine. 1982;7(6):586-590. doi:10.1097/00007632-198211000-00012 · *paywalled*
+
+Ikeda K, Kaneoka K, Matsunaga N, Ikumi A, Yamazaki M, Yoshii Y. Effects of forearm rotation on wrist flexor and extensor muscle activities. Journal of Orthopaedic Surgery and Research. 2025;20(1):53. doi:10.1186/s13018-024-05363-x · **open access**
 
 Inman VT, Saunders JB, Abbott LC. Observations of the Function of the Shoulder Joint. Clinical Orthopaedics and Related Research. 1996;330:3-12. doi:10.1097/00003086-199609000-00002 · *paywalled* — *reprint of the 1944 original, The Journal of Bone and Joint Surgery 1944;26(1):1-30*
 
@@ -22132,6 +23609,8 @@ Larsen S, Wolf M, Schoenfeld BJ, Sandberg NØ, Fredriksen AB, Kristiansen BS, et
 
 Larsen S, Wolf M, Schoenfeld BJ, Sandberg NØ, Fredriksen AB, Kristiansen BS, et al. Knee flexion range of motion does not influence muscle hypertrophy of the quadriceps femoris during leg press training in resistance-trained individuals [cited as Larsen et al., 2025b]. Journal of Sports Sciences. 2025;43(10):986-994. doi:10.1080/02640414.2025.2481534 · **open access**
 
+Larsson R, Nordeman L, Blomdahl C. To tape or not to tape: annular ligament (pulley) injuries in rock climbers—a systematic review. BMC Sports Science, Medicine and Rehabilitation. 2022;14(1):148. doi:10.1186/s13102-022-00539-6 · **open access**
+
 Lasevicius T, Schoenfeld BJ, Grgic J, Laurentino G, Tavares LD, Tricoli V. Similar Muscular Adaptations in Resistance Training Performed Two Versus Three Days Per Week. Journal of Human Kinetics. 2019;68(1):135-143. doi:10.2478/hukin-2019-0062 · **open access**
 
 Lasevicius T, Schoenfeld BJ, Silva-Batista C, Barros TdS, Aihara AY, Brendon H, et al. Muscle Failure Promotes Greater Muscle Hypertrophy in Low-Load but Not in High-Load Resistance Training. Journal of Strength & Conditioning Research. 2022;36(2):346-351. doi:10.1519/jsc.0000000000003454 · *paywalled*
@@ -22164,11 +23643,19 @@ Lehman GJ. The Influence of Grip Width and Forearm Pronation/Supination on Upper
 
 Leitão BFM, Albarello JCS, Halmenschlager GH, de Salles BF, Matta TT. Exercise selection plays an important role in inducing non-uniform acute responses on elbow flexors muscle thickness. Journal of Bodywork and Movement Therapies. 2024;40:1097-1101. doi:10.1016/j.jbmt.2024.07.028 · *paywalled*
 
+Leong DP, Teo KK, Rangarajan S, Lopez-Jaramillo P, Avezum A, Orlandini A, et al. Prognostic value of grip strength: findings from the Prospective Urban Rural Epidemiology (PURE) study. The Lancet. 2015;386(9990):266-273. doi:10.1016/s0140-6736(14)62000-6 · **open access**
+
 Leong HT, Liang P, Feng Y, Long Y, Ho CYC. Altered Scapulothoracic Muscle Activity in Overhead Athletes with Rotator Cuff-Related Shoulder Pain: A Systematic Review and Meta-Analysis. American Journal of Physical Medicine & Rehabilitation. 2026;:. doi:10.1097/phm.0000000000003112 · *paywalled*
 
 Lescher S, Bender B, Eifler R, Haas F, Gruber K, Felber S. Isometric Non-Machine-Based Prevention Training Program: Effects on the Cross-Sectional Area of the Paravertebral Muscles on Magnetic Resonance Imaging. Clinical Neuroradiology. 2011;21(4):217-222. doi:10.1007/s00062-011-0104-3 · *paywalled*
 
+Li FX, Margetts S, Fowler I. Use of ‘chalk’ in rock climbing: sine qua non or myth?. Journal of Sports Sciences. 2001;19(6):427-432. doi:10.1080/026404101300149375 · *paywalled*
+
 Liao CN, Fan CH, Hsu WH, Chang CF, Yu PA, Kuo LT, et al. Twelve-Week Lower Trapezius-Centred Muscular Training Regimen in University Archers. Healthcare. 2022;10(1):171. doi:10.3390/healthcare10010171 · **open access** — a correction to the ethics-approval number was published in 2022 (doi:10.3390/healthcare10020378).
+
+Lieber RL, Fazeli BM, Botte MJ. Architecture of selected wrist flexor and extensor muscles. The Journal of Hand Surgery. 1990;15(2):244-250. doi:10.1016/0363-5023(90)90103-x · *paywalled*
+
+Lieber RL, Jacobson MD, Fazeli BM, Abrams RA, Botte MJ. Architecture of selected muscles of the arm and forearm: Anatomy and implications for tendon transfer. The Journal of Hand Surgery. 1992;17(5):787-798. doi:10.1016/0363-5023(92)90444-t · *paywalled*
 
 Lieberman DE, Raichlen DA, Pontzer H, Bramble DM, Cutright-Smith E. The human gluteus maximus and its role in running. Journal of Experimental Biology. 2006;209(11):2143-2155. doi:10.1242/jeb.02255 · **open access**
 
@@ -22179,6 +23666,10 @@ Lindman R, Eriksson A, Thornell LE. Fiber type composition of the human female t
 Liu J, Teng HL, Selkowitz DM, Asavasopon S, Powers CM. Influence of hip and knee positions on gluteus maximus and hamstrings contributions to hip extension torque production. Physiotherapy Theory and Practice. 2022;38(13):2650-2657. doi:10.1080/09593985.2021.1975338 · *paywalled*
 
 Lopez P, Radaelli R, Taaffe DR, Newton RU, Galvão DA, Trajano GS, et al. Resistance Training Load Effects on Muscle Hypertrophy and Strength Gain: Systematic Review and Network Meta-analysis. Medicine & Science in Sports & Exercise. 2021;53(6):1206-1216. doi:10.1249/MSS.0000000000002585 · *paywalled*
+
+López-Rivera E, González-Badillo JJ. Comparison of the Effects of Three Hangboard Strength and Endurance Training Programs on Grip Endurance in Sport Climbers. Journal of Human Kinetics. 2019;66(1):183-195. doi:10.2478/hukin-2018-0057 · **open access**
+
+Loren GJ, Shoemaker SD, Burkholder TJ, Jacobson MD, Fridén J, Lieber RL. Human wrist motors: Biomechanical design and application to tendon transfers. Journal of Biomechanics. 1996;29(3):331-342. doi:10.1016/0021-9290(95)00055-0 · *paywalled*
 
 Luoto S, Heliövaara M, Hurri H, Alaranta H. Static back endurance and the risk of low-back pain. Clinical Biomechanics. 1995;10(6):323-324. doi:10.1016/0268-0033(95)00002-3 · *paywalled*
 
@@ -22227,6 +23718,8 @@ Martín-San Agustín R, Castillo-Ballesta L, Esbri-Navarro R, Garvín JH. Compar
 Martínez-Cava A, Hernández-Belmonte A, Courel-Ibáñez J, Morán-Navarro R, González-Badillo JJ, Pallarés JG. Bench Press at Full Range of Motion Produces Greater Neuromuscular Adaptations Than Partial Executions After Prolonged Resistance Training. Journal of Strength and Conditioning Research. 2022;36(1):10-15. doi:10.1519/JSC.0000000000003391 · *paywalled*
 
 Martins J, Tucci HT, Andrade R, Araújo RC, Bevilaqua-Grossi D, Oliveira AS. Electromyographic Amplitude Ratio of Serratus Anterior and Upper Trapezius Muscles During Modified Push-Ups and Bench Press Exercises. Journal of Strength and Conditioning Research. 2008;22(2):477-484. doi:10.1519/jsc.0b013e3181660748 · *paywalled*
+
+Martins R, Rosa M, Padovan R, Sá M, Antunes JP, Afonso J, et al. Are Lifting Straps a Game Changer for Resistance Training or an Overrated Tool? An Exploratory Review of Current Evidence and Future Research Directions. International Journal of Sports Physiology and Performance. 2026;21(3):342-349. doi:10.1123/ijspp.2025-0296 · **open access**
 
 Masaki M, Ji X, Yamauchi T, Tateuchi H, Ichihashi N. Effects of the trunk position on muscle stiffness that reflects elongation of the lumbar erector spinae and multifidus muscles: an ultrasonic shear wave elastography study. European Journal of Applied Physiology. 2019;119(5):1085-1091. doi:10.1007/s00421-019-04098-6 · **open access**
 
@@ -22277,6 +23770,8 @@ Michiels I, Bodem F. The deltoid muscle: an electromyographical analysis of its 
 Miller MC, Schimoler PJ, Kharlamov A, Hammerstedt J, Angelides G, Sumarriva G, et al. The lacertus fibrosus substantially Alters flexion and supination moment arms: A cadaveric study. Journal of Biomechanics. 2025;187:112760. doi:10.1016/j.jbiomech.2025.112760 · **open access**
 
 Mitsuya H, Nakazato K, Hakkaku T, Okada T. Hip flexion angle affects longitudinal muscle activity of the rectus femoris in leg extension exercise. European Journal of Applied Physiology. 2023;123(6):1299-1309. doi:10.1007/s00421-023-05156-w · *paywalled*
+
+Mogk JPM, Keir PJ. Crosstalk in surface electromyography of the proximal forearm during gripping tasks. Journal of Electromyography and Kinesiology. 2003;13(1):63-71. doi:10.1016/s1050-6411(02)00071-8 · *paywalled*
 
 Montpetit C, Vaillancourt N, Rosenstein B, Wesselink EO, Dover G, Weiss C, et al. Effects of aquatic therapy vs. standard care on gluteal muscle morphology and function in individuals with chronic low back pain: a randomized controlled trial. BMC Sports Science, Medicine and Rehabilitation. 2026;18(1):241. doi:10.1186/s13102-026-01666-0 · **open access**
 
@@ -22342,6 +23837,8 @@ Nunes JP, Jacinto JL, Ribeiro AS, Mayhew JL, Nakamura M, Capel DMG, et al. Placi
 
 O'Connell DG, Cooper KA, Richeson SM, Moeller MB, Stephens JW, Key DJ. The effect of forearm position on elbow flexion strength in nursing, occupational, and physical therapy students. Work. 2021;69(2):403-409. doi:10.3233/wor-213486 · *paywalled*
 
+O'Driscoll SW, Horii E, Ness R, Cahalan TD, Richards RR, An KN. The relationship between wrist position, grasp size, and grip strength. The Journal of Hand Surgery. 1992;17(1):169-177. doi:10.1016/0363-5023(92)90136-d · *paywalled*
+
 Ogasawara R, Loenneke JP, Thiebaud RS, Abe T. Low-Load Bench Press Training to Fatigue Results in Muscle Hypertrophy Similar to High-Load Bench Press Training [cited as Ogasawara et al., 2013a]. International Journal of Clinical Medicine. 2013;4(2):114-121. doi:10.4236/ijcm.2013.42022 · **open access**
 
 Ogasawara R, Thiebaud RS, Loenneke JP, Loftin M, Abe T. Time course for arm and chest muscle thickness changes following bench press training. Interventional Medicine and Applied Science. 2012;4(4):217-220. doi:10.1556/IMAS.4.2012.4.7 · **open access**
@@ -22404,6 +23901,10 @@ Pelland JC, Remmert JF, Robinson ZP, Hinson SR, Zourdos MC. The Resistance Train
 
 Peltonen JE, Taimela S, Erkintalo M, Salminen JJ, Oksanen A, Kujala UM. Back extensor and psoas muscle cross-sectional area, prior physical training, and trunk muscle strength — a longitudinal study in adolescent girls. European Journal of Applied Physiology and Occupational Physiology. 1998;77(1-2):66-71. doi:10.1007/s004210050301 · *paywalled*
 
+Pérez-Cordero J, Jerez-Mayorga D, Rodríguez-Perea Á, Soto García D. Reliability of finger strength assessment methods in climbing: a systematic review. Frontiers in Sports and Active Living. 2025;7:1650198. doi:10.3389/fspor.2025.1650198 · **open access**
+
+Perrin TP, Randy H, Santal P, Hugues X, Tourette N, Coudurier M, et al. Low-Load Blood-Flow Restricted Resistance Training Improves Finger Flexor Muscle Function in Experienced Climbers: A Randomized Controlled Trial. Medicine & Science in Sports & Exercise. 2026;58(8):1637-1650. doi:10.1249/mss.0000000000003992 · **open access**
+
 Persad LS, Wang Z, Pino PA, Binder-Markey BI, Kaufman KR, Lieber RL. Specific tension of human muscle in vivo: a systematic review. Journal of Applied Physiology. 2024;137(4):945-962. doi:10.1152/japplphysiol.00296.2024 · **open access**
 
 Peterson SL, Rayan GM. Shoulder and Upper Arm Muscle Architecture. The Journal of Hand Surgery. 2011;36(5):881-889. doi:10.1016/j.jhsa.2011.01.008 · *paywalled*
@@ -22428,6 +23929,8 @@ Pouliart N, Gagey OJ. Significance of the latissimus dorsi for shoulder instabil
 
 Pozzi F, Plummer HA, Sanchez N, Lee Y, Michener LA. Electromyography activation of shoulder and trunk muscles is greater during closed chain compared to open chain exercises. Journal of Electromyography and Kinesiology. 2022;62:102306. doi:10.1016/j.jelekin.2019.05.007 · **open access**
 
+Pratt J, Hoffman A, Grainger A, Ditroilo M. Forearm electromyographic activity during the deadlift exercise is affected by grip type and sex. Journal of Electromyography and Kinesiology. 2020;53:102428. doi:10.1016/j.jelekin.2020.102428 · **open access**
+
 Prieske O, Muehlbauer T, Granacher U. The Role of Trunk Muscle Strength for Physical Fitness and Athletic Performance in Trained Individuals: A Systematic Review and Meta-Analysis. Sports Medicine. 2016;46(3):401-419. doi:10.1007/s40279-015-0426-4 · *paywalled*
 
 Psilander N, Eftestøl E, Cumming KT, Juvkam I, Ekblom MM, Sunding K, et al. Effects of training, detraining, and retraining on strength, hypertrophy, and myonuclear number in human skeletal muscle. Journal of Applied Physiology. 2019;126(6):1636-1645. doi:10.1152/japplphysiol.00917.2018 · **open access**
@@ -22440,17 +23943,23 @@ Rehorn MR, Blemker SS. The effects of aponeurosis geometry on strain injury susc
 
 Roberts BM, Nuckols G, Krieger JW. Sex Differences in Resistance Training: A Systematic Review and Meta-Analysis. Journal of Strength and Conditioning Research. 2020;34(5):1448-1460. doi:10.1519/JSC.0000000000003521 · *paywalled*
 
+Roberts HC, Denison HJ, Martin HJ, Patel HP, Syddall H, Cooper C, et al. A review of the measurement of grip strength in clinical and epidemiological studies: towards a standardised approach. Age and Ageing. 2011;40(4):423-429. doi:10.1093/ageing/afr051 · *paywalled*
+
 Robinson ZP, Pelland JC, Remmert JF, Refalo MC, Jukic I, Steele J, et al. Exploring the Dose–Response Relationship Between Estimated Resistance Training Proximity to Failure, Strength Gain, and Muscle Hypertrophy: A Series of Meta-Regressions. Sports Medicine. 2024;54(9):2209-2231. doi:10.1007/s40279-024-02069-2 · *paywalled*
 
 Rodiles-Guerrero L, Cano-Castillo C, Cornejo-Daza PJ, Sánchez-Valdepeñas J, Sañudo B, Sánchez-Moreno M, et al. Effects of different velocity loss thresholds on strength, neuromuscular adaptations, and muscle hypertrophy during bench press training in women. Biology of Sport. 2026;43:187-198. doi:10.5114/biolsport.2026.152347 · **open access**
 
 Rodríguez-Ridao D, Antequera-Vique JA, Martín-Fuentes I, Muyor JM. Effect of Five Bench Inclinations on the Electromyographic Activity of the Pectoralis Major, Anterior Deltoid, and Triceps Brachii during the Bench Press Exercise. International Journal of Environmental Research and Public Health. 2020;17(19):7339. doi:10.3390/ijerph17197339 · **open access**
 
+Rossi J, Berton E, Grélot L, Barla C, Vigouroux L. Characterisation of forces exerted by the entire hand during the power grip: effect of the handle diameter. Ergonomics. 2012;55(6):682-692. doi:10.1080/00140139.2011.652195 · *paywalled*
+
 Rostron ZPJ, Zacharias A, Semciw AI, Kingsley M, Pizzari T, Woodley SJ, et al. Effects of a targeted resistance intervention compared to a sham intervention on gluteal muscle hypertrophy, fatty infiltration and strength in people with hip osteoarthritis: analysis of secondary outcomes from a randomised clinical trial. BMC Musculoskeletal Disorders. 2022;23(1):944. doi:10.1186/s12891-022-05907-4 · **open access**
 
 Ruggiero M, Cless D, Infantolino B. Upper and Lower Limb Muscle Architecture of a 104 Year-Old Cadaver. PLOS ONE. 2016;11(9):e0162963. doi:10.1371/journal.pone.0162963 · **open access**
 
 Rønnestad BR, Egeland W, Kvamme NH, Refsnes PE, Kadi F, Raastad T. Dissimilar effects of one- and three-set strength training on strength and muscle mass gains in upper and lower body in untrained subjects. Journal of Strength and Conditioning Research. 2007;21(1):157-163. doi:10.1519/00124278-200702000-00028 · *paywalled*
+
+Saeterbakken AH, Bratland E, Andersen V, Stien N. Five weeks of dynamic finger flexor strength training on bouldering performance and climbing-specific strength tests. A randomized controlled trial. Frontiers in Physiology. 2024;15:1461820. doi:10.3389/fphys.2024.1461820 · **open access**
 
 Saeterbakken AH, Mo DA, Scott S, Andersen V. The Effects of Bench Press Variations in Competitive Athletes on Muscle Activity and Performance. Journal of Human Kinetics. 2017;57(1):61-71. doi:10.1515/hukin-2017-0047 · **open access**
 
@@ -22466,7 +23975,11 @@ Sakoma Y, Sano H, Shinozaki N, Itoigawa Y, Yamamoto N, Ozaki T, et al. Anatomica
 
 Sanchis-Moysi J, Idoate F, Izquierdo M, Calbet JAL, Dorado C. The hypertrophy of the lateral abdominal wall and quadratus lumborum is sport-specific: an MRI segmental study in professional tennis and soccer players [cited as Sanchis-Moysi et al., 2013]. Sports Biomechanics. 2013;12(1):54-67. doi:10.1080/14763141.2012.725087 · *paywalled*
 
-Sanchis-Moysi J, Idoate F, Olmedillas H, Guadalupe-Grau A, Alayón S, Carreras A, et al. Large Asymmetric Hypertrophy of Rectus Abdominis Muscle in Professional Tennis Players [cited as Sanchis-Moysi et al., 2010]. PLoS ONE. 2010;5(12):e15858. doi:10.1371/journal.pone.0015858 · **open access**
+Sanchis-Moysi J, Idoate F, Olmedillas H, Guadalupe-Grau A, Alayón S, Carreras A, et al. Large Asymmetric Hypertrophy of Rectus Abdominis Muscle in Professional Tennis Players [cited as Sanchis-Moysi et al., 2010a]. PLoS ONE. 2010;5(12):e15858. doi:10.1371/journal.pone.0015858 · **open access**
+
+Sanchis-Moysi J, Idoate F, Olmedillas H, Guadalupe-Grau A, Alayón S, Carreras A, et al. The upper extremity of the professional tennis player: muscle volumes, fiber-type distribution and muscle strength [cited as Sanchis-Moysi et al., 2010b]. Scandinavian Journal of Medicine & Science in Sports. 2010;20(3):524-534. doi:10.1111/j.1600-0838.2009.00969.x · **open access**
+
+Sanchis-Moysi J, Idoate F, Serrano-Sanchez JA, Dorado C, Calbet JAL. Muscle Hypertrophy in Prepubescent Tennis Players: A Segmentation MRI Study. PLoS ONE. 2012;7(3):e33622. doi:10.1371/journal.pone.0033622 · **open access**
 
 Saraceni N, Kent P, Ng L, Campbell A, Straker L, O'Sullivan P. To Flex or Not to Flex? Is There a Relationship Between Lumbar Spine Flexion During Lifting and Low Back Pain? A Systematic Review With Meta-analysis. Journal of Orthopaedic & Sports Physical Therapy. 2020;50(3):121-130. doi:10.2519/jospt.2020.9218 · *paywalled*
 
@@ -22570,17 +24083,23 @@ Sugisaki N, Wakahara T, Murata K, Miyamoto N, Kawakami Y, Kanehisa H, et al. Inf
 
 Swinton PA, Stewart A, Agouris I, Keogh JW, Lloyd R. A Biomechanical Analysis of Straight and Hexagonal Barbell Deadlifts Using Submaximal Loads. Journal of Strength and Conditioning Research. 2011;25(7):2000-2009. doi:10.1519/jsc.0b013e3181e73f87 · **open access**
 
+Szymanski DJ, Szymanski JM, Molloy JM, Pascoe DD. Effect of 12 Weeks of Wrist and Forearm Training on High School Baseball Players. Journal of Strength and Conditioning Research. 2004;18(3):432-440. doi:10.1519/13703.1 · *paywalled*
+
 Tafazzol A, Arjmand N, Shirazi-Adl A, Parnianpour M. Lumbopelvic rhythm during forward and backward sagittal trunk rotations: Combined in vivo measurement with inertial tracking device and biomechanical modeling. Clinical Biomechanics. 2014;29(1):7-13. doi:10.1016/j.clinbiomech.2013.10.021 · *paywalled*
 
 Takahashi K, Kamibayashi K, Wakahara T. Gluteus and posterior thigh muscle sizes in sprinters: their distributions along muscle length. European Journal of Sport Science. 2022;22(6):799-807. doi:10.1080/17461391.2021.1907450 · *paywalled*
 
 Tanimoto M, Arakawa H, Sato M, Nagano A. Lateral Force and EMG Activity in Wide- and Narrow-Grip Bench Press in Various Conditions. Sports. 2023;11(8):154. doi:10.3390/sports11080154 · **open access**
 
+Thoreson AR, Rappaport PO, Yang TH, Reisdorf RL, Zhao C, An KN, et al. Calculation of flexor pollicis longus moment arm for wrist motion in a cadaver model validates the tenodesis effect for therapy. Journal of Hand Therapy. 2020;33(4):470-476. doi:10.1016/j.jht.2019.01.005 · *paywalled*
+
 Thorstensson A, Carlson H. Fibre types in human lumbar back muscles. Acta Physiologica Scandinavica. 1987;131(2):195-202. doi:10.1111/j.1748-1716.1987.tb08226.x · *paywalled*
 
 Timmins RG, Bourne MN, Shield AJ, Williams MD, Lorenzen C, Opar DA. Short biceps femoris fascicles and eccentric knee flexor weakness increase the risk of hamstring injury in elite football (soccer): a prospective cohort study. British Journal of Sports Medicine. 2016;50(24):1524-1535. doi:10.1136/bjsports-2015-095362 · *paywalled*
 
 Toby EB, Hanesworth D. Ulnar nerve strains at the elbow. The Journal of Hand Surgery. 1998;23(6):992-997. doi:10.1016/S0363-5023(98)80005-1 · *paywalled*
+
+Trahey KM, Lapp EM, Talipan TN, Guydan TJ, Krupka AJ, Ellis CE. The Effect of Lifting Straps on Deadlift Performance in Females. Journal of Strength & Conditioning Research. 2023;37(10):1924-1928. doi:10.1519/jsc.0000000000004494 · *paywalled*
 
 Trybulski R, Michał W, Małgorzata S, Bogdański B, Bichowska-Pawęska M, Ryszkiel I, et al. Impact of isolated lumbar extension strength training on reducing nonspecific low back pain, disability, and improving function: a systematic review and meta-analysis. Scientific Reports. 2025;15(1):6426. doi:10.1038/s41598-025-90699-5 · **open access**
 
@@ -22596,7 +24115,11 @@ Turcotte AF, Kukuljan S, Dalla Via J, Gagnon C, Abbott G, Daly RM. Changes in sp
 
 Tveit P, Daggfeldt K, Hetland S, Thorstensson A. Erector Spinae Lever Arm Length Variations with Changes in Spinal Curvature. Spine. 1994;19(2):199-204. doi:10.1097/00007632-199401001-00015 · *paywalled*
 
+Tyler TF, Thomas GC, Nicholas SJ, McHugh MP. Addition of isolated wrist extensor eccentric exercise to standard treatment for chronic lateral epicondylosis: A prospective randomized trial. Journal of Shoulder and Elbow Surgery. 2010;19(6):917-922. doi:10.1016/j.jse.2010.04.041 · *paywalled*
+
 Uwamahoro R, Sundaraj K, Feroz FS. Effect of Forearm Postures and Elbow Joint Angles on Elbow Flexion Torque and Mechanomyography in Neuromuscular Electrical Stimulation of the Biceps Brachii. Sensors. 2023;23(19):8165. doi:10.3390/s23198165 · **open access**
+
+Vagy J, Marenzi A, Shiou B, Woollings K, Saric K. Musculoskeletal injuries in rock climbing: a scoping review. BMJ Open Sport & Exercise Medicine. 2026;12(1):e002830. doi:10.1136/bmjsem-2025-002830 · **open access**
 
 Valério DF, Berton R, Conceição MS, Canevarolo RR, Chacon-Mikahil MPT, Cavaglieri CR, et al. The effects of lifting straps in maximum strength, number of repetitions and muscle activation during lat pull-down. Sports Biomechanics. 2021;20(7):858-865. doi:10.1080/14763141.2019.1610490 · *paywalled*
 
@@ -22627,6 +24150,8 @@ Vigotsky AD, Halperin I, Trajano GS, Vieira TM. Longing for a Longitudinal Proxy
 Vigotsky AD, Harper EN, Ryan DR, Contreras B. Effects of load on good morning kinematics and EMG activity. PeerJ. 2015;3:e708. doi:10.7717/peerj.708 · **open access**
 
 Vigotsky AD, Nuckols GL, Fisher JP, Heathers J, Krieger J, Schoenfeld BJ, et al. Improbable data patterns in the work of Barbalho et al. SportRxiv. 2020. doi:10.31236/osf.io/sg3wm · **open access** — *preprint; not peer reviewed*
+
+Vigouroux L, Quaine F, Labarre-Vila A, Moutet F. Estimation of finger muscle tendon tensions and pulley forces during specific sport-climbing grip techniques. Journal of Biomechanics. 2006;39(14):2583-2592. doi:10.1016/j.jbiomech.2005.08.027 · *paywalled*
 
 Vila-Dieguez O, Cazorla-Rey A, Michener LA. Clinicians who think scapular dyskinesis is important are more likely to identify it in healthy individuals. Shoulder & Elbow. 2026;:17585732261424438. doi:10.1177/17585732261424438 · **open access**
 
