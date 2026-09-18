@@ -4,7 +4,8 @@
 > leverage rather than from tradition. Each muscle gets its own Part: anatomy → biomechanics →
 > the rep → exercise catalogue → contexts → programming. **This volume covers the latissimus
 > dorsi, the quadriceps femoris, the gluteal muscles, the deltoids, the core, the
-> hamstrings, the pectoral muscles, the triceps brachii, the erector spinae, the elbow flexors and the calves.** Further muscles are added as
+> hamstrings, the pectoral muscles, the triceps brachii, the erector spinae, the elbow flexors, the calves and the trapezius and
+> scapular muscles.** Further muscles are added as
 > new Parts; the glossary and bibliography are always the final two Parts and are shared across all
 > of them.
 >
@@ -104,8 +105,16 @@
    - **§E** [Context modifiers — when "perfect" changes](#partxiiecontextmodifiers)
    - **§F** [Programming](#partxiifprogramming)
    - **§G** [Synthesis, and what the evidence does not support](#partxiigsynthesis)
-13. **[Part XIII — Master Glossary](#partxiiimasterglossary)** (329 entries, in dependency order, with an alphabetical index at its head)
-14. **[Part XIV — Bibliography](#partxivbibliography)** (546 sources, 266 open access)
+13. **[Part XIII — Trapezius and the Scapular Muscles](#partxiiitrapeziusandscapularmuscles)**
+   - **§A** [Anatomy and architecture](#partxiiiaanatomyandarchitecture)
+   - **§B** [Biomechanics — what actually loads the scapular muscles](#partxiiibbiomechanics)
+   - **§C** [The rep, specified](#partxiiictherepspecified)
+   - **§D** [Exercise catalogue](#partxiiidexercisecatalogue)
+   - **§E** [Context modifiers — when "perfect" changes](#partxiiiecontextmodifiers)
+   - **§F** [Programming](#partxiiifprogramming)
+   - **§G** [Synthesis, and what the evidence does not support](#partxiiigsynthesis)
+14. **[Part XIV — Master Glossary](#partxivmasterglossary)** (354 entries, in dependency order, with an alphabetical index at its head)
+15. **[Part XV — Bibliography](#partxvbibliography)** (600 sources, 291 open access)
 
 **How to read this.** The first occurrence of a technical term in each Part links to its glossary
 entry. Cross-references are written `Part II §B.4`.
@@ -131,8 +140,8 @@ and no punctuation of any kind** — `forcelengthrelationship`, `momentarm`, `pa
 That character set is the fixed point of all four algorithms: each maps it to itself, so one link form
 works everywhere without HTML anchors or renderer-specific syntax. The cost is that the heading itself
 is not meant to be read; **the human-readable name is the bold lead-in immediately below it**, and the
-alphabetical index at the head of Part XIII is the place to look a term up. Structural anchors carry
-their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to XII share
+alphabetical index at the head of Part XIV is the place to look a term up. Structural anchors carry
+their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to XIII share
 section titles and would otherwise collide. Links are same-file only: no HTML anchors, no relative file links, no external
 links.
 
@@ -839,8 +848,8 @@ unusually consistent.
 
 | Question | Finding | Confidence |
 |---|---|---|
-| Does grip **width** change lat activation? | No. Narrow, medium and wide (1×, 1.5×, 2× biacromial) produced similar lat EMG; narrow and medium allowed a *heavier* 6RM than wide — 80.3 / 80.0 / 77.3 kg, a ~4% penalty (Andersen et al., 2014) | *(unmarked — replicated across Andersen and Buonsenso)* |
-| Does grip width change it during the **eccentric** specifically? | Only **wide exceeded narrow**, by three percentage points (ES = 0.14); medium vs narrow was a non-significant tendency (Andersen et al., 2014) | **Promising but under-replicated** — one study, one phase, trivial magnitude |
+| Does grip **width** change lat activation? | No. Narrow, medium and wide (1×, 1.5×, 2× biacromial) produced similar lat EMG; narrow and medium allowed a *heavier* 6RM than wide — 80.3 / 80.0 / 77.3 kg, a ~4% penalty (Andersen et al., 2014a) | *(unmarked — replicated across Andersen and Buonsenso)* |
+| Does grip width change it during the **eccentric** specifically? | Only **wide exceeded narrow**, by three percentage points (ES = 0.14); medium vs narrow was a non-significant tendency (Andersen et al., 2014a) | **Promising but under-replicated** — one study, one phase, trivial magnitude |
 | Does **pronation vs supination** matter? | Pronated exceeded [supinated](#supinatedgrip) for lat activation, irrespective of width (Lusk et al., 2010) | **Moderate evidence** |
 | Does it survive a broader comparison? | Seven pulldown variants — pronated/supinated/neutral, narrow/wide, upright/30° lean — produced **no significant difference** in lat activation, all sitting at 45–50% MVC across the full movement (Buonsenso et al., 2025) | **Moderate evidence** |
 | Pull-up vs [chin-up](#chinup)? | Lat activation similar (117–130% MVIC across variants). The chin-up added **pectoralis major and biceps**; the pull-up added **lower trapezius** (Youdas et al., 2010) | **Moderate evidence** |
@@ -1889,7 +1898,7 @@ THREE-TIMES-WEEKLY — HIGH VOLUME, ROTATING EMPHASIS
 large. Row three has one lat-specific anchor — eight weeks of pulldown-and-row training produced
 **+22% latissimus fibre cross-sectional area** on biopsy in 18 novice men (Paoli et al., 2016) — but
 no study has tracked lat *thickness* by ultrasound over these timelines, and the method is a poor index
-of individual change in any case (Part XIII, muscle thickness). Rows four and five
+of individual change in any case (Part XIV, muscle thickness). Rows four and five
 are coaching convention, not measured outcomes.
 
 **Validity caveat:** thickness measured in the first weeks of a new program is inflated by
@@ -1929,7 +1938,7 @@ but slow (Murphy & Koehler, 2022).
 
 ### G.2 What the evidence does **not** support
 
-- **That grip width targets "width" and close grip targets "thickness".** Grip width did not change lat activation at 1×, 1.5× or 2× biacromial (Andersen et al., 2014), and no training study has produced regional lat growth by grip choice. **Not supported.**
+- **That grip width targets "width" and close grip targets "thickness".** Grip width did not change lat activation at 1×, 1.5× or 2× biacromial (Andersen et al., 2014a), and no training study has produced regional lat growth by grip choice. **Not supported.**
 - **That a supinated grip "hits the lower lat".** Seven pulldown variants including supinated produced no lat activation difference (Buonsenso et al., 2025). **Not supported.**
 - **That the behind-the-neck pulldown is superior for the lat.** It is superior in one movement phase and inferior in the other, at a joint-position cost (Padovan et al., 2024). **Not supported.**
 - **That pull-ups are superior to pulldowns.** No lat activation difference at matched relative load (Doma et al., 2013). **Not supported.**
@@ -6544,7 +6553,7 @@ of exposure, so they establish where injuries land, not how likely they are.
 | Context | Common modification | Evidence note |
 |---|---|---|
 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) — a painful arc, pain reaching overhead, pain lying on that side | **Reduce the provoking arc first**, then load progressively in the pain-free range. Keep the press below the painful band or replace it with a landmine press; keep raises in the scapular plane | Rehabilitation improved shoulder strength in this population across twenty-eight studies, and **interventions that did not include exercise had no effect at all** (Zhang et al., 2026). The active ingredient is loading |
-| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part XIII, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
+| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part XIV, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
 | History of dislocation or [shoulder instability](#shoulderinstability) | Overhead and behind-the-neck positions are commonly restricted; abduction with external rotation is the classic apprehension position | Governed by the clinician, not by this document |
 | Acromioclavicular joint pain — point tenderness on top of the shoulder | Reduce [horizontal adduction](#shoulderhorizontaladduction) across the body; raises and presses are usually well tolerated | The joint is compressed by reaching across, not by reaching out |
 | Long head of biceps pain — front-of-shoulder pain with a defined tender line | Reduce front raises and dips; the tendon runs in the [bicipital groove](#bicipitalgroove) directly under them | Mechanism, not trial evidence |
@@ -10968,7 +10977,7 @@ muscle works, because it is already working.
 were placed separately over the clavicular and sternocostal heads, the two regions dissociated sharply
 by bench angle (Albarello et al., 2022) — and so did a regional analysis of the sternocostal head across
 bench press ranges of motion, where peak excitation was significantly greater in the sternocostal 15%
-region during the upper half of the lift (Fischer et al., 2025). **But the nulls are not an artefact of electrode
+region during the upper half of the lift (Fischer et al., 2025a). **But the nulls are not an artefact of electrode
 placement, and that is what makes them interesting.** Two of the rows above recorded the clavicular and
 sternocostal parts separately and still found nothing (Saeterbakken et al., 2017), and so did the
 flat-versus-arched comparison (Bartolomei et al., 2024). What separates the studies that *do* resolve a
@@ -11381,7 +11390,7 @@ exercise in which the load must be chosen for the position of Part VIII §A.9.
 adds range to is the position in which the tendon fails (Part VIII §A.9). **Evidence remains limited and
 inconsistent** for lengthened-partial work in the upper body specifically: the shortage of upper-body
 range-of-motion trials is the stated reason the one bench-press range study in this Part was run at all
-(Fischer et al., 2025), and the one upper-limb training trial that tested a long-length partial against a
+(Fischer et al., 2025a), and the one upper-limb training trial that tested a long-length partial against a
 full range found only a trivial advantage, at the longest measurement site, in the elbow flexors
 (Havers et al., 2025). Do not push a pectoral fly past a level chest on the strength of that.
 
@@ -11677,7 +11686,7 @@ hypertrophy.
 **And the acute evidence points the other way, which is worth knowing before you treat the rule as
 settled.** Nineteen men performed a ten-repetition maximum bench press at full, upper-half and lower-half
 range: **both partial ranges produced greater mean excitation of the pectoralis major and the anterior
-deltoid than the full range did** (Fischer et al., 2025). Excitation is not growth (Part VIII §B.11), and
+deltoid than the full range did** (Fischer et al., 2025a). Excitation is not growth (Part VIII §B.11), and
 a partial range moves more load, which is most of the explanation. But it means the case for full range
 here rests on a strength-transfer trial and on this document's general position on the lengthened
 position (Part I §3) — **not** on the pectoralis major working harder through it.
@@ -17565,9 +17574,1465 @@ bounced, and six sets a week.
 
 ---
 
-# partxiiimasterglossary
+# partxiiitrapeziusandscapularmuscles
 
-**Part XIII — Master Glossary**
+**Part XIII — [Trapezius](#trapezius) and the [Scapular Muscles](#scapularmuscles)**
+
+> Scope: the anatomy, mechanics, technique, exercise selection, context modifiers and programming for the
+> muscles that hold the [shoulder blade](#scapula) against the ribcage and move it — the three parts of the trapezius,
+> the [rhomboids](#rhomboids), the [levator scapulae](#levatorscapulae) and the [serratus anterior](#serratusanterior) — plus what can and cannot be said about
+> growing them.
+> **General education only.** Pain along the inner edge of the shoulder blade, a shoulder blade that stands
+> off the ribs, or weakness raising the arm overhead can be nerve problems rather than training problems —
+> see Part XIII §E.4.
+>
+> **Angle conventions, fixed for the whole Part.** [Arm elevation](#humeralelevation) is measured from the side of the body:
+> **0° is the arm hanging, 180° is straight overhead**, measured relative to the trunk unless a study is
+> quoted using another reference. Scapular angles use the standard three: **[upward rotation](#scapularupwardrotation)** (the socket
+> turning to face up), **posterior tilt** (the lower tip pressing back into the ribs), and **external
+> rotation** (the flat of the blade turning to follow the curve of the ribcage). Positive means more of the
+> named direction.
+>
+> **What makes this Part different, and you should know it before reading it.** Every other Part in this
+> document is built on growth trials. This one cannot be. Across the whole literature there is **one**
+> study that has measured trapezius fibre size before and after a training programme, and it was done in
+> women with chronic neck pain (Andersen et al., 2014b). For the rhomboids, the levator scapulae and the
+> serratus anterior there is **none**. What this Part has instead is the best-measured *mechanics* in the
+> document — bone-pin kinematics, fine-wire [electromyography](#emg), three-dimensional motion capture — and a large
+> clinical literature that turns out, on inspection, not to support most of what is built on it.
+>
+> So the Part is organized differently. §B answers **which exercise loads which scapular muscle, and in
+> which direction**, which is decidable. §F says what a defensible programme looks like given that almost
+> none of the usual dose questions have been tested, and marks every such statement as judgement. §G is
+> unusually long, because the list of things the evidence does **not** support is the most useful thing here.
+
+---
+
+## partxiiiaanatomyandarchitecture
+
+**PART A — Anatomy and Architecture**
+
+### A.1 What the scapular muscles are
+
+The shoulder blade is a flat triangular bone that **floats**. It has exactly one bony connection to the rest
+of the skeleton: through the [collarbone](#clavicle), at the small joint on top of your shoulder and at the joint beside
+your throat. Everything else holding it in place is muscle.
+
+That single fact generates the whole Part.
+
+1. **There is no scapulothoracic joint.** The blade slides on the back of the ribcage across a layer of
+   loose tissue. No capsule, no ligaments spanning it, no bony stop in any direction. Its position at any
+   instant is whatever the muscles pulling on it have settled on.
+2. **Therefore nearly every load applied to your arm is a load on these muscles.** A weight in your hand
+   pulls on the humerus; the humerus pulls on the socket; the socket is on the blade; and the blade is held
+   almost entirely by muscle. **Almost:** the capsular ligament at the inner end of the collarbone directly
+   resists the outer end being pushed down (Bearn, 1967), and the ligaments tying the collarbone to the
+   shoulder blade suspend the blade from it — which is why tearing them drops the whole girdle. But the
+   ligamentous share is small, and this is why a heavy carry burns across the top of your shoulders even
+   though nothing is moving.
+3. **And therefore they are almost never the limiting link.** Because they are loaded by everything, they
+   are trained by everything — and because they are loaded through a floating bone with no measurable lever
+   arm, nobody has been able to prescribe a dose for them the way the other Parts do.
+
+The muscles, from the top down:
+
+- **Trapezius** — the big diamond covering the neck and upper back, in three functionally distinct parts.
+- **Levator scapulae** — a narrow strap from the upper neck to the top inner corner of the blade.
+- **Rhomboid minor and major** — two sheets running down and out from the spine to the inner edge.
+- **Serratus anterior** — the fan of finger-like slips that wraps the side of the ribcage and attaches along
+  the whole inner edge of the blade, from underneath.
+
+[Pectoralis minor](#pectoralisminor) also attaches to the blade, at the [coracoid process](#coracoidprocess), and is covered in Part VIII.
+
+### A.2 Attachments — the map you load
+
+| Muscle | From | To | Nerve |
+|---|---|---|---|
+| Upper (descending) trapezius | Occiput, [nuchal ligament](#nuchalligament), C1–C6 | **Lateral third of the clavicle** | [Accessory nerve](#accessorynerve) (CN XI) |
+| Middle (transverse) trapezius | C7–T3 spinous processes and the lower nuchal ligament | [Acromion](#acromion) and upper lip of the [scapular spine](#scapularspine) | Accessory nerve |
+| Lower (ascending) trapezius | T4–T12 spinous processes | **Deltoid tubercle** of the scapular spine | Accessory nerve |
+| Levator scapulae | Transverse processes C1–C4 | Superior angle to the upper medial border | [Dorsal scapular nerve](#dorsalscapularnerve) (C5) and direct C3–C4 branches |
+| Rhomboid minor | C7–T1, lower nuchal ligament | Medial border at the root of the scapular spine | Dorsal scapular nerve (C5) |
+| Rhomboid major | T2–T5 spinous processes | Medial border below the spine to the inferior angle | Dorsal scapular nerve (C5) |
+| Serratus anterior | Outer surfaces of ribs 1–9 | **Whole medial border, on its deep surface** | [Long thoracic nerve](#longthoracicnerve) (C5–C7) |
+
+The spinal levels are the textbook division *[consensus — no single source]*; the dissection study cited
+below divides the muscle by **where its fascicles insert** instead, which is the division that matters
+mechanically. Three entries do more work than the rest.
+
+**The [upper trapezius](#uppertrapezius) does not attach to the shoulder blade.** It attaches to the **collarbone**. This is not
+a technicality. Dissection of the fascicular anatomy found the occipital and nuchal fibres running "downwards
+but mainly transversely" to insert into the clavicle, and concluded that **"the essentially transverse
+orientation of the upper and middle fibres of trapezius precludes any action as elevators of the scapula as
+commonly depicted"** (Johnson et al., 1994). The upper trapezius raises your shoulder by **rotating the
+collarbone about the joint beside your throat**, and the blade comes up because it is bolted to the far end
+of the collarbone. Everything in §B.2 follows from this.
+
+**The [lower trapezius](#lowertrapezius) attaches to a bony bump, not to a line.** All of its fibres converge on the deltoid
+tubercle at the medial end of the scapular spine (Johnson et al., 1994). That convergence is what makes its
+line of pull steeply downward-and-inward, and it is why the lower trapezius has a genuine upward-rotation
+moment while the rhomboids, attaching along a vertical border, do not.
+
+**The serratus anterior attaches along the whole inner edge, from underneath.** It is the only muscle that
+can pull the blade *forward around* the ribs and simultaneously hold its flat surface *against* them. Its
+lower slips, converging on the inferior angle, are the part with an upward-rotation moment.
+
+### A.3 Architecture — what is measured, and what is not
+
+The data are thinner than for a limb muscle, but they exist, and one number in them is genuinely surprising.
+
+The single complete dataset that includes all of these muscles comes from the dissection of **one 104-year-old
+female cadaver** (Ruggiero et al., 2016) — the same source Parts V, VIII and IX already draw on:
+
+```
+                     mass     optimal fascicle    PCSA
+  Serratus anterior  79.8 g        3.1 cm        22.2 cm2
+  Latissimus dorsi  163.3 g        6.7 cm        20.3 cm2   <- for comparison
+  Trapezius          97.2 g        5.0 cm        12.7 cm2
+  Middle deltoid     77.5 g        9.2 cm         7.6 cm2   <- for comparison
+  Rhomboid major     28.3 g        5.8 cm         4.4 cm2
+  Pectoralis minor   15.4 g        9.0 cm         1.4 cm2
+  Rhomboid minor      5.0 g        3.6 cm         1.2 cm2
+```
+
+**The serratus anterior had the largest physiological cross-section of any muscle in that shoulder** — larger
+than the [latissimus dorsi](#latissimusdorsi), nearly three times the middle deltoid — and it got there with short fascicles, the
+signature of a force muscle rather than an excursion muscle. The two rhomboids together are smaller than the
+pectoralis minor and the middle deltoid. **The rhomboids are not a major muscle group**, and no amount of
+rowing will make them one.
+
+Read the table with its health warning attached: one specimen, extreme age, and at least one [row](#row) is
+internally impossible — rhomboid minor is reported with a 7.02 µm sarcomere, which no human muscle has. Treat
+the **ranking** as informative and the absolute values as indicative.
+
+Cross-sectional area alone has been measured more widely: **both shoulders of seven cadavers** were dissected
+for muscle attachments, bundle directions and physiological cross-sectional areas to build the standard
+shoulder model (Veeger et al., 1991), and a later study added optimal fibre lengths by laser diffraction of
+[sarcomeres](#sarcomere) from **one embalmed male shoulder**, 104 muscle elements across 16 muscles (Klein Breteler et al.,
+1999). So the fibre lengths rest on a single specimen even where the cross-sections do not.
+
+And the numbers do not transfer well to a living individual. When those cadaver cross-sectional areas were
+used in a model to reproduce the hand forces five living people actually produced, the maximum [muscle stress](#specifictension)
+the model needed was **106.1 ± 39.9 N·cm⁻²** — far above the physiological value, and wildly variable between
+subjects. Scaling each person's cross-sectional areas to their own magnetic-resonance muscle volumes brought
+it to **69.4 ± 9.4 N·cm⁻²** (Bolsterlee et al., 2015).
+
+What is **not** available is an in-vivo volume dataset. The standard one measured the 32 muscles crossing the
+**glenohumeral** joint, elbow, forearm and wrist (Holzbaur et al., 2007a); the scapulothoracic muscles cross
+none of those and are simply not in it.
+
+On the trapezius's internal proportions, the dissection study is more careful than it is usually quoted as
+being: volumetrically, **the largest fascicles are those from C7, T1 and the lower half of the nuchal
+ligament** (Johnson et al., 1994). Those two groups do not belong to one part — the nuchal fibres run to the
+**clavicle** and the C7/T1 fibres to the acromion and scapular spine. So the correct statement is that the
+bulk of the muscle sits in a band across the base of the neck and the top of the shoulder blade, straddling
+what the textbooks call upper and middle. It is **not** concentrated in the visible upper slope.
+
+### A.4 The division of labour — the upward-rotation couple
+
+Raising your arm overhead requires the socket to turn to face upward, and by the standard anatomical
+account **the trapezius and the serratus anterior are the only muscles that can produce that turn** — the
+position Ekstrom's group state as the premise of their study (Ekstrom et al., 2003). They do it as a **force couple** — three pulls in different directions whose rotational effects add
+while their translations cancel:
+
+```
+  Upper trapezius   pulls the clavicle back and up   -> turns the socket up, lifts the girdle
+  Lower trapezius   pulls the spine of the blade      -> turns the socket up, pulls the girdle down
+                    down and in
+  Serratus anterior pulls the inner edge forward      -> turns the socket up, holds the blade
+                    around the ribs                      flat on the ribs
+```
+
+The upper and lower trapezius pull in nearly opposite vertical directions. That is the point: the vertical
+components cancel and the **rotations add**. It is also why the ratio between them is the one measurement the
+clinical literature obsesses over, and why §G spends a section on what that obsession does and does not
+justify.
+
+The other three muscles turn the socket **down**, and hold the blade in:
+
+- **Rhomboids** — pull the inner edge up and in toward the spine: [retraction](#scapularretraction) with [downward rotation](#scapulardownwardrotation).
+- **Levator scapulae** — pulls the top inner corner up toward the neck: elevation with downward rotation.
+- **Serratus anterior, upper slips** — hold the blade against the ribs without turning it.
+
+**The practical consequence, stated once and used throughout §D:** a movement that pulls your arm *down* or
+*back* is trained with the rhomboids, the [middle trapezius](#middletrapezius) and the levator scapulae. A movement that pushes
+your arm *up* or *forward* is trained with the upper trapezius, the lower trapezius and the serratus
+anterior. Most training programmes contain a great deal of the first and almost none of the second.
+
+### A.5 What is known about making them grow
+
+Less than for any other muscle in this document, and more than this Part originally claimed. Four lines of
+evidence exist, and it is worth being precise about what each one is.
+
+**First: muscle fibres, in symptomatic women.** Forty-two women with chronic trapezius pain were randomized
+to ten weeks of one of three things: specific strength training, general fitness training (leg cycling), or
+nothing. Trapezius biopsies were taken before and after (Andersen et al., 2014b).
+
+> **The programme that worked:** five dumbbell exercises for the neck and shoulder — **shoulder abduction,
+> shoulder elevation (a [shrug](#shrug)), one-arm row, [reverse fly](#reversefly) and [upright row](#uprightrow)** — three of the five per session,
+> **three sets each at 8–12RM**, **20 minutes, three times a week, ten weeks**, with [progressive overload](#progressiveoverload).
+>
+> **The result, in trapezius muscle fibres:**
+>
+> | | Before | After | Change |
+> |---|---|---|---|
+> | Type II fibre area | 3439 ± 1331 µm² | 4133 ± 1145 µm² | **+20%, P < 0.05** |
+> | Type I fibre area | 5043 ± 1294 µm² | 5516 ± 1188 µm² | +9%, tendency only (P < 0.10) |
+> | Capillaries per type II fibre | 2.80 | 3.31 | P < 0.05 |
+>
+> **Leg cycling and no training produced no change in fibre size.** Strength improved by 70 N of peak force
+> over the cycling group (95% CI 35–105) with an effect size of 0.61, and rate of force development by
+> 346 N·s⁻¹ (effect size 0.96).
+
+Read it carefully and it says three things.
+
+1. **The trapezius grows from ordinary resistance training.** Twenty per cent in type II fibre area in ten
+   weeks is an unremarkable, entirely normal hypertrophic response. Nothing about this muscle is special.
+2. **It needed load.** The group that exercised hard for the same duration on a bicycle got nothing. Being
+   "activated" during other work is not training.
+3. **The exercises were the obvious ones.** Shrug, row, reverse fly, [lateral raise](#lateralraise), upright row at 8–12RM.
+   No scapular-control drill, no band, no wall slide.
+
+**And here is what it cannot say.** The participants were women, symptomatic, and untrained. The outcome was
+fibre cross-sectional area from a needle biopsy of one spot in the upper trapezius — not [muscle volume](#musclevolume), not
+middle or lower trapezius, not the rhomboids or serratus anterior. There was no healthy control arm. The
+same cohort also showed large increases in the satellite-cell pool with strength training and not with
+cycling (Mackey et al., 2011).
+
+Two smaller studies add strength and thickness but not size in healthy people. Four weeks of lower-trapezius
+strengthening added to a stabilization programme improved **[muscle thickness](#musclethickness) and contraction rate** in neck
+pain patients, and beat the control group on disability and postural alignment (Park & Lee, 2020). Twelve
+weeks of lower-trapezius-focused training in university archers raised lower-trapezius dynamometer strength
+from 8 to 9 kgf and dropped the upper-to-lower trapezius activity ratio from 2.2 to 1.1 — but allocation was
+by the athletes' own preference, there were seven per group, and **no size outcome was measured**
+(Liao et al., 2022).
+
+**Second: whole-muscle cross-section, in healthy untrained men.** Twenty-one untrained men trained three
+days a week for eleven weeks on five upper-body exercises — seated chest press, seated row, latissimus
+pull-down, curl and shoulder press — at loads between 10RM and 7RM, with one group doing one set per
+upper-body exercise and the other three. **Upper-trapezius cross-sectional area was measured by magnetic
+resonance imaging** before training, at five weeks and at eleven. There was **no significant difference
+between one set and three** in upper-trapezius cross-sectional area (Rønnestad et al., 2007).
+
+Three things follow from that one study, and they matter more than its own conclusion.
+
+- The measurement exists. **Trapezius size has been tracked through a training programme in healthy people.**
+- **Set volume has been compared for a scapular muscle with a size outcome** — once, in a small sample, with
+  a null result.
+- The programme that did it was **entirely seated and back-supported**. That is a direct problem for any
+  claim that supported pressing and pulling leave the shoulder girdle untrained (§B.4, §E.7).
+
+**Third: a second, independent fibre-size cohort.** Trapezius biopsies before and after ten weeks of three
+different programmes — strength, endurance and co-ordination — in women with work-related [trapezius myalgia](#trapeziusmyalgia).
+**Only the strength programme raised type II fibre area** (P < 0.05), and only it raised the proportion of
+type IIA fibres; all three raised capillarization (Kadi et al., 2000a). In the strength-trained subgroup of
+nine, fibre cross-sectional area rose **36%**, with myonuclear number up about 70% and satellite cell number
+up 46% (Kadi & Thornell, 2000b). So **exercise type has been compared with a size outcome**, and loaded
+strength work won.
+
+**Fourth: trained people, but cross-sectionally.** Trapezius biopsies from **ten elite power lifters** against
+six controls showed significantly larger fibres of every type, more myonuclei and more satellite cells
+(Kadi et al., 1999). That is a correlation with years of training, not a trial.
+
+> **What is still missing.** No study has measured **rhomboid or levator scapulae** size before and after
+> training, in anyone. For the **serratus anterior** the only training measurements are contraction-to-rest
+> thickness *ratios* on ultrasound, which rose over four weeks in healthy young adults (Cho et al., 2018) and
+> over six weeks in office workers (Go & Lee, 2016) — a change in how the muscle contracts, not evidence that
+> it got bigger. And **no measurement of any of these muscles exists in a resistance-trained population**
+> before and after a programme.
+
+**One honesty note that cuts the other way.** In the same trial that produced the +20% fibre-area result,
+whole-muscle morphology was also imaged by ultrasound, and **no difference could be detected** (Nielsen et
+al., 2010). A twenty per cent change in fibre area was invisible to the tool a lifter could actually use.
+
+### A.6 Fibre type — slow, and it changes nothing
+
+The trapezius is a **type-I-dominant muscle in which the type I fibres are also the bigger ones** — the
+reverse of the usual arrangement. In healthy women it was **67 ± 11% type I**, with type I fibres at
+5057 ± 1120 µm² against 4000 ± 1104 µm² for type II (Andersen et al., 2014b).
+
+Across the three portions, fibre type is **relatively even** in women, with a tendency toward fewer type I
+and more type IIB in the upper part (Lindman et al., 1991). There is no basis for training the upper
+trapezius "heavy" and the lower "light", or the reverse.
+
+**What this does not mean.** It does not mean high repetitions. The one study that grew the muscle used
+8–12RM (Andersen et al., 2014b), and across the document fibre type has never predicted the rep range that
+works (Part XII §A.6 makes the same point about the soleus, the slowest muscle in the body). *[consensus — no
+single source]*
+
+### A.7 The nerves — why they matter more here than anywhere else
+
+Three nerves supply these muscles, and all three are unusually exposed.
+
+**The accessory nerve (CN XI)** supplies the whole trapezius and runs through the posterior triangle of the
+neck, immediately under the skin, with no muscle covering it. It is the nerve cut in lymph-node biopsies and
+neck dissections. In ten cadaveric sides it entered the triangle **4.5–8.5 cm below the mastoid process**,
+with cervical plexus contributions in **every specimen** and an independent cervical branch to the upper
+trapezius in **6 of 10** (Stasiewicz et al., 2026). Damage produces a dropped, winged shoulder blade and an
+arm that cannot be raised fully overhead.
+
+**The long thoracic nerve (C5–C7)** supplies the serratus anterior and runs a long superficial course down the
+side of the chest wall. It is the classic traction injury — from a heavy backpack strap, a blow to the
+shoulder, or viral neuritis. Its failure produces the textbook **medial [winging](#scapularwinging)**: the inner edge of the blade
+lifts off the ribs when you push against a wall.
+
+**The dorsal scapular nerve (usually C5)** supplies the rhomboids and levator scapulae, and in most people
+pierces the **middle scalene muscle** in the neck — the commonest entrapment site. It presents as pain along
+the inner border of the shoulder blade, with [scapular dyskinesis](#scapulardyskinesis) and rhomboid weakness, and it is routinely
+mistaken for a cervical disc, a rotator-cuff problem or a trigger point. The whole literature is case reports,
+small series and anatomical studies (Afshar et al., 2026).
+
+> **Why a lifter needs this.** Persistent inner-border shoulder-blade pain, or a blade that visibly stands off
+> the ribs, is the one presentation in this document that should not be treated as a technique fault. Nerve
+> problems here are common enough to be worth ruling out and are invisible to any amount of scapular exercise.
+
+### A.8 How the scapular muscles are injured
+
+They are almost never torn. The list is short and mostly neurological.
+
+- **Nerve injury** — accessory, long thoracic or dorsal scapular, as above. The dominant category.
+- **Rhomboid or levator scapulae strain** — a real but poorly documented entity; inner-border or
+  neck-and-blade-corner pain after a heavy pull or an awkward carry. No trial evidence on management exists.
+- **Chronic trapezius myalgia** — the occupational condition, common in repetitive low-load work. It is worth
+  a note because of what was found when it was looked at properly: women with trapezius myalgia had lower
+  peak force, lower rate of force development and lower electromyographic amplitude across 100 repeated
+  maximal contractions, and **capillarization did not differ from healthy controls**
+  (Andersen et al., 2014b); **fibre type distribution and fibre cross-sectional area did not differ either**
+  (Jensen et al., 2015). What did differ was the cellular location of an enzyme, neuronal nitric oxide
+  synthase, which normalized after ten weeks of strength training (Jensen et al., 2015). The painful muscle
+  was not a damaged muscle; it was a weak one.
+- **Distal clavicular osteolysis and [acromioclavicular](#acromioclavicularjoint) pain** — loaded through the same girdle, covered in
+  Part VIII §E.4.
+
+### A.9 What the anatomy dictates, in nine lines
+
+1. The shoulder blade floats — one bony strut, everything else muscle — so **all arm load is scapular load**.
+2. The upper trapezius attaches to the **collarbone**, and raises the shoulder by rotating it.
+3. The middle trapezius is the **largest** part by fibre volume, not the visible upper slope.
+4. The lower trapezius converges on one bony tubercle, which is why it can rotate the socket upward.
+5. The serratus anterior is the only muscle that can hold the blade **flat against the ribs**.
+6. Upward rotation is a **three-muscle couple**; nothing else can produce it.
+7. Rhomboids and levator scapulae turn the socket **down** — they are antagonists of overhead reaching.
+8. The trapezius grows like any other muscle when it is loaded like any other muscle (+20% type II fibre area
+   in ten weeks at 8–12RM), and grows not at all from unloaded activity.
+9. The **serratus anterior is the largest scapular muscle by cross-section** and the **rhomboids are small**;
+   size trials exist for the trapezius and for nothing else in the group.
+
+## partxiiibbiomechanics
+
+**PART B — Biomechanics — what actually loads the scapular muscles**
+
+### B.1 The joint actions, ranked
+
+The shoulder blade has six directions of motion, and they are not equally important for training.
+
+| Rank | Action | What it looks like | Prime movers |
+|---|---|---|---|
+| 1 | **Upward rotation** | Socket turns to face up; lower tip swings out | Upper + lower trapezius, serratus anterior |
+| 2 | **Retraction** | Blades slide together toward the spine | Middle trapezius, rhomboids |
+| 3 | **[Protraction](#scapularprotraction)** | Blade slides forward around the ribs | Serratus anterior |
+| 4 | **Elevation** | Whole girdle rides up | Upper trapezius, levator scapulae |
+| 5 | **Posterior tilt** | Lower tip presses back into the ribs | Lower trapezius, serratus anterior (lower slips) |
+| 6 | **[Depression](#scapulardepression) / downward rotation** | The reverse of 4 and 1 | Lower trapezius; rhomboids, levator scapulae, pectoralis minor |
+
+Upward rotation ranks first because it is the one the arm cannot do without (§B.3), the one with a
+three-muscle couple dedicated to it (§A.4), and the one almost no training programme loads (§D.4).
+
+**A caution about the last row.** *Scapular depression is a real action with a real muscle behind it (the
+lower trapezius) — but it is not what happens in a pulldown.* The cue "pull your shoulder blades down" during
+a pull mostly describes the humerus being driven downward and carrying the girdle with it; the latissimus
+dorsi has no reliable scapular attachment (Part II §A.2).
+
+### B.2 The upper trapezius raises your shoulder by turning your collarbone
+
+This is the single mechanical fact that most changes how the Part reads, so it gets its own section.
+
+Draw the upper trapezius honestly and its fibres run **across**, not up. They leave the back of the skull and
+the ligament down the back of the neck and travel nearly horizontally out to the **outer third of the
+collarbone**. A muscle pulling horizontally on a bone cannot lift that bone by shortening.
+
+What it can do is **rotate the collarbone backwards about the joint beside your throat**. The collarbone is a
+crank. Its outer end is bolted to the shoulder blade. Rotate and retract the crank, and the outer end — and
+the blade with it — travels **up and back**. Dissection of the fascicular anatomy concluded exactly this: the
+transverse orientation of the upper and middle fibres "precludes any action as elevators of the scapula as
+commonly depicted"; their action is to draw the scapula and clavicle backwards, "or to raise the scapula by
+rotating the clavicle about the [sternoclavicular](#sternoclavicularjoint) joint" (Johnson et al., 1994).
+
+Three consequences, all of which turn up in §D:
+
+1. **A shrug is a collarbone exercise as much as a shoulder-blade exercise.** The load is transmitted through
+   the acromioclavicular and sternoclavicular joints, which is why very heavy shrugs are felt at the top of
+   the shoulder and the base of the throat rather than in the muscle belly.
+2. **Pure vertical shrugging is a poor match for the muscle's line of pull.** Shrugging with the arm slightly
+   away from the body — abducted about 30° — puts the blade where the muscle can act on it in rotation as
+   well as elevation. Measured directly, an upward-rotation shrug at 30° of abduction produced **higher
+   activity in all four scapular muscles than a standard shrug at 0°**, significantly so for upper and lower
+   trapezius in both healthy participants and people with shoulder instability (Pizzari et al., 2014).
+   A separate comparison of three shrug variants at 30° found the **stabilization shrug** gave the greatest
+   upward-rotation angle and the **frontal shrug** the greatest upper-trapezius activity (Lee JH et al.,
+   2016). **Moderate evidence** — two small electromyographic
+   studies. The first tested 23 healthy participants alongside 14 with shoulder instability and found the
+   effect in both; the second tested only people with a scapular-position fault.
+3. **The trapezius unloads your neck.** By balancing moments across the girdle it "relieves the cervical
+   spine of compression loads" (Johnson et al., 1994). A mechanical inference from that, not a tested claim:
+   a stronger trapezius should make loaded carries and heavy overhead work feel better in the neck.
+
+### B.3 Scapulohumeral rhythm — and the two conventions that are constantly confused
+
+Raise your arm overhead and the shoulder blade does roughly a third of the job. The number everyone quotes is
+2:1. **Before using any number here you have to know which two things are being divided**, because two
+conventions are in circulation and they differ by exactly one:
+
+```
+  glenohumeral : scapular   -> the classic 2:1   arm bone measured against the blade
+  arm-elevation : scapular  -> therefore 3:1     arm measured against the trunk, so the
+                                                 scapula's own degree is counted twice
+```
+
+Every degree of scapular upward rotation carries the arm with it, so the second ratio is always the first
+plus one. **2:1 and 3:1 are the same claim**, and a source that says one has not refuted a source that says
+the other.
+
+> **From a systematic review with multilevel meta-regression of 20 studies using three-dimensional
+> non-surface tracking (Fernández-Matías et al., 2025):**
+>
+> - Scapula at rest: **1.0°–11.6° of upward rotation**, 4.8°–11.2° of anterior tilt, 26.8°–39.1° of
+>   internal rotation. (The spread between studies is larger than most "abnormalities".)
+> - At 150° of arm elevation: **47.9°–61.0° of upward rotation** and 10.8°–12.0° of posterior tilt.
+> - **[Scapulohumeral rhythm](#scapulohumeralrhythm) = 2.86:1 to 3.13:1** — stated by that review for **humerothoracic elevation** to
+>   scapular upward rotation, so it is the second convention above, and it corresponds to about
+>   **1.9:1 to 2.1:1** in the classic glenohumeral terms. It **agrees with the 2:1 rule**, it does not
+>   overturn it.
+> - **There is no setting phase.** The scapula upwardly rotates "from the very beginning" of elevation.
+
+Bone-pin measurement in eight healthy volunteers agrees on the motion and gives the glenohumeral-to-scapular
+ratio as **1.7:1** — the classic convention, and again close to 2:1. Over scapular-plane elevation the
+scapula moved through **50° (SD 4.8) of upward rotation, 30° (13.0) of posterior tilt and 24° (12.8) of
+external rotation** (McClure et al., 2001). Note the standard deviations on the last two: **normal varies
+enormously.**
+
+**Those are ranges travelled, not angles reached**, which is why they sit above the pooled *positions* in the
+box — 30° of posterior tilt travelled from a starting position of anterior tilt ends near the 11°-ish
+posteriorly tilted position the meta-analysis reports. The two sets of numbers do not disagree; they measure
+different things.
+
+**So what is actually new?** Not the ratio. What the modern data overturn is the **constancy** of the ratio
+and the setting phase: the share is not fixed across the range, it differs between people, and the blade
+starts rotating immediately (Fernández-Matías et al., 2025).
+
+Two things follow.
+
+**First, about a third of your overhead reach is scapular, and it is not evenly distributed.** If the blade
+cannot upwardly rotate, the arm cannot reach true end range — which silently converts a full-range overhead
+exercise into a partial one (Part V §C.6).
+
+**Second — and this is new — scapular upward rotation is not a fixed function of arm angle.** Measured with
+biplanar videoradiography in ten adults on a cable machine, a **weighted pull-down produced more
+scapulothoracic upward rotation and less glenohumeral abduction than a weighted press-up at the same arm
+angle** (Lee et al., 2025). Same arm position, different scapular position, because the load pulled the
+other way. **Promising but under-replicated** — one study, ten participants.
+
+> **The practical reading:** you cannot infer what the shoulder blade is doing from where the arm is. You
+> have to know which way the load pulls. That is exactly what §B.4 formalizes.
+
+### B.4 The scapular load class — the decision rule this Part runs on
+
+Every other Part in this document classifies exercises by where in the range the muscle is loaded. That is not
+available here: the shoulder blade has no joint axis, so there is no [moment arm](#momentarm) to compute and no resistance
+profile to plot. What *is* available, and is decidable by looking at the setup, is **which way the load tries
+to move the shoulder blade, and whether something is stopping it.**
+
+> **[SCAPULAR LOAD CLASS](#scapularloadclass) — the rule.**
+>
+> **Step 1.** Identify the external force on the arm at the hand (or wherever the load meets the limb) and its
+> direction.
+>
+> **Step 2.** **If the trunk is supported on the side the load pushes toward, the muscles no longer have to
+> hold the trunk up in that direction.** A bench behind your back, a chest pad in front of you, the floor
+> under your belly. **This reduces the demand; it does not abolish it**, because the arm is still pushing or
+> pulling a load and the scapula still has to be positioned against it (§B.5).
+>
+> **Step 3.** Otherwise, resolve the force into components and name each one:
+>
+> | The load pulls the arm… | Class | Muscles that resist it |
+> |---|---|---|
+> | **Down along the trunk** | **Elevation-loaded** | Upper trapezius, levator scapulae |
+> | **Up along the trunk** — you hang from your hands, or press down on something fixed | **Depression-loaded** | Lower trapezius, pectoralis minor, latissimus dorsi |
+> | **Forward, away from the trunk** | **Retraction-loaded** | Middle trapezius, rhomboids |
+> | **Backward, into the trunk** | **Protraction-loaded** | Serratus anterior |
+> | **Down, away from overhead** | **Upward-rotation-loaded** | Upper + lower trapezius, serratus anterior |
+> | **Up, toward overhead** — the load itself turns the socket upward | **Downward-rotation-loaded** | Rhomboids, levator scapulae, pectoralis minor |
+>
+> The six come in three opposed pairs, and the pairs travel together: hanging loads depression **and** downward
+> rotation, a shrug with the arm out loads elevation **and** upward rotation.
+>
+> **Step 4.** An exercise may fall in more than one class. **List them in order of the size of the
+> component**; when two are within about a fifth of each other, name both.
+>
+> **Step 5 (tie-break).** If the setup and the felt sensation disagree, the setup decides. If a measurement
+> exists for that exercise, the measurement decides.
+
+**What the class does and does not claim.** It names the direction in which a muscle is loaded. It does not
+say how much, because no moment arm exists to compute it with, and it does not say the muscle will grow —
+that has been tested for one programme, once (§A.5). It is a classification derived in this document from
+directions of pull, not one taken from or validated by any study. **This document's judgement.**
+
+Worked through the common lifts:
+
+| Exercise | Class(es) | Notes |
+|---|---|---|
+| Barbell shrug | Elevation | Almost pure; very high load tolerance |
+| Farmer's / [suitcase carry](#suitcasecarry) | Elevation | Isometric; the load is your whole external weight |
+| [Deadlift](#deadlift) (hold at lockout) | Elevation | The girdle is hanging on the trapezius for the whole set |
+| **Dead hang, pull-up, dip** | **Depression → downward rotation** | You hang **from** your hands, so the load drives the girdle **up** — the depressors resist it |
+| Seated row, barbell row | Retraction → elevation | Retraction only if the blades actually move |
+| Reverse fly, [face pull](#facepull) | Retraction | Low absolute load |
+| Chest-supported row | Retraction (**elevation unloaded**) | The pad takes the downward component |
+| **[Bench press](#benchpress)** | Protraction (reduced) | The bench removes the job of holding the ribcage up, **not** the serratus's job of positioning the blade (§B.5) |
+| **[Push-up](#pushup)** | **Protraction** | Nothing behind the blade — the serratus holds the ribcage up |
+| [Push-up plus](#pushupplus), press-up | Protraction | The "plus" is the protraction range, added deliberately |
+| [Overhead press](#overheadpress) | Upward rotation → elevation | The blade must rotate for the bar to finish overhead |
+| [Lat pulldown](#latpulldown) | **Depression → downward rotation** | The stack pulls your hands **up**; the depressors and downward rotators work in both directions |
+| Lateral raise | Upward rotation | Small load, large range |
+| [Prone Y raise](#proneyraise) | Upward rotation | The only common exercise where it is the whole point |
+| Plank | Protraction | Isometric, body-weight fraction |
+| Curl, leg press, calf raise | Unloaded | No scapular component worth naming |
+
+### B.5 What a bench takes, and what it does not
+
+The obvious argument here is wrong, and it is worth walking through the error because a lot of coaching rests
+on it.
+
+**The obvious argument.** In a **push-up**, your hands and feet are on the floor and your ribcage hangs
+between your shoulder blades. Gravity pulls the chest down; the thing holding the ribcage up against the
+blades is the serratus anterior. Switch it off and the blades wing — which is exactly the clinical test for
+serratus weakness. In a **bench press**, the bench is under your back, so the bench holds the ribcage up
+instead. Conclusion: a bench press does not train the serratus anterior.
+
+**The measurement says otherwise.** Twelve healthy men performed isometric wall push-ups, bench presses and
+push-ups. The upper-trapezius-to-serratus ratio was **0.69 for the wall push-up, 0.39 for the push-up and
+0.14 for the bench press** — the bench press was the *most* serratus-dominant of the three, and the authors
+recommended it over both push-up variants for training that muscle (Martins et al., 2008).
+
+**Read that carefully, because it is a ratio.** A ratio of 0.14 says the serratus dominated the upper
+trapezius, and part of why is that the upper trapezius is very quiet when your back is on a bench. It does
+**not** establish that the serratus works harder in absolute terms in a bench press than in a push-up, and
+the contractions were isometric rather than full repetitions. But it kills the strong claim outright: **the
+serratus anterior is substantially active in a bench press.** Of course it is — the pectoralis major drags
+the humerus across the chest, and something has to stop the shoulder blade being pulled backwards while it
+does.
+
+So the corrected statement is narrower, and still useful:
+
+> **What a bench removes is the job of holding the ribcage up between the blades — the body-weight component.
+> What it leaves is the job of positioning the blade against whatever the arm is pushing.** The push-up's
+> distinctive contribution is not that it activates the serratus where a bench press does not; it is that the
+> push-up, and especially the push-up plus, takes the blade through **end-range protraction under load**,
+> which no barbell press does at all.
+
+Range, not activation, is the honest argument for the push-up plus.
+
+The wider generalization is supported by a different study. Across six pairs of closed- and open-chain
+exercises matched for performance characteristics, **the closed-chain versions produced greater shoulder and
+trunk muscle activation** in 22 healthy adults (Pozzi et al., 2022). **Moderate evidence** that putting your
+hands on a fixed surface raises girdle demand — which is a claim about the chain, not about the bench.
+
+On the exercise rankings themselves: across seven exercises at two intensities, **only the press-up and the
+push-up plus activated both the lower trapezius and the serratus anterior above the upper trapezius**; across
+the three that favoured the serratus — push-up plus, shoulder press and press-up — it exceeded the upper
+trapezius by 18–45% of maximal activity (Andersen et al., 2012). A systematic review of 19 studies and 356
+participants is built on the push-up plus (Kang et al., 2019).
+
+### B.6 The stimulus map for the scapular muscles
+
+What each portion of the girdle is best loaded by, with the measurement that supports it.
+
+```
+MUSCLE              LOADED BEST BY                        MEASURED IN
+------------------  ------------------------------------  ----------------------------
+Upper trapezius     Shrug, especially at ~30° abduction   Ekstrom 2003; Pizzari 2014
+                    Heavy pulls from the floor            Nagao & Ishii 2021 (power clean)
+                    Carries and heavy holds               not measured; force argument, B.9
+Middle trapezius    Horizontal extension with external    Ekstrom 2003
+                    rotation; prone overhead raise
+                    Rows with the blades free to move     Padovan 2025; Andersen CH 2012
+Lower trapezius     Prone overhead arm raise (the "Y")    Ekstrom 2003; Borms 2022
+                    Press-up, push-up plus, one-arm row   Andersen CH 2012
+Rhomboid major      Lawnmower and robbery patterns        Berckmans 2020 (fine-wire)
+                    Side-lying and prone exercises        Berckmans 2021 (fine-wire)
+Levator scapulae    Robbery pattern; any loaded shrug     Berckmans 2020 (fine-wire)
+Serratus anterior   Push-up plus and press-up             Andersen CH 2012; Kang 2019
+                    Scapular-plane abduction above 120°   Ekstrom 2003
+                    NOTE: surface EMG underestimates this  Hackett 2014
+                    muscle against needles
+```
+
+Two of those lines carry numbers worth quoting. In a fine-wire study — needles in the muscles, not electrodes
+on the skin — the **rhomboid major reached 59% and 66% of maximal voluntary contraction** in the lawnmower and
+robbery patterns, and the **levator scapulae 58%** in the robbery, against 27–36% in the inferior glide and
+low row (Berckmans et al., 2020). And across six variations of the prone overhead raise, the **middle
+trapezius ran 63–66% and the lower trapezius 42–48%** of maximum, with **no significant difference between
+any of the six** (Borms et al., 2022).
+
+That last result is the pattern of this whole literature: the exercise *category* matters and the variation
+within it usually does not.
+
+### B.7 Why there are no resistance profiles here
+
+Everywhere else in this document, an exercise is characterized by where in its range the resistance peaks. For
+the scapular muscles that cannot be done, for three reasons, and it is worth being explicit about them
+because it is the reason §F is so much shorter than its counterparts.
+
+1. **The axis is a modelling choice, not a bone.** The blade glides on a curved surface with no fixed centre.
+   It *can* be given one: an open musculoskeletal model represents the scapulothoracic contact as a joint
+   with four degrees of freedom and verifies continuous muscle moment arms across the whole range of motion
+   (Seth et al., 2019). But that axis is a construct, and its moment arms are only as good as the constraint
+   chosen for it — which is a different kind of number from the tendon-over-a-pulley moment arms the rest of
+   this document uses.
+2. **The individual scaling is poor.** Using cadaver cross-sectional areas in a model required an impossible
+   106 ± 40 N·cm⁻² of muscle stress to reproduce real hand forces, falling to a plausible 69 ± 9 only when
+   each subject's own imaging was used (Bolsterlee et al., 2015).
+3. **The load path is indirect.** Force reaches the blade through the humerus and the collarbone, so the
+   scapular moment depends on arm position as well as on the external load's direction.
+
+**What the modelling does deliver is worth having.** Simulating shrugging and arm elevation with that
+scapulothoracic joint in place, the largest muscles of the shoulder — trapezius, deltoid, pectoralis major
+and serratus anterior — do most of the mechanical work, trapezius and serratus anterior come out as the
+upward-rotation synergists the anatomy predicts, and **the thoracoscapular muscles do more work than the
+glenohumeral muscles during arm elevation** (Seth et al., 2019). **Promising but under-replicated** — one
+model, validated against electromyography, not a measurement in a lifter.
+
+What can be said about length is limited and worth stating plainly: **the upper trapezius is at its longest
+with the girdle pulled down and the arm hanging heavy** — the bottom of a shrug, a dead hang, the start of a
+deadlift — **and at its shortest at the top of a shrug**. So the loaded stretch that the rest of this document
+recommends (Part XI §B.4) is available in a shrug and in a carry, and is available for free every time you
+hold a heavy bar. Whether it matters here has never been tested. **This document's judgement.**
+
+### B.8 Range of motion — the one thing that has been measured, and it was small
+
+The prone barbell row was performed at 10RM through a full range, the upper half only and the lower half only,
+with time under tension held constant. **Middle-trapezius peak excitation was lower in the upper-half range**
+than in the lower half (d = 0.42) and in the full range (d = 0.54); the latissimus dorsi went the other way.
+The authors' own conclusion was that the effects were "of a medium magnitude only, as well as inconsistent"
+(Fischer et al., 2025b).
+
+A second range question — whether deliberately fixing the shoulder blades changes what a row trains — has also
+been tested, with high-density surface electromyography in fourteen resistance-trained men performing a seated
+row at 8RM. **In the concentric phase, no trapezius portion differed between a fixed and a free scapula**;
+only the [posterior deltoid](#posteriordeltoid) was higher with the blades fixed. In the eccentric phase the middle trapezius was
+higher with them fixed (effect size 0.67), as was the latissimus dorsi (Padovan et al., 2025).
+
+> **Read together:** the difference between a row done "properly" with a deliberate squeeze and one done with
+> the blades simply going along for the ride is **small, phase-specific and not in the direction most coaching
+> predicts**. **Evidence remains limited and inconsistent** — two studies, both acute, both electromyographic,
+> neither with a size outcome.
+
+### B.9 A worked example, so the numbers are not abstract
+
+An 80 kg lifter holds two 40 kg dumbbells at his sides — a farmer's carry with 80 kg total.
+
+Each shoulder girdle now hangs on the girdle muscles and their ligaments. The arm itself weighs about
+**5% of body mass** *[consensus — no single source]*, so roughly 4 kg per
+side, and the dumbbell adds 40 kg. The force pulling each girdle down is therefore about
+**(4 + 40) × 9.81 ≈ 432 N**, or 44 kgf. There is no bony stop under the shoulder blade: the collarbone
+strut runs upward and inward to the throat, so it resists the girdle being pushed down only through its
+ligaments, not by bone on bone.
+
+Most of that 432 N is held, for the length of the carry, by the upper trapezius and the levator scapulae, at
+their **longest length**, isometrically, on both sides — with a share taken by the ligaments that suspend the
+girdle from the collarbone (Bearn, 1967), which no study has quantified during a carry.
+
+Compare it with the same lifter's shrug. If he shrugs 140 kg for 8 reps, the per-side load is
+**(140 ÷ 2 + 4) × 9.81 ≈ 726 N** — about 1.7 times the carry — but only for the seconds the bar is moving.
+
+> **Two honest caveats.** First, this is a force, not a [torque](#torque): with no defined axis there is no moment to
+> compute, so the two numbers are comparable to each other and to nothing else in this document. Second,
+> **neither figure has been shown to produce growth** — the only programme that has, used dumbbells at 8–12RM
+> (§A.5). The point of the arithmetic is narrower: **a carry is not a light exercise for these muscles**, and
+> a lifter who carries and deadlifts is already giving them substantial hard work.
+
+### B.10 Setup variables
+
+| Variable | Effect | Evidence |
+|---|---|---|
+| **Arm abducted ~30° during a shrug** | Raises all four scapular muscles vs a 0° shrug | Pizzari et al., 2014 |
+| **Trunk support (pad, bench, floor)** | Removes the load in that direction entirely | Rule §B.4, step 2 |
+| **External rotation added to a prone raise** | **Decreases** upper trapezius | Borms et al., 2022 |
+| **Trunk extension added to a prone raise** | **Increases** upper trapezius | Borms et al., 2022 |
+| **Swiss ball vs table in a prone raise** | No change in any scapular muscle | Borms et al., 2022 |
+| **Squat stance during a retraction exercise** | Raises lower and middle trapezius vs standing or lunge | Cobanoglu et al., 2026 |
+| **Unstable surface** | **Lowers** upper trapezius in the squat position | Cobanoglu et al., 2026 |
+| **Upright-row grip width** | Changes upper and middle trapezius in the **eccentric** phase only | McAllister et al., 2013 |
+| **Behind-the-neck vs front press** | Behind-the-neck raises upper trapezius on the way down (ES 0.72) | Padovan et al., 2026 |
+| **Deliberate biofeedback to relax the traps** | Lifters can voluntarily lower upper-trapezius excitation in a row | Dos Anjos et al., 2024 |
+
+The last row is worth pausing on. It means **"stop shrugging during your rows" is an instruction people can
+actually follow** — which is useful when the goal is to shift work to the middle trapezius, and a problem when
+someone applies it to a shrug.
+
+### B.11 What EMG can and cannot settle here
+
+More of this Part rests on electromyography than any other, so the limits need stating precisely.
+
+**What is unusually good here.** Surface recording of the **lower trapezius** has been validated directly
+against needles: across ramped isometric contractions from 0 to 100% of maximum and dynamic tasks at 70%,
+there was **no difference in activity level (p = 0.98) and matching activation patterns (r ≥ 0.74)** between
+surface and intramuscular electrodes (Ginn et al., 2020). Crosstalk from the rhomboid underneath turns out not
+to matter. That is a stronger validation than exists for most muscles in this document.
+
+**What still cannot be recorded from the skin.** The rhomboids, the levator scapulae and pectoralis minor lie
+under other muscles; every number quoted for them in this Part comes from **fine-wire electrodes** — two
+studies from the same group, one on rehabilitation exercises (Berckmans et al., 2020) and one on scapular
+dysfunction exercises (Berckmans et al., 2021). Any source giving "rhomboid EMG" from surface electrodes is
+recording the middle trapezius.
+
+**And one result cuts against this Part's own catalogue.** Surface recording of the **serratus anterior** has
+been checked against needles in the same muscle, and it **significantly underestimated** activity during
+dynamic flexion and abduction, isometric flexion and abduction, and the bench-press-plus test
+(Hackett et al., 2014). Every serratus number in §D.3 is a surface number, so the exercise **ranking** is
+probably sound and the **magnitudes** are probably low. The same group found the mirror-image problem in the
+latissimus dorsi, where surface electrodes *overestimate* when the muscle should be quiet
+(Ginn & Halaki, 2015).
+
+**A third caveat applies to every percentage in this Part.** All of them are expressed relative to a maximal
+voluntary contraction, and the reference test is not standardized: no single maximal test produces the
+highest value for every subject, and the tests conventionally used for the serratus anterior and the
+trapezius were examined precisely because they do not (Ekstrom et al., 2005). **So numbers from different
+laboratories in §D are not strictly commensurable**, and small differences between exercises measured in
+different studies mean nothing.
+
+**What electromyography cannot do, here as everywhere.** It measures excitation during one session. It does
+not measure [hypertrophy](#hypertrophy), and the [dissociation](#emghypertrophydissociation) between the two is documented across this document
+(Part II §B.11).
+Every exercise ranking in §D is therefore a ranking of *activation*, and where no growth study exists — which
+is everywhere in this Part — that is all it will ever be.
+
+### B.12 The mechanical checklist
+
+1. The blade floats: **arm load is scapular load**, always.
+2. The upper trapezius acts through the **collarbone**; shrug with the arms slightly out, not straight down.
+3. The blade does about **one degree for every two of arm bone**, or one in three of total arm elevation —
+   the same fact in two conventions — and it starts immediately.
+4. Classify every exercise by the **direction the load pulls the blade**, and check whether a pad or bench has
+   already taken that direction.
+5. **Back supported = one job removed, not all of them.** A bench takes the body-weight component; the blade
+   still has to be positioned against the bar (§B.5).
+6. Upward rotation is the **least trained** direction and needs a deliberate exercise.
+7. Rows train retraction only if the blades **move**; fixing them changes surprisingly little.
+8. Carries and heavy holds are **real work** for the upper trapezius at long muscle length.
+9. There are **no resistance profiles and almost no dose-response data** for these muscles; moment arms exist
+   only inside a model whose axis is a modelling choice.
+10. Fine-wire evidence exists for the deep muscles; surface evidence for the lower trapezius is validated;
+    neither predicts growth.
+
+## partxiiictherepspecified
+
+**PART C — The rep, specified**
+
+### C.1 The four scapular reps
+
+There is no single rep here, because there is no single action. There is one rep per load class from §B.4.
+
+---
+
+**1. The elevation rep — the shrug**
+
+> **Setup.** Bar, dumbbells or handles hanging at arm's length. Stand tall, arms hanging, **hands slightly
+> wider than the hips so the arms sit about 30° out from the body** — not glued to the thighs
+> (Pizzari et al., 2014). Chin level, neck long.
+>
+> **Bottom.** Let the girdle hang fully. This is the muscle's longest length, and it is the position the load
+> is largest in. Do not bounce out of it.
+>
+> **Up.** Drive the whole shoulder girdle **up and slightly back**, toward the ear, not forward toward the
+> chin. The collarbone is rotating (§B.2); the feeling is of the point of the shoulder travelling in a short
+> arc, not of a vertical slide.
+>
+> **Top.** Pause where the movement stops on its own. A deliberate 1–2 second hold is the standard
+> prescription and is untested for this muscle. **This document's judgement.**
+>
+> **Down.** Controlled, all the way back to the hang. The whole range is a few centimetres; cutting it in half
+> leaves nothing.
+>
+> **What not to do.** Rolling the shoulders. It adds nothing in any measured direction, and it takes the
+> acromioclavicular joint through a loaded arc for no reason.
+
+---
+
+**2. The retraction rep — the row, done as a row**
+
+> **Setup.** Any horizontal pull. Torso set, elbows travelling back past the ribs.
+>
+> **The rep.** Pull with the arm, and let the blade **finish** the movement: the last few centimetres are the
+> blades sliding toward the spine. Let them **return fully** at the bottom — the blade travelling forward
+> around the ribs is the stretch of the middle trapezius and rhomboids.
+>
+> **The honest caveat.** Deliberately fixing the blades versus letting them move freely changed **nothing** in
+> any trapezius portion during the concentric phase of a seated row at 8RM, and raised the middle trapezius
+> only on the eccentric (Padovan et al., 2025). The instruction above is not wrong, but the difference it
+> makes is small.
+>
+> **The real variable is the pad.** A chest-supported row removes the downward component and leaves a cleaner
+> retraction; a free row adds a large elevation component (§B.4).
+
+---
+
+**3. The protraction rep — the push-up, plus the plus**
+
+> **Setup.** Push-up position, hands under the shoulders, body in one line.
+>
+> **The rep.** Full push-up. Then, from the top, **keep the elbows locked and push the floor away** until the
+> upper back rounds and the shoulder blades travel forward around the ribs. That extra few centimetres is the
+> "plus", and it is the entire serratus anterior range.
+>
+> **A related finding, with its limits stated.** Twenty-six men performed four **quadruped** (hands-and-knees)
+> protraction–retraction variations, not push-ups. Lifting one leg raised serratus activation by roughly
+> 15–30% depending on phase, and the variations that used the **full protraction range** had a much lower
+> upper-trapezius-to-serratus ratio than the short-range ones (Jung et al., 2025). Read it as support for
+> **using the full range**, which is the point of the "plus"; it says nothing about how hard a one-legged
+> push-up is, because no push-up was tested.
+>
+> **What it is not.** The only way to load the serratus. A bench press activates it substantially too — what
+> the bench press lacks is this end-range protraction, not the muscle (§B.5).
+
+---
+
+**4. The upward-rotation rep — the prone Y raise**
+
+> **Setup.** Face down on a bench inclined about 30–45°, or prone on a flat bench with the arm hanging.
+>
+> **The rep.** Raise the arm **overhead in line with the lower trapezius fibres** — a diagonal well above
+> shoulder height, closer to straight overhead than to straight out to the side, thumb up — until the arm is
+> in line with the torso. This position produced the
+> **greatest lower-trapezius activity of ten exercises tested**, and was also among the best for the middle
+> trapezius (Ekstrom et al., 2003).
+>
+> **Load.** Very light. Across six variations of this exercise the lower trapezius ran 42–48% and the middle
+> trapezius 63–66% of maximal contraction, with **no significant difference between the variations**
+> (Borms et al., 2022) — so pick the one you can set up and stop optimizing it.
+>
+> **Two measured modifiers.** Adding external-rotation resistance **lowers** upper-trapezius involvement;
+> adding trunk extension **raises** it (Borms et al., 2022).
+
+### C.2 The technical errors, in order of how much they cost
+
+| Error | What it costs | Fix |
+|---|---|---|
+| **Shrugging in half the range** | The range is only a few centimetres; half of it is nothing | Hang fully at the bottom, stop only where motion stops |
+| **Rolling the shoulders** | Nothing gained, acromioclavicular joint loaded through an arc | Straight up and slightly back |
+| **Using a bench or pad and expecting scapular work** | The support takes the load (§B.4 step 2) | Pick the unsupported version when the scapula is the target |
+| **Rowing with the blades locked** | Removes the retraction range; costs the eccentric middle trapezius | Let them travel forward at the bottom |
+| **A push-up without the "plus"** | Leaves out the serratus anterior's entire range | Add the protraction at the top |
+| **Loading the prone Y raise** | Turns it into a bent-over lateral raise for the deltoid | Keep it light; this is a position exercise |
+| **Chin poking forward during heavy shrugs** | Loads the cervical spine the trapezius is supposed to be unloading | Chin level, neck long |
+| **Chasing the "upper-to-lower trapezius ratio"** | Chases a number whose clinical meaning is unestablished (§G.2) | Train both; ignore the ratio |
+
+### C.3 Prerequisites — can you reach the positions?
+
+- **Overhead reach.** If the arm will not reach vertical with the ribs down, the blade is not upwardly
+  rotating — and any overhead work is a partial (§B.3). Check it before adding load.
+- **Prone arm elevation.** If you cannot raise the arm to the line of the torso lying face down, the Y raise
+  has no range to work in.
+- **The wall test for the serratus anterior.** Push hard into a wall with straight arms. If the inner edge of
+  a shoulder blade lifts off the ribs, that is winging, and it belongs to §E.4, not to a training log.
+- **No prerequisite for shrugs or carries.** These are available to everyone and are the highest-load option.
+
+### C.4 Cues — which work, which harm
+
+| Cue | Verdict |
+|---|---|
+| "Shrug **up and back**, not forward" | **Use.** Matches the collarbone mechanism (§B.2) |
+| "Arms slightly out, not glued to your sides" | **Use.** Measured: higher activity in all four muscles (Pizzari et al., 2014) |
+| "Push the floor away at the top" | **Use.** This is the serratus range, and it is otherwise never trained |
+| "Relax your traps during rows" | **Use with a purpose, and know what it does.** People can genuinely learn this: after an hour of biofeedback, **every** subject in one study could activate the lower trapezius independently of the upper, and 11 of 15 learned selective control of at least one subdivision (Holtermann et al., 2009). What it does **not** do is move work to the middle trapezius — in a seated row with biofeedback, upper trapezius and serratus anterior excitation both fell (Dos Anjos et al., 2024). It lowers girdle involvement; it does not redistribute it. Wrong advice during a shrug |
+| "Pull your shoulder blades down and back" | **Conditional.** Fine as a bench-press setup cue; it is not a latissimus action and it is not what a pulldown does (Part II §C.2) |
+| "Set the scapula before you move the arm" | **Avoid.** There is no setting phase — the scapula rotates from the very beginning of elevation (Fernández-Matías et al., 2025) |
+| "Squeeze your shoulder blades together hard" | **Weak.** Measured against a free scapula in a row it changed no trapezius portion concentrically (Padovan et al., 2025) |
+| "Keep your shoulder blade flat / stop it winging" | **Avoid as a training cue.** Visible winging in a healthy person is a nerve question, not a cueing question (§E.4) |
+
+### C.5 The limiting links
+
+- **Grip, on everything hanging.** Shrugs, carries and heavy holds end when the hands do. Straps convert them
+  from grip exercises into trapezius exercises. This is the one place in the document where straps change the
+  target muscle rather than the comfort.
+- **The neck, on heavy shrugs.** The trapezius unloads the cervical spine when it is balancing moments
+  (Johnson et al., 1994); a poked chin under a heavy bar does the reverse.
+- **The elbow flexors, on rows.** Covered in Part XI §C.5.
+- **Nothing, on Y raises and push-up pluses.** These are limited by the muscle itself, which is why they are
+  useless as strength exercises and useful as position exercises.
+
+### C.6 The neck, and what a hard scapular set feels like
+
+A hard shrug set does not feel like a hard biceps set. The girdle muscles are type-I-dominant (§A.6) and the
+range is short, so the sensation is a deep, spreading ache across the top of the shoulders and up into the
+neck rather than a sharp local burn. That is normal.
+
+What is not normal, and is worth naming because people train through it: **pain that radiates into the arm,
+numbness, or a sudden inability to raise the arm overhead**. Those are nerve presentations (§A.7) and are not
+a training-intensity signal.
+
+### C.7 How to know it worked
+
+The usual markers do not transfer well here, so the list is short and honest.
+
+1. **Load on shrugs, carries and rows went up over months.** This is the only progression signal available.
+2. **Overhead reach did not get worse.** If it did, you have trained the downward rotators (rhomboids, levator
+   scapulae) far harder than the upward rotators, which is the default outcome of most programmes (§D.4).
+3. **The shoulder-girdle outline changed.** The upper trapezius is visible; the middle and lower are not, and
+   the rhomboids and serratus anterior are essentially never visible at normal body composition. Do not judge
+   the middle trapezius by a mirror.
+4. **What you cannot know from a mirror or a tape.** Whether any of it grew the muscle. In the one trial that
+   measured both, a **20% rise in trapezius fibre area was invisible to ultrasound imaging of the whole
+   muscle** in the same participants (Nielsen et al., 2010). If a research-grade scan could not see it, your
+   assessment will not either.
+
+## partxiiidexercisecatalogue
+
+**PART D — Exercise catalogue**
+
+Organized by scapular load class (§B.4), because that is the variable that decides what an exercise trains.
+Every entry gives what the exercise is measured to do, not what it is believed to do, and says when there is
+no measurement.
+
+**Notation.** %MVIC is the activity as a percentage of a [maximal voluntary isometric contraction](#mvic). Where a
+number comes from fine-wire electrodes it is marked **[fw]**; everything else is surface electromyography,
+and the validity caveats of §B.11 apply.
+
+### D.1 Elevation-loaded — the upper trapezius category
+
+| Exercise | What is measured | Verdict |
+|---|---|---|
+| **Barbell / dumbbell shrug** | The **unilateral shrug produced the greatest upper-trapezius activity of ten exercises tested** (Ekstrom et al., 2003) | **The reference exercise.** Highest load tolerance of anything here |
+| **Shrug at ~30° of abduction** | Beat a 0° shrug in **all four** scapular muscles; significant for upper and lower trapezius (Pizzari et al., 2014) | **Preferred variant.** Costs nothing to adopt |
+| **Frontal / stabilization shrug** | Frontal gave the most upper trapezius; stabilization the most upward rotation (Lee et al., 2016) | Optional refinements, tested only in a symptomatic group |
+| **Farmer's / suitcase carry** | Not directly measured for the trapezius; force argument in §B.9 | **Underrated.** Large isometric load at long muscle length |
+| **Deadlift, and holds at lockout** | Not measured directly. The nearest evidence is a power clean, where upper-trapezius activity rose with load in the first pull and transition (η² = 0.10–0.11) (Nagao & Ishii, 2021) | Real work by the force argument of §B.9, already in most programmes |
+| **Upright row** | Grip width changed upper and middle trapezius **in the eccentric phase only** (McAllister et al., 2013) | Usable wide and to sternum height; the narrow-grip-to-chin version is declined (Part V §E.4) |
+| **Power clean / high pull** | Shrug-angle and scapular-adduction range were largest in the second pull (Nagao & Ishii, 2021) | Trains the girdle as a by-product; not a hypertrophy tool |
+
+### D.2 Retraction-loaded — the middle trapezius and rhomboid category
+
+| Exercise | What is measured | Verdict |
+|---|---|---|
+| **Horizontal extension with external rotation** | One of **two** exercises giving the greatest middle-trapezius activity of ten (Ekstrom et al., 2003) | **The reference exercise** for the middle trapezius |
+| **One-arm (dumbbell) row** | Middle trapezius over upper trapezius by 21–30%; lower trapezius over upper at both intensities (Andersen et al., 2012) | **Best all-round loaded option.** In the one programme that grew the muscle (§A.5) |
+| **Seated cable row** | Fixing vs freeing the scapula changed **no** trapezius portion concentrically; middle trapezius higher on the eccentric when fixed (ES 0.67) (Padovan et al., 2025) | Fine either way; do not overthink the squeeze |
+| **Chest-supported row** | Not separately measured; the pad removes the elevation component (§B.4) | **Cleanest retraction** available; lower total girdle load |
+| **Prone barbell row, range compared** | Middle-trapezius peak excitation lower in the **upper half** of the range (d = 0.54 vs full) (Fischer et al., 2025b) | Use the full range; the effect is small |
+| **[Inverted row](#invertedrow)** | Upper-to-lower trapezius ratio 1.6–2.2; upper-to-serratus 1–4.7 (Youdas et al., 2020) | Good body-weight option — but read the ratios the right way round: **every one exceeds 1**, so it *is* upper-trapezius-dominant |
+| **Reverse fly / prone abduction** | Middle trapezius over upper by 21–30% (Andersen et al., 2012) | Light, useful, in the growth programme (§A.5) |
+| **Face pull** | Not measured for the scapular muscles specifically | Reasonable by class; no data. **This document's judgement** |
+| **"Lawnmower" and "robbery" patterns** | **[fw]** Rhomboid major **59% and 66% MVIC**; middle trapezius 36% and 39%; levator scapulae 58% in the robbery (Berckmans et al., 2020) | **The only rhomboid-specific evidence that exists.** Rehabilitation patterns, not loadable exercises |
+| **Side-lying external rotation and forward flexion** | **[fw]** Levator scapulae and rhomboid major 25–45% MVIC; pectoralis minor only 13–18% (Berckmans et al., 2021) | Recommended by the authors for lower and middle trapezius |
+
+### D.3 Protraction-loaded — the serratus anterior category
+
+| Exercise | What is measured | Verdict |
+|---|---|---|
+| **Push-up plus** | One of only **two** exercises activating both lower trapezius and serratus above the upper trapezius; the serratus-favouring group spanned 18–45% (Andersen et al., 2012). Nineteen-study review confirms the exercise family (Kang et al., 2019) | **The reference exercise** |
+| **Quadruped protraction–retraction, one leg lifted** | Serratus higher by ~30% in protraction, 20–25% isometric, 15–20% retraction than the two-leg version; the **full-range** conditions had a much lower upper-to-serratus ratio than the short-range ones (η²ₚ = 0.544) (Jung et al., 2025) | A floor drill, not a push-up. Its usable lesson is **use the full range** |
+| **Press-up (seated dip-style push-down)** | The other of the two exercises above (Andersen et al., 2012) | Excellent, and loadable with body weight only |
+| **Plank, and its long-lever variants** | Not measured here; by class it is a protraction hold | Incidental serratus work; see Part VI |
+| **Standing overhead press** | One of three exercises in which the serratus exceeded the upper trapezius, the group spanning 18–45% (Andersen et al., 2012) | Trains the serratus as part of pressing overhead |
+| **Bench press** | Upper-trapezius-to-serratus ratio 0.14, against 0.39 for a push-up and 0.69 for a wall push-up, in isometric holds (Martins et al., 2008) | **It does load the serratus** — what it lacks is end-range protraction, not the muscle (§B.5) |
+
+### D.4 Upward-rotation-loaded — the category nobody trains
+
+| Exercise | What is measured | Verdict |
+|---|---|---|
+| **Prone overhead arm raise ("Y")** | **Greatest lower-trapezius activity of ten exercises**, and joint-greatest for middle trapezius (Ekstrom et al., 2003) | **The reference exercise** |
+| **Prone elevation, six variations** | Lower trapezius 42–48%, middle trapezius 63–66% MVIC, **no difference between variations** (Borms et al., 2022) | Pick any; add external rotation to reduce upper-trapezius share |
+| **Scapular-plane abduction above 120°** | Maximal serratus activity, because it demands the most upward rotation (Ekstrom et al., 2003) | The overhead half of a lateral raise is doing more than it looks |
+| **Overhead press** | Serratus favoured over upper trapezius, and over **lower** trapezius as well (Δ 22–33%) — it is not a lower-trapezius exercise (Andersen et al., 2012) | Already in most programmes; it is the main upward-rotation load most people get |
+| **Behind-the-neck press** | Upper trapezius higher on the descending phase (ES 0.72) than front press (Padovan et al., 2026) | Not worth the shoulder position (Part V §E.4) |
+| **Bilateral retraction with external rotation in a squat stance** | Lower trapezius significantly higher in squat than standing or lunge; upper trapezius lower on an unstable surface (Cobanoglu et al., 2026) | A refinement, not a category |
+| **Lat pulldown / pull-up** | Upward rotation is loaded **on the way up**, not the way down | The eccentric of every pulldown is upward-rotation work |
+
+**The pattern to notice.** Look back at §D.1 and §D.2 — heavy, loadable, already in every programme. Then
+§D.3 and §D.4 — body weight, bands, light dumbbells, and mostly absent. **A programme built from barbells
+trains the downward rotators and the elevators hard and the upward rotators barely at all.** That asymmetry,
+not any individual exercise choice, is the useful output of this catalogue.
+
+### D.5 Depression- and downward-rotation-loaded — the category you already do
+
+Everything you hang from belongs here, and almost nobody counts it.
+
+| Exercise | What is measured | Verdict |
+|---|---|---|
+| **Dead hang** | Not measured for the scapular muscles | The load drives the girdle **up**; the depressors resist. An "active hang" is this category made deliberate |
+| **Pull-up / chin-up** | Not separately measured here | Same direction throughout; the lower trapezius and pectoralis minor work against the girdle riding up |
+| **Lat pulldown** | Scapular upward rotation was **greater** in a weighted pull-down than in a press-up at the same arm angle (Lee et al., 2025) | The load turns the socket up, so the **downward** rotators resist it |
+| **Dip, and any push-down on a fixed bar** | Not measured | The most heavily loaded version of this direction available |
+
+**Why it matters.** Part XIII originally filed these under elevation, which is exactly backwards, and the
+error is easy to make because the muscle that is *shortening* is not the one that is *loaded*. Use the test
+in §B.4: ask which way the load would move the blade if every muscle switched off. In a hang, the blade would
+ride up toward your ear. **This document's judgement** — the direction is unambiguous, but no study has
+measured these muscles during a hang or a dip.
+
+### D.6 Selection rules
+
+1. **Take the shrug, and do it with the arms slightly out.** It is the highest-load exercise for the largest
+   visible part of the girdle, and the variant costs nothing (Pizzari et al., 2014).
+2. **Take one free row per week where the blades actually travel.** The measured difference from a locked
+   scapula is small (Padovan et al., 2025), but the range is free.
+3. **Add one deliberate upward-rotation exercise** — a prone Y raise or a press-up — because nothing else in a
+   normal programme loads that direction (§D.4).
+4. **Add the "plus" to a push-up** if you push from the floor at all. It is the only serratus range you will
+   get (§B.5).
+5. **Do not buy a second retraction exercise.** Rows, reverse flies and face pulls all sit in the same class,
+   and the evidence does not separate them.
+6. **Count your hanging work.** Pull-ups, pulldowns and dips are not scapular-free — they load the opposite
+   direction to a shrug (§D.5).
+7. **Carries count.** Treat a heavy carry as trapezius work in the plan, not as conditioning (§B.9).
+8. **Ignore the exercises sold on "activation ratios".** The ratio literature is aimed at rehabilitation, its
+   clinical target is unestablished (§G.2), and none of it has a size outcome.
+
+## partxiiiecontextmodifiers
+
+**PART E — Context modifiers — when "perfect" changes**
+
+### E.1 Goal contexts
+
+**Visible size.** Only the upper trapezius shows, and it shows at the neck and the top of the shoulder. Train
+it with shrugs and carries and accept that the middle and lower trapezius, rhomboids and serratus anterior are
+invisible at normal body composition. A thick-looking upper back is mostly the **middle** trapezius and the
+rhomboids under a layer of the latissimus dorsi — worked by rows, and not separable by any available method.
+
+**Strength and sport transfer.** The girdle is a force path, not a prime mover. The case for training it is
+that it carries everything the arm does, and that a stronger trapezius unloads the neck under load
+(Johnson et al., 1994). **A mechanical inference, not a tested transfer claim.**
+
+**Posture.** This is where the marketing lives, and it does not hold up. See §G.2.
+
+**Rehabilitation.** Out of scope, with one exception worth repeating: the programme that produced measured
+trapezius growth was a **rehabilitation** programme for chronic neck pain (Andersen et al., 2014b), and it
+was ordinary dumbbell training at 8–12RM.
+
+### E.2 Body contexts
+
+- **Long clavicles and wide shoulders.** Change the geometry of the shrug's crank (§B.2) but nothing about
+  the prescription. No data.
+- **Large arm mass.** More baseline elevation load hanging on the trapezius all day. No data.
+- **Previous neck surgery or lymph-node biopsy.** The accessory nerve runs superficially through the field
+  (§A.7). Weakness raising the arm overhead after such a procedure is an assessment question, not a
+  programming one.
+- **Sex.** The one growth study was in women (Andersen et al., 2014b). Fibre type is similar between sexes,
+  with smaller mean fibre area in women (Lindman et al., 1991). There is no basis for a sex-specific
+  prescription and none is given.
+- **Age.** No scapular-muscle training data in older adults. Part I's general guidance applies.
+
+### E.3 Equipment contexts
+
+| Equipment | What changes |
+|---|---|
+| **Straps** | Convert shrugs, carries and heavy holds from grip-limited to trapezius-limited. The one case in this document where straps change which muscle is trained (§C.5) |
+| **Trap bar / dumbbells** | Load hangs beside the body rather than in front; arms naturally sit ~30° out, which is the preferred shrug position (Pizzari et al., 2014) |
+| **Smith machine** | Fine for shrugs; the fixed path costs nothing in a movement that is nearly vertical |
+| **Cables** | The only way to load retraction with a constant horizontal line of pull; useful for face pulls and reverse flies |
+| **Chest pad / bench** | **Removes the elevation component of any row and the whole scapular load of any press** (§B.4 step 2) |
+| **Nothing at all** | Push-up plus, press-up and prone Y raise need no equipment and cover two of the four load classes |
+
+### E.4 Pain and pathology contexts
+
+This section is longer than its counterparts because the scapular region is where the most confident clinical
+claims in resistance training meet the weakest evidence.
+
+**Nerve problems come first.** Persistent inner-border shoulder-blade pain with rhomboid weakness suggests
+**dorsal scapular nerve** entrapment, most often where it pierces the middle scalene (Afshar et al., 2026).
+A shoulder blade that lifts off the ribs when you push a wall suggests the **long thoracic nerve**. A dropped,
+winged blade with weak overhead reach after neck surgery suggests the **accessory nerve** (§A.7). None of
+these is a training problem, and none responds to scapular exercises while the nerve is the limiting factor.
+
+**Scapular dyskinesis — what the tests are worth.** "Dyskinesis" means a visually abnormal pattern of scapular
+movement. Four findings, taken together, say how much weight it can carry.
+
+1. **Observers cannot agree on it.** A hundred and four physical therapists with three or more years'
+   experience rated five videos of **healthy** volunteers doing weighted arm elevations. Interrater
+   reliability was **Fleiss' κ = 0.12** — barely above chance — with agreement between 53.9% and 76.9%
+   (Vila-Dieguez et al., 2026).
+2. **What you believe predicts what you see.** In the same study, clinicians who rated dyskinesis as more
+   important were **more likely to call it present** (odds ratio 1.42, 95% CI 1.14–1.76); those seeing more
+   shoulder patients each week were **less** likely (0.77, 0.62–0.94). Years of experience predicted nothing.
+3. **It is common in people with no symptoms — and it is not unrelated to symptoms either.** Among 54
+   asymptomatic European professional basketball players — 108 shoulders — **28.7% had scapular dyskinesis
+   and none had ever been diagnosed** (Paksoy et al., 2025). Differences in subjective shoulder value
+   (95.0% vs 99.0%) and abduction (171.8° vs 176.6°) reached significance but are clinically trivial.
+   **In fairness to that paper, it also found the opposite of what it is usually quoted for:** shoulders
+   that had had pain in the previous twelve months showed a significantly higher prevalence of dyskinesis
+   (6 of 10 against 25 of 98, p = 0.022), and the authors concluded that the association with reduced
+   function and pain "suggests clinical relevance". Note the size of that subgroup — ten shoulders — before
+   weighting it heavily.
+4. **The associations with pain are very weak evidence.** Meta-analysis of eleven studies in overhead athletes
+   found higher upper trapezius (SMD 0.52), lower lower trapezius (SMD −0.52) and delayed serratus activation
+   (SMD 1.01) with rotator-cuff-related shoulder pain — but the **upper-to-lower ratio's confidence interval
+   crossed zero** and the authors graded every finding **very low certainty**, calling it "an association
+   rather than a causal relationship" (Leong et al., 2026). The neck-pain literature reaches the same place:
+   nineteen studies, 1365 participants, association present, **GRADE certainty very low**
+   (Javdaneh et al., 2025). And the review of scapular position in rotator-cuff-related shoulder pain found
+   the between-study spread in **healthy** people larger than the group differences, again at very low
+   certainty (Fernández-Matías et al., 2025).
+
+There is also a structural argument against treating the scapula first: scapular faults are simply **easier to
+see** than glenohumeral ones, so clinicians are biased toward them, and abnormal scapular motion may be a
+consequence of glenohumeral mechanics rather than a cause of anything (Elder & Powers, 2025).
+
+> **What this means for a lifter.** If someone tells you your shoulder blade moves wrongly, the test they used
+> agrees with itself about as often as a coin (κ = 0.12), nearly three in ten pain-free professional athletes
+> would fail it, and no prospective study shows it predicts injury. **Do not build a programme on it** — which
+> is not the same as saying it never means anything, only that it cannot carry the weight put on it.
+
+**What exercise does do.** Fourteen studies in 412 athletes with scapular dyskinesis found
+**moderate-certainty** evidence that movement-based exercise improves **shoulder function, disability and
+glenohumeral range** over 6–12 weeks, at about three sessions a week — with **low certainty and mixed effects
+for pain and for strength** (Solana-Tramunt et al., 2026). Exercise helps. The mechanism being sold is not
+established.
+
+**Chronic trapezius myalgia.** Ten weeks of the dumbbell programme in §A.5 restored strength to healthy-control
+levels and grew the fibres, while leg cycling did nothing (Andersen et al., 2014b). The painful muscle had
+**normal fibre type, size and capillarization**; what was abnormal was an enzyme's position inside the cell,
+which normalized with training (Jensen et al., 2015). **Loading a chronically painful trapezius is supported
+by direct evidence** — one of the better-supported statements in this Part.
+
+**Acromioclavicular pain and distal clavicular osteolysis.** Heavy shrugs load the joint at the top of the
+shoulder directly (§B.2). Point tenderness there is covered in Part VIII §E.4.
+
+### E.5 Sport contexts
+
+- **Overhead sports.** The scapular literature is mostly written about these athletes, and most of it is
+  cross-sectional (§E.4). What survives: upward-rotation work is the under-trained direction, and the
+  push-up plus and press-up are the two exercises that load the serratus and lower trapezius above the upper
+  trapezius (Andersen et al., 2012).
+- **Strength sports.** Shrugs, carries, cleans and heavy pulls already supply large elevation loads
+  (Nagao & Ishii, 2021). Upward rotation and protraction still need adding.
+- **Archery, and other fine-positioning sports.** Twelve weeks of lower-trapezius work raised dynamometer
+  strength, dropped the upper-to-lower ratio from 2.2 to 1.1 and coincided with a higher simulated score —
+  in a **non-randomized** study of seven per group with no size outcome (Liao et al., 2022).
+  **Promising but under-replicated.**
+- **Desk work.** Occupational trapezius myalgia is a genuine condition with a genuinely effective treatment
+  (§E.4). Brief, loaded, specific strength training is the intervention that has been tested.
+
+### E.6 Session and cycle contexts
+
+- **Where in the session.** Shrugs and carries go last: they are grip-limited and they fatigue the girdle that
+  everything else hangs on. Prone Y raises and push-up pluses can go anywhere — they are too light to
+  interfere.
+- **Same day as deadlifts or heavy rows.** The girdle has already done elevation work. Adding a large shrug
+  volume on the same day is duplication, not stimulus. **This document's judgement.**
+- **Deloads.** Nothing specific is known. Treat as Part I.
+
+### E.7 The context decision table
+
+| If… | Then… |
+|---|---|
+| You want visible trapezius | Shrugs at ~30° abduction, plus heavy carries. Nothing else adds visible size |
+| You want a thicker upper back | Rows with a free-moving scapula; the middle trapezius is the largest portion (§A.3) |
+| You press and pull with your back supported | You are getting **less** scapular load, not none. Untrained men trained eleven weeks on nothing but seated presses, seated rows, pull-downs and curls and their upper trapezius was measured throughout (Rønnestad et al., 2007). What a pad removes is **range**, so add push-up pluses and prone Y raises |
+| Your arm will not reach fully overhead | Fix the upward rotation before adding overhead load (§C.3) |
+| Someone diagnosed "scapular dyskinesis" | Note the κ = 0.12 and the 28.7% of pain-free professionals (§E.4); train normally |
+| Your trapezius hurts chronically at a desk | The tested answer is loaded strength training, 8–12RM, 3×/week (Andersen et al., 2014b) |
+| You have inner-border pain with weakness | Nerve question first (§A.7), not a technique question |
+| You already deadlift and carry heavy | Your elevation work is done; spend the effort on §D.3 and §D.4 |
+
+## partxiiifprogramming
+
+**PART F — Programming**
+
+> **Read this first.** Every other Part's programming section is built from [dose–response](#doseresponserelationship) data: sets against
+> growth, [frequency](#trainingfrequency) against growth, load against growth. For the scapular muscles there are exactly **two**
+> such comparisons, both with trapezius size outcomes, and both are reported below: **one set against three**
+> (Rønnestad et al., 2007) and **strength against endurance against co-ordination training**
+> (Kadi et al., 2000a). Nothing else — no frequency comparison, no load comparison, no range-of-motion
+> comparison, no failure-proximity comparison. So this section reports what has been tested, and marks every
+> extrapolation beyond it as **judgement**. Where a number appears without a citation here, it is reasoning
+> from Part I and from the other Parts, not evidence about this muscle.
+
+### F.1 Volume
+
+**What is known, and it is a null.** Twenty-one untrained men trained upper body three days a week for
+eleven weeks, one group doing **one set** per exercise and the other **three**. Upper-trapezius
+cross-sectional area on magnetic resonance imaging showed **no significant difference between them**
+(Rønnestad et al., 2007). The same trial found three sets clearly better than one for the *legs* — so the
+null is not a study that failed to detect anything.
+
+Take it for what it is: a small sample, an upper trapezius trained only as a by-product of pressing and
+rowing, and a between-group comparison rather than a dose curve. But it is the only set-volume evidence that
+exists here, and it does not support chasing volume for this muscle. **Promising but under-replicated.**
+
+The programme that produced the fibre-level growth used **three sets each of three exercises per session,
+three sessions a week** — nine [hard sets](#hardset) per session, of which perhaps six loaded the trapezius meaningfully,
+from a rotating pool of five exercises: shoulder abduction, shrug, one-arm row, reverse fly and upright row
+(Andersen et al., 2014b).
+
+**What is judgement.** Extrapolating from the rest of this document, where 10–20 hard sets per muscle per week
+is the working range (Part I):
+
+| Direction | Direct sets per week | Where they usually come from |
+|---|---|---|
+| **Elevation** (upper trapezius) | **4–8** | Shrugs, plus carries and deadlift holds that already count |
+| **Retraction** (middle trapezius, rhomboids) | **0–4 extra** | Rows already supply this; add only if rows are all chest-supported |
+| **Protraction** (serratus anterior) | **2–4** | Push-up plus, press-up. Almost always zero without deliberate work |
+| **Upward rotation** | **2–4** | Prone Y raise, press-up. Almost always zero without deliberate work |
+
+**The counting rule that matters more than the numbers.** Count what a lift already loads. A programme with
+deadlifts, heavy rows and farmer's carries has substantial elevation and retraction volume before a single
+direct set. A programme of bench presses, chest-supported rows and machine presses has **almost none in any
+direction** (§B.4 step 2). **This document's judgement.**
+
+### F.2 Frequency
+
+**What is known.** Three times a week, twenty minutes, for ten weeks (Andersen et al., 2014b). Two other
+trapezius-focused programmes also used three times a week — four weeks (Park & Lee, 2020) and twelve weeks
+(Liao et al., 2022) — and the review of scapular exercise interventions found ~3×/week the usual dose across
+fourteen studies (Solana-Tramunt et al., 2026).
+
+**What is judgement.** Two to three exposures a week, which is where the rest of the document sits and where
+every scapular programme that has been run sits. Given the low absolute load of the §D.3 and §D.4 exercises,
+they recover fast and can be used almost daily; that is an inference, not a finding.
+
+### F.3 Load and rep range
+
+**What is known.** **8–12RM**, with progressive overload, three sets (Andersen et al., 2014b). That
+programme produced a **20% increase in type II fibre area**. No study has compared rep ranges or loads for
+any scapular muscle with a size outcome — but one has compared **kinds** of training. Over ten weeks, with
+trapezius biopsies before and after, **only the strength programme raised type II fibre area**; endurance
+training and co-ordination training did not, although both raised capillarization (Kadi et al., 2000a).
+**Moderate evidence** that the trapezius needs loading rather than use.
+
+**What is judgement, by load class:**
+
+| Class | Suggested range | Reason |
+|---|---|---|
+| **Elevation** | **6–15**, plus timed carries | Highest load tolerance; the only class where heavy is easy |
+| **Retraction** | **8–15** | Follows the row it is attached to |
+| **Protraction** | **10–20** or to fatigue | Body-weight exercise; the load is fixed |
+| **Upward rotation** | **12–20** | A position exercise; heavy load destroys the position (§C.2) |
+
+**Fibre type does not change this.** The trapezius is 67% type I with type I fibres the larger ones
+(Andersen et al., 2014b) and the programme that grew it used 8–12RM. The muscle's slowness did not require
+high repetitions, exactly as in Part XII §F.3.
+
+### F.4 Proximity to failure
+
+Nothing has been tested. Two considerations pull in opposite directions and are stated as such.
+
+- **Toward training close to failure:** the one successful programme used repetition-maximum loads, meaning
+  sets ended at or very near failure (Andersen et al., 2014b).
+- **Away from it, for the light classes:** a prone Y raise taken to failure stops being a prone Y raise — the
+  arm drops out of the lower-trapezius line and the deltoid takes over (§C.2). For position exercises, stop
+  when the position goes.
+
+**This document's judgement:** 0–2 [repetitions in reserve](#rir) on shrugs, carries and rows; stop at form breakdown
+on Y raises and push-up pluses.
+
+### F.5 Progression
+
+- **Elevation:** load, straightforwardly. Straps remove the grip ceiling (§C.5).
+- **Retraction:** load, then range — let the blades travel further at the bottom.
+- **Protraction:** progress by leverage, not weight — knee push-up plus, then full, then feet elevated. That
+  ordering is **This document's judgement**: the study often cited for it tested quadruped floor drills, not
+  push-ups, and measured no difficulty at all (Jung et al., 2025).
+- **Upward rotation:** progress by range and by holding the end position, then by small increments of
+  dumbbell. Going past about 5 kg on a Y raise usually means it has become a different exercise.
+- **Carries:** distance first, then load.
+
+[Double progression](#doubleprogression) applies as elsewhere. No progression scheme has been compared for these muscles.
+
+### F.6 Session templates
+
+**A. Already doing heavy deadlifts, rows and carries — add the missing directions (about 8 minutes)**
+
+| Exercise | Sets × reps |
+|---|---|
+| Push-up plus (single-leg if available) | 2–3 × 10–15 |
+| Prone Y raise, 30–45° bench | 2–3 × 12–20 |
+| Shrug at ~30° abduction (optional, if no carries that week) | 3 × 8–12 |
+
+**B. Machine- and bench-based programme — the ranges are missing (about 15 minutes, 2×/week)**
+
+| Exercise | Sets × reps |
+|---|---|
+| Dumbbell shrug, arms ~30° out | 3 × 8–12 |
+| One-arm dumbbell row, blades free | 3 × 10–12 |
+| Push-up plus | 3 × 10–15 |
+| Prone Y raise | 2 × 12–20 |
+
+**C. The tested programme, reproduced (Andersen et al., 2014b)**
+
+| | |
+|---|---|
+| Exercises | Shoulder abduction, shoulder elevation (shrug), one-arm row, reverse fly, upright row |
+| Per session | **Three of the five**, 3 sets each |
+| Load | **8–12RM**, progressive |
+| Duration | **20 min, 3×/week, 10 weeks** |
+| Result | **+20% type II fibre area** (P < 0.05); +9% type I (tendency) |
+
+Template C is the only one in Part XIII with a measured size outcome attached. It was run in women with
+chronic trapezius pain; whether it transfers to trained people is unknown.
+
+### F.7 Timeline, measurement and expectations
+
+| Timeframe | What to expect |
+|---|---|
+| Weeks 1–2 | Load on shrugs and carries rises quickly. This is skill and grip, not growth |
+| Weeks 5 | The one imaging study with an interim scan measured upper-trapezius cross-section here as well as at eleven weeks (Rønnestad et al., 2007) |
+| Weeks 3–6 | Nothing was measured here. The one trial tested only at baseline and at ten weeks |
+| **Week 10** | **The only measured point: +20% type II fibre area in symptomatic untrained women**, with rate of force development up at an effect size of 0.96 (Andersen et al., 2014b) |
+| **Week 11** | Upper-trapezius cross-sectional area measured by MRI in untrained men, with **no difference between one set and three** (Rønnestad et al., 2007) |
+| Months 3–6 | Visible change in the upper trapezius outline, if anywhere. **No measurement exists** |
+| Ever | Rhomboid and levator scapulae size: never measured after training in anyone. Serratus anterior: only contraction-to-rest thickness ratios (Cho et al., 2018) |
+
+**How to measure it.** You cannot, usefully — and this is not a counsel of despair but a measured result. In
+the trial where biopsy showed a 20% rise in type II fibre area, **ultrasound imaging of the same muscle in
+the same women detected no morphological change at all** (Nielsen et al., 2010). **Use load on shrugs,
+carries and rows as the progress signal, and accept that it is a strength signal, not a size one.**
+
+**What to expect in absolute terms.** Unknown, and this Part will not invent a number. The honest expectation
+is that the girdle grows like other muscles when loaded like other muscles — that is what the one study shows
+— and that most of the visible result comes from the upper trapezius, which is also the easiest part to load.
+
+## partxiiigsynthesis
+
+**PART G — Synthesis, and what the evidence does not support**
+
+### G.1 The rules that hold
+
+1. **The shoulder blade floats on one bony strut, so every load on the arm is a load on these muscles.**
+   Nothing about the anatomy allows a skeletal shortcut (§A.1).
+2. **The upper trapezius attaches to the collarbone and raises the shoulder by rotating it**
+   (Johnson et al., 1994) — so shrug with the arms about 30° out, a variant that beat a straight-down shrug in
+   all four scapular muscles measured (Pizzari et al., 2014).
+3. **Classify every exercise by the direction the load pulls the blade, then check whether a pad or bench has
+   already taken that direction** (§B.4). This single rule reorganizes an entire programme.
+4. **A bench removes a job, not the muscle.** The serratus anterior is substantially active in a bench press
+   (Martins et al., 2008); what a barbell press lacks is **end-range protraction**, which is the push-up
+   plus's real contribution (§B.5).
+5. **Upward rotation is the under-trained direction in essentially every barbell programme**, and it needs a
+   deliberate exercise — the prone Y raise gave the greatest lower-trapezius activity of ten exercises tested
+   (Ekstrom et al., 2003).
+6. **The trapezius grows from ordinary resistance training**: +20% type II fibre area in ten weeks at 8–12RM,
+   three times a week, from five ordinary dumbbell exercises (Andersen et al., 2014b), and only the strength
+   arm of a three-way comparison achieved it (Kadi et al., 2000a).
+7. **Unloaded activity does not grow it.** The group that cycled hard for the same ten weeks changed nothing
+   (Andersen et al., 2014b).
+8. **Carries and heavy holds are real trapezius work** at the muscle's longest length, and straps are what
+   convert them from grip exercises into trapezius exercises (§B.9, §C.5).
+9. **The blade turns one degree for every two of arm bone — the classic 2:1 — from the very first degree.**
+   What the modern data overturn is the *constancy* of the ratio and the idea of a setting phase, not the
+   ratio itself (Fernández-Matías et al., 2025).
+10. **Loading a chronically painful trapezius is supported by direct evidence**, and is the one clinical claim
+    in this Part that rests on a randomized trial (Andersen et al., 2014b).
+
+### G.2 What the evidence does **not** support
+
+**That the upper trapezius elevates the shoulder blade directly.** Its fibres run transversely to the
+collarbone; dissection concluded that this orientation "precludes any action as elevators of the scapula as
+commonly depicted" (Johnson et al., 1994). The textbook arrow is wrong.
+
+**That "2:1" and "3:1" are competing claims.** They are the same claim in two conventions: 2:1 divides
+glenohumeral motion by scapular motion, 3:1 divides total arm elevation by it, and total arm elevation is
+glenohumeral motion *plus* the scapular degree. The pooled modern figure of **2.86:1 to 3.13:1**
+humerothoracic-to-scapular (Fernández-Matías et al., 2025) **agrees with** Inman's 2:1; what it overturns is
+the assumption that the ratio is constant.
+
+**That there is a "setting phase" in which the scapula holds still before moving.** It upwardly rotates from
+the very beginning of arm elevation (Fernández-Matías et al., 2025). The cue built on it (§C.4) is describing
+something that does not happen.
+
+**That the visual scapular dyskinesis test is reliable.** A hundred and four experienced physical therapists
+rating videos of **healthy** people reached **Fleiss' κ = 0.12**, and how important a clinician believed
+dyskinesis to be predicted whether they saw it (odds ratio 1.42) (Vila-Dieguez et al., 2026).
+
+**That scapular dyskinesis marks a problem.** It was present in **28.7% of shoulders in asymptomatic
+professional basketball players**, none previously diagnosed (Paksoy et al., 2025). No prospective study shows
+it predicts injury.
+
+**That altered scapular muscle activity causes shoulder pain.** The meta-analysis that found higher upper
+trapezius, lower lower trapezius and delayed serratus activation in athletes with rotator-cuff-related
+shoulder pain graded every finding **very low certainty** and stated the relationship as association, not
+causation; the upper-to-lower ratio's confidence interval crossed zero (Leong et al., 2026). The neck-pain
+literature reaches the same verdict at the same certainty (Javdaneh et al., 2025). And the scapula may be
+following the [glenohumeral joint](#glenohumeraljoint) rather than leading it (Elder & Powers, 2025).
+
+**That the "upper-to-lower trapezius ratio" is a training target.** It is measurable, it changes with training
+(2.2 → 1.1 in twelve weeks) (Liao et al., 2022), and **nothing is known about what changing it accomplishes**
+beyond the measurement itself.
+
+**That scapular exercises fix posture.** Exercise improves shoulder function, disability and range at
+moderate certainty; effects on pain and strength are **low certainty and mixed** (Solana-Tramunt et al., 2026).
+No posture claim in this literature reaches even that standard.
+
+**That deliberately squeezing the shoulder blades changes what a row trains.** High-density electromyography
+in fourteen resistance-trained men found **no difference in any trapezius portion** during the concentric
+phase of a seated row between a fixed and a free scapula (Padovan et al., 2025).
+
+**That "relax your traps" moves the work to your mid-back.** It lowers it: with biofeedback during a seated
+row, upper trapezius **and serratus anterior** excitation both fell (Dos Anjos et al., 2024). The genuine
+finding in this area is that the separation is learnable at all — every subject in one study learned to
+activate the lower trapezius independently of the upper after an hour of practice
+(Holtermann et al., 2009).
+
+**That range of motion matters much in a row, for the trapezius.** Comparing full, upper-half and lower-half
+ranges at 10RM, the effects were "of a medium magnitude only, as well as inconsistent" in the authors' own
+words (Fischer et al., 2025b).
+
+**That these muscles have no architecture data.** They do: physiological cross-sections and fascicle lengths
+for trapezius, serratus anterior, both rhomboids and pectoralis minor come from a complete single-cadaver
+dissection (Ruggiero et al., 2016), and cross-sections alone from both shoulders of seven cadavers
+(Veeger et al., 1991). What is missing is an **in-vivo volume** dataset — the standard upper-limb one does
+not contain these muscles at all (Holzbaur et al., 2007a) — and individual scaling is poor
+(Bolsterlee et al., 2015).
+
+**That any dose has been established.** Two comparisons exist and no more: one set against three, which was
+null for the upper trapezius (Rønnestad et al., 2007), and strength against endurance against co-ordination
+training, where only strength raised type II fibre area (Kadi et al., 2000a). **Frequencies, loads, rep
+ranges, ranges of motion and failure proximity have never been compared for any scapular muscle with a size
+outcome.** Every number in §F beyond those two results is marked as judgement, and should be read that way.
+
+**That rhomboid activity can be measured from the skin.** It cannot; every rhomboid and levator scapulae
+number in this Part comes from fine-wire electrodes, in two studies from one group (Berckmans et al., 2020)
+and a companion paper the following year (Berckmans et al., 2021). **And surface serratus anterior numbers
+are systematically low** — checked against needles, surface electrodes underestimated it during flexion,
+abduction and the bench-press-plus test (Hackett et al., 2014).
+
+**That anything is known about growing the rhomboids or the levator scapulae.** Nothing is. No trial has
+measured their size before and after training, in anyone. For the **serratus anterior** the only training
+measurements are contraction-to-rest thickness ratios, which changed over four weeks in healthy young adults
+(Cho et al., 2018) and six weeks in office workers (Go & Lee, 2016) — a change in how the muscle contracts,
+not evidence that it grew.
+
+**That the shoulder blade is held on by muscle alone.** Almost, but not quite: the capsular ligament of the
+joint beside your throat directly resists the outer end of the collarbone being pushed down
+(Bearn, 1967), and the ligaments tying the collarbone to the shoulder blade suspend the blade from it —
+which is why separating them drops the whole girdle. Muscle does most of the work, not all of it.
+
+**That pulldowns and pull-ups are scapular-free, or that they load the elevators.** They load the opposite
+direction: you hang **from** your hands, so the girdle is driven up and the depressors and downward rotators
+resist (§D.5). This Part got that backwards in its first draft.
+
+### G.3 The one-paragraph version
+
+The shoulder blade hangs on muscle, so everything you do with your arms loads these muscles — which is why
+they are trained by accident and almost never on purpose. The upper trapezius pulls on your **collarbone**, so
+shrug with your arms about thirty degrees out rather than straight down, and hang fully at the bottom.
+Classify every exercise by **which way the load would move the blade if the muscles switched off**: a
+dumbbell in your hand drags the girdle down, a bar you hang from drives it up, and those two are trained by
+opposite muscles — so a shrug and a pull-up are not the same category, they are mirror images. Rows cover
+retraction; deadlifts and carries cover elevation and are real work, especially with straps; pull-ups,
+pulldowns and dips cover depression whether you meant them to or not. The direction genuinely missing from
+most programmes is **upward rotation**, and it costs one light exercise — a prone Y raise or a press-up — to
+cover it. A bench takes away the job of holding your ribcage up, not the serratus anterior, which is busy
+during a bench press too; what a barbell press cannot give you is the **end-range protraction** of a push-up
+plus. Train the girdle at **8–12RM two or three times a week**, because that is the loading that has actually
+produced growth (+20% in trapezius type II fibre area in ten weeks, and only the strength arm of a three-way
+comparison managed it), and do not chase set volume: the one trial that compared one set with three found no
+difference in upper-trapezius cross-section. Finally, treat this region's confident clinical vocabulary with
+suspicion — the visual test for "scapular dyskinesis" agrees with itself about as often as a coin flip, and
+nearly three in ten pain-free professional athletes fail it.
+
+# partxivmasterglossary
+
+**Part XIV — Master Glossary**
 
 Every technical term used anywhere in this document, defined formally with formula and units where
 the quantity is physically or operationally defined.
@@ -17603,171 +19068,183 @@ plain same-file heading anchor.
 
 | Term | Layer | Term | Layer |
 |---|---|---|---|
-| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Mechanotransduction](#mechanotransduction) | 6 |
-| [45° back extension (hip extension)](#backextension) | 12 | [Middle deltoid](#middledeltoid) | 9 |
-| [Ab wheel](#abwheel) | 12 | [Moment arm](#momentarm) | 2 |
-| [Abdominal wall](#abdominalwall) | 9 | [Momentary (muscular) failure](#momentaryfailure) | 10 |
-| [Achilles tendinopathy](#achillestendinopathy) | 13 | [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 |
-| [Achilles tendon](#achillestendon) | 3 | [Motor unit](#motorunit) | 6 |
-| [ACL reconstruction](#aclreconstruction) | 13 | [Multifidus](#multifidus) | 9 |
-| [Acromioclavicular joint (AC joint)](#acromioclavicularjoint) | 3 | [Muscle thickness](#musclethickness) | 5 |
-| [Acromion](#acromion) | 3 | [Muscle volume](#musclevolume) | 5 |
-| [Adductor magnus](#adductormagnus) | 8 | [Musculocutaneous nerve](#musculocutaneousnerve) | 9 |
-| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
-| [Anconeus](#anconeus) | 9 | [Net joint moment](#netjointmoment) | 11 |
-| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
-| [Ankle plantar flexion](#ankleplantarflexion) | 4 | [Nordic hamstring curl](#nordiccurl) | 12 |
-| [Anterior deltoid](#anteriordeltoid) | 9 | [Olecranon](#olecranon) | 3 |
-| [Aponeurosis](#aponeurosis) | 3 | [Open kinetic chain exercise](#openkineticchain) | 11 |
-| [Apophysis](#apophysis) | 3 | [Overhead press (shoulder press, military press)](#overheadpress) | 12 |
-| [Attentional focus](#attentionalfocus) | 10 | [Overhead triceps extension](#overheadtricepsextension) | 12 |
-| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Painful arc](#painfularc) | 13 |
-| [Axillary nerve](#axillarynerve) | 9 | [Pallof press](#pallofpress) | 12 |
-| [Back squat](#backsquat) | 12 | [Passive tension](#passivetension) | 5 |
-| [Bar position](#barposition) | 11 | [Patella (kneecap)](#patella) | 3 |
-| [Barbell glute bridge](#glutebridge) | 12 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
-| [Barbell hip thrust](#hipthrust) | 12 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
-| [Bayes factor (BF)](#bayesfactor) | 9 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
-| [Bayesian cable curl](#bayesiancurl) | 12 | [Patellofemoral pain](#patellofemoralpain) | 13 |
-| [Belt squat](#beltsquat) | 12 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
-| [Bench inclination](#benchinclination) | 11 | [Pectoral nerves (lateral and medial)](#pectoralnerves) | 9 |
-| [Bench press](#benchpress) | 12 | [Pectoralis major](#pectoralismajor) | 9 |
-| [Biacromial width](#biacromialwidth) | 3 | [Pectoralis major tear (pectoralis major rupture)](#pectoralismajortear) | 13 |
-| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Pectoralis major, abdominal part (the "lower chest")](#pectoralisabdominalhead) | 9 |
-| [Biceps brachii](#bicepsbrachii) | 9 | [Pectoralis major, clavicular head (the "upper chest")](#pectoralisclavicularhead) | 9 |
-| [Biceps curl](#bicepscurl) | 12 | [Pectoralis major, sternocostal head (the "mid chest")](#pectoralissternocostalhead) | 9 |
-| [Biceps femoris, long head (BFlh)](#bicepsfemorislonghead) | 8 | [Pectoralis minor](#pectoralisminor) | 9 |
-| [Biceps femoris, short head (BFsh)](#bicepsfemorisshorthead) | 8 | [Pelvic floor](#pelvicfloor) | 9 |
-| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
-| [Biering-Sørensen test](#bieringsorensentest) | 9 | [Pelvis](#pelvis) | 3 |
-| [Bilaminar tendon](#bilaminartendon) | 3 | [Pennation angle](#pennationangle) | 5 |
-| [Brachialis](#brachialis) | 9 | [Plane of elevation](#planeofelevation) | 4 |
-| [Brachioradialis](#brachioradialis) | 9 | [Plank](#plank) | 12 |
-| [Cable crunch](#cablecrunch) | 12 | [Posterior deltoid](#posteriordeltoid) | 9 |
-| [Cable or machine kickback (standing hip extension)](#kickback) | 12 | [Posterior oblique sling](#posteriorobliquesling) | 8 |
-| [Cable pull-through](#cablepullthrough) | 12 | [Preacher curl](#preachercurl) | 12 |
-| [Calf raise](#calfraise) | 12 | [Progressive overload](#progressiveoverload) | 10 |
-| [Chest fly (dumbbell fly, cable fly or crossover, pec deck)](#chestfly) | 12 | [Pronated (overhand) grip](#pronatedgrip) | 11 |
-| [Chin-up](#chinup) | 12 | [Proximity to failure](#proximitytofailure) | 10 |
-| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Psoas major](#psoasmajor) | 9 |
-| [Clavicle (collarbone)](#clavicle) | 3 | [Pull-up](#pullup) | 12 |
-| [Close-grip bench press](#closegripbenchpress) | 12 | [Pullover](#pullover) | 12 |
-| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Push-up](#pushup) | 12 |
-| [Compound exercise](#compound) | 11 | [Quadratus lumborum](#quadratuslumborum) | 9 |
-| [Concentric contraction](#concentriccontraction) | 6 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
-| [Contralateral](#contralateral) | 1 | [Quadriceps tendon](#quadricepstendon) | 3 |
-| [Coracobrachialis](#coracobrachialis) | 9 | [Radial nerve](#radialnerve) | 9 |
-| [Coracoid process](#coracoidprocess) | 3 | [Radial tuberosity](#radialtuberosity) | 3 |
-| [Costal cartilage](#costalcartilage) | 3 | [Range of motion (ROM)](#rangeofmotion) | 4 |
-| [Crunch](#crunch) | 12 | [Rectus abdominis](#rectusabdominis) | 9 |
-| [Deadlift](#deadlift) | 12 | [Rectus femoris](#rectusfemoris) | 8 |
-| [Deep hip external rotators](#hipexternalrotators) | 8 | [Rectus sheath](#rectussheath) | 3 |
-| [Deload](#deload) | 10 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
-| [Deltoid](#deltoid) | 9 | [Repetition (rep)](#repetition) | 10 |
-| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Resistance profile](#resistanceprofile) | 11 |
-| [Diaphragm](#diaphragm) | 9 | [Reverse curl](#reversecurl) | 12 |
-| [Diastasis recti](#diastasisrecti) | 13 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 12 |
-| [Dip (parallel-bar dip)](#dip) | 12 | [Reverse hyperextension](#reversehyperextension) | 12 |
-| [Distal biceps tendon rupture](#distalbicepstendonrupture) | 13 | [Reverse Nordic curl](#reversenordic) | 12 |
-| [Distal clavicular osteolysis ("weightlifter's shoulder")](#distalclavicularosteolysis) | 13 | [RIR (repetitions in reserve)](#rir) | 10 |
-| [Distal triceps tendon rupture](#distaltricepsrupture) | 13 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
-| [Dose–response relationship](#doseresponserelationship) | 10 | [Rotator cuff](#rotatorcuff) | 9 |
-| [Double progression](#doubleprogression) | 10 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
-| [Dumbbell bench press](#dumbbellbenchpress) | 12 | [Row](#row) | 12 |
-| [Eccentric contraction](#eccentriccontraction) | 6 | [RPE (rating of perceived exertion)](#rpe) | 10 |
-| [Effect size](#effectsize) | 9 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
-| [Effort tolerance](#efforttolerance) | 10 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
-| [Elbow extension](#elbowextension) | 4 | [Sacrum](#sacrum) | 3 |
-| [Elbow flexion](#elbowflexion) | 4 | [Sagittal plane](#sagittalplane) | 1 |
-| [Elbow flexor loading class (stretch-loaded, half-loaded, stretch-free)](#elbowflexorloadingclass) | 11 | [Sarcomere](#sarcomere) | 5 |
-| [Elbow flexors](#elbowflexors) | 8 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
-| [Elbow path](#elbowpath) | 11 | [Scapula (shoulder blade)](#scapula) | 3 |
-| [EMG (electromyography)](#emg) | 9 | [Scapular depression](#scapulardepression) | 4 |
-| [Erector spinae](#erectorspinae) | 8 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
-| [Erector spinae aponeurosis](#erectorspinaeaponeurosis) | 3 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
-| [Excursion](#excursion) | 4 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
-| [External oblique](#externaloblique) | 9 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
-| [Face pull](#facepull) | 12 | [Seated calf raise](#seatedcalfraise) | 12 |
-| [Fascicle length](#fasciclelength) | 5 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
-| [Femoral nerve](#femoralnerve) | 8 | [Semimembranosus (SM)](#semimembranosus) | 8 |
-| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Semitendinosus (ST)](#semitendinosus) | 8 |
-| [Femur (thigh bone)](#femur) | 3 | [Serratus anterior](#serratusanterior) | 8 |
-| [Flexion relaxation](#flexionrelaxation) | 11 | [Sesamoid bone](#sesamoid) | 3 |
-| [Force–length relationship](#forcelengthrelationship) | 5 | [Set](#set) | 10 |
-| [Forearm pronation](#forearmpronation) | 4 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
-| [Forearm supination](#forearmsupination) | 4 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
-| [Front raise](#frontraise) | 12 | [Shoulder abduction](#shoulderabduction) | 4 |
-| [Front squat](#frontsquat) | 12 | [Shoulder adduction](#shoulderadduction) | 4 |
-| [Frontal (coronal) plane](#frontalplane) | 1 | [Shoulder extension](#shoulderextension) | 4 |
-| [Gastrocnemius](#gastrocnemius) | 8 | [Shoulder external (lateral) rotation](#shoulderexternalrotation) | 4 |
-| [Glenohumeral joint](#glenohumeraljoint) | 3 | [Shoulder flexion](#shoulderflexion) | 4 |
-| [Glute-ham raise (GHR)](#glutehamraise) | 12 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
-| [Gluteal tendinopathy (greater trochanteric pain syndrome)](#glutealtendinopathy) | 13 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
-| [Gluteus maximus](#gluteusmaximus) | 8 | [Shoulder instability](#shoulderinstability) | 13 |
-| [Gluteus medius](#gluteusmedius) | 8 | [Shoulder position class (Overhead, Raised, Down)](#shoulderpositionclass) | 11 |
-| [Gluteus minimus](#gluteusminimus) | 8 | [Side plank](#sideplank) | 12 |
-| [Good morning](#goodmorning) | 12 | [Sissy squat](#sissysquat) | 12 |
-| [Greater trochanter](#greatertrochanter) | 3 | [Sit-up](#situp) | 12 |
-| [Grip width](#gripwidth) | 11 | [Size principle](#sizeprinciple) | 6 |
-| [Hack squat](#hacksquat) | 12 | [Smith machine squat](#smithmachinesquat) | 12 |
-| [Hammer curl](#hammercurl) | 12 | [Snapping triceps](#snappingtriceps) | 13 |
-| [Hamstrings](#hamstrings) | 8 | [Soleus](#soleus) | 8 |
-| [Hanging knee raise](#hangingkneeraise) | 12 | [Specific tension](#specifictension) | 5 |
-| [Hard set](#hardset) | 10 | [Spinal role class (spine-moving, spine-holding, supported)](#spinalroleclass) | 11 |
-| [Hip abduction](#hipabduction) | 4 | [Split squat](#splitsquat) | 12 |
-| [Hip adduction](#hipadduction) | 4 | [Spondylolysis](#spondylolysis) | 13 |
-| [Hip adductors](#hipadductors) | 8 | [Squat depth](#squatdepth) | 11 |
-| [Hip extension](#hipextension) | 4 | [Stance width](#stancewidth) | 11 |
-| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Step-up](#stepup) | 12 |
-| [Hip flexion](#hipflexion) | 4 | [Sternum (breastbone)](#sternum) | 3 |
-| [Hip hinge](#hiphinge) | 11 | [Sticking region](#stickingregion) | 11 |
-| [Hip internal (medial) rotation](#hipinternalrotation) | 4 | [Straight-arm pulldown](#straightarmpulldown) | 12 |
-| [Hip joint (acetabulofemoral joint)](#hipjoint) | 3 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
-| [Hip osteoarthritis](#hiposteoarthritis) | 13 | [Subacromial impingement](#impingement) | 13 |
-| [Horizontal pull](#horizontalpull) | 11 | [Subacromial space](#subacromialspace) | 3 |
-| [Humeral elevation](#humeralelevation) | 4 | [Suitcase carry](#suitcasecarry) | 12 |
-| [Humerus (upper arm bone)](#humerus) | 3 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
-| [Hypertrophy](#hypertrophy) | 7 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
-| [Iliocostalis lumborum](#iliocostalislumborum) | 8 | [Supraspinatus](#supraspinatus) | 9 |
-| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [T2-weighted MRI (transverse relaxation time)](#t2mri) | 9 |
-| [Incline curl](#inclinecurl) | 12 | [Technical failure](#technicalfailure) | 10 |
-| [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [Tempo](#tempo) | 10 |
-| [Infraglenoid tubercle](#infraglenoidtubercle) | 3 | [Tennis leg](#tennisleg) | 13 |
-| [Internal (medial) rotation](#internalrotation) | 4 | [Tensor fasciae latae (TFL)](#tensorfascialatae) | 8 |
-| [Internal oblique](#internaloblique) | 9 | [Tensor vastus intermedius](#tensorvastusintermedius) | 8 |
-| [Intra-abdominal pressure (IAP)](#intraabdominalpressure) | 3 | [Teres major](#teresmajor) | 8 |
-| [Inverted row](#invertedrow) | 12 | [The EMG–hypertrophy dissociation](#emghypertrophydissociation) | 9 |
-| [Ischial tuberosity](#ischialtuberosity) | 3 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
-| [Isolated lumbar extension (ILEX)](#isolatedlumbarextension) | 12 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
-| [Isolation exercise](#isolation) | 11 | [Tibia (shin bone)](#tibia) | 3 |
-| [Joint reaction force](#jointreactionforce) | 3 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
-| [Kettlebell swing](#kettlebellswing) | 12 | [Torque (moment)](#torque) | 2 |
-| [Kipping](#kipping) | 12 | [Torso inclination](#torsoinclination) | 11 |
-| [Knee extension](#kneeextension) | 4 | [Training frequency](#trainingfrequency) | 10 |
-| [Knee flexion](#kneeflexion) | 4 | [Training volume](#trainingvolume) | 10 |
-| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [Transverse (horizontal) plane](#transverseplane) | 1 |
-| [Knee travel](#kneetravel) | 11 | [Transversus abdominis](#transversusabdominis) | 9 |
-| [Lacertus fibrosus (bicipital aponeurosis)](#lacertusfibrosus) | 3 | [Trapezius](#trapezius) | 9 |
-| [Lat pulldown](#latpulldown) | 12 | [Triceps brachii](#tricepsbrachii) | 9 |
-| [Lateral raise](#lateralraise) | 12 | [Triceps brachii, lateral head](#tricepslateralhead) | 9 |
-| [Latissimus dorsi](#latissimusdorsi) | 8 | [Triceps brachii, long head](#tricepslonghead) | 9 |
-| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Triceps brachii, medial head](#tricepsmedialhead) | 9 |
-| [Leg extension](#legextension) | 12 | [Triceps kickback](#tricepskickback) | 12 |
-| [Leg press](#legpress) | 12 | [Triceps pushdown (cable pushdown)](#tricepspushdown) | 12 |
-| [Lengthened partials](#lengthenedpartials) | 7 | [Triceps surae](#tricepssurae) | 8 |
-| [Lengthened position](#lengthenedposition) | 7 | [Trunk extension](#trunkextension) | 5 |
-| [Limiting link](#limitinglink) | 10 | [Trunk flexion](#trunkflexion) | 5 |
-| [Line of action](#lineofaction) | 2 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
-| [Linea alba](#lineaalba) | 3 | [Trunk rotation](#trunkrotation) | 5 |
-| [Load](#load) | 10 | [Upright row](#uprightrow) | 12 |
-| [Longissimus thoracis](#longissimusthoracis) | 8 | [Vastus intermedius](#vastusintermedius) | 8 |
-| [Lumbar compression](#lumbarcompression) | 11 | [Vastus lateralis](#vastuslateralis) | 8 |
-| [Lumbar flexion](#lumbarflexion) | 4 | [Vastus medialis](#vastusmedialis) | 8 |
-| [Lumbopelvic rhythm](#lumbopelvicrhythm) | 4 | [Vertical pull](#verticalpull) | 11 |
-| [Lunge](#lunge) | 12 | [Volume load](#volumeload) | 10 |
-| [Lying triceps extension ("skull crusher")](#lyingtricepsextension) | 12 | [Weightlifting belt](#weightliftingbelt) | 11 |
-| [Machine chest press](#machinechestpress) | 12 | [Woodchop](#woodchop) | 12 |
-| [Mechanical tension](#mechanicaltension) | 6 |  |  |
+| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Multifidus](#multifidus) | 9 |
+| [45° back extension (hip extension)](#backextension) | 12 | [Muscle thickness](#musclethickness) | 5 |
+| [Ab wheel](#abwheel) | 12 | [Muscle volume](#musclevolume) | 5 |
+| [Abdominal wall](#abdominalwall) | 9 | [Musculocutaneous nerve](#musculocutaneousnerve) | 9 |
+| [Accessory nerve (CN XI)](#accessorynerve) | 9 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
+| [Achilles tendinopathy](#achillestendinopathy) | 13 | [Net joint moment](#netjointmoment) | 11 |
+| [Achilles tendon](#achillestendon) | 3 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
+| [ACL reconstruction](#aclreconstruction) | 13 | [Nordic hamstring curl](#nordiccurl) | 12 |
+| [Acromioclavicular joint (AC joint)](#acromioclavicularjoint) | 3 | [Nuchal ligament](#nuchalligament) | 3 |
+| [Acromion](#acromion) | 3 | [Olecranon](#olecranon) | 3 |
+| [Adductor magnus](#adductormagnus) | 8 | [Open kinetic chain exercise](#openkineticchain) | 11 |
+| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Overhead press (shoulder press, military press)](#overheadpress) | 12 |
+| [Anconeus](#anconeus) | 9 | [Overhead triceps extension](#overheadtricepsextension) | 12 |
+| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Painful arc](#painfularc) | 13 |
+| [Ankle plantar flexion](#ankleplantarflexion) | 4 | [Pallof press](#pallofpress) | 12 |
+| [Anterior deltoid](#anteriordeltoid) | 9 | [Passive tension](#passivetension) | 5 |
+| [Aponeurosis](#aponeurosis) | 3 | [Patella (kneecap)](#patella) | 3 |
+| [Apophysis](#apophysis) | 3 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
+| [Attentional focus](#attentionalfocus) | 10 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
+| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
+| [Axillary nerve](#axillarynerve) | 9 | [Patellofemoral pain](#patellofemoralpain) | 13 |
+| [Back squat](#backsquat) | 12 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
+| [Bar position](#barposition) | 11 | [Pectoral nerves (lateral and medial)](#pectoralnerves) | 9 |
+| [Barbell glute bridge](#glutebridge) | 12 | [Pectoralis major](#pectoralismajor) | 9 |
+| [Barbell hip thrust](#hipthrust) | 12 | [Pectoralis major tear (pectoralis major rupture)](#pectoralismajortear) | 13 |
+| [Bayes factor (BF)](#bayesfactor) | 9 | [Pectoralis major, abdominal part (the "lower chest")](#pectoralisabdominalhead) | 9 |
+| [Bayesian cable curl](#bayesiancurl) | 12 | [Pectoralis major, clavicular head (the "upper chest")](#pectoralisclavicularhead) | 9 |
+| [Belt squat](#beltsquat) | 12 | [Pectoralis major, sternocostal head (the "mid chest")](#pectoralissternocostalhead) | 9 |
+| [Bench inclination](#benchinclination) | 11 | [Pectoralis minor](#pectoralisminor) | 9 |
+| [Bench press](#benchpress) | 12 | [Pelvic floor](#pelvicfloor) | 9 |
+| [Biacromial width](#biacromialwidth) | 3 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
+| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Pelvis](#pelvis) | 3 |
+| [Biceps brachii](#bicepsbrachii) | 9 | [Pennation angle](#pennationangle) | 5 |
+| [Biceps curl](#bicepscurl) | 12 | [Plane of elevation](#planeofelevation) | 4 |
+| [Biceps femoris, long head (BFlh)](#bicepsfemorislonghead) | 8 | [Plank](#plank) | 12 |
+| [Biceps femoris, short head (BFsh)](#bicepsfemorisshorthead) | 8 | [Posterior deltoid](#posteriordeltoid) | 9 |
+| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Posterior oblique sling](#posteriorobliquesling) | 8 |
+| [Biering-Sørensen test](#bieringsorensentest) | 9 | [Preacher curl](#preachercurl) | 12 |
+| [Bilaminar tendon](#bilaminartendon) | 3 | [Progressive overload](#progressiveoverload) | 10 |
+| [Brachialis](#brachialis) | 9 | [Pronated (overhand) grip](#pronatedgrip) | 11 |
+| [Brachioradialis](#brachioradialis) | 9 | [Prone Y raise (prone overhead arm raise)](#proneyraise) | 12 |
+| [Cable crunch](#cablecrunch) | 12 | [Proximity to failure](#proximitytofailure) | 10 |
+| [Cable or machine kickback (standing hip extension)](#kickback) | 12 | [Psoas major](#psoasmajor) | 9 |
+| [Cable pull-through](#cablepullthrough) | 12 | [Pull-up](#pullup) | 12 |
+| [Calf raise](#calfraise) | 12 | [Pullover](#pullover) | 12 |
+| [Chest fly (dumbbell fly, cable fly or crossover, pec deck)](#chestfly) | 12 | [Push-up](#pushup) | 12 |
+| [Chin-up](#chinup) | 12 | [Push-up plus](#pushupplus) | 12 |
+| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Quadratus lumborum](#quadratuslumborum) | 9 |
+| [Clavicle (collarbone)](#clavicle) | 3 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
+| [Close-grip bench press](#closegripbenchpress) | 12 | [Quadriceps tendon](#quadricepstendon) | 3 |
+| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Radial nerve](#radialnerve) | 9 |
+| [Compound exercise](#compound) | 11 | [Radial tuberosity](#radialtuberosity) | 3 |
+| [Concentric contraction](#concentriccontraction) | 6 | [Range of motion (ROM)](#rangeofmotion) | 4 |
+| [Contralateral](#contralateral) | 1 | [Rectus abdominis](#rectusabdominis) | 9 |
+| [Coracobrachialis](#coracobrachialis) | 9 | [Rectus femoris](#rectusfemoris) | 8 |
+| [Coracoid process](#coracoidprocess) | 3 | [Rectus sheath](#rectussheath) | 3 |
+| [Costal cartilage](#costalcartilage) | 3 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
+| [Crunch](#crunch) | 12 | [Repetition (rep)](#repetition) | 10 |
+| [Deadlift](#deadlift) | 12 | [Resistance profile](#resistanceprofile) | 11 |
+| [Deep hip external rotators](#hipexternalrotators) | 8 | [Reverse curl](#reversecurl) | 12 |
+| [Deload](#deload) | 10 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 12 |
+| [Deltoid](#deltoid) | 9 | [Reverse hyperextension](#reversehyperextension) | 12 |
+| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Reverse Nordic curl](#reversenordic) | 12 |
+| [Diaphragm](#diaphragm) | 9 | [Rhomboids (major and minor)](#rhomboids) | 9 |
+| [Diastasis recti](#diastasisrecti) | 13 | [RIR (repetitions in reserve)](#rir) | 10 |
+| [Dip (parallel-bar dip)](#dip) | 12 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
+| [Distal biceps tendon rupture](#distalbicepstendonrupture) | 13 | [Rotator cuff](#rotatorcuff) | 9 |
+| [Distal clavicular osteolysis ("weightlifter's shoulder")](#distalclavicularosteolysis) | 13 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
+| [Distal triceps tendon rupture](#distaltricepsrupture) | 13 | [Row](#row) | 12 |
+| [Dorsal scapular nerve](#dorsalscapularnerve) | 9 | [RPE (rating of perceived exertion)](#rpe) | 10 |
+| [Dose–response relationship](#doseresponserelationship) | 10 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
+| [Double progression](#doubleprogression) | 10 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
+| [Dumbbell bench press](#dumbbellbenchpress) | 12 | [Sacrum](#sacrum) | 3 |
+| [Eccentric contraction](#eccentriccontraction) | 6 | [Sagittal plane](#sagittalplane) | 1 |
+| [Effect size](#effectsize) | 9 | [Sarcomere](#sarcomere) | 5 |
+| [Effort tolerance](#efforttolerance) | 10 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
+| [Elbow extension](#elbowextension) | 4 | [Scapula (shoulder blade)](#scapula) | 3 |
+| [Elbow flexion](#elbowflexion) | 4 | [Scapular (scapulothoracic) muscles](#scapularmuscles) | 9 |
+| [Elbow flexor loading class (stretch-loaded, half-loaded, stretch-free)](#elbowflexorloadingclass) | 11 | [Scapular anterior tilt](#scapularanteriortilt) | 4 |
+| [Elbow flexors](#elbowflexors) | 8 | [Scapular depression](#scapulardepression) | 4 |
+| [Elbow path](#elbowpath) | 11 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
+| [EMG (electromyography)](#emg) | 9 | [Scapular dyskinesis](#scapulardyskinesis) | 13 |
+| [Erector spinae](#erectorspinae) | 8 | [Scapular elevation](#scapularelevation) | 4 |
+| [Erector spinae aponeurosis](#erectorspinaeaponeurosis) | 3 | [Scapular internal and external rotation](#scapularinternalrotation) | 4 |
+| [Excursion](#excursion) | 4 | [Scapular load class (elevation-, depression-, retraction-, protraction-, upward-rotation-, downward-rotation-loaded)](#scapularloadclass) | 11 |
+| [External oblique](#externaloblique) | 9 | [Scapular posterior tilt](#scapularposteriortilt) | 4 |
+| [Face pull](#facepull) | 12 | [Scapular protraction (abduction)](#scapularprotraction) | 4 |
+| [Fascicle length](#fasciclelength) | 5 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
+| [Femoral nerve](#femoralnerve) | 8 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
+| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Scapular winging](#scapularwinging) | 13 |
+| [Femur (thigh bone)](#femur) | 3 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
+| [Flexion relaxation](#flexionrelaxation) | 11 | [Scapulothoracic articulation](#scapulothoracicarticulation) | 3 |
+| [Force–length relationship](#forcelengthrelationship) | 5 | [Seated calf raise](#seatedcalfraise) | 12 |
+| [Forearm pronation](#forearmpronation) | 4 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
+| [Forearm supination](#forearmsupination) | 4 | [Semimembranosus (SM)](#semimembranosus) | 8 |
+| [Front raise](#frontraise) | 12 | [Semitendinosus (ST)](#semitendinosus) | 8 |
+| [Front squat](#frontsquat) | 12 | [Serratus anterior](#serratusanterior) | 8 |
+| [Frontal (coronal) plane](#frontalplane) | 1 | [Sesamoid bone](#sesamoid) | 3 |
+| [Gastrocnemius](#gastrocnemius) | 8 | [Set](#set) | 10 |
+| [Glenohumeral joint](#glenohumeraljoint) | 3 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
+| [Glute-ham raise (GHR)](#glutehamraise) | 12 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
+| [Gluteal tendinopathy (greater trochanteric pain syndrome)](#glutealtendinopathy) | 13 | [Shoulder abduction](#shoulderabduction) | 4 |
+| [Gluteus maximus](#gluteusmaximus) | 8 | [Shoulder adduction](#shoulderadduction) | 4 |
+| [Gluteus medius](#gluteusmedius) | 8 | [Shoulder extension](#shoulderextension) | 4 |
+| [Gluteus minimus](#gluteusminimus) | 8 | [Shoulder external (lateral) rotation](#shoulderexternalrotation) | 4 |
+| [Good morning](#goodmorning) | 12 | [Shoulder flexion](#shoulderflexion) | 4 |
+| [Greater trochanter](#greatertrochanter) | 3 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
+| [Grip width](#gripwidth) | 11 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
+| [Hack squat](#hacksquat) | 12 | [Shoulder instability](#shoulderinstability) | 13 |
+| [Hammer curl](#hammercurl) | 12 | [Shoulder position class (Overhead, Raised, Down)](#shoulderpositionclass) | 11 |
+| [Hamstrings](#hamstrings) | 8 | [Shrug](#shrug) | 12 |
+| [Hanging knee raise](#hangingkneeraise) | 12 | [Side plank](#sideplank) | 12 |
+| [Hard set](#hardset) | 10 | [Sissy squat](#sissysquat) | 12 |
+| [Hip abduction](#hipabduction) | 4 | [Sit-up](#situp) | 12 |
+| [Hip adduction](#hipadduction) | 4 | [Size principle](#sizeprinciple) | 6 |
+| [Hip adductors](#hipadductors) | 8 | [Smith machine squat](#smithmachinesquat) | 12 |
+| [Hip extension](#hipextension) | 4 | [Snapping triceps](#snappingtriceps) | 13 |
+| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Soleus](#soleus) | 8 |
+| [Hip flexion](#hipflexion) | 4 | [Specific tension](#specifictension) | 5 |
+| [Hip hinge](#hiphinge) | 11 | [Spinal role class (spine-moving, spine-holding, supported)](#spinalroleclass) | 11 |
+| [Hip internal (medial) rotation](#hipinternalrotation) | 4 | [Spine of the scapula](#scapularspine) | 3 |
+| [Hip joint (acetabulofemoral joint)](#hipjoint) | 3 | [Split squat](#splitsquat) | 12 |
+| [Hip osteoarthritis](#hiposteoarthritis) | 13 | [Spondylolysis](#spondylolysis) | 13 |
+| [Horizontal pull](#horizontalpull) | 11 | [Squat depth](#squatdepth) | 11 |
+| [Humeral elevation](#humeralelevation) | 4 | [Stance width](#stancewidth) | 11 |
+| [Humerus (upper arm bone)](#humerus) | 3 | [Step-up](#stepup) | 12 |
+| [Hypertrophy](#hypertrophy) | 7 | [Sternoclavicular joint](#sternoclavicularjoint) | 3 |
+| [Iliocostalis lumborum](#iliocostalislumborum) | 8 | [Sternum (breastbone)](#sternum) | 3 |
+| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [Sticking region](#stickingregion) | 11 |
+| [Incline curl](#inclinecurl) | 12 | [Straight-arm pulldown](#straightarmpulldown) | 12 |
+| [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
+| [Infraglenoid tubercle](#infraglenoidtubercle) | 3 | [Subacromial impingement](#impingement) | 13 |
+| [Internal (medial) rotation](#internalrotation) | 4 | [Subacromial space](#subacromialspace) | 3 |
+| [Internal oblique](#internaloblique) | 9 | [Suitcase carry](#suitcasecarry) | 12 |
+| [Intra-abdominal pressure (IAP)](#intraabdominalpressure) | 3 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
+| [Inverted row](#invertedrow) | 12 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
+| [Ischial tuberosity](#ischialtuberosity) | 3 | [Supraspinatus](#supraspinatus) | 9 |
+| [Isolated lumbar extension (ILEX)](#isolatedlumbarextension) | 12 | [T2-weighted MRI (transverse relaxation time)](#t2mri) | 9 |
+| [Isolation exercise](#isolation) | 11 | [Technical failure](#technicalfailure) | 10 |
+| [Joint reaction force](#jointreactionforce) | 3 | [Tempo](#tempo) | 10 |
+| [Kettlebell swing](#kettlebellswing) | 12 | [Tennis leg](#tennisleg) | 13 |
+| [Kipping](#kipping) | 12 | [Tensor fasciae latae (TFL)](#tensorfascialatae) | 8 |
+| [Knee extension](#kneeextension) | 4 | [Tensor vastus intermedius](#tensorvastusintermedius) | 8 |
+| [Knee flexion](#kneeflexion) | 4 | [Teres major](#teresmajor) | 8 |
+| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [The EMG–hypertrophy dissociation](#emghypertrophydissociation) | 9 |
+| [Knee travel](#kneetravel) | 11 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
+| [Lacertus fibrosus (bicipital aponeurosis)](#lacertusfibrosus) | 3 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
+| [Lat pulldown](#latpulldown) | 12 | [Tibia (shin bone)](#tibia) | 3 |
+| [Lateral raise](#lateralraise) | 12 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
+| [Latissimus dorsi](#latissimusdorsi) | 8 | [Torque (moment)](#torque) | 2 |
+| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Torso inclination](#torsoinclination) | 11 |
+| [Leg extension](#legextension) | 12 | [Training frequency](#trainingfrequency) | 10 |
+| [Leg press](#legpress) | 12 | [Training volume](#trainingvolume) | 10 |
+| [Lengthened partials](#lengthenedpartials) | 7 | [Transverse (horizontal) plane](#transverseplane) | 1 |
+| [Lengthened position](#lengthenedposition) | 7 | [Transversus abdominis](#transversusabdominis) | 9 |
+| [Levator scapulae](#levatorscapulae) | 9 | [Trapezius](#trapezius) | 9 |
+| [Limiting link](#limitinglink) | 10 | [Trapezius myalgia](#trapeziusmyalgia) | 13 |
+| [Line of action](#lineofaction) | 2 | [Triceps brachii](#tricepsbrachii) | 9 |
+| [Linea alba](#lineaalba) | 3 | [Triceps brachii, lateral head](#tricepslateralhead) | 9 |
+| [Load](#load) | 10 | [Triceps brachii, long head](#tricepslonghead) | 9 |
+| [Long thoracic nerve](#longthoracicnerve) | 8 | [Triceps brachii, medial head](#tricepsmedialhead) | 9 |
+| [Longissimus thoracis](#longissimusthoracis) | 8 | [Triceps kickback](#tricepskickback) | 12 |
+| [Lower (ascending) trapezius](#lowertrapezius) | 9 | [Triceps pushdown (cable pushdown)](#tricepspushdown) | 12 |
+| [Lumbar compression](#lumbarcompression) | 11 | [Triceps surae](#tricepssurae) | 8 |
+| [Lumbar flexion](#lumbarflexion) | 4 | [Trunk extension](#trunkextension) | 5 |
+| [Lumbopelvic rhythm](#lumbopelvicrhythm) | 4 | [Trunk flexion](#trunkflexion) | 5 |
+| [Lunge](#lunge) | 12 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
+| [Lying triceps extension ("skull crusher")](#lyingtricepsextension) | 12 | [Trunk rotation](#trunkrotation) | 5 |
+| [Machine chest press](#machinechestpress) | 12 | [Upper (descending) trapezius](#uppertrapezius) | 9 |
+| [Mechanical tension](#mechanicaltension) | 6 | [Upright row](#uprightrow) | 12 |
+| [Mechanotransduction](#mechanotransduction) | 6 | [Vastus intermedius](#vastusintermedius) | 8 |
+| [Middle (transverse) trapezius](#middletrapezius) | 9 | [Vastus lateralis](#vastuslateralis) | 8 |
+| [Middle deltoid](#middledeltoid) | 9 | [Vastus medialis](#vastusmedialis) | 8 |
+| [Moment arm](#momentarm) | 2 | [Vertical pull](#verticalpull) | 11 |
+| [Momentary (muscular) failure](#momentaryfailure) | 10 | [Volume load](#volumeload) | 10 |
+| [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 | [Weightlifting belt](#weightliftingbelt) | 11 |
+| [Motor unit](#motorunit) | 6 | [Woodchop](#woodchop) | 12 |
 
 ---
 
@@ -17901,6 +19378,26 @@ Raising it together with abdominal muscle force increased the load a physical mo
 *Anatomy & Structure*
 
 **Acromioclavicular joint (AC joint)** — The small joint you can feel as a bump at the very top of your shoulder, where the collarbone meets the shoulder blade. Formally: the plane synovial articulation between the lateral end of the [clavicle](#clavicle) and the medial facet of the [acromion](#acromion), stabilized by the acromioclavicular and coracoclavicular ligaments and permitting only a few degrees of motion. It is the joint a bench press compresses: modelled compression at this joint rose as the hands were placed further apart in ten experienced lifters (Noteboom et al., 2024), and point tenderness here is aggravated by reaching across the body rather than out to the side.
+
+## sternoclavicularjoint
+*Anatomy & Structure*
+
+**Sternoclavicular joint** — The small joint you can feel beside the base of your throat, where the collarbone meets the breastbone. Formally: the saddle-shaped synovial articulation between the medial end of the [clavicle](#clavicle) and the manubrium of the [sternum](#sternum), separated by a fibrocartilaginous disc; **the only true joint between the upper limb and the axial skeleton**. It matters for training because the upper trapezius raises the shoulder girdle by rotating the clavicle about this joint rather than by lifting the shoulder blade directly (Johnson et al., 1994) — so a shrug is transmitted through it, and through the joint at the other end of the same bone, every time you shrug.
+
+## scapulothoracicarticulation
+*Anatomy & Structure*
+
+**Scapulothoracic articulation** — The sliding contact between the shoulder blade and the back of the ribcage. **It is not a joint.** Formally: a muscular interface at which the anterior surface of the [scapula](#scapula) glides on the posterior thoracic wall across layers of loose connective tissue, with no capsule, no ligaments spanning it and no bony stop in any direction; the blade's position at any instant is set entirely by the muscles attaching to it. Two consequences run through Part XIII: there is **no axis to compute a [moment arm](#momentarm) about**, so no profile of resistance against range can be drawn for any muscle acting here; and every force applied to the arm must be balanced by these muscles, because the only bony path to the trunk is the [clavicle](#clavicle).
+
+## scapularspine
+*Anatomy & Structure*
+
+**Spine of the scapula** — The bony ridge you can feel running across the back of your shoulder blade. Formally: the transverse shelf projecting from the dorsal surface of the [scapula](#scapula), continuous laterally with the [acromion](#acromion) and carrying at its medial end a roughened prominence, the **deltoid tubercle**. It is the insertion of the middle and lower trapezius, and the tubercle is where all the lower trapezius fascicles converge (Johnson et al., 1994) — the convergence that gives that part its steep downward-and-inward line of pull.
+
+## nuchalligament
+*Anatomy & Structure*
+
+**Nuchal ligament** — The sheet of tough tissue running down the back of the neck from the skull to the base of the neck. Formally: the median fibroelastic septum extending from the external occipital protuberance to the spinous process of C7, continuous below with the supraspinous ligament, and serving as a muscle attachment rather than as a joint restraint. It is one of the origins of the trapezius, and volumetric dissection found the fascicles arising from its **lower half**, together with those from C7 and T1, to be the largest in the whole muscle (Johnson et al., 1994).
 
 ## humerus
 
@@ -18162,11 +19659,16 @@ Raising it together with abdominal muscle force increased the load a physical mo
 
 **Shoulder horizontal adduction (horizontal flexion)** — With the arm already raised to shoulder height, sweeping it in across the front of the body. Formally: [transverse-plane](#transverseplane) rotation of the [humerus](#humerus) toward and across the midline at approximately 90° of [elevation](#humeralelevation); the reverse of [horizontal abduction](#shoulderhorizontalabduction). It is the organizing action of a chest fly and a large part of a bench press, and it is the direction that compresses the joint at the outer end of the collarbone — which is why point tenderness there is aggravated by reaching across rather than by reaching out.
 
+## scapularelevation
+*Biomechanics & Mechanics*
+
+**Scapular elevation** — The whole shoulder girdle riding upward, as in a shrug. Formally: superior translation of the [scapula](#scapula) along the thoracic wall, produced principally by the upper trapezius and the levator scapulae. **The mechanism is indirect:** the upper trapezius fibres run essentially transversely to the [clavicle](#clavicle), which "precludes any action as elevators of the scapula as commonly depicted" — they raise the girdle by rotating the clavicle about the [sternoclavicular joint](#sternoclavicularjoint), carrying the blade up on the far end of the bone (Johnson et al., 1994). Practical consequence: shrugging with the arms about 30° away from the body produced more activity in all four scapular muscles than shrugging with them hanging straight down (Pizzari et al., 2014).
+
 ## scapularupwardrotation
 
 *Biomechanics & Mechanics*
 
-**Scapular upward rotation** — The shoulder blade tilting so that its socket turns to face more upward, which is what lets your arm go fully overhead. Formally: rotation of the [scapula](#scapula) about an axis perpendicular to its plane, such that the glenoid fossa is directed superiorly and the inferior angle swings laterally; produced principally by the upper and lower trapezius together with the broad muscle that wraps the ribcage beneath the shoulder blade. Without it the humerus cannot reach true end-range [elevation](#humeralelevation) — which is why blocking it at the top of a pull silently converts a full-range exercise into a partial one.
+**Scapular upward rotation** — The shoulder blade tilting so that its socket turns to face more upward, which is what lets your arm go fully overhead. Formally: rotation of the [scapula](#scapula) about an axis perpendicular to its plane, such that the glenoid fossa is directed superiorly and the inferior angle swings laterally; produced by a **force couple** of three muscles — the upper and lower trapezius together with the broad muscle that wraps the ribcage beneath the shoulder blade — whose vertical pulls cancel while their rotations add, and which are the only upward rotators the scapula has (Ekstrom et al., 2003). Without it the humerus cannot reach true end-range [elevation](#humeralelevation) — which is why blocking it at the top of a pull silently converts a full-range exercise into a partial one.
 
 ## scapulardownwardrotation
 
@@ -18180,17 +19682,37 @@ Raising it together with abdominal muscle force increased the load a physical mo
 
 **Scapular depression** — The shoulder blade sliding straight down the ribcage, the opposite of a shrug. Formally: inferior translation of the [scapula](#scapula) along the thorax, produced principally by the lower trapezius, the lower fibres of the muscle wrapping the ribcage, and pectoralis minor. **It is not a latissimus dorsi action** — the latissimus dorsi has no reliable scapular attachment, and what feels like depression during a pull is the humerus being drawn downward and carrying the shoulder girdle with it. Tested directly, isometric shoulder depression was **no better than** the other non-extension tasks for total latissimus dorsi activation — only shoulder extension exceeded the rest (Park & Yoo, 2014).
 
+## scapularprotraction
+*Biomechanics & Mechanics*
+
+**Scapular protraction (abduction)** — The shoulder blade sliding forward around the ribcage, as when you reach or push something away. Formally: lateral and anterior translation of the [scapula](#scapula) along the curve of the thorax, produced principally by the serratus anterior with a contribution from pectoralis minor. It is the direction loaded whenever the ribcage hangs between the shoulder blades with nothing behind them — a push-up, a plank — and the direction **not** loaded when a bench takes that force instead, which is why a bench press imposes no serratus demand and a push-up does (Part XIII §B.5).
+
 ## scapularretraction
 
 *Biomechanics & Mechanics*
 
-**Scapular retraction (adduction)** — Drawing the shoulder blades together toward the spine. Formally: medial translation of the [scapula](#scapula) along the thorax, produced principally by the rhomboids and the middle fibres of the muscle that covers the upper back; the reverse of protraction, in which the blade slides forward around the ribcage. It matters here for one reason: it is what a reverse fly turns into when the load is too heavy, and it is a **different movement at a different joint** from the [horizontal abduction](#shoulderhorizontalabduction) the exercise was chosen for (Part V §C.1).
+**Scapular retraction (adduction)** — Drawing the shoulder blades together toward the spine. Formally: medial translation of the [scapula](#scapula) along the thorax, produced principally by the rhomboids and the middle fibres of the muscle that covers the upper back; the reverse of [protraction](#scapularprotraction), in which the blade slides forward around the ribcage. It matters here for one reason: it is what a reverse fly turns into when the load is too heavy, and it is a **different movement at a different joint** from the [horizontal abduction](#shoulderhorizontalabduction) the exercise was chosen for (Part V §C.1).
+
+## scapularanteriortilt
+*Biomechanics & Mechanics*
+
+**Scapular anterior tilt** — The shoulder blade rocking so its lower tip lifts away from the ribs and its top edge drops forward. Formally: rotation of the [scapula](#scapula) about a medial–lateral axis in its own plane such that the inferior angle moves posteriorly and the superior border anteriorly; the resting position of the healthy scapula sits at **4.8°–11.2°** of it, pooled across twenty studies using three-dimensional non-surface tracking (Fernández-Matías et al., 2025). Pectoralis minor is its principal producer, and it is the direction the blade is drawn into when that muscle is short.
+
+## scapularposteriortilt
+*Biomechanics & Mechanics*
+
+**Scapular posterior tilt** — The lower tip of the shoulder blade pressing back into the ribs as the arm goes overhead; the reverse of [anterior tilt](#scapularanteriortilt). Formally: rotation of the [scapula](#scapula) about a medial–lateral axis such that the inferior angle moves anteriorly against the thorax, produced principally by the lower trapezius and the lower slips of the serratus anterior. Measured with bone pins during scapular-plane elevation it reached **30° (SD 13.0)** (McClure et al., 2001), and pooled across studies it reached **10.8°–12.0°** at 150° of arm elevation (Fernández-Matías et al., 2025) — a spread worth noting, because it is larger than most differences reported between painful and pain-free shoulders.
+
+## scapularinternalrotation
+*Biomechanics & Mechanics*
+
+**Scapular internal and external rotation** — The flat of the shoulder blade turning toward or away from the ribcage, following the barrel shape of the chest. Formally: rotation of the [scapula](#scapula) about a vertical axis, internal when the lateral border swings backward off the thorax and external when it follows the ribs; the healthy resting position is **26.8°–39.1°** of internal rotation, with a trend toward external rotation through arm elevation (Fernández-Matías et al., 2025). Measured with bone pins, elevation produced **24° (SD 12.8)** of external rotation (McClure et al., 2001). It is the third of the scapula's three rotations, and the one most often left out of descriptions that treat scapular motion as upward rotation alone.
 
 ## scapulohumeralrhythm
 
 *Biomechanics & Mechanics*
 
-**Scapulohumeral rhythm** — The fixed ratio in which the arm bone and the shoulder blade share the job of raising your arm. Formally: the coordination ratio between [glenohumeral](#glenohumeraljoint) motion and scapulothoracic motion during [humeral elevation](#humeralelevation), conventionally quoted as approximately **2:1** through the mid-range — two degrees of glenohumeral motion for each degree of [scapular upward rotation](#scapularupwardrotation). **Caveat:** the ratio is not constant across the full range and varies between individuals and between measurement methods. **And the non-uniformity runs against you here:** the first ~30° is glenohumeral-dominant and the scapular share rises through the last third of elevation. Practical reading: roughly a third of your overhead reach is scapular overall, and **more than a third of the last third of it** — so a scapula held still does not cost an even slice of the range, it costs the top of it, which is the part this muscle is trained for.
+**Scapulohumeral rhythm** — The fixed ratio in which the arm bone and the shoulder blade share the job of raising your arm. Formally: the coordination ratio between [glenohumeral](#glenohumeraljoint) motion and scapulothoracic motion during [humeral elevation](#humeralelevation), conventionally quoted as approximately **2:1** through the mid-range — two degrees of glenohumeral motion for each degree of [scapular upward rotation](#scapularupwardrotation). **Two conventions are in circulation and they differ by exactly one**, because every degree of scapular rotation carries the arm with it: dividing *glenohumeral* motion by scapular motion gives the classic **2:1**, and dividing *total arm elevation* by it gives **3:1**. They are the same claim. Pooled across twenty studies using three-dimensional non-surface tracking, arm elevation to scapular upward rotation runs **2.86:1 to 3.13:1** — that is, about 1.9:1 to 2.1:1 in the classic terms, **agreeing with the 2:1 rule rather than overturning it**. What the modern data do overturn is the constancy of the ratio and the idea of a setting phase: **the scapula rotates from the very first degree of elevation** (Fernández-Matías et al., 2025). Nor is upward rotation the only thing the blade does: bone-pin measurement during scapular-plane elevation recorded 50° of upward rotation alongside 30° of [posterior tilt](#scapularposteriortilt) and 24° of [external rotation](#scapularinternalrotation), the last two with standard deviations of 13° (McClure et al., 2001). **Caveat:** the ratio is not constant across the full range, varies between individuals and between measurement methods, and is load-direction specific — a weighted pull-down produced more upward rotation than a weighted press-up at the same arm angle (Lee et al., 2025). **And the non-uniformity runs against you here:** the first ~30° is glenohumeral-dominant and the scapular share rises through the last third of elevation. Practical reading: roughly a third of your overhead reach is scapular overall, and **more than a third of the last third of it** — so a scapula held still does not cost an even slice of the range, it costs the top of it, which is the part this muscle is trained for.
 
 ## excursion
 
@@ -18539,11 +20061,16 @@ The two diverge as [pennation angle](#pennationangle) rises, which is exactly wh
 
 **Elbow flexors** — The muscles on the front of the upper arm and forearm that bend the elbow: biceps brachii, brachialis, and brachioradialis. Formally: the muscle group producing flexion [torque](#torque) at the humeroulnar and humeroradial joints, with the brachialis supplying the largest single share of that torque — 47%, against 34% for the biceps brachii and 19% for the brachioradialis in four men (Kawakami et al., 1994) — the biceps brachii additionally supinating the forearm and flexing the shoulder, and the brachioradialis contributing most in a neutral forearm position. They are the principal synergists in every multi-joint pull and the principal reason a latissimus dorsi set can end before the latissimus dorsi is trained; Part XI takes them as its subject.
 
+## longthoracicnerve
+*Anatomy & Structure*
+
+**Long thoracic nerve** — The nerve that runs down the side of the chest wall to supply the muscle that holds the shoulder blade against the ribs. Formally: a branch of the roots C5–C7 descending superficially on the lateral thoracic wall to innervate the serratus anterior, and unusually exposed along that course. Its failure — from traction, a blow, a heavy strap or viral neuritis — produces the textbook **medial winging**: the inner edge of the shoulder blade lifts off the ribcage when the arm pushes against a wall. It matters for training because a blade that wings under load is a nerve question rather than a technique question (Part XIII §A.7).
+
 ## serratusanterior
 
 *Anatomy & Structure*
 
-**Serratus anterior** — The fan of finger-like muscle slips wrapping the side of the ribcage under the shoulder blade. Formally: a muscle originating from the outer surfaces of ribs 1–9 and inserting along the medial border of the [scapula](#scapula), innervated by the long thoracic nerve, producing scapular protraction and — critically — [upward rotation](#scapularupwardrotation). It is not a latissimus dorsi synergist, but it is a prerequisite: without serratus-driven upward rotation, the arm cannot reach the overhead position that the latissimus dorsi's training depends on. Its visible slips over the ribs also form part of what is read as "lat" development.
+**Serratus anterior** — The fan of finger-like muscle slips wrapping the side of the ribcage under the shoulder blade. Formally: a muscle originating from the outer surfaces of ribs 1–9 and inserting along **the whole medial border of the [scapula](#scapula), on its deep surface**, innervated by the [long thoracic nerve](#longthoracicnerve), producing [scapular protraction](#scapularprotraction) and — critically — [upward rotation](#scapularupwardrotation); it is also the only muscle that can hold the flat of the blade against the ribs, which is why its failure produces medial winging. It is not a latissimus dorsi synergist, but it is a prerequisite: without serratus-driven upward rotation, the arm cannot reach the overhead position that the latissimus dorsi's training depends on. **It is the largest scapular muscle by cross-section** — 22.2 cm² of [PCSA](#pcsa) against 20.3 for the latissimus dorsi in the one cadaver where all of them were measured together, and with short 3.1 cm fascicles (Ruggiero et al., 2016), which makes it a force muscle rather than an excursion muscle. It is loaded by any press, including a bench press, where the upper-trapezius-to-serratus ratio was **0.14** against 0.39 in a push-up (Martins et al., 2008); what a barbell press cannot give it is **end-range protraction**, which is why the push-up plus exists (Part XIII §B.5). The push-up plus and the press-up were the only two of seven exercises that activated both this muscle and the lower trapezius above the upper trapezius (Andersen et al., 2012). Its visible slips over the ribs also form part of what is read as "lat" development. **Caveat:** surface electrodes underestimate it against needles (Hackett et al., 2014), and **no study has measured its size before and after training** — only contraction-to-rest thickness ratios.
 
 ## latissimusdorsi
 
@@ -18811,7 +20338,7 @@ That combination — very long fascicles, very small PCSA — defines it as an *
 
 *Anatomy & Structure*
 
-**Pectoralis minor** — The small flat muscle underneath the chest muscle, running from the ribs to a hook of bone on the shoulder blade. Formally: a triangular muscle arising from the outer surfaces of ribs 3–5 near their cartilages and inserting on the [coracoid process](#coracoidprocess) of the [scapula](#scapula); supplied by the medial pectoral nerve. **It does not attach to the arm**, so it cannot press, cannot fly and cannot be trained as a chest muscle — it tilts the shoulder blade forward and downward and assists in depressing it. It nonetheless grows from bench pressing, its magnetic-resonance cross-sectional area rising above control over ten weeks, but by less than the pectoralis major's did in the same lifters (Lanza et al., 2024).
+**Pectoralis minor** — The small flat muscle underneath the chest muscle, running from the ribs to a hook of bone on the shoulder blade. Formally: a triangular muscle arising from the outer surfaces of ribs 3–5 near their cartilages and inserting on the [coracoid process](#coracoidprocess) of the [scapula](#scapula); supplied by the medial pectoral nerve. **It does not attach to the arm**, so it cannot press, cannot fly and cannot be trained as a chest muscle — it produces [scapular anterior tilt](#scapularanteriortilt) and assists in depressing the blade. It nonetheless grows from bench pressing, its magnetic-resonance cross-sectional area rising above control over ten weeks, but by less than the pectoralis major's did in the same lifters (Lanza et al., 2024).
 
 ## coracobrachialis
 
@@ -18819,11 +20346,51 @@ That combination — very long fascicles, very small PCSA — defines it as an *
 
 **Coracobrachialis** — A small strap of muscle running from the hook of bone at the front of the shoulder blade to the middle of the upper arm bone. Formally: arising from the [coracoid process](#coracoidprocess) alongside the short head of biceps and inserting on the medial surface of the mid-shaft of the [humerus](#humerus); supplied by the musculocutaneous nerve, which pierces it. It flexes and adducts the arm, so it works alongside the clavicular fibres of the pectoralis major in every press and every raise to the front. It is defined here only so that it is not mistaken for part of the chest: at 16.0 g of muscle and a [PCSA](#pcsa) of 1.6 cm² in the one complete upper-limb cadaver dataset (Ruggiero et al., 2016), it is too small for any prescription to be written for it.
 
+## accessorynerve
+*Anatomy & Structure*
+
+**Accessory nerve (CN XI)** — The cranial nerve that supplies the whole trapezius, running just under the skin at the side of the neck with no muscle covering it. Formally: the spinal accessory nerve, crossing the posterior cervical triangle to innervate sternocleidomastoid and the trapezius. In ten cadaveric sides it entered the triangle **4.5–8.5 cm below the mastoid process**, with cervical plexus contributions present in **every** specimen and an independent cervical branch to the upper trapezius in **6 of 10** (Stasiewicz et al., 2026). It is the nerve injured in lymph-node biopsy and neck dissection, and its failure produces a dropped, winged shoulder blade with weak overhead reach.
+
 ## trapezius
 
 *Anatomy & Structure*
 
-**Trapezius** — The large diamond-shaped muscle of the upper back and neck that moves the shoulder blade. Formally: arising from the occiput, the nuchal ligament and the spinous processes of C7 to T12, inserting on the [clavicle](#clavicle), the [acromion](#acromion) and the spine of the [scapula](#scapula); supplied by the accessory nerve. Its upper fibres elevate the shoulder girdle and, with the lower fibres, produce [scapular upward rotation](#scapularupwardrotation); its middle fibres produce [scapular retraction](#scapularretraction). It appears twice in Part V and for opposite reasons: it is a **prerequisite** for the top of an overhead press, and it is what ends most lateral raises, by turning them into shrugs (Part V §C.5).
+**Trapezius** — The large diamond-shaped muscle of the upper back and neck that moves the shoulder blade. Formally: arising from the occiput, the [nuchal ligament](#nuchalligament) and the spinous processes of C7 to T12, inserting on the [clavicle](#clavicle), the [acromion](#acromion) and the [spine of the scapula](#scapularspine); supplied by the [accessory nerve](#accessorynerve). It has three functionally distinct parts — upper, middle and lower — which are separate entries below. Its upper fibres, with the lower fibres and the serratus anterior, produce [scapular upward rotation](#scapularupwardrotation); its middle fibres produce [scapular retraction](#scapularretraction). **The upper part does not attach to the shoulder blade at all**: it inserts on the outer third of the clavicle and raises the girdle by rotating that bone about the [sternoclavicular joint](#sternoclavicularjoint), an orientation that "precludes any action as elevators of the scapula as commonly depicted" (Johnson et al., 1994). It is the **only muscle of the shoulder girdle whose growth has ever been measured**: ten weeks of dumbbell training at 8–12RM three times a week raised type II fibre area by 20% in women with chronic neck pain, while ten weeks of leg cycling changed nothing (Andersen et al., 2014b). It also appears twice in Part V and for opposite reasons: it is a **prerequisite** for the top of an overhead press, and it is what ends most lateral raises, by turning them into shrugs (Part V §C.5).
+
+## uppertrapezius
+*Anatomy & Structure*
+
+**Upper (descending) trapezius** — The visible slope between the neck and the point of the shoulder. Formally: the portion of the [trapezius](#trapezius) arising from the occiput, the [nuchal ligament](#nuchalligament) and the upper cervical spinous processes and inserting on the **lateral third of the [clavicle](#clavicle)** — not on the shoulder blade — supplied by the [accessory nerve](#accessorynerve). Its fibres run mainly transversely, which "precludes any action as elevators of the scapula as commonly depicted"; it raises the girdle by rotating the clavicle about the [sternoclavicular joint](#sternoclavicularjoint), and it draws the scapula and clavicle backwards (Johnson et al., 1994). With the lower portion and the serratus anterior it forms the [scapular upward rotation](#scapularupwardrotation) couple. It is the only part of the girdle whose size is visible, and the only scapular muscle whose size has been tracked through a training programme — by biopsy in symptomatic women (Andersen et al., 2014b) and by magnetic resonance imaging in untrained men (Rønnestad et al., 2007).
+
+## middletrapezius
+*Anatomy & Structure*
+
+**Middle (transverse) trapezius** — The horizontal middle band of the trapezius, running from the base of the neck straight out to the shoulder blade. Formally: the portion of the [trapezius](#trapezius) arising from the C7–T3 spinous processes and inserting on the [acromion](#acromion) and the upper lip of the [spine of the scapula](#scapularspine), supplied by the [accessory nerve](#accessorynerve); it produces [scapular retraction](#scapularretraction). Volumetric dissection found the **largest fascicles in the whole muscle** to be those from C7 and T1 together with those from the lower half of the [nuchal ligament](#nuchalligament) (Johnson et al., 1994) — but those two groups insert differently, the C7/T1 fibres on the acromion and scapular spine and the nuchal fibres on the [clavicle](#clavicle), so the bulk of the trapezius sits in a band straddling what the textbooks call upper and middle rather than in either one alone. It reached **63–66%** of maximal contraction across six variations of a prone overhead raise, with no significant difference between them (Borms et al., 2022).
+
+## lowertrapezius
+*Anatomy & Structure*
+
+**Lower (ascending) trapezius** — The lower triangle of the trapezius, running up and out from the mid-back to the shoulder blade. Formally: the portion of the [trapezius](#trapezius) arising from the T2–T12 spinous processes and converging on the **deltoid tubercle** of the [spine of the scapula](#scapularspine), supplied by the [accessory nerve](#accessorynerve); that convergence onto a single point is what gives it a genuine [upward rotation](#scapularupwardrotation) moment as well as [depression](#scapulardepression). Its activity is one of the few in this region that surface electrodes record **validly**: against intramuscular electrodes there was no difference in level (p = 0.98) and matching patterns (r ≥ 0.74) (Ginn et al., 2020). The prone overhead arm raise produced its greatest activity of ten exercises tested (Ekstrom et al., 2003).
+
+## dorsalscapularnerve
+*Anatomy & Structure*
+
+**Dorsal scapular nerve** — The small nerve that supplies the muscles along the inner edge of the shoulder blade. Formally: a branch usually of the C5 root, most often piercing the **middle scalene muscle** in the neck before descending deep to the levator scapulae to supply it and the rhomboids. Entrapment at the scalene is the commonest site and presents as medial scapular border pain with scapular dyskinesis and rhomboid signs — routinely mistaken for a cervical disc, a rotator-cuff problem or a trigger point; the entire literature is case reports, small series and anatomical studies (Afshar et al., 2026).
+
+## rhomboids
+*Anatomy & Structure*
+
+**Rhomboids (major and minor)** — The two flat sheets running down and out from the spine to the inner edge of the shoulder blade, beneath the trapezius. Formally: rhomboid minor from C7–T1 and the lower [nuchal ligament](#nuchalligament) to the medial border at the root of the [scapular spine](#scapularspine), and rhomboid major from T2–T5 to the medial border below it; both supplied by the [dorsal scapular nerve](#dorsalscapularnerve), and both producing [retraction](#scapularretraction) with **[downward rotation](#scapulardownwardrotation)** — so they oppose overhead reaching. They lie under the trapezius and **cannot be recorded with surface electrodes**: every rhomboid figure in this document comes from fine wires, which put rhomboid major at **59% and 66%** of maximal contraction in the lawnmower and robbery patterns (Berckmans et al., 2020) and at 25–45% across four common exercises (Berckmans et al., 2021). No study has measured their size before and after training.
+
+## levatorscapulae
+*Anatomy & Structure*
+
+**Levator scapulae** — The narrow strap running from the upper neck down to the top inner corner of the shoulder blade. Formally: a muscle arising from the transverse processes of C1–C4 and inserting between the superior angle and the root of the [scapular spine](#scapularspine), supplied by the [dorsal scapular nerve](#dorsalscapularnerve) with direct C3–C4 branches; it produces [elevation](#scapularelevation) with **[downward rotation](#scapulardownwardrotation)**. Like the rhomboids it lies deep and is only measurable with fine wires, which put it at **58%** of maximal contraction in the robbery pattern against 27–36% in an inferior glide or low row (Berckmans et al., 2020). It is a muscle people are told to stretch and never told to train; there is no evidence either way.
+
+## scapularmuscles
+*Anatomy & Structure*
+
+**Scapular (scapulothoracic) muscles** — The group of muscles that hold the shoulder blade on the ribcage and move it: [upper](#uppertrapezius), [middle](#middletrapezius) and [lower trapezius](#lowertrapezius), the [rhomboids](#rhomboids), the [levator scapulae](#levatorscapulae) and the [serratus anterior](#serratusanterior), with [pectoralis minor](#pectoralisminor) attaching at the coracoid. Formally: the muscles crossing the [scapulothoracic articulation](#scapulothoracicarticulation), which is not a joint — so the group has **no resistance profiles**, and moment arms for it exist only inside models that impose an axis on the sliding contact (Seth et al., 2019). Architecture is known from one complete single-cadaver dissection, in which the **serratus anterior had the largest [PCSA](#pcsa) of any muscle in that shoulder at 22.2 cm² and the two rhomboids together only 5.6 cm²** (Ruggiero et al., 2016), and cross-sections alone from both shoulders of seven cadavers (Veeger et al., 1991). They are loaded by everything done with the arms and trained deliberately by almost nobody, and size has been tracked through a training programme for the [trapezius](#trapezius) only (Rønnestad et al., 2007; see Part XIII §A.5).
 
 ## radialnerve
 
@@ -19190,7 +20757,7 @@ Exercises are classified by where that function peaks, by one rule: divide the e
 
 *Exercises & Technique*
 
-**Grip width** — How far apart your hands are, expressed as a multiple of your own shoulder width. Formally: the inter-hand distance during a pulling exercise, normalized to [biacromial width](#biacromialwidth) — conventionally *narrow* = 1×, *medium* = 1.5×, *wide* = 2×. Narrow, medium and wide produced similar latissimus dorsi activation, with narrow and medium permitting a heavier 6RM than wide (Andersen et al., 2014), and seven grip and trunk-angle variants produced no significant difference at all (Buonsenso et al., 2025). Its one real consequence is on [range of motion](#rangeofmotion): a wider grip shortens the movement, which for this muscle is a genuine cost.
+**Grip width** — How far apart your hands are, expressed as a multiple of your own shoulder width. Formally: the inter-hand distance during a pulling exercise, normalized to [biacromial width](#biacromialwidth) — conventionally *narrow* = 1×, *medium* = 1.5×, *wide* = 2×. Narrow, medium and wide produced similar latissimus dorsi activation, with narrow and medium permitting a heavier 6RM than wide (Andersen et al., 2014a), and seven grip and trunk-angle variants produced no significant difference at all (Buonsenso et al., 2025). Its one real consequence is on [range of motion](#rangeofmotion): a wider grip shortens the movement, which for this muscle is a genuine cost.
 
 ## benchinclination
 
@@ -19311,6 +20878,11 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 *Exercises & Technique*
 
 **Elbow flexor loading class (stretch-loaded, half-loaded, stretch-free)** — How much of an arm exercise's hardest moment is still there when the elbow is straight. Formally: find the exercise's **peak angle** — the elbow angle at which the resistance acts perpendicular to the forearm, which for a free weight is where the forearm is horizontal and for a cable is where the forearm lies at a right angle to the cable — and take the **stretch fraction**, the share of that peak [torque](#torque) still present at a straight elbow, which for a gravity-driven curl is the cosine of the peak angle. **Stretch-loaded:** a stretch fraction of 0.60 or more, as in a preacher curl on a 45–50° pad (0.71 and 0.64). **Half-loaded:** 0.25 to 0.59, as on a steep preacher pad. **Stretch-free:** below 0.25, which includes every curl performed with the upper arm hanging vertically, where it is zero. **Caveat:** the boundaries are conventions chosen to separate the exercises of Part XI §D, and the one trial that moved the torque emphasis inside a single exercise found no difference in growth (Nunes et al., 2020a); the class describes where an exercise loads the muscle, not how much it grows it. What the training trials do separate is the [elbow flexion](#elbowflexion) range used: training the straighter half grew the muscles about two and a half times as fast as training the bent half (Part XI §B.4). **Moderate evidence** for the range.
+
+## scapularloadclass
+*Exercises & Technique*
+
+**Scapular load class (elevation-, depression-, retraction-, protraction-, upward-rotation-, downward-rotation-loaded)** — Which way an exercise's load tries to move your shoulder blade, and therefore which scapular muscles resist it. Formally: decide it from one repetition as prescribed. **Step 1:** identify the external force acting on the arm and its direction. **Step 2:** ask which way the blade would travel if every muscle switched off, and name the class for that direction — **down along the trunk** is *elevation-loaded* ([upper trapezius](#uppertrapezius), [levator scapulae](#levatorscapulae)); **up along the trunk**, as when you hang from your hands, is *depression-loaded* ([lower trapezius](#lowertrapezius), [pectoralis minor](#pectoralisminor), [latissimus dorsi](#latissimusdorsi)); **forward away from the trunk** is *retraction-loaded* ([middle trapezius](#middletrapezius), [rhomboids](#rhomboids)); **backward into the trunk** is *protraction-loaded* ([serratus anterior](#serratusanterior)); a load that turns the socket **down** is *upward-rotation-loaded* (upper and lower trapezius with the serratus anterior); a load that turns it **up** is *downward-rotation-loaded* (rhomboids, levator scapulae, pectoralis minor). **Step 3:** if the trunk is supported on the side the force pushes toward — a bench behind the back, a chest pad in front — the muscles no longer have to hold the trunk up in that direction, which **reduces the demand without abolishing it**. **Step 4:** an exercise may fall in more than one class; list them in order of component size, and note that the pairs travel together — hanging loads depression and downward rotation, a shrug with the arm out loads elevation and upward rotation. **Step 5 (tie-break):** the set-up decides over the felt sensation, and a measurement decides over the set-up. **Caveat:** the class names a **direction**, not a dose. It cannot say how much load a muscle takes, and it does not predict growth. The class is derived in this document from directions of pull; no study has tested it.
 
 ## weightliftingbelt
 
@@ -19668,6 +21240,21 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Reverse curl** — A curl done with the palms facing down. Formally: a [biceps curl](#bicepscurl) performed with the forearm [pronated](#forearmpronation), the position of least elbow flexion force and least biceps excitation (O'Connell et al., 2021). It is a forearm and grip exercise with an elbow flexion component, and like every other grip variant it has no hypertrophy trial behind it.
 
+## shrug
+*Exercises & Technique*
+
+**Shrug** — Lifting a hanging load by raising the shoulder girdle, with the elbows straight. Formally: an [elevation-loaded](#scapularloadclass) exercise in which the [scapula](#scapula) is raised against a weight held at arm's length, driven by the [upper trapezius](#uppertrapezius) and [levator scapulae](#levatorscapulae) acting through rotation of the [clavicle](#clavicle) (Johnson et al., 1994). **Performed with the arms about 30° away from the body rather than hanging straight down**, it produced greater activity in all four scapular muscles than the standard version, significantly so for upper and lower trapezius (Pizzari et al., 2014); among three variants at that angle, a stabilization shrug gave the greatest [upward rotation](#scapularupwardrotation) and a frontal shrug the greatest upper-trapezius activity (Lee et al., 2016). The unilateral version produced the greatest upper-trapezius activity of ten exercises tested (Ekstrom et al., 2003). Its range is only a few centimetres, so hanging fully at the bottom is most of the exercise; rolling the shoulders adds nothing measured and loads the [acromioclavicular joint](#acromioclavicularjoint) through an arc for no reason.
+
+## pushupplus
+*Exercises & Technique*
+
+**Push-up plus** — A push-up with an extra range at the top, in which the elbows stay locked and the upper back rounds as the shoulder blades travel forward around the ribs. Formally: a [protraction-loaded](#scapularloadclass) body-weight exercise adding end-range [scapular protraction](#scapularprotraction) to a [push-up](#pushup), and **the reference exercise for the [serratus anterior](#serratusanterior)**: with the press-up it was one of only two exercises of seven that activated both the serratus and the [lower trapezius](#lowertrapezius) above the [upper trapezius](#uppertrapezius) (Andersen et al., 2012), and it is the exercise a nineteen-study review of serratus training is built on (Kang et al., 2019). **Its distinctive contribution is range, not activation.** A [bench press](#benchpress) activates the serratus substantially — the upper-trapezius-to-serratus ratio was **0.14** in a bench press against 0.39 in a push-up (Martins et al., 2008) — but no barbell press takes the blade through end-range protraction, and that range is the whole point of the "plus".
+
+## proneyraise
+*Exercises & Technique*
+
+**Prone Y raise (prone overhead arm raise)** — Lying face down and raising the arm overhead on a diagonal, thumb up, until it is in line with the torso. Formally: an [upward-rotation-loaded](#scapularloadclass) exercise performed prone on a flat or 30–45° inclined bench, with the arm raised on the diagonal that follows the line of the [lower trapezius](#lowertrapezius) fibres — well above shoulder height and closer to straight overhead than to straight out to the side. It produced **the greatest lower-trapezius activity of ten exercises tested**, and was joint-greatest for the [middle trapezius](#middletrapezius) (Ekstrom et al., 2003). Across six variations of it the lower trapezius ran 42–48% and the middle trapezius 63–66% of maximal contraction with **no significant difference between the variations**, while adding external-rotation resistance lowered [upper trapezius](#uppertrapezius) involvement and adding trunk extension raised it (Borms et al., 2022). It is a **position** exercise: loading it heavily converts it into a bent-over [lateral raise](#lateralraise).
+
 ## reversefly
 
 *Exercises & Technique*
@@ -19684,7 +21271,7 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 *Exercises & Technique*
 
-**Upright row** — Pulling a barbell or cable straight up the front of the body with the elbows leading. Formally: a multi-joint exercise combining [shoulder abduction](#shoulderabduction), [internal rotation](#internalrotation) and elbow flexion, with a mid-range-loaded [resistance profile](#resistanceprofile). **The narrow-grip version taken to chin height is the elevation-plus-internal-rotation combination this document declines to program** (Part V §E.4). A wide grip finishing at sternum height removes most of that combination and leaves an unremarkable raise with a large [trapezius](#trapezius) share (Part V §D.1).
+**Upright row** — Pulling a barbell or cable straight up the front of the body with the elbows leading. Formally: a multi-joint exercise combining [shoulder abduction](#shoulderabduction), [internal rotation](#internalrotation) and elbow flexion, with a mid-range-loaded [resistance profile](#resistanceprofile). **The narrow-grip version taken to chin height is the elevation-plus-internal-rotation combination this document declines to program** (Part V §E.4). A wide grip finishing at sternum height removes most of that combination and leaves an unremarkable raise with a large [trapezius](#trapezius) share (Part V §D.1). Grip width changed upper- and middle-trapezius activity **in the eccentric phase only** (McAllister et al., 2013), and the exercise was one of the five in the only programme ever shown to grow the trapezius (Andersen et al., 2014b).
 
 ## crunch
 
@@ -19828,6 +21415,21 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Distal clavicular osteolysis ("weightlifter's shoulder")** — Bone at the outer end of the collarbone breaking down under repeated compression, felt as a tender bump at the very top of the shoulder. Formally: stress-related resorption of subchondral bone at the lateral end of the [clavicle](#clavicle) at the [acromioclavicular joint](#acromioclavicularjoint), associated with repetitive compressive loading and characteristically aggravated by movements carrying the arm across the body. Modelled compression at that joint during a bench press rose as the hands moved further apart, and was lower at hand spacings under 1.5 [biacromial widths](#biacromialwidth) (Noteboom et al., 2024) — which makes hand spacing the first variable to change when this is suspected, and professional assessment the second.
 
+## scapulardyskinesis
+*Pathology & Clinical*
+
+**Scapular dyskinesis** — A shoulder blade judged by eye to move abnormally when the arm is raised. Formally: a visually classified alteration in scapular resting position or motion, most often graded by the Kibler method during weighted arm elevation. **Four findings decide how much weight it can carry.** Interrater reliability among 104 experienced physical therapists rating videos of **healthy** volunteers was **Fleiss' κ = 0.12**, and clinicians who rated the condition as more important were more likely to see it (odds ratio 1.42, 95% CI 1.14–1.76) (Vila-Dieguez et al., 2026). It was present in **28.7% of shoulders in asymptomatic professional basketball players**, none previously diagnosed (Paksoy et al., 2025). Its association with rotator-cuff-related shoulder pain in overhead athletes is graded **very low certainty** and described by the authors as association rather than causation (Leong et al., 2026), as is its association with chronic neck pain (Javdaneh et al., 2025). And scapular faults are simply easier to see than glenohumeral ones, which biases clinicians toward them (Elder & Powers, 2025). In fairness to the same basketball study, shoulders with pain in the previous twelve months did show a higher prevalence (6 of 10 against 25 of 98, p = 0.022), on a subgroup of ten. **Contested** — train normally and do not build a programme on it (Part XIII §E.4).
+
+## scapularwinging
+*Pathology & Clinical*
+
+**Scapular winging** — The inner edge or lower tip of the shoulder blade standing visibly off the ribcage. Formally: loss of the muscular apposition that holds the [scapula](#scapula) against the thorax, classified as **medial** — the inner border lifting, from [long thoracic nerve](#longthoracicnerve) failure and serratus anterior weakness, tested by pushing against a wall — or **lateral**, from [accessory nerve](#accessorynerve) failure and trapezius weakness, typically after neck surgery or lymph-node biopsy. It is one of the few presentations in this document that is **not** a technique fault: while the nerve is the limiting factor, no amount of scapular exercise will change it (Part XIII §A.7).
+
+## trapeziusmyalgia
+*Pathology & Clinical*
+
+**Trapezius myalgia** — Chronic aching and tenderness in the upper [trapezius](#trapezius), the commonest form of work-related neck pain. Formally: persistent myalgia of the descending trapezius associated with repetitive low-load occupational work. What is notable is what it is **not**: in 42 affected women against 20 matched controls, fibre-type distribution, fibre cross-sectional area and capillarization **did not differ**, while peak force, rate of force development and electromyographic amplitude were lower across 100 repeated maximal contractions (Andersen et al., 2014b); what differed was the location of an enzyme inside the fibre, which normalized after ten weeks of training (Jensen et al., 2015). Ten weeks of **specific strength training at 8–12RM** restored force to control levels and grew type II fibre area by 20%, while ten weeks of leg cycling did nothing — making this the one clinical claim in Part XIII resting on a randomized trial.
+
 ## distaltricepsrupture
 
 *Pathology & Clinical*
@@ -19876,16 +21478,16 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 ---
 
-# partxivbibliography
+# partxvbibliography
 
-**Part XIV — Bibliography**
+**Part XV — Bibliography**
 
-Every source cited in this document: **546 papers**, each with a DOI you can paste into a search box
+Every source cited in this document: **600 papers**, each with a DOI you can paste into a search box
 or a library request form — with nine exceptions, noted at their entries: eight for which no DOI was ever
 issued and a PubMed or PubMed Central identifier is given instead, and one master's thesis that has neither. Alphabetical by first author, so an in-text citation like
 *(Gerling & Brown, 2013)* is found by scanning for **Gerling**.
 
-**266 are open access** — free to read now. **280 are paywalled**; any university or public library can
+**291 are open access** — free to read now. **309 are paywalled**; any university or public library can
 obtain those through interlibrary loan at no cost, usually in a few days, and authors may legally
 share their own accepted manuscripts if you email them. Every DOI below was verified against
 Crossref, and open-access status against Unpaywall, at the time of writing.
@@ -19897,7 +21499,7 @@ discussion, the text says so at the claim itself — that context matters more t
 marks claims that could not be traced to a source we could read; they are flagged rather than quietly
 dropped. **Twenty-two of these papers measured the latissimus dorsi directly, twenty-eight measured the
 quadriceps femoris directly, thirty-eight measured a gluteal muscle directly, twenty-one measured a
-deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, twenty-nine measured a hamstring directly, thirty-one measured a pectoral muscle directly, at least seventy-six measured the triceps brachii or its tendon directly, at least ninety-two measured the erector spinae, the multifidus or the lumbar extensors directly, at least thirty-eight measured the biceps brachii, the brachialis or the elbow flexors as a group directly, and at least twenty-four measured the gastrocnemius, the soleus or the Achilles tendon directly**; the rest supply general training principles or the mechanical
+deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, twenty-nine measured a hamstring directly, thirty-one measured a pectoral muscle directly, at least seventy-six measured the triceps brachii or its tendon directly, at least ninety-two measured the erector spinae, the multifidus or the lumbar extensors directly, at least thirty-eight measured the biceps brachii, the brachialis or the elbow flexors as a group directly, at least twenty-four measured the gastrocnemius, the soleus or the Achilles tendon directly, and at least thirty-five measured the trapezius, the serratus anterior or another scapular muscle directly**; the rest supply general training principles or the mechanical
 framework. Where a paper's own research group has been
 the subject of a published data-integrity analysis, its entry says so. Where two or more papers by the same first author share a year, the bibliography entry
 records the `a`/`b`/`c` suffix used in the text.
@@ -19920,6 +21522,8 @@ Adkins AN, Dewald JPA, Garmirian LP, Nelson CM, Murray WM. Serial sarcomere numb
 
 Afonso J, Ramirez-Campillo R, Moscão J, Rocha T, Brandão A, Pereira J, et al. Strength Training versus Stretching for Improving Range of Motion: A Systematic Review and Meta-Analysis. Healthcare. 2021;9(4):427. doi:10.3390/healthcare9040427 · **open access**
 
+Afshar A, Tabrizi A, Shariyate MJ. Dorsal scapular nerve entrapment: a systematic review. JSES Reviews, Reports, and Techniques. 2026;6(4):100807. doi:10.1016/j.xrrt.2026.100807 · **open access**
+
 Agten A, Stevens S, Verbrugghe J, Eijnde BO, Timmermans A, Vandenabeele F. The lumbar multifidus is characterised by larger type I muscle fibres compared to the erector spinae. Anatomy & Cell Biology. 2020;53(2):143-150. doi:10.5115/acb.20.009 · **open access**
 
 Ahtiainen JP, Walker S, Peltonen H, Holviala J, Sillanpää E, Karavirta L, et al. Heterogeneity in resistance training-induced muscle strength and mass responses in men and women of different ages. Age. 2016;38(1):10. doi:10.1007/s11357-015-9870-1 · **open access**
@@ -19932,11 +21536,15 @@ Alonso-Fernández D, Fernández-Rodríguez R, Abalo-Núñez R. Changes in rectus
 
 Alves D, Matta T, Oliveira L. Effect of shoulder position on triceps brachii heads activity in dumbbell elbow extension exercises. The Journal of Sports Medicine and Physical Fitness. 2018;58(9):1247-1252. doi:10.23736/S0022-4707.17.06849-9 · *paywalled*
 
+Andersen CH, Zebis MK, Saervoll C, Sundstrup E, Jakobsen MD, Sjøgaard G, et al. Scapular Muscle Activity from Selected Strengthening Exercises Performed at Low and High Intensities. Journal of Strength and Conditioning Research. 2012;26(9):2408-2416. doi:10.1519/jsc.0b013e31823f8d24 · *paywalled*
+
+Andersen LL, Andersen CH, Skotte JH, Suetta C, Søgaard K, Saltin B, et al. High-Intensity Strength Training Improves Function of Chronically Painful Muscles: Case-Control and RCT Studies [cited as Andersen et al., 2014b]. BioMed Research International. 2014;2014:187324. doi:10.1155/2014/187324 · **open access**
+
 Andersen V, Fimland M, Saeterbakken A. Trunk Muscle Activity in One- and Two-Armed American Kettlebell Swing in Resistance-Trained Men. Sports Medicine International Open. 2019;3(1):E12-E18. doi:10.1055/a-0869-7228 · **open access**
 
 Andersen V, Fimland MS, Mo DA, Iversen VM, Vederhus T, Rockland Hellebø LR, et al. Electromyographic Comparison of Barbell Deadlift, Hex Bar Deadlift, and Hip Thrust Exercises: A Cross-Over Study. Journal of Strength and Conditioning Research. 2018;32(3):587-593. doi:10.1519/jsc.0000000000001826 · **open access**
 
-Andersen V, Fimland MS, Wiik E, Skoglund A, Saeterbakken AH. Effects of Grip Width on Muscle Strength and Activation in the Lat Pull-Down. Journal of Strength and Conditioning Research. 2014;28(4):1135-1142. doi:10.1097/JSC.0000000000000232 · *paywalled*
+Andersen V, Fimland MS, Wiik E, Skoglund A, Saeterbakken AH. Effects of Grip Width on Muscle Strength and Activation in the Lat Pull-Down [cited as Andersen et al., 2014a]. Journal of Strength and Conditioning Research. 2014;28(4):1135-1142. doi:10.1097/JSC.0000000000000232 · *paywalled*
 
 Androulakis-Korakakis P, Gentil P, Fisher JP, Steele J. Comparison of Isolated Lumbar Extension Strength in Competitive and Noncompetitive Powerlifters, and Recreationally Trained Men. Journal of Strength & Conditioning Research. 2021;35(3):652-658. doi:10.1519/jsc.0000000000002722 · *paywalled*
 
@@ -19980,6 +21588,8 @@ Bassett RW, Browne AO, Morrey BF, An KN. Glenohumeral muscle force and moment me
 
 Baz-Valle E, Schoenfeld BJ, Torres-Unda J, Santos-Concejero J, Balsalobre-Fernández C. The effects of exercise variation in muscle thickness, maximal strength and motivation in resistance trained men. PLOS ONE. 2019;14(12):e0226989. doi:10.1371/journal.pone.0226989 · **open access**
 
+Bearn JG. Direct observations on the function of the capsule of the sternoclavicular joint in clavicular support. Journal of Anatomy. 1967;101(Pt 1):159-170. PMID:6047697 — no DOI was ever issued · **open access**
+
 Behm DG, Drinkwater EJ, Willardson JM, Cowley PM. The use of instability to train the core musculature. Applied Physiology, Nutrition, and Metabolism. 2010;35(1):91-108. doi:10.1139/h09-127 · **open access**
 
 Belavý DL, Armbrecht G, Gast U, Richardson CA, Hides JA, Felsenberg D. Countermeasures against lumbar spine deconditioning in prolonged bed rest: resistive exercise with and without whole body vibration. Journal of Applied Physiology. 2010;109(6):1801-1811. doi:10.1152/japplphysiol.00707.2010 · **open access**
@@ -19987,6 +21597,10 @@ Belavý DL, Armbrecht G, Gast U, Richardson CA, Hides JA, Felsenberg D. Counterm
 Belavý DL, Armbrecht G, Richardson CA, Felsenberg D, Hides JA. Muscle Atrophy and Changes in Spinal Morphology. Spine. 2011;36(2):137-145. doi:10.1097/brs.0b013e3181cc93e8 · *paywalled*
 
 Bengtsson V, Aasa U, Öhberg F, Berglund L. Thoracolumbar And Lumbopelvic Spinal Alignment During The Deadlift Exercise: A Comparison Between Men And Women. International Journal of Sports Physical Therapy. 2022;17(6):1063-1074. doi:10.26603/001c.37859 · **open access**
+
+Berckmans K, Castelein B, Borms D, Palmans T, Parlevliet T, Cools A. Analysis of Scapular Kinematics and Muscle Activity by Use of Fine-Wire Electrodes During Shoulder Exercises. The American Journal of Sports Medicine. 2020;48(5):1213-1219. doi:10.1177/0363546520908604 · **open access**
+
+Berckmans KR, Castelein B, Borms D, Parlevliet T, Cools A. Rehabilitation Exercises for Dysfunction of the Scapula: Exploration of Muscle Activity Using Fine-Wire EMG. The American Journal of Sports Medicine. 2021;49(10):2729-2736. doi:10.1177/03635465211025002 · *paywalled*
 
 Bergmann G, Deuretzbacher G, Heller M, Graichen F, Rohlmann A, Strauss J, et al. Hip contact forces and gait patterns from routine activities. Journal of Biomechanics. 2001;34(7):859-871. doi:10.1016/S0021-9290(01)00040-9 · *paywalled*
 
@@ -20021,6 +21635,10 @@ Bogduk N, Wilson AS, Tynan W. The human lumbar dorsal rami. Journal of Anatomy. 
 Bogduk N. A reappraisal of the anatomy of the human lumbar erector spinae. Journal of Anatomy. 1980;131(Pt 3):525-540. PMID:7216917 — no DOI was ever issued · **open access**
 
 Bohannon RW. Shoulder Position Influences Elbow Extension Force in Healthy Individuals. Journal of Orthopaedic & Sports Physical Therapy. 1990;12(3):111-114. doi:10.2519/jospt.1990.12.3.111 · *paywalled*
+
+Bolsterlee B, Vardy AN, van der Helm FCT, Veeger HEJ. The effect of scaling physiological cross-sectional area on musculoskeletal model predictions. Journal of Biomechanics. 2015;48(10):1760-1768. doi:10.1016/j.jbiomech.2015.05.005 · *paywalled*
+
+Borms D, Maenhout A, Berckmans K, Spanhove V, Vanderstukken F, Cools A. Scapulothoracic muscle activity during kinetic chain variations of a prone elevation exercise. Brazilian Journal of Physical Therapy. 2022;26(3):100420. doi:10.1016/j.bjpt.2022.100420 · **open access**
 
 Bourne MN, Duhig SJ, Timmins RG, Williams MD, Opar DA, Al Najjar A, et al. Impact of the Nordic hamstring and hip extension exercises on hamstring architecture and morphology: implications for injury prevention [cited as Bourne et al., 2017a]. British Journal of Sports Medicine. 2017;51(5):469-477. doi:10.1136/bjsports-2016-096130 · **open access** — a correction was published in 2019 (doi:10.1136/bjsports-2016-096130corr1).
 
@@ -20076,6 +21694,8 @@ Chen Z, Franklin DW. Muscle Moment Arm–Joint Angle Relations in the Hip, Knee,
 
 Cherni B, Marzouki H, Selmi O, Attar WA, Chamari K, Suzuki K. Beyond the Neutral Spine: A Narrative Review and Modern Framework for Low Back Injury Prevention in Deadlifting. Sports. 2026;14(4):151. doi:10.3390/sports14040151 · **open access**
 
+Cho J, Lee K, Kim M, Hahn J, Lee W. The Effects of Double Oscillation Exercise Combined with Elastic Band Exercise on Scapular Stabilizing Muscle Strength and Thickness in Healthy Young Individuals: A Randomized Controlled Pilot Trial. Journal of Sports Science and Medicine. 2018;17(1):7-16. PMID:29535573 — no DOI was ever issued · **open access**
+
 Cholewicki J, Juluru K, McGill SM. Intra-abdominal pressure mechanism for stabilizing the lumbar spine. Journal of Biomechanics. 1999;32(1):13-17. doi:10.1016/S0021-9290(98)00129-8 · **open access**
 
 Cholewicki J, McGill SM, Norman RW. Lumbar spine loads during the lifting of extremely heavy weights. Medicine & Science in Sports & Exercise. 1991;23(10):1179-1186. doi:10.1249/00005768-199110000-00012 · *paywalled*
@@ -20085,6 +21705,8 @@ Cholewicki J, McGill SM. Lumbar posterior ligament involvement during extremely 
 Chumanov ES, Heiderscheit BC, Thelen DG. Hamstring Musculotendon Dynamics during Stance and Swing Phases of High-Speed Running. Medicine & Science in Sports & Exercise. 2011;43(3):525-532. doi:10.1249/MSS.0b013e3181f23fe8 · **open access**
 
 Cidrais M, Teodósio C, Correia JM, Vila-Chã C, Pezarat-Correia P, Bruno PM, et al. Adaptation of Muscles With Different Physiological Properties to Resistance Training With and Without Bloodflow Restriction. Sports Health: A Multidisciplinary Approach. 2026;:19417381261459244. doi:10.1177/19417381261459244 · **open access**
+
+Cobanoglu G, Demirkan MY, Ecemis ZB, Karatas N, Guzel NA. Trapezius Muscle Activity During Bilateral Scapular Retraction With Shoulder External Rotation: Incorporation of Kinetic Chain and Surface. Journal of Strength & Conditioning Research. 2026;:. doi:10.1519/jsc.0000000000005631 · *paywalled*
 
 Collings TJ, Bourne MN, Barrett RS, Meinders E, Gonçalves B, Shield AJ, et al. Reconsidering Exercise Selection with EMG: Poor Agreement between Ranking Hip Exercises with Gluteal EMG and Muscle Force. Medicine & Science in Sports & Exercise. 2025;57(9):1829-1837. doi:10.1249/MSS.0000000000003733 · *paywalled*
 
@@ -20162,6 +21784,8 @@ Donkers MJ, An KN, Chao EYS, Morrey BF. Hand position affects elbow joint load d
 
 Dorado C, Calbet JAL, Lopez-Gordillo A, Alayon S, Sanchis-Moysi J. Marked Effects of Pilates on the Abdominal Muscles: A Longitudinal Magnetic Resonance Imaging Study. Medicine & Science in Sports & Exercise. 2012;44(8):1589-1594. doi:10.1249/MSS.0b013e31824fb6ae · *paywalled*
 
+Dos Anjos FV, Cabral HV, de Oliveira Silva A, Vieira TM, de Oliveira LF. Assessing the Feasibility of EMG Biofeedback to Reduce the Upper Trapezius Muscle Excitation during a Seated Row Exercise, a Non-randomized Comparative Study. Applied Psychophysiology and Biofeedback. 2024;49(4):577-587. doi:10.1007/s10484-024-09657-y · *paywalled*
+
 Downie A, Williams CM, Henschke N, Hancock MJ, Ostelo RWJG, de Vet HCW, et al. Red flags to screen for malignancy and fracture in patients with low back pain: systematic review. BMJ. 2013;347:f7095. doi:10.1136/bmj.f7095 · **open access**
 
 Dreischarf M, Rohlmann A, Graichen F, Bergmann G, Schmidt H. In vivo loads on a vertebral body replacement during different lifting techniques. Journal of Biomechanics. 2016;49(6):890-895. doi:10.1016/j.jbiomech.2015.09.034 · *paywalled*
@@ -20171,6 +21795,12 @@ Earp JE, Newton RU, Cormie P, Blazevich AJ. Inhomogeneous Quadriceps Femoris Hyp
 Edinborough L, Fisher JP, Steele J. A Comparison of the Effect of Kettlebell Swings and Isolated Lumbar Extension Training on Acute Torque Production of the Lumbar Extensors. Journal of Strength and Conditioning Research. 2016;30(5):1189-1195. doi:10.1519/jsc.0000000000001215 · *paywalled*
 
 Ekstrand J, Hägglund M, Waldén M. Epidemiology of Muscle Injuries in Professional Football (Soccer). The American Journal of Sports Medicine. 2011;39(6):1226-1232. doi:10.1177/0363546510395879 · **open access**
+
+Ekstrom RA, Donatelli RA, Soderberg GL. Surface Electromyographic Analysis of Exercises for the Trapezius and Serratus Anterior Muscles. Journal of Orthopaedic & Sports Physical Therapy. 2003;33(5):247-258. doi:10.2519/jospt.2003.33.5.247 · *paywalled*
+
+Ekstrom RA, Soderberg GL, Donatelli RA. Normalization procedures using maximum voluntary isometric contractions for the serratus anterior and trapezius muscles during surface EMG analysis. Journal of Electromyography and Kinesiology. 2005;15(4):418-428. doi:10.1016/j.jelekin.2004.09.006 · *paywalled*
+
+Elder A, Powers CM. Scapular Stabilization for Shoulder Pain: Putting the Cart Before the Horse?. International Journal of Sports Physical Therapy. 2025;20(2):275-282. doi:10.26603/001c.128049 · **open access**
 
 ElMaraghy AW, Devereaux MW. A systematic review and comprehensive classification of pectoralis major tears. Journal of Shoulder and Elbow Surgery. 2012;21(3):412-422. doi:10.1016/j.jse.2011.04.035 · *paywalled*
 
@@ -20208,7 +21838,11 @@ Faux-Dugan L, Piazza SJ. Correlations between Achilles tendon moment arm and pla
 
 Fenwick CMJ, Brown SHM, McGill SM. Comparison of Different Rowing Exercises: Trunk Muscle Activation and Lumbar Spine Motion, Load, and Stiffness. Journal of Strength and Conditioning Research. 2009;23(5):1408-1417. doi:10.1519/JSC.0b013e3181b07334 · *paywalled*
 
-Fischer J, Burger C, Manieu Seguel JA, Rodoplu C, Paternoster FK, Tilp M, et al. Acute muscle excitation response across various bench press ranges of motion. Scientific Reports. 2025;15(1):14105. doi:10.1038/s41598-025-98354-9 · **open access**
+Fernández-Matías R, Ballesteros-Frutos J, Gallardo-Zamora P, Requejo-Salinas N, Caballero-Pozo I, Ludewig P, et al. Scapular kinematics variability in individuals with and without rotator cuff-related shoulder pain: A systematic review with multilevel meta-regression. Brazilian Journal of Physical Therapy. 2025;29(6):101261. doi:10.1016/j.bjpt.2025.101261 · **open access**
+
+Fischer J, Burger C, Manieu Seguel JA, Rodoplu C, Paternoster FK, Tilp M, et al. Acute muscle excitation response across various bench press ranges of motion [cited as Fischer et al., 2025a]. Scientific Reports. 2025;15(1):14105. doi:10.1038/s41598-025-98354-9 · **open access**
+
+Fischer J, Burger C, Seguel JM, Rodoplu C, Paternoster FK, Tilp M, et al. Impact of different ranges of motion in the prone barbell row on muscle excitation [cited as Fischer et al., 2025b]. Journal of Electromyography and Kinesiology. 2025;83:103025. doi:10.1016/j.jelekin.2025.103025 · **open access**
 
 Fisher J, Bruce-Low S, Smith D. A randomized trial to consider the effect of Romanian deadlift exercise on the development of lumbar extension strength. Physical Therapy in Sport. 2013;14(3):139-145. doi:10.1016/j.ptsp.2012.04.001 · *paywalled*
 
@@ -20241,6 +21875,12 @@ Gentil P, Soares SR, Pereira MC, Cunha RR, Martorelli SS, Martorelli AS, et al. 
 Gerling ME, Brown SHM. Architectural analysis and predicted functional capability of the human latissimus dorsi muscle. Journal of Anatomy. 2013;223(2):112-122. doi:10.1111/joa.12074 · **open access**
 
 Gibbons LE, Videman T, Battié MC, Kaprio J. Determinants of Paraspinal Muscle Cross-sectional Area in Male Monozygotic Twins. Physical Therapy. 1998;78(6):602-610. doi:10.1093/ptj/78.6.602 · **open access**
+
+Ginn KA, Cools A, Halaki M. Do surface electrodes validly represent lower trapezius activation patterns during shoulder tasks?. Journal of Electromyography and Kinesiology. 2020;53:102427. doi:10.1016/j.jelekin.2020.102427 · *paywalled*
+
+Ginn KA, Halaki M. Do surface electrode recordings validly represent latissimus dorsi activation patterns during shoulder tasks? Journal of Electromyography and Kinesiology. 2015;25(1):8-13. doi:10.1016/j.jelekin.2014.10.008 · *paywalled*
+
+Go SU, Lee BH. Effects of scapular stability exercise on shoulder stability and rehabilitative ultrasound images in office workers. Journal of Physical Therapy Science. 2016;28(11):2999-3002. doi:10.1589/jpts.28.2999 · **open access**
 
 Goli A, Attarieh P, Nunes JP, Nehegadar S, Khani S, Fashi M, et al. Does Performing Partial Repetitions Beyond Momentary Failure Enhance Muscle Hypertrophy in Volume-Load-Equated Calf-Raise Resistance Training. International Journal of Exercise Science. 2026;19(4):. doi:10.70252/ijes2026403 · **open access**
 
@@ -20281,6 +21921,8 @@ Gullett JC, Tillman MD, Gutierrez GM, Chow JW. A Biomechanical Comparison of Bac
 Gundersen AH, Krosshaug T, Mausehund L, van den Tillaar R, Larsen S. The impact of grip width on kinetics and kinematics in the shoulder press among resistance-trained men. Sports Biomechanics. 2026;25(6):841-854. doi:10.1080/14763141.2025.2590028 · **open access**
 
 Gundersen AH, van den Tillaar R, Falch H, Larsen S. A comparison of spinal and lower extremity biomechanics during maximal and sub-maximal deadlifts among strength-trained women. PeerJ. 2025;13:e20279. doi:10.7717/peerj.20279 · **open access**
+
+Hackett L, Reed D, Halaki M, Ginn KA. Assessing the validity of surface electromyography for recording muscle activation patterns from serratus anterior. Journal of Electromyography and Kinesiology. 2014;24(2):221-227. doi:10.1016/j.jelekin.2014.01.007 · *paywalled*
 
 Häggmark T, Thorstensson A. Fibre types in human abdominal muscles. Acta Physiologica Scandinavica. 1979;107(4):319-325. doi:10.1111/j.1748-1716.1979.tb06482.x · *paywalled*
 
@@ -20328,6 +21970,8 @@ Hoch A, Dimitriou D, Wolf-Wettstein J, Rosner J, Schubert M, Aguirre J, et al. T
 
 Holt JA, Macias BR, Schneider SM, Watenpaugh DE, Lee SMC, Chang DG, et al. WISE 2005: Aerobic and resistive countermeasures prevent paraspinal muscle deconditioning during 60-day bed rest in women. Journal of Applied Physiology. 2016;120(10):1215-1222. doi:10.1152/japplphysiol.00532.2015 · **open access**
 
+Holtermann A, Roeleveld K, Mork PJ, Grönlund C, Karlsson JS, Andersen LL, et al. Selective activation of neuromuscular compartments within the human trapezius muscle. Journal of Electromyography and Kinesiology. 2009;19(5):896-902. doi:10.1016/j.jelekin.2008.04.016 · *paywalled*
+
 Holzbaur KRS, Delp SL, Gold GE, Murray WM. Moment-generating capacity of upper limb muscles in healthy adults [cited as Holzbaur et al., 2007b]. Journal of Biomechanics. 2007;40(11):2442-2449. doi:10.1016/j.jbiomech.2006.11.013 · *paywalled*
 
 Holzbaur KRS, Murray WM, Gold GE, Delp SL. Upper limb muscle volumes in adult subjects [cited as Holzbaur et al., 2007a]. Journal of Biomechanics. 2007;40(4):742-749. doi:10.1016/j.jbiomech.2006.11.011 · *paywalled*
@@ -20352,6 +21996,12 @@ Iwai K, Koyama K, Okada T, Nakazato K, Takahashi R, Matsumoto S, et al. Asymmetr
 
 Jaschke M, Rekawek K, Sokolowski S, Kolodziej L. Distal biceps tendon rupture: a comprehensive overview. EFORT Open Reviews. 2023;8(11):865-873. doi:10.1530/eor-23-0035 · **open access**
 
+Javdaneh N, Barati A, Shojaedin S, Mirzaei RM. Is chronic neck pain related to scapular dyskinesia? A systematic review. BMC Musculoskeletal Disorders. 2025;26(1):585. doi:10.1186/s12891-025-08916-1 · **open access**
+
+Jensen L, Andersen LL, Schrøder HD, Frandsen U, Sjøgaard G. Neuronal Nitric Oxide Synthase Is Dislocated in Type I Fibers of Myalgic Muscle but Can Recover with Physical Exercise Training. BioMed Research International. 2015;2015:265278. doi:10.1155/2015/265278 · **open access**
+
+Johnson G, Bogduk N, Nowitzke A, House D. Anatomy and actions of the trapezius muscle. Clinical Biomechanics. 1994;9(1):44-50. doi:10.1016/0268-0033(94)90057-4 · *paywalled*
+
 Johnson MA, Polgar J, Weightman D, Appleton D. Data on the distribution of fibre types in thirty-six human muscles: An autopsy study. Journal of the Neurological Sciences. 1973;18(1):111-129. doi:10.1016/0022-510X(73)90023-3 · *paywalled*
 
 Jorgensen MJ, Marras WS, Granata KP, Wiand JW. MRI-derived moment-arms of the female and male spine loading muscles. Clinical Biomechanics. 2001;16(3):182-193. doi:10.1016/S0268-0033(00)00087-5 · *paywalled*
@@ -20360,7 +22010,17 @@ Jorgensen MJ, Marras WS, Gupta P, Waters TR. Effect of torso flexion on the lumb
 
 Jorgensen MJ, Marras WS, Smith FW, Pope MH. Sagittal plane moment arms of the female lumbar region rectus abdominis in an upright neutral torso posture [cited as Jorgensen et al., 2005]. Clinical Biomechanics. 2005;20(3):242-246. doi:10.1016/j.clinbiomech.2004.10.009 · *paywalled*
 
+Jung EY, Roh SY, Mun WL. Electromyographic Patterns of Scapular Muscles During Four Variations of Protraction–Retraction Exercises. Life. 2025;15(12):1840. doi:10.3390/life15121840 · **open access**
+
+Kadi F, Ahlgren C, Waling K, Sundelin G, Thornell LE. The effects of different training programs on the trapezius muscle of women with work-related neck and shoulder myalgia [cited as Kadi et al., 2000a]. Acta Neuropathologica. 2000;100(3):253-258. doi:10.1007/s004019900174 · *paywalled*
+
+Kadi F, Eriksson A, Holmner S, Butler-Browne GS, Thornell LE. Cellular adaptation of the trapezius muscle in strength-trained athletes. Histochemistry and Cell Biology. 1999;111(3):189-195. doi:10.1007/s004180050348 · *paywalled*
+
+Kadi F, Thornell LE. Concomitant increases in myonuclear and satellite cell content in female trapezius muscle following strength training [cited as Kadi & Thornell, 2000b]. Histochemistry and Cell Biology. 2000;113(2):99-103. doi:10.1007/s004180050012 · *paywalled*
+
 Kalli I, Niglas M, Naeini MK, Freidin M, Thomas L, Menni C, et al. Paraspinal muscle quality in chronic low back pain: a systematic review and meta-analysis of muscle atrophy and fat infiltration. European Spine Journal. 2026;35(5):2693-2711. doi:10.1007/s00586-025-09454-z · **open access**
+
+Kang FJ, Ou HL, Lin KY, Lin JJ. Serratus Anterior and Upper Trapezius Electromyographic Analysis of the Push-Up Plus Exercise: A Systematic Review and Meta-Analysis. Journal of Athletic Training. 2019;54(11):1156-1164. doi:10.4085/1062-6050-237-18 · **open access**
 
 Käser L, Mannion AF, Rhyner A, Weber E, Dvorak J, Müntener M. Active Therapy for Chronic Low Back Pain: Part 2. Effects on Paraspinal Muscle Cross-Sectional Area, Fiber Type Size, and Distribution. Spine. 2001;26(8):909-919. doi:10.1097/00007632-200104150-00014 · *paywalled*
 
@@ -20409,6 +22069,8 @@ Kingma I, Faber GS, Suwarganda EK, Bruijnen TBM, Peters RJA, van Dieën JH. Effe
 Kinoshita M, Maeo S, Kobayashi Y, Eihara Y, Ono M, Sato M, et al. Triceps surae muscle hypertrophy is greater after standing versus seated calf-raise training. Frontiers in Physiology. 2023;14:1272106. doi:10.3389/fphys.2023.1272106 · **open access**
 
 Kircher K, Chaudry O, Nagel AM, Ghasemikaram M, Uder M, Jakob F, et al. Effects of high-intensity training on fatty infiltration in paraspinal muscles in elderly males with osteosarcopenia – the randomized controlled FrOST study. BMC Geriatrics. 2024;24(1):141. doi:10.1186/s12877-024-04736-5 · **open access**
+
+Klein Breteler MD, Spoor CW, Van der Helm FCT. Measuring muscle and joint geometry parameters of a shoulder for modeling purposes. Journal of Biomechanics. 1999;32(11):1191-1197. doi:10.1016/s0021-9290(99)00122-0 · *paywalled*
 
 Kliziene I, Sipaviciene S, Klizas S, Imbrasiene D. Effects of core stability exercises on multifidus muscles in healthy women and women with chronic low-back pain. Journal of Back and Musculoskeletal Rehabilitation. 2015;28(4):841-847. doi:10.3233/bmr-150596 · *paywalled*
 
@@ -20490,6 +22152,10 @@ Lawrence MA, Swanson BT, Silfies SP, Winchester JB. Activation of the deep lumba
 
 Lee E, Stillson QA, Seidel HD, Bhattacharjee S, Koh JL, Strelzow JA, et al. Surgical Outcomes, Trends, and Risk Factors of Distal Triceps Repairs. HAND. 2023;18(8):1300-1306. doi:10.1177/15589447221095114 · **open access**
 
+Lee ECS, Young NM, Lawrence RL, Rainbow MJ. Scapular kinematics and task specificity: The effect of load direction. Journal of Biomechanics. 2025;191:112932. doi:10.1016/j.jbiomech.2025.112932 · **open access**
+
+Lee JH, Cynn HS, Choi WJ, Jeong HJ, Yoon TL. Various shrug exercises can change scapular kinematics and scapular rotator muscle activities in subjects with scapular downward rotation syndrome. Human Movement Science. 2016;45:119-129. doi:10.1016/j.humov.2015.11.016 · *paywalled*
+
 Lee PM, Underhill J, Nishida C, Agonias K, Levine SB, Obana KK, et al. A National Evaluation of Upper Extremity Weightlifting Injury Surveillance: The High Risk in Youth and Adults With an Underutilization in Older Adults. Orthopaedic Journal of Sports Medicine. 2026;14(1):23259671251387730. doi:10.1177/23259671251387730 · **open access**
 
 Lees MJ, McLeod JC, Morton RW, Fatouros IG, Phillips SM, et al. Resistance training load does not determine resistance training-induced hypertrophy across upper and lower limbs in healthy young males. The Journal of Physiology. 2025. doi:10.1113/JP289684 · **open access**
@@ -20498,11 +22164,17 @@ Lehman GJ. The Influence of Grip Width and Forearm Pronation/Supination on Upper
 
 Leitão BFM, Albarello JCS, Halmenschlager GH, de Salles BF, Matta TT. Exercise selection plays an important role in inducing non-uniform acute responses on elbow flexors muscle thickness. Journal of Bodywork and Movement Therapies. 2024;40:1097-1101. doi:10.1016/j.jbmt.2024.07.028 · *paywalled*
 
+Leong HT, Liang P, Feng Y, Long Y, Ho CYC. Altered Scapulothoracic Muscle Activity in Overhead Athletes with Rotator Cuff-Related Shoulder Pain: A Systematic Review and Meta-Analysis. American Journal of Physical Medicine & Rehabilitation. 2026;:. doi:10.1097/phm.0000000000003112 · *paywalled*
+
 Lescher S, Bender B, Eifler R, Haas F, Gruber K, Felber S. Isometric Non-Machine-Based Prevention Training Program: Effects on the Cross-Sectional Area of the Paravertebral Muscles on Magnetic Resonance Imaging. Clinical Neuroradiology. 2011;21(4):217-222. doi:10.1007/s00062-011-0104-3 · *paywalled*
+
+Liao CN, Fan CH, Hsu WH, Chang CF, Yu PA, Kuo LT, et al. Twelve-Week Lower Trapezius-Centred Muscular Training Regimen in University Archers. Healthcare. 2022;10(1):171. doi:10.3390/healthcare10010171 · **open access** — a correction to the ethics-approval number was published in 2022 (doi:10.3390/healthcare10020378).
 
 Lieberman DE, Raichlen DA, Pontzer H, Bramble DM, Cutright-Smith E. The human gluteus maximus and its role in running. Journal of Experimental Biology. 2006;209(11):2143-2155. doi:10.1242/jeb.02255 · **open access**
 
 Lievens E, Van Vossel K, Van de Casteele F, Wezenbeek E, Deprez D, Matthys S, et al. Muscle Fibre Typology as a Novel Risk Factor for Hamstring Strain Injuries in Professional Football (Soccer): A Prospective Cohort Study. Sports Medicine. 2022;52(1):177-185. doi:10.1007/s40279-021-01538-2 · **open access**
+
+Lindman R, Eriksson A, Thornell LE. Fiber type composition of the human female trapezius muscle: Enzyme-histochemical characteristics. American Journal of Anatomy. 1991;190(4):385-392. doi:10.1002/aja.1001900406 · *paywalled*
 
 Liu J, Teng HL, Selkowitz DM, Asavasopon S, Powers CM. Influence of hip and knee positions on gluteus maximus and hamstrings contributions to hip extension torque production. Physiotherapy Theory and Practice. 2022;38(13):2650-2657. doi:10.1080/09593985.2021.1975338 · *paywalled*
 
@@ -20521,6 +22193,8 @@ Macintosh JE, Bogduk N. 1987 Volvo Award in Basic Science: The Morphology of the
 Macintosh JE, Pearcy MJ, Bogduk N. The axial torque of the lumbar back muscles: torsion strength of the back muscles [cited as Macintosh et al., 1993a]. Australian and New Zealand Journal of Surgery. 1993;63(3):205-212. doi:10.1111/j.1445-2197.1993.tb00520.x · *paywalled*
 
 Macintosh JE, Valencia F, Bogduk N, Munro RR. The morphology of the human lumbar multifidus. Clinical Biomechanics. 1986;1(4):196-204. doi:10.1016/0268-0033(86)90146-4 · *paywalled*
+
+Mackey AL, Andersen LL, Frandsen U, Sjøgaard G. Strength training increases the size of the satellite cell pool in type I and II fibres of chronically painful trapezius muscle in females. The Journal of Physiology. 2011;589(22):5503-5515. doi:10.1113/jphysiol.2011.217885 · **open access**
 
 Madsen M, Marx RG, Millett PJ, Rodeo SA, Sperling JW, Warren RF. Surgical Anatomy of the Triceps Brachii Tendon. The American Journal of Sports Medicine. 2006;34(11):1839-1843. doi:10.1177/0363546506288752 · *paywalled*
 
@@ -20552,6 +22226,8 @@ Martín-San Agustín R, Castillo-Ballesta L, Esbri-Navarro R, Garvín JH. Compar
 
 Martínez-Cava A, Hernández-Belmonte A, Courel-Ibáñez J, Morán-Navarro R, González-Badillo JJ, Pallarés JG. Bench Press at Full Range of Motion Produces Greater Neuromuscular Adaptations Than Partial Executions After Prolonged Resistance Training. Journal of Strength and Conditioning Research. 2022;36(1):10-15. doi:10.1519/JSC.0000000000003391 · *paywalled*
 
+Martins J, Tucci HT, Andrade R, Araújo RC, Bevilaqua-Grossi D, Oliveira AS. Electromyographic Amplitude Ratio of Serratus Anterior and Upper Trapezius Muscles During Modified Push-Ups and Bench Press Exercises. Journal of Strength and Conditioning Research. 2008;22(2):477-484. doi:10.1519/jsc.0b013e3181660748 · *paywalled*
+
 Masaki M, Ji X, Yamauchi T, Tateuchi H, Ichihashi N. Effects of the trunk position on muscle stiffness that reflects elongation of the lumbar erector spinae and multifidus muscles: an ultrasonic shear wave elastography study. European Journal of Applied Physiology. 2019;119(5):1085-1091. doi:10.1007/s00421-019-04098-6 · **open access**
 
 Matta T, Simão R, de Salles BF, Spineti J, Oliveira LF. Strength Training's Chronic Effects on Muscle Architecture Parameters of Different Arm Sites. Journal of Strength and Conditioning Research. 2011;25(6):1711-1717. doi:10.1519/JSC.0b013e3181dba162 · *paywalled*
@@ -20568,7 +22244,11 @@ Mayer JM, Udermann BE, Graves JE, Ploutz-Snyder LL. Effect of Roman Chair Exerci
 
 Mayer JM, Verna JL, Manini TM, Mooney V, Graves JE. Electromyographic activity of the trunk extensor muscles: Effect of varying hip position and lumbar posture during Roman chair exercise [cited as Mayer et al., 2002b]. Archives of Physical Medicine and Rehabilitation. 2002;83(11):1543-1546. doi:10.1053/apmr.2002.35103 · *paywalled*
 
+McAllister MJ, Schilling BK, Hammond KG, Weiss LW, Farney TM. Effect of Grip Width on Electromyographic Activity During the Upright Row. Journal of Strength and Conditioning Research. 2013;27(1):181-187. doi:10.1519/jsc.0b013e31824f23ad · *paywalled*
+
 McBride S, Isabelle PL, Gómez-Carrión Á, Farahpour N, Chicoine D, Griffiths I, et al. International normative values for the weight-bearing lunge test across age and sex in 899 healthy adults. Musculoskeletal Science and Practice. 2026;82:103525. doi:10.1016/j.msksp.2026.103525 · **open access**
+
+McClure PW, Michener LA, Sennett BJ, Karduna AR. Direct 3-dimensional measurement of scapular kinematics during dynamic movements in vivo. Journal of Shoulder and Elbow Surgery. 2001;10(3):269-277. doi:10.1067/mse.2001.112954 · *paywalled*
 
 McCurdy K, Walker J, Yuen D. Gluteus Maximus and Hamstring Activation During Selected Weight-Bearing Resistance Exercises. Journal of Strength and Conditioning Research. 2018;32(3):594-601. doi:10.1519/JSC.0000000000001893 · *paywalled*
 
@@ -20626,6 +22306,8 @@ Muyor JM, Martín-Fuentes I, Rodríguez-Ridao D, Antequera-Vique JA. Electromyog
 
 Muyor JM, Rodríguez-Ridao D, Oliva-Lozano JM. Comparison of Muscle Activity between the Horizontal Bench Press and the Seated Chest Press Exercises Using Several Grips. Journal of Human Kinetics. 2023;87:23-34. doi:10.5114/jhk/161468 · **open access**
 
+Nagao H, Ishii Y. Characteristics of the Shrug Motion and Trapezius Muscle Activity During the Power Clean. Journal of Strength & Conditioning Research. 2021;35(12):3288-3295. doi:10.1519/jsc.0000000000003355 · *paywalled*
+
 Nakagawa Y, Mukai S, Miyata M, Minami K, Hattori Y, Yamagishi H. Radiological Findings of the Lumbar Spine in High School and Collegiate Sumo Wrestlers. Orthopaedic Journal of Sports Medicine. 2023;11(11):23259671231206712. doi:10.1177/23259671231206712 · **open access**
 
 Negrão JR, Mogami R, Ramirez Ruiz FA, Wagner FV, Haghighi P, Ward SR, et al. Distal insertional anatomy of the triceps brachii muscle: MRI assessment in cadaveric specimens employing histologic correlation and Play-doh® models of the anatomic findings. Skeletal Radiology. 2020;49(7):1057-1067. doi:10.1007/s00256-020-03382-3 · *paywalled*
@@ -20639,6 +22321,8 @@ Neto WK, Soares EG, Vieira TL, Aguiar R, Chola TA, Sampaio VL, et al. Gluteus Ma
 Neumann DA. Kinesiology of the Hip: A Focus on Muscular Actions. Journal of Orthopaedic & Sports Physical Therapy. 2010;40(2):82-94. doi:10.2519/jospt.2010.3025 · *paywalled*
 
 Nicolozakes CP, Schmulewitz JS, Ludvig D, Baillargeon EM, Danziger MS, Seitz AL, et al. Muscles Functioning as Primary Shoulder Movers Aid the Rotator Cuff Muscles in Increasing Active Glenohumeral Stiffness. Annals of Biomedical Engineering. 2025;53(6):1328-1343. doi:10.1007/s10439-025-03683-5 · **open access**
+
+Nielsen PK, Andersen LL, Olsen HB, Rosendal L, Sjøgaard G, Søgaard K. Effect of physical training on pain sensitivity and trapezius muscle morphology. Muscle & Nerve. 2010;41(6):836-844. doi:10.1002/mus.21577 · *paywalled*
 
 Niinimäki S, Härkönen L, Nikander R, Abe S, Knüsel C, Sievänen H. The cross-sectional area of the gluteus maximus muscle varies according to habitual exercise loading: Implications for activity-related and evolutionary studies. HOMO. 2016;67(2):125-137. doi:10.1016/j.jchb.2015.06.005 · *paywalled*
 
@@ -20674,11 +22358,17 @@ Otsuka M, Honjo T, Nagano A, Isaka T. Kinetics in lumbosacral and lower-limb joi
 
 Owen PJ, Miller CT, Mundell NL, Verswijveren SJJM, Tagliaferri SD, Brisby H, et al. Which specific modes of exercise training are most effective for treating low back pain? Network meta-analysis. British Journal of Sports Medicine. 2020;54(21):1279-1287. doi:10.1136/bjsports-2019-100886 · **open access** — *an expression of concern was issued in 2020 and subsequently rescinded by the journal, which stated the analysis required no changes*
 
+Padovan R, Cè E, Longo S, Tornatore G, Esposito F, Coratella G. High-Density Surface Electromyography Excitation of Prime Movers Across Scapular Positions in the Seated Row. Journal of Functional Morphology and Kinesiology. 2025;11(1):6. doi:10.3390/jfmk11010006 · **open access**
+
 Padovan R, Toninelli N, Longo S, et al. High-Density Electromyography Excitation in Front vs. Back Lat Pull-Down Prime Movers. Journal of Human Kinetics. 2024;91:47-60. doi:10.5114/jhk/185211 · **open access**
+
+Padovan R, Toninelli N, Longo S, Tornatore G, Esposito F, Cè E, et al. High-Density Surface Electromyography Excitation in Front vs. Back Overhead Press Prime Movers. Journal of Human Kinetics. 2026;103:81-96. doi:10.5114/jhk/205466 · **open access**
 
 Pagan-Rosado R, Kindle B, Onishi K, et al. Ultrasound Imaging Protocol for Latissimus Dorsi and Teres Major in Overhead Athletes. Journal of Ultrasound in Medicine. 2025;44(5):945-954. doi:10.1002/jum.16654 · **open access**
 
 Paksoy A, Akgün D, Gebauer H, et al. The latissimus dorsi creates a dynamic track for the inferior angle of the scapula during arm abduction in humans. Journal of Orthopaedic Surgery and Research. 2024;19(1):193. doi:10.1186/s13018-024-04659-2 · **open access**
+
+Paksoy A, Akgün D, Pawelke J, Eckl L, Mavi A, Uzun S, et al. Scapular dyskinesis is common among asymptomatic European basketball players at the professional level. Knee Surgery, Sports Traumatology, Arthroscopy. 2025;33(12):4353-4363. doi:10.1002/ksa.70060 · **open access**
 
 Pallarés JG, Hernández-Belmonte A, Martínez-Cava A, Vetrovsky T, Steffl M, Courel-Ibáñez J. Effects of range of motion on resistance training adaptations: A systematic review and meta-analysis. Scandinavian Journal of Medicine & Science in Sports. 2021;31(10):1866-1881. doi:10.1111/sms.14006 · **open access**
 
@@ -20691,6 +22381,8 @@ Paoli A, Pacelli QF, Cancellara P, Toniolo L, Moro T, Canato M, et al. Myosin Is
 Paoli A, Pacelli QF, Cancellara P, Toniolo L, Moro T, Canato M, et al. Protein Supplementation Does Not Further Increase Latissimus Dorsi Muscle Fiber Hypertrophy after Eight Weeks of Resistance Training in Novice Subjects, but Partially Counteracts the Fast-to-Slow Muscle Fiber Transition. Nutrients. 2016;8(6):331. doi:10.3390/nu8060331 · **open access**
 
 Park KH, Kang MH, Kim TH, An DH, Oh JS. Selective recruitment of the thoracic erector spinae during prone trunk-extension exercise. Journal of Back and Musculoskeletal Rehabilitation. 2015;28(4):789-795. doi:10.3233/bmr-150586 · *paywalled*
+
+Park SH, Lee MM. Effects of Lower Trapezius Strengthening Exercises on Pain, Dysfunction, Posture Alignment, Muscle Thickness and Contraction Rate in Patients with Neck Pain; Randomized Controlled Trial. Medical Science Monitor. 2020;26:e920208. doi:10.12659/msm.920208 · **open access**
 
 Park SY, Yoo WG. Differential activation of parts of the latissimus dorsi with various isometric shoulder exercises. Journal of Electromyography and Kinesiology. 2014;24(2):253-257. doi:10.1016/j.jelekin.2013.12.004 · *paywalled*
 
@@ -20720,6 +22412,8 @@ Pinto MD, Ughini C, Nunes JP, Cadore EL, Pinto RS. Pectoralis Clavicular and Ste
 
 Pinto RS, Gomes N, Radaelli R, Botton CE, Brown LE, Bottaro M. Effect of Range of Motion on Muscle Strength and Thickness. Journal of Strength and Conditioning Research. 2012;26(8):2140-2145. doi:10.1519/jsc.0b013e31823a3b15 · *paywalled*
 
+Pizzari T, Wickham J, Balster S, Ganderton C, Watson L. Modifying a shrug exercise can facilitate the upward rotator muscles of the scapula. Clinical Biomechanics. 2014;29(2):201-205. doi:10.1016/j.clinbiomech.2013.11.011 · *paywalled*
+
 Plamondon A, Serresse O, Boyd K, Ladouceur D, Desjardins P. Estimated moments at L5/S1 level and muscular activation of back extensors for six prone back extension exercises in healthy individuals. Scandinavian Journal of Medicine & Science in Sports. 2002;12(2):81-89. doi:10.1034/j.1600-0838.2002.120204.x · **open access**
 
 Plotkin DL, Rodas MA, Vigotsky AD, McIntosh MC, Breeze E, Ubrik R, et al. Hip thrust and back squat training elicit similar gluteus muscle hypertrophy and transfer similarly to the deadlift. Frontiers in Physiology. 2023;14:1279170. doi:10.3389/fphys.2023.1279170 · **open access**
@@ -20731,6 +22425,8 @@ Pollock ML, Leggett SH, Graves JE, Jones A, Fulton M, Cirulli J. Effect of resis
 Potvin JR, McGill SM, Norman RW. Trunk Muscle and Lumbar Ligament Contributions to Dynamic Lifts with Varying Degrees of Trunk Flexion. Spine. 1991;16(9):1099-1107. doi:10.1097/00007632-199109000-00015 · *paywalled*
 
 Pouliart N, Gagey OJ. Significance of the latissimus dorsi for shoulder instability. I. Variations in its anatomy around the humerus and scapula. Clinical Anatomy. 2005;18(7):493-499. doi:10.1002/ca.20185 · *paywalled*
+
+Pozzi F, Plummer HA, Sanchez N, Lee Y, Michener LA. Electromyography activation of shoulder and trunk muscles is greater during closed chain compared to open chain exercises. Journal of Electromyography and Kinesiology. 2022;62:102306. doi:10.1016/j.jelekin.2019.05.007 · **open access**
 
 Prieske O, Muehlbauer T, Granacher U. The Role of Trunk Muscle Strength for Physical Fitness and Athletic Performance in Trained Individuals: A Systematic Review and Meta-Analysis. Sports Medicine. 2016;46(3):401-419. doi:10.1007/s40279-015-0426-4 · *paywalled*
 
@@ -20753,6 +22449,8 @@ Rodríguez-Ridao D, Antequera-Vique JA, Martín-Fuentes I, Muyor JM. Effect of F
 Rostron ZPJ, Zacharias A, Semciw AI, Kingsley M, Pizzari T, Woodley SJ, et al. Effects of a targeted resistance intervention compared to a sham intervention on gluteal muscle hypertrophy, fatty infiltration and strength in people with hip osteoarthritis: analysis of secondary outcomes from a randomised clinical trial. BMC Musculoskeletal Disorders. 2022;23(1):944. doi:10.1186/s12891-022-05907-4 · **open access**
 
 Ruggiero M, Cless D, Infantolino B. Upper and Lower Limb Muscle Architecture of a 104 Year-Old Cadaver. PLOS ONE. 2016;11(9):e0162963. doi:10.1371/journal.pone.0162963 · **open access**
+
+Rønnestad BR, Egeland W, Kvamme NH, Refsnes PE, Kadi F, Raastad T. Dissimilar effects of one- and three-set strength training on strength and muscle mass gains in upper and lower body in untrained subjects. Journal of Strength and Conditioning Research. 2007;21(1):157-163. doi:10.1519/00124278-200702000-00028 · *paywalled*
 
 Saeterbakken AH, Mo DA, Scott S, Andersen V. The Effects of Bench Press Variations in Competitive Athletes on Muscle Activity and Performance. Journal of Human Kinetics. 2017;57(1):61-71. doi:10.1515/hukin-2017-0047 · **open access**
 
@@ -20808,6 +22506,8 @@ Schwach M, Gaulin B, Vermorel PH, Horteur C, Tourné Y. Tennis leg: Diagnosis an
 
 Sekáč J, Šagát P, Bartík P, Kilián M, Tohănean DI, Perez J, et al. Distal Triceps Tendon Rupture—First Retrospective Study in Central Europe. Journal of Clinical Medicine. 2024;13(24):7792. doi:10.3390/jcm13247792 · **open access**
 
+Seth A, Dong M, Matias R, Delp S. Muscle Contributions to Upper-Extremity Movement and Work From a Musculoskeletal Model of the Human Shoulder. Frontiers in Neurorobotics. 2019;13:90. doi:10.3389/fnbot.2019.00090 · **open access**
+
 Shahtahmassebi B, Hebert JJ, Hecimovich M, Fairchild TJ. Trunk exercise training improves muscle size, strength, and function in older adults: A randomized controlled trial. Scandinavian Journal of Medicine & Science in Sports. 2019;29(7):980-991. doi:10.1111/sms.13415 · *paywalled*
 
 Shahtahmassebi B, Hebert JJ, Stomski NJ, Hecimovich M, Fairchild TJ. The Effect of Exercise Training on Lower Trunk Muscle Morphology. Sports Medicine. 2014;44(10):1439-1458. doi:10.1007/s40279-014-0213-7 · *paywalled*
@@ -20838,11 +22538,15 @@ Soares EG, Brown LE, Gomes WA, Corrêa DA, Serpa ÉP, da Silva JJ, et al. Compar
 
 Soendenbroe C, Svensson RB, Mittendorfer B, Magnusson SP, Mackey AL, Andersen JL. Morphological differences in myofibre size and shape: A comparative study of the soleus, gastrocnemius, triceps brachii and vastus lateralis in humans and mice. Journal of Anatomy. 2026;248(1):126-139. doi:10.1111/joa.70025 · **open access**
 
+Solana-Tramunt M, Fakoor Rashid H, Norouzi N, Dehghan Y, Khazanin H, Sadegh B, et al. Effects of scapular-focused movement-based exercises on sports performance of athletes with scapular dyskinesis: A systematic review. PLOS One. 2026;21(4):e0344540. doi:10.1371/journal.pone.0344540 · **open access**
+
 Sollender JL, Rayan GM, Barden GA. Triceps tendon rupture in weight lifters. Journal of Shoulder and Elbow Surgery. 1998;7(2):151-153. doi:10.1016/S1058-2746(98)90227-0 · *paywalled*
 
 Song K, Gaffney BMM, Shelburne KB, Pascual-Garrido C, Clohisy JC, Harris MD. Dysplastic hip anatomy alters muscle moment arm lengths, lines of action, and contributions to joint reaction forces during gait. Journal of Biomechanics. 2020;110:109968. doi:10.1016/j.jbiomech.2020.109968 · **open access**
 
 Srinivasan RC, Lungren MP, Langenderfer JE, Hughes RE. Fiber type composition and maximum shortening velocity of muscles crossing the human shoulder. Clinical Anatomy. 2007;20(2):144-149. doi:10.1002/ca.20349 · **open access**
+
+Stasiewicz M, O'Flynn C, Hand CK, Toulouse A. Distal course and variability of the spinal accessory nerve: a cadaveric study with surgical implications. Surgical and Radiologic Anatomy. 2026;48(1):227. doi:10.1007/s00276-026-03994-9 · *paywalled*
 
 Stasinaki AN, Zaras N, Methenitis S, Tsitkanou S, Krase A, Kavvoura A, et al. Triceps Brachii Muscle Strength and Architectural Adaptations with Resistance Training Exercises at Short or Long Fascicle Length. Journal of Functional Morphology and Kinesiology. 2018;3(2):28. doi:10.3390/jfmk3020028 · **open access**
 
@@ -20910,6 +22614,8 @@ Varovic D, Wolf M, Schoenfeld BJ, Steele J, Grgic J, Mikulic P. Does Muscle Leng
 
 Varovic D, Zganjer K, Wolf M, Androulakis-Korakakis P, Schoenfeld BJ, Mikulic P. The effects of long muscle length isometric versus full range of motion isotonic training on regional quadriceps femoris hypertrophy in resistance-trained individuals [cited as Varovic et al., 2025b]. Applied Physiology, Nutrition, and Metabolism. 2025;50:1-14. doi:10.1139/apnm-2025-0238 · *paywalled*
 
+Veeger HEJ, van der Helm FCT, van der Woude LHV, Pronk GM, Rozendal RH. Inertia and muscle contraction parameters for musculoskeletal modelling of the shoulder mechanism. Journal of Biomechanics. 1991;24(7):615-629. doi:10.1016/0021-9290(91)90294-w · *paywalled*
+
 Vidt ME, Daly M, Miller ME, Davis CC, Marsh AP, Saul KR. Characterizing upper limb muscle volume and strength in older adults: a comparison with young adults. Journal of Biomechanics. 2012;45(2):334-341. doi:10.1016/j.jbiomech.2011.10.007 · *paywalled*
 
 Vigotsky AD, Beardsley C, Contreras B, Steele J, Ogborn D, Phillips SM. Greater Electromyographic Responses Do Not Imply Greater Motor Unit Recruitment and "Hypertrophic Potential" Cannot Be Inferred. Journal of Strength and Conditioning Research. 2017;31(1):e1-e4. doi:10.1519/JSC.0000000000001249 · *paywalled*
@@ -20921,6 +22627,8 @@ Vigotsky AD, Halperin I, Trajano GS, Vieira TM. Longing for a Longitudinal Proxy
 Vigotsky AD, Harper EN, Ryan DR, Contreras B. Effects of load on good morning kinematics and EMG activity. PeerJ. 2015;3:e708. doi:10.7717/peerj.708 · **open access**
 
 Vigotsky AD, Nuckols GL, Fisher JP, Heathers J, Krieger J, Schoenfeld BJ, et al. Improbable data patterns in the work of Barbalho et al. SportRxiv. 2020. doi:10.31236/osf.io/sg3wm · **open access** — *preprint; not peer reviewed*
+
+Vila-Dieguez O, Cazorla-Rey A, Michener LA. Clinicians who think scapular dyskinesis is important are more likely to identify it in healthy individuals. Shoulder & Elbow. 2026;:17585732261424438. doi:10.1177/17585732261424438 · **open access**
 
 Villalba MM, Fujita RA, Iossi Junior C, Machado Gomes M. Forearm Position Influences Triceps Brachii Activation During Triceps Push-Down Exercise. International Journal of Strength and Conditioning. 2024;4(1). doi:10.47206/ijsc.v4i1.250 · **open access**
 
@@ -20975,6 +22683,8 @@ Yeh CH, Calder JD, Antflick J, Bull AMJ, Kedgley AE. Maximum dorsiflexion increa
 Yoo WG. Comparison of the isolated contraction ratios of the hip extensors and erector spinae muscles of the lumbar region and thoracic muscles during different back extension exercises. Journal of Physical Therapy Science. 2015;27(2):315-316. doi:10.1589/jpts.27.315 · **open access**
 
 Youdas JW, Amundson CL, Cicero KS, Hahn JJ, Harezlak DT, Hollman JH. Surface Electromyographic Activation Patterns and Elbow Joint Motion During a Pull-Up, Chin-Up, or Perfect-Pullup Rotational Exercise. Journal of Strength and Conditioning Research. 2010;24(12):3404-3414. doi:10.1519/JSC.0b013e3181f1598c · *paywalled*
+
+Youdas JW, Hubble JW, Johnson PG, McCarthy MM, Saenz MM, Hollman JH. Scapular muscle balance and spinal stabilizer recruitment during an inverted row. Physiotherapy Theory and Practice. 2020;36(3):432-443. doi:10.1080/09593985.2018.1486491 · *paywalled*
 
 Zabaleta-Korta A, Fernández-Peña E, Santos-Concejero J. Regional Hypertrophy, the Inhomogeneous Muscle Growth: A Systematic Review. Strength and Conditioning Journal. 2020;42(5):94-101. doi:10.1519/SSC.0000000000000574 · *paywalled*
 
