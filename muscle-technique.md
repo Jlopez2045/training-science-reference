@@ -5,7 +5,7 @@
 > the rep → exercise catalogue → contexts → programming. **This volume covers the latissimus
 > dorsi, the quadriceps femoris, the gluteal muscles, the deltoids, the core, the
 > hamstrings, the pectoral muscles, the triceps brachii, the erector spinae, the elbow flexors, the calves, the trapezius and
-> scapular muscles, the forearms and grip, the hip adductors and the rotator cuff.** Further muscles are added as
+> scapular muscles, the forearms and grip, the hip adductors, the rotator cuff and the hip flexors.** Further muscles are added as
 > new Parts; the glossary and bibliography are always the final two Parts and are shared across all
 > of them.
 >
@@ -137,8 +137,16 @@
    - **§E** [Context modifiers, rehabilitation and prevention](#partxviecontextmodifiers)
    - **§F** [Programming](#partxvifprogramming)
    - **§G** [Synthesis, and what the evidence does not support](#partxvigsynthesis)
-17. **[Part XVII — Master Glossary](#partxviimasterglossary)** (411 entries, in dependency order, with an alphabetical index at its head)
-18. **[Part XVIII — Bibliography](#partxviiibibliography)** (697 sources, 348 open access)
+17. **[Part XVII — The Hip Flexors](#partxviithehipflexors)**
+   - **§A** [Anatomy and architecture](#partxviiaanatomyandarchitecture)
+   - **§B** [Biomechanics — what actually loads the hip flexors](#partxviibbiomechanics)
+   - **§C** [The rep, specified](#partxviictherepspecified)
+   - **§D** [Exercise catalogue](#partxviidexercisecatalogue)
+   - **§E** [Context modifiers, pain and the tightness question](#partxviiecontextmodifiers)
+   - **§F** [Programming](#partxviifprogramming)
+   - **§G** [Synthesis, and what the evidence does not support](#partxviigsynthesis)
+18. **[Part XVIII — Master Glossary](#partxviiimasterglossary)** (420 entries, in dependency order, with an alphabetical index at its head)
+19. **[Part XIX — Bibliography](#partxixbibliography)** (720 sources, 362 open access)
 
 **How to read this.** The first occurrence of a technical term in each Part links to its glossary
 entry. Cross-references are written `Part II §B.4`.
@@ -164,8 +172,8 @@ and no punctuation of any kind** — `forcelengthrelationship`, `momentarm`, `pa
 That character set is the fixed point of all four algorithms: each maps it to itself, so one link form
 works everywhere without HTML anchors or renderer-specific syntax. The cost is that the heading itself
 is not meant to be read; **the human-readable name is the bold lead-in immediately below it**, and the
-alphabetical index at the head of Part XVII is the place to look a term up. Structural anchors carry
-their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to XVI share
+alphabetical index at the head of Part XVIII is the place to look a term up. Structural anchors carry
+their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to XVII share
 section titles and would otherwise collide. Links are same-file only: no HTML anchors, no relative file links, no external
 links.
 
@@ -1922,7 +1930,7 @@ THREE-TIMES-WEEKLY — HIGH VOLUME, ROTATING EMPHASIS
 large. Row three has one lat-specific anchor — eight weeks of pulldown-and-row training produced
 **+22% latissimus fibre cross-sectional area** on biopsy in 18 novice men (Paoli et al., 2016) — but
 no study has tracked lat *thickness* by ultrasound over these timelines, and the method is a poor index
-of individual change in any case (Part XVII, muscle thickness). Rows four and five
+of individual change in any case (Part XVIII, muscle thickness). Rows four and five
 are coaching convention, not measured outcomes.
 
 **Validity caveat:** thickness measured in the first weeks of a new program is inflated by
@@ -6582,7 +6590,7 @@ of exposure, so they establish where injuries land, not how likely they are.
 | Context | Common modification | Evidence note |
 |---|---|---|
 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) — a painful arc, pain reaching overhead, pain lying on that side | **Reduce the provoking arc first**, then load progressively in the pain-free range. Keep the press below the painful band or replace it with a landmine press; keep raises in the scapular plane | Rehabilitation improved shoulder strength in this population across twenty-eight studies, and **interventions that did not include exercise had no effect at all** (Zhang et al., 2026). The active ingredient is loading |
-| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part XVII, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
+| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part XVIII, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
 | History of dislocation or [shoulder instability](#shoulderinstability) | Overhead and behind-the-neck positions are commonly restricted; abduction with external rotation is the classic apprehension position | Governed by the clinician, not by this document |
 | Acromioclavicular joint pain — point tenderness on top of the shoulder | Reduce [horizontal adduction](#shoulderhorizontaladduction) across the body; raises and presses are usually well tolerated | The joint is compressed by reaching across, not by reaching out |
 | Long head of biceps pain — front-of-shoulder pain with a defined tender line | Reduce front raises and dips; the tendon runs in the [bicipital groove](#bicipitalgroove) directly under them | Mechanism, not trial evidence |
@@ -22894,9 +22902,1136 @@ than one session of advice** — though everyone improved. The cuff is worth two
 not worth the story that has been built around it — though if you throw for a sport, the two minutes have
 three randomized trials behind them, and eight weeks of it will measurably grow the muscle.
 
-# partxviimasterglossary
+# partxviithehipflexors
 
-**Part XVII — Master Glossary**
+**PART XVII — The hip flexors**
+
+> **Scope.** This Part is about the muscles that lift the thigh toward the trunk, as muscles you can train.
+> Two of them already have homes in this document and keep them: **[rectus femoris](#rectusfemoris)** is a quadriceps head
+> (Part III) and **pectineus** is an adductor (Part XV). What has had no home until now is the group's
+> leader, **[iliopsoas](#iliopsoas)** — the one muscle in the body that connects your leg to your spine.
+>
+> **The other half of the psoas story is in Part VI.** There it appears as a *load on the [lumbar](#lumbarflexion) spine* and
+> as the reason a leg raise is not an abdominal exercise. Here it appears as the thing doing the lifting.
+> Both are true and the two Parts are written to agree; where this Part says something about the spine, it
+> defers to Part VI §B.10.
+>
+> **Get assessed rather than programme around it** if you have groin pain that has lasted more than a few
+> weeks, pain deep in the front of the hip that clicks or catches, sudden pain during a sprint or a kick
+> followed by weakness, or any pain that runs down the front of the thigh — **see the red flags in §E.4.**
+>
+> **Angle conventions, fixed for the whole Part.** [Hip flexion](#hipflexion) is measured from a straight body line:
+> **0° standing upright, 90° sitting upright**, matching the `hip flexion` glossary entry and Part III.
+
+---
+
+## partxviiaanatomyandarchitecture
+
+**PART A — Anatomy and architecture**
+
+### A.1 What the hip flexors are
+
+Ask most people to name a hip flexor and you get "the hip flexor", singular, usually meaning something
+vaguely at the front of the hip that is presumed to be tight. It is a group, the members do different jobs
+at different angles, and only one of them is a hip flexor and nothing else.
+
+| Muscle | Also does | Covered in |
+|---|---|---|
+| **[Psoas major](#psoasmajor)** | Loads and stabilizes the lumbar spine | **Here**, plus Part VI §B.10 |
+| **[Iliacus](#iliacus)** | Nothing else — it crosses one joint | **Here** |
+| **Rectus femoris** | Extends the knee | Part III (quadriceps) |
+| **[Sartorius](#sartorius)** | Abducts and externally rotates the hip; flexes the knee | **Here** |
+| **[Tensor fasciae latae](#tensorfascialatae)** | Abducts and internally rotates the hip | Part IV §A.6 |
+| **[Pectineus](#pectineus)** | Adducts | Part XV |
+| **Adductor longus and brevis** | Adduct; flex only below about 50–70° | Part XV §B.3 |
+
+**Psoas major and iliacus are usually treated as one muscle** — the *iliopsoas* — because their tendons join
+before inserting on the [lesser trochanter](#lessertrochanter). They are not one muscle. They have **different origins** (spine
+versus [pelvis](#pelvis)), **different nerve supplies**, and, crucially for training, **only one of them can pull on
+your lumbar spine**. When this Part needs to separate them it does; when the measurement pooled them, it
+says "iliopsoas" and means it.
+
+### A.2 Attachments — the map you load
+
+| Muscle | From | To | Nerve |
+|---|---|---|---|
+| **Psoas major** | Bodies and transverse processes of **T12–L5** | **Lesser trochanter** of the [femur](#femur) | Lumbar plexus (L1–L3), direct branches |
+| **Iliacus** | The **iliac fossa** — the inner bowl of the pelvis | Lesser trochanter, joining the psoas tendon | **Femoral** (L2–L3) |
+| **Sartorius** | Anterior superior iliac spine | Upper medial tibia, via the pes anserinus | Femoral (L2–L3) |
+| **Rectus femoris** | Anterior inferior iliac spine, and the groove above the socket | Patella, via the quadriceps tendon | Femoral (L2–L4) |
+
+Spinal levels are the textbook account *[consensus — no single source]*. Four things follow.
+
+**One muscle crosses from spine to leg, and it is the only one.** No other muscle in the body attaches to
+the lumbar vertebrae at one end and the femur at the other. Everything strange about the psoas comes from
+that: it cannot flex your hip without doing something to your lower back, and it cannot be trained without
+that something being part of the deal.
+
+**Two nerves, and one is not the femoral.** The psoas is supplied by branches straight off the lumbar
+plexus; iliacus by the femoral nerve. This is the anatomical reason the two can behave differently, and the
+reason a femoral nerve problem need not silently abolish hip flexion.
+
+**The insertion is tiny and posteromedial.** Both muscles converge on the lesser trochanter, a small bump on
+the **back and inside** of the upper femur. That position is usually said to give the iliopsoas a secondary
+external rotation action — and it is **Contested**. Pulling the isolated muscle in six cadaveric specimens
+produced, "in the anatomical position ... hip flexion **with no rotational component**"; rotation appeared
+only with the hip abducted, and disappeared again in adduction (Skyrme et al., 1999). So the rotation action
+is real but **position-dependent**, and the clinical test that combines flexion with external rotation (§E.4)
+works for reasons that may be about tensioning the tendon rather than reversing a rotation the muscle
+performs.
+
+**Sartorius is the longest muscle in the body** and the weakest thing on this list. It crosses the hip and
+the knee diagonally, and its contribution to flexion [torque](#torque) is small enough that no training decision in
+this Part turns on it.
+
+### A.3 Architecture — the largest muscle at your lumbar spine
+
+The psoas is bigger than its reputation. Measured at the lumbar spine, where it competes with the erectors
+and the [abdominal wall](#rectusabdominis):
+
+```
+CROSS-SECTIONAL AREA AT THE LUMBAR SPINE
+Psoas major              17.6 +/- 4.0 cm2    <- the largest single muscle there
+```
+
+That figure, and the company it keeps, is set out in Part VI §B.3. It is the reason this Part exists: a
+muscle that size, in a normal training programme, receives **nothing deliberate at all**.
+
+**And the architecture tells a story the size figure hides.** From the dataset Parts III and IV rest on
+(Ward et al., 2009a):
+
+```
+                MASS    FIBRE LEN   PENNATION   PCSA     FIBRE/MUSCLE
+                (g)     (cm)        (deg)       (cm2)    LENGTH RATIO
+Psoas            97.7    11.69       10.6         7.7      0.50
+Iliacus         113.7    10.66       14.3         9.9      0.56
+Sartorius        78.5    40.30        1.3         1.9      0.90
+Rectus femoris  110.6     7.59       13.9        13.5      0.35
+--- for scale ---
+Gluteus maximus 547.2    15.69       21.9        33.4      0.62
+```
+
+**Three things fall out of that table.**
+
+**The hip flexors are weak muscles with long fibres.** Psoas and iliacus together have a
+[PCSA](#pcsa) of about 17.6 cm², roughly **half** of the gluteus maximus alone. Force capacity is not what
+they are for.
+
+**They are built for excursion instead.** Psoas fibres average **11.69 cm** and iliacus **10.66 cm**, against
+7.59 cm for rectus femoris, with fibre-to-muscle-length ratios of 0.50 and 0.56. Long fibres and low
+[pennation](#pennationangle) are the architecture of a muscle that has to work over a long range, not one that has to produce
+large forces. **That matters for how you train them**, and §B.7 returns to it.
+
+**Sartorius is an outlier even among outliers** — fibres of **40.30 cm** running almost the whole length of
+the muscle (ratio 0.90), at a pennation of 1.3°, for a PCSA of 1.9 cm². It is a very long, very weak strap,
+and no training decision in this Part turns on it.
+
+### A.4 The division of labour — and the 60° rule
+
+This is the most useful measured fact in the Part, and almost nobody training hip flexors knows it.
+
+**The direct evidence comes from a cadaveric traction experiment.** Pulling the psoas tendon along its line
+of action in 25 osteoligamentous specimens, the tendon **leaves the femoral head at about 14° of hip flexion
+and leaves the iliopectineal eminence at about 54°** — and the tension it carries falls markedly across
+45–60°, the authors concluding that it becomes an effective flexor of the lower limb in that 45–60° band
+(Yoshio et al., 2002). The muscle's mechanical relationship to the bones it wraps changes as the hip flexes,
+and it changes in that region.
+
+**A morphometric analysis points the same way, with important limits.** Estimating each muscle's capacity as
+the product of its cross-section and its [moment arm](#momentarm), rectus femoris held about **57–62%** of the capacity of
+the three muscles compared across the low range, with the iliopsoas share rising and the crossover falling at
+roughly **60–70°** (Kumazaki et al., 2022).
+
+> **Read that source carefully, because it is easy to over-quote and the first draft of this Part did.**
+> The numbers come from **12 limbs for cross-sections and a different 10 limbs for moment arms**, from
+> cadavers with a mean age near 79. The denominator is **three muscles** — psoas, iliacus and rectus femoris
+> — which excludes the adductors that §A.1 has already said flex the hip below 50–70°. And the authors state
+> plainly that their data "were not relevant to estimate the actual torque ... on a theoretical basis". **It
+> is a capacity index, not a measured torque**, and this Part treats it as one.
+
+The same analysis found the iliopsoas capable of **2.5 to 3 times the rotational speed** of rectus femoris in
+the low range for the same contraction velocity — a speed muscle at angles where it is not the strength
+muscle.
+
+**[Electromyography](#emg) points the same way, less cleanly than the first draft claimed.** In ten men with fine-wire
+electrodes in psoas and iliacus, activity during an isometric straight-leg hold was significantly higher at
+60° than at 30° or 45° (Yamane et al., 2019):
+
+```
+                        30 deg      45 deg      60 deg
+Psoas major             34 %MVC     49 %MVC     61 %MVC
+Iliacus                 38 %MVC     41 %MVC     44 %MVC
+                                        Yamane et al., 2019, n = 10, medians
+```
+
+> **Two warnings about that table.** These are **medians of ten men from a single study**, not a pooled
+> estimate — the review this Part draws them through explicitly reports individual study values rather than
+> meta-analysing them (Juan et al., 2024). And the psoas rise from 30° to 45° is larger than the mechanics
+> predict: the external moment *falls* about 18% across that span while the measured activity rose 43%.
+> **The direction is well supported; the numbers are one small study's.**
+
+> **The consequence, stated more carefully than the first draft stated it.** The iliopsoas contributes more
+> as the hip flexes further, and most of what people call hip flexor training sits below that band. **But
+> "nothing loads the top of the range" turned out to be false** — it depends entirely on whether you are
+> lying down or upright, which is §B.7.
+
+### A.5 What is known about making them grow
+
+More than the rotator cuff had, less than the quadriceps. Three studies, pointing in a consistent direction.
+
+> **1. Sport grows the iliopsoas, substantially.** MRI of professional tennis players, professional soccer
+> players and non-active controls found the iliopsoas **hypertrophied by 24–36% in both sports** relative to
+> controls. Tennis players were asymmetric — 13% larger on the **non-dominant** side, reversing the small
+> dominant-side advantage seen in controls — while soccer players were symmetric
+> (Sanchis-Moysi et al., 2011).
+>
+> **2. Deliberate training grows it, a little, and improves running more.** Eight well-trained male
+> long-distance runners added hip-flexor resistance training twice a week for 12 weeks at a 10-repetition
+> maximum. Psoas major **cross-section rose from 16.2 to 16.7 cm²** (p < 0.01, d = 0.34) and time to
+> exhaustion in a constant-velocity run improved with a much larger effect (d = 1.41)
+> (Yamanaka et al., 2021). The authors' own regression related the size change to the performance change.
+>
+> **2b. And a properly controlled trial says the same about performance.** Twenty-four people trained hip
+> flexion for eight weeks against twenty-four controls: **hip flexion strength +12.2%, 40-yard dash −3.8%,
+> shuttle run −9.0%**, with no change in the control group (Deane et al., 2005). It did not measure muscle
+> size, so it does not fill the size gap — but it is the better-designed of the two performance results, and
+> the first draft of this Part missed it entirely.
+>
+> **3. Pilates does not grow it.** Twelve inactive women did 36 weeks of supervised Pilates, twice weekly.
+> Iliopsoas volume showed **small, non-significant change** (Dorado et al., 2020). **The same research group's
+> Pilates programme did markedly grow the rectus abdominis** over the same 36 weeks (Dorado et al., 2012,
+> reported in Part VI §A.5) — so this is a null result from a protocol that demonstrably grows something,
+> which is worth more than a null from a protocol that grows nothing.
+
+**Read the three together and the picture is coherent but thin.** The iliopsoas responds to loading, and it
+responds to sport that involves repeated forceful hip flexion far more than to a low-load movement class.
+**But note what study 2 actually shows**: eight runners, no control group, a 3% size change with a small
+effect size, and a performance change four times larger than the size change. The honest summary is that
+**hip flexor training works better than its effect on muscle size suggests**, and nobody knows why — the
+obvious candidates are neural, and none has been tested.
+
+> **What does not exist.** No trial has compared sets, frequency, load or [range of motion](#rangeofmotion) for the hip
+> flexors with a size outcome. No trial has compared hip flexor training against a control group with a
+> size outcome in the same design. **§F is written under that.**
+
+### A.6 The tendon, the bursa and the click
+
+- **The iliopsoas tendon passes over the front of the pelvic brim and the hip joint capsule**, with a bursa
+  between it and the bone. That is a sliding interface under load, and it is where the group's characteristic
+  problems occur.
+- **It is the commonest cause of an audible, felt clunk at the front of the hip** — *internal [snapping hip](#snappinghip)*,
+  where the tendon flicks across the underlying bone as the hip moves from flexion toward extension. A
+  painless click is common and needs nothing. A **painful** one is a reason to be seen (§E.4).
+- **The tendon can be irritated by a hip replacement** that leaves a component edge proud at the front, which
+  is why iliopsoas pain after hip surgery is a recognised and specific entity (§E.4).
+
+### A.7 The nerves
+
+- **Femoral nerve (L2–L4)** — iliacus, sartorius, rectus femoris, pectineus. Front of the thigh.
+- **Direct lumbar plexus branches (L1–L3)** — psoas major.
+- **The clinical point:** numbness or burning down the front of the thigh belongs to the nerve, not the
+  muscle, and is a reason to be assessed rather than stretched (§E.4).
+
+### A.8 How the hip flexors get injured
+
+- **Rectus femoris strain** — much the commonest of these, and it happens at speed: sprinting and kicking,
+  where the muscle is lengthening at the hip while extending the knee. Because it [crosses two joints](#biarticularmuscle) it can
+  be stretched at both ends at once, which is the standard explanation for why it is the quadriceps head that
+  tears (Part III §B.4).
+- **Proximal rectus femoris avulsion** — rarer, at the anterior inferior iliac spine, in kicking sports.
+- **Iliopsoas strain** — less common, and more often reported as a gradual groin ache than as a single event.
+- **[Iliopsoas-related groin pain](#iliopsoasgroinpain)** — a recognised clinical category with its own diagnostic problem: its
+  symptoms overlap heavily with every other cause of groin pain (§E.4).
+
+**For scale.** Groin injury as a whole accounts for **12.8% of all injuries in men's senior football and
+6.9% in women's**, at rates of 0.2–2.1 per 1000 hours in men and 0.1–0.6 in women
+(Waldén et al., 2015). Hip flexor problems are a minority of that total — the adductors dominate it
+(Part XV §A.8) — but the denominator is large.
+
+### A.9 What the anatomy dictates, in nine lines
+
+1. **The iliopsoas is the only muscle joining your lumbar spine to your leg**, so it cannot be trained
+   without loading the spine (Part VI §B.10).
+2. **Psoas major is the largest single muscle at the lumbar spine** by anatomical cross-section, at
+   17.6 ± 4.0 cm² — but its **force capacity is modest**: a PCSA of 7.7 cm², against 33.4 cm² for gluteus
+   maximus (Ward et al., 2009a).
+3. **Psoas and iliacus are two muscles with two nerve supplies**, not one muscle.
+4. **Rectus femoris holds the majority of hip flexion capacity in the low range**, with the crossover
+   around 60–70° — a capacity index from elderly cadavers, not a measured torque (Kumazaki et al., 2022).
+5. **The psoas tendon leaves the femoral head at 14° and the iliopectineal eminence at 54°**, and becomes an
+   effective flexor across 45–60° (Yoshio et al., 2002).
+6. **Psoas activity rises from 34% to 61% MVC between 30° and 60°** of hip flexion, in ten men
+   (Yamane et al., 2019).
+7. **The insertion is posteromedial**, giving a secondary external rotation action that the best clinical
+   test exploits.
+8. **Sport grows the iliopsoas by a quarter to a third** (Sanchis-Moysi et al., 2011); deliberate training
+   grew it about 3% in 12 weeks (Yamanaka et al., 2021) and improved sprint and agility in a controlled
+   trial (Deane et al., 2005).
+9. **Rectus femoris is the one that tears**, because it is stretched at both ends at once.
+
+## partxviibbiomechanics
+
+**PART B — Biomechanics — what actually loads the hip flexors**
+
+### B.1 The problem this Part has to solve
+
+Hip flexion is the most-performed joint action in human life. You do it every step, every stair, every time
+you sit down or stand up, several thousand times a day without noticing. And yet the muscle that does most
+of it above 60° is, in almost every training programme ever written, **completely untrained**.
+
+That is not a contradiction. It is the same structure as Part XIV's grip problem and Part XVI's cuff
+problem, and it resolves the same way: **the everyday action uses a small part of the range at a trivial
+load**, and the part of the range where the muscle is strong and useful is the part daily life never visits.
+
+### B.2 How the work is shared, and how well that is known
+
+The hip flexors do not share the work evenly, and the split changes with the angle. **How confidently that
+can be stated is the question, and the first draft of this Part answered it too confidently.**
+
+**What is directly measured.** Pulling the psoas tendon in 25 cadaveric specimens, it leaves the femoral head
+at about **14°** of hip flexion and the iliopectineal eminence at about **54°**, with the tension it carries
+falling markedly across 45–60° — the authors describing it as becoming an effective flexor of the limb in
+that band (Yoshio et al., 2002). This is a mechanical measurement on real tissue, and it is the strongest
+evidence in the section.
+
+**What is estimated.** A morphometric study computed each muscle's *capacity* as cross-section × moment arm,
+finding rectus femoris held **57–62%** of a three-muscle total in the low range, with the crossover at
+roughly **60–70°** and the iliopsoas share rising sharply at 80–90° (Kumazaki et al., 2022). Its limits are
+set out in §A.4 and they are substantial: separate small samples for the two terms, elderly donors, a
+denominator that excludes the adductors, and the authors' own statement that the data cannot estimate actual
+torque.
+
+**What is observed.** Activity in both muscles rises as the hip flexes further, in ten men with fine-wire
+electrodes (Yamane et al., 2019) — though by more than the change in external moment alone predicts (§A.4).
+
+> **So: the angle changes the mix, and the direction of that change is well supported.** What this document
+> no longer claims is a number for the mix at any given angle. "Most hip flexor work is quadriceps work"
+> was a fair reading of one capacity index and an overstatement of what anyone has measured.
+
+### B.3 What it costs your spine
+
+**This is Part VI's territory and this Part does not relitigate it.** The summary you need:
+
+Psoas major attaches to every lumbar vertebra. When it contracts hard it applies **"severe compression and
+large shear"** to those segments while producing "only very small moments" about them
+(Bogduk et al., 1992b). Its moment arm for bending the lumbar spine is **0.58 cm** — tiny (McGill et al.,
+1988). So it is a poor spinal *mover* and a large spinal *load*.
+
+> **The practical translation, which the rest of the Part obeys:** in any straight-leg or hanging hip flexion
+> exercise, **your trunk is holding, not moving.** The abdominal wall's job is to stop the psoas pulling your
+> lumbar spine into extension, and if it fails, the range you gain comes out of your back
+> (Part VI §B.10, §D.1).
+>
+> **And be precise about the knee.** Bending it shortens the **external** lever — the limb's centre of mass
+> moves closer to the hip — so gravity demands less hip flexion torque and the whole chain is loaded less.
+> That is why bent-knee versions are easier on the back. It is **not** because the psoas crosses the knee;
+> it does not. If resistance is applied to the thigh rather than the foot, bending the knee changes nothing.
+> **A mechanical inference.**
+
+### B.4 The hip flexion load class — the decision rule this Part runs on
+
+Every hip flexion exercise is described by three things, and once you have them the exercise is specified.
+
+> **[HIP FLEXION LOAD CLASS](#hipflexionloadclass) — the rule.**
+>
+> Read one repetition and answer two questions. The first classifies it; the second decides whether it
+> counted at all.
+>
+> **Step 1 — at what hip angle is the resistance highest?** For a moving exercise, posture answers this
+> (§B.7): lying down, the peak is at the **bottom**; standing or hanging, at the **top**. For an isometric,
+> the angle you hold *is* the answer. Name the class by **where the muscle is at that peak**:
+>
+> | Peak resistance at | Class | The hip flexors are… |
+> |---|---|---|
+> | **0–30°** of hip flexion | **Lengthened-loaded** | at their longest |
+> | **30–60°** | **Mid-loaded** | in between |
+> | **60°+** | **Shortened-loaded** | at their shortest |
+>
+> **Step 2 — does the lumbar spine hold still?** If the lower back arches or the pelvis tips to finish the
+> repetition, the range came from the spine, and it was a spinal exercise wearing a hip flexor's name.
+>
+> **The tie-break.** Film one set from the side. If you have not, assume the spine moved — not because it
+> always does, but because this is the one error that turns the exercise into a different exercise.
+
+**Worked examples, because posture does the work:**
+
+| Exercise | Peak at | Class |
+|---|---|---|
+| Supine straight-leg lowering | ~0° | **Lengthened-loaded** |
+| Supine leg raise, whole range | ~0° | **Lengthened-loaded** |
+| Hanging leg raise | ~90° | **Shortened-loaded** |
+| Captain's-chair knee raise | ~90° | **Shortened-loaded** |
+| Standing cable knee raise | ~90° | **Shortened-loaded** |
+| Straight-leg isometric held at 60° | 60° by definition | **Shortened-loaded** |
+| Seated hip-flexion machine | ~90° | **Shortened-loaded** |
+| Squat, deadlift, lunge, hip thrust | resists hip *extension* | **Not in this scheme** |
+
+**Why the rule earns its place.** It answers the question people actually disagree about — *which end of the
+muscle did that exercise load* — and it makes visible how one-sided the usual programme is: **almost
+everything on that list is shortened-loaded.** Given the document's length principle (§B.7), that is the
+less productive end.
+
+**What this rule deliberately no longer does.** The first draft assigned each class to a muscle — rectus
+femoris below 60°, iliopsoas above. **That was over-reading its source.** Kumazaki's shares are a capacity
+index from elderly cadavers over a three-muscle denominator that excludes the adductors, its crossover is
+60–70° rather than 60°, and the authors disclaim estimating actual torque (§A.4). The angle still changes the
+mix; this document no longer claims to know the mix.
+
+**Caveats.** The 30° and 60° boundaries are round numbers chosen for use, not measured thresholds. No study
+has trained one class and tested transfer to another. **This document's judgement.**
+
+### B.5 What a "psoas exercise" actually trains
+
+A systematic review collected nine electromyography studies of the iliacus, the psoas, or both
+(Juan et al., 2024). **It did not pool them.** Its tables report *individual* study values, and the first
+draft of this Part described them as pooled — which made numbers from different laboratories look
+comparable when they are not. Each block below is one study, named.
+
+```
+ISOMETRIC STRAIGHT-LEG HOLD          PSOAS       ILIACUS      Yamane 2019, n = 10, medians
+  30 deg                             34 %MVC     38 %MVC
+  45 deg                             49 %MVC     41 %MVC
+  60 deg                             61 %MVC     44 %MVC
+
+THROUGH A MOVING LEG RAISE           PSOAS                    Okubo 2021, n = 18
+  early concentric                   10 %MVC
+  late concentric                    30 %MVC
+  hold at the top                    35 %MVC
+
+STANDING, OTHER HIP FLEXED           PSOAS       ILIACUS      Andersson 1997, n = 6, amplitude
+  90 deg                             85 uV       99 uV        normalised to the highest value
+  60 deg                             52 uV       75 uV        observed, NOT to an MVIC
+```
+
+> **The largest signals anywhere in that review are for standing hip flexion held at 90°** — an exercise the
+> first draft of this Part dismissed. Note the last block is raw amplitude normalised to the highest observed
+> value, so it cannot be set against the %MVC blocks above it.
+
+Two further findings are worth having, and one claim has been withdrawn.
+
+**The psoas may be a stabilizer in a leg raise rather than the mover.** In the review's own reading, the
+iliacus is active mainly on the lifting side while the psoas is **equally active on both sides**, which the
+authors take to suggest "the psoas acting as more of a trunk stabilizer with this movement while the iliacus
+serves as the primary hip flexor" (Juan et al., 2024). That sits awkwardly with calling a leg raise a psoas
+exercise, and Part VI §D.6 does call it one — see §G.2, where this Part now states the tension instead of
+hiding it.
+
+**Withdrawn: the external rotation "bonus".** The first draft said adding external rotation and abduction to
+a 60° hold raised psoas activity from 61% to 67%, and told the reader to do it. **That difference was not
+significant.** The primary study states that "for a constant hip flexion, the %MVC values for the PM and IL
+showed **no significant changes** when hip abduction and external rotation were added"
+(Yamane et al., 2019) — ten men, medians, with interquartile ranges that overlap almost completely. Reporting
+a null result as a finding is an error this document criticises elsewhere, and it made it here.
+
+**And activation is not growth.** Part II §B.11 states the constraint this document works under: **EMG cannot
+rank exercises for [hypertrophy](#hypertrophy)** (Vigotsky et al., 2018). Every number above is reported under it, and §D no
+longer ranks exercises by activation.
+
+### B.6 The stimulus map for the hip flexors
+
+```
+MUSCLE           HIGHEST RECORDED ACTIVITY               MEASURED IN
+---------------  --------------------------------------  ---------------------------
+Psoas major      Standing, other hip flexed to 90 deg     Andersson 1997, n = 6
+                 (85 uV); 61 %MVC at a 60 deg hold        Yamane 2019, n = 10
+Iliacus          The same standing position (99 uV);      Andersson 1997; Yamane 2019
+                 44 %MVC at a 60 deg hold
+Both             Running above 2.0 m/s, where amplitude   Andersson 1997, n = 11,
+                 rises markedly over walking              fine-wire, treadmill
+Rectus femoris   Falls slightly across the same range     Yamane 2019: 32.2 -> 28.7
+                 (it is not the muscle the angle helps)   %MVC from 30 to 60 deg
+Sartorius        Nothing worth programming                PCSA 1.9 cm2, Ward 2009a
+```
+
+**Two things that map does not say.** It does not say which exercise grows these muscles — nothing does
+(§A.5) — and it does not license ranking exercises by these numbers, for the reason Part II §B.11 gives.
+
+**A popular belief, measured.** A sit-up is often called hip flexor work. Iliopsoas activation in a **sit-up
+was 13.2% MVIC**, against **17.6% in a straight leg raise** and **23.6% in an eccentric leg raise** — one
+study of twenty people, using a surface sensor the authors placed on the medial aspect of the rectus femoris
+(one 20-person study in Juan et al., 2024). Treat the ordering as suggestive and the electrode placement as a
+reason not to lean on it. **The distinction that actually matters** is between *trunk-flexion* sit-ups, which
+curl the spine, and *hip-flexion* sit-ups with the feet anchored and the trunk kept straight — the second is
+a hip flexor exercise and reaches much higher values (§D.1).
+
+### B.7 Resistance profiles
+
+**The first draft of this Part got this section badly wrong, and the correction is the most useful thing in
+it.** The claim was that gravity cannot load hip flexion where the iliopsoas is strongest. That is true lying
+down and **false standing or hanging**, and the difference is one trigonometric function.
+
+The moment gravity applies about the hip is (limb weight) × (the **horizontal** distance from the hip to the
+limb's centre of mass). What that distance does as the hip flexes depends entirely on which way the trunk is
+pointing:
+
+```
+                             0 deg   30 deg   45 deg   60 deg   90 deg
+SUPINE (trunk horizontal)     1.00     0.87     0.71     0.50     0.00   <- peaks at the BOTTOM
+UPRIGHT or HANGING            0.00     0.50     0.71     0.87     1.00   <- peaks at the TOP
+```
+
+> **They are mirror images.** Lying down, the resistance is largest with the leg flat and vanishes when the
+> leg is vertical. Standing or hanging, it is zero with the leg hanging and largest with the thigh
+> horizontal. **Posture, not equipment, decides which part of the range you load.**
+
+**And the gym is full of the second kind.** Hanging leg raises, captain's-chair knee raises, standing cable
+knee raises, reverse crunches and seated hip-flexion machines all peak at or near 90° of hip flexion. The
+first draft claimed no common exercise resists hip flexion above 60°. **It was wrong, and its own evidence
+said so** — the largest psoas and iliacus signals reported anywhere in the review it draws on are for
+**standing hip flexion held at 90°**, at 85 µV and 99 µV respectively (Juan et al., 2024).
+
+**Which profile should you want?** This is where the document's own hypertrophy principle decides it, and it
+points *against* the obvious answer:
+
+> Isometric training grows muscle **most reliably at long muscle lengths** (Oranchuk et al., 2019, used the
+> same way in Part III §D.4 and Part VI). For a hip flexor, **long means hip extended** — the bottom of the
+> range, not the top. A 90° hold trains the muscle at its **shortest**.
+>
+> So the supine profile, which the first draft treated as a defect, is the one that loads the hip flexors in
+> their lengthened position. **A mechanical inference**, resting on a principle established in other muscles
+> rather than on any hip flexor trial.
+
+**What the two profiles are actually good for**, stated as judgement rather than finding:
+
+- **Supine leg lowering** — resistance highest with the hip near extension, where the muscle is long. The
+  best available match to the long-length principle, and the most demanding on the lumbar spine (§B.3).
+- **Hanging and standing raises** — resistance highest at 90°, where the muscle is short and where the
+  recorded activation is highest. Good for the top of the range; a poor match to the length principle.
+- **Neither is "the right one."** They load opposite ends of the same muscle.
+
+### B.8 What already trains them, and what does not
+
+**Locomotion loads them, and this has been measured.** Fine-wire electrodes in the iliacus, psoas,
+sartorius, rectus femoris and tensor fasciae latae of eleven people walking and running from 1.0 to 6.0 m/s
+found the same basic activation pattern at every speed, with **iliacus and psoas amplitude rising markedly
+above 2.0 m/s** (Andersson et al., 1997). So the everyday demand is not a mystery, and the first draft of
+this Part was wrong to say it had never been quantified. **Sport that flexes the hip hard and repeatedly
+grows the iliopsoas by a quarter to a third** (Sanchis-Moysi et al., 2011).
+
+**The gym loads them too, at the top of the range.** Hanging leg raises, captain's-chair knee raises and
+seated hip-flexion machines all peak near 90° (§B.7), and they are common.
+
+**What is genuinely missing is loaded hip flexion at long muscle length** — resistance applied while the hip
+is near full extension. Squats, deadlifts, lunges and hip thrusts all *reach* that position, but they resist
+hip **extension**: the flexors are being lengthened passively, not loaded as movers. The only common exercise
+that resists hip flexion with the hip near extension is the bottom of a **supine leg lowering**, and most
+people either skip it or lose the position before they reach it.
+
+> **So the programming problem is narrower than the first draft claimed, and better specified.** It is not
+> "nothing trains the hip flexors." It is that **almost everything trains them short**, and the document's
+> own length principle says short is the less productive end (§B.7).
+
+### B.9 A worked example, so the numbers are not abstract
+
+Take a supine double leg raise. Both legs weigh roughly **32% of bodyweight**, and standard anthropometry
+puts the whole-limb centre of mass at about **0.39 m** from the hip in a person of average height.
+
+At the start, legs horizontal, the hip flexors must produce about
+**0.32 × 80 × 9.81 × 0.39 ≈ 98 N·m**.
+
+At 60°, that has fallen to **98 × cos 60° = 49 N·m**. At 90° it is **zero**.
+
+> **Compare that with the numbers in the rest of the document.** Roughly 98 N·m is a large torque — about
+> twice a lateral raise (47 N·m, Part XVI §B.9). **The bottom of a double leg raise is genuinely heavy work**,
+> and it is heavy work done in the position where the hip flexors are longest (§B.7) and where the demand on
+> the abdominal wall and lumbar spine is greatest (§B.3). That combination is why it is both the best-placed
+> exercise on the length principle and the one most people should not start with.
+>
+> **The first draft of this Part used 32 cm and got 80 N·m**, an underestimate of about a fifth, in the
+> direction that made its own argument easier.
+>
+> **Caveat.** This is external torque arithmetic, ignoring the muscles' own moment arms and the abdominal
+> wall's contribution *[consensus — no single source]*. The comparison is the point, not the absolute value.
+
+### B.10 Setup variables
+
+| Variable | Effect | Evidence |
+|---|---|---|
+| **Hip angle where resistance peaks** | Decides which muscle you trained: below 60° rectus femoris, above 60° iliopsoas | Kumazaki et al., 2022; Juan et al., 2024 |
+| **Knee straight vs bent** | Straight lengthens the lever, raises the spinal load, and shortens rectus femoris at the knee | Mechanical; Part VI §D.1 |
+| **Lumbar spine held vs moving** | Decides whether it was a hip exercise or a spinal one | Part VI §B.10 |
+| **External rotation and abduction added** | Raises psoas activation slightly at 60° (61% → 67% MVIC) | Juan et al., 2024 |
+| **Isometric hold vs moving rep** | Holds produce the highest recorded psoas values, because gravity is gone but the muscle is not | Juan et al., 2024 |
+| **Bilateral vs unilateral** | Bilateral leg lift gave the highest single iliacus value recorded, 86% MVIC | Juan et al., 2024 |
+
+### B.11 What the measurements here can and cannot settle
+
+**The electromyography is better than you would expect for a deep muscle.** Unlike the rotator cuff, the
+iliopsoas **can** be recorded with surface electrodes. Serial MRI in fifty men showed a superficial window
+averaging **13.2 ± 2.7 cm²**, largest **3–5 cm distal to the anterior superior iliac spine**, and a
+selective-cooling experiment showed cross-talk from sartorius to be negligible
+(Jiroumaru et al., 2014). Fine-wire studies exist as well, and the pooled review used both.
+
+**The pooling is the weak link.** Nine studies, 109 participants, with inconsistent electrodes, filters,
+normalisation and placement; the review's authors state that the same exercise in different papers gave
+markedly different numbers (Juan et al., 2024). Treat the **ordering** as informative and the absolute
+percentages as approximate.
+
+**The architecture evidence is complete and good.** Twenty-one specimens, with [fibre length](#fasciclelength) corrected to
+sarcomere length, for every muscle in this Part (Ward et al., 2009a, set out in §A.3). The first draft of
+this Part claimed these rows could not be retrieved; **they could — the failure was in how hard this document
+looked**, not in the availability of the data.
+
+**The growth evidence is three studies and one controlled performance trial, none with a size outcome under
+control** (§A.5). Every judgement in §D is therefore about leverage, length or activation, never hypertrophy.
+
+### B.12 The mechanical checklist
+
+1. **Posture decides the profile.** Lying down loads the bottom of the range; standing or hanging loads the
+   top (§B.7). Nothing about the equipment changes that.
+2. **Long muscle length is the hip near extension** — the bottom — and that is the end the document's own
+   principle favours (§B.7).
+3. **Almost everything in a normal programme is shortened-loaded**, which is the narrow, real gap (§B.8).
+4. **Hold the lumbar spine.** If the back arches, the rep was spinal (§B.3).
+5. **Bent knee shortens the external lever and lowers the load**; straight knee raises both.
+6. **A curl-up sit-up is not hip flexor training**; a feet-anchored straight-trunk sit-up is (§B.6).
+7. **The bottom of a supine leg raise is about 98 N·m** — heavy, and mostly resisted by your abdominal wall
+   (§B.9).
+8. **Do not rank exercises by activation.** Part II §B.11.
+
+## partxviictherepspecified
+
+**PART C — The rep, specified**
+
+### C.1 The two reps worth knowing
+
+---
+
+**1. [Single-leg lowering](#singleleglowering) — the reference exercise of Part XVII**
+
+> **Why this one, and why it is not the one the first draft picked.** An earlier version of this Part
+> prescribed a 60° straight-leg hold, chosen because it produced the highest recorded activation. That was
+> the wrong basis twice over: **this document holds that activation cannot rank exercises for growth**
+> (Part II §B.11), and a 60° hold trains the hip flexors at their **shortest**, while isometric training
+> grows muscle most reliably at **long** muscle lengths (Oranchuk et al., 2019). For a hip flexor, long means
+> the hip near extension — the bottom of the range, not the top.
+>
+> **Setup.** Lie on your back with both knees bent and feet flat. **Press your lower back into the floor and
+> keep it there** — that is the whole technique, and it is Step 2 of §B.4.
+>
+> **The rep.** Bring one knee toward your chest, straighten that leg toward the ceiling, then **lower it
+> slowly toward the floor, keeping it straight, and stop the instant your lower back starts to lift.** That
+> point is your working range. Bend the knee and return.
+>
+> **Why lowering rather than lifting.** Resistance is highest with the leg near the floor (§B.7), which is
+> where the hip flexors are longest, and a slow lowering is the only way to spend time there under control.
+> Of the moving exercises measured, an **eccentric leg raise** produced the highest iliopsoas activity
+> (Juan et al., 2024) — supportive, not decisive.
+>
+> **The load.** Your leg — roughly 16% of bodyweight at the end of a long lever, about **98 N·m** at the
+> bottom for an 80 kg person (§B.9). That is a lot. Add nothing until the range is full and the back is
+> silent.
+>
+> **Where the set ends.** When your lower back lifts. Not when the hip flexors burn. The abdominal wall is
+> the [limiting link](#limitinglink) here (§C.5), and training past it trains the wrong thing.
+>
+> **What most people get wrong.** They lower past the point where the back lifts, and the exercise becomes a
+> spinal extension held against gravity. **Film one set from the side.** Nothing else reliably tells you.
+>
+> **Honest status.** **A mechanical inference built on a principle demonstrated in other muscles.** No hip
+> flexor exercise has been compared with another for growth (§A.5). The reasoning is: load the muscle where
+> it is long, control the spine, progress range before load.
+
+---
+
+**2. The hanging or seated knee raise — the other end of the muscle**
+
+> **Setup.** Hanging from a bar, in a captain's chair, or seated at a hip-flexion machine.
+>
+> **The rep.** Flex the hip, keeping the lumbar spine still, and stop before the pelvis tucks under.
+>
+> **What it is good for.** Resistance in these positions peaks near **90°** (§B.7), where the hip flexors are
+> shortest — and the largest psoas and iliacus signals reported anywhere are for standing hip flexion held at
+> 90° (Andersson et al., 1997). It is the complement to rep 1, not a substitute for it.
+>
+> **What it is not.** It is not the end of the range the length principle favours, and the first draft of
+> this Part was wrong to claim that no common exercise loads the top of the range. Several do, and this is
+> one of them.
+
+---
+
+
+**What is deliberately not here: a stretch.** "Tight hip flexors" is the most common reason people come
+looking for this muscle group, and §E.5 examines the claim rather than assuming it.
+
+### C.2 The technical errors, in order of how much they cost
+
+| Error | What it costs | Fix |
+|---|---|---|
+| **Letting the lower back arch** | The rep becomes spinal, and the spinal load from psoas is large (§B.3) | Back flat, non-working knee bent, film it |
+| **Working only the top of the range** | Trains the muscle where it is shortest, the less productive end on the length principle (§B.7) | Add a slow lowering toward the floor |
+| **Adding external rotation for the "bonus"** | There is no bonus — that difference was not significant (§B.5) | Ignore foot position |
+| **Treating a sit-up as hip flexor work** | 13.2% MVIC — the weakest option measured (§B.6) | It is not one |
+| **Chasing burn instead of position** | The burn arrives long after the spine has given way | Stop when the back moves |
+| **Both legs at once, too early** | Doubles the spinal load at the hardest angle | One leg, other knee bent |
+| **Adding load before the hold is clean** | Loads a position you cannot yet control | Bodyweight until the back is silent |
+
+### C.3 Prerequisites
+
+- **No current groin or front-of-hip pain**, and no painful click (§E.4).
+- **Enough abdominal control to keep the lower back down** with one leg raised. If you cannot, that is
+  Part VI's problem first, not this Part's.
+- **Nothing else.** No mobility requirement, no equipment.
+
+### C.4 Cues — which work, which harm
+
+| Cue | Verdict |
+|---|---|
+| "Press your lower back into the floor" | **Use.** The single most useful cue here |
+| "Bend the other knee" | **Use.** It makes holding the spine dramatically easier |
+| "Stop when your back lifts" | **Use.** It defines the set better than a rep count |
+| "Pull with your hip, not your quad" | **Harmless but useless.** You cannot choose; the angle chooses (§B.4) |
+| "Tuck your pelvis under" | **Careful.** A small posterior tilt helps; a held hard tuck turns it into a different exercise |
+| "Point your toes" | **Ignore.** No effect on anything measured here |
+
+### C.5 The limiting links
+
+- **The abdominal wall, almost always.** In every straight-leg variant the set ends when the trunk stops
+  holding, not when the hip flexors fatigue (Part VI §D.1).
+- **The hip flexors themselves** only in the isometric holds, which is precisely why the holds are the
+  useful version.
+- **Never the back extensors**, and if your lower back is what you feel, see the first row of §C.2.
+
+### C.6 Breathing
+
+Normal breathing throughout. These are long, low-load holds; a held breath raises intra-abdominal pressure
+usefully but you cannot hold one for 45 seconds, and the position does not need it.
+
+### C.7 How to know it worked
+
+1. **You can lower the leg further before your back lifts.** Range at a controlled spine is the primary
+   signal, and it is a good one.
+2. **You can lower more slowly through the same range**, and later add an ankle weight.
+3. **What a scan or a flexibility test will tell you: very little.** See §E.5.
+4. **What size you have gained: unknown.** The only training study measured a 3% psoas change in twelve
+   weeks with no control group (§A.5).
+
+## partxviidexercisecatalogue
+
+**PART D — Exercise catalogue**
+
+Organized by hip flexion load class (§B.4) — that is, by **where in the range the resistance peaks**, which
+is decided by posture rather than by equipment.
+
+> **A warning that governs every row, and that the first draft of this Part broke.** No hip flexor exercise
+> has been compared with another for muscle growth (§A.5), and **this document holds that activation cannot
+> rank exercises for hypertrophy** (Part II §B.11). The electromyography below is reported to show *where in
+> the range* each muscle works, never to put one exercise above another. Where this Part prefers an
+> exercise, the reason is length or leverage, and it says so.
+
+### D.1 Lengthened-loaded — the narrow real gap
+
+Resistance peaks with the hip near extension, where the hip flexors are longest. This is the end the
+document's length principle favours (§B.7), and the end almost nothing trains.
+
+| Exercise | What is known | Verdict |
+|---|---|---|
+| **Single-leg lowering, supine** | Resistance peaks near 0° of hip flexion (§B.7); an eccentric leg raise gave the highest iliopsoas activity of the moving exercises measured (Juan et al., 2024) | **The reference exercise of Part XVII** (§C.1). No equipment, and the only common way to load these muscles long |
+| **Double-leg lowering, supine** | ≈98 N·m at the bottom for an 80 kg person (§B.9) | The same exercise at roughly twice the load, and twice the demand on the abdominal wall. Earn it |
+| **Standing hip extension against a band**, resisting the return | Not measured for these muscles | **A mechanical inference.** Loads the flexors eccentrically at length while standing |
+
+### D.2 Shortened-loaded — what the gym already offers
+
+Resistance peaks near 90°, where the hip flexors are shortest. These are common, and the first draft of this
+Part wrongly claimed they did not exist.
+
+| Exercise | What is known | Verdict |
+|---|---|---|
+| **Standing hip flexion held at 90°** | **The largest psoas and iliacus signals reported anywhere** — 85 µV and 99 µV (Andersson et al., 1997, n = 6, amplitude normalised to the highest observed value, not to an MVIC) | Genuine hip flexor work at the short end. The first draft filed this as "quadriceps work with a hip flexor's name", which was wrong |
+| **Hanging leg or knee raise** | Resistance rises to a peak near 90° (§B.7) | Good at the short end. Most people stop before the peak, which is the part that loads the hip flexors most |
+| **Captain's-chair knee raise** | The same profile with the trunk supported | Easier to control the spine than hanging. A reasonable default |
+| **Seated hip-flexion machine** | The same profile, loadable | The easiest to progress, if you have one |
+| **Feet-anchored, straight-trunk sit-up** | 60% MVIC iliacus straight-legged, 80% with the knees bent and supported (Andersson et al., 1997, n = 6) | **A hip flexor exercise**, and not the same movement as a curl-up. Heavy on the lumbar spine (§B.3) |
+
+### D.3 Not hip flexor exercises, whatever they are called
+
+| Exercise | What is known | Verdict |
+|---|---|---|
+| **Curl-up sit-up** (spine flexes, hips barely move) | Iliopsoas 13.2% MVIC in one 20-person study whose surface sensor sat on the medial rectus femoris (one 20-person study in Juan et al., 2024) | **Trunk flexion, not hip flexion.** Part VI §D.1 has the separate question of whether it is good abdominal training |
+| **Squat, deadlift, lunge, leg press, hip thrust** | These resist hip **extension** | The flexors are lengthened passively, not loaded as movers |
+| **Any leg raise where the lower back arches** | — | Reclassified by Step 2 of §B.4: the range came from the spine |
+| **Cycling, walking, ordinary running** | Iliacus and psoas amplitude rises markedly only above 2.0 m/s (Andersson et al., 1997) | Real but light. Sprinting is a different matter (§E.6) |
+
+### D.4 What to avoid, and why
+
+| Position | Why |
+|---|---|
+| **Double straight-leg lowering to the floor, untrained** | ≈98 N·m at the bottom (§B.9), resisted by an abdominal wall that usually cannot, with the difference going into the lumbar spine |
+| **Loaded hip flexion through a painful click** | §E.4 |
+| **Weighted hip flexor work in a week already heavy in deadlifts and squats** | The spinal load adds and nobody counts it (§F.3) |
+| **Aggressive end-range stretching with front-of-hip pain** | §E.5 |
+
+### D.5 Selection rules
+
+1. **Add one lengthened-loaded exercise.** That is the narrow real gap (§B.8), and single-leg lowering needs
+   no equipment.
+2. **Keep whatever shortened-loaded work you already do.** Hanging and seated raises are not wasted; they
+   load the other end.
+3. **Hold the spine, or it was not this exercise.** Step 2 of §B.4.
+4. **Progress range before load**, and load before adding the second leg.
+5. **Do not rank these by how much they burn, or by an activation number.** Part II §B.11.
+6. **Count the spinal cost** alongside your deadlifts and back extensions (§B.3).
+7. **Put it after heavy spinal work, or on another day** — this document's judgement, not a finding.
+
+## partxviiecontextmodifiers
+
+**PART E — Context modifiers, pain and the tightness question**
+
+### E.1 Goal contexts
+
+- **General strength and health.** One lengthened-loaded exercise, twice a week, costs two minutes (§C.1). The case for
+  it is that you own a large muscle your programme does not address — not that anything bad happens if you
+  skip it.
+- **Sprinting and kicking sports.** The best case in this Part. These sports grow the iliopsoas by a quarter
+  to a third on their own (Sanchis-Moysi et al., 2011), and hip flexor resistance training improved
+  constant-velocity running performance in trained runners with a large effect (Yamanaka et al., 2021).
+- **Distance running.** The one performance result this Part has. See §E.6.
+- **Low back pain.** **Not a reason to train or to stretch these muscles**, on current evidence. See §E.5.
+- **Hypertrophy for its own sake.** The iliopsoas is invisible. There is no cosmetic case and this document
+  will not manufacture one.
+
+### E.2 Body contexts
+
+- **Age.** No hip-flexor-specific prescription difference has been shown, and none is given.
+- **Long femurs.** Longer lever, more torque at the same angle (§B.9), so the bent-knee variants matter more.
+- **Poor abdominal control.** The rate-limiter for everything in §D.1. Part VI comes first.
+- **Previous groin pain.** Common, recurrent, and a reason to read §E.4 before adding load.
+- **Previous hip replacement.** Front-of-hip pain after a hip replacement is a specific entity with a
+  specific cause (§E.4), and conservative treatment works much less well for it.
+- **Sex.** Groin injury is about **twice as common in men's football as in women's** — 12.8% versus 6.9% of
+  all injuries (Waldén et al., 2015). No hip flexor training difference follows from that.
+
+### E.3 Equipment contexts
+
+| Equipment | What changes |
+|---|---|
+| **Nothing** | Single-leg lowering is the reference exercise and needs no equipment at all (§C.1) |
+| **Ankle weight** | The simplest progression once the full range is controlled and the back stays down |
+| **Bar, captain's chair or hip-flexion machine** | Loads the **short** end, near 90° (§D.2). A complement to the floor work, not a substitute |
+| **A bench or a floor** | Bent-knee supported variants reach 80% MVIC iliacus at much lower spinal cost |
+
+### E.4 Pain at the front of the hip
+
+#### ⚠ Red flags — stop and get assessed
+
+- **Sudden sharp pain during a sprint, a kick or a lunge, followed by weakness** — a muscle or tendon tear
+- **Pain, numbness or burning running down the front of the thigh** — that is nerve territory, not muscle
+- **A painful click or catch deep in the front of the hip**, especially if the hip briefly gives way
+- **Groin pain that has lasted more than a few weeks** and is not settling
+- **Front-of-hip pain after a hip replacement** — a recognised and specific problem (below)
+- **Fever, night pain that no position relieves, or unexplained weight loss**
+- **Any inability to lift the leg at all**
+
+#### Iliopsoas-related groin pain
+
+Groin pain is common, and telling its causes apart is genuinely difficult — the symptoms overlap. Two things
+are worth a lifter knowing.
+
+**There is now a test that performs well.** The **hip–external rotation–flexion–ceiling (HEC) test**, which
+combines the iliopsoas's primary action with its secondary external rotation (§A.2), reported **sensitivity
+94% and specificity 88%** for iliopsoas-related groin pain — the best of eleven tests compared, alongside
+resisted seated hip flexion (Vandeputte et al., 2025). **Promising but under-replicated**, and less independently so than it looks: the systematic review that
+collected the diagnostic literature found only three accuracy studies, all at high risk of bias, and calls
+the estimates preliminary (Vandeputte et al., 2026) — **and it shares its first and senior author with the
+HEC study it is assessing.** The test has no independent replication at all.
+
+**Conservative treatment usually works, and surgery on the tendon usually does not add anything.** The same
+review found conservative management successful in **77–100%** of idiopathic and athletic cases. In native
+hips, four matched comparative cohorts found **arthroscopic iliopsoas release gave no clear benefit beyond
+treating the other things found inside the joint — and produced measurable iliopsoas atrophy and loss of hip
+flexion strength** (Vandeputte et al., 2026). **Moderate evidence**, from low-to-moderate quality studies.
+
+> **After a hip replacement it is a different problem with a different answer.** Conservative management
+> succeeded in only **16–50%** of cases, because the mechanism is usually a component edge irritating the
+> tendon rather than the tendon itself. There, tenotomy or revising the cup does help, and the outcome
+> depends on implant position (Vandeputte et al., 2026). **If you have a hip replacement and front-of-hip
+> pain, this is a surgical conversation, not a training one.**
+
+#### Snapping hip
+
+A **painless** clunk at the front of the hip as it moves from flexion toward extension is the iliopsoas
+tendon flicking over bone. It is common and needs nothing. **If it hurts, or the hip gives way, it is a red
+flag above.**
+
+### E.5 "Tight hip flexors" — the claim this Part exists to examine
+
+No belief in general fitness is more universal, and almost none is worse evidenced. Take it apart in pieces.
+
+**Does sitting shorten them?** A one-year prospective study of 62 undergraduates measured iliopsoas length
+by modified [Thomas test](#thomastest) at baseline and a year later. **Measured length did decrease significantly**, and
+musculoskeletal pain rose sharply over the same year — low back pain from 46.8% to 71.0%. But in the
+regression, **baseline pain was the only independent predictor of later pain**; the muscle length changes
+were not (Abbas et al., 2026). So the association exists and the causal step does not follow from it.
+**Evidence remains limited and inconsistent.**
+
+**Can the tightness be measured reliably?** Partly. Pooling 27 studies and 1,056 participants, hip flexor
+flexibility tests had **excellent intrarater reliability, ICC 0.90 (95% CI 0.85–0.95)**, and good interrater
+reliability overall, ICC 0.80 (0.71–0.88). But heterogeneity was enormous (I² = 99%), and **the classic
+Thomas test had the worst interrater reliability of all of them, ICC 0.62 (0.46–0.78)**
+(González-de-la-Flor & Seijas-Otero, 2026).
+
+> **Note carefully what that does and does not say.** Reliability is agreement, not truth. A test can be
+> reproducible and still not measure what it claims.
+
+**Does short hip flexor range predict injury? For one outcome, yes** — and the first draft of this Part said
+no, because its searches asked for "flexibility" and the literature says "range of motion".
+
+> **Thirty-six Premier League players had lower-limb range of motion measured before a season, with every
+> muscle strain recorded prospectively through it. Players who went on to strain a hip flexor had
+> significantly lower preseason hip flexor range (p < 0.05), and lower range carried a statistically higher
+> risk of straining that muscle group** (Bradley & Portas, 2007).
+
+So the claim has to be narrowed rather than repeated. **What this Part can still say**, having searched
+again: no study was found showing that these tests predict **pain** or **performance**, and the injury
+finding is one cohort of 36 elite footballers using goniometry rather than a Thomas test. **Moderate
+evidence** for the injury association in that population; **searched and not found** for the rest.
+
+**The nearest supporting thing** is a cross-sectional comparison of 28 boys aged 11–14, split by modified
+Thomas test, reporting different lower-limb activation patterns during single-leg landing in the "tight"
+group (Aali et al., 2025). Fourteen children per group, no pain or injury outcome, no way to tell which came
+first. **Promising but under-replicated.**
+
+**Does stretching them help?** For performance, the answer is dose-dependent and the first draft dropped
+half of it. Pooling eight studies and 165 subjects, **hip flexor stretching of up to 120 seconds had no
+negative effect and sometimes a positive one** — unlike the plantar flexors, where that dose reliably costs
+force. **But the same review found a significant impairment at longer doses**: −3.59% at 270–480 seconds
+(Konrad et al., 2021). Short is fine; very long is not. In one trial, hip flexor stretching **improved counter-movement jump height by 1.74%**
+against a small decline in the control and hip-extensor-stretch conditions — and the authors showed the
+improvement **was not explained by the change in passive compliance** (Wakefield & Cottrell, 2015). Whatever
+helped, it was not "the muscle got longer".
+
+> **What this document concludes.** Stretching your hip flexors is harmless and may help a jump slightly.
+> **What is not supported is the surrounding story** — that sitting has shortened them into a postural
+> problem, that this causes your back pain, and that stretching is therefore treatment. The pieces of that
+> chain have been measured one at a time and they do not link up. **Not supported as stated.**
+>
+> **And the alternative on offer is at least as plausible.** A muscle that is short and weak and a muscle
+> that is short and strong feel the same to a stretch test. This Part's suggestion — **This document's
+> judgement** — is that if the front of your hip bothers you, training it through range (§C.1) is a more
+> defensible first move than stretching it, and costs the same two minutes.
+
+**Does the psoas differ in people with back pain?** In 99 elite gymnasts and wushu athletes, psoas stiffness
+measured by shear-wave elastography was **17.2% higher on the painful side** in those with chronic low back
+pain (Zhou et al., 2026). That is a cross-sectional association in a young elite population, with the usual
+problem: stiffness could be cause, consequence or bystander. **Promising but under-replicated.**
+
+### E.6 Sport contexts
+
+- **Sprint and agility, in untrained people.** The best-designed result here. Eight weeks of hip flexor
+  resistance training in 24 people against 24 controls raised hip flexion strength **12.2%** and cut 40-yard
+  dash time **3.8%** and shuttle-run time **9.0%** (Deane et al., 2005). **Moderate evidence** — controlled,
+  but unblinded, in physically active untrained participants, and no muscle size was measured.
+- **Distance running.** Twelve weeks of hip flexor resistance training in trained runners raised psoas
+  cross-section 3% and improved time to exhaustion at a fixed speed with a large effect
+  (Yamanaka et al., 2021). Eight runners, no control group — **Promising but under-replicated.**
+- **Sprinting.** Psoas cross-section correlated with hip flexion power and sprint performance in ten young
+  adults (Copaver et al., 2012). **But the finding did not replicate** in a study of twelve male 400 m
+  sprinters, where the muscles whose relative size tracked sprint time were the **lateral abdominal wall and
+  the adductors — not psoas major** (Muratomi et al., 2025). **Contested.**
+- **Tennis.** The iliopsoas grows asymmetrically, 13% larger on the **non-dominant** side, reversing the
+  normal pattern (Sanchis-Moysi et al., 2011). Interesting; no training instruction follows from it.
+- **Football and kicking sports.** Groin injury is 12.8% of all injuries in men (Waldén et al., 2015), and
+  the adductors are the bigger part of that problem (Part XV §E.4, where the Copenhagen exercise has real
+  prevention evidence). **No hip flexor exercise has been tested for injury prevention** — searched and not
+  found.
+- **Cycling.** Thousands of low-angle repetitions at low load (§B.8). It is not iliopsoas training.
+
+### E.7 Session and cycle contexts
+
+- **Where in the session.** After heavy spinal work, or on a separate day. The reason is the shared spinal
+  load (§B.3), not fatigue. **This document's judgement**, with no trial either way.
+- **[Frequency](#trainingfrequency) tolerance.** High, provided the spine is holding. The abdominal wall fatigues before the hip flexors do.
+- **Deloads.** Nothing specific. Drop it entirely in a [deload](#deload) week; nothing is lost.
+
+### E.8 The context decision table
+
+| If… | Then… |
+|---|---|
+| You want the one thing this Part recommends | Single-leg lowering, twice a week, back flat (§C.1) |
+| You run distances | Add it deliberately — this is the application with a performance result (§E.6) |
+| You have been told your hip flexors are tight | Read §E.5. Stretching is harmless; the story around it is not supported |
+| Your lower back arches whenever you raise a leg | Part VI first. This Part will only make it worse |
+| You have groin pain lasting weeks, or a painful click | **Assessment, not programming** (§E.4) |
+| You have front-of-hip pain after a hip replacement | **A surgical conversation** (§E.4) |
+| You sit all day and want to undo it | Train the range, do not only stretch it (§E.5) |
+| You do curl-up sit-ups and think that covers it | It does not. A **feet-anchored, straight-trunk** sit-up is hip flexor work; a curl-up is not (§D.2, §D.3) |
+
+## partxviifprogramming
+
+**PART F — Programming**
+
+> **Read this first.** The hip flexors have **one small uncontrolled training study with a size outcome**
+> (Yamanaka et al., 2021, n = 8), **one controlled trial with performance outcomes and no size measurement**
+> (Deane et al., 2005), **one cross-sectional comparison of athletes and non-athletes**
+> (Sanchis-Moysi et al., 2011) and **one null result from 36 weeks of Pilates** (Dorado et al., 2020).
+> **No trial has compared sets, frequency, load or range of motion with a size outcome** (§A.5, and the
+> search log in `review/raw/hf/src/searchlog.txt`). So this section is **almost entirely judgement**, and
+> every line says so. It is deliberately short.
+
+### F.1 Volume
+
+**What is known.** The one training study used **hip flexor resistance training twice a week for 12 weeks**,
+at a 10-repetition maximum, three sets of ten rising to four sets of ten. That produced a 3% psoas
+cross-section increase and a large improvement in running time to exhaustion (Yamanaka et al., 2021).
+
+**What is judgement.**
+
+| Class | Direct sets per week | Where they come from |
+|---|---|---|
+| **Lengthened-loaded** | **2–6** | The narrow real gap (§B.8). Start at 2 |
+| **Shortened-loaded** | **0 extra** | Every hanging or seated knee raise you already do (§D.2) |
+| **Spinal cost** | counted against your deadlift and back-extension volume, not separately | §B.3 |
+
+**The counting rule.** If you run or cycle, your low-angle hip flexion volume is already enormous. What you
+are adding is **high-angle work**, and there is no evidence about how much of it you need.
+
+### F.2 Frequency
+
+**Two to three times a week.** The sets are short and the limiting tissue in practice is the abdominal wall
+rather than the hip flexors. **Judgement.**
+
+### F.3 The interaction nobody counts
+
+This is the one programming point in the Part with a real mechanism behind it.
+
+> **Psoas major loads the same lumbar segments as your deadlift.** It attaches to every lumbar vertebra and
+> applies severe compression and large shear when it contracts hard (Bogduk et al., 1992b, and Part VI
+> §B.10). So high-angle hip flexor work is **not free** in a week that already contains heavy hinging and
+> squatting.
+
+**The practical rule, which is judgement:** put hip flexor work on a day away from your heaviest spinal
+work, or after it. If your lower back is already the thing limiting your week, the bent-knee supported
+variants (§D.1) give 80% of the iliacus activation at a fraction of the spinal cost.
+
+### F.4 Progression
+
+In order, and do not skip forward:
+
+1. **Range** — lower the leg closer to the floor before the back lifts, one leg at a time.
+2. **Tempo** — the same range, slower, so more time is spent near the bottom where the muscle is long.
+3. **Load** — an ankle weight, keeping the range and the spine.
+4. **Bilateral** — only once single-leg lowering is easy through full range, because the load roughly
+   doubles to about 98 N·m (§B.9).
+
+### F.5 What a week looks like
+
+| | Sets | Where |
+|---|---|---|
+| **Minimum useful** | 2 × 6 slow lowerings per leg, twice a week | After your main session, or on an off day |
+| **If you want the performance result** | 3 × 10 resisted hip flexion at a 10RM load, twice a week | The protocols with performance results used loaded hip flexion, not holds (§E.6) |
+| **If your back is the limit** | Bend the knee and shorten the range until it is not | §B.3 |
+
+### F.6 What this Part does not prescribe
+
+- **A stretching protocol.** See §E.5.
+- **Sit-ups**, for this purpose. 13.2% MVIC (§B.6).
+- **Any rehabilitation programme.** Groin pain is §E.4 and belongs to a clinician.
+
+## partxviigsynthesis
+
+**PART G — Synthesis, and what the evidence does not support**
+
+### G.1 The rules that hold
+
+1. **The iliopsoas is the only muscle joining your lumbar spine to your leg**, so any hard hip flexion loads
+   the lumbar segments (Bogduk et al., 1992b, and Part VI §B.10).
+2. **Psoas major is the largest single muscle at the lumbar spine by cross-section** — 17.6 ± 4.0 cm² — but
+   its force capacity is modest, a PCSA of 7.7 cm² against 33.4 cm² for gluteus maximus
+   (Ward et al., 2009a).
+3. **The hip flexors are long-fibred, weak muscles** — psoas fibres 11.69 cm, iliacus 10.66 cm, against
+   7.59 cm for rectus femoris — built for excursion rather than force (Ward et al., 2009a).
+4. **Posture decides which end of the range you load.** Lying down, resistance peaks with the hip extended;
+   standing or hanging, it peaks near 90°. The two profiles are mirror images (§B.7).
+5. **Long muscle length for a hip flexor means the hip near extension**, and that is the end the document's
+   own isometric principle favours (Oranchuk et al., 2019).
+6. **Almost every common hip flexor exercise loads the short end.** That is the narrow, real gap (§B.8).
+7. **Hold the lumbar spine, or it was a spinal exercise** — Step 2 of §B.4.
+8. **The psoas tendon leaves the femoral head at 14° and the iliopectineal eminence at 54°**, becoming an
+   effective limb flexor across 45–60° (Yoshio et al., 2002).
+9. **Sport grows the iliopsoas 24–36%** (Sanchis-Moysi et al., 2011), and hip flexor training improves
+   sprint and agility in a controlled trial (Deane et al., 2005).
+10. **Conservative treatment of iliopsoas-related groin pain succeeds in 77–100% of athletic cases**, and
+    tendon release adds nothing in a native hip (Vandeputte et al., 2026).
+
+### G.2 What the evidence does **not** support
+
+**That "tight hip flexors" is a diagnosis.** The chain — sitting shortens them, shortness causes back pain,
+stretching is therefore treatment — does not connect. Measured length does fall over a year of study, but
+**baseline pain, not muscle length, predicted later pain** (Abbas et al., 2026). **Not supported as
+stated** — with one genuine exception: low preseason hip flexor range did predict hip flexor strains in
+elite footballers (Bradley & Portas, 2007), which is an injury finding in athletes, not a pain finding in
+the general population (§E.5).
+
+**That hip flexor stretching costs you performance — or that it is unconditionally safe.** Up to 120 seconds
+it does no harm and sometimes helps; **at 270–480 seconds it impaired performance by 3.59%**
+(Konrad et al., 2021). Dose decides it.
+
+**That the Thomas test tells you much.** Reliable within one examiner (ICC 0.90), and the **worst of its
+family between examiners** (ICC 0.62) (González-de-la-Flor & Seijas-Otero, 2026).
+
+**That the top of the range is untrained.** The first draft of this Part claimed no common exercise resists
+hip flexion above 60°. **That was wrong.** Hanging leg raises, captain's-chair raises, standing knee raises
+and seated machines all peak near 90°, and the largest psoas and iliacus signals reported anywhere are for
+standing hip flexion at 90° (Andersson et al., 1997). The correction is in §B.7 and it changed the Part's
+recommendation.
+
+**That activation ranks exercises.** It does not, here or anywhere in this document (Part II §B.11,
+Vigotsky et al., 2018). The first draft's exercise catalogue was ordered by %MVIC; this one is not.
+
+**That external rotation adds anything to a straight-leg hold.** It does not. The difference was **not
+significant**, in ten men (Yamane et al., 2019), and the first draft reported a null result as a finding and
+turned it into a cue.
+
+**That a curl-up sit-up trains the hip flexors.** It does not meaningfully. A **feet-anchored, straight-trunk**
+sit-up does, and is a different movement (§D.2).
+
+**That psoas size explains sprint performance.** One small study found a correlation
+(Copaver et al., 2012); a study of 400 m specialists found the lateral abdominal wall and adductors tracked
+sprint time and **psoas major did not** (Muratomi et al., 2025). **Contested.**
+
+**That arthroscopic release helps iliopsoas pain in a native hip.** Four matched cohorts found no clear
+benefit beyond treating the other joint pathology, with measurable atrophy and lost hip flexion strength as
+the cost (Vandeputte et al., 2026).
+
+**That a dose is known.** No trial has compared sets, frequency, load or range for these muscles with a size
+outcome. **Everything in §F is judgement, and it says so.**
+
+**That hip flexor exercise prevents injury.** Searched and not found — no trial exists, in contrast with the
+adductors, where the Copenhagen exercise has a cluster-randomized result (Part XV §E.4).
+
+> **One tension this document states rather than hides.** Part VI §D.6 calls a floor straight-leg raise
+> "a psoas major exercise", on the grounds that the abdominal wall is holding rather than moving. This Part
+> agrees about the abdominal wall and adds a complication: in the review's own reading of the electromyography,
+> the iliacus is active mainly on the lifting side while the **psoas is equally active on both sides**, which
+> the authors take to suggest the psoas acts "as more of a trunk stabilizer" in that movement while the
+> iliacus does the flexing (Juan et al., 2024). Both statements can be true — the psoas is loaded either way,
+> which is what Part VI cares about — but "a psoas major exercise" is a stronger claim than the
+> electromyography supports.
+
+### G.3 The one-paragraph version
+
+You own a muscle that runs from your lower back to your thigh bone — the **iliopsoas** — and it is the only
+muscle in your body joining spine to leg, which is why it cannot be trained without loading your lumbar
+vertebrae. It is large in cross-section and **weak in force**: a physiological cross-section of about 8 cm²
+against 33 for your gluteus maximus, with unusually long fibres, which is the architecture of a muscle built
+to work over a long range rather than to produce big forces. The single most useful thing to know about
+training it is that **your posture decides which part of that range gets loaded**. Lying on your back,
+resistance is greatest with the leg near the floor and falls to nothing when the leg is vertical; hanging or
+standing, it is exactly the other way round, greatest with the thigh near horizontal. Both kinds of exercise
+are common, so the old story that nothing trains these muscles is wrong — but nearly everything trains them
+**short**, and the principle this document uses everywhere else says muscle grows most reliably when it is
+loaded **long**. For a hip flexor, long means the hip near straight. So the exercise worth adding is the one
+almost nobody does: lie down, press your lower back flat, and **lower one straight leg slowly toward the
+floor, stopping the instant your back lifts.** That is the whole prescription, it needs no equipment, and the
+set ends at your back rather than at your hip. Two things to let go of. **"Tight hip flexors" is not a
+diagnosis** — sitting does measurably shorten them, but muscle length did not predict who ended up in pain,
+though short range did predict hip flexor strains in professional footballers, which is a narrower claim than
+the one usually made. And **your curl-up sit-ups are not covering this**, though a feet-anchored,
+straight-trunk sit-up genuinely is a hip flexor exercise, and a demanding one for your back.
+
+# partxviiimasterglossary
+
+**Part XVIII — Master Glossary**
 
 Every technical term used anywhere in this document, defined formally with formula and units where
 the quantity is physically or operationally defined.
@@ -22932,162 +24067,166 @@ plain same-file heading anchor.
 
 | Term | Layer | Term | Layer |
 |---|---|---|---|
-| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Medial epicondyle](#medialepicondyle) | 3 |
-| [45° back extension (hip extension)](#backextension) | 12 | [Median nerve](#mediannerve) | 9 |
-| [Ab wheel](#abwheel) | 12 | [Middle (transverse) trapezius](#middletrapezius) | 9 |
-| [Abdominal wall](#abdominalwall) | 9 | [Middle deltoid](#middledeltoid) | 9 |
-| [Accessory nerve (CN XI)](#accessorynerve) | 9 | [Mixed grip](#mixedgrip) | 11 |
-| [Achilles tendinopathy](#achillestendinopathy) | 13 | [Moment arm](#momentarm) | 2 |
-| [Achilles tendon](#achillestendon) | 3 | [Momentary (muscular) failure](#momentaryfailure) | 10 |
-| [ACL reconstruction](#aclreconstruction) | 13 | [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 |
-| [Acromioclavicular joint (AC joint)](#acromioclavicularjoint) | 3 | [Motor unit](#motorunit) | 6 |
-| [Acromion](#acromion) | 3 | [Multifidus](#multifidus) | 9 |
-| [Adductor brevis](#adductorbrevis) | 8 | [Muscle thickness](#musclethickness) | 5 |
-| [Adductor loading mode (adduction-loaded, extension-loaded, unloaded)](#adductorloadingmode) | 11 | [Muscle volume](#musclevolume) | 5 |
-| [Adductor longus](#adductorlongus) | 8 | [Musculocutaneous nerve](#musculocutaneousnerve) | 9 |
-| [Adductor magnus](#adductormagnus) | 8 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
-| [Adductor strain](#adductorstrain) | 13 | [Net joint moment](#netjointmoment) | 11 |
-| [Adductor tubercle](#adductortubercle) | 3 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
-| [Adductor-related groin pain](#adductorrelatedgroinpain) | 13 | [Nordic hamstring curl](#nordiccurl) | 12 |
-| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Nuchal ligament](#nuchalligament) | 3 |
-| [Anconeus](#anconeus) | 9 | [Obturator nerve](#obturatornerve) | 8 |
-| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Olecranon](#olecranon) | 3 |
-| [Ankle plantar flexion](#ankleplantarflexion) | 4 | [Open kinetic chain exercise](#openkineticchain) | 11 |
-| [Annular pulley](#annularpulley) | 3 | [Overhead press (shoulder press, military press)](#overheadpress) | 12 |
-| [Anterior deltoid](#anteriordeltoid) | 9 | [Overhead triceps extension](#overheadtricepsextension) | 12 |
-| [Aponeurosis](#aponeurosis) | 3 | [Painful arc](#painfularc) | 13 |
-| [Apophysis](#apophysis) | 3 | [Pallof press](#pallofpress) | 12 |
-| [Attentional focus](#attentionalfocus) | 10 | [Passive tension](#passivetension) | 5 |
-| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Patella (kneecap)](#patella) | 3 |
-| [Axillary nerve](#axillarynerve) | 9 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
-| [Back squat](#backsquat) | 12 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
-| [Bar position](#barposition) | 11 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
-| [Barbell glute bridge](#glutebridge) | 12 | [Patellofemoral pain](#patellofemoralpain) | 13 |
-| [Barbell hip thrust](#hipthrust) | 12 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
-| [Bayes factor (BF)](#bayesfactor) | 9 | [Pectineus](#pectineus) | 8 |
-| [Bayesian cable curl](#bayesiancurl) | 12 | [Pectoral nerves (lateral and medial)](#pectoralnerves) | 9 |
-| [Belt squat](#beltsquat) | 12 | [Pectoralis major](#pectoralismajor) | 9 |
-| [Bench inclination](#benchinclination) | 11 | [Pectoralis major tear (pectoralis major rupture)](#pectoralismajortear) | 13 |
-| [Bench press](#benchpress) | 12 | [Pectoralis major, abdominal part (the "lower chest")](#pectoralisabdominalhead) | 9 |
-| [Biacromial width](#biacromialwidth) | 3 | [Pectoralis major, clavicular head (the "upper chest")](#pectoralisclavicularhead) | 9 |
-| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Pectoralis major, sternocostal head (the "mid chest")](#pectoralissternocostalhead) | 9 |
-| [Biceps brachii](#bicepsbrachii) | 9 | [Pectoralis minor](#pectoralisminor) | 9 |
-| [Biceps curl](#bicepscurl) | 12 | [Pelvic floor](#pelvicfloor) | 9 |
-| [Biceps femoris, long head (BFlh)](#bicepsfemorislonghead) | 8 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
-| [Biceps femoris, short head (BFsh)](#bicepsfemorisshorthead) | 8 | [Pelvis](#pelvis) | 3 |
-| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Pennation angle](#pennationangle) | 5 |
-| [Biering-Sørensen test](#bieringsorensentest) | 9 | [Plane of elevation](#planeofelevation) | 4 |
-| [Bilaminar tendon](#bilaminartendon) | 3 | [Plank](#plank) | 12 |
-| [Brachialis](#brachialis) | 9 | [Plate pinch](#platepinch) | 12 |
-| [Brachioradialis](#brachioradialis) | 9 | [Posterior deltoid](#posteriordeltoid) | 9 |
-| [Cable crunch](#cablecrunch) | 12 | [Posterior oblique sling](#posteriorobliquesling) | 8 |
-| [Cable or machine kickback (standing hip extension)](#kickback) | 12 | [Preacher curl](#preachercurl) | 12 |
-| [Cable pull-through](#cablepullthrough) | 12 | [Progressive overload](#progressiveoverload) | 10 |
-| [Calf raise](#calfraise) | 12 | [Pronated (overhand) grip](#pronatedgrip) | 11 |
-| [Carpal tunnel](#carpaltunnel) | 3 | [Prone Y raise (prone overhead arm raise)](#proneyraise) | 12 |
-| [Carpal tunnel syndrome](#carpaltunnelsyndrome) | 13 | [Proximity to failure](#proximitytofailure) | 10 |
-| [Chest fly (dumbbell fly, cable fly or crossover, pec deck)](#chestfly) | 12 | [Psoas major](#psoasmajor) | 9 |
-| [Chin-up](#chinup) | 12 | [Pubic ramus](#pubicramus) | 3 |
-| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Pull-up](#pullup) | 12 |
-| [Clavicle (collarbone)](#clavicle) | 3 | [Pullover](#pullover) | 12 |
-| [Close-grip bench press](#closegripbenchpress) | 12 | [Push-up](#pushup) | 12 |
-| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Push-up plus](#pushupplus) | 12 |
-| [Compound exercise](#compound) | 11 | [Quadratus lumborum](#quadratuslumborum) | 9 |
-| [Concentric contraction](#concentriccontraction) | 6 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
-| [Contralateral](#contralateral) | 1 | [Quadriceps tendon](#quadricepstendon) | 3 |
-| [Copenhagen adduction exercise](#copenhagenadduction) | 12 | [Radial nerve](#radialnerve) | 9 |
-| [Coracobrachialis](#coracobrachialis) | 9 | [Radial tuberosity](#radialtuberosity) | 3 |
-| [Coracoid process](#coracoidprocess) | 3 | [Range of motion (ROM)](#rangeofmotion) | 4 |
-| [Costal cartilage](#costalcartilage) | 3 | [Rectus abdominis](#rectusabdominis) | 9 |
-| [Crunch](#crunch) | 12 | [Rectus femoris](#rectusfemoris) | 8 |
-| [Cuff loading class (rotation-loaded, compression-, traction-, elevation-loaded, end-range restraint)](#cuffloadingclass) | 11 | [Rectus sheath](#rectussheath) | 3 |
-| [Dead hang](#deadhang) | 12 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
-| [Deadlift](#deadlift) | 12 | [Repetition (rep)](#repetition) | 10 |
-| [Deep hip external rotators](#hipexternalrotators) | 8 | [Resistance profile](#resistanceprofile) | 11 |
-| [Deload](#deload) | 10 | [Reverse curl](#reversecurl) | 12 |
-| [Deltoid](#deltoid) | 9 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 12 |
-| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Reverse hyperextension](#reversehyperextension) | 12 |
-| [Diaphragm](#diaphragm) | 9 | [Reverse Nordic curl](#reversenordic) | 12 |
-| [Diastasis recti](#diastasisrecti) | 13 | [Reverse wrist curl](#reversewristcurl) | 12 |
-| [Dip (parallel-bar dip)](#dip) | 12 | [Rhomboids (major and minor)](#rhomboids) | 9 |
-| [Distal biceps tendon rupture](#distalbicepstendonrupture) | 13 | [RIR (repetitions in reserve)](#rir) | 10 |
-| [Distal clavicular osteolysis ("weightlifter's shoulder")](#distalclavicularosteolysis) | 13 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
-| [Distal triceps tendon rupture](#distaltricepsrupture) | 13 | [Rotator cuff](#rotatorcuff) | 9 |
-| [Dorsal scapular nerve](#dorsalscapularnerve) | 9 | [Rotator cuff muscles](#rotatorcuffmuscles) | 9 |
-| [Dose–response relationship](#doseresponserelationship) | 10 | [Rotator cuff tear](#rotatorcufftear) | 13 |
-| [Double progression](#doubleprogression) | 10 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
-| [Dumbbell bench press](#dumbbellbenchpress) | 12 | [Row](#row) | 12 |
-| [Eccentric contraction](#eccentriccontraction) | 6 | [RPE (rating of perceived exertion)](#rpe) | 10 |
-| [Effect size](#effectsize) | 9 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
-| [Effort tolerance](#efforttolerance) | 10 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
-| [Elbow extension](#elbowextension) | 4 | [Sacrum](#sacrum) | 3 |
-| [Elbow flexion](#elbowflexion) | 4 | [Sagittal plane](#sagittalplane) | 1 |
-| [Elbow flexor loading class (stretch-loaded, half-loaded, stretch-free)](#elbowflexorloadingclass) | 11 | [Sarcomere](#sarcomere) | 5 |
-| [Elbow flexors](#elbowflexors) | 8 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
-| [Elbow path](#elbowpath) | 11 | [Scapula (shoulder blade)](#scapula) | 3 |
-| [EMG (electromyography)](#emg) | 9 | [Scapular (scapulothoracic) muscles](#scapularmuscles) | 9 |
-| [Erector spinae](#erectorspinae) | 8 | [Scapular anterior tilt](#scapularanteriortilt) | 4 |
-| [Erector spinae aponeurosis](#erectorspinaeaponeurosis) | 3 | [Scapular depression](#scapulardepression) | 4 |
-| [Excursion](#excursion) | 4 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
-| [Extensor carpi radialis brevis (ECRB)](#extensorcarpiradialisbrevis) | 9 | [Scapular dyskinesis](#scapulardyskinesis) | 13 |
-| [External oblique](#externaloblique) | 9 | [Scapular elevation](#scapularelevation) | 4 |
-| [External rotation exercise](#externalrotationexercise) | 12 | [Scapular internal and external rotation](#scapularinternalrotation) | 4 |
-| [Face pull](#facepull) | 12 | [Scapular load class (elevation-, depression-, retraction-, protraction-, upward-rotation-, downward-rotation-loaded)](#scapularloadclass) | 11 |
-| [Farmer's walk](#farmerswalk) | 12 | [Scapular posterior tilt](#scapularposteriortilt) | 4 |
-| [Fascicle length](#fasciclelength) | 5 | [Scapular protraction (abduction)](#scapularprotraction) | 4 |
-| [Femoral nerve](#femoralnerve) | 8 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
-| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
-| [Femur (thigh bone)](#femur) | 3 | [Scapular winging](#scapularwinging) | 13 |
-| [Finger flexion](#fingerflexion) | 4 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
-| [Finger pulley injury](#pulleyinjury) | 13 | [Scapulothoracic articulation](#scapulothoracicarticulation) | 3 |
-| [Flexion relaxation](#flexionrelaxation) | 11 | [Seated calf raise](#seatedcalfraise) | 12 |
-| [Flexor digitorum profundus (FDP)](#flexordigitorumprofundus) | 9 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
-| [Flexor digitorum superficialis (FDS)](#flexordigitorumsuperficialis) | 9 | [Semimembranosus (SM)](#semimembranosus) | 8 |
-| [Force–length relationship](#forcelengthrelationship) | 5 | [Semitendinosus (ST)](#semitendinosus) | 8 |
-| [Forearm muscles](#forearmmuscles) | 9 | [Serratus anterior](#serratusanterior) | 8 |
-| [Forearm pronation](#forearmpronation) | 4 | [Sesamoid bone](#sesamoid) | 3 |
-| [Forearm supination](#forearmsupination) | 4 | [Set](#set) | 10 |
-| [Front raise](#frontraise) | 12 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
-| [Front squat](#frontsquat) | 12 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
-| [Frontal (coronal) plane](#frontalplane) | 1 | [Shoulder abduction](#shoulderabduction) | 4 |
-| [Gastrocnemius](#gastrocnemius) | 8 | [Shoulder adduction](#shoulderadduction) | 4 |
-| [Glenohumeral joint](#glenohumeraljoint) | 3 | [Shoulder extension](#shoulderextension) | 4 |
-| [Glute-ham raise (GHR)](#glutehamraise) | 12 | [Shoulder external (lateral) rotation](#shoulderexternalrotation) | 4 |
-| [Gluteal tendinopathy (greater trochanteric pain syndrome)](#glutealtendinopathy) | 13 | [Shoulder flexion](#shoulderflexion) | 4 |
-| [Gluteus maximus](#gluteusmaximus) | 8 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
-| [Gluteus medius](#gluteusmedius) | 8 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
-| [Gluteus minimus](#gluteusminimus) | 8 | [Shoulder instability](#shoulderinstability) | 13 |
-| [Good morning](#goodmorning) | 12 | [Shoulder position class (Overhead, Raised, Down)](#shoulderpositionclass) | 11 |
-| [Gracilis](#gracilis) | 8 | [Shrug](#shrug) | 12 |
-| [Greater trochanter](#greatertrochanter) | 3 | [Side plank](#sideplank) | 12 |
-| [Greater tubercle](#greatertubercle) | 3 | [Sissy squat](#sissysquat) | 12 |
-| [Grip demand class (support, crush, pinch, open-hand)](#gripdemandclass) | 11 | [Sit-up](#situp) | 12 |
-| [Grip width](#gripwidth) | 11 | [Size principle](#sizeprinciple) | 6 |
-| [Hack squat](#hacksquat) | 12 | [Smith machine squat](#smithmachinesquat) | 12 |
-| [Hammer curl](#hammercurl) | 12 | [Snapping triceps](#snappingtriceps) | 13 |
-| [Hamstrings](#hamstrings) | 8 | [Soleus](#soleus) | 8 |
-| [Hand gripper](#handgripper) | 12 | [Specific tension](#specifictension) | 5 |
-| [Handgrip dynamometry](#handgripdynamometry) | 9 | [Spinal role class (spine-moving, spine-holding, supported)](#spinalroleclass) | 11 |
-| [Hangboard hang](#hangboardhang) | 12 | [Spine of the scapula](#scapularspine) | 3 |
-| [Hanging knee raise](#hangingkneeraise) | 12 | [Split squat](#splitsquat) | 12 |
-| [Hard set](#hardset) | 10 | [Spondylolysis](#spondylolysis) | 13 |
-| [Hip abduction](#hipabduction) | 4 | [Squat depth](#squatdepth) | 11 |
-| [Hip adduction](#hipadduction) | 4 | [Stance width](#stancewidth) | 11 |
-| [Hip adduction machine](#hipadductionmachine) | 12 | [Step-up](#stepup) | 12 |
-| [Hip adductors](#hipadductors) | 8 | [Sternoclavicular joint](#sternoclavicularjoint) | 3 |
-| [Hip extension](#hipextension) | 4 | [Sternum (breastbone)](#sternum) | 3 |
-| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Sticking region](#stickingregion) | 11 |
-| [Hip flexion](#hipflexion) | 4 | [Straight-arm pulldown](#straightarmpulldown) | 12 |
-| [Hip hinge](#hiphinge) | 11 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
-| [Hip internal (medial) rotation](#hipinternalrotation) | 4 | [Subacromial decompression](#subacromialdecompression) | 13 |
-| [Hip joint (acetabulofemoral joint)](#hipjoint) | 3 | [Subacromial impingement](#impingement) | 13 |
-| [Hip osteoarthritis](#hiposteoarthritis) | 13 | [Subacromial space](#subacromialspace) | 3 |
-| [Hook grip](#hookgrip) | 11 | [Subscapularis](#subscapularis) | 9 |
-| [Horizontal pull](#horizontalpull) | 11 | [Suitcase carry](#suitcasecarry) | 12 |
-| [Humeral elevation](#humeralelevation) | 4 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
-| [Humerus (upper arm bone)](#humerus) | 3 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
-| [Hypertrophy](#hypertrophy) | 7 | [Suprascapular nerve](#suprascapularnerve) | 9 |
-| [Iliocostalis lumborum](#iliocostalislumborum) | 8 | [Supraspinatus](#supraspinatus) | 9 |
+| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Medial epicondylalgia ("golfer's elbow")](#medialepicondylalgia) | 13 |
+| [45° back extension (hip extension)](#backextension) | 12 | [Medial epicondyle](#medialepicondyle) | 3 |
+| [Ab wheel](#abwheel) | 12 | [Median nerve](#mediannerve) | 9 |
+| [Abdominal wall](#abdominalwall) | 9 | [Middle (transverse) trapezius](#middletrapezius) | 9 |
+| [Accessory nerve (CN XI)](#accessorynerve) | 9 | [Middle deltoid](#middledeltoid) | 9 |
+| [Achilles tendinopathy](#achillestendinopathy) | 13 | [Mixed grip](#mixedgrip) | 11 |
+| [Achilles tendon](#achillestendon) | 3 | [Moment arm](#momentarm) | 2 |
+| [ACL reconstruction](#aclreconstruction) | 13 | [Momentary (muscular) failure](#momentaryfailure) | 10 |
+| [Acromioclavicular joint (AC joint)](#acromioclavicularjoint) | 3 | [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 |
+| [Acromion](#acromion) | 3 | [Motor unit](#motorunit) | 6 |
+| [Adductor brevis](#adductorbrevis) | 8 | [Multifidus](#multifidus) | 9 |
+| [Adductor loading mode (adduction-loaded, extension-loaded, unloaded)](#adductorloadingmode) | 11 | [Muscle thickness](#musclethickness) | 5 |
+| [Adductor longus](#adductorlongus) | 8 | [Muscle volume](#musclevolume) | 5 |
+| [Adductor magnus](#adductormagnus) | 8 | [Musculocutaneous nerve](#musculocutaneousnerve) | 9 |
+| [Adductor strain](#adductorstrain) | 13 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
+| [Adductor tubercle](#adductortubercle) | 3 | [Net joint moment](#netjointmoment) | 11 |
+| [Adductor-related groin pain](#adductorrelatedgroinpain) | 13 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
+| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Nordic hamstring curl](#nordiccurl) | 12 |
+| [Anconeus](#anconeus) | 9 | [Nuchal ligament](#nuchalligament) | 3 |
+| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Obturator nerve](#obturatornerve) | 8 |
+| [Ankle plantar flexion](#ankleplantarflexion) | 4 | [Olecranon](#olecranon) | 3 |
+| [Annular pulley](#annularpulley) | 3 | [Open kinetic chain exercise](#openkineticchain) | 11 |
+| [Anterior deltoid](#anteriordeltoid) | 9 | [Overhead press (shoulder press, military press)](#overheadpress) | 12 |
+| [Aponeurosis](#aponeurosis) | 3 | [Overhead triceps extension](#overheadtricepsextension) | 12 |
+| [Apophysis](#apophysis) | 3 | [Painful arc](#painfularc) | 13 |
+| [Attentional focus](#attentionalfocus) | 10 | [Pallof press](#pallofpress) | 12 |
+| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Passive tension](#passivetension) | 5 |
+| [Axillary nerve](#axillarynerve) | 9 | [Patella (kneecap)](#patella) | 3 |
+| [Back squat](#backsquat) | 12 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
+| [Bar position](#barposition) | 11 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
+| [Barbell glute bridge](#glutebridge) | 12 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
+| [Barbell hip thrust](#hipthrust) | 12 | [Patellofemoral pain](#patellofemoralpain) | 13 |
+| [Bayes factor (BF)](#bayesfactor) | 9 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
+| [Bayesian cable curl](#bayesiancurl) | 12 | [Pectineus](#pectineus) | 8 |
+| [Belt squat](#beltsquat) | 12 | [Pectoral nerves (lateral and medial)](#pectoralnerves) | 9 |
+| [Bench inclination](#benchinclination) | 11 | [Pectoralis major](#pectoralismajor) | 9 |
+| [Bench press](#benchpress) | 12 | [Pectoralis major tear (pectoralis major rupture)](#pectoralismajortear) | 13 |
+| [Biacromial width](#biacromialwidth) | 3 | [Pectoralis major, abdominal part (the "lower chest")](#pectoralisabdominalhead) | 9 |
+| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Pectoralis major, clavicular head (the "upper chest")](#pectoralisclavicularhead) | 9 |
+| [Biceps brachii](#bicepsbrachii) | 9 | [Pectoralis major, sternocostal head (the "mid chest")](#pectoralissternocostalhead) | 9 |
+| [Biceps curl](#bicepscurl) | 12 | [Pectoralis minor](#pectoralisminor) | 9 |
+| [Biceps femoris, long head (BFlh)](#bicepsfemorislonghead) | 8 | [Pelvic floor](#pelvicfloor) | 9 |
+| [Biceps femoris, short head (BFsh)](#bicepsfemorisshorthead) | 8 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
+| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Pelvis](#pelvis) | 3 |
+| [Biering-Sørensen test](#bieringsorensentest) | 9 | [Pennation angle](#pennationangle) | 5 |
+| [Bilaminar tendon](#bilaminartendon) | 3 | [Plane of elevation](#planeofelevation) | 4 |
+| [Brachialis](#brachialis) | 9 | [Plank](#plank) | 12 |
+| [Brachioradialis](#brachioradialis) | 9 | [Plate pinch](#platepinch) | 12 |
+| [Cable crunch](#cablecrunch) | 12 | [Posterior deltoid](#posteriordeltoid) | 9 |
+| [Cable or machine kickback (standing hip extension)](#kickback) | 12 | [Posterior oblique sling](#posteriorobliquesling) | 8 |
+| [Cable pull-through](#cablepullthrough) | 12 | [Preacher curl](#preachercurl) | 12 |
+| [Calf raise](#calfraise) | 12 | [Progressive overload](#progressiveoverload) | 10 |
+| [Carpal tunnel](#carpaltunnel) | 3 | [Pronated (overhand) grip](#pronatedgrip) | 11 |
+| [Carpal tunnel syndrome](#carpaltunnelsyndrome) | 13 | [Prone Y raise (prone overhead arm raise)](#proneyraise) | 12 |
+| [Chest fly (dumbbell fly, cable fly or crossover, pec deck)](#chestfly) | 12 | [Proximity to failure](#proximitytofailure) | 10 |
+| [Chin-up](#chinup) | 12 | [Psoas major](#psoasmajor) | 9 |
+| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Pubic ramus](#pubicramus) | 3 |
+| [Clavicle (collarbone)](#clavicle) | 3 | [Pull-up](#pullup) | 12 |
+| [Close-grip bench press](#closegripbenchpress) | 12 | [Pullover](#pullover) | 12 |
+| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Push-up](#pushup) | 12 |
+| [Compound exercise](#compound) | 11 | [Push-up plus](#pushupplus) | 12 |
+| [Concentric contraction](#concentriccontraction) | 6 | [Quadratus lumborum](#quadratuslumborum) | 9 |
+| [Contralateral](#contralateral) | 1 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
+| [Copenhagen adduction exercise](#copenhagenadduction) | 12 | [Quadriceps tendon](#quadricepstendon) | 3 |
+| [Coracobrachialis](#coracobrachialis) | 9 | [Radial nerve](#radialnerve) | 9 |
+| [Coracoid process](#coracoidprocess) | 3 | [Radial tuberosity](#radialtuberosity) | 3 |
+| [Costal cartilage](#costalcartilage) | 3 | [Range of motion (ROM)](#rangeofmotion) | 4 |
+| [Crunch](#crunch) | 12 | [Rectus abdominis](#rectusabdominis) | 9 |
+| [Cuff loading class (rotation-loaded, compression-, traction-, elevation-loaded, end-range restraint)](#cuffloadingclass) | 11 | [Rectus femoris](#rectusfemoris) | 8 |
+| [Dead hang](#deadhang) | 12 | [Rectus sheath](#rectussheath) | 3 |
+| [Deadlift](#deadlift) | 12 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
+| [Deep hip external rotators](#hipexternalrotators) | 8 | [Repetition (rep)](#repetition) | 10 |
+| [Deload](#deload) | 10 | [Resistance profile](#resistanceprofile) | 11 |
+| [Deltoid](#deltoid) | 9 | [Reverse curl](#reversecurl) | 12 |
+| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 12 |
+| [Diaphragm](#diaphragm) | 9 | [Reverse hyperextension](#reversehyperextension) | 12 |
+| [Diastasis recti](#diastasisrecti) | 13 | [Reverse Nordic curl](#reversenordic) | 12 |
+| [Dip (parallel-bar dip)](#dip) | 12 | [Reverse wrist curl](#reversewristcurl) | 12 |
+| [Distal biceps tendon rupture](#distalbicepstendonrupture) | 13 | [Rhomboids (major and minor)](#rhomboids) | 9 |
+| [Distal clavicular osteolysis ("weightlifter's shoulder")](#distalclavicularosteolysis) | 13 | [RIR (repetitions in reserve)](#rir) | 10 |
+| [Distal triceps tendon rupture](#distaltricepsrupture) | 13 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
+| [Dorsal scapular nerve](#dorsalscapularnerve) | 9 | [Rotator cuff](#rotatorcuff) | 9 |
+| [Dose–response relationship](#doseresponserelationship) | 10 | [Rotator cuff muscles](#rotatorcuffmuscles) | 9 |
+| [Double progression](#doubleprogression) | 10 | [Rotator cuff tear](#rotatorcufftear) | 13 |
+| [Dumbbell bench press](#dumbbellbenchpress) | 12 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
+| [Eccentric contraction](#eccentriccontraction) | 6 | [Row](#row) | 12 |
+| [Effect size](#effectsize) | 9 | [RPE (rating of perceived exertion)](#rpe) | 10 |
+| [Effort tolerance](#efforttolerance) | 10 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
+| [Elbow extension](#elbowextension) | 4 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
+| [Elbow flexion](#elbowflexion) | 4 | [Sacrum](#sacrum) | 3 |
+| [Elbow flexor loading class (stretch-loaded, half-loaded, stretch-free)](#elbowflexorloadingclass) | 11 | [Sagittal plane](#sagittalplane) | 1 |
+| [Elbow flexors](#elbowflexors) | 8 | [Sarcomere](#sarcomere) | 5 |
+| [Elbow path](#elbowpath) | 11 | [Sartorius](#sartorius) | 9 |
+| [EMG (electromyography)](#emg) | 9 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
+| [Erector spinae](#erectorspinae) | 8 | [Scapula (shoulder blade)](#scapula) | 3 |
+| [Erector spinae aponeurosis](#erectorspinaeaponeurosis) | 3 | [Scapular (scapulothoracic) muscles](#scapularmuscles) | 9 |
+| [Excursion](#excursion) | 4 | [Scapular anterior tilt](#scapularanteriortilt) | 4 |
+| [Extensor carpi radialis brevis (ECRB)](#extensorcarpiradialisbrevis) | 9 | [Scapular depression](#scapulardepression) | 4 |
+| [External oblique](#externaloblique) | 9 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
+| [External rotation exercise](#externalrotationexercise) | 12 | [Scapular dyskinesis](#scapulardyskinesis) | 13 |
+| [Face pull](#facepull) | 12 | [Scapular elevation](#scapularelevation) | 4 |
+| [Farmer's walk](#farmerswalk) | 12 | [Scapular internal and external rotation](#scapularinternalrotation) | 4 |
+| [Fascicle length](#fasciclelength) | 5 | [Scapular load class (elevation-, depression-, retraction-, protraction-, upward-rotation-, downward-rotation-loaded)](#scapularloadclass) | 11 |
+| [Femoral nerve](#femoralnerve) | 8 | [Scapular posterior tilt](#scapularposteriortilt) | 4 |
+| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Scapular protraction (abduction)](#scapularprotraction) | 4 |
+| [Femur (thigh bone)](#femur) | 3 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
+| [Finger flexion](#fingerflexion) | 4 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
+| [Finger pulley injury](#pulleyinjury) | 13 | [Scapular winging](#scapularwinging) | 13 |
+| [Flexion relaxation](#flexionrelaxation) | 11 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
+| [Flexor digitorum profundus (FDP)](#flexordigitorumprofundus) | 9 | [Scapulothoracic articulation](#scapulothoracicarticulation) | 3 |
+| [Flexor digitorum superficialis (FDS)](#flexordigitorumsuperficialis) | 9 | [Seated calf raise](#seatedcalfraise) | 12 |
+| [Force–length relationship](#forcelengthrelationship) | 5 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
+| [Forearm muscles](#forearmmuscles) | 9 | [Semimembranosus (SM)](#semimembranosus) | 8 |
+| [Forearm pronation](#forearmpronation) | 4 | [Semitendinosus (ST)](#semitendinosus) | 8 |
+| [Forearm supination](#forearmsupination) | 4 | [Serratus anterior](#serratusanterior) | 8 |
+| [Front raise](#frontraise) | 12 | [Sesamoid bone](#sesamoid) | 3 |
+| [Front squat](#frontsquat) | 12 | [Set](#set) | 10 |
+| [Frontal (coronal) plane](#frontalplane) | 1 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
+| [Gastrocnemius](#gastrocnemius) | 8 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
+| [Glenohumeral joint](#glenohumeraljoint) | 3 | [Shoulder abduction](#shoulderabduction) | 4 |
+| [Glute-ham raise (GHR)](#glutehamraise) | 12 | [Shoulder adduction](#shoulderadduction) | 4 |
+| [Gluteal tendinopathy (greater trochanteric pain syndrome)](#glutealtendinopathy) | 13 | [Shoulder extension](#shoulderextension) | 4 |
+| [Gluteus maximus](#gluteusmaximus) | 8 | [Shoulder external (lateral) rotation](#shoulderexternalrotation) | 4 |
+| [Gluteus medius](#gluteusmedius) | 8 | [Shoulder flexion](#shoulderflexion) | 4 |
+| [Gluteus minimus](#gluteusminimus) | 8 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
+| [Good morning](#goodmorning) | 12 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
+| [Gracilis](#gracilis) | 8 | [Shoulder instability](#shoulderinstability) | 13 |
+| [Greater trochanter](#greatertrochanter) | 3 | [Shoulder position class (Overhead, Raised, Down)](#shoulderpositionclass) | 11 |
+| [Greater tubercle](#greatertubercle) | 3 | [Shrug](#shrug) | 12 |
+| [Grip demand class (support, crush, pinch, open-hand)](#gripdemandclass) | 11 | [Side plank](#sideplank) | 12 |
+| [Grip width](#gripwidth) | 11 | [Single-leg lowering](#singleleglowering) | 11 |
+| [Hack squat](#hacksquat) | 12 | [Sissy squat](#sissysquat) | 12 |
+| [Hammer curl](#hammercurl) | 12 | [Sit-up](#situp) | 12 |
+| [Hamstrings](#hamstrings) | 8 | [Size principle](#sizeprinciple) | 6 |
+| [Hand gripper](#handgripper) | 12 | [Smith machine squat](#smithmachinesquat) | 12 |
+| [Handgrip dynamometry](#handgripdynamometry) | 9 | [Snapping hip (internal)](#snappinghip) | 13 |
+| [Hangboard hang](#hangboardhang) | 12 | [Snapping triceps](#snappingtriceps) | 13 |
+| [Hanging knee raise](#hangingkneeraise) | 12 | [Soleus](#soleus) | 8 |
+| [Hard set](#hardset) | 10 | [Specific tension](#specifictension) | 5 |
+| [Hip abduction](#hipabduction) | 4 | [Spinal role class (spine-moving, spine-holding, supported)](#spinalroleclass) | 11 |
+| [Hip adduction](#hipadduction) | 4 | [Spine of the scapula](#scapularspine) | 3 |
+| [Hip adduction machine](#hipadductionmachine) | 12 | [Split squat](#splitsquat) | 12 |
+| [Hip adductors](#hipadductors) | 8 | [Spondylolysis](#spondylolysis) | 13 |
+| [Hip extension](#hipextension) | 4 | [Squat depth](#squatdepth) | 11 |
+| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Stance width](#stancewidth) | 11 |
+| [Hip flexion](#hipflexion) | 4 | [Step-up](#stepup) | 12 |
+| [Hip flexion load class (lengthened-, mid-, shortened-loaded; spine held or moving)](#hipflexionloadclass) | 11 | [Sternoclavicular joint](#sternoclavicularjoint) | 3 |
+| [Hip hinge](#hiphinge) | 11 | [Sternum (breastbone)](#sternum) | 3 |
+| [Hip internal (medial) rotation](#hipinternalrotation) | 4 | [Sticking region](#stickingregion) | 11 |
+| [Hip joint (acetabulofemoral joint)](#hipjoint) | 3 | [Straight-arm pulldown](#straightarmpulldown) | 12 |
+| [Hip osteoarthritis](#hiposteoarthritis) | 13 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
+| [Hook grip](#hookgrip) | 11 | [Subacromial decompression](#subacromialdecompression) | 13 |
+| [Horizontal pull](#horizontalpull) | 11 | [Subacromial impingement](#impingement) | 13 |
+| [Humeral elevation](#humeralelevation) | 4 | [Subacromial space](#subacromialspace) | 3 |
+| [Humerus (upper arm bone)](#humerus) | 3 | [Subscapularis](#subscapularis) | 9 |
+| [Hypertrophy](#hypertrophy) | 7 | [Suitcase carry](#suitcasecarry) | 12 |
+| [Iliacus](#iliacus) | 9 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
+| [Iliocostalis lumborum](#iliocostalislumborum) | 8 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
+| [Iliopsoas](#iliopsoas) | 9 | [Suprascapular nerve](#suprascapularnerve) | 9 |
+| [Iliopsoas-related groin pain](#iliopsoasgroinpain) | 13 | [Supraspinatus](#supraspinatus) | 9 |
 | [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [T2-weighted MRI (transverse relaxation time)](#t2mri) | 9 |
 | [Incline curl](#inclinecurl) | 12 | [Technical failure](#technicalfailure) | 10 |
 | [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [Tempo](#tempo) | 10 |
@@ -23098,27 +24237,28 @@ plain same-file heading anchor.
 | [Intra-abdominal pressure (IAP)](#intraabdominalpressure) | 3 | [Teres major](#teresmajor) | 8 |
 | [Inverted row](#invertedrow) | 12 | [Teres minor](#teresminor) | 9 |
 | [Ischial tuberosity](#ischialtuberosity) | 3 | [The EMG–hypertrophy dissociation](#emghypertrophydissociation) | 9 |
-| [Isolated lumbar extension (ILEX)](#isolatedlumbarextension) | 12 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
-| [Isolation exercise](#isolation) | 11 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
-| [Joint reaction force](#jointreactionforce) | 3 | [Tibia (shin bone)](#tibia) | 3 |
-| [Kettlebell swing](#kettlebellswing) | 12 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
-| [Kipping](#kipping) | 12 | [Torque (moment)](#torque) | 2 |
-| [Knee extension](#kneeextension) | 4 | [Torso inclination](#torsoinclination) | 11 |
-| [Knee flexion](#kneeflexion) | 4 | [Training frequency](#trainingfrequency) | 10 |
-| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [Training volume](#trainingvolume) | 10 |
-| [Knee travel](#kneetravel) | 11 | [Transverse (horizontal) plane](#transverseplane) | 1 |
-| [Lacertus fibrosus (bicipital aponeurosis)](#lacertusfibrosus) | 3 | [Transversus abdominis](#transversusabdominis) | 9 |
-| [Lat pulldown](#latpulldown) | 12 | [Trapezius](#trapezius) | 9 |
-| [Lateral epicondylalgia ("tennis elbow")](#lateralepicondylalgia) | 13 | [Trapezius myalgia](#trapeziusmyalgia) | 13 |
-| [Lateral epicondyle](#lateralepicondyle) | 3 | [Triceps brachii](#tricepsbrachii) | 9 |
-| [Lateral raise](#lateralraise) | 12 | [Triceps brachii, lateral head](#tricepslateralhead) | 9 |
-| [Lateral slide](#lateralslide) | 12 | [Triceps brachii, long head](#tricepslonghead) | 9 |
-| [Latissimus dorsi](#latissimusdorsi) | 8 | [Triceps brachii, medial head](#tricepsmedialhead) | 9 |
-| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Triceps kickback](#tricepskickback) | 12 |
-| [Leg extension](#legextension) | 12 | [Triceps pushdown (cable pushdown)](#tricepspushdown) | 12 |
-| [Leg press](#legpress) | 12 | [Triceps surae](#tricepssurae) | 8 |
-| [Lengthened partials](#lengthenedpartials) | 7 | [Trunk extension](#trunkextension) | 5 |
-| [Lengthened position](#lengthenedposition) | 7 | [Trunk flexion](#trunkflexion) | 5 |
+| [Isolated lumbar extension (ILEX)](#isolatedlumbarextension) | 12 | [Thomas test (and modified Thomas test)](#thomastest) | 13 |
+| [Isolation exercise](#isolation) | 11 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
+| [Joint reaction force](#jointreactionforce) | 3 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
+| [Kettlebell swing](#kettlebellswing) | 12 | [Tibia (shin bone)](#tibia) | 3 |
+| [Kipping](#kipping) | 12 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
+| [Knee extension](#kneeextension) | 4 | [Torque (moment)](#torque) | 2 |
+| [Knee flexion](#kneeflexion) | 4 | [Torso inclination](#torsoinclination) | 11 |
+| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [Training frequency](#trainingfrequency) | 10 |
+| [Knee travel](#kneetravel) | 11 | [Training volume](#trainingvolume) | 10 |
+| [Lacertus fibrosus (bicipital aponeurosis)](#lacertusfibrosus) | 3 | [Transverse (horizontal) plane](#transverseplane) | 1 |
+| [Lat pulldown](#latpulldown) | 12 | [Transversus abdominis](#transversusabdominis) | 9 |
+| [Lateral epicondylalgia ("tennis elbow")](#lateralepicondylalgia) | 13 | [Trapezius](#trapezius) | 9 |
+| [Lateral epicondyle](#lateralepicondyle) | 3 | [Trapezius myalgia](#trapeziusmyalgia) | 13 |
+| [Lateral raise](#lateralraise) | 12 | [Triceps brachii](#tricepsbrachii) | 9 |
+| [Lateral slide](#lateralslide) | 12 | [Triceps brachii, lateral head](#tricepslateralhead) | 9 |
+| [Latissimus dorsi](#latissimusdorsi) | 8 | [Triceps brachii, long head](#tricepslonghead) | 9 |
+| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Triceps brachii, medial head](#tricepsmedialhead) | 9 |
+| [Leg extension](#legextension) | 12 | [Triceps kickback](#tricepskickback) | 12 |
+| [Leg press](#legpress) | 12 | [Triceps pushdown (cable pushdown)](#tricepspushdown) | 12 |
+| [Lengthened partials](#lengthenedpartials) | 7 | [Triceps surae](#tricepssurae) | 8 |
+| [Lengthened position](#lengthenedposition) | 7 | [Trunk extension](#trunkextension) | 5 |
+| [Lesser trochanter](#lessertrochanter) | 9 | [Trunk flexion](#trunkflexion) | 5 |
 | [Lesser tubercle](#lessertubercle) | 3 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
 | [Levator scapulae](#levatorscapulae) | 9 | [Trunk rotation](#trunkrotation) | 5 |
 | [Lifting straps](#liftingstraps) | 11 | [Ulnar nerve](#ulnarnerve) | 9 |
@@ -23137,7 +24277,6 @@ plain same-file heading anchor.
 | [Machine chest press](#machinechestpress) | 12 | [Wrist flexion](#wristflexion) | 4 |
 | [Mechanical tension](#mechanicaltension) | 6 | [Wrist flexors](#wristflexors) | 9 |
 | [Mechanotransduction](#mechanotransduction) | 6 | [Wrist joint](#wristjoint) | 3 |
-| [Medial epicondylalgia ("golfer's elbow")](#medialepicondylalgia) | 13 |  |  |
 
 ---
 
@@ -23730,7 +24869,7 @@ Three quantities are routinely confused and are not the same. **Joint excursion*
 
 *Biomechanics & Mechanics*
 
-**Hip flexion** — Bringing the thigh toward the front of the trunk. Formally: sagittal-plane rotation of the femur relative to the pelvis that folds the thigh toward the front of the trunk, measured throughout this document as degrees of flexion from a straight body line — 0° standing upright, 90° sitting upright, 110–125° at the bottom of a deep squat. It shortens any muscle crossing the front of the hip, which is the whole mechanism behind the rectus femoris problem in Part III §B.4.
+**Hip flexion** — Bringing the thigh toward the front of the trunk. Formally: sagittal-plane rotation of the femur relative to the pelvis that folds the thigh toward the front of the trunk, measured throughout this document as degrees of flexion from a straight body line — 0° standing upright, 90° sitting upright, 110–125° at the bottom of a deep squat. It shortens any muscle crossing the front of the hip, which is the whole mechanism behind the rectus femoris problem in Part III §B.4. **Which end of the range an exercise loads is decided by posture, not equipment:** lying down, the gravitational moment peaks with the hip extended; standing or hanging, it peaks near 90° (Part XVII §B.7).
 
 ## hipextension
 
@@ -24068,7 +25207,7 @@ That combination — very long fascicles, very small PCSA — defines it as an *
 
 *Anatomy & Structure*
 
-**Rectus femoris** — The quadriceps head that runs straight down the middle of the front of the thigh, from the pelvis to the kneecap. Formally: the [biarticular](#biarticularmuscle) head of the quadriceps femoris, originating on the anterior inferior iliac spine and the groove above the acetabulum, inserting via the [quadriceps tendon](#quadricepstendon); it both flexes the hip and extends the knee. Measured architecture: 110.6 g mass, 7.59 cm [fascicle length](#fasciclelength), 13.9° [pennation](#pennationangle), 13.5 cm² [PCSA](#pcsa) (Ward et al., 2009a). It is the smallest head and the only one whose length is set by two joints, which is the reason almost every quadriceps program under-trains it.
+**Rectus femoris** — The quadriceps head that runs straight down the middle of the front of the thigh, from the pelvis to the kneecap. Formally: the [biarticular](#biarticularmuscle) head of the quadriceps femoris, originating on the anterior inferior iliac spine and the groove above the acetabulum, inserting via the [quadriceps tendon](#quadricepstendon); it both flexes the hip and extends the knee. Measured architecture: 110.6 g mass, 7.59 cm [fascicle length](#fasciclelength), 13.9° [pennation](#pennationangle), 13.5 cm² [PCSA](#pcsa) (Ward et al., 2009a). It is the smallest head and the only one whose length is set by two joints, which is the reason almost every quadriceps program under-trains it. It is also a **major hip flexor in the low range** — the largest single share of a three-muscle capacity index below about 60°, on a cadaveric estimate the authors caution against reading as actual torque (Kumazaki et al., 2022, discussed in Part XVII §A.4).
 
 ## vastuslateralis
 
@@ -24546,7 +25685,27 @@ That combination — very long fascicles, very small PCSA — defines it as an *
 
 *Anatomy & Structure*
 
-**Psoas major** — The thick muscle running from the lumbar spine, through the pelvis, to the inside of the thigh bone. Formally: arising from the bodies and transverse processes of T12–L5 and inserting with iliacus on the lesser trochanter of the [femur](#femur); supplied by the lumbar plexus (L1–L3). It is a powerful [hip flexor](#hipflexion), and because its upper end attaches to the lumbar vertebrae it loads them whenever it contracts. **What that load is has been modelled and it is not what folklore says:** psoas exerts "only very small moments that tend to extend the upper lumbar spine and to flex the lower lumbar spine", while at maximum contraction applying **severe compression and large shear** to the segments (Bogduk et al., 1992b). That is the reason a straight-leg or hanging leg raise is not an abdominal exercise in the way it is usually described — the wall is holding the trunk against a large compressive and shearing load rather than producing the movement (Part VI §B.10).
+**Psoas major** — The thick muscle running from the lumbar spine, through the pelvis, to the inside of the thigh bone. Formally: arising from the bodies and transverse processes of T12–L5 and inserting with iliacus on the lesser trochanter of the [femur](#femur); supplied by the lumbar plexus (L1–L3). It is a powerful [hip flexor](#hipflexion), and because its upper end attaches to the lumbar vertebrae it loads them whenever it contracts. **What that load is has been modelled and it is not what folklore says:** psoas exerts "only very small moments that tend to extend the upper lumbar spine and to flex the lower lumbar spine", while at maximum contraction applying **severe compression and large shear** to the segments (Bogduk et al., 1992b). That is the reason a straight-leg or hanging leg raise is not an abdominal exercise in the way it is usually described — the wall is holding the trunk against a large compressive and shearing load rather than producing the movement (Part VI §B.10). **As a hip flexor it is architecturally weak and long-fibred** — a [PCSA](#pcsa) of 7.7 cm² with 11.69 cm fibres (Ward et al., 2009a) — and its tendon leaves the femoral head at about 14° of hip flexion and the iliopectineal eminence at about 54°, becoming an effective limb flexor across 45–60° (Yoshio et al., 2002). Part XVII treats it as a muscle to train.
+
+## lessertrochanter
+*Anatomy & Structure*
+
+**Lesser trochanter** — The small bony bump on the back and inner side of the upper thigh bone, where the hip flexor tendon lands. Formally: the posteromedial prominence of the proximal [femur](#femur), receiving the conjoined tendon of [psoas major](#psoasmajor) and iliacus. Its position behind and inside the shaft is usually said to give the iliopsoas a secondary external rotation action, which is **Contested**: traction on the isolated muscle produced flexion "with no rotational component" in the anatomical position, with rotation appearing only in abduction (Skyrme et al., 1999).
+
+## iliacus
+*Anatomy & Structure*
+
+**Iliacus** — The flat fan-shaped muscle lining the inner bowl of the pelvis, which joins the psoas to lift the thigh. Formally: arising from the iliac fossa and inserting with [psoas major](#psoasmajor) on the [lesser trochanter](#lessertrochanter) via a conjoined tendon, supplied by the **femoral** nerve (L2–L3). Unlike its partner it crosses **one** joint and has no attachment to the spine, so it flexes the hip without loading the lumbar segments. Architecture: 113.7 g, fibre length 10.66 cm, pennation 14.3°, [PCSA](#pcsa) 9.9 cm² (Ward et al., 2009a) — long-fibred and weak, built for excursion rather than force. Recorded activity rises as the hip flexes further, and the largest signals reported for it anywhere are for standing hip flexion held at 90° (Andersson et al., 1997). In a straight leg raise it is active mainly on the lifting side, which has been read as making it the hip flexor of that movement while the psoas stabilizes the trunk (Juan et al., 2024). See Part XVII.
+
+## iliopsoas
+*Anatomy & Structure*
+
+**Iliopsoas** — [Psoas major](#psoasmajor) and [iliacus](#iliacus) treated as one muscle, because their tendons join before they insert. Formally: the conjoined hip flexor inserting on the [lesser trochanter](#lessertrochanter) of the [femur](#femur), and the principal flexor of the hip **above about 60°**. They are genuinely two muscles — different origins, different nerve supplies, and only psoas major reaches the lumbar spine — so this document separates them wherever a measurement did. **Large in cross-section, weak in force, and long-fibred:** psoas major is the largest single muscle at the lumbar spine at 17.6 ± 4.0 cm² of anatomical area, but psoas and iliacus together carry a [PCSA](#pcsa) of only about 17.6 cm² against 33.4 cm² for gluteus maximus alone, with fibres of 11.69 and 10.66 cm (Ward et al., 2009a). **What a normal programme rarely does is load them at long muscle length** — that is, with the hip near extension — because posture decides which end of the range a hip flexion exercise loads (Part XVII §B.7). Sport grows it 24–36% (Sanchis-Moysi et al., 2011); twelve weeks of deliberate hip flexor training grew psoas cross-section 3% (Yamanaka et al., 2021).
+
+## sartorius
+*Anatomy & Structure*
+
+**Sartorius** — The long strap muscle that runs diagonally across the front of the thigh, from the outer point of the hip to the inner side of the knee. Formally: arising from the anterior superior iliac spine and inserting on the proximal medial tibia via the pes anserinus, supplied by the femoral nerve (L2–L3); **the longest muscle in the body**. It flexes, abducts and externally rotates the hip and flexes the knee. Its architecture is extreme: fibres of **40.30 cm** running almost the whole length of the muscle at a pennation of 1.3°, for a [PCSA](#pcsa) of just 1.9 cm² (Ward et al., 2009a) — a very long, very weak strap. No training decision in Part XVII turns on it, and it matters here mainly because it lies next to [iliacus](#iliacus) and is the muscle surface electrodes must avoid crosstalk from (Jiroumaru et al., 2014).
 
 ## diaphragm
 
@@ -24966,6 +26125,16 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 *Exercises & Technique*
 
 **Cuff loading class (rotation-loaded, compression-, traction-, elevation-loaded, end-range restraint)** — What an exercise asks the rotator cuff to do. Formally: apply all five tests to one repetition as prescribed, and **give the exercise every tag it earns** — the tags are additive, and most exercises earn more than one. **Tag 1, rotation-loaded:** rotation of the humerus about its own long axis is the movement being resisted, so that the rep could not be performed without the rotators — resisting inward rotation is *external-rotation-loaded* ([infraspinatus](#infraspinatus), [teres minor](#teresminor)), resisting outward rotation is *internal-rotation-loaded* ([subscapularis](#subscapularis)). **Tag 2, compression-loaded:** the load presses the humeral head into the socket while other muscles move the arm — a press, a row, a raise. **Tag 3, traction-loaded:** the load pulls the humerus away from the socket — a dead hang, a heavy carry. **Tag 4, elevation-loaded:** the rep resists elevation in roughly the first 30°, where [supraspinatus](#supraspinatus) is a prime mover rather than a stabilizer. **Tag 5, end-range restraint:** the rep reaches end-range abduction with [external rotation](#shoulderexternalrotation) under load, where the contribution is largely passive and the injury risk is concentrated. **No tag = unloaded.** **Why it exists:** nearly everything in a normal programme earns Tag 2 or Tag 3 and almost nothing earns Tag 1, which is why the cuff is the most-worked and least-trained muscle group in the upper body (Part XVI §B.8). **Caveats:** derived in this document from directions of pull; no study has trained one tag and tested transfer to another; the 30° boundary is a convenience, not a measured threshold; and only Tag 1 can be checked against a growth outcome, by a single sixteen-man trial (Matsumura et al., 2023).
+
+## hipflexionloadclass
+*Exercises & Technique*
+
+**Hip flexion load class (lengthened-, mid-, shortened-loaded; spine held or moving)** — Which end of the hip flexors' range an exercise loads. Formally: read one repetition and answer two questions. **Step 1 — at what hip angle does the resistance peak?** For a moving exercise **posture answers this**: lying down the peak is at the bottom of the range, standing or hanging it is at the top, because the gravitational moment follows the cosine of the hip angle in one case and the sine in the other. For an isometric, the angle held is the answer. Peak at **0–30°** is **lengthened-loaded** (the muscles are longest), **30–60°** is **mid-loaded**, **60°+** is **shortened-loaded**. **Step 2 — does the lumbar spine hold still?** If the back arches or the pelvis tips to finish the repetition, it was a spinal exercise, not a hip flexor one. **Tie-break:** film one set from the side; if you have not, assume the spine moved. **Why it exists:** it answers the thing people actually disagree about — which end of the muscle an exercise loaded — and it makes visible that almost everything in a normal programme is shortened-loaded, which is the less productive end on this document's length principle (Part XVII §B.7). **What it deliberately does not do** is assign each class to a muscle; an earlier version did, over-reading a capacity index computed from elderly cadavers over a three-muscle denominator (Kumazaki et al., 2022). **Caveats:** the 30° and 60° boundaries are round numbers chosen for use, not measured thresholds; no study has trained one class and tested transfer to another.
+
+## singleleglowering
+*Exercises & Technique*
+
+**Single-leg lowering** — Lying on your back and lowering one straight leg slowly toward the floor, stopping the instant the lower back lifts. Formally: the **lengthened-loaded** [hip flexion](#hipflexionloadclass) exercise, performed supine with the opposite knee bent and the lumbar spine held in contact with the floor. **It is chosen for muscle length, not for activation:** resistance peaks with the hip near extension, where the hip flexors are longest, and isometric and near-isometric training grows muscle most reliably at long muscle lengths (Oranchuk et al., 2019). At the bottom the demand is large — roughly 98 N·m for an 80 kg person with both legs — so most of the work is resisting it with the abdominal wall. The set ends **when the lower back lifts off the floor**, not when the hip flexors fatigue. **A mechanical inference**: no hip flexor exercise has been compared with another for growth. See Part XVII §C.1.
 
 ## weightliftingbelt
 
@@ -25491,6 +26660,21 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Subacromial decompression** — An operation that removes bone from the underside of the [acromion](#acromion) and soft tissue from the space beneath it, on the theory that the cuff tendon is being mechanically pinched. Formally: arthroscopic acromioplasty with bursectomy, performed for [subacromial impingement](#impingement). **It does not beat placebo surgery.** In a three-group placebo-controlled trial of 313 patients, Oxford Shoulder Scores at six months were 32.7 after decompression against **34.2 after arthroscopy alone** — a difference of −1.3 (95% CI −3.9 to 1.3) — and both surgical arms beat no treatment by less than the trial's own 4.5-point threshold for a difference worth having (Beard et al., 2018). A separate placebo-surgery-controlled trial followed 210 patients for **ten years** and found **no between-group difference in pain at rest or on activity** (Kanto et al., 2025); a Cochrane review covers the same comparison (Karjalainen et al., 2019). **Not supported.**
 
+## snappinghip
+*Pathology & Clinical*
+
+**Snapping hip (internal)** — An audible or felt clunk at the front of the hip as it moves from flexion toward extension. Formally: the [iliopsoas](#iliopsoas) tendon flicking across underlying bone at the pelvic brim or hip capsule. **Painless snapping is common and needs nothing.** Painful snapping, or a hip that briefly gives way, is a reason to be assessed (Part XVII §E.4). Distinguish it from *external* snapping hip, where the iliotibial band crosses the greater trochanter.
+
+## iliopsoasgroinpain
+*Pathology & Clinical*
+
+**Iliopsoas-related groin pain** — Pain at the front of the hip or groin attributed to the [iliopsoas](#iliopsoas) tendon or its bursa. Formally: a clinical category whose symptoms overlap heavily with other causes of groin pain, defined in most studies by response to an image-guided anaesthetic injection. **The best-performing test combines the muscle's primary and secondary actions:** the hip–external rotation–flexion–ceiling test reported sensitivity 94% and specificity 88% (Vandeputte et al., 2025), though the pooled diagnostic literature is three studies at high risk of bias (Vandeputte et al., 2026). **Conservative treatment usually works** — 77–100% success in idiopathic and athletic cases — and in a native hip **arthroscopic tendon release adds no clear benefit beyond treating the other joint pathology, at the cost of measurable atrophy and lost hip flexion strength**. After a hip replacement it behaves differently: conservative success falls to 16–50%, because the tendon is usually being irritated by an implant edge (Vandeputte et al., 2026).
+
+## thomastest
+*Pathology & Clinical*
+
+**Thomas test (and modified Thomas test)** — The standard clinical check for hip flexor length: lying at the edge of a couch, one knee hugged to the chest, and seeing how far the other thigh drops. Formally: a passive assessment of hip extension range, used as a proxy for [iliopsoas](#iliopsoas) and [rectus femoris](#rectusfemoris) extensibility. Pooled across 27 studies and 1,056 participants, hip flexor flexibility tests showed **excellent intrarater reliability (ICC 0.90, 95% CI 0.85–0.95)** and good interrater reliability overall (ICC 0.80), but with enormous heterogeneity (I² = 99%) — and **the classic Thomas test had the worst interrater reliability of the family, ICC 0.62 (0.46–0.78)** (González-de-la-Flor & Seijas-Otero, 2026). **Reliability is agreement, not truth**, and the two questions separate: this document found no study showing these tests predict **pain** or **performance**, but low preseason hip flexor range of motion did predict **hip flexor strains** in 36 elite footballers followed through a season (Bradley & Portas, 2007). So a short result is weak evidence about injury risk in an athlete and no evidence about the back pain it is usually invoked for (Part XVII §E.5).
+
 ## painfularc
 
 *Pathology & Clinical*
@@ -25656,16 +26840,16 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 ---
 
-# partxviiibibliography
+# partxixbibliography
 
-**Part XVIII — Bibliography**
+**Part XIX — Bibliography**
 
-Every source cited in this document: **697 papers**, each with a DOI you can paste into a search box
+Every source cited in this document: **720 papers**, each with a DOI you can paste into a search box
 or a library request form — with nine exceptions, noted at their entries: eight for which no DOI was ever
 issued and a PubMed or PubMed Central identifier is given instead, and one master's thesis that has neither. Alphabetical by first author, so an in-text citation like
 *(Gerling & Brown, 2013)* is found by scanning for **Gerling**.
 
-**348 are open access** — free to read now. **349 are paywalled**; any university or public library can
+**362 are open access** — free to read now. **358 are paywalled**; any university or public library can
 obtain those through interlibrary loan at no cost, usually in a few days, and authors may legally
 share their own accepted manuscripts if you email them. Every DOI below was verified against
 Crossref, and open-access status against Unpaywall, at the time of writing.
@@ -25677,14 +26861,18 @@ discussion, the text says so at the claim itself — that context matters more t
 marks claims that could not be traced to a source we could read; they are flagged rather than quietly
 dropped. **Twenty-two of these papers measured the latissimus dorsi directly, twenty-eight measured the
 quadriceps femoris directly, thirty-eight measured a gluteal muscle directly, twenty-one measured a
-deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, twenty-nine measured a hamstring directly, thirty-one measured a pectoral muscle directly, at least seventy-six measured the triceps brachii or its tendon directly, at least ninety-two measured the erector spinae, the multifidus or the lumbar extensors directly, at least thirty-eight measured the biceps brachii, the brachialis or the elbow flexors as a group directly, at least twenty-four measured the gastrocnemius, the soleus or the Achilles tendon directly, at least thirty-five measured the trapezius, the serratus anterior or another scapular muscle directly, at least thirty measured a forearm muscle, the grip or the finger flexors directly, at least twenty measured a hip adductor directly, and and at least thirty-six measured the rotator cuff or its tendons directly**; the rest supply general training principles or the mechanical
+deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, twenty-nine measured a hamstring directly, thirty-one measured a pectoral muscle directly, at least seventy-six measured the triceps brachii or its tendon directly, at least ninety-two measured the erector spinae, the multifidus or the lumbar extensors directly, at least thirty-eight measured the biceps brachii, the brachialis or the elbow flexors as a group directly, at least twenty-four measured the gastrocnemius, the soleus or the Achilles tendon directly, at least thirty-five measured the trapezius, the serratus anterior or another scapular muscle directly, at least thirty measured a forearm muscle, the grip or the finger flexors directly, at least twenty measured a hip adductor directly, and at least thirty-six measured the rotator cuff or its tendons directly, and at least fourteen measured a hip flexor directly**; the rest supply general training principles or the mechanical
 framework. Where a paper's own research group has been
 the subject of a published data-integrity analysis, its entry says so. Where two or more papers by the same first author share a year, the bibliography entry
 records the `a`/`b`/`c` suffix used in the text.
 
 ---
 
+Aali S, Rezazadeh F, Ardigò LP, Badicu G. Altered lower extremity muscle activity patterns due to Iliopsoas tightness during single-leg landing. Scientific Reports. 2025;15(1):9477. doi:10.1038/s41598-025-93905-6 · **open access**
+
 Aasa U, Svartholm I, Andersson F, Berglund L. Injuries among weightlifters and powerlifters: a systematic review. British Journal of Sports Medicine. 2017;51(4):211-219. doi:10.1136/bjsports-2016-096037 · **open access**
+
+Abbas J, Reif N, Hamoud K. Musculoskeletal Pain and Hip Muscle Length Among Undergraduates: A Longitudinal Study of 1 Year. Medicina. 2026;62(8):1548. doi:10.3390/medicina62081548 · **open access**
 
 Abdelzaher IE, Ababneh AF, Alzyoud JM. Isometric elbow extensors strength in supine- and prone-lying positions. Physiotherapy Theory and Practice. 2013;29(1):61-66. doi:10.3109/09593985.2012.673697 · *paywalled*
 
@@ -25741,6 +26929,8 @@ Andersen V, Fimland MS, Wiik E, Skoglund A, Saeterbakken AH. Effects of Grip Wid
 Andersen V, Hermans E, Hansen KG, Solstad TEJ, Saeterbakken AH, Baláš J, et al. Comparison of low load blood flow restriction and high load resistance training of the finger flexors in advanced level climbers: a pilot study. Frontiers in Physiology. 2026;17:1807492. doi:10.3389/fphys.2026.1807492 · **open access**
 
 Andersen V, Hermans E, Vereide V, Stien N, Paulsen G, Baláš J, et al. Comparison of finger flexor resistance training, with and without blood flow restriction, on perceptional and physiological responses in advanced climbers. Scientific Reports. 2023;13(1):3287. doi:10.1038/s41598-023-30499-x · **open access** — a publisher correction was issued in 2023 (doi:10.1038/s41598-023-31266-8).
+
+Andersson EA, Nilsson J, Thorstensson A. Intramuscular EMG from the hip flexor muscles during human locomotion. Acta Physiologica Scandinavica. 1997;161(3):361-370. doi:10.1046/j.1365-201x.1997.00225.x · *paywalled*
 
 Andersson SH, Bahr R, Clarsen B, Myklebust G. Preventing overuse shoulder injuries among throwing athletes: a cluster-randomised controlled trial in 660 elite handball players. British Journal of Sports Medicine. 2017;51(14):1073-1080. doi:10.1136/bjsports-2016-096226 · **open access**
 
@@ -25856,6 +27046,8 @@ Bourne ND, Reilly T. Effect of a weightlifting belt on spinal shrinkage. British
 
 Boyle AB, Uri Ke J, Ragg A, MacLean SBM. Anatomy of the distal biceps tendon: an in vivo 3-T magnetic resonance imaging study. Journal of Shoulder and Elbow Surgery. 2022;31(6):1316-1322. doi:10.1016/j.jse.2021.11.015 · *paywalled*
 
+Bradley PS, Portas MD. The Relationship Between Preseason Range of Motion and Muscle Strain Injury in Elite Soccer Players. The Journal of Strength and Conditioning Research. 2007;21(4):1155. doi:10.1519/R-20416.1 · *paywalled*
+
 Brandão L, de Salles Painelli V, Lasevicius T, Silva-Batista C, Brendon H, Schoenfeld BJ, et al. Varying the Order of Combinations of Single- and Multi-Joint Exercises Differentially Affects Resistance Training Adaptations. Journal of Strength and Conditioning Research. 2020;34(5):1254-1263. doi:10.1519/JSC.0000000000003550 · *paywalled*
 
 Brazil A, Needham L, Palmer JL, Bezodis IN. A comprehensive biomechanical analysis of the barbell hip thrust. PLOS ONE. 2021;16(3):e0249307. doi:10.1371/journal.pone.0249307 · **open access**
@@ -25940,6 +27132,8 @@ Contreras B, Vigotsky AD, Schoenfeld BJ, Beardsley C, Cronin J. A Comparison of 
 
 Conway R, Behennah J, Fisher J, Osborne N, Steele J. Associations between Trunk Extension Endurance and Isolated Lumbar Extension Strength in Both Asymptomatic Participants and Those with Chronic Low Back Pain. Healthcare. 2016;4(3):70. doi:10.3390/healthcare4030070 · **open access**
 
+Copaver K, Hertogh C, Hue O. The Effects of Psoas Major and Lumbar Lordosis on Hip Flexion and Sprint Performance. Research Quarterly for Exercise and Sport. 2012;83(2):160-167. doi:10.1080/02701367.2012.10599846 · *paywalled*
+
 Coratella G, Tornatore G, Longo S, Esposito F, Cè E. An Electromyographic Analysis of Lateral Raise Variations and Frontal Raise in Competitive Bodybuilders. International Journal of Environmental Research and Public Health. 2020;17(17):6015. doi:10.3390/ijerph17176015 · **open access**
 
 Coratella G, Tornatore G, Longo S, Esposito F, Cè E. An Electromyographic Analysis of Romanian, Step-Romanian, and Stiff-Leg Deadlift: Implication for Resistance Training [cited as Coratella et al., 2022b]. International Journal of Environmental Research and Public Health. 2022;19(3):1903. doi:10.3390/ijerph19031903 · **open access**
@@ -25974,6 +27168,8 @@ Danneels LA, Vanderstraeten GG, Cambier DC, Witvrouw EE, Bourgois J, Dankaerts W
 
 De Martino E, Hides J, Elliott JM, Hoggarth MA, Zange J, Lindsay K, et al. The Effects of Reconditioning Exercises Following Prolonged Bed Rest on Lumbopelvic Muscle Volume and Accumulation of Paraspinal Muscle Fat. Frontiers in Physiology. 2022;13:862793. doi:10.3389/fphys.2022.862793 · **open access**
 
+Deane RS, Chow JW, Tillman MD, Fournier KA. Effects of Hip Flexor Training on Sprint, Shuttle Run, and Vertical Jump Performance. The Journal of Strength and Conditioning Research. 2005;19(3):615. doi:10.1519/14974.1 · *paywalled*
+
 Decker MJ, Tokish JM, Ellis HB, Torry MR, Hawkins RJ. Subscapularis Muscle Activity during Selected Rehabilitation Exercises. The American Journal of Sports Medicine. 2003;31(1):126-134. doi:10.1177/03635465030310010601 · *paywalled*
 
 Delgado J, Drinkwater EJ, Banyard HG, Haff GG, Nosaka K. Comparison Between Back Squat, Romanian Deadlift, and Barbell Hip Thrust for Leg and Hip Muscle Activities During Hip Extension. Journal of Strength and Conditioning Research. 2019;33(10):2595-2601. doi:10.1519/JSC.0000000000003290 · **open access**
@@ -26003,6 +27199,8 @@ Domokos B, Domokos J, Andersson G, Mannel S, Weigel LM, Koch HJ, et al. Isolated
 Donkers MJ, An KN, Chao EYS, Morrey BF. Hand position affects elbow joint load during push-up exercise. Journal of Biomechanics. 1993;26(6):625-632. doi:10.1016/0021-9290(93)90026-B · *paywalled*
 
 Dorado C, Calbet JAL, Lopez-Gordillo A, Alayon S, Sanchis-Moysi J. Marked Effects of Pilates on the Abdominal Muscles: A Longitudinal Magnetic Resonance Imaging Study. Medicine & Science in Sports & Exercise. 2012;44(8):1589-1594. doi:10.1249/MSS.0b013e31824fb6ae · *paywalled*
+
+Dorado C, López-Gordillo A, Serrano-Sánchez JA, Calbet JAL, Sanchis-Moysi J. Hypertrophy of Lumbopelvic Muscles in Inactive Women: A 36-Week Pilates Study. Sports Health: A Multidisciplinary Approach. 2020;12(6):547-551. doi:10.1177/1941738120918381 · **open access**
 
 Dos Anjos FV, Cabral HV, de Oliveira Silva A, Vieira TM, de Oliveira LF. Assessing the Feasibility of EMG Biofeedback to Reduce the Upper Trapezius Muscle Excitation during a Seated Row Exercise, a Non-randomized Comparative Study. Applied Psychophysiology and Biofeedback. 2024;49(4):577-587. doi:10.1007/s10484-024-09657-y · *paywalled*
 
@@ -26113,6 +27311,8 @@ Goli A, Attarieh P, Nunes JP, Nehegadar S, Khani S, Fashi M, et al. Does Perform
 Gomo O, van den Tillaar R. The effects of grip width on sticking region in bench press. Journal of Sports Sciences. 2016;34(3):232-238. doi:10.1080/02640414.2015.1046395 · *paywalled*
 
 Gonzalez RV, Buchanan TS, Delp SL. How muscle architecture and moment arms affect wrist flexion-extension moments. Journal of Biomechanics. 1997;30(7):705-712. doi:10.1016/s0021-9290(97)00015-8 · *paywalled*
+
+González-de-la-Flor Á, Seijas-Otero D. Reliability of physical examination tests for assessing hip flexor flexibility: A systematic review and meta-analysis. PM&R. 2026;18(7):779-792. doi:10.1002/pmrj.70062 · **open access**
 
 Goto M, Maeda C, Hirayama T, Terada S, Nirengi S, Kurosawa Y, et al. Partial Range of Motion Exercise Is Effective for Facilitating Muscle Hypertrophy and Function Through Sustained Intramuscular Hypoxia in Young Trained Men. Journal of Strength and Conditioning Research. 2019;33(5):1286-1294. doi:10.1519/JSC.0000000000002051 · *paywalled*
 
@@ -26250,6 +27450,8 @@ Javdaneh N, Barati A, Shojaedin S, Mirzaei RM. Is chronic neck pain related to s
 
 Jensen L, Andersen LL, Schrøder HD, Frandsen U, Sjøgaard G. Neuronal Nitric Oxide Synthase Is Dislocated in Type I Fibers of Myalgic Muscle but Can Recover with Physical Exercise Training. BioMed Research International. 2015;2015:265278. doi:10.1155/2015/265278 · **open access**
 
+Jiroumaru T, Kurihara T, Isaka T. Establishment of a recording method for surface electromyography in the iliopsoas muscle. Journal of Electromyography and Kinesiology. 2014;24(4):445-451. doi:10.1016/j.jelekin.2014.02.007 · *paywalled*
+
 Johnson G, Bogduk N, Nowitzke A, House D. Anatomy and actions of the trapezius muscle. Clinical Biomechanics. 1994;9(1):44-50. doi:10.1016/0268-0033(94)90057-4 · *paywalled*
 
 Johnson MA, Polgar J, Weightman D, Appleton D. Data on the distribution of fibre types in thirty-six human muscles: An autopsy study. Journal of the Neurological Sciences. 1973;18(1):111-129. doi:10.1016/0022-510X(73)90023-3 · *paywalled*
@@ -26261,6 +27463,8 @@ Jorgensen MJ, Marras WS, Gupta P, Waters TR. Effect of torso flexion on the lumb
 Jorgensen MJ, Marras WS, Smith FW, Pope MH. Sagittal plane moment arms of the female lumbar region rectus abdominis in an upright neutral torso posture [cited as Jorgensen et al., 2005]. Clinical Biomechanics. 2005;20(3):242-246. doi:10.1016/j.clinbiomech.2004.10.009 · *paywalled*
 
 Jost B, Koch PP, Gerber C. Anatomy and functional aspects of the rotator interval. Journal of Shoulder and Elbow Surgery. 2000;9(4):336-341. doi:10.1067/mse.2000.106746 · *paywalled*
+
+Juan J, Leff G, Kevorken K, Jeanfavre M. Hip Flexor Muscle Activation During Common Rehabilitation and Strength Exercises. Journal of Clinical Medicine. 2024;13(21):6617. doi:10.3390/jcm13216617 · **open access**
 
 Jung EY, Roh SY, Mun WL. Electromyographic Patterns of Scapular Muscles During Four Variations of Protraction–Retraction Exercises. Life. 2025;15(12):1840. doi:10.3390/life15121840 · **open access**
 
@@ -26350,6 +27554,8 @@ Kolber MJ, Beekhuizen KS, Cheng MS, Hellman MA. Shoulder Injuries Attributed to 
 
 Kondi S, Murugesan T, Postans N, Thumri P, Kantamaneni K, Ansari S, et al. An Electromyographic Study Comparing Muscle Function During Supination and Pronation of the Forearm. Cureus. 2026;:. doi:10.7759/cureus.101255 · **open access**
 
+Konrad A, Močnik R, Titze S, Nakamura M, Tilp M. The Influence of Stretching the Hip Flexor Muscles on Performance Parameters. A Systematic Review with Meta-Analysis. International Journal of Environmental Research and Public Health. 2021;18(4):1936. doi:10.3390/ijerph18041936 · **open access**
+
 Konrad A, Reiner MM, Warneke K, Keiner M, Nakamura M, Tilp M. Relationship between pectoralis major stiffness and shoulder extension range of motion. Frontiers in Physiology. 2024;15:1349426. doi:10.3389/fphys.2024.1349426 · **open access**
 
 Kostek MA, Pescatello LS, Seip RL, Angelopoulos TJ, Clarkson PM, Gordon PM, et al. Subcutaneous Fat Alterations Resulting from an Upper-Body Resistance Training Program. Medicine and Science in Sports and Exercise. 2007;39(7):1177-1185. doi:10.1249/mss.0b0138058a5cb · **open access**
@@ -26371,6 +27577,8 @@ Kubo K, Ikebukuro T, Yata H. Effects of squat training with different depths on 
 Kuechle DK, Newman SR, Itoi E, Morrey BF, An KN. Shoulder muscle moment arms during horizontal flexion and elevation. Journal of Shoulder and Elbow Surgery. 1997;6(5):429-439. doi:10.1016/S1058-2746(97)70049-1 · *paywalled*
 
 Kukkonen J, Ryösä A, Joukainen A, Lehtinen J, Kauko T, Mattila K, et al. Operative versus conservative treatment of small, nontraumatic supraspinatus tears in patients older than 55 years: over 5-year follow-up of a randomized controlled trial. Journal of Shoulder and Elbow Surgery. 2021;30(11):2455-2464. doi:10.1016/j.jse.2021.03.133 · **open access**
+
+Kumazaki T, Takahashi T, Nakano T, Sakai T. Action and Contribution of the Iliopsoas and Rectus Femoris as Hip Flexor Agonists Examined with Anatomical Analysis. Juntendo Medical Journal. 2022;68(4):352-362. doi:10.14789/jmj.jmj22-0009-oa · **open access**
 
 Lander JE, Hundley JR, Simonton RL. The effectiveness of weight-belts during multiple repetitions of the squat exercise. Medicine & Science in Sports & Exercise. 1992;24(5):603-609. doi:10.1249/00005768-199205000-00015 · *paywalled*
 
@@ -26598,6 +27806,8 @@ Muñoz-Garcés M, Peñailillo L, Mendez-Rebolledo G. Regional Activation of the 
 
 Murakami Y, Konrad A, Kasahara K, Yoshida R, Warneke K, Behm DG, et al. Comparison between 6 weeks of static stretching and resistance training programs on passive and active properties of plantar flexors. a randomized controlled trial. Frontiers in Physiology. 2025;16:1555253. doi:10.3389/fphys.2025.1555253 · **open access**
 
+Muratomi K, Tarumi T, Furuhashi Y, Ushirooka N, Hoshi D, Fukuie M, et al. Effectiveness Index of Mechanical Energy Utilization in Male 400-m Sprinters and the Relation Between Muscle Cross-Sectional Area of the Trunk and the Lower Limb. Scandinavian Journal of Medicine & Science in Sports. 2025;35(2):e70023. doi:10.1111/sms.70023 · **open access**
+
 Murphy C, Koehler K. Energy deficiency impairs resistance training gains in lean mass but not strength: A meta-analysis and meta-regression. Scandinavian Journal of Medicine & Science in Sports. 2022;32(1):125-137. doi:10.1111/sms.14075 · **open access**
 
 Murray WM, Buchanan TS, Delp SL. Scaling of peak moment arms of elbow muscles with upper extremity bone dimensions. Journal of Biomechanics. 2002;35(1):19-26. doi:10.1016/S0021-9290(01)00173-7 · *paywalled*
@@ -26806,6 +28016,8 @@ Saito H, Hakariya N, Ebato T, Hirose N. A Scoping Review of Exercises for Preven
 
 Sakoma Y, Sano H, Shinozaki N, Itoigawa Y, Yamamoto N, Ozaki T, et al. Anatomical and functional segments of the deltoid muscle. Journal of Anatomy. 2011;218(2):185-190. doi:10.1111/j.1469-7580.2010.01325.x · **open access**
 
+Sanchis-Moysi J, Idoate F, Izquierdo M, Calbet JAL, Dorado C. Iliopsoas and Gluteal Muscles Are Asymmetric in Tennis Players but Not in Soccer Players. PLoS ONE. 2011;6(7):e22858. doi:10.1371/journal.pone.0022858 · **open access**
+
 Sanchis-Moysi J, Idoate F, Izquierdo M, Calbet JAL, Dorado C. The hypertrophy of the lateral abdominal wall and quadratus lumborum is sport-specific: an MRI segmental study in professional tennis and soccer players [cited as Sanchis-Moysi et al., 2013]. Sports Biomechanics. 2013;12(1):54-67. doi:10.1080/14763141.2012.725087 · *paywalled*
 
 Sanchis-Moysi J, Idoate F, Olmedillas H, Guadalupe-Grau A, Alayón S, Carreras A, et al. Large Asymmetric Hypertrophy of Rectus Abdominis Muscle in Professional Tennis Players [cited as Sanchis-Moysi et al., 2010a]. PLoS ONE. 2010;5(12):e15858. doi:10.1371/journal.pone.0015858 · **open access**
@@ -26869,6 +28081,8 @@ Siewe J, Rudat J, Röllinghoff M, Schlegel UJ, Eysel P, Michael JWP. Injuries an
 Sinaki M, Mikkelsen BA. Postmenopausal spinal osteoporosis: flexion versus extension exercises. Archives of Physical Medicine and Rehabilitation. 1984;65(10):593-596. PMID:6487063 — no DOI was ever issued · *paywalled*
 
 Singer A, Wolf M, Generoso L, Arias E, Delcastillo K, Echevarria E, et al. Give it a rest: a systematic review with Bayesian meta-analysis on the effect of inter-set rest interval duration on muscle hypertrophy. Frontiers in Sports and Active Living. 2024;6:1429789. doi:10.3389/fspor.2024.1429789 · **open access**
+
+Skyrme AD, Cahill DJ, Marsh HP, Ellis H. Psoas major and its controversial rotational action. Clinical Anatomy. 1999;12(4):264-265. doi:10.1002/(SICI)1098-2353(1999)12:4<264::AID-CA4>3.0.CO;2-L · *paywalled*
 
 Smith TO, Nichols R, Harle D, Donell ST. Do the vastus medialis obliquus and vastus medialis longus really exist? A systematic review. Clinical Anatomy. 2009;22(2):183-199. doi:10.1002/ca.20737 · *paywalled*
 
@@ -26970,6 +28184,10 @@ van Dyk N, Behan FP, Whiteley R. Including the Nordic hamstring exercise in inju
 
 Vandenberg CJ, Touhey DC, Brophy RH, Smith MV, Knapik DM. Distal triceps tendon rupture repair results in high return to sport rates for amateur and professional athletes: a systematic review. JSES Reviews, Reports, and Techniques. 2026;6(2):100694. doi:10.1016/j.xrrt.2026.100694 · **open access**
 
+Vandeputte FJ, Driesen R, Timmermans A, Corten K. Evaluation of Clinical Tests to Diagnose Iliopsoas Tendinopathy. Clinical Orthopaedics & Related Research. 2025;483(11):2123-2132. doi:10.1097/corr.0000000000003520 · **open access**
+
+Vandeputte FJ, Sergooris A, Roose S, Timmermans A, Corten K. Clinical Diagnosis and Treatment of Iliopsoas-Related Groin Pain: A Systematic Review. Journal of Clinical Medicine. 2026;15(15):5912. doi:10.3390/jcm15155912 · **open access**
+
 Varovic D, Wolf M, Schoenfeld BJ, Steele J, Grgic J, Mikulic P. Does Muscle Length Influence Regional Hypertrophy? A Systematic Review and Meta-Analysis [cited as Varovic et al., 2025a]. International Journal of Sports Medicine. 2025;46(14):1027-1036. doi:10.1055/a-2615-4935 · *paywalled*
 
 Varovic D, Zganjer K, Wolf M, Androulakis-Korakakis P, Schoenfeld BJ, Mikulic P. The effects of long muscle length isometric versus full range of motion isotonic training on regional quadriceps femoris hypertrophy in resistance-trained individuals [cited as Varovic et al., 2025b]. Applied Physiology, Nutrition, and Metabolism. 2025;50:1-14. doi:10.1139/apnm-2025-0238 · *paywalled*
@@ -27005,6 +28223,10 @@ Wakahara T, Fukutani A, Kawakami Y, Yanai T. Nonuniform Muscle Hypertrophy: Its 
 Wakahara T, Miyamoto N, Sugisaki N, Murata K, Kanehisa H, Kawakami Y, et al. Association between regional differences in muscle activation in one session of resistance exercise and in muscle hypertrophy after resistance training. European Journal of Applied Physiology. 2012;112(4):1569-1576. doi:10.1007/s00421-011-2121-y · *paywalled*
 
 Wakahara T, Shiraogawa A. Effects of neuromuscular electrical stimulation training on muscle size in collegiate track and field athletes. PLOS ONE. 2019;14(11):e0224881. doi:10.1371/journal.pone.0224881 · **open access**
+
+Wakefield CB, Cottrell GT. Changes in Hip Flexor Passive Compliance Do Not Account for Improvement in Vertical Jump Performance After Hip Flexor Static Stretching. Journal of Strength and Conditioning Research. 2015;29(6):1601-1608. doi:10.1519/jsc.0000000000000794 · *paywalled*
+
+Waldén M, Hägglund M, Ekstrand J. The epidemiology of groin injury in senior football: a systematic review of prospective studies. British Journal of Sports Medicine. 2015;49(12):792-797. doi:10.1136/bjsports-2015-094705 · **open access**
 
 Ward SR, Eng CM, Smallwood LH, Lieber RL. Are Current Measurements of Lower Extremity Muscle Architecture Accurate? [cited as Ward et al., 2009a] Clinical Orthopaedics and Related Research. 2009;467(4):1074-1082. doi:10.1007/s11999-008-0594-8 · **open access**
 
@@ -27046,11 +28268,17 @@ Yamamoto A, Takagishi K, Osawa T, Yanagawa T, Nakajima D, Shitara H, et al. Prev
 
 Yamamoto R, Nimura A, Muro S, Hoshika S, Akita K. Anatomy of the distal tendinous structure of the triceps brachii: implications for the role of the triceps brachii to resist valgus elbow forces during baseball pitching. Journal of Shoulder and Elbow Surgery. 2025;34(8):e672-e682. doi:10.1016/j.jse.2024.11.023 · **open access**
 
+Yamanaka R, Wakasawa S, Yamashiro K, Kodama N, Sato D. Effect of Resistance Training of Psoas Major in Combination With Regular Running Training on Performance in Long-Distance Runners. International Journal of Sports Physiology and Performance. 2021;16(6):906-909. doi:10.1123/ijspp.2020-0206 · *paywalled*
+
+Yamane M, Aoki M, Sasaki Y, Kawaji H. Understanding the Muscle Activity Pattern of the Hip Flexors during Straight Leg Raising in Healthy Subjects. Progress in Rehabilitation Medicine. 2019;4:20190007. doi:10.2490/prm.20190007 · **open access**
+
 Yeh CH, Calder JD, Antflick J, Bull AMJ, Kedgley AE. Maximum dorsiflexion increases Achilles tendon force during exercise for midportion Achilles tendinopathy. Scandinavian Journal of Medicine & Science in Sports. 2021;31(8):1674-1682. doi:10.1111/sms.13974 · **open access**
 
 Yonneau J, Lefèvre-Colau MM, Compagnat M, Salle JY, Rannou F, Daviet JC. Shoulder injuries prevention programmes in handball: a systematic review with meta-analysis. BMJ Open Sport & Exercise Medicine. 2025;11(3):e002416. doi:10.1136/bmjsem-2024-002416 · **open access**
 
 Yoo WG. Comparison of the isolated contraction ratios of the hip extensors and erector spinae muscles of the lumbar region and thoracic muscles during different back extension exercises. Journal of Physical Therapy Science. 2015;27(2):315-316. doi:10.1589/jpts.27.315 · **open access**
+
+Yoshio M, Murakami G, Sato T, Sato S, Noriyasu S. The function of the psoas major muscle: passive kinetics and morphological studies using donated cadavers. Journal of Orthopaedic Science. 2002;7(2):199-207. doi:10.1007/s007760200034 · *paywalled*
 
 Youdas JW, Amundson CL, Cicero KS, Hahn JJ, Harezlak DT, Hollman JH. Surface Electromyographic Activation Patterns and Elbow Joint Motion During a Pull-Up, Chin-Up, or Perfect-Pullup Rotational Exercise. Journal of Strength and Conditioning Research. 2010;24(12):3404-3414. doi:10.1519/JSC.0b013e3181f1598c · *paywalled*
 
@@ -27075,5 +28303,7 @@ Zellers JA, Brorsson A, Grävare Silbernagel K. Impact of seated and standing po
 Zhang B, Raguzzi IA, Dupuis F, Gianola S, Morgan-Daniel J, Roy JS, et al. Addressing Shoulder Weakness in Individuals With Rotator Cuff-Related Shoulder Pain: A Systematic Review With Meta-analysis. Journal of Orthopaedic & Sports Physical Therapy. 2026;56(2):67-84. doi:10.2519/jospt.2025.13445 · **open access**
 
 Zhang Y, Herbert RD, Bilston LE, Bolsterlee B. Three‐dimensional architecture and moment arms of human rotator cuff muscles in vivo: Interindividual, intermuscular, and intramuscular variations. Journal of Anatomy. 2024;245(2):258-270. doi:10.1111/joa.14050 · **open access**
+
+Zhou EFM, Wong AYL, Lin G, Huang J, Fang J, Liang W, et al. Differences in Psoas Major Muscle Properties Between Elite Athletes with and Without Chronic Low Back Pain. Sports Medicine - Open. 2026;12(1):20. doi:10.1186/s40798-026-00983-5 · **open access**
 
 Zwambag DP, Ricketts TA, Brown SHM. Sarcomere length organization as a design for cooperative function amongst all lumbar spine muscles. Journal of Biomechanics. 2014;47(12):3087-3093. doi:10.1016/j.jbiomech.2014.06.030 · *paywalled*
