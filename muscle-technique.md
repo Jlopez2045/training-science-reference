@@ -5,7 +5,7 @@
 > the rep → exercise catalogue → contexts → programming. **This volume covers the latissimus
 > dorsi, the quadriceps femoris, the gluteal muscles, the deltoids, the core, the
 > hamstrings, the pectoral muscles, the triceps brachii, the erector spinae, the elbow flexors, the calves, the trapezius and
-> scapular muscles, the forearms and grip, the hip adductors, the rotator cuff and the hip flexors.** Further muscles are added as
+> scapular muscles, the forearms and grip, the hip adductors, the rotator cuff and the hip flexors, plus a Part on standardizing an exercise so that progress is measurable.** Further muscles are added as
 > new Parts; the glossary and bibliography are always the final two Parts and are shared across all
 > of them.
 >
@@ -145,8 +145,16 @@
    - **§E** [Context modifiers, pain and the tightness question](#partxviiecontextmodifiers)
    - **§F** [Programming](#partxviifprogramming)
    - **§G** [Synthesis, and what the evidence does not support](#partxviigsynthesis)
-18. **[Part XVIII — Master Glossary](#partxviiimasterglossary)** (420 entries, in dependency order, with an alphabetical index at its head)
-19. **[Part XIX — Bibliography](#partxixbibliography)** (720 sources, 362 open access)
+18. **[Part XVIII — Standardizing an Exercise](#partxviiistandardizingexercises)**
+   - **§A** [Your training log is a measurement](#partxviiiathelogisameasurement)
+   - **§B** [The specification: what has to be held still](#partxviiibthespecification)
+   - **§C** [How big a change has to be before it is real](#partxviiichowbigachangeisreal)
+   - **§D** [The things that move the reading without moving you](#partxviiidconfounders)
+   - **§E** [Changing the specification on purpose](#partxviiiewhentorestandardize)
+   - **§F** [Instruments other than load × reps](#partxviiifotherinstruments)
+   - **§G** [Synthesis](#partxviiigsynthesis)
+19. **[Part XIX — Master Glossary](#partximasterglossary)** (427 entries, in dependency order, with an alphabetical index at its head)
+20. **[Part XX — Bibliography](#partxxbibliography)** (733 sources, 367 open access)
 
 **How to read this.** The first occurrence of a technical term in each Part links to its glossary
 entry. Cross-references are written `Part II §B.4`.
@@ -172,8 +180,8 @@ and no punctuation of any kind** — `forcelengthrelationship`, `momentarm`, `pa
 That character set is the fixed point of all four algorithms: each maps it to itself, so one link form
 works everywhere without HTML anchors or renderer-specific syntax. The cost is that the heading itself
 is not meant to be read; **the human-readable name is the bold lead-in immediately below it**, and the
-alphabetical index at the head of Part XVIII is the place to look a term up. Structural anchors carry
-their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to XVII share
+alphabetical index at the head of Part XIX is the place to look a term up. Structural anchors carry
+their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to XVIII share
 section titles and would otherwise collide. Links are same-file only: no HTML anchors, no relative file links, no external
 links.
 
@@ -1123,6 +1131,12 @@ the set is over, whatever the muscle feels like.
 
 ### C.7 How to know it worked
 
+> **Before reading any of these as progress, see Part XVIII.** Measured test to retest with no training in
+> between, a squat moves by **±10–15 kg** on its own. So from two isolated tests a change needs to reach
+> roughly **10%** before it is confidently real; comparing a block of six sessions with a later block of six
+> brings that to about **5%**. And none of it holds unless the exercise met the same
+> [specification](#exercisespecification) both times.
+
 Feel is a weak signal, and the lat is notoriously hard to feel. Use it, but rank it last.
 
 | Signal | Weight |
@@ -1930,7 +1944,7 @@ THREE-TIMES-WEEKLY — HIGH VOLUME, ROTATING EMPHASIS
 large. Row three has one lat-specific anchor — eight weeks of pulldown-and-row training produced
 **+22% latissimus fibre cross-sectional area** on biopsy in 18 novice men (Paoli et al., 2016) — but
 no study has tracked lat *thickness* by ultrasound over these timelines, and the method is a poor index
-of individual change in any case (Part XVIII, muscle thickness). Rows four and five
+of individual change in any case (Part XIX, muscle thickness). Rows four and five
 are coaching convention, not measured outcomes.
 
 **Validity caveat:** thickness measured in the first weeks of a new program is inflated by
@@ -2743,6 +2757,12 @@ quadriceps work:
 ---
 
 ### C.7 How to know it worked
+
+> **Before reading any of these as progress, see Part XVIII.** Measured test to retest with no training in
+> between, a squat moves by **±10–15 kg** on its own. So from two isolated tests a change needs to reach
+> roughly **10%** before it is confidently real; comparing a block of six sessions with a later block of six
+> brings that to about **5%**. And none of it holds unless the exercise met the same
+> [specification](#exercisespecification) both times.
 
 The set was a quadriceps set if, at the end of it:
 
@@ -4361,6 +4381,12 @@ The general treatment of spinal loading lives in `strength-and-body-composition.
 ---
 
 ### C.7 How to know it worked
+
+> **Before reading any of these as progress, see Part XVIII.** Measured test to retest with no training in
+> between, a squat moves by **±10–15 kg** on its own. So from two isolated tests a change needs to reach
+> roughly **10%** before it is confidently real; comparing a block of six sessions with a later block of six
+> brings that to about **5%**. And none of it holds unless the exercise met the same
+> [specification](#exercisespecification) both times.
 
 The set was a gluteal set if, at the end of it:
 
@@ -6221,6 +6247,12 @@ The general treatment of trunk bracing lives in `strength-and-body-composition.m
 
 ### C.7 How to know it worked
 
+> **Before reading any of these as progress, see Part XVIII.** Measured test to retest with no training in
+> between, a squat moves by **±10–15 kg** on its own. So from two isolated tests a change needs to reach
+> roughly **10%** before it is confidently real; comparing a block of six sessions with a later block of six
+> brings that to about **5%**. And none of it holds unless the exercise met the same
+> [specification](#exercisespecification) both times.
+
 The set was a deltoid set if, at the end of it:
 
 - the fatigue was in the cap of the shoulder, not in the neck, the upper back, the elbow or the lower back;
@@ -6590,7 +6622,7 @@ of exposure, so they establish where injuries land, not how likely they are.
 | Context | Common modification | Evidence note |
 |---|---|---|
 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) — a painful arc, pain reaching overhead, pain lying on that side | **Reduce the provoking arc first**, then load progressively in the pain-free range. Keep the press below the painful band or replace it with a landmine press; keep raises in the scapular plane | Rehabilitation improved shoulder strength in this population across twenty-eight studies, and **interventions that did not include exercise had no effect at all** (Zhang et al., 2026). The active ingredient is loading |
-| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part XVIII, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
+| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part XIX, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
 | History of dislocation or [shoulder instability](#shoulderinstability) | Overhead and behind-the-neck positions are commonly restricted; abduction with external rotation is the classic apprehension position | Governed by the clinician, not by this document |
 | Acromioclavicular joint pain — point tenderness on top of the shoulder | Reduce [horizontal adduction](#shoulderhorizontaladduction) across the body; raises and presses are usually well tolerated | The joint is compressed by reaching across, not by reaching out |
 | Long head of biceps pain — front-of-shoulder pain with a defined tender line | Reduce front raises and dips; the tendon runs in the [bicipital groove](#bicipitalgroove) directly under them | Mechanism, not trial evidence |
@@ -7967,6 +7999,12 @@ The general treatment of bracing under heavy external load lives in
 ---
 
 ### C.7 How to know it worked
+
+> **Before reading any of these as progress, see Part XVIII.** Measured test to retest with no training in
+> between, a squat moves by **±10–15 kg** on its own. So from two isolated tests a change needs to reach
+> roughly **10%** before it is confidently real; comparing a block of six sessions with a later block of six
+> brings that to about **5%**. And none of it holds unless the exercise met the same
+> [specification](#exercisespecification) both times.
 
 The set was a core set if, at the end of it:
 
@@ -9625,6 +9663,12 @@ depth instructions.
 
 ### C.7 How to know it worked
 
+> **Before reading any of these as progress, see Part XVIII.** Measured test to retest with no training in
+> between, a squat moves by **±10–15 kg** on its own. So from two isolated tests a change needs to reach
+> roughly **10%** before it is confidently real; comparing a block of six sessions with a later block of six
+> brings that to about **5%**. And none of it holds unless the exercise met the same
+> [specification](#exercisespecification) both times.
+
 The set was a hamstring set if, at the end of it:
 
 - the fatigue was in the back of the thigh, not the lower back, the grip or the knee;
@@ -11247,6 +11291,12 @@ press and the reason it is a triceps and lockout exercise rather than a chest on
 
 ### C.7 How to know it worked
 
+> **Before reading any of these as progress, see Part XVIII.** Measured test to retest with no training in
+> between, a squat moves by **±10–15 kg** on its own. So from two isolated tests a change needs to reach
+> roughly **10%** before it is confidently real; comparing a block of six sessions with a later block of six
+> brings that to about **5%**. And none of it holds unless the exercise met the same
+> [specification](#exercisespecification) both times.
+
 **Within the set.** A burning, localized fatigue across the fan of the chest — not at the front of the
 shoulder, and not at the elbow. On a fly, the last two repetitions should be limited by the chest's
 inability to bring the arms together and by nothing else.
@@ -12856,6 +12906,12 @@ changes the loading at the bottom without changing the shoulder class, which is 
 
 ### C.7 How to know it worked
 
+> **Before reading any of these as progress, see Part XVIII.** Measured test to retest with no training in
+> between, a squat moves by **±10–15 kg** on its own. So from two isolated tests a change needs to reach
+> roughly **10%** before it is confidently real; comparing a block of six sessions with a later block of six
+> brings that to about **5%**. And none of it holds unless the exercise met the same
+> [specification](#exercisespecification) both times.
+
 **Within the set.** Fatigue in the back of the upper arm, not at the elbow, not at the front of the shoulder.
 
 **Within 48 hours.** Soreness along the back of the arm. **Soreness only at the tip of the elbow is not muscle
@@ -14390,6 +14446,12 @@ WEIGHTLIFTING BELT - WHAT HAS BEEN MEASURED
 
 ### C.7 How to know it worked
 
+> **Before reading any of these as progress, see Part XVIII.** Measured test to retest with no training in
+> between, a squat moves by **±10–15 kg** on its own. So from two isolated tests a change needs to reach
+> roughly **10%** before it is confidently real; comparing a block of six sessions with a later block of six
+> brings that to about **5%**. And none of it holds unless the exercise met the same
+> [specification](#exercisespecification) both times.
+
 **Within the set.** On rep 1, the lower back visibly rounds and straightens while the pelvis stays pressed to
 the pad and does not tip forward over it. If the hip is folding over the pad, the pad is too low. Where the
 effort is felt is no guide: with the hip free, the lateral hamstrings worked as hard or harder in the
@@ -15885,6 +15947,12 @@ a reason to introduce them gradually, not to avoid them.
 
 ### C.7 How to know it worked
 
+> **Before reading any of these as progress, see Part XVIII.** Measured test to retest with no training in
+> between, a squat moves by **±10–15 kg** on its own. So from two isolated tests a change needs to reach
+> roughly **10%** before it is confidently real; comparing a block of six sessions with a later block of six
+> brings that to about **5%**. And none of it holds unless the exercise met the same
+> [specification](#exercisespecification) both times.
+
 **Within the set.** On rep 1, the hardest moment is near the straight-arm end and the effort fades as the bar
 rises. On rep 2, the hardest moment is at a right angle. If the hardest moment is somewhere else, the set-up
 is not the one specified.
@@ -17184,6 +17252,12 @@ consequences.
 ---
 
 ### C.7 How to know it worked
+
+> **Before reading any of these as progress, see Part XVIII.** Measured test to retest with no training in
+> between, a squat moves by **±10–15 kg** on its own. So from two isolated tests a change needs to reach
+> roughly **10%** before it is confidently real; comparing a block of six sessions with a later block of six
+> brings that to about **5%**. And none of it holds unless the exercise met the same
+> [specification](#exercisespecification) both times.
 
 **Within the set.** The bottom of the range is the hard part and the top is easy. If the top is the hard
 part, the heel is not dropping far enough.
@@ -18510,6 +18584,12 @@ a training-intensity signal.
 
 ### C.7 How to know it worked
 
+> **Before reading any of these as progress, see Part XVIII.** Measured test to retest with no training in
+> between, a squat moves by **±10–15 kg** on its own. So from two isolated tests a change needs to reach
+> roughly **10%** before it is confidently real; comparing a block of six sessions with a later block of six
+> brings that to about **5%**. And none of it holds unless the exercise met the same
+> [specification](#exercisespecification) both times.
+
 The usual markers do not transfer well here, so the list is short and honest.
 
 1. **Load on shrugs, carries and rows went up over months.** This is the only progression signal available.
@@ -19833,6 +19913,12 @@ Those are §E.4.
 
 ### C.7 How to know it worked
 
+> **Before reading any of these as progress, see Part XVIII.** Measured test to retest with no training in
+> between, a squat moves by **±10–15 kg** on its own. So from two isolated tests a change needs to reach
+> roughly **10%** before it is confidently real; comparing a block of six sessions with a later block of six
+> brings that to about **5%**. And none of it holds unless the exercise met the same
+> [specification](#exercisespecification) both times.
+
 1. **You hold heavier for longer.** Load × time on your support holds is the whole progress signal.
 2. **Your working sets stop needing straps.**
 3. **Your double-overhand deadlift creeps toward your strapped deadlift.** This is the cleanest real-world
@@ -20992,6 +21078,12 @@ meets the pubic bone, pain on squeezing the knees together against resistance, o
 during a sprint or kick. That is §E.4, and training through it is how a niggle becomes a season.
 
 ### C.7 How to know it worked
+
+> **Before reading any of these as progress, see Part XVIII.** Measured test to retest with no training in
+> between, a squat moves by **±10–15 kg** on its own. So from two isolated tests a change needs to reach
+> roughly **10%** before it is confidently real; comparing a block of six sessions with a later block of six
+> brings that to about **5%**. And none of it holds unless the exercise met the same
+> [specification](#exercisespecification) both times.
 
 1. **Your squat depth is real and your deep squat load is climbing.** That is the extension mode.
 2. **A long-lever Copenhagen becomes possible, then easy.** That is the adduction mode, and the lever is the
@@ -22300,6 +22392,12 @@ shoulder is expected to be mildly uncomfortable and is not expected to be sharp.
 
 ### C.7 How to know it worked
 
+> **Before reading any of these as progress, see Part XVIII.** Measured test to retest with no training in
+> between, a squat moves by **±10–15 kg** on its own. So from two isolated tests a change needs to reach
+> roughly **10%** before it is confidently real; comparing a block of six sessions with a later block of six
+> brings that to about **5%**. And none of it holds unless the exercise met the same
+> [specification](#exercisespecification) both times.
+
 1. **You can hold more load in the same strict position.** That is the only progression signal available.
 2. ~~Your external rotation strength approaches your internal.~~ **Removed.** This Part previously offered
    that as a rough field check. There is no validated target ratio, and in the one dataset located, the
@@ -23599,6 +23697,12 @@ usefully but you cannot hold one for 45 seconds, and the position does not need 
 
 ### C.7 How to know it worked
 
+> **Before reading any of these as progress, see Part XVIII.** Measured test to retest with no training in
+> between, a squat moves by **±10–15 kg** on its own. So from two isolated tests a change needs to reach
+> roughly **10%** before it is confidently real; comparing a block of six sessions with a later block of six
+> brings that to about **5%**. And none of it holds unless the exercise met the same
+> [specification](#exercisespecification) both times.
+
 1. **You can lower the leg further before your back lifts.** Range at a controlled spine is the primary
    signal, and it is a good one.
 2. **You can lower more slowly through the same range**, and later add an ankle weight.
@@ -24029,9 +24133,613 @@ though short range did predict hip flexor strains in professional footballers, w
 the one usually made. And **your curl-up sit-ups are not covering this**, though a feet-anchored,
 straight-trunk sit-up genuinely is a hip flexor exercise, and a demanding one for your back.
 
-# partxviiimasterglossary
+# partxviiistandardizingexercises
 
-**Part XVIII — Master Glossary**
+**PART XVIII — Standardizing an exercise, so that progress is measurable**
+
+> **What this Part is for.** Every other Part of this document ends its §C.7 with some version of the same
+> sentence: *load × reps at a fixed [range of motion](#rangeofmotion), rising over weeks, is the signal that matters.* Sixteen
+> Parts say it. **None of them says how much rise counts, or what "fixed" means in practice.** This Part
+> answers both, once.
+>
+> **The idea in one line.** An exercise is a measuring instrument. If the instrument changes between
+> readings, the readings cannot be compared — and the most common way a training programme fails silently is
+> that the lifter got better at *doing the exercise differently*, not at the thing the exercise was
+> measuring.
+>
+> **This Part is not a programme.** It changes nothing about what you train or how hard. It changes only
+> whether you can tell what happened.
+
+---
+
+## partxviiiathelogisameasurement
+
+**PART A — Your training log is a measurement, and it has error**
+
+### A.1 The number nobody tells you
+
+Ask how much stronger you got and you will be given a difference between two numbers in a notebook. That
+difference has an error bar, and it is wider than almost anyone assumes.
+
+> **Across 32 studies of one-repetition-maximum test–retest reliability, the intraclass correlation had a
+> median of 0.97. Among the 15 of those studies that reported a [coefficient of variation](#coefficientofvariation), the median was
+> 4.2%, ranging from 0.5% to 12.1%** (Grgic et al., 2020).
+
+**Note the two different denominators, because this document got them wrong first time round.** Nearly every
+study reported a correlation; **only 15 reported the variation**, and it is the variation that matters to
+you. The evidence for the headline number is thinner than the size of the review suggests.
+
+The two statistics also say different things.
+
+- **The high correlation (0.97) means the test ranks people consistently.** If you are stronger than someone
+  else today, you will be stronger next week. That is what the 1RM is good at, and it is nearly useless for
+  tracking yourself.
+- **The 4.2% is the error on a single measurement of you.** Two measurements each carry it, so the noise on
+  the *difference* between them is larger — §C.1 does that arithmetic.
+
+**And there is a directly measured version of the same thing, which this Part prefers.** Twelve of the
+studies used Bland–Altman plots and reported 95% limits of agreement in kilograms:
+
+```
+95% LIMITS OF AGREEMENT, TEST vs RETEST, NO TRAINING IN BETWEEN
+  Bench press     +/-  3 - 5 kg
+  Power clean     +/-  5 - 8 kg
+  Leg press       +/-  8 - 13 kg
+  Squat           +/- 10 - 15 kg
+                                        Grgic et al., 2020
+```
+
+> **Read the squat row.** Test a squat twice in a week with no training in between and the two answers can
+> differ by **10 to 15 kg**. The review calls that high reliability, and by the standards of field testing it
+> is. It is also the number that should govern how you read your own log — and the authors who reported it
+> were not trying to make that point.
+
+### A.2 It is worse for some lifts than others
+
+The same review breaks the figure down, and the pattern is mild but consistent:
+
+```
+                         STUDIES   MEDIAN ICC   CV RANGE (%)   MEDIAN CV (%)
+All exercises               32        0.97       0.5 - 12.1        4.2
+Single-joint                17        0.97       0.5 -  9.0        4.1
+Multi-joint                 28        0.98       1.0 - 12.1        4.3
+Upper body                  21        0.98       1.0 -  7.9        4.1
+Lower body                  28        0.97       0.5 - 12.1        4.7
+                                               Grgic et al., 2020
+```
+
+**Resist reading much into those differences, and note that this Part did so in its first draft.** The
+review's own conclusion is that reliability was good "regardless of ... exercise selection, part of the body
+assessed (upper vs. lower body), and sex or age", and it states there were **no substantial differences**
+between upper- and lower-body exercises. A gap of 4.1% against 4.7%, from unweighted medians over different
+sets of studies, is exactly the kind of small difference the rest of this Part tells you not to over-read.
+
+**What the table does support** is the *range*. Some lifts, in some hands, are measured far more precisely
+than others — 0.5% at best and 12.1% at worst — and in kilograms the bench press is measured roughly three
+times more tightly than the squat. **That is worth knowing; a 0.6-percentage-point gap in a median is not.**
+
+### A.3 Two different things go wrong
+
+Keep them separate, because the fixes are different.
+
+| | What changed | Example | Fix |
+|---|---|---|---|
+| **[Instrument drift](#instrumentdrift)** | **The exercise** | Your squat is 5 cm shallower than it was in January | §B — specify and hold it |
+| **Biological noise** | **You, today** | You slept badly, trained late, or had a hard session on Monday | §C, §D — measure against it, or control it |
+
+**Instrument drift is the one that fools people**, because it moves in the same direction as progress and
+arrives gradually. Nobody decides to squat higher. The bar gets heavier, the depth creeps up a centimetre a
+month, and the log records a triumph.
+
+**Biological noise is partly, but not wholly, what the 4.2% contains.** The studies behind that number
+tested the same people within days, but **nobody has split the figure into its parts** — the review itself
+attributes reliability to measurement factors "as well as by biological and technical variation", and notes
+that warm-up protocols varied between studies. **So some of the 4.2% is already drift.** This Part's
+architecture — drift sitting *on top of* biological noise — is therefore a simplification, and an optimistic
+one: your real error is the 4.2% plus whatever your own technique adds. **A mechanical inference.**
+
+### A.4 What this means for the rest of the document
+
+Every §C.7 in this document says progress is [load](#load) × reps at a fixed range of motion. Read alongside §A.1,
+that instruction has two halves and this Part supplies both:
+
+1. **"Fixed range of motion"** is not a cue, it is a **[specification](#exercisespecification)** — a written set of conditions you can
+   check (§B).
+2. **"Rising"** needs a threshold, and it is larger than most people assume. From two isolated tests, about
+   **10%**; from a block of training compared with another block, about **5%** (§C).
+
+## partxviiibthespecification
+
+**PART B — The specification: what has to be held still**
+
+### B.1 The comparability rule — the decision rule this Part runs on
+
+> **EXERCISE SPECIFICATION — the rule.**
+>
+> Two sessions of an exercise are **comparable** — that is, the difference between their loads and reps
+> means something about you — only if **all six of the following were the same**:
+>
+> | # | Fixed | Written as |
+> |---|---|---|
+> | **1** | **Range of motion**, both ends | A position you can see or feel, not a percentage. "Bar touches chest", "thigh to parallel", "back lifts off floor" |
+> | **2** | **The contact points** — grip width, stance width, foot and hand position, bench or pad settings | Numbers where the equipment gives you numbers; marks where it does not |
+> | **3** | **[Tempo](#tempo)**, at least on the lowering phase | Seconds, or "controlled" defined as a count you keep |
+> | **4** | **Rest before the [set](#set)** | Minutes, from the end of the previous set |
+> | **5** | **Position in the session** | Which exercise it follows, and how many working sets preceded it |
+> | **6** | **[Proximity to failure](#proximitytofailure)** | Reps in reserve, or "to failure" if you mean it |
+>
+> **If any of the six changed, you have started a new measurement series.** The numbers before and after are
+> both valid; they are just not comparable with each other.
+>
+> **The tie-break.** If you cannot state what a condition was two months ago, it was not fixed — it was
+> whatever you happened to do. Write it down or lose the comparison.
+
+**Why six and not more.** These are the conditions that change the load you can move *without changing you*.
+Longer lists exist — the **Consensus on Exercise Reporting Template** asks for sixteen items when reporting
+an exercise intervention in a trial (Slade et al., 2016) — but most of those items exist so a *reader* can
+replicate your programme, not so *you* can compare your own week to week. Six is the working set.
+
+**Caveats.** The ranking in §B.2 is this document's judgement from how much each condition moves an external
+moment arm or a rep count; **no study has compared these six for their effect on a training log**. The rule
+is a bookkeeping discipline, not a finding.
+
+### B.2 Which of the six moves the reading most
+
+Ranked by how much a plausible drift changes the number, worst first:
+
+| Condition | A realistic drift | What it does to your load |
+|---|---|---|
+| **Range of motion** | Squat 5 cm shallower; bench stopped 3 cm off the chest | **Large.** Shortening the hardest part of the range can be worth more than a year of training |
+| **Proximity to failure** | "Hard set" quietly becomes 3 [reps in reserve](#rir) | **Large**, and invisible in the log — the load can rise while the effort falls |
+| **Contact points** | Grip 3 cm wider; feet further apart | **Moderate to large**, and exercise-specific. On a bench press it changes the distance the bar travels |
+| **Position in the session** | The lift moves from first to fourth | **Moderate.** Accumulated fatigue, not strength |
+| **Rest before the set** | 2 minutes becomes 4 | **Moderate.** Longer rest permits more load — which is why it is a training variable in its own right (§D.2) |
+| **Tempo** | A 3-second lowering becomes a 1-second drop | **Moderate**, and it makes the rep easier while looking identical in the log |
+
+> **The top two are the ones to guard.** Both drift toward *easier* under fatigue, both raise the number in
+> your log, and neither leaves a trace unless you wrote the specification down.
+
+### B.3 How to write a range-of-motion endpoint
+
+This is the condition that matters most and the one people specify worst. **"Full range of motion" is not a
+specification** — full according to whom, on which day, with which hip?
+
+**Use a physical event, not a judgement.** A good endpoint is something that either happened or did not:
+
+| Bad | Good |
+|---|---|
+| "Go deep" | "Hip crease below the top of the knee" |
+| "Full range" | "Bar touches the chest, no bounce" |
+| "All the way down" | "Elbows reach 90°, upper arm flat on the pad" |
+| "Control the negative" | "Three seconds, counted" |
+| "Stretch at the bottom" | "Stop when the lower back lifts off the floor" (Part XVII §C.1) |
+
+Where this document prescribes a rep, it already writes endpoints this way, and §C.7 of each Part assumes you
+kept them.
+
+### B.4 The standard card
+
+One card per exercise, written once, changed deliberately and dated when it changes.
+
+```
+EXERCISE   Barbell back squat
+-------------------------------------------------------------------
+ROM        Hip crease below top of knee. Stand fully at top.
+CONTACT    Bar low-bar, ring finger on knurl mark. Heels 90 cm apart,
+           toes out ~25 deg. No shoes.
+TEMPO      Down ~2 s controlled, no pause, up as fast as intent allows.
+REST       3 min before each working set.
+ORDER      First exercise of the session, after the standard warm-up.
+EFFORT     Working sets at 2 reps in reserve.
+-------------------------------------------------------------------
+STARTED    2026-01-06          <- the series begins here
+REVISED    ----                <- a revision starts a NEW series
+```
+
+**The dates are the point.** A specification with no start date cannot tell you when the comparison became
+invalid, and a revision without a new date silently merges two different measurements into one trend line.
+
+### B.5 What you do not need to fix
+
+Resist the urge to standardize everything; most of it does not move the number enough to matter, and a
+specification you cannot follow is worse than a short one you can.
+
+- **Time of day** — worth *recording*, not necessarily fixing (§D.3).
+- **What you ate, caffeine, mood, music** — real effects on a single session, swamped by the 4.2% (§A.1) and
+  not worth the bookkeeping.
+- **The exact bar, plates or gym** — unless the equipment differs mechanically, in which case it is
+  condition 2.
+- **Warm-up details**, provided the warm-up is roughly the same and not itself fatiguing.
+
+## partxviiichowbigachangeisreal
+
+**PART C — How big a change has to be before it is real**
+
+### C.1 The arithmetic, done once
+
+Take the median figure from §A.1 — a within-person variation of **4.2%** on a repeated strength test — and
+follow it through. **Two** measurements each carry that error, so the difference between them is noisier
+than either one alone, by a factor of √2. To be 95% confident a change is not noise, it must exceed about
+1.96 times that.
+
+```
+                        TYPICAL   NOISE ON A    95% THRESHOLD    ON A
+                        ERROR     DIFFERENCE    (TWO-SIDED)      100 kg LIFT
+Typical lifter           4.2%        5.9%          11.6%          11.6 kg
+Trained lifter           3.3%        4.7%           9.1%           9.1 kg
+-- if you only care about getting stronger, not weaker (one-sided) --
+Typical lifter           4.2%        5.9%           9.8%           9.8 kg
+```
+
+Three things about that table.
+
+**The trained figure is the one most readers want.** Grgic's studies of people with previous training
+experience had a median variation of **3.3%**, against 5.5% in untrained people. If you have been lifting for
+a while, your instrument is better than the headline suggests — but the threshold is still around **9%**.
+
+**One-sided or two-sided changes the answer**, and it is the reason this Part quotes 10% in one place and
+11.6% in another. If you genuinely only want to know whether you got *stronger*, 9.8% is the right figure; if
+you want to detect change in either direction, 11.6%.
+
+**This is derived arithmetic**, applying the standard [minimal-detectable-change](#minimaldetectablechange) calculation to a median of
+study-level variations. **A mechanical inference.** A median across studies is not your personal error, and
+Grgic did not weight or pool it.
+
+> **And there is a direct check on all of it, from the same review.** The measured 95% limits of agreement
+> in §A.1 — **±10–15 kg on a squat, ±3–5 kg on a bench press** — are what the derivation is trying to
+> approximate, and they land in the same place. **Where the two disagree, trust the measured limits**, and
+> note that the bench press is measured far more tightly than the arithmetic's single figure implies.
+
+### C.2 The way out is blocks, not trend lines
+
+If the only way to detect progress were two maximal tests, nobody could see anything in less than a year.
+The escape is to stop comparing *points* and start comparing *periods*.
+
+**Average your readings over a block of training, and compare that average with the next block's.** Averaging
+genuinely does reduce noise by √n, and comparing two averages is a comparison this arithmetic covers:
+
+```
+COMPARING A BLOCK OF SESSIONS WITH A LATER BLOCK OF THE SAME LENGTH
+  3 sessions vs 3      95% threshold  6.7%
+  6 sessions vs 6      95% threshold  4.8%
+ 12 sessions vs 12     95% threshold  3.4%
+```
+
+**Twelve sessions against twelve gets you to about 3.4%** — roughly a third of the two-test threshold, from
+ordinary training rather than testing.
+
+> **An earlier version of this Part printed a different table, and it was wrong by about six times.** It
+> applied the √n rule to a *trend line*, which is not an average: the precision of a slope depends on how
+> spread out the sessions are as well as how many there are, and the correct 95% threshold for detecting a
+> trend across twelve sessions is about **7.6%**, not the 1.2% that was printed. The block comparison above
+> is the honest use of √n, and it is also easier to do.
+
+**Two cautions that apply to both.** Sessions are not independent — a good week tends to follow a good week —
+and correlation between readings makes any of these thresholds a **floor rather than a promise**. And
+averaging only helps against *random* noise. It does nothing about drift, which is systematic: if your squat
+is getting shallower, every session in the block is wrong in the same direction, and no amount of averaging
+will reveal it. **That is what §B is for.**
+
+### C.3 The beginner's illusion is real, and it has been measured
+
+The folk explanation for fast early progress is that the beginner is "learning the movement" — skill, not
+strength. **An earlier version of this Part argued that claim was weaker than usually asserted. That was
+wrong, and it was wrong in an instructive way**: it rested on the intraclass correlation, which §A.1 spends a
+page explaining is the wrong statistic for exactly this question.
+
+**When you look at the right statistic, it separates cleanly:**
+
+```
+MEDIAN COEFFICIENT OF VARIATION, 1RM TEST-RETEST
+  No familiarization session .... 5.3%      Untrained ..... 5.5%
+  One or more sessions .......... 3.8%      Trained ....... 3.3%
+                                        Grgic et al., 2020
+```
+
+**And the size of the effect has been measured directly.** Untrained women were retested on a knee-extension
+1RM until two consecutive results differed by no more than 1 kg — **with no training in between**:
+
+> **Young women needed 3–4 sessions to stabilise and gained 11 kg, or 12%, along the way. Older women needed
+> 8–9 sessions and gained 13 kg, or 22%** (Ploutz-Snyder & Giamis, 2001).
+
+**Then there is the study that tests the strongest form of the claim.** Thirty-eight untrained people trained
+for eight weeks: one group did four sets to failure, the other **only practised the 1RM test**. Muscle grew
+more in the training group — but **the strength gains were the same**, differing by 1.1 kg upper body and
+1.0 kg lower body (Mattocks et al., 2017).
+
+> **So the honest summary is the opposite of the one this Part first gave.** In an untrained person, or on an
+> unfamiliar exercise, a large part of early "strength gain" is the measurement settling down. **Expect
+> 10–20% of apparent early progress to be familiarization**, expect it to take **3–4 sessions in a young
+> adult and up to 8–9 in an older one**, and do not set a baseline from your first attempt at anything.
+> **Moderate evidence** — small samples, one exercise, women only in the familiarization study.
+
+### C.4 A working rule
+
+**This document's judgement**, built from §C.1 and §C.2:
+
+| Situation | Treat as real when… |
+|---|---|
+| **Two isolated tests**, weeks apart | The change exceeds about **10%** — or **9%** if you are trained (§C.1) |
+| **A block of 6 sessions against a later block of 6**, same specification | The difference in the averages exceeds about **5%** |
+| **A block of 12 against 12** | About **3.5%** |
+| **A single session up or down** | **Never.** One session is one reading of a noisy instrument |
+| **Your first 3–9 sessions on a new exercise** | **Never.** That is the measurement settling, not you (§C.3) |
+| **A change of exercise or specification** | **Never.** There is no comparison to make (§E) |
+
+> **And the corollary that costs people the most:** if your load is rising and you did not hold the
+> specification, **the most likely explanation is the specification.** Check the range of motion before you
+> credit the programme.
+
+## partxviiidconfounders
+
+**PART D — The things that move the reading without moving you**
+
+### D.1 Fix it, record it, or ignore it
+
+Not every variable deserves the same treatment. The test is how much it moves the number against how much it
+costs you to control.
+
+| | Variables | Why |
+|---|---|---|
+| **Fix** | The six in §B.1 | They change the load you can move without changing you |
+| **Record** | Time of day, sleep the night before, whether the session followed a hard one | Real effects, but fixing them costs more than it buys — and recording lets you explain an outlier later |
+| **Ignore** | Meal timing, mood, music | Their effect on a single set is smaller than the 4.2% you already carry (§A.1) |
+
+**One entry moved out of "ignore" between drafts.** **Caffeine** is not negligible — it has a measurable
+acute effect on maximal strength, and if you take it before some sessions and not others you have added a
+variable to your own instrument. **Either take it consistently before the lifts you track, or record it.**
+
+### D.2 Rest before the set
+
+Rest is a confounder **and** a training variable, which is why it must be fixed rather than optimized on the
+fly. Longer rest permits more load in the next set; if your rest drifts from two minutes to four, your log
+records a strength gain that is a stopwatch artefact.
+
+It also has chronic consequences, so the choice is not free. Reviewing 23 studies and 491 participants,
+**rest intervals longer than about two minutes were needed to maximize strength gains in resistance-trained
+people, while 60–120 seconds appeared sufficient in untrained people** — and robust gains occurred even with
+short rests (Grgic et al., 2018). **Moderate evidence.**
+
+> **The practical reading:** pick a rest interval for training reasons, write it on the card, and then hold
+> it — including on the days you feel impatient.
+
+### D.3 Time of day
+
+This one is unusually well characterized, and the answer is more useful than "train whenever".
+
+> **Pooling eleven studies: strength is significantly greater in the evening than the morning at baseline.
+> Training in the morning raises morning strength toward evening levels; training in the evening preserves
+> the day-long difference. And strength gains over a programme are similar whichever time you train**
+> (Grgic et al., 2019).
+
+Three consequences:
+
+- **For the measurement**, time of day matters. A lift tested at 7 a.m. and retested at 7 p.m. is not a fair
+  comparison, and the direction is predictable.
+- **For adaptation**, it does not. Choose the time you will actually keep.
+- **If you train consistently in the morning, the morning deficit shrinks** — so an early-morning lifter's
+  numbers become more representative over time rather than permanently handicapped.
+
+### D.4 Where the exercise sits in the session
+
+Moving a lift from first to fourth changes its numbers through accumulated fatigue, not strength. This is
+condition 5 in §B.1, and it is the one most often broken by accident — a programme gets reordered, a new
+exercise is added in front, and a plateau appears that was never a plateau.
+
+**If you must reorder, treat it as a new series** (§E).
+
+### D.5 Proximity to failure, and why it is the slipperiest of the six
+
+A load rising while effort falls looks identical in a log to a load rising while effort holds. The only
+defence is to specify effort and to distrust your own estimate of it.
+
+**Reps in reserve is the usual tool, and its accuracy is limited in three separate ways.**
+
+**It is imprecise.** Asked to stop at predicted reserves of 2, 4 and 6 repetitions, older adults' estimates
+led the authors to conclude that predicted reserve "may lack precision for accurately prescribing"
+resistance exercise in that population (Gómez-Redondo et al., 2025).
+
+**It depends on things you are not thinking about.** Across 2,972 sets in trained lifters, the relationship
+between bar velocity and perceived reserve shifted with the exercise, the load, the velocity-loss threshold
+**and the set number** (Paulsen et al., 2025) — and set number is condition 5 of this Part's own six (§B.1).
+
+**And your own bias is not stable enough to correct for.** In resistance-trained men estimating reps to
+failure across five sets of bench press and squat, accuracy varied with local muscular endurance rather than
+with strength (Hackett & Sabag, 2022) — so "I always underestimate by two" is not a calibration you can rely
+on.
+
+> **What to do about it.** Use reps in reserve as a *specification* — "these sets are meant to end with about
+> two left" — rather than as a measurement. And take at least one set to genuine [momentary failure](#momentaryfailure)
+> occasionally, because it is the only anchor that calibrates everything else.
+
+### D.6 Everything else
+
+Sleep, energy availability, illness and life stress all move a single session, sometimes a lot. This document
+does not treat them, and the companion reference does: see `strength-and-body-composition.md`. For the
+purposes of this Part they belong in the **record** column — note them when they are unusual, and use them to
+explain an outlier rather than to build a trend.
+
+---
+
+## partxviiiewhentorestandardize
+
+**PART E — Changing the specification on purpose**
+
+### E.1 A change starts a new series
+
+**The rule from §B.1 is symmetric.** If holding the six conditions makes two sessions comparable, then
+changing any of them makes them incomparable — and that is not a failure, it is just bookkeeping. Write a new
+card, date it, and start a new line.
+
+**What you lose** is the ability to say "I added 20 kg this year" across the change. **What you keep** is
+everything after it.
+
+### E.2 Good reasons to change anyway
+
+- **Pain, or a position you can no longer reach.** Never hold a specification that hurts in order to protect
+  a number.
+- **The specification was wrong.** If your "full depth" was never full, fixing it is worth losing the
+  history — and expect the load to fall.
+- **The exercise stopped being trainable** — you cannot load it further, or the [limiting link](#limitinglink) moved somewhere
+  you did not intend (each Part's §C.5).
+- **The goal changed.**
+
+**Not a good reason:** the number stopped going up. That is the situation the measurement exists to detect,
+and changing the exercise deletes the evidence rather than solving the problem.
+
+### E.3 How to bridge a change
+
+If you want continuity across a deliberate change, **overlap them**. Run the old specification and the new
+one in the same week for two or three weeks, then drop the old one. You cannot join the two trend lines, but
+you will know the size of the step between them — which is enough to keep reading the new line in context.
+
+**This document's judgement**; no study has tested it.
+
+### E.4 Re-standardizing on a schedule
+
+A useful habit, costing a few minutes twice a year: **re-read your own cards, then film a working set of each
+main lift and check it against the card.** Drift is gradual and invisible from inside the set, and this is
+the only reliable way to catch it. Where a Part of this document prescribes filming — Part XVII §C.1 does,
+for the same reason — it is because no internal sensation substitutes for it.
+
+## partxviiifotherinstruments
+
+**PART F — Instruments other than load × reps**
+
+Load and reps are free, available every session, and noisy (§A.1). Three alternatives exist. None replaces
+the specification — **a better instrument read under drifting conditions is still reading the drift.**
+
+### F.1 Bar velocity
+
+A linear position transducer measures how fast the bar moves, which falls predictably as load rises. Two uses
+follow, and they are not equally well supported.
+
+- **Estimating a maximum without testing one.** Load–velocity profiling predicts a [one-repetition maximum](#onerepmax)
+  from submaximal sets, which removes the need for a maximal test and its risk. **By this Part's own test,
+  it does not yet pass.** Predicting a hex-bar deadlift 1RM from a three-point profile explained almost all
+  the variance (R² = 0.975), but its inputs were noisier than the 4.2% benchmark — coefficients of variation
+  of **5.2%** and **6.0%** — and the limits of agreement against an actual 1RM were **±15.7 kg**, leading the
+  authors to conclude the two methods "should not be used interchangeably" (Stevens et al., 2026). **±15.7 kg
+  is wider than the 11.6 kg a direct test would need to detect** (§C.1), so as a *measurement* this currently
+  costs more precision than it saves effort.
+- **Gauging effort within a set.** Velocity drops as a set fatigues, so a [velocity loss threshold](#velocitybasedtraining) is often
+  sold as an objective substitute for reps in reserve. **Treat that claim carefully** — velocity-based
+  monitoring has been found to lack accuracy for estimating repetitions in reserve (Chen et al., 2026).
+
+**And the thresholds themselves may matter less than the marketing implies.** Training one leg to a 15%
+velocity loss and the other to 30%, with volume matched, produced **similar changes in strength and
+[hypertrophy](#hypertrophy)** in ten trained adults over nine weeks (Andersen et al., 2024); comparing 5% against 20% in the
+squat over seven weeks produced similar strength gains in 28 men (Galiano et al., 2022).
+**Promising but under-replicated**, and note what "similar" means here: with ten and twenty-eight
+participants, both studies could only have detected large differences. **A Part about not over-reading small
+numbers should not read two underpowered nulls as proof of equivalence**, and an earlier draft of this one
+graded them higher than it should have.
+
+> **Verdict.** Velocity is the best available objective instrument for load, and it costs money. If you have
+> one, use it to reduce the number of maximal tests you take, not to replace the specification.
+
+### F.2 Reps in reserve and perceived exertion
+
+Free, universal, and the weakest of the instruments — see §D.5. Use it to *specify* effort, not to measure
+progress.
+
+### F.3 Size, rather than strength
+
+Strength and size are different outcomes, and this document is mostly about the second. The measures each
+Part's §C.7 lists — tape circumference, [ultrasound thickness](#musclethickness) — carry their own error, usually larger than the
+change you are looking for over eight weeks. **The advice given there stands**: same operator, same landmark,
+same time of day, never within 72 hours of training the muscle, and read over months rather than weeks.
+**This Part does not supply an error figure for those measures**, which is a gap in a Part about error —
+the Parts that use them cite their own reliability evidence, and it is not summarised here.
+
+> **The general principle is the same one this Part opened with.** Every instrument has a noise floor. Before
+> you trust a difference, find out whether it is bigger than the floor.
+
+---
+
+## partxviiigsynthesis
+
+**PART G — Synthesis**
+
+### G.1 The rules that hold
+
+1. **A training log is a measurement**, and the measurement has error.
+2. **That error is about 4.2% on a repeated strength test** — a median across the **15 studies** that
+   reported it, out of 32 reviewed — and about **3.3% in trained lifters** (Grgic et al., 2020).
+3. **The same review measured it directly in kilograms: ±3–5 kg on a bench press and ±10–15 kg on a squat**,
+   test to retest with no training in between.
+4. **Two isolated tests must differ by roughly 10% before the difference is confidently real.** Comparing a
+   block of six sessions with a later block of six brings that to about **5%**, and twelve against twelve to
+   about **3.5%** (§C.2).
+5. **Six conditions decide whether two sessions are comparable**: range of motion, contact points, tempo,
+   rest, position in the session, and proximity to failure (§B.1).
+6. **Range of motion and proximity to failure are the two that drift**, both toward easier, both raising the
+   number in the log (§B.2).
+7. **A beginner's early progress is substantially the measurement settling.** Untrained women gained 12–22%
+   on a retested 1RM with no training in between (Ploutz-Snyder & Giamis, 2001), and a group that only
+   practised the test matched a group training four sets to failure (Mattocks et al., 2017).
+8. **Strength is greater in the evening; adaptation does not care what time you train** (Grgic et al., 2019).
+9. **Rest interval is a confounder and a training variable at once** — fix it deliberately
+   (Grgic et al., 2018).
+10. **Changing any condition starts a new series.** That is bookkeeping, not failure (§E.1).
+11. **Averaging defeats random noise and does nothing about drift**, which is systematic (§C.2).
+12. **Film a working set twice a year.** Drift is invisible from inside the set (§E.4).
+
+### G.2 What this Part does not support
+
+**That a personal best is evidence of anything on its own.** One session is one reading of a noisy
+instrument (§C.4).
+
+**That lower-body lifts are meaningfully noisier than upper-body ones.** Their medians differ — 4.7% against
+4.1% — but the review reports **no substantial difference** between them, and a Part about not over-reading
+small numbers had no business building an argument on that gap.
+
+**That "full range of motion" is a specification.** It is a judgement, and judgements drift. A specification
+names a physical event that either happened or did not (§B.3).
+
+**That rotating exercises frequently is free.** It may or may not cost adaptation — this Part takes no view —
+but it definitely costs measurement, because every rotation restarts the series before the trend can
+outgrow the noise (§C.2).
+
+**That a beginner's early progress is mostly *not* skill.** An earlier draft of this Part argued that, using
+the intraclass correlation — the statistic §A.1 explains is the wrong one for the question. The coefficients
+of variation separate cleanly (5.3% unfamiliarized against 3.8% familiarized; 5.5% untrained against 3.3%
+trained), the effect has been measured at **12–22% over 3–9 sessions with no training**
+(Ploutz-Snyder & Giamis, 2001), and practising the test alone matched real training for strength
+(Mattocks et al., 2017). **The correction is recorded here rather than quietly removed**, because the
+mistake was the Part failing to apply its own best idea.
+
+**That reps in reserve is a measurement.** It is a specification. Its accuracy is limited enough that at
+least one study concluded predicted reserve "may lack precision" for prescribing load
+(Gómez-Redondo et al., 2025).
+
+**That any of this changes what you should train.** Nothing in this Part alters a single prescription
+elsewhere in the document. It alters only whether you can tell what the prescriptions did.
+
+### G.3 The one-paragraph version
+
+Your training log is a measuring instrument, and nobody ever tells you its error bar. Test the same person's
+squat twice in a week with no training in between and the two answers can differ by **ten to fifteen
+kilograms** — that is a measured figure, not a derived one, and the review that reports it calls that
+*good* reliability. So from two isolated tests you need something like a **10% change** before you can say
+you got stronger rather than that you turned up on a good day; around 9% if you are trained. The escape is
+not a trend line through your last few sessions, which is far less precise than it looks, but **comparing a
+block of training with a later block**: average six sessions against six and the threshold falls to about 5%,
+twelve against twelve to about 3.5%, out of ordinary training rather than testing. The catch is that
+averaging only defeats *random* noise. It does nothing about **drift** — the exercise quietly changing —
+which is systematic, moves in the same direction as progress, and is the reason two sessions are comparable
+only if six things held still: **how far you moved, where you gripped, how fast you lowered, how long you
+rested, where the lift sat in the session, and how close to failure you went.** Two of those, range of motion
+and proximity to failure, drift on their own, always toward easier, pushing the number in your log up while
+you get no stronger. And if you are new to a lift, discount the first three to nine sessions entirely:
+untrained women retested on a knee extension gained **12 to 22% with no training at all**, purely from the
+measurement settling down. So write the six conditions down once per exercise, date the card, film a set
+twice a year, and treat any change to the card as a new series. **None of this tells you what to train. It
+tells you whether you can believe what happened.**
+
+# partximasterglossary
+
+**Part XIX — Master Glossary**
 
 Every technical term used anywhere in this document, defined formally with formula and units where
 the quantity is physically or operationally defined.
@@ -24067,11 +24775,11 @@ plain same-file heading anchor.
 
 | Term | Layer | Term | Layer |
 |---|---|---|---|
-| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Medial epicondylalgia ("golfer's elbow")](#medialepicondylalgia) | 13 |
-| [45° back extension (hip extension)](#backextension) | 12 | [Medial epicondyle](#medialepicondyle) | 3 |
-| [Ab wheel](#abwheel) | 12 | [Median nerve](#mediannerve) | 9 |
-| [Abdominal wall](#abdominalwall) | 9 | [Middle (transverse) trapezius](#middletrapezius) | 9 |
-| [Accessory nerve (CN XI)](#accessorynerve) | 9 | [Middle deltoid](#middledeltoid) | 9 |
+| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Medial epicondyle](#medialepicondyle) | 3 |
+| [45° back extension (hip extension)](#backextension) | 12 | [Median nerve](#mediannerve) | 9 |
+| [Ab wheel](#abwheel) | 12 | [Middle (transverse) trapezius](#middletrapezius) | 9 |
+| [Abdominal wall](#abdominalwall) | 9 | [Middle deltoid](#middledeltoid) | 9 |
+| [Accessory nerve (CN XI)](#accessorynerve) | 9 | [Minimal detectable change](#minimaldetectablechange) | 11 |
 | [Achilles tendinopathy](#achillestendinopathy) | 13 | [Mixed grip](#mixedgrip) | 11 |
 | [Achilles tendon](#achillestendon) | 3 | [Moment arm](#momentarm) | 2 |
 | [ACL reconstruction](#aclreconstruction) | 13 | [Momentary (muscular) failure](#momentaryfailure) | 10 |
@@ -24127,146 +24835,149 @@ plain same-file heading anchor.
 | [Clavicle (collarbone)](#clavicle) | 3 | [Pull-up](#pullup) | 12 |
 | [Close-grip bench press](#closegripbenchpress) | 12 | [Pullover](#pullover) | 12 |
 | [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Push-up](#pushup) | 12 |
-| [Compound exercise](#compound) | 11 | [Push-up plus](#pushupplus) | 12 |
-| [Concentric contraction](#concentriccontraction) | 6 | [Quadratus lumborum](#quadratuslumborum) | 9 |
-| [Contralateral](#contralateral) | 1 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
-| [Copenhagen adduction exercise](#copenhagenadduction) | 12 | [Quadriceps tendon](#quadricepstendon) | 3 |
-| [Coracobrachialis](#coracobrachialis) | 9 | [Radial nerve](#radialnerve) | 9 |
-| [Coracoid process](#coracoidprocess) | 3 | [Radial tuberosity](#radialtuberosity) | 3 |
-| [Costal cartilage](#costalcartilage) | 3 | [Range of motion (ROM)](#rangeofmotion) | 4 |
-| [Crunch](#crunch) | 12 | [Rectus abdominis](#rectusabdominis) | 9 |
-| [Cuff loading class (rotation-loaded, compression-, traction-, elevation-loaded, end-range restraint)](#cuffloadingclass) | 11 | [Rectus femoris](#rectusfemoris) | 8 |
-| [Dead hang](#deadhang) | 12 | [Rectus sheath](#rectussheath) | 3 |
-| [Deadlift](#deadlift) | 12 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
-| [Deep hip external rotators](#hipexternalrotators) | 8 | [Repetition (rep)](#repetition) | 10 |
-| [Deload](#deload) | 10 | [Resistance profile](#resistanceprofile) | 11 |
-| [Deltoid](#deltoid) | 9 | [Reverse curl](#reversecurl) | 12 |
-| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 12 |
-| [Diaphragm](#diaphragm) | 9 | [Reverse hyperextension](#reversehyperextension) | 12 |
-| [Diastasis recti](#diastasisrecti) | 13 | [Reverse Nordic curl](#reversenordic) | 12 |
-| [Dip (parallel-bar dip)](#dip) | 12 | [Reverse wrist curl](#reversewristcurl) | 12 |
-| [Distal biceps tendon rupture](#distalbicepstendonrupture) | 13 | [Rhomboids (major and minor)](#rhomboids) | 9 |
-| [Distal clavicular osteolysis ("weightlifter's shoulder")](#distalclavicularosteolysis) | 13 | [RIR (repetitions in reserve)](#rir) | 10 |
-| [Distal triceps tendon rupture](#distaltricepsrupture) | 13 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
-| [Dorsal scapular nerve](#dorsalscapularnerve) | 9 | [Rotator cuff](#rotatorcuff) | 9 |
-| [Dose–response relationship](#doseresponserelationship) | 10 | [Rotator cuff muscles](#rotatorcuffmuscles) | 9 |
-| [Double progression](#doubleprogression) | 10 | [Rotator cuff tear](#rotatorcufftear) | 13 |
-| [Dumbbell bench press](#dumbbellbenchpress) | 12 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
-| [Eccentric contraction](#eccentriccontraction) | 6 | [Row](#row) | 12 |
-| [Effect size](#effectsize) | 9 | [RPE (rating of perceived exertion)](#rpe) | 10 |
-| [Effort tolerance](#efforttolerance) | 10 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
-| [Elbow extension](#elbowextension) | 4 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
-| [Elbow flexion](#elbowflexion) | 4 | [Sacrum](#sacrum) | 3 |
-| [Elbow flexor loading class (stretch-loaded, half-loaded, stretch-free)](#elbowflexorloadingclass) | 11 | [Sagittal plane](#sagittalplane) | 1 |
-| [Elbow flexors](#elbowflexors) | 8 | [Sarcomere](#sarcomere) | 5 |
-| [Elbow path](#elbowpath) | 11 | [Sartorius](#sartorius) | 9 |
-| [EMG (electromyography)](#emg) | 9 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
-| [Erector spinae](#erectorspinae) | 8 | [Scapula (shoulder blade)](#scapula) | 3 |
-| [Erector spinae aponeurosis](#erectorspinaeaponeurosis) | 3 | [Scapular (scapulothoracic) muscles](#scapularmuscles) | 9 |
-| [Excursion](#excursion) | 4 | [Scapular anterior tilt](#scapularanteriortilt) | 4 |
-| [Extensor carpi radialis brevis (ECRB)](#extensorcarpiradialisbrevis) | 9 | [Scapular depression](#scapulardepression) | 4 |
-| [External oblique](#externaloblique) | 9 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
-| [External rotation exercise](#externalrotationexercise) | 12 | [Scapular dyskinesis](#scapulardyskinesis) | 13 |
-| [Face pull](#facepull) | 12 | [Scapular elevation](#scapularelevation) | 4 |
-| [Farmer's walk](#farmerswalk) | 12 | [Scapular internal and external rotation](#scapularinternalrotation) | 4 |
-| [Fascicle length](#fasciclelength) | 5 | [Scapular load class (elevation-, depression-, retraction-, protraction-, upward-rotation-, downward-rotation-loaded)](#scapularloadclass) | 11 |
-| [Femoral nerve](#femoralnerve) | 8 | [Scapular posterior tilt](#scapularposteriortilt) | 4 |
-| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Scapular protraction (abduction)](#scapularprotraction) | 4 |
-| [Femur (thigh bone)](#femur) | 3 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
-| [Finger flexion](#fingerflexion) | 4 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
-| [Finger pulley injury](#pulleyinjury) | 13 | [Scapular winging](#scapularwinging) | 13 |
-| [Flexion relaxation](#flexionrelaxation) | 11 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
-| [Flexor digitorum profundus (FDP)](#flexordigitorumprofundus) | 9 | [Scapulothoracic articulation](#scapulothoracicarticulation) | 3 |
-| [Flexor digitorum superficialis (FDS)](#flexordigitorumsuperficialis) | 9 | [Seated calf raise](#seatedcalfraise) | 12 |
-| [Force–length relationship](#forcelengthrelationship) | 5 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
-| [Forearm muscles](#forearmmuscles) | 9 | [Semimembranosus (SM)](#semimembranosus) | 8 |
-| [Forearm pronation](#forearmpronation) | 4 | [Semitendinosus (ST)](#semitendinosus) | 8 |
-| [Forearm supination](#forearmsupination) | 4 | [Serratus anterior](#serratusanterior) | 8 |
-| [Front raise](#frontraise) | 12 | [Sesamoid bone](#sesamoid) | 3 |
-| [Front squat](#frontsquat) | 12 | [Set](#set) | 10 |
-| [Frontal (coronal) plane](#frontalplane) | 1 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
-| [Gastrocnemius](#gastrocnemius) | 8 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
-| [Glenohumeral joint](#glenohumeraljoint) | 3 | [Shoulder abduction](#shoulderabduction) | 4 |
-| [Glute-ham raise (GHR)](#glutehamraise) | 12 | [Shoulder adduction](#shoulderadduction) | 4 |
-| [Gluteal tendinopathy (greater trochanteric pain syndrome)](#glutealtendinopathy) | 13 | [Shoulder extension](#shoulderextension) | 4 |
-| [Gluteus maximus](#gluteusmaximus) | 8 | [Shoulder external (lateral) rotation](#shoulderexternalrotation) | 4 |
-| [Gluteus medius](#gluteusmedius) | 8 | [Shoulder flexion](#shoulderflexion) | 4 |
-| [Gluteus minimus](#gluteusminimus) | 8 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
-| [Good morning](#goodmorning) | 12 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
-| [Gracilis](#gracilis) | 8 | [Shoulder instability](#shoulderinstability) | 13 |
-| [Greater trochanter](#greatertrochanter) | 3 | [Shoulder position class (Overhead, Raised, Down)](#shoulderpositionclass) | 11 |
-| [Greater tubercle](#greatertubercle) | 3 | [Shrug](#shrug) | 12 |
-| [Grip demand class (support, crush, pinch, open-hand)](#gripdemandclass) | 11 | [Side plank](#sideplank) | 12 |
-| [Grip width](#gripwidth) | 11 | [Single-leg lowering](#singleleglowering) | 11 |
-| [Hack squat](#hacksquat) | 12 | [Sissy squat](#sissysquat) | 12 |
-| [Hammer curl](#hammercurl) | 12 | [Sit-up](#situp) | 12 |
-| [Hamstrings](#hamstrings) | 8 | [Size principle](#sizeprinciple) | 6 |
-| [Hand gripper](#handgripper) | 12 | [Smith machine squat](#smithmachinesquat) | 12 |
-| [Handgrip dynamometry](#handgripdynamometry) | 9 | [Snapping hip (internal)](#snappinghip) | 13 |
-| [Hangboard hang](#hangboardhang) | 12 | [Snapping triceps](#snappingtriceps) | 13 |
-| [Hanging knee raise](#hangingkneeraise) | 12 | [Soleus](#soleus) | 8 |
-| [Hard set](#hardset) | 10 | [Specific tension](#specifictension) | 5 |
-| [Hip abduction](#hipabduction) | 4 | [Spinal role class (spine-moving, spine-holding, supported)](#spinalroleclass) | 11 |
-| [Hip adduction](#hipadduction) | 4 | [Spine of the scapula](#scapularspine) | 3 |
-| [Hip adduction machine](#hipadductionmachine) | 12 | [Split squat](#splitsquat) | 12 |
-| [Hip adductors](#hipadductors) | 8 | [Spondylolysis](#spondylolysis) | 13 |
-| [Hip extension](#hipextension) | 4 | [Squat depth](#squatdepth) | 11 |
-| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Stance width](#stancewidth) | 11 |
-| [Hip flexion](#hipflexion) | 4 | [Step-up](#stepup) | 12 |
-| [Hip flexion load class (lengthened-, mid-, shortened-loaded; spine held or moving)](#hipflexionloadclass) | 11 | [Sternoclavicular joint](#sternoclavicularjoint) | 3 |
-| [Hip hinge](#hiphinge) | 11 | [Sternum (breastbone)](#sternum) | 3 |
-| [Hip internal (medial) rotation](#hipinternalrotation) | 4 | [Sticking region](#stickingregion) | 11 |
-| [Hip joint (acetabulofemoral joint)](#hipjoint) | 3 | [Straight-arm pulldown](#straightarmpulldown) | 12 |
-| [Hip osteoarthritis](#hiposteoarthritis) | 13 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
-| [Hook grip](#hookgrip) | 11 | [Subacromial decompression](#subacromialdecompression) | 13 |
-| [Horizontal pull](#horizontalpull) | 11 | [Subacromial impingement](#impingement) | 13 |
-| [Humeral elevation](#humeralelevation) | 4 | [Subacromial space](#subacromialspace) | 3 |
-| [Humerus (upper arm bone)](#humerus) | 3 | [Subscapularis](#subscapularis) | 9 |
-| [Hypertrophy](#hypertrophy) | 7 | [Suitcase carry](#suitcasecarry) | 12 |
-| [Iliacus](#iliacus) | 9 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
-| [Iliocostalis lumborum](#iliocostalislumborum) | 8 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
-| [Iliopsoas](#iliopsoas) | 9 | [Suprascapular nerve](#suprascapularnerve) | 9 |
-| [Iliopsoas-related groin pain](#iliopsoasgroinpain) | 13 | [Supraspinatus](#supraspinatus) | 9 |
-| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [T2-weighted MRI (transverse relaxation time)](#t2mri) | 9 |
-| [Incline curl](#inclinecurl) | 12 | [Technical failure](#technicalfailure) | 10 |
-| [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [Tempo](#tempo) | 10 |
-| [Infraglenoid tubercle](#infraglenoidtubercle) | 3 | [Tennis leg](#tennisleg) | 13 |
-| [Infraspinatus](#infraspinatus) | 9 | [Tenodesis effect](#tenodesiseffect) | 4 |
-| [Internal (medial) rotation](#internalrotation) | 4 | [Tensor fasciae latae (TFL)](#tensorfascialatae) | 8 |
-| [Internal oblique](#internaloblique) | 9 | [Tensor vastus intermedius](#tensorvastusintermedius) | 8 |
-| [Intra-abdominal pressure (IAP)](#intraabdominalpressure) | 3 | [Teres major](#teresmajor) | 8 |
-| [Inverted row](#invertedrow) | 12 | [Teres minor](#teresminor) | 9 |
-| [Ischial tuberosity](#ischialtuberosity) | 3 | [The EMG–hypertrophy dissociation](#emghypertrophydissociation) | 9 |
-| [Isolated lumbar extension (ILEX)](#isolatedlumbarextension) | 12 | [Thomas test (and modified Thomas test)](#thomastest) | 13 |
-| [Isolation exercise](#isolation) | 11 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
-| [Joint reaction force](#jointreactionforce) | 3 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
-| [Kettlebell swing](#kettlebellswing) | 12 | [Tibia (shin bone)](#tibia) | 3 |
-| [Kipping](#kipping) | 12 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
-| [Knee extension](#kneeextension) | 4 | [Torque (moment)](#torque) | 2 |
-| [Knee flexion](#kneeflexion) | 4 | [Torso inclination](#torsoinclination) | 11 |
-| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [Training frequency](#trainingfrequency) | 10 |
-| [Knee travel](#kneetravel) | 11 | [Training volume](#trainingvolume) | 10 |
-| [Lacertus fibrosus (bicipital aponeurosis)](#lacertusfibrosus) | 3 | [Transverse (horizontal) plane](#transverseplane) | 1 |
-| [Lat pulldown](#latpulldown) | 12 | [Transversus abdominis](#transversusabdominis) | 9 |
-| [Lateral epicondylalgia ("tennis elbow")](#lateralepicondylalgia) | 13 | [Trapezius](#trapezius) | 9 |
-| [Lateral epicondyle](#lateralepicondyle) | 3 | [Trapezius myalgia](#trapeziusmyalgia) | 13 |
-| [Lateral raise](#lateralraise) | 12 | [Triceps brachii](#tricepsbrachii) | 9 |
-| [Lateral slide](#lateralslide) | 12 | [Triceps brachii, lateral head](#tricepslateralhead) | 9 |
-| [Latissimus dorsi](#latissimusdorsi) | 8 | [Triceps brachii, long head](#tricepslonghead) | 9 |
-| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Triceps brachii, medial head](#tricepsmedialhead) | 9 |
-| [Leg extension](#legextension) | 12 | [Triceps kickback](#tricepskickback) | 12 |
-| [Leg press](#legpress) | 12 | [Triceps pushdown (cable pushdown)](#tricepspushdown) | 12 |
-| [Lengthened partials](#lengthenedpartials) | 7 | [Triceps surae](#tricepssurae) | 8 |
-| [Lengthened position](#lengthenedposition) | 7 | [Trunk extension](#trunkextension) | 5 |
-| [Lesser trochanter](#lessertrochanter) | 9 | [Trunk flexion](#trunkflexion) | 5 |
-| [Lesser tubercle](#lessertubercle) | 3 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
-| [Levator scapulae](#levatorscapulae) | 9 | [Trunk rotation](#trunkrotation) | 5 |
-| [Lifting straps](#liftingstraps) | 11 | [Ulnar nerve](#ulnarnerve) | 9 |
-| [Limiting link](#limitinglink) | 10 | [Upper (descending) trapezius](#uppertrapezius) | 9 |
-| [Line of action](#lineofaction) | 2 | [Upright row](#uprightrow) | 12 |
-| [Linea alba](#lineaalba) | 3 | [Vastus intermedius](#vastusintermedius) | 8 |
-| [Load](#load) | 10 | [Vastus lateralis](#vastuslateralis) | 8 |
-| [Long thoracic nerve](#longthoracicnerve) | 8 | [Vastus medialis](#vastusmedialis) | 8 |
+| [Coefficient of variation (CV)](#coefficientofvariation) | 11 | [Push-up plus](#pushupplus) | 12 |
+| [Compound exercise](#compound) | 11 | [Quadratus lumborum](#quadratuslumborum) | 9 |
+| [Concentric contraction](#concentriccontraction) | 6 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
+| [Contralateral](#contralateral) | 1 | [Quadriceps tendon](#quadricepstendon) | 3 |
+| [Copenhagen adduction exercise](#copenhagenadduction) | 12 | [Radial nerve](#radialnerve) | 9 |
+| [Coracobrachialis](#coracobrachialis) | 9 | [Radial tuberosity](#radialtuberosity) | 3 |
+| [Coracoid process](#coracoidprocess) | 3 | [Range of motion (ROM)](#rangeofmotion) | 4 |
+| [Costal cartilage](#costalcartilage) | 3 | [Rectus abdominis](#rectusabdominis) | 9 |
+| [Crunch](#crunch) | 12 | [Rectus femoris](#rectusfemoris) | 8 |
+| [Cuff loading class (rotation-loaded, compression-, traction-, elevation-loaded, end-range restraint)](#cuffloadingclass) | 11 | [Rectus sheath](#rectussheath) | 3 |
+| [Dead hang](#deadhang) | 12 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
+| [Deadlift](#deadlift) | 12 | [Repetition (rep)](#repetition) | 10 |
+| [Deep hip external rotators](#hipexternalrotators) | 8 | [Resistance profile](#resistanceprofile) | 11 |
+| [Deload](#deload) | 10 | [Reverse curl](#reversecurl) | 12 |
+| [Deltoid](#deltoid) | 9 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 12 |
+| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Reverse hyperextension](#reversehyperextension) | 12 |
+| [Diaphragm](#diaphragm) | 9 | [Reverse Nordic curl](#reversenordic) | 12 |
+| [Diastasis recti](#diastasisrecti) | 13 | [Reverse wrist curl](#reversewristcurl) | 12 |
+| [Dip (parallel-bar dip)](#dip) | 12 | [Rhomboids (major and minor)](#rhomboids) | 9 |
+| [Distal biceps tendon rupture](#distalbicepstendonrupture) | 13 | [RIR (repetitions in reserve)](#rir) | 10 |
+| [Distal clavicular osteolysis ("weightlifter's shoulder")](#distalclavicularosteolysis) | 13 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
+| [Distal triceps tendon rupture](#distaltricepsrupture) | 13 | [Rotator cuff](#rotatorcuff) | 9 |
+| [Dorsal scapular nerve](#dorsalscapularnerve) | 9 | [Rotator cuff muscles](#rotatorcuffmuscles) | 9 |
+| [Dose–response relationship](#doseresponserelationship) | 10 | [Rotator cuff tear](#rotatorcufftear) | 13 |
+| [Double progression](#doubleprogression) | 10 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
+| [Dumbbell bench press](#dumbbellbenchpress) | 12 | [Row](#row) | 12 |
+| [Eccentric contraction](#eccentriccontraction) | 6 | [RPE (rating of perceived exertion)](#rpe) | 10 |
+| [Effect size](#effectsize) | 9 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
+| [Effort tolerance](#efforttolerance) | 10 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
+| [Elbow extension](#elbowextension) | 4 | [Sacrum](#sacrum) | 3 |
+| [Elbow flexion](#elbowflexion) | 4 | [Sagittal plane](#sagittalplane) | 1 |
+| [Elbow flexor loading class (stretch-loaded, half-loaded, stretch-free)](#elbowflexorloadingclass) | 11 | [Sarcomere](#sarcomere) | 5 |
+| [Elbow flexors](#elbowflexors) | 8 | [Sartorius](#sartorius) | 9 |
+| [Elbow path](#elbowpath) | 11 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
+| [EMG (electromyography)](#emg) | 9 | [Scapula (shoulder blade)](#scapula) | 3 |
+| [Erector spinae](#erectorspinae) | 8 | [Scapular (scapulothoracic) muscles](#scapularmuscles) | 9 |
+| [Erector spinae aponeurosis](#erectorspinaeaponeurosis) | 3 | [Scapular anterior tilt](#scapularanteriortilt) | 4 |
+| [Excursion](#excursion) | 4 | [Scapular depression](#scapulardepression) | 4 |
+| [Exercise specification](#exercisespecification) | 11 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
+| [Extensor carpi radialis brevis (ECRB)](#extensorcarpiradialisbrevis) | 9 | [Scapular dyskinesis](#scapulardyskinesis) | 13 |
+| [External oblique](#externaloblique) | 9 | [Scapular elevation](#scapularelevation) | 4 |
+| [External rotation exercise](#externalrotationexercise) | 12 | [Scapular internal and external rotation](#scapularinternalrotation) | 4 |
+| [Face pull](#facepull) | 12 | [Scapular load class (elevation-, depression-, retraction-, protraction-, upward-rotation-, downward-rotation-loaded)](#scapularloadclass) | 11 |
+| [Farmer's walk](#farmerswalk) | 12 | [Scapular posterior tilt](#scapularposteriortilt) | 4 |
+| [Fascicle length](#fasciclelength) | 5 | [Scapular protraction (abduction)](#scapularprotraction) | 4 |
+| [Femoral nerve](#femoralnerve) | 8 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
+| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
+| [Femur (thigh bone)](#femur) | 3 | [Scapular winging](#scapularwinging) | 13 |
+| [Finger flexion](#fingerflexion) | 4 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
+| [Finger pulley injury](#pulleyinjury) | 13 | [Scapulothoracic articulation](#scapulothoracicarticulation) | 3 |
+| [Flexion relaxation](#flexionrelaxation) | 11 | [Seated calf raise](#seatedcalfraise) | 12 |
+| [Flexor digitorum profundus (FDP)](#flexordigitorumprofundus) | 9 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
+| [Flexor digitorum superficialis (FDS)](#flexordigitorumsuperficialis) | 9 | [Semimembranosus (SM)](#semimembranosus) | 8 |
+| [Force–length relationship](#forcelengthrelationship) | 5 | [Semitendinosus (ST)](#semitendinosus) | 8 |
+| [Forearm muscles](#forearmmuscles) | 9 | [Serratus anterior](#serratusanterior) | 8 |
+| [Forearm pronation](#forearmpronation) | 4 | [Sesamoid bone](#sesamoid) | 3 |
+| [Forearm supination](#forearmsupination) | 4 | [Set](#set) | 10 |
+| [Front raise](#frontraise) | 12 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
+| [Front squat](#frontsquat) | 12 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
+| [Frontal (coronal) plane](#frontalplane) | 1 | [Shoulder abduction](#shoulderabduction) | 4 |
+| [Gastrocnemius](#gastrocnemius) | 8 | [Shoulder adduction](#shoulderadduction) | 4 |
+| [Glenohumeral joint](#glenohumeraljoint) | 3 | [Shoulder extension](#shoulderextension) | 4 |
+| [Glute-ham raise (GHR)](#glutehamraise) | 12 | [Shoulder external (lateral) rotation](#shoulderexternalrotation) | 4 |
+| [Gluteal tendinopathy (greater trochanteric pain syndrome)](#glutealtendinopathy) | 13 | [Shoulder flexion](#shoulderflexion) | 4 |
+| [Gluteus maximus](#gluteusmaximus) | 8 | [Shoulder horizontal abduction (horizontal extension)](#shoulderhorizontalabduction) | 4 |
+| [Gluteus medius](#gluteusmedius) | 8 | [Shoulder horizontal adduction (horizontal flexion)](#shoulderhorizontaladduction) | 4 |
+| [Gluteus minimus](#gluteusminimus) | 8 | [Shoulder instability](#shoulderinstability) | 13 |
+| [Good morning](#goodmorning) | 12 | [Shoulder position class (Overhead, Raised, Down)](#shoulderpositionclass) | 11 |
+| [Gracilis](#gracilis) | 8 | [Shrug](#shrug) | 12 |
+| [Greater trochanter](#greatertrochanter) | 3 | [Side plank](#sideplank) | 12 |
+| [Greater tubercle](#greatertubercle) | 3 | [Single-leg lowering](#singleleglowering) | 11 |
+| [Grip demand class (support, crush, pinch, open-hand)](#gripdemandclass) | 11 | [Sissy squat](#sissysquat) | 12 |
+| [Grip width](#gripwidth) | 11 | [Sit-up](#situp) | 12 |
+| [Hack squat](#hacksquat) | 12 | [Size principle](#sizeprinciple) | 6 |
+| [Hammer curl](#hammercurl) | 12 | [Smith machine squat](#smithmachinesquat) | 12 |
+| [Hamstrings](#hamstrings) | 8 | [Snapping hip (internal)](#snappinghip) | 13 |
+| [Hand gripper](#handgripper) | 12 | [Snapping triceps](#snappingtriceps) | 13 |
+| [Handgrip dynamometry](#handgripdynamometry) | 9 | [Soleus](#soleus) | 8 |
+| [Hangboard hang](#hangboardhang) | 12 | [Specific tension](#specifictension) | 5 |
+| [Hanging knee raise](#hangingkneeraise) | 12 | [Spinal role class (spine-moving, spine-holding, supported)](#spinalroleclass) | 11 |
+| [Hard set](#hardset) | 10 | [Spine of the scapula](#scapularspine) | 3 |
+| [Hip abduction](#hipabduction) | 4 | [Split squat](#splitsquat) | 12 |
+| [Hip adduction](#hipadduction) | 4 | [Spondylolysis](#spondylolysis) | 13 |
+| [Hip adduction machine](#hipadductionmachine) | 12 | [Squat depth](#squatdepth) | 11 |
+| [Hip adductors](#hipadductors) | 8 | [Stance width](#stancewidth) | 11 |
+| [Hip extension](#hipextension) | 4 | [Standard card](#standardcard) | 11 |
+| [Hip external (lateral) rotation](#hipexternalrotation) | 4 | [Step-up](#stepup) | 12 |
+| [Hip flexion](#hipflexion) | 4 | [Sternoclavicular joint](#sternoclavicularjoint) | 3 |
+| [Hip flexion load class (lengthened-, mid-, shortened-loaded; spine held or moving)](#hipflexionloadclass) | 11 | [Sternum (breastbone)](#sternum) | 3 |
+| [Hip hinge](#hiphinge) | 11 | [Sticking region](#stickingregion) | 11 |
+| [Hip internal (medial) rotation](#hipinternalrotation) | 4 | [Straight-arm pulldown](#straightarmpulldown) | 12 |
+| [Hip joint (acetabulofemoral joint)](#hipjoint) | 3 | [Stretch-mediated hypertrophy](#stretchmediatedhypertrophy) | 7 |
+| [Hip osteoarthritis](#hiposteoarthritis) | 13 | [Subacromial decompression](#subacromialdecompression) | 13 |
+| [Hook grip](#hookgrip) | 11 | [Subacromial impingement](#impingement) | 13 |
+| [Horizontal pull](#horizontalpull) | 11 | [Subacromial space](#subacromialspace) | 3 |
+| [Humeral elevation](#humeralelevation) | 4 | [Subscapularis](#subscapularis) | 9 |
+| [Humerus (upper arm bone)](#humerus) | 3 | [Suitcase carry](#suitcasecarry) | 12 |
+| [Hypertrophy](#hypertrophy) | 7 | [Superior gluteal nerve](#superiorglutealnerve) | 8 |
+| [Iliacus](#iliacus) | 9 | [Supinated (underhand) grip](#supinatedgrip) | 11 |
+| [Iliocostalis lumborum](#iliocostalislumborum) | 8 | [Suprascapular nerve](#suprascapularnerve) | 9 |
+| [Iliopsoas](#iliopsoas) | 9 | [Supraspinatus](#supraspinatus) | 9 |
+| [Iliopsoas-related groin pain](#iliopsoasgroinpain) | 13 | [T2-weighted MRI (transverse relaxation time)](#t2mri) | 9 |
+| [Iliotibial tract (IT band)](#iliotibialtract) | 3 | [Technical failure](#technicalfailure) | 10 |
+| [Incline curl](#inclinecurl) | 12 | [Tempo](#tempo) | 10 |
+| [Inferior gluteal nerve](#inferiorglutealnerve) | 8 | [Tennis leg](#tennisleg) | 13 |
+| [Infraglenoid tubercle](#infraglenoidtubercle) | 3 | [Tenodesis effect](#tenodesiseffect) | 4 |
+| [Infraspinatus](#infraspinatus) | 9 | [Tensor fasciae latae (TFL)](#tensorfascialatae) | 8 |
+| [Instrument drift](#instrumentdrift) | 11 | [Tensor vastus intermedius](#tensorvastusintermedius) | 8 |
+| [Internal (medial) rotation](#internalrotation) | 4 | [Teres major](#teresmajor) | 8 |
+| [Internal oblique](#internaloblique) | 9 | [Teres minor](#teresminor) | 9 |
+| [Intra-abdominal pressure (IAP)](#intraabdominalpressure) | 3 | [Test–retest reliability](#testretestreliability) | 11 |
+| [Inverted row](#invertedrow) | 12 | [The EMG–hypertrophy dissociation](#emghypertrophydissociation) | 9 |
+| [Ischial tuberosity](#ischialtuberosity) | 3 | [Thomas test (and modified Thomas test)](#thomastest) | 13 |
+| [Isolated lumbar extension (ILEX)](#isolatedlumbarextension) | 12 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
+| [Isolation exercise](#isolation) | 11 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
+| [Joint reaction force](#jointreactionforce) | 3 | [Tibia (shin bone)](#tibia) | 3 |
+| [Kettlebell swing](#kettlebellswing) | 12 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
+| [Kipping](#kipping) | 12 | [Torque (moment)](#torque) | 2 |
+| [Knee extension](#kneeextension) | 4 | [Torso inclination](#torsoinclination) | 11 |
+| [Knee flexion](#kneeflexion) | 4 | [Training frequency](#trainingfrequency) | 10 |
+| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [Training volume](#trainingvolume) | 10 |
+| [Knee travel](#kneetravel) | 11 | [Transverse (horizontal) plane](#transverseplane) | 1 |
+| [Lacertus fibrosus (bicipital aponeurosis)](#lacertusfibrosus) | 3 | [Transversus abdominis](#transversusabdominis) | 9 |
+| [Lat pulldown](#latpulldown) | 12 | [Trapezius](#trapezius) | 9 |
+| [Lateral epicondylalgia ("tennis elbow")](#lateralepicondylalgia) | 13 | [Trapezius myalgia](#trapeziusmyalgia) | 13 |
+| [Lateral epicondyle](#lateralepicondyle) | 3 | [Triceps brachii](#tricepsbrachii) | 9 |
+| [Lateral raise](#lateralraise) | 12 | [Triceps brachii, lateral head](#tricepslateralhead) | 9 |
+| [Lateral slide](#lateralslide) | 12 | [Triceps brachii, long head](#tricepslonghead) | 9 |
+| [Latissimus dorsi](#latissimusdorsi) | 8 | [Triceps brachii, medial head](#tricepsmedialhead) | 9 |
+| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Triceps kickback](#tricepskickback) | 12 |
+| [Leg extension](#legextension) | 12 | [Triceps pushdown (cable pushdown)](#tricepspushdown) | 12 |
+| [Leg press](#legpress) | 12 | [Triceps surae](#tricepssurae) | 8 |
+| [Lengthened partials](#lengthenedpartials) | 7 | [Trunk extension](#trunkextension) | 5 |
+| [Lengthened position](#lengthenedposition) | 7 | [Trunk flexion](#trunkflexion) | 5 |
+| [Lesser trochanter](#lessertrochanter) | 9 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
+| [Lesser tubercle](#lessertubercle) | 3 | [Trunk rotation](#trunkrotation) | 5 |
+| [Levator scapulae](#levatorscapulae) | 9 | [Ulnar nerve](#ulnarnerve) | 9 |
+| [Lifting straps](#liftingstraps) | 11 | [Upper (descending) trapezius](#uppertrapezius) | 9 |
+| [Limiting link](#limitinglink) | 10 | [Upright row](#uprightrow) | 12 |
+| [Line of action](#lineofaction) | 2 | [Vastus intermedius](#vastusintermedius) | 8 |
+| [Linea alba](#lineaalba) | 3 | [Vastus lateralis](#vastuslateralis) | 8 |
+| [Load](#load) | 10 | [Vastus medialis](#vastusmedialis) | 8 |
+| [Long thoracic nerve](#longthoracicnerve) | 8 | [Velocity-based training](#velocitybasedtraining) | 11 |
 | [Longissimus thoracis](#longissimusthoracis) | 8 | [Vertical pull](#verticalpull) | 11 |
 | [Lower (ascending) trapezius](#lowertrapezius) | 9 | [Volume load](#volumeload) | 10 |
 | [Lumbar compression](#lumbarcompression) | 11 | [Weightlifting belt](#weightliftingbelt) | 11 |
@@ -24277,6 +24988,7 @@ plain same-file heading anchor.
 | [Machine chest press](#machinechestpress) | 12 | [Wrist flexion](#wristflexion) | 4 |
 | [Mechanical tension](#mechanicaltension) | 6 | [Wrist flexors](#wristflexors) | 9 |
 | [Mechanotransduction](#mechanotransduction) | 6 | [Wrist joint](#wristjoint) | 3 |
+| [Medial epicondylalgia ("golfer's elbow")](#medialepicondylalgia) | 13 |  |  |
 
 ---
 
@@ -25934,6 +26646,41 @@ It is the most precise-looking measure of training dose and the least useful for
 
 > **LAYER 11 — Exercise mechanics.** How a movement is classified once everything above is available.
 
+## coefficientofvariation
+*Measurement & Evidence*
+
+**Coefficient of variation (CV)** — How much a repeated measurement of the same thing wanders, expressed as a percentage of its average. Formally: the within-subject standard deviation of repeated measurements divided by their mean, the standard expression of **typical error** in sports-science reliability work. It is the number that tells you how large a change has to be before it means anything. For a repeated one-repetition maximum, the median was **4.2%** across the 15 studies that reported one — and **3.3%** in trained lifters (Grgic et al., 2020). Measured directly in kilograms by the same review, test-to-retest limits of agreement were ±3–5 kg on a bench press and **±10–15 kg on a squat**, with no training in between. Distinguish it from the intraclass correlation, which says how well a test ranks *different people* and can be excellent while the CV is still too wide to read your own progress. See Part XVIII §A.1.
+
+## testretestreliability
+*Measurement & Evidence*
+
+**Test–retest reliability** — Whether a measurement gives you the same answer twice when nothing has changed. Formally: the agreement between repeated administrations of a test on the same people, usually reported as an **intraclass correlation coefficient (ICC)** for consistency of ranking and a [coefficient of variation](#coefficientofvariation) for the size of the typical error. **The two answer different questions and a test can score well on one and badly on the other.** Across 32 studies of the one-repetition maximum, the median ICC was **0.97** — excellent at ranking people — while among the **15 studies that reported a CV** the median was **4.2%**, which is the error you actually carry when tracking yourself (Grgic et al., 2020). **The two denominators differ, and the smaller one carries the number that matters.** See Part XVIII §A.1.
+
+## minimaldetectablechange
+*Measurement & Evidence*
+
+**Minimal detectable change** — The smallest change in a measurement that can be distinguished from its own noise. Formally: the change exceeding the measurement error at a stated confidence level, conventionally 1.96 × √2 × the typical error for a two-measurement comparison at 95% confidence. Applied to the one-repetition maximum's median [coefficient of variation](#coefficientofvariation) of 4.2%, it comes to roughly **11.6%** two-sided, **9.8%** one-sided, and about **9.1%** using the trained-lifter figure (Part XVIII §C.1). **This is derived arithmetic, not a measured threshold** — though it agrees with the limits of agreement the same review measured directly. The practical escape is **comparing a block of sessions with a later block**, where averaging genuinely reduces random error: six against six gives about 4.8%, twelve against twelve about 3.4%. **Averaging does nothing about systematic drift.**
+
+## exercisespecification
+*Exercises & Technique*
+
+**Exercise specification** — The written set of conditions that makes two sessions of an exercise comparable. Formally: a repetition performed under six fixed conditions — **[range of motion](#rangeofmotion) at both ends, contact points (grip, stance, seat and pad settings), tempo, rest before the set, position in the session, and [proximity to failure](#proximitytofailure)** — such that a difference in load or repetitions between two sessions reflects a change in the lifter rather than in the exercise. **If any of the six changed, the two sessions are not comparable and a new measurement series has begun.** The two that drift on their own are range of motion and proximity to failure, and both drift toward easier, raising the number in the log while nothing improves. **Caveat:** the six are this document's judgement from which conditions alter an external moment arm or a repetition count; no study has compared them for their effect on a training log. See Part XVIII §B.1.
+
+## standardcard
+*Exercises & Technique*
+
+**Standard card** — A one-page record of an exercise's [specification](#exercisespecification), written once and dated. Formally: the six fixed conditions plus the date the series began and the date of any revision, kept per exercise. The dates carry the weight: a card with no start date cannot say when a comparison became invalid, and a revision without a new date silently merges two different measurements into one trend line. See Part XVIII §B.4.
+
+## instrumentdrift
+*Exercises & Technique*
+
+**Instrument drift** — The exercise changing rather than the lifter. Formally: gradual, unintended departure from an [exercise specification](#exercisespecification) — a squat becoming shallower, a bench press stopping short of the chest, a tempo collapsing — which raises the load that can be moved without any improvement in the muscle. It is distinguished from the biological variation already captured by the [coefficient of variation](#coefficientofvariation), and it is the more dangerous of the two because **it moves in the same direction as progress and arrives too slowly to notice from inside the set.** The only reliable detection is filming a working set against the [standard card](#standardcard). See Part XVIII §A.3.
+
+## velocitybasedtraining
+*Exercises & Technique*
+
+**Velocity-based training** — Using the speed of the bar, measured by a position transducer, to set or monitor load. Formally: prescribing load from a load–velocity relationship, or terminating a set at a defined percentage drop in repetition velocity. It offers the only objective instrument for load short of a maximal test, but it does not yet meet this document's own accuracy test: predicting a hex-bar deadlift maximum from a three-point profile gave limits of agreement of **±15.7 kg** against a real test, wider than the change a direct test would need to detect, and the authors concluded the methods "should not be used interchangeably" (Stevens et al., 2026). Two further cautions apply. **Velocity is a weak estimator of [repetitions in reserve](#rir)** — one study of the hexagonal bar deadlift found it lacked both accuracy and applicability for that purpose (Chen et al., 2026). And **the choice of velocity-loss threshold appears not to be critical**: 15% against 30% produced similar strength and hypertrophy over nine weeks (Andersen et al., 2024), as did 5% against 20% over seven (Galiano et al., 2022). **Promising but under-replicated** — both studies were small enough to detect only large differences. See Part XVIII §F.1.
+
 ## resistanceprofile
 
 *Biomechanics & Mechanics*
@@ -26840,16 +27587,16 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 ---
 
-# partxixbibliography
+# partxxbibliography
 
-**Part XIX — Bibliography**
+**Part XX — Bibliography**
 
-Every source cited in this document: **720 papers**, each with a DOI you can paste into a search box
+Every source cited in this document: **733 papers**, each with a DOI you can paste into a search box
 or a library request form — with nine exceptions, noted at their entries: eight for which no DOI was ever
 issued and a PubMed or PubMed Central identifier is given instead, and one master's thesis that has neither. Alphabetical by first author, so an in-text citation like
 *(Gerling & Brown, 2013)* is found by scanning for **Gerling**.
 
-**362 are open access** — free to read now. **358 are paywalled**; any university or public library can
+**367 are open access** — free to read now. **366 are paywalled**; any university or public library can
 obtain those through interlibrary loan at no cost, usually in a few days, and authors may legally
 share their own accepted manuscripts if you email them. Every DOI below was verified against
 Crossref, and open-access status against Unpaywall, at the time of writing.
@@ -26929,6 +27676,8 @@ Andersen V, Fimland MS, Wiik E, Skoglund A, Saeterbakken AH. Effects of Grip Wid
 Andersen V, Hermans E, Hansen KG, Solstad TEJ, Saeterbakken AH, Baláš J, et al. Comparison of low load blood flow restriction and high load resistance training of the finger flexors in advanced level climbers: a pilot study. Frontiers in Physiology. 2026;17:1807492. doi:10.3389/fphys.2026.1807492 · **open access**
 
 Andersen V, Hermans E, Vereide V, Stien N, Paulsen G, Baláš J, et al. Comparison of finger flexor resistance training, with and without blood flow restriction, on perceptional and physiological responses in advanced climbers. Scientific Reports. 2023;13(1):3287. doi:10.1038/s41598-023-30499-x · **open access** — a publisher correction was issued in 2023 (doi:10.1038/s41598-023-31266-8).
+
+Andersen V, Paulsen G, Stien N, Baarholm M, Seynnes O, Saeterbakken AH. Resistance Training With Different Velocity Loss Thresholds Induce Similar Changes in Strength and Hypertrophy. Journal of Strength & Conditioning Research. 2024;38(3):e135-e142. doi:10.1519/jsc.0000000000004067 · *paywalled*
 
 Andersson EA, Nilsson J, Thorstensson A. Intramuscular EMG from the hip flexor muscles during human locomotion. Acta Physiologica Scandinavica. 1997;161(3):361-370. doi:10.1046/j.1365-201x.1997.00225.x · *paywalled*
 
@@ -27089,6 +27838,8 @@ Caterisano A, Moss RF, Pellinger TK, Woodruff K, Lewis VC, Booth W, et al. The E
 Chaves SFN, Rocha-Júnior VA, Encarnação IGA, Martins-Costa HC, Freitas EDS, Coelho DB, et al. Effects of Horizontal and Incline Bench Press on Neuromuscular Adaptations in Untrained Young Men. International Journal of Exercise Science. 2020;13(6):859-872. doi:10.70252/FDNB1158 · **open access**
 
 Chaware PN, Santoshi JA, Patel M, Ahmad M, Rathinam BAD. Surgical Implications of Innervation Pattern of the Triceps Muscle: A Cadaveric Study. Journal of Hand and Microsurgery. 2018;10(3):139-142. doi:10.1055/s-0038-1660771 · **open access**
+
+Chen W, Zhang H, Li R, Chen Z, Zheng J, Zhang X, et al. Velocity-Based Monitoring Lacks Both Accuracy and Applicability for Estimating Repetitions in Reserve During the Hexagonal Bar Deadlift. Journal of Strength & Conditioning Research. 2026;:. doi:10.1519/jsc.0000000000005549 · *paywalled*
 
 Chen X, Sanchez GN, Schnitzer MJ, Delp SL. Changes in sarcomere lengths of the human vastus lateralis muscle with knee flexion measured using in vivo microendoscopy. Journal of Biomechanics. 2016;49(13):2989-2994. doi:10.1016/j.jbiomech.2016.07.013 · *paywalled*
 
@@ -27286,6 +28037,8 @@ Fundaun J, Oliva V, Bédard S, Wesselink EO, Lynn BP, Pai SA, et al. Automated S
 
 Fung L, Wong B, Ravichandiran K, Agur A, Rindlisbacher T, Elmaraghy A. Three-dimensional study of pectoralis major muscle and tendon architecture. Clinical Anatomy. 2009;22(4):500-508. doi:10.1002/ca.20784 · *paywalled*
 
+Galiano C, Pareja-Blanco F, Hidalgo de Mora J, Sáez de Villarreal E. Low-Velocity Loss Induces Similar Strength Gains to Moderate-Velocity Loss During Resistance Training. Journal of Strength & Conditioning Research. 2022;36(2):340-345. doi:10.1519/jsc.0000000000003487 · *paywalled*
+
 Ganderton C, Semciw A, Cook J, Moreira E, Pizzari T. Gluteal Loading Versus Sham Exercises to Improve Pain and Dysfunction in Postmenopausal Women with Greater Trochanteric Pain Syndrome: A Randomized Controlled Trial. Journal of Women's Health. 2018;27(6):815-829. doi:10.1089/jwh.2017.6729 · *paywalled*
 
 Garner BA, Pandy MG. Estimation of Musculotendon Properties in the Human Upper Limb. Annals of Biomedical Engineering. 2003;31(2):207-220. doi:10.1114/1.1540105 · *paywalled*
@@ -27307,6 +28060,8 @@ Ginn KA, Halaki M. Do surface electrode recordings validly represent latissimus 
 Go SU, Lee BH. Effects of scapular stability exercise on shoulder stability and rehabilitative ultrasound images in office workers. Journal of Physical Therapy Science. 2016;28(11):2999-3002. doi:10.1589/jpts.28.2999 · **open access**
 
 Goli A, Attarieh P, Nunes JP, Nehegadar S, Khani S, Fashi M, et al. Does Performing Partial Repetitions Beyond Momentary Failure Enhance Muscle Hypertrophy in Volume-Load-Equated Calf-Raise Resistance Training. International Journal of Exercise Science. 2026;19(4):. doi:10.70252/ijes2026403 · **open access**
+
+Gómez-Redondo P, Alcazar J, Valenzuela PL, Ara I, Alegre LM, Mañas A. Validity of repetitions in reserve for prescribing resistance exercise in older adults. Experimental Gerontology. 2025;210:112884. doi:10.1016/j.exger.2025.112884 · **open access**
 
 Gomo O, van den Tillaar R. The effects of grip width on sticking region in bench press. Journal of Sports Sciences. 2016;34(3):232-238. doi:10.1080/02640414.2015.1046395 · *paywalled*
 
@@ -27336,6 +28091,12 @@ Green LA, Gabriel DA. The cross education of strength and skill following unilat
 
 Grenier SG, McGill SM. Quantification of Lumbar Stability by Using 2 Different Abdominal Activation Strategies. Archives of Physical Medicine and Rehabilitation. 2007;88(1):54-62. doi:10.1016/j.apmr.2006.10.014 · *paywalled*
 
+Grgic J, Lazinica B, Garofolini A, Schoenfeld BJ, Saner NJ, Mikulic P. The effects of time of day-specific resistance training on adaptations in skeletal muscle hypertrophy and muscle strength: A systematic review and meta-analysis. Chronobiology International. 2019;36(4):449-460. doi:10.1080/07420528.2019.1567524 · *paywalled*
+
+Grgic J, Lazinica B, Schoenfeld BJ, Pedisic Z. Test–Retest Reliability of the One-Repetition Maximum (1RM) Strength Assessment: a Systematic Review. Sports Medicine - Open. 2020;6(1):31. doi:10.1186/s40798-020-00260-z · **open access**
+
+Grgic J, Schoenfeld BJ, Skrepnik M, Davies TB, Mikulic P. Effects of Rest Interval Duration in Resistance Training on Measures of Muscular Strength: A Systematic Review. Sports Medicine. 2018;48(1):137-151. doi:10.1007/s40279-017-0788-x · *paywalled*
+
 Griffin DR, Dickenson EJ, O'Donnell J, Agricola R, Awan T, Beck M, et al. The Warwick Agreement on femoroacetabular impingement syndrome (FAI syndrome): an international consensus statement. British Journal of Sports Medicine. 2016;50(19):1169-1176. doi:10.1136/bjsports-2016-096743 · **open access**
 
 Grigat JM, Kjeldsen T, Jørgensen SL, Mechlenburg I, Dalgas U. Heavy slow resistance training combined with patient education in patients with gluteal tendinopathy: A feasibility study. Musculoskeletal Science and Practice. 2025;80:103425. doi:10.1016/j.msksp.2025.103425 · **open access**
@@ -27349,6 +28110,8 @@ Gullett JC, Tillman MD, Gutierrez GM, Chow JW. A Biomechanical Comparison of Bac
 Gundersen AH, Krosshaug T, Mausehund L, van den Tillaar R, Larsen S. The impact of grip width on kinetics and kinematics in the shoulder press among resistance-trained men. Sports Biomechanics. 2026;25(6):841-854. doi:10.1080/14763141.2025.2590028 · **open access**
 
 Gundersen AH, van den Tillaar R, Falch H, Larsen S. A comparison of spinal and lower extremity biomechanics during maximal and sub-maximal deadlifts among strength-trained women. PeerJ. 2025;13:e20279. doi:10.7717/peerj.20279 · **open access**
+
+Hackett DA, Sabag A. The Influence of Muscular Strength and Local Muscular Endurance on Accuracy of Estimated Repetitions to Failure in Resistance-Trained Males. Sports. 2022;10(2):27. doi:10.3390/sports10020027 · **open access**
 
 Hackett L, Reed D, Halaki M, Ginn KA. Assessing the validity of surface electromyography for recording muscle activation patterns from serratus anterior. Journal of Electromyography and Kinesiology. 2014;24(2):221-227. doi:10.1016/j.jelekin.2014.01.007 · *paywalled*
 
@@ -27736,6 +28499,8 @@ Matsumura A, Tateuchi H, Nakamura M, Ichihashi N. Effect of 8-week Shoulder Exte
 
 Matta T, Simão R, de Salles BF, Spineti J, Oliveira LF. Strength Training's Chronic Effects on Muscle Architecture Parameters of Different Arm Sites. Journal of Strength and Conditioning Research. 2011;25(6):1711-1717. doi:10.1519/JSC.0b013e3181dba162 · *paywalled*
 
+Mattocks KT, Buckner SL, Jessee MB, Dankel SJ, Mouser JG, Loenneke JP. Practicing the Test Produces Strength Equivalent to Higher Volume Training. Medicine & Science in Sports & Exercise. 2017;49(9):1945-1954. doi:10.1249/MSS.0000000000001300 · *paywalled*
+
 Mausehund L, Werkhausen A, Bartsch J, Krosshaug T. Understanding Bench Press Biomechanics-The Necessity of Measuring Lateral Barbell Forces. Journal of Strength and Conditioning Research. 2022;36(10):2685-2695. doi:10.1519/JSC.0000000000003948 · *paywalled*
 
 Mayer JM, Graves JE, Robertson VL, Pierra EA, Verna JL, Ploutz-Snyder LL. Electromyographic activity of the lumbar extensor muscles: Effect of angle and hand position during Roman Chair Exercise. Archives of Physical Medicine and Rehabilitation. 1999;80(7):751-755. doi:10.1016/s0003-9993(99)90222-8 · **open access**
@@ -27916,6 +28681,8 @@ Patel P, Vaishnav J. Rehabilitative and Preventive Effects of the Thrower’s Te
 
 Paton ME, Brown JMM. An electromyographic analysis of functional differentiation in human pectoralis major muscle. Journal of Electromyography and Kinesiology. 1994;4(3):161-169. doi:10.1016/1050-6411(94)90017-5 · *paywalled*
 
+Paulsen G, Myrholt R, Mentzoni F, Solberg PA. Exercise type, training load, velocity loss threshold, and sets affect the relationship between lifting velocity and perceived repetitions in reserve in strength-trained individuals. PeerJ. 2025;13:e19797. doi:10.7717/peerj.19797 · **open access**
+
 Paz GA, de Freitas Maia M, Pinto de Castro JB, de Oliveira F, Miranda H, Lima VP, et al. Myoelectric activity of the gastrocnemius during plantar flexion in a standing versus seated position and with a neutral or dorsiflexed ankle: A pilot study. Journal of Bodywork and Movement Therapies. 2021;26:406-410. doi:10.1016/j.jbmt.2020.09.003 · *paywalled*
 
 Pedrosa GF, Lima FV, Schoenfeld BJ, Lacerda LT, Simões MG, Pereira MR, et al. Partial range of motion training elicits favorable improvements in muscular adaptations when carried out at long muscle lengths. European Journal of Sport Science. 2022;22(8):1250-1260. doi:10.1080/17461391.2021.1927199 · *paywalled*
@@ -27949,6 +28716,8 @@ Pizzari T, Wickham J, Balster S, Ganderton C, Watson L. Modifying a shrug exerci
 Plamondon A, Serresse O, Boyd K, Ladouceur D, Desjardins P. Estimated moments at L5/S1 level and muscular activation of back extensors for six prone back extension exercises in healthy individuals. Scandinavian Journal of Medicine & Science in Sports. 2002;12(2):81-89. doi:10.1034/j.1600-0838.2002.120204.x · **open access**
 
 Plotkin DL, Rodas MA, Vigotsky AD, McIntosh MC, Breeze E, Ubrik R, et al. Hip thrust and back squat training elicit similar gluteus muscle hypertrophy and transfer similarly to the deadlift. Frontiers in Physiology. 2023;14:1279170. doi:10.3389/fphys.2023.1279170 · **open access**
+
+Ploutz-Snyder LL, Giamis EL. Orientation and Familiarization to 1RM Strength Testing in Old and Young Women. The Journal of Strength and Conditioning Research. 2001;15(4):519. doi:10.1519/1533-4287(2001)015<0519:oaftst>2.0.co;2 · *paywalled*
 
 Pollard CW, Opar DA, Williams MD, Bourne MN, Timmins RG. Razor hamstring curl and Nordic hamstring exercise architectural adaptations: Impact of exercise selection and intensity. Scandinavian Journal of Medicine & Science in Sports. 2019;29(5):706-715. doi:10.1111/sms.13381 · *paywalled*
 
@@ -28084,6 +28853,8 @@ Singer A, Wolf M, Generoso L, Arias E, Delcastillo K, Echevarria E, et al. Give 
 
 Skyrme AD, Cahill DJ, Marsh HP, Ellis H. Psoas major and its controversial rotational action. Clinical Anatomy. 1999;12(4):264-265. doi:10.1002/(SICI)1098-2353(1999)12:4<264::AID-CA4>3.0.CO;2-L · *paywalled*
 
+Slade SC, Dionne CE, Underwood M, Buchbinder R, Beck B, Bennell K, et al. Consensus on Exercise Reporting Template (CERT): Modified Delphi Study. Physical Therapy. 2016;96(10):1514-1524. doi:10.2522/ptj.20150668 · **open access**
+
 Smith TO, Nichols R, Harle D, Donell ST. Do the vastus medialis obliquus and vastus medialis longus really exist? A systematic review. Clinical Anatomy. 2009;22(2):183-199. doi:10.1002/ca.20737 · *paywalled*
 
 Snook SH, Webster BS, McGorry RW, Fogleman MT, McCann KB. The Reduction of Chronic Nonspecific Low Back Pain Through the Control of Early Morning Lumbar Flexion. Spine. 1998;23(23):2601-2607. doi:10.1097/00007632-199812010-00015 · *paywalled*
@@ -28113,6 +28884,8 @@ Stasinaki AN, Zaras N, Methenitis S, Tsitkanou S, Krase A, Kavvoura A, et al. Tr
 Steele J, Bruce-Low S, Smith D. A Review of the Clinical Value of Isolated Lumbar Extension Resistance Training for Chronic Low Back Pain [cited as Steele et al., 2015a]. PM&R. 2015;7(2):169-187. doi:10.1016/j.pmrj.2014.10.009 · *paywalled*
 
 Steele J, Fitzpatrick A, Bruce-Low S, Fisher J. The effects of set volume during isolated lumbar extension resistance training in recreationally trained males [cited as Steele et al., 2015b]. PeerJ. 2015;3:e878. doi:10.7717/peerj.878 · **open access**
+
+Stevens LJ, Carey DL, Gastin PB, James LP. Validity and Reliability of a 3-Point Load-Velocity Profile for Predicting Hex Bar Deadlift 1 Repetition Maximum. Journal of Strength & Conditioning Research. 2026;:. doi:10.1519/jsc.0000000000005628 · *paywalled*
 
 Storheim K, Holm I, Gunderson R, Brox JI, Bø K. The Effect of Comprehensive Group Training on Cross-sectional Area, Density, and Strength of Paraspinal Muscles in Patients Sick-Listed for Subacute Low Back Pain. Journal of Spinal Disorders & Techniques. 2003;16(3):271-279. doi:10.1097/00024720-200306000-00008 · *paywalled*
 
