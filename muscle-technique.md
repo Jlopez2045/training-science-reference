@@ -153,8 +153,8 @@
    - **§E** [Changing the specification on purpose](#partxviiiewhentorestandardize)
    - **§F** [Instruments other than load × reps](#partxviiifotherinstruments)
    - **§G** [Synthesis](#partxviiigsynthesis)
-19. **[Part XIX — Master Glossary](#partximasterglossary)** (427 entries, in dependency order, with an alphabetical index at its head)
-20. **[Part XX — Bibliography](#partxxbibliography)** (733 sources, 367 open access)
+19. **[Part XIX — Master Glossary](#partximasterglossary)** (428 entries, in dependency order, with an alphabetical index at its head)
+20. **[Part XX — Bibliography](#partxxbibliography)** (750 sources, 377 open access)
 
 **How to read this.** The first occurrence of a technical term in each Part links to its glossary
 entry. Cross-references are written `Part II §B.4`.
@@ -1953,7 +1953,7 @@ observable once damage subsides (Damas et al., 2016). Take a baseline, then do n
 week 8, and never within 72 h of a hard session.
 
 **Two prerequisites that gate all of it** (from `strength-and-body-composition.md`): protein at
-~1.6 g·kg⁻¹·day⁻¹ (Morton et al., 2018), and enough energy — building muscle in a deficit is possible
+~1.6 g·kg⁻¹·day⁻¹ (Morton et al., 2018a), and enough energy — building muscle in a deficit is possible
 but slow (Murphy & Koehler, 2022).
 
 ---
@@ -3971,7 +3971,7 @@ meta-analysis of a thin literature.
 |---|---|---|
 | Kubo et al., 2019 | Full squat (140° knee flexion) vs half squat (90°), [repetition](#repetition)-matched, 10 weeks, MRI volume | Gluteus maximus volume **+6.7 ± 3.5% vs +2.2 ± 2.6%**; between-group p = 0.008, effect size 1.50. Adductors similarly favoured the full squat (p = 0.026) |
 | Plotkin et al., 2023 | Back squat to **the deepest depth each participant could reach** vs barbell hip thrust, set-equated, 34 untrained participants (23 women, 11 men), 9 weeks at 2×/week, MRI cross-sectional area | **No detectable difference** at lower, mid or upper gluteus maximus, or at gluteus medius plus minimus. Squat superior for quadriceps and adductors |
-| Kassiano et al., 2024 | 45° leg press + stiff-leg deadlift (2 exercises, 4 sets per session) vs the same plus barbell hip thrust (3 exercises, 6 sets per session), 33 untrained women, 10 weeks, 3×/week | Adding the third exercise: **+9.3% vs +6.0%** gluteus maximus thickness, p = 0.016. **Interpretive caution:** the added-exercise arm also performed 50% more weekly hard sets, so exercise selection and volume are confounded |
+| Kassiano et al., 2024a | 45° leg press + stiff-leg deadlift (2 exercises, 4 sets per session) vs the same plus barbell hip thrust (3 exercises, 6 sets per session), 33 untrained women, 10 weeks, 3×/week | Adding the third exercise: **+9.3% vs +6.0%** gluteus maximus thickness, p = 0.016. **Interpretive caution:** the added-exercise arm also performed 50% more weekly hard sets, so exercise selection and volume are confounded |
 | Krause Neto et al., 2025 | Meta-analysis, 12 trials included and 11 pooled, 318 participants (144 women, 174 men) | Resistance training raises gluteus maximus size with a moderate pooled effect, SMD 0.71 (95% CI 0.50–0.91), low heterogeneity (I² = 22%). **Caveat:** no between-exercise comparison was performed, so the review's own recommendation to prioritise the barbell hip thrust is a reading of its included studies, not a pooled result — and this document does not follow it |
 
 **The one replication attempt is partly negative.** A volume-load-matched full-versus-half squat trial in
@@ -4681,15 +4681,15 @@ taken as a strengthening threshold, in which segment (Moore et al., 2020). **The
 less securely established than that reporting suggests** — a systematic review of the gross anatomy of
 these three muscles concluded that methodological limitations make the existence of anatomical
 compartments within them difficult to assess at all (Flack et al., 2012). **Five studies have measured
-gluteus medius or minimus size before and after a training programme, and none of them was a hypertrophy
-trial.** Twelve weeks of targeted gluteal exercise in people with hip osteoarthritis raised gluteus
+gluteus medius or minimus size before and after a training programme, and the one hypertrophy trial among
+them was aimed at the gluteus maximus.** Twelve weeks of targeted gluteal exercise in people with hip osteoarthritis raised gluteus
 minimus volume against a sham programme while leaving the gluteus medius unchanged
 (Rostron et al., 2022); twelve weeks of standard strength and flexibility training in people with
 hip-related groin pain raised gluteus medius volume by about 4% (Koch et al., 2022). Three others found
 no change — nine weeks of squats or hip thrusts (Plotkin et al., 2023), ten weeks of aquatic or standard
 therapy (Montpetit et al., 2026), and eight weeks of band exercise (Fukumoto et al., 2014). **Evidence
-remains limited and inconsistent**: two small positive results out of five, all in clinical populations,
-none designed to grow a healthy abductor. Gluteus medius size and gluteus medius strength are also not
+remains limited and inconsistent**: two small positive results out of five, both in clinical populations,
+and none of the five designed to grow a healthy abductor. Gluteus medius size and gluteus medius strength are also not
 the same target — one trial raised abductor strength 39% while the muscle's volume did not rise at all
 (Montpetit et al., 2026).
 
@@ -6112,10 +6112,12 @@ THE HORIZONTAL ABDUCTION REP - REVERSE FLY, POSTERIOR HEAD
   Start           Torso supported and roughly horizontal, or cables crossed in
                   front at shoulder height; arms hanging or reaching forward
   Elbow           Softly bent and FIXED, as in the raise
+  Rotation        Neutral: palms face each other
   Ascent          1-2 s; upper arms sweep out and back until level with the torso
   Top             Upper arms in line with the shoulders. Stop there
   Descent         2-3 s to a full reach across, not to a slack arm
-  Scapula         Allowed to move. This is not a squeeze-the-blades exercise
+  Scapula         Set spread before the first rep. The arms move first: the
+                  blades never lead, and are never pinched together at the top
   Breathing       Free
 ```
 
@@ -6129,7 +6131,12 @@ Part II §C.2: blocking [scapular upward rotation](#scapularupwardrotation) does
 removes the top of the range. And the reverse fly stops with the upper arms in line with the torso
 because past that the [glenohumeral joint](#glenohumeraljoint) has run out of horizontal abduction and
 the movement continues by pinching the shoulder blades, which trains the [trapezius](#trapezius) and
-rhomboids instead.
+rhomboids instead. The blade also costs the posterior head during the range the arm does cover, in two
+measured ways: a blade drawn back roughly halved posterior deltoid activity against one held spread,
+and blades free to start a seated row left it less active than blades held still (Part V §D.3). Hence
+the scapula line — set the blade spread, and never let it lead. The grip is neutral because the three
+tests of it disagree, and the only one run on a training machine, in trained lifters, favoured neutral
+(Part V §D.3).
 
 ---
 
@@ -6144,7 +6151,7 @@ rhomboids instead.
 | 5 | Turning the raise into a shrug | Moves the whole exercise to the upper trapezius | Lower the load until the shoulder stays down; the load was the cause |
 | 6 | "Pouring the pitcher" on a lateral raise | Internal rotation put the **posterior** deltoid and the **upper trapezius** at their highest of five variants without raising the middle head above the neutral version (Coratella et al., 2020) — and it is the shoulder's least tolerant position | Neutral rotation, thumb forward |
 | 7 | Ending a press with the lower back | An arched lumbar spine under an overhead load, and a range that finished in the spine rather than the shoulder | Ribs down, glutes braced; if it still arches, sit down |
-| 8 | Turning a reverse fly into a scapular squeeze | Trains rhomboids and mid-trapezius; the posterior deltoid stops moving | Stop when the upper arms line up with the torso, and let the blades travel |
+| 8 | Turning a reverse fly into a scapular squeeze | Trains rhomboids and mid-trapezius; the posterior deltoid stops moving, and it is measurably less active when the blade is drawn back or starts the pull (Part V §D.3) | Set the blades spread, move the arms first, and stop when the upper arms line up with the torso |
 | 9 | Loading a raise so heavily that the torso swings | See below — the cost is smaller than usually claimed, but the record becomes unreadable | Keep the swing deliberate if you use it at all |
 | 10 | Training the deltoid last, always | The largest muscle in the upper limb, trained on the fatigue left over from pressing | Rotate what goes first (Part V §E.6) |
 
@@ -6199,7 +6206,9 @@ Part V §E.4.
 | "Shoulder down, away from the ear" | **Useful** — it is the only reliable way to tell whether the load has recruited the trapezius to finish the rep |
 | "Ribs down" at the top of a press | **Useful** — it is the difference between finishing overhead and finishing in the lumbar spine |
 | "Pour the pitcher" / "empty the can" | **Harmful.** It buys no middle deltoid activity over a neutral grip and raises upper trapezius and posterior deltoid activity instead (Coratella et al., 2020), in the elevation-plus-internal-rotation combination Part V §E.4 lists as the least tolerated |
-| "Squeeze the shoulder blades" on a reverse fly | **Harmful for the posterior deltoid** — it substitutes [scapular retraction](#scapularretraction) for glenohumeral horizontal abduction, which is a different muscle group |
+| "Squeeze the shoulder blades" on a reverse fly | **Harmful for the posterior deltoid** — it substitutes [scapular retraction](#scapularretraction) for glenohumeral horizontal abduction, which is a different muscle group; a blade drawn back roughly halved posterior deltoid activity against one held spread (Part V §D.3) |
+| "Reach long, then arms first" on a reverse fly | **Useful** — it sets the blade spread and keeps it from leading, the two blade conditions that went with the higher posterior deltoid activity when measured, and the reach across the body is what lengthens the head (Part V §D.3) |
+| "Thumbs down" / "pinkies up" on a reverse fly | **Evidence remains limited and inconsistent.** Palms down raised posterior deltoid activity in two tests and lowered it in the third, the only one on a training machine (Part V §D.3). Nor is the grip the lever against the scapular muscles: middle trapezius activity did not change with it, and palms down raised the upper trapezius |
 | "Squeeze the delt at the top" | **Situational** — an internal focus. It raises activity and does not isolate (Part II §C.4); reasonable on a light raise, counterproductive on a heavy press where external focus produces more force |
 | "Push the ceiling away" on a press | **Useful** — an external focus, and it also produces the upward scapular rotation the top of the range needs |
 | "Keep the elbow straight" on a raise | **Situational** — a straight arm lengthens the load's moment arm, so it is a way of making a light dumbbell hard. It also raises the demand fastest at the top, where the muscle is shortest |
@@ -6237,7 +6246,7 @@ More than any other muscle in this document, deltoid training is limited by what
 doing rather than by what the arm is doing. Four points:
 
 - **The shoulder blade must be free to rotate upward at the top of a press.** Roughly a third of overhead reach is scapular, and more than a third of the *last* third of it (Part II, [scapulohumeral rhythm](#scapulohumeralrhythm)). Pinning the blades down does not concentrate work on the deltoid; it stops the arm reaching the position the press exists to load.
-- **The shoulder blade must be free to move in a reverse fly too, and for the opposite reason.** Here the risk is the reverse: retraction *replacing* horizontal abduction rather than accompanying it. The test is whether the upper arms are still travelling when the blades stop.
+- **The shoulder blade must not lead a reverse fly — the opposite of the press.** There the blade has to move for the arm to finish; here the risk is retraction *replacing* horizontal abduction rather than accompanying it. Set the blades spread, move the arms first, and never pinch the blades at the top: a blade drawn back, or one that starts the pull, has both been measured leaving the posterior deltoid less active (Part V §D.3). The test is whether the upper arms are still travelling when the blades stop.
 - **"Ribs down" is not a cue about the abdomen.** An overhead press finished with a lumbar arch has substituted spinal extension for the last 20° of shoulder elevation. The arm did not get higher; the ribcage tilted under it.
 - **The neck is not a training variable.** Any cue that requires the head to be pushed forward — behind-the-neck pressing is the main one — should be evaluated on the joint's terms, not the muscle's (Part V §B.10).
 
@@ -6461,11 +6470,77 @@ overhead, and not rotated. **Moderate evidence** — fifteen men, one laboratory
 proxy rather than a growth outcome, and it agrees with the moment-arm argument in Part V §B.2 rather
 than adding an independent one.
 
+#### The shoulder blade and the grip, measured
+The stiffness data above say *where* the arm should go. Five studies varied *how* a single movement was done — four
+of them in horizontal abduction, one in a row — comparing variants of the same movement in the same
+session on the same electrodes, the one use of surface EMG that Part V §B.11 accepts. None measured
+growth. Activity is given as a percentage
+of each muscle's [maximal voluntary isometric contraction](#mvic), and differences in percentage points
+of it.
+
+**The shoulder blade.** Twenty university baseball players lay on their side with the top arm straight
+at 90° of abduction and held it still for 10 s: either pointing straight up, or 15° across the body.
+The load was a 9.1 kg dumbbell or an examiner's push across the body set at 40% of the player's
+maximum, which the back of the shoulder had to resist. Each hold was done twice — once reaching the arm
+long, which spreads the shoulder blade, and once with the blade pulled down and back toward the spine
+(Tsuruike & Ellenbecker, 2023):
+
+| Hold | Posterior deltoid, spread → pulled back | [Lower trapezius](#lowertrapezius), spread → pulled back | Posterior deltoid change |
+|---|---|---|---|
+| Arm straight up, 9.1 kg dumbbell | 17 → 8% | 5 → 24% | **−53%** |
+| Arm 15° across, 9.1 kg dumbbell | 50 → 28% | 21 → 55% | **−44%** |
+| Arm straight up, push at 40% of maximum | 38 → 20% | 16 → 38% | **−47%** |
+| Arm 15° across, push at 40% of maximum | 44 → 21% | 18 → 45% | **−52%** |
+
+Every one of the eight differences was significant. Pulling the blade back cut posterior deltoid
+activity by 44–53% and multiplied lower trapezius activity 2.4- to 4.8-fold. **Promising but
+under-replicated** — one study, twenty young athletes, isometric holds rather than a moving fly.
+**Interpretive caution:** the load on the shoulder joint itself did not change between the two blade
+positions, and the trapezius does not cross that joint, so the fall is not the trapezius doing the
+deltoid's job. Why the deltoid's activity fell, the study cannot say. What it does show is the pattern
+the reverse-fly rep in Part V §C.1 is written to avoid: at the same load, a blade drawn back goes with
+about half the posterior deltoid activity and several times the lower trapezius activity.
+
+The second test is a moving exercise, but a row rather than a fly. Fourteen resistance-trained men did
+a seated row at their 8-repetition maximum two ways: with the blades pulled back and held there for the
+whole set, or with them free, so that each pull began by drawing the blades together. During the pull,
+posterior deltoid activity was 4.4 points higher with the blades held still (95% confidence interval
+0.8–7.9; effect size 0.66), and no trapezius portion differed (Padovan et al., 2025). **Promising but
+under-replicated.**
+
+**Read together.** The two tests compared different pairs — a blade drawn back against one held spread,
+and a blade held still against one that starts the pull — and in both the posterior deltoid was less
+active in the condition the rep in Part V §C.1 rules out. Neither tested that rep itself, a blade set
+spread and kept from leading, in a moving fly. **This document's judgement.**
+
+**The grip.** Three tests compared palms down against other grips during horizontal abduction, and
+they disagree:
+
+| Setting | Posterior deltoid | Other muscles |
+|---|---|---|
+| Reverse fly machine; 19 trained men; sets to failure | **Neutral higher than palms down**; 95% confidence interval of the difference 0.1–7.4 points (Schoenfeld et al., 2013) | Infraspinatus also higher with neutral; confidence interval 3.7–13.6 points |
+| Standing band pull-apart; 10 men; 3 repetitions at moderate effort | **Palms down higher**, by 8.4 points over neutral and 13.5 over palms up (Fukunaga et al., 2022) | Upper trapezius 6.3 points higher palms down than neutral; **middle trapezius unchanged by grip** |
+| Lying on the side, lowering a 2.3 kg dumbbell; 10 adults | **Palms down higher** than neutral (d = 0.32) and than palms up (d = 0.35) (Hedt et al., 2020) | Raw signal, not normalized to a maximal contraction; the paper's own summary ranking contradicts its table for this muscle |
+
+**Evidence remains limited and inconsistent.** Two small tests found more posterior deltoid activity
+with palms down; the one run on a training machine, in trained men, taken to failure, found less.
+**This document's judgement:** default to neutral. It won in the setting closest to training, and where
+the upper trapezius was measured, palms down raised it — the same pairing that internal rotation
+produced in the lateral raise (Coratella et al., 2020). Either way, the grip is not the lever against
+the scapular muscles: middle trapezius activity did not change with it.
+
+**The arm's path.** The band study also moved the hands diagonally up, level, and diagonally down.
+Every muscle measured was most active on the upward path, the only one that also lifts the arm's own
+weight; over a level path the rise was significant for the upper and lower trapezius and not for the
+posterior deltoid (Fukunaga et al., 2022). Path and load cannot be separated in that design, so it does
+not settle how high the arm should travel. The shoulder-height rule rests on the stiffness data above
+and the moment arms in Part V §B.2.
+
 #### Chest-supported dumbbell reverse fly
 **Profile:** short-length-loaded, peaking with the arms horizontal.
 *Setup.* Chest on an incline bench set at ~30°, arms hanging, elbow softly bent and fixed.
-*Execution.* Sweep the upper arms out until they are in line with the torso. Stop there. Let the
-shoulder blades travel; do not squeeze them together.
+*Execution.* Sweep the upper arms out until they are in line with the torso. Stop there. Set the
+shoulder blades spread and move the arms first; do not squeeze the blades together.
 *Why it works.* At 90° of elevation the posterior deltoid, infraspinatus and teres minor have the
 largest horizontal-extension moment arms at the joint (Kuechle et al., 1997), and the chest support
 removes the trunk as a limiter.
@@ -6478,6 +6553,8 @@ deck produced the greatest **posterior** deltoid activity (p = 0.001), and the r
 seated row both beat the pulldown for the middle deltoid (Franke et al., 2015). **Moderate evidence**
 for the narrow claim it supports: that a horizontal-abduction machine loads this head more than a
 vertical pull does.
+*Grip.* Where the machine offers both, use the vertical, palms-facing handles: the one grip test run on
+this machine favoured them, narrowly (Schoenfeld et al., 2013).
 *Role.* The most reliable posterior deltoid exercise in the catalogue, and the easiest to progress.
 
 #### Cable reverse fly (crossed)
@@ -6941,6 +7018,8 @@ notice the second.
 | "Dumbbell lateral raises are better because the load is heavier" | **Not supported**, by the same trial and the same measurement |
 | "Pour the pitcher to hit the side delt" | **Not supported.** Internal rotation produced the highest **posterior** deltoid and **upper trapezius** activity of five variants and did not raise the middle head above a neutral grip in either phase (Coratella et al., 2020) |
 | "Rows train the rear delt" | **Depends entirely on the elbow path.** A wide, high-elbow row does; a narrow, low-elbow row does not, and the same measurement supports both halves (Franke et al., 2015) |
+| "Squeeze your shoulder blades together to hit the rear delt" | **Not supported.** Against a blade held spread, one drawn back cut posterior deltoid activity by 44–53% at an unchanged load, in an isometric hold (Tsuruike & Ellenbecker, 2023). What held-back blades did beat, in a seated row, was letting the blades start the pull (Padovan et al., 2025) — an argument for a still blade, not a squeezed one |
+| "Thumbs down hits the rear delt harder" | **Evidence remains limited and inconsistent.** Palms down raised posterior deltoid activity with a band (Fukunaga et al., 2022) and lowered it on a reverse fly machine (Schoenfeld et al., 2013) |
 | "Behind-the-neck pressing is worth it for the extra activation" | **Not supported as a trade.** The activation difference is real (Coratella et al., 2022a) and it is measured by an instrument Part V §B.11 rejects for growth claims, in a position the injury literature names as vulnerable (Kolber et al., 2010) |
 | "The upright row is a side delt exercise" | **Not supported** in its narrow, high form, which is elevation with internal rotation. A wide, low version is a different and unremarkable raise (Part V §D.1) |
 | "You can target the front, middle and rear of the side delt" | **Not supported.** The seven anatomical segments are real (Sakoma et al., 2011); no growth measurement has ever been made at that resolution, and regional activation does not predict regional growth (Zabaleta-Korta et al., 2024) |
@@ -10983,7 +11062,7 @@ and they are never interchangeable here.
 **And the second question, answered the same way.** *Does arching the back help?* Fifteen highly
 resistance-trained individuals with a bench press of 1.38 ± 0.18 times body mass performed flat-back and
 arched-back bench presses at 50%, 70% and 90% of the respective one-repetition maximum
-(Bartolomei et al., 2024):
+(Bartolomei et al., 2024a):
 
 ```
 THE ARCH, MEASURED
@@ -11042,7 +11121,7 @@ direction.**
 | Bench angle, three pectoral regions, five angles, 30 trained adults | Regions peak at different angles | **They do.** Upper portion maximal at 30°, middle and lower maximal at 0° (Rodríguez-Ridao et al., 2020). This is the largest positive regional finding in the literature and it belongs in the same table as the nulls |
 | Lying bench press vs seated chest press, four grips | Different | Clavicular activity differed by ~5% MVIC between the extremes; anterior deltoid did not differ at all. Authors' conclusion: *"all exercises and grips showed similar muscle activity"* (Muyor et al., 2023) |
 | Push-up vs bench press at matched load | Open versus closed chain should differ | **No differences in kinematics or muscle activation** (van den Tillaar, 2019) |
-| Flat-back vs arched-back bench press | Different regional emphasis | **No difference in upper or lower pectoralis excitation** (Bartolomei et al., 2024) |
+| Flat-back vs arched-back bench press | Different regional emphasis | **No difference in upper or lower pectoralis excitation** (Bartolomei et al., 2024a) |
 | Wide vs narrow grip, pectoral-to-triceps ratio | Wide shifts work to the chest | **Unchanged** (Tanimoto et al., 2023) |
 | Barbell vs Smith machine vs dumbbell chest press | Stability requirement should change the demand | **Pectoralis major and anterior deltoid activity did not differ** between the three — across a 17% spread in the load lifted (Saeterbakken et al., 2011) |
 
@@ -11061,7 +11140,7 @@ bench press ranges of motion, where peak excitation was significantly greater in
 region during the upper half of the lift (Fischer et al., 2025a). **But the nulls are not an artefact of electrode
 placement, and that is what makes them interesting.** Two of the rows above recorded the clavicular and
 sternocostal parts separately and still found nothing (Saeterbakken et al., 2017), and so did the
-flat-versus-arched comparison (Bartolomei et al., 2024). What separates the studies that *do* resolve a
+flat-versus-arched comparison (Bartolomei et al., 2024a). What separates the studies that *do* resolve a
 regional difference from those that do not is the **comparison being made**, not the electrode: the
 positive findings compare one region against the other at matched instants, while the nulls compare each
 region against its own maximal contraction across conditions. Those answer different questions — *which
@@ -11167,7 +11246,7 @@ than fallen into.
 | 6 | **A grip wider than two biacromial widths** | Raises acromioclavicular compression and glenohumeral posterior shear (Noteboom et al., 2024) without raising whole-muscle pectoral activation (Saeterbakken et al., 2017) | The joint cost is real and the whole-muscle benefit is not measurable. Stay inside 1.6 BAW |
 | 7 | **Pushing the shoulders forward at lockout** | Trades a stable scapular base for two centimetres of range that the pectoralis major has almost no leverage in anyway (Part VIII §B.6) | Finish with the elbows extended and the shoulder blades where they started |
 | 8 | **Stopping the descent short on a fly to "protect the shoulder"** | Removes the only part of the range that a fly exists for | If the bottom hurts, the exercise or the load is wrong — not the range (Part VIII §E.4) |
-| 9 | **Arching to move more weight in a hypertrophy block** | Buys about 4 kg and costs range of motion at every load, with no change in pectoral excitation (Bartolomei et al., 2024) | Reserve the arch for testing a one-repetition maximum |
+| 9 | **Arching to move more weight in a hypertrophy block** | Buys about 4 kg and costs range of motion at every load, with no change in pectoral excitation (Bartolomei et al., 2024a) | Reserve the arch for testing a one-repetition maximum |
 
 **Errors 1, 2 and 3 are the injury set** and they are the reason Part VIII §A.9 exists. Errors 5 and 6
 are the two ends of the same dial. Errors 4, 7, 8 and 9 are stimulus errors: they cost growth, not
@@ -11268,7 +11347,7 @@ circulated on the argument that the bench prevents natural scapular motion.
 **The arch: a competition tool, not a hypertrophy tool.** Fifteen competitive powerlifters produced a
 one-repetition maximum 4.2 kg higher when arched, with a confidence interval whose lower bound touched
 zero — and **greater barbell displacement flat-backed at every load tested**, with no difference in
-either region's pectoral excitation (Bartolomei et al., 2024).
+either region's pectoral excitation (Bartolomei et al., 2024a).
 
 ```
 WHEN TO ARCH
@@ -11311,7 +11390,7 @@ over 12 weeks of a single machine exercise in untrained men (Pinto et al., 2025)
 
 **What is not evidence that it worked.**
 
-- **A bigger bench press.** Strength rises through neural and technical routes that do not require the muscle to change, and the arch alone is worth about 4 kg (Bartolomei et al., 2024).
+- **A bigger bench press.** Strength rises through neural and technical routes that do not require the muscle to change, and the arch alone is worth about 4 kg (Bartolomei et al., 2024a).
 - **Chest circumference.** A tape around the chest measures ribcage, latissimus dorsi, and fat at the same time.
 - **A visible separation between "upper" and "lower" chest.** That line is where the clavicular head's inferior border sits, and it is anatomy plus low body fat, not a training outcome.
 
@@ -11572,7 +11651,7 @@ context that changes it, and what it changes it to.
 | Goal | What changes | Why |
 |---|---|---|
 | **Maximal chest size** | The default. One press, one constant-tension isolation exercise, full range, flat back | Part VIII §D.6 |
-| **Maximal bench press** | Arch, wider grip inside 1.6 BAW, paused repetitions, competition tempo. **Range of motion becomes the enemy rather than the goal** | The arch is worth about 4 kg (Bartolomei et al., 2024); full-range training still produced the best transfer to every bench press variation tested (Martínez-Cava et al., 2022) |
+| **Maximal bench press** | Arch, wider grip inside 1.6 BAW, paused repetitions, competition tempo. **Range of motion becomes the enemy rather than the goal** | The arch is worth about 4 kg (Bartolomei et al., 2024a); full-range training still produced the best transfer to every bench press variation tested (Martínez-Cava et al., 2022) |
 | **Upper-chest emphasis** | Add an incline press at 30°, keep everything else | The claim rests on one site in one trial whose growth magnitudes do not survive an audit (Chaves et al., 2020). **Evidence remains limited and inconsistent** — worth doing, not worth reorganizing a programme around |
 | **Shoulder health while still pressing** | Grip inside 1.5 BAW, scapulae retracted, elbows 45–70°, dumbbells or a machine rather than a barbell | Each of those lowered a measured joint reaction force or rotator cuff demand (Noteboom et al., 2024) |
 | **Strength with minimal joint cost** | Machine chest press or Smith machine, moderate range | Nothing has to be caught, and the fixed path removes the mediolateral force variability of Part VIII §B.9 |
@@ -11901,7 +11980,7 @@ TEMPLATE F - MINIMUM EFFECTIVE DOSE, 2 SETS/WEEK
 
 - **Best available at home:** photographs, same light, same posture, same time of day, arms at the same position. The pectoralis major's outline changes with arm position more than almost any muscle in this document.
 - **Chest circumference is not a pectoral measurement.** A tape around the chest captures ribcage, latissimus dorsi, and subcutaneous fat at the same time — and inhaling changes it by more than a year of training will.
-- **The bench press is not a pectoral measurement either.** The arch alone is worth about 4 kg (Bartolomei et al., 2024), and grip and pause status change it further.
+- **The bench press is not a pectoral measurement either.** The arch alone is worth about 4 kg (Bartolomei et al., 2024a), and grip and pause status change it further.
 - **The one thing worth logging is the touch point and the load together.** A press that gets heavier while getting shorter is not progress (Part VIII §F.5).
 
 ---
@@ -11933,7 +12012,7 @@ TEMPLATE F - MINIMUM EFFECTIVE DOSE, 2 SETS/WEEK
 | "Bench angle is the main lever for regional emphasis" | **Contested.** It works acutely (Albarello et al., 2022) and it barely registers over a whole contraction (Lauver et al., 2016); the one chronic trial found it at one site of three, and in that trial the group that did both exercises was indistinguishable from the flat-only group at that site (Chaves et al., 2020). The narrower claim — that an incline press adds upper-region growth — carries the label **evidence remains limited and inconsistent** (Part VIII §A.5) |
 | "A wider grip makes the bench press more of a chest exercise" | **Not supported.** Pectoralis activation did not differ across grips in competition athletes (Saeterbakken et al., 2017) and the pectoral-to-triceps ratio did not change between an 81 cm and a 40 cm grip (Tanimoto et al., 2023) — because grip width redistributes excitation within the muscle, toward the clavicular fibres as it narrows and the abdominal fibres as it widens, rather than changing the whole muscle's (Mausehund et al., 2022) |
 | "Decline pressing builds the lower chest" | **Not supported.** Lower pectoralis activity at −15° matched the flat bench rather than exceeding it (Lauver et al., 2016), and activation did not differ across flat, incline and decline (Saeterbakken et al., 2017) |
-| "Arching is cheating / arching is essential" | **Both wrong, and measured.** The arch is worth about 4.2 kg with a confidence interval touching zero, costs barbell displacement at every load, and does not change either region's pectoral excitation (Bartolomei et al., 2024). It is a competition tool |
+| "Arching is cheating / arching is essential" | **Both wrong, and measured.** The arch is worth about 4.2 kg with a confidence interval touching zero, costs barbell displacement at every load, and does not change either region's pectoral excitation (Bartolomei et al., 2024a). It is a competition tool |
 | "Letting the shoulder blades move freely protects the shoulder" | **Not supported.** A released-scapula condition produced no difference in any joint reaction force against a neutral scapula (Noteboom et al., 2024) |
 | "The pectoralis minor is part of the chest and can be trained" | **False.** It does not attach to the arm (Part VIII §A.2). It grows from bench pressing as a scapular muscle (Lanza et al., 2024) |
 | "The overhead press trains the chest" | **Not supported.** Pectoralis major activity falls from 68.9 ± 24.2% of maximum at 90° of elevation to 19.8 ± 5.6% at 160° (Aronis et al., 2025) |
@@ -15450,9 +15529,9 @@ WHAT CHANGES ELBOW FLEXOR GROWTH
      Larsen 2026   30 untrained men, 24 completed, 10 wk, 6-8 sets/wk
                    to failure, one arm at PEAK SHOULDER EXTENSION, one
                    at NEUTRAL, profiles and elbow ROM matched
-                   thickness +7-9% in both; treatment effect -0.40 mm
-                   proximal, +0.21 mm distal; Bayes factors favour the
-                   NULL
+                   thickness +6.3-9.2% in both; treatment effect
+                   -0.40 mm proximal, +0.21 mm distal; Bayes factors
+                   favour the NULL
      Attarieh 2025 15 men, 10 wk, 2x/wk, PREACHER (shoulder flexed
                    ~50 deg) vs BAYESIAN CABLE CURL (shoulder extended),
                    profiles matched
@@ -16302,7 +16381,7 @@ contrast is fifteen weekly sets beating three; nine sets was neither clearly bet
 than fifteen would have been better still.
 
 **What the trials in Part XI §B.4 used.** Ten weeks at six to eight weekly sets of one exercise produced
-**7–9%** thickness gains in untrained men (Larsen et al., 2026); ten weeks at two sessions of three to five
+**6–9%** thickness gains in untrained men (Larsen et al., 2026); ten weeks at two sessions of three to five
 sets produced **6–9%** (Attarieh et al., 2025); nine weeks of twelve weekly sets produced growth at one site
 only (Zabaleta-Korta et al., 2023). **Six to twelve weekly direct sets is the range in which nearly every
 elbow flexor result in this Part was produced.**
@@ -17621,8 +17700,8 @@ ONE SESSION A WEEK - MAINTENANCE (3-6 sets)
 | Time | What to expect | Source |
 |---|---|---|
 | **Weeks 1–2** | Soreness from the heel-down half, settling within two or three sessions | Part XII §E.6 |
-| **Week 6** | In untrained people, 7–12% thickness across the group at 6–12 weekly sets | Kassiano et al., 2024 |
-| **Week 8** | Up to 15% in the medial gastrocnemius when the stretched half is trained | Kassiano et al., 2023 |
+| **Week 6** | In untrained people, 7–12% thickness across the group at 6–12 weekly sets | Kassiano et al., 2024b |
+| **Week 8** | Up to 15% in the medial gastrocnemius when the stretched half is trained | Kassiano et al., 2023b |
 | **Week 12** | 9–12% gastrocnemius volume by magnetic resonance imaging from standing raises; about 2% soleus | Kinoshita et al., 2023 |
 | **In trained people** | Still substantial: eight weeks of four sets twice a week grew the medial gastrocnemius **6.7–9.5%** in participants with about seven years of training behind them | Larsen et al., 2025d |
 | **Measurement** | Ultrasound at a marked site, or magnetic resonance imaging; not a tape measure | Part XII §C.7 |
@@ -17655,7 +17734,7 @@ varies widely between people *[consensus — no single source]*, and nothing in 
 
 | Claim | Verdict |
 |---|---|
-| "Calves are genetic — some people cannot grow them" | **Not supported** as stated. Untrained calves grew 6–15% in six to twelve weeks in every trial in this Part, and trained calves 6.7–9.6% in eight to ten weeks (Larsen et al., 2025d); what varies between people is where the muscle belly ends, which is a matter of shape rather than of trainability |
+| "Calves are genetic — some people cannot grow them" | **Not supported** as stated. Every calf trial in this Part that reports a percentage grew the gastrocnemius under its best condition, by 8–15% in six to twelve weeks in untrained people: 9–12% from standing raises (Kinoshita et al., 2023), 15.2% from the stretched half (Kassiano et al., 2023b), 14.3% at twelve weekly sets (Kassiano et al., 2024b), 9.6% with past-failure partials (Larsen et al., 2025e) and about 8% with volume load equated (Goli et al., 2026). Trained adults gained 9.5% in eight weeks (Larsen et al., 2025d). What failed was an exercise, not a person: a seated raise grew the gastrocnemius 0.6–1.7% in twelve weeks (Kinoshita et al., 2023) and the shortened half of the range 3.4% in eight (Kassiano et al., 2023b). The soleus grew 2–3% in twelve weeks in one trial (Kinoshita et al., 2023), but 12.7% in six weeks at twelve weekly sets (Kassiano et al., 2024b) and 12–15% in four (Cidrais et al., 2026). What varies between people is where the muscle belly ends, which is a matter of shape rather than of trainability |
 | "Seated calf raises are a fine substitute for standing ones" | **Not supported.** Twelve weeks of seated training produced no measurable gastrocnemius growth in the same people whose standing leg grew 9–12% (Kinoshita et al., 2023) |
 | "Calves need very high repetitions because they are slow-twitch" | **Not supported**, and tested in the one muscle where the argument should have worked: 6–10RM and 20–30RM produced similar growth in the soleus and both gastrocnemius heads (Schoenfeld et al., 2020) |
 | "You train your calves every day by walking" | **Not supported.** Walking and running load the Achilles below the level their own investigators call adaptive (Kharazi et al., 2021) |
@@ -17872,7 +17951,7 @@ anterior. Most training programmes contain a great deal of the first and almost 
 
 ### A.5 What is known about making them grow
 
-Less than for any other muscle in this document, and more than this Part originally claimed. Four lines of
+Less than for any other muscle in this document, and more than this Part originally claimed. Five lines of
 evidence exist, and it is worth being precise about what each one is.
 
 **First: muscle fibres, in symptomatic women.** Forty-two women with chronic trapezius pain were randomized
@@ -17945,16 +18024,69 @@ strength work won.
 six controls showed significantly larger fibres of every type, more myonuclei and more satellite cells
 (Kadi et al., 1999). That is a correlation with years of training, not a trial.
 
+**Fifth: trained men, whole muscle, before and after.** Twenty-four men with seven years of training on
+average followed a five-day-a-week programme for ten weeks — squats, deadlifts, rows, pull-ups, military
+presses, lateral and front raises and barbell high pulls, but **no shrug** — with upper-trapezius
+muscle thickness measured by ultrasound before and after (Bartolomei et al., 2024b). It grew **5.7% in one
+group and 7.3% in the other** (computed from the group means in the paper's Table 3), a significant effect of
+time (p = 0.043), and the weakest of the five muscles measured: the [pectoralis major](#pectoralismajor) grew 10.4% and 13.4%, with
+an effect size (η²) of 0.67 against the trapezius's 0.17. An earlier trial from the same laboratory, in 21
+trained men over ten weeks, reports in its abstract that upper-trapezius thickness rose with both full-body
+and split sessions (Bartolomei et al., 2021). **Moderate evidence** — two trials from one laboratory, one
+ultrasound site, and no direct trapezius exercise in the programme whose numbers are known.
+
 > **What is still missing.** No study has measured **rhomboid or levator scapulae** size before and after
 > training, in anyone. For the **serratus anterior** the only training measurements are contraction-to-rest
 > thickness *ratios* on ultrasound, which rose over four weeks in healthy young adults (Cho et al., 2018) and
 > over six weeks in office workers (Go & Lee, 2016) — a change in how the muscle contracts, not evidence that
-> it got bigger. And **no measurement of any of these muscles exists in a resistance-trained population**
-> before and after a programme.
+> it got bigger. In resistance-trained people, the before-and-after measurements found for any of these
+> muscles are the two upper-trapezius thickness trials above; **an earlier version of this Part said there
+> were none.**
 
 **One honesty note that cuts the other way.** In the same trial that produced the +20% fibre-area result,
 whole-muscle morphology was also imaged by ultrasound, and **no difference could be detected** (Nielsen et
 al., 2010). A twenty per cent change in fibre area was invisible to the tool a lifter could actually use.
+
+**The androgen-receptor claim.** A common explanation for why the traps seem to grow easily is that they
+carry more [androgen receptors](#androgenreceptor) — the protein inside a muscle fibre that testosterone has to attach to before
+it can act. **The first half has been measured once; the second half has not been shown, and three indirect
+tests point the other way.**
+
+- **More receptor-carrying nuclei — measured once.** Biopsies from six untrained men, eight power lifters and
+  nine power lifters using anabolic steroids: the proportion of muscle-fibre nuclei containing androgen
+  receptors was **higher in the trapezius than in the [vastus lateralis](#vastuslateralis)**. In the trapezius it was higher in
+  the lifters than in the untrained men and highest in the steroid users; in the vastus lateralis it did not
+  differ between the three groups (Kadi et al., 2000c). **Promising but under-replicated** — one
+  cross-sectional study of 23 men. **Interpretive caution:** it counted nuclei that contained receptor, not
+  how much receptor there was, and because the trapezius count was higher in the trained groups, part of the
+  difference may be a result of training rather than a fixed property of the muscle.
+- **Whether receptor content predicts who grows is itself contested — and it has only ever been asked
+  between people, never between muscles.** In the vastus lateralis, the change in receptor protein went with
+  fibre growth over 21 weeks in younger and older men (Ahtiainen et al., 2011) and over sixteen weeks in young
+  men, r = 0.60 in 23 men, with no blood hormone predicting growth (Mitchell et al., 2013); and the ten
+  highest responders to twelve weeks had more receptor at every time point than the ten lowest, with no
+  hormone in blood or muscle differing between them (Morton et al., 2018b). But measuring total, cytoplasmic
+  and nuclear receptor and its binding to DNA, another laboratory found no difference between 12
+  non-responders and 12 responders over ten weeks (Bergamasco et al., 2024a), and no correlation between
+  receptor changes and growth in 19 women and 19 men (Bergamasco et al., 2024b). **Contested.** The searches
+  for this section found no study that compared two muscles' growth with their receptor content.
+- **The trapezius did not outgrow the thigh in the same men.** In the ten-week trial above, upper-trapezius
+  thickness rose 5.7–7.3% against 5.9–9.2% for the vastus lateralis and 10.4–13.4% for the pectoralis major
+  (Bartolomei et al., 2024b). **Interpretive caution:** no shrugs were done, so this is not a test with the
+  stimulus matched.
+- **Nor is it unusually different between the sexes.** Men carry far more testosterone than women from
+  puberty on, so a muscle driven especially by testosterone should differ most between them. In MRI volumes of
+  70 muscles, heads and muscle groups in 102 adults, men's trapezius was **1.57 times** women's — 24th of the
+  70, beside the vastus lateralis at 1.56, and well below the pectoralis major at 2.00 and the [biceps brachii](#bicepsbrachii)
+  at 1.91 (Riem et al., 2026). **Interpretive caution:** a raw ratio includes men's larger frame, which that
+  paper shows predicts muscle size, and it measured the trapezius whole rather than its upper part.
+- **Steroids enlarge the low-receptor muscle too.** Power lifters using anabolic steroids had larger fibres
+  than drug-free power lifters in the vastus lateralis as well as in the trapezius (Eriksson et al., 2005).
+
+**Verdict: not supported** that the trapezius grows faster from training because of its receptors. What it
+does have is a great deal of indirect work — deadlifts, rows, carries and heavy pulls from the floor all load
+it (§B.6, §F.1) — and a place in the body's outline where a small gain is easy to see (Part XVIII §F.5).
+How its growth compares with every other muscle in this document is set out in Part XVIII §F.4.
 
 ### A.6 Fibre type — slow, and it changes nothing
 
@@ -18856,11 +18988,12 @@ shoulder directly (§B.2). Point tenderness there is covered in Part VIII §E.4.
 **PART F — Programming**
 
 > **Read this first.** Every other Part's programming section is built from [dose–response](#doseresponserelationship) data: sets against
-> growth, [frequency](#trainingfrequency) against growth, load against growth. For the scapular muscles there are exactly **two**
-> such comparisons, both with trapezius size outcomes, and both are reported below: **one set against three**
-> (Rønnestad et al., 2007) and **strength against endurance against co-ordination training**
-> (Kadi et al., 2000a). Nothing else — no frequency comparison, no load comparison, no range-of-motion
-> comparison, no failure-proximity comparison. So this section reports what has been tested, and marks every
+> growth, [frequency](#trainingfrequency) against growth, load against growth. For the scapular muscles four such comparisons
+> have been found, all with trapezius size outcomes, and all are reported below: **one set against three**
+> (Rønnestad et al., 2007), **strength against endurance against co-ordination training**
+> (Kadi et al., 2000a), **a full-body against a split routine** (Bartolomei et al., 2021) and
+> **self-adjusted against fixed volume** (Bartolomei et al., 2024b), the last two in trained men. No load,
+> range-of-motion or failure-proximity comparison was found. So this section reports what has been tested, and marks every
 > extrapolation beyond it as **judgement**. Where a number appears without a citation here, it is reasoning
 > from Part I and from the other Parts, not evidence about this muscle.
 
@@ -18873,8 +19006,14 @@ cross-sectional area on magnetic resonance imaging showed **no significant diffe
 null is not a study that failed to detect anything.
 
 Take it for what it is: a small sample, an upper trapezius trained only as a by-product of pressing and
-rowing, and a between-group comparison rather than a dose curve. But it is the only set-volume evidence that
-exists here, and it does not support chasing volume for this muscle. **Promising but under-replicated.**
+rowing, and a between-group comparison rather than a dose curve. But it is the only set-count comparison
+found for this muscle, and it does not support chasing volume. **Promising but under-replicated.**
+
+**A second null, in trained men.** Thirteen trained men who adjusted their own session volume to how
+recovered they felt did 8% more repetitions over ten weeks than eleven on the fixed programme (8,520 against
+7,893), and upper-trapezius thickness grew no differently between the two groups (group-by-time interaction
+p = 0.69) (Bartolomei et al., 2024b). **Interpretive caution:** the programme had no direct trapezius
+exercise, and an 8% difference in repetitions is a small contrast.
 
 The programme that produced the fibre-level growth used **three sets each of three exercises per session,
 three sessions a week** — nine [hard sets](#hardset) per session, of which perhaps six loaded the trapezius meaningfully,
@@ -18902,6 +19041,12 @@ direction** (§B.4 step 2). **This document's judgement.**
 trapezius-focused programmes also used three times a week — four weeks (Park & Lee, 2020) and twelve weeks
 (Liao et al., 2022) — and the review of scapular exercise interventions found ~3×/week the usual dose across
 fourteen studies (Solana-Tramunt et al., 2026).
+
+**One comparison touches frequency.** In 21 trained men over ten weeks, training every muscle in each
+session against splitting the muscles across sessions — which changes how often each one is trained — grew
+upper-trapezius thickness in both groups, and the abstract reports a between-group difference only for the
+vastus lateralis (Bartolomei et al., 2021). Only the abstract was read for this edition, so the weekly
+frequencies and volumes of the two groups are not given here. **Promising but under-replicated.**
 
 **What is judgement.** Two to three exposures a week, which is where the rest of the document sits and where
 every scapular programme that has been run sits. Given the low absolute load of the §D.3 and §D.4 exercises,
@@ -18985,7 +19130,9 @@ on Y raises and push-up pluses.
 | Result | **+20% type II fibre area** (P < 0.05); +9% type I (tendency) |
 
 Template C is the only one in Part XIII with a measured size outcome attached. It was run in women with
-chronic trapezius pain; whether it transfers to trained people is unknown.
+chronic trapezius pain; whether it transfers to trained people is unknown. Trained men's upper trapezius did
+grow over ten weeks of a general programme with no shrugs (§A.5) — evidence that the muscle keeps responding
+in trained people, not that this template is the way to make it.
 
 ### F.7 Timeline, measurement and expectations
 
@@ -18993,20 +19140,26 @@ chronic trapezius pain; whether it transfers to trained people is unknown.
 |---|---|
 | Weeks 1–2 | Load on shrugs and carries rises quickly. This is skill and grip, not growth |
 | Weeks 5 | The one imaging study with an interim scan measured upper-trapezius cross-section here as well as at eleven weeks (Rønnestad et al., 2007) |
-| Weeks 3–6 | Nothing was measured here. The one trial tested only at baseline and at ten weeks |
-| **Week 10** | **The only measured point: +20% type II fibre area in symptomatic untrained women**, with rate of force development up at an effect size of 0.96 (Andersen et al., 2014b) |
+| Weeks 3–6 | Apart from that five-week scan, nothing was measured here. The ten-week trials tested only at baseline and at the end |
+| **Week 10** | **+20% type II fibre area in symptomatic untrained women**, with rate of force development up at an effect size of 0.96 (Andersen et al., 2014b); +36% fibre area in nine women with trapezius myalgia on a strength programme (Kadi & Thornell, 2000b); and in resistance-trained men with no shrug in the programme, **+5.7–7.3% upper-trapezius thickness** on ultrasound (Bartolomei et al., 2024b) |
 | **Week 11** | Upper-trapezius cross-sectional area measured by MRI in untrained men, with **no difference between one set and three** (Rønnestad et al., 2007) |
 | Months 3–6 | Visible change in the upper trapezius outline, if anywhere. **No measurement exists** |
 | Ever | Rhomboid and levator scapulae size: never measured after training in anyone. Serratus anterior: only contraction-to-rest thickness ratios (Cho et al., 2018) |
 
-**How to measure it.** You cannot, usefully — and this is not a counsel of despair but a measured result. In
-the trial where biopsy showed a 20% rise in type II fibre area, **ultrasound imaging of the same muscle in
-the same women detected no morphological change at all** (Nielsen et al., 2010). **Use load on shrugs,
-carries and rows as the progress signal, and accept that it is a strength signal, not a size one.**
+**How to measure it.** Poorly — and this is not a counsel of despair but a measured result. In the trial
+where biopsy showed a 20% rise in type II fibre area, **ultrasound imaging of the same muscle in the same
+women detected no morphological change at all** (Nielsen et al., 2010). In trained men ultrasound did detect a
+5.7–7.3% thickness gain, but it was the weakest and least certain of the five muscles measured (p = 0.043)
+(Bartolomei et al., 2024b). **Use load on shrugs, carries and rows as the progress signal, and accept that it
+is a strength signal, not a size one.**
 
-**What to expect in absolute terms.** Unknown, and this Part will not invent a number. The honest expectation
-is that the girdle grows like other muscles when loaded like other muscles — that is what the one study shows
-— and that most of the visible result comes from the upper trapezius, which is also the easiest part to load.
+**What to expect in absolute terms.** One whole-muscle number exists for trained people: **5.7–7.3%
+upper-trapezius thickness in ten weeks** of a general five-day programme with no shrugs (Bartolomei et al.,
+2024b). With direct work, untrained women's trapezius fibre area rose 20% (Andersen et al., 2014b) and 36%
+(Kadi & Thornell, 2000b) in ten weeks, but fibre area is not whole-muscle size and the two numbers are not
+comparable. The honest expectation is that the girdle grows like other muscles when loaded like other
+muscles, and that most of the visible result comes from the upper trapezius, which is also the easiest part
+to load. How that compares with every other muscle in this document is set out in Part XVIII §F.4.
 
 ## partxiiigsynthesis
 
@@ -19029,7 +19182,8 @@ is that the girdle grows like other muscles when loaded like other muscles — t
    (Ekstrom et al., 2003).
 6. **The trapezius grows from ordinary resistance training**: +20% type II fibre area in ten weeks at 8–12RM,
    three times a week, from five ordinary dumbbell exercises (Andersen et al., 2014b), and only the strength
-   arm of a three-way comparison achieved it (Kadi et al., 2000a).
+   arm of a three-way comparison achieved it (Kadi et al., 2000a). In trained men its thickness still rose
+   5.7–7.3% in ten weeks of a programme with no shrug (Bartolomei et al., 2024b).
 7. **Unloaded activity does not grow it.** The group that cycled hard for the same ten weeks changed nothing
    (Andersen et al., 2014b).
 8. **Carries and heavy holds are real trapezius work** at the muscle's longest length, and straps are what
@@ -19100,11 +19254,21 @@ dissection (Ruggiero et al., 2016), and cross-sections alone from both shoulders
 not contain these muscles at all (Holzbaur et al., 2007a) — and individual scaling is poor
 (Bolsterlee et al., 2015).
 
-**That any dose has been established.** Two comparisons exist and no more: one set against three, which was
-null for the upper trapezius (Rønnestad et al., 2007), and strength against endurance against co-ordination
-training, where only strength raised type II fibre area (Kadi et al., 2000a). **Frequencies, loads, rep
-ranges, ranges of motion and failure proximity have never been compared for any scapular muscle with a size
-outcome.** Every number in §F beyond those two results is marked as judgement, and should be read that way.
+**That any dose has been established.** Four comparisons have been found: one set against three, which was
+null for the upper trapezius (Rønnestad et al., 2007); strength against endurance against co-ordination
+training, where only strength raised type II fibre area (Kadi et al., 2000a); a full-body against a split
+routine, where upper-trapezius thickness rose in both (Bartolomei et al., 2021); and self-adjusted against
+fixed volume, which made no difference to it (Bartolomei et al., 2024b). **No comparison of loads, rep
+ranges, ranges of motion or failure proximity with a size outcome was found for any scapular muscle.** Every
+number in §F beyond those four results is marked as judgement, and should be read that way. An earlier
+version of this Part said only the first two existed and that frequency had never been compared.
+
+**That the trapezius grows easily because it has more androgen receptors.** It does have a higher proportion
+of receptor-containing nuclei than the vastus lateralis, in one study of 23 men (Kadi et al., 2000c). That
+this makes it grow faster from training has not been shown. In the same trained men it grew less than the
+pectoralis major and no more than the vastus lateralis (Bartolomei et al., 2024b), and the gap between men's
+and women's trapezius is no bigger than the gap for the vastus lateralis — 1.57 against 1.56 times
+(Riem et al., 2026). **Not supported** (§A.5).
 
 **That rhomboid activity can be measured from the skin.** It cannot; every rhomboid and levator scapulae
 number in this Part comes from fine-wire electrodes, in two studies from one group (Berckmans et al., 2020)
@@ -21088,8 +21252,12 @@ during a sprint or kick. That is §E.4, and training through it is how a niggle 
 1. **Your squat depth is real and your deep squat load is climbing.** That is the extension mode.
 2. **A long-lever Copenhagen becomes possible, then easy.** That is the adduction mode, and the lever is the
    measure.
-3. **Inner-thigh size.** The one direct measurement available says **6.2% of adductor volume in ten weeks**
-   of full squatting (Kubo et al., 2019) — which is real growth and not visible in a mirror.
+3. **Inner-thigh size.** Five trials have measured it (§A.5). Full squatting grew adductor volume **6.2% in
+   ten weeks** (Kubo et al., 2019), leg pressing grew the adductor magnus **6.2% in twelve** (Kinoshita et
+   al., 2026), and the Copenhagen raised adductor thickness **17.8–18.4% in eight**, all of it gone after four
+   weeks off (Alonso-Fernández et al., 2022). That is real growth, and a mirror will not show it: the inner
+   thigh carries 16–19 mm of fat on ultrasound, among the thickest layers measured on the limbs
+   (Hoffmann et al., 2022; Part XVIII §F.5).
 4. **What you cannot know.** Whether your adduction strength has changed, without a dynamometer or a
    squeeze test. Reduced eccentric adduction strength is the modifiable risk factor here
    (Martins et al., 2025), and a lifter has no good home proxy for it.
@@ -21099,14 +21267,15 @@ during a sprint or kick. That is §E.4, and training through it is how a niggle 
 **PART D — Exercise catalogue**
 
 Organized by adductor loading mode (§B.4). **A warning that applies to most rows:** the force rankings come
-from a model of fifteen people (Collings et al., 2026), and the only direct size measurement in this Part is
-a squat-depth comparison (Kubo et al., 2019). Nothing below is a growth ranking.
+from a model of fifteen people (Collings et al., 2026). The size trials in this Part (§A.5) each compare at
+most two conditions — deep against half squats, leg press against knee extension, squat against hip thrust,
+Copenhagen against no Copenhagen — so nothing below is a growth ranking.
 
 ### D.1 Extension-loaded — the mode you already train
 
 | Exercise | What is measured | Verdict |
 |---|---|---|
-| **Deep squat** | Adductor volume **+6.2 ± 2.6%** in ten weeks against +2.7% for half squats (p = 0.026), while the quadriceps grew the same either way (Kubo et al., 2019). Tier 1 for ischiocondylar adductor magnus in the model (Collings et al., 2026) | **The reference exercise, and the only one with a size outcome.** Depth is the variable |
+| **Deep squat** | Adductor volume **+6.2 ± 2.6%** in ten weeks against +2.7% for half squats (p = 0.026), while the quadriceps grew the same either way (Kubo et al., 2019). Tier 1 for ischiocondylar adductor magnus in the model (Collings et al., 2026) | **The reference exercise.** Depth is the variable, and the only trial of it that measured the adductors found it mattered |
 | **Deadlift** | Tier 1 for ischiocondylar adductor magnus and gracilis (Collings et al., 2026) | Excellent, and already in your programme |
 | **Sumo deadlift** | Tier 1 for the same two muscles (Collings et al., 2026) | No better than the conventional pull in the model, despite the folklore |
 | **Step up** | Tier 1 for ischiocondylar adductor magnus; **tier 3** for brevis, longus and pubofemoral magnus (Collings et al., 2026) | A clean example of the mode split: top-tier for one part of the group, bottom-tier for the rest |
@@ -22405,8 +22574,8 @@ shoulder is expected to be mildly uncomfortable and is not expected to be sharp.
    averaged **0.72** (Parr et al., 2015). Do not chase a number nobody has validated.
 3. **What a scan will tell you: less than you think.** Cuff abnormality is present in a rising majority of
    shoulders with age and largely regardless of symptoms (Teunis et al., 2014).
-4. **What size you have gained: unknown.** The only measurement in healthy people is a fourteen-person case
-   series (§A.5).
+4. **What size you have gained: unknown.** Two measurements exist in healthy people, both over eight weeks: a
+   sixteen-man randomized trial and a fourteen-person case series (§A.5). Neither is a forecast for you.
 
 ## partxvidexercisecatalogue
 
@@ -22880,15 +23049,17 @@ Part is long is the clinical content in §E, not the prescription.
 | Timeframe | What to expect |
 |---|---|
 | Weeks 1–2 | Rapid improvement in how much you can hold in strict position. Skill, not muscle |
-| **Week 8** | The only measured point in healthy people: **supraspinatus +9.8%, infraspinatus +11.7%** of cross-sectional area — in a **case series with no control group**, where the untrained arm also improved (Safford et al., 2024) |
+| **Week 8** | Two measured points in healthy people: **infraspinatus +7.3%** of cross-sectional area from slow, light external rotation in a randomized trial, where the heavier and faster version showed no significant change (Matsumura et al., 2023); and **supraspinatus +9.8%, infraspinatus +11.7%** in a **case series with no control group**, where the arm without blood-flow restriction, which also trained, improved too (Safford et al., 2024) |
 | **12 months** | In people with rotator-cuff-related pain: substantial improvement, **and no more of it from six physiotherapy sessions than from one** (Hopewell et al., 2021) |
-| Ever | No dose-response data of any kind |
+| Ever | One comparison of load and tempo (Matsumura et al., 2023), and no other dose-response data |
 
 **How to measure it.** Load held in a strict external rotation, and nothing else. Do not measure this muscle
 group with a mirror, a tape or a scan.
 
-**What to expect in absolute terms.** For size, unknown, and this Part will not invent a number — the one
-figure available is roughly a tenth in eight weeks from a study that cannot attribute it. For symptoms, if
+**What to expect in absolute terms.** For size, two figures exist, both over eight weeks: +7.3% in the
+infraspinatus from slow, light external rotation in a small randomized trial (Matsumura et al., 2023), and
+roughly a tenth in both muscles from a case series that cannot attribute it (Safford et al., 2024). This Part
+will not stretch them into a forecast. For symptoms, if
 that is why you are here: **expect improvement, expect it to be slow, and do not expect the amount of
 physiotherapy to be the variable that decides it.**
 
@@ -24655,6 +24826,161 @@ the Parts that use them cite their own reliability evidence, and it is not summa
 > **The general principle is the same one this Part opened with.** Every instrument has a noise floor. Before
 > you trust a difference, find out whether it is bigger than the floor.
 
+
+### F.4 How fast each muscle grows, compared across this document
+
+Each Part's §F.7 says what one muscle did in its own trials. The comparative question — which muscles grow
+fastest — cannot be answered one Part at a time, so it is answered here: first from the studies that measured
+several muscles in the same people, then from the largest gain each Part cites.
+
+**The decision rule this section runs on.** **One muscle grows faster than another when it gains a larger
+percentage of its own starting size, measured by the same method, over the same weeks, in the same people.**
+A comparison that fails any of those four conditions is reported below, but it is not a measured ranking. The
+method matters because [muscle volume](#musclevolume), [anatomical cross-sectional area](#anatomicalcsa), muscle thickness and fibre area do not give
+the same percentage for the same muscle: a 20% rise in [trapezius](#trapezius) fibre area was invisible to ultrasound in the
+same women (Part XIII §A.5).
+
+**The comparisons made in the same people.**
+
+| Study | Participants and training | Upper body | Lower body |
+|---|---|---|---|
+| Abe et al., 2000 | 17 men and 20 women, untrained; six exercises, three times a week for 12 weeks; ultrasound thickness at eight sites | Chest and [triceps](#tricepsbrachii) significantly thicker by week 6; +12–21% in men and +10–31% in women by week 12 | [Quadriceps](#quadricepsfemoris) only a non-significant trend; +7–9% in men and +7–8% in women |
+| Kojic et al., 2021 | 18 untrained students, men and women; curls and squats, twice a week for 7 weeks; ultrasound cross-section | [Biceps brachii](#bicepsbrachii) +14.7% in men, +24.4% in women | The four quadriceps heads +3.0–8.6% |
+| Bartolomei et al., 2024b | 24 trained men; a five-day programme for 10 weeks; ultrasound thickness | [Pectoralis major](#pectoralismajor) +10.4–13.4%, biceps +4.2–13.0%, [upper trapezius](#uppertrapezius) +5.7–7.3% | [Vastus lateralis](#vastuslateralis) +5.9–9.2%; [vastus medialis](#vastusmedialis) +4.4–7.6%, not a significant change |
+| Lanza et al., 2024 | 13 men against 11 controls; bench press only, 10 weeks; MRI cross-section | Pectoralis major grew more than the [pectoralis minor](#pectoralisminor) and the triceps brachii; the [middle deltoid](#middledeltoid) least, and not above control | Not measured |
+| Ogasawara et al., 2012 | 7 untrained men; bench press only, 24 weeks; ultrasound thickness | Pectoralis +20% by week 6 and +43% by week 24; triceps +10% and +17%; biceps no significant change | Not measured |
+| Conley et al., 1997 | 14 active students training squats, deadlifts, push presses, rows and pulls for 12 weeks, 8 of them with a neck-extension exercise added; MRI cross-section | Neck extensors +24–25% with the neck exercise; no change without it | Quadriceps +7% in the group without it |
+| Kubo et al., 2019 | 17 untrained men; full or half squats, 10 weeks; MRI volume | Not measured | Full squats: [gluteus maximus](#gluteusmaximus) +6.7%, [adductors](#hipadductors) +6.2%, knee extensors +4.9%, [rectus femoris](#rectusfemoris) and [hamstrings](#hamstrings) no change |
+| Kinoshita et al., 2023 | 14 untrained adults; standing and seated calf raises, one leg each, 12 weeks; MRI volume | Not measured | Standing: [gastrocnemius](#gastrocnemius) +9–12%, [soleus](#soleus) +2%; seated: gastrocnemius +1–2% |
+
+The Kojic et al., 2021 students are the same eighteen whose quadriceps Part III §B.4 reports
+(Kojic et al., 2022). The Bartolomei and Ogasawara percentages are computed from the group means the papers
+report.
+
+**What they agree on.**
+
+1. **The chest and upper arm gained a larger percentage than the thigh in every comparison that measured
+   both** — in untrained men and women over twelve weeks (Abe et al., 2000), in seven weeks of curls against
+   squats (Kojic et al., 2021), and in trained men over ten (Bartolomei et al., 2024b). **Moderate evidence** —
+   three trials, thickness or single-level measures, and none of the programmes gave each muscle an equal dose,
+   so part of the gap may be the programme rather than the muscle.
+2. **Among the upper-body muscles, the pectoralis major led wherever it was measured.** It outgrew the triceps
+   from bench pressing alone on ultrasound (Ogasawara et al., 2012) and on MRI (Lanza et al., 2024), and it had
+   the largest effect of time of the five muscles measured in trained men, η² 0.67 (Bartolomei et al., 2024b).
+   **Moderate evidence.**
+3. **The exercise decides more than the muscle does.** The rectus femoris and the hamstrings grew nothing from
+   squats (Kubo et al., 2019), the gastrocnemius 1–2% from seated raises (Kinoshita et al., 2023), the neck
+   extensors nothing without a neck exercise (Conley et al., 1997), and the biceps nothing significant from
+   bench pressing (Ogasawara et al., 2012). A muscle that grows fast grows fast only from an exercise that loads
+   it.
+
+**The largest gain each Part cites.** For each muscle: the largest whole-muscle gain cited anywhere in this
+document, what produced it, and what grew the same muscle least. The rows come from different trials, so this
+is a lookup table, not a ranking.
+
+| Muscle | Largest whole-muscle gain cited | What produced it | What grew it little or not at all |
+|---|---|---|---|
+| Pectoralis major | +20% thickness by week 6 and +43% by week 24 (Ogasawara et al., 2012); +17–21% in 12 weeks (Pinto et al., 2025) | Bench press; pec deck | None cited |
+| Triceps brachii | +48.7% cross-section in 8 weeks, in trained men (Goto et al., 2019); long head +28.5% and whole muscle +19.9% by MRI volume in 12 weeks (Maeo et al., 2023) | Partial-range lying extensions; overhead cable extensions | Pressing alone: +1.1% at six weekly sets, in trained men (Schoenfeld et al., 2019a) |
+| Biceps brachii | +14.7–24.4% cross-section in 7 weeks (Kojic et al., 2021); individual responses from −2% to +59% in 12 weeks (Hubal et al., 2005) | Curls | Rows: +5.2% against +11.1% for curls (Mannarino et al., 2021); bench press: no significant change (Ogasawara et al., 2012) |
+| Neck extensors | +24–25% cross-section in 12 weeks (Conley et al., 1997) | A direct head-extension exercise | Squats, deadlifts and pulls alone: no change (Conley et al., 1997) |
+| Hamstrings | Whole muscle +18% volume in 12 weeks (Maeo et al., 2024); [semitendinosus](#semitendinosus) +28.2% at its proximal level (Maeo et al., 2021) | Lengthened-state eccentrics; seated leg curls | Squats: no change (Kubo et al., 2019) |
+| Quadriceps | Rectus femoris +17.5% and distal vastus lateralis +18.2% in 8 weeks, at single sites (Kassiano et al., 2026a) | Leg extensions for the rectus femoris; squats for the vastus lateralis | Rectus femoris from squats: no change (Kubo et al., 2019) |
+| Hip adductors | +17.8–18.4% thickness in 8 weeks, gone after 4 weeks off (Alonso-Fernández et al., 2022) | Copenhagen adduction | [Adductor magnus](#adductormagnus) from knee extension: no change (Kinoshita et al., 2026) |
+| Gastrocnemius | +15.2% thickness in 8 weeks (Kassiano et al., 2023b); +9–12% volume in 12 (Kinoshita et al., 2023) | The stretched half of a calf raise; standing raises | Seated raises: +1–2% (Kinoshita et al., 2023) |
+| Soleus | +12–15% in 4 weeks (Cidrais et al., 2026) | Heavy or blood-flow-restricted calf training | Standing or seated raises: +2–3% in 12 weeks (Kinoshita et al., 2023) |
+| Rotator cuff | [Infraspinatus](#infraspinatus) +11.7% and [supraspinatus](#supraspinatus) +9.8% cross-section in 8 weeks, a case series (Safford et al., 2024); infraspinatus +7.3% in a randomized trial (Matsumura et al., 2023) | Low-load shoulder exercise with blood-flow restriction; slow, light external rotation | The same external rotation heavier and faster: no significant change (Matsumura et al., 2023) |
+| Gluteus maximus | +9.3% thickness in 10 weeks (Kassiano et al., 2024a); +6.7% volume (Kubo et al., 2019) | A hip thrust added to leg presses and stiff-leg deadlifts; deep squats | Half squats: +2.2% (Kubo et al., 2019) |
+| Erector spinae | +17% cross-section at L5/S1 in 12 weeks, in people with low back pain (Fortin et al., 2023); +8% in 3 months, uncontrolled (Lescher et al., 2011) | Isolated lumbar extension; isometric back training | Resistance training without vibration: 0.0% in 13 weeks (Osawa & Oguma, 2013) |
+| Upper trapezius | Whole-muscle thickness +5.7–7.3% in 10 weeks, in trained men (Bartolomei et al., 2024b); fibre area, not whole muscle, +20% (Andersen et al., 2014b) and +36% (Kadi & Thornell, 2000b) | A general programme with no shrug; shrugs, rows and raises in women with trapezius pain | Leg cycling: no change in fibre size (Andersen et al., 2014b) |
+| Abdominal muscles | Obliques and transversus abdominis +8% volume in 36 weeks (Dorado et al., 2012) | Pilates | None cited |
+| Middle deltoid | +3.3–4.6% thickness in 8 weeks, in trained people (Larsen et al., 2025c) | Lateral raises | Bench press: not above control (Lanza et al., 2024) |
+| [Gluteus medius](#gluteusmedius) | About +4% volume in 12 weeks, in people with groin pain (Koch et al., 2022) | Strength and flexibility training | Four of the five size studies in Part IV §D.4: no change in it |
+| [Psoas major](#psoasmajor) | +3% cross-section in 12 weeks, in trained runners (Yamanaka et al., 2021) | Hip-flexor training | None cited |
+| [Latissimus dorsi](#latissimusdorsi) | No whole-muscle figure cited; fibre area +22% in 8 weeks (Paoli et al., 2016) | Pulldowns and rows | None cited |
+| [Forearm muscles](#forearmmuscles) | No muscle-size percentage cited; forearm circumference +0.6–0.8 cm in 5 weeks, in advanced climbers (Andersen et al., 2026) | Finger-flexor training | Thickness: not among the significant findings (Perrin et al., 2026) |
+
+**A percentage is not an amount.** In MRI volumes from 102 adults, one side of a man's quadriceps averaged
+about 2,214 mL and his biceps brachii about 204 mL (Riem et al., 2026). Five per cent of the first is about
+111 mL; fifteen per cent of the second is about 31 mL. The thigh's slow percentage adds more tissue than the
+arm's fast one. **And people differ more than muscles do:** twelve weeks of the same arm training changed
+biceps cross-section by anywhere from −2% to +59% across 585 adults (Hubal et al., 2005). Most of the
+percentages above come from untrained people in their first two or three months of training, and a number from
+that window is not a forecast for a trained lifter.
+
+**The ten fastest, in this document's judgement.** The evidence supports one ranking directly — chest and
+upper arm ahead of the thigh — and everything else is a judgement built from the table above. Within each
+group the order is not established.
+
+1. **Fastest, and shown ahead of the thigh in the same people:** the pectoralis major, the triceps brachii and
+   the biceps brachii.
+2. **Fast with the right exercise, shown only in separate trials** — 14–25% in eight to twelve weeks in
+   healthy people, and little or nothing from the wrong exercise: the neck extensors, the hamstrings, the
+   gastrocnemius, the rectus femoris and the adductors.
+3. **Moderate** — no whole-muscle gain of 10% or more cited: the gluteus maximus and the upper trapezius.
+
+**Slow or unsettled:** the erector spinae in people without back pain (0–9% over three to four months, Part X
+§A.5), the gluteus medius and minimus (mostly no change, Part IV §D.4), the middle deltoid (one trial, in
+trained people), the soleus (2% in one trial, 12–15% in two others) and the psoas major (3%, in trained
+runners).
+
+### F.5 Where a gain shows
+
+Most lifters judge size in the mirror, and the mirror sees some muscles far better than others. That changes
+which muscles *seem* to grow fastest, and it is part of why the upper trapezius has a reputation it does not
+earn in the measurements (Part XIII §A.5).
+
+**The decision rule this section uses.** **A gain of a given size is easier to see on a muscle the more of
+four conditions it meets: nothing but skin and fat lies over it; that fat is thin; the muscle forms part of
+the body's outline seen from the front or the side, or through clothes; and the body part is narrow, so a
+few millimetres are a large fraction of its width.** Only the second condition has been measured.
+
+**The fat over each muscle, measured.** Ultrasound thickness of the fat under the skin at 56 marked sites,
+in 54 adults — 26 men and 28 women, aged 19 to 81, averaging 26% body fat (Hoffmann et al., 2022; the figures
+are the first of two measurements in its Supplementary Table S4, in order of the thinnest
+reading at each site):
+
+| Site | Muscle underneath | Fat, mm |
+|---|---|---|
+| Forearm, back | [Brachioradialis](#brachioradialis) and [wrist extensors](#wristextensors) | 4.0–4.1 |
+| Forearm, palm side | [Wrist flexors](#wristflexors) and finger flexors | 4.0–7.0 |
+| Upper back beside the spine, top field | Trapezius | 4.5 |
+| Front of the upper arm | Biceps brachii | 5.4–8.4 |
+| Shin | Tibialis anterior | 5.7–6.4 |
+| Front of the neck | Front neck muscles | 6.4 |
+| Calf | Gastrocnemius | 6.9–9.3 |
+| Front of the thigh | Quadriceps | 7.5–18.5 |
+| Back of the thigh | Hamstrings | 8.0–22.3 |
+| Back of the upper arm | Triceps brachii | 9.2–11.5 |
+| Upper chest | Pectoralis major | 10.6–12.9 |
+| Inner thigh | Adductors | 16.2–18.8 |
+| Buttock | Gluteus maximus | 21.2–29.2 |
+| Back of the neck | Upper trapezius | 23.1 |
+| Lower belly | [Rectus abdominis](#rectusabdominis) | 25.2 |
+
+**Interpretive caution:** this is an ordinary adult sample, not lifters. A lean lifter has less fat
+everywhere, and this section assumes the order of the sites holds, which was not tested. The site names are
+the study's; the muscle underneath is this document's reading of its landmark chart. The back-of-neck figure
+is the least trustworthy in the table: caliper and ultrasound agreed worse there than at any other site, an
+intraclass correlation of 0.20 (Hoffmann et al., 2022).
+
+**Where small gains show first — this document's judgement.** Each muscle scored against the four conditions:
+
+| Muscle | Thin fat over it | Forms an outline | Narrow body part | Verdict |
+|---|---|---|---|---|
+| Forearm muscles | Yes, the thinnest measured | Yes, below a short sleeve | Yes | **Shows first** |
+| Biceps brachii | Yes | Yes, the front of the arm | Yes | **Shows early** |
+| Middle deltoid | Not measured | Yes, shoulder width from the front | No | **Shows early** — width is the outline seen most |
+| Upper trapezius | Mixed: 4.5 mm below the neck, 23 mm at the back of the neck | Yes, the slope from neck to shoulder seen from the front | Yes | **Shows early** from the front |
+| Gastrocnemius | Moderate | Yes, the back of the lower leg from the side | Yes | **Shows early** in shorts |
+| Pectoralis major | No | Yes | No | **Shows later** than it grows (§F.4) |
+| Quadriceps | Variable | Yes | No | **Shows later** |
+| Gluteus maximus, adductors, abdominal muscles | No, 16–29 mm | Partly | No | **Shows last**, mostly after fat loss |
+
+The searches for this section found no study that measured how visible a gain is, muscle by muscle, so the
+verdict column is judgement built on the one condition that has been measured. **Evidence remains limited
+and inconsistent** — which here means: one fat-thickness study, and reasoning for the rest.
+
 ---
 
 ## partxviiigsynthesis
@@ -24684,6 +25010,14 @@ the Parts that use them cite their own reliability evidence, and it is not summa
 10. **Changing any condition starts a new series.** That is bookkeeping, not failure (§E.1).
 11. **Averaging defeats random noise and does nothing about drift**, which is systematic (§C.2).
 12. **Film a working set twice a year.** Drift is invisible from inside the set (§E.4).
+13. **The chest and upper arm gained a larger percentage than the thigh in every comparison that measured
+    both in the same people** (§F.4) — and a percentage is not an amount: 5% of a man's quadriceps is about
+    111 mL, more than 15% of his biceps at about 31 mL (Riem et al., 2026).
+14. **Every muscle that grew fast grew little or nothing from the wrong exercise** (§F.4). Speed belongs to a
+    muscle and an exercise together, not to the muscle.
+15. **How visible a gain is depends on the fat over the muscle** — about 4 mm over the forearm, about 25 mm
+    over the lower belly (Hoffmann et al., 2022) — so the mirror flatters some muscles and hides others
+    (§F.5).
 
 ### G.2 What this Part does not support
 
@@ -24712,6 +25046,18 @@ mistake was the Part failing to apply its own best idea.
 **That reps in reserve is a measurement.** It is a specification. Its accuracy is limited enough that at
 least one study concluded predicted reserve "may lack precision" for prescribing load
 (Gómez-Redondo et al., 2025).
+
+**That the muscle growing the fastest percentage is adding the most muscle.** A 5% gain in a man's
+quadriceps is more tissue than a 15% gain in his biceps (§F.4).
+
+**That some muscles grow fast whatever you do.** The rectus femoris and hamstrings grew nothing from squats,
+and the gastrocnemius 1–2% from seated raises, while each grew 14–18% from the right exercise (§F.4).
+
+**That the trapezius grows easily because it carries more androgen receptors.** The receptor difference was
+measured once; that it speeds growth has not been shown, and in trained men the upper trapezius grew less than
+the pectoralis major and no more than the vastus lateralis (Part XIII §A.5). **Not supported.**
+
+**That a muscle which shows a gain early is growing faster.** It may only have less fat over it (§F.5).
 
 **That any of this changes what you should train.** Nothing in this Part alters a single prescription
 elsewhere in the document. It alters only whether you can tell what the prescriptions did.
@@ -24775,25 +25121,26 @@ plain same-file heading anchor.
 
 | Term | Layer | Term | Layer |
 |---|---|---|---|
-| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Medial epicondyle](#medialepicondyle) | 3 |
-| [45° back extension (hip extension)](#backextension) | 12 | [Median nerve](#mediannerve) | 9 |
-| [Ab wheel](#abwheel) | 12 | [Middle (transverse) trapezius](#middletrapezius) | 9 |
-| [Abdominal wall](#abdominalwall) | 9 | [Middle deltoid](#middledeltoid) | 9 |
-| [Accessory nerve (CN XI)](#accessorynerve) | 9 | [Minimal detectable change](#minimaldetectablechange) | 11 |
-| [Achilles tendinopathy](#achillestendinopathy) | 13 | [Mixed grip](#mixedgrip) | 11 |
-| [Achilles tendon](#achillestendon) | 3 | [Moment arm](#momentarm) | 2 |
-| [ACL reconstruction](#aclreconstruction) | 13 | [Momentary (muscular) failure](#momentaryfailure) | 10 |
-| [Acromioclavicular joint (AC joint)](#acromioclavicularjoint) | 3 | [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 |
-| [Acromion](#acromion) | 3 | [Motor unit](#motorunit) | 6 |
-| [Adductor brevis](#adductorbrevis) | 8 | [Multifidus](#multifidus) | 9 |
-| [Adductor loading mode (adduction-loaded, extension-loaded, unloaded)](#adductorloadingmode) | 11 | [Muscle thickness](#musclethickness) | 5 |
-| [Adductor longus](#adductorlongus) | 8 | [Muscle volume](#musclevolume) | 5 |
-| [Adductor magnus](#adductormagnus) | 8 | [Musculocutaneous nerve](#musculocutaneousnerve) | 9 |
-| [Adductor strain](#adductorstrain) | 13 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
-| [Adductor tubercle](#adductortubercle) | 3 | [Net joint moment](#netjointmoment) | 11 |
-| [Adductor-related groin pain](#adductorrelatedgroinpain) | 13 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
-| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Nordic hamstring curl](#nordiccurl) | 12 |
-| [Anconeus](#anconeus) | 9 | [Nuchal ligament](#nuchalligament) | 3 |
+| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Medial epicondylalgia ("golfer's elbow")](#medialepicondylalgia) | 13 |
+| [45° back extension (hip extension)](#backextension) | 12 | [Medial epicondyle](#medialepicondyle) | 3 |
+| [Ab wheel](#abwheel) | 12 | [Median nerve](#mediannerve) | 9 |
+| [Abdominal wall](#abdominalwall) | 9 | [Middle (transverse) trapezius](#middletrapezius) | 9 |
+| [Accessory nerve (CN XI)](#accessorynerve) | 9 | [Middle deltoid](#middledeltoid) | 9 |
+| [Achilles tendinopathy](#achillestendinopathy) | 13 | [Minimal detectable change](#minimaldetectablechange) | 11 |
+| [Achilles tendon](#achillestendon) | 3 | [Mixed grip](#mixedgrip) | 11 |
+| [ACL reconstruction](#aclreconstruction) | 13 | [Moment arm](#momentarm) | 2 |
+| [Acromioclavicular joint (AC joint)](#acromioclavicularjoint) | 3 | [Momentary (muscular) failure](#momentaryfailure) | 10 |
+| [Acromion](#acromion) | 3 | [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 |
+| [Adductor brevis](#adductorbrevis) | 8 | [Motor unit](#motorunit) | 6 |
+| [Adductor loading mode (adduction-loaded, extension-loaded, unloaded)](#adductorloadingmode) | 11 | [Multifidus](#multifidus) | 9 |
+| [Adductor longus](#adductorlongus) | 8 | [Muscle thickness](#musclethickness) | 5 |
+| [Adductor magnus](#adductormagnus) | 8 | [Muscle volume](#musclevolume) | 5 |
+| [Adductor strain](#adductorstrain) | 13 | [Musculocutaneous nerve](#musculocutaneousnerve) | 9 |
+| [Adductor tubercle](#adductortubercle) | 3 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
+| [Adductor-related groin pain](#adductorrelatedgroinpain) | 13 | [Net joint moment](#netjointmoment) | 11 |
+| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
+| [Anconeus](#anconeus) | 9 | [Nordic hamstring curl](#nordiccurl) | 12 |
+| [Androgen receptor](#androgenreceptor) | 7 | [Nuchal ligament](#nuchalligament) | 3 |
 | [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Obturator nerve](#obturatornerve) | 8 |
 | [Ankle plantar flexion](#ankleplantarflexion) | 4 | [Olecranon](#olecranon) | 3 |
 | [Annular pulley](#annularpulley) | 3 | [Open kinetic chain exercise](#openkineticchain) | 11 |
@@ -24988,7 +25335,6 @@ plain same-file heading anchor.
 | [Machine chest press](#machinechestpress) | 12 | [Wrist flexion](#wristflexion) | 4 |
 | [Mechanical tension](#mechanicaltension) | 6 | [Wrist flexors](#wristflexors) | 9 |
 | [Mechanotransduction](#mechanotransduction) | 6 | [Wrist joint](#wristjoint) | 3 |
-| [Medial epicondylalgia ("golfer's elbow")](#medialepicondylalgia) | 13 |  |  |
 
 ---
 
@@ -25823,6 +26169,12 @@ The two diverge as [pennation angle](#pennationangle) rises, which is exactly wh
 *Muscle Architecture & Physiology*
 
 **Hypertrophy** — A muscle getting bigger. Formally: an increase in the cross-sectional area or volume of a muscle, produced principally by accretion of myofibrillar protein enlarging existing fibers rather than by an increase in fiber number. Measured in humans as [muscle thickness](#musclethickness) by ultrasound, [anatomical cross-sectional area](#anatomicalcsa) by MRI, or whole-muscle volume. Driven principally by [mechanical tension](#mechanicaltension) applied over a [range of motion](#rangeofmotion) and repeated until the tissue adapts.
+
+## androgenreceptor
+
+*Muscle Architecture & Physiology*
+
+**Androgen receptor** — The protein inside a cell that testosterone has to attach to before it can do anything there. Formally: the intracellular steroid-hormone receptor that binds testosterone and dihydrotestosterone and, once bound, moves into the nucleus and changes which genes are read; in skeletal muscle it sits in the fibres' nuclei, and studies report it either as the proportion of nuclei that contain it, counted on stained biopsy sections, or as the amount of receptor protein in a biopsy sample. It is the route by which testosterone acts on muscle, which makes it the obvious candidate when one person or one muscle is said to grow more than another. Whether its content predicts how much a person grows is **contested** — three studies found that it went with growth and two found that it did not — and it has never been compared between muscles (Part XIII §A.5).
 
 ## lengthenedposition
 
@@ -27591,12 +27943,12 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Part XX — Bibliography**
 
-Every source cited in this document: **733 papers**, each with a DOI you can paste into a search box
+Every source cited in this document: **750 papers**, each with a DOI you can paste into a search box
 or a library request form — with nine exceptions, noted at their entries: eight for which no DOI was ever
 issued and a PubMed or PubMed Central identifier is given instead, and one master's thesis that has neither. Alphabetical by first author, so an in-text citation like
 *(Gerling & Brown, 2013)* is found by scanning for **Gerling**.
 
-**367 are open access** — free to read now. **366 are paywalled**; any university or public library can
+**377 are open access** — free to read now. **373 are paywalled**; any university or public library can
 obtain those through interlibrary loan at no cost, usually in a few days, and authors may legally
 share their own accepted manuscripts if you email them. Every DOI below was verified against
 Crossref, and open-access status against Unpaywall, at the time of writing.
@@ -27606,9 +27958,9 @@ small sample, a cadaveric model, an acute measurement, or a muscle other than th
 discussion, the text says so at the claim itself — that context matters more than the presence of a reference.
 *[consensus — no single source]* marks textbook material with no single origin paper. *[UNVERIFIED]*
 marks claims that could not be traced to a source we could read; they are flagged rather than quietly
-dropped. **Twenty-two of these papers measured the latissimus dorsi directly, twenty-eight measured the
-quadriceps femoris directly, thirty-eight measured a gluteal muscle directly, twenty-one measured a
-deltoid or another shoulder muscle directly, thirty-two measured a trunk muscle directly, twenty-nine measured a hamstring directly, thirty-one measured a pectoral muscle directly, at least seventy-six measured the triceps brachii or its tendon directly, at least ninety-two measured the erector spinae, the multifidus or the lumbar extensors directly, at least thirty-eight measured the biceps brachii, the brachialis or the elbow flexors as a group directly, at least twenty-four measured the gastrocnemius, the soleus or the Achilles tendon directly, at least thirty-five measured the trapezius, the serratus anterior or another scapular muscle directly, at least thirty measured a forearm muscle, the grip or the finger flexors directly, at least twenty measured a hip adductor directly, and at least thirty-six measured the rotator cuff or its tendons directly, and at least fourteen measured a hip flexor directly**; the rest supply general training principles or the mechanical
+dropped. **At least twenty-two of these papers measured the latissimus dorsi directly, at least twenty-eight measured the
+quadriceps femoris directly, at least thirty-eight measured a gluteal muscle directly, at least twenty-five measured a
+deltoid or another shoulder muscle directly, at least thirty-two measured a trunk muscle directly, at least twenty-nine measured a hamstring directly, at least thirty-one measured a pectoral muscle directly, at least seventy-six measured the triceps brachii or its tendon directly, at least ninety-two measured the erector spinae, the multifidus or the lumbar extensors directly, at least thirty-eight measured the biceps brachii, the brachialis or the elbow flexors as a group directly, at least twenty-four measured the gastrocnemius, the soleus or the Achilles tendon directly, at least thirty-five measured the trapezius, the serratus anterior or another scapular muscle directly, at least thirty measured a forearm muscle, the grip or the finger flexors directly, at least twenty measured a hip adductor directly, and at least thirty-six measured the rotator cuff or its tendons directly, and at least fourteen measured a hip flexor directly**; the rest supply general training principles or the mechanical
 framework. Where a paper's own research group has been
 the subject of a published data-integrity analysis, its entry says so. Where two or more papers by the same first author share a year, the bibliography entry
 records the `a`/`b`/`c` suffix used in the text.
@@ -27640,6 +27992,8 @@ Afonso J, Ramirez-Campillo R, Moscão J, Rocha T, Brandão A, Pereira J, et al. 
 Afshar A, Tabrizi A, Shariyate MJ. Dorsal scapular nerve entrapment: a systematic review. JSES Reviews, Reports, and Techniques. 2026;6(4):100807. doi:10.1016/j.xrrt.2026.100807 · **open access**
 
 Agten A, Stevens S, Verbrugghe J, Eijnde BO, Timmermans A, Vandenabeele F. The lumbar multifidus is characterised by larger type I muscle fibres compared to the erector spinae. Anatomy & Cell Biology. 2020;53(2):143-150. doi:10.5115/acb.20.009 · **open access**
+
+Ahtiainen JP, Hulmi JJ, Kraemer WJ, Lehti M, Nyman K, Selänne H, et al. Heavy resistance exercise training and skeletal muscle androgen receptor expression in younger and older men. Steroids. 2011;76(1-2):183-192. doi:10.1016/j.steroids.2010.10.012 · *paywalled* — *cited from its abstract*
 
 Ahtiainen JP, Walker S, Peltonen H, Holviala J, Sillanpää E, Karavirta L, et al. Heterogeneity in resistance training-induced muscle strength and mass responses in men and women of different ages. Age. 2016;38(1):10. doi:10.1007/s11357-015-9870-1 · **open access**
 
@@ -27719,7 +28073,11 @@ Barco R, Sánchez P, Morrey ME, Morrey BF, Sánchez-Sotelo J. The distal triceps
 
 Barker PJ, Hapuarachchi KS, Ross JA, Sambaiew E, Ranger TA, Briggs CA. Anatomy and biomechanics of gluteus maximus and the thoracolumbar fascia at the sacroiliac joint. Clinical Anatomy. 2014;27(2):234-240. doi:10.1002/ca.22233 · *paywalled*
 
-Bartolomei S, Caroli E, Coloretti V, Rosaci G, Cortesi M, Coratella G. Flat-Back vs. Arched-Back Bench Press: Examining the Different Techniques Performed by Power Athletes. Journal of Strength and Conditioning Research. 2024;38(7):1200-1205. doi:10.1519/JSC.0000000000004778 · **open access**
+Bartolomei S, Caroli E, Coloretti V, Rosaci G, Cortesi M, Coratella G. Flat-Back vs. Arched-Back Bench Press: Examining the Different Techniques Performed by Power Athletes [cited as Bartolomei et al., 2024a]. Journal of Strength and Conditioning Research. 2024;38(7):1200-1205. doi:10.1519/JSC.0000000000004778 · **open access**
+
+Bartolomei S, Francesco L, Latini D, Hoffman JR. Autoregulation Does Not Provide Additional Benefits to a Mixed Session Periodized Resistance Training Program in Trained Men [cited as Bartolomei et al., 2024b]. Journal of Strength and Conditioning Research. 2024;38(9):1535-1542. doi:10.1519/jsc.0000000000004836 · **open access**
+
+Bartolomei S, Nigro F, Malagoli Lanzoni I, Masina F, Di Michele R, Hoffman JR. A Comparison Between Total Body and Split Routine Resistance Training Programs in Trained Men. Journal of Strength and Conditioning Research. 2021;35(6):1520-1526. doi:10.1519/jsc.0000000000003573 · **open access** — *cited from its abstract*
 
 Bartolomei S, Rosaci G, Latini D, Nigro F. Effects of horizontally versus vertically loaded resistance exercises on performance and muscle architecture. The Journal of Sports Medicine and Physical Fitness. 2025;65(3):312-319. doi:10.23736/S0022-4707.24.16218-4 · *paywalled*
 
@@ -27742,6 +28100,10 @@ Bengtsson V, Aasa U, Öhberg F, Berglund L. Thoracolumbar And Lumbopelvic Spinal
 Berckmans K, Castelein B, Borms D, Palmans T, Parlevliet T, Cools A. Analysis of Scapular Kinematics and Muscle Activity by Use of Fine-Wire Electrodes During Shoulder Exercises. The American Journal of Sports Medicine. 2020;48(5):1213-1219. doi:10.1177/0363546520908604 · **open access**
 
 Berckmans KR, Castelein B, Borms D, Parlevliet T, Cools A. Rehabilitation Exercises for Dysfunction of the Scapula: Exploration of Muscle Activity Using Fine-Wire EMG. The American Journal of Sports Medicine. 2021;49(10):2729-2736. doi:10.1177/03635465211025002 · *paywalled*
+
+Bergamasco JGA, Scarpelli MC, Godwin JS, Mesquita PHC, Chaves TS, da Silva DG, et al. Acute and Chronic Changes in Muscle Androgen Receptor Markers Are Not Associated with Muscle Hypertrophy in Women and Men [cited as Bergamasco et al., 2024b]. Medicine & Science in Sports & Exercise. 2024;56(11):2146-2155. doi:10.1249/mss.0000000000003509 · *paywalled* — *cited from its abstract*
+
+Bergamasco JGA, Scarpelli MC, Godwin JS, Mesquita PHC, Chaves TS, da Silva DG, et al. Androgen receptor markers do not differ between nonresponders and responders to resistance training-induced muscle hypertrophy [cited as Bergamasco et al., 2024a]. Journal of Applied Physiology. 2024;137(4):910-918. doi:10.1152/japplphysiol.00354.2024 · *paywalled* — *cited from its abstract*
 
 Bergmann G, Deuretzbacher G, Heller M, Graichen F, Rohlmann A, Strauss J, et al. Hip contact forces and gait patterns from routine activities. Journal of Biomechanics. 2001;34(7):859-871. doi:10.1016/S0021-9290(01)00040-9 · *paywalled*
 
@@ -27871,6 +28233,8 @@ Collings TJ, Horsman A, Hams AH, McGill A, Watts D, Hambly MJ, et al. Hip Adduct
 
 Colloca CJ, Hinrichs RN. The Biomechanical and Clinical Significance of the Lumbar Erector Spinae Flexion-Relaxation Phenomenon: A Review of Literature. Journal of Manipulative and Physiological Therapeutics. 2005;28(8):623-631. doi:10.1016/j.jmpt.2005.08.005 · *paywalled*
 
+Conley MS, Stone MH, Nimmons M, Dudley GA. Specificity of resistance training responses in neck muscle size and strength. European Journal of Applied Physiology. 1997;75(5):443-448. doi:10.1007/s004210050186 · *paywalled* — *cited from its abstract*
+
 Contreras B, Cronin JB, Schoenfeld BJ, Nates RJ, Tiryaki Sonmez G. Are All Hip Extension Exercises Created Equal? Strength & Conditioning Journal. 2013;35(2):17-22. doi:10.1519/SSC.0b013e318289fffd · *paywalled*
 
 Contreras B, Schoenfeld B. To Crunch or Not to Crunch: An Evidence-Based Examination of Spinal Flexion Exercises, Their Potential Risks, and Their Applicability to Program Design. Strength and Conditioning Journal. 2011;33(4):8-18. doi:10.1519/SSC.0b013e3182259d05 · *paywalled*
@@ -27985,6 +28349,8 @@ Enes A, Oneda G, Leonel DF, Lemos L, Alves F, Ferreira LHB, et al. The effects o
 
 Erdağı K, Poyraz N. The determination of the cross-sectional area of the lumbar erector spinae muscles of Olympic style weightlifting athletes by using MRI. Journal of Back and Musculoskeletal Rehabilitation. 2020;33(3):405-412. doi:10.3233/bmr-191725 · *paywalled*
 
+Eriksson A, Kadi F, Malm C, Thornell LE. Skeletal muscle morphology in power-lifters with and without anabolic steroids. Histochemistry and Cell Biology. 2005;124(2):167-175. doi:10.1007/s00418-005-0029-5 · *paywalled* — *cited from its abstract*
+
 Escamilla RF, Babb E, DeWitt R, Jew P, Kelleher P, Burnham T, et al. Electromyographic Analysis of Traditional and Nontraditional Abdominal Exercises: Implications for Rehabilitation and Training. Physical Therapy. 2006;86(5):656-671. doi:10.1093/ptj/86.5.656 · **open access**
 
 Escamilla RF, Fleisig GS, Lowry TM, Barrentine SW, Andrews JR. A three-dimensional biomechanical analysis of the squat during varying stance widths [cited as Escamilla et al., 2001a]. Medicine and Science in Sports and Exercise. 2001;33(6):984-998. doi:10.1097/00005768-200106000-00019 · *paywalled*
@@ -28032,6 +28398,8 @@ Fritsch L, Lacheta L, Kühne N, Lappen S, Hinz M, Siebenlist S, et al. Clinical 
 Fry AC, Smith JC, Schilling BK. Effect of Knee Position on Hip and Knee Torques During the Barbell Squat. Journal of Strength and Conditioning Research. 2003;17(4):629-633. doi:10.1519/00124278-200311000-00001 · *paywalled*
 
 Fukumoto Y, Tateuchi H, Ikezoe T, Tsukagoshi R, Akiyama H, So K, et al. Effects of high-velocity resistance training on muscle function, muscle properties, and physical performance in individuals with hip osteoarthritis: a randomized controlled trial. Clinical Rehabilitation. 2014;28(1):48-58. doi:10.1177/0269215513492161 · *paywalled*
+
+Fukunaga T, Fedge C, Tyler T, Mullaney M, Schmitt B, Orishimo K, et al. Band Pull-Apart Exercise: Effects of Movement Direction and Hand Position on Shoulder Muscle Activity. International Journal of Sports Physical Therapy. 2022;17(3):400-408. doi:10.26603/001c.33026 · **open access**
 
 Fundaun J, Oliva V, Bédard S, Wesselink EO, Lynn BP, Pai SA, et al. Automated Segmentation of Forearm Muscles: Clinical Associations With Hand Function, Muscle Volume and Intramuscular Fat. JCSM Communications. 2025;8(2):e70015. doi:10.1002/rco2.70015 · **open access**
 
@@ -28145,6 +28513,8 @@ Havers T, Wagner N, Held S, Geisler S, Wiewelhove T. Partial Range, Full Gains? 
 
 Hayden JA, Ellis J, Ogilvie R, Malmivaara A, van Tulder MW. Exercise therapy for chronic low back pain. Cochrane Database of Systematic Reviews. 2021;9(9):CD009790. doi:10.1002/14651858.CD009790.pub2 · **open access**
 
+Hedt C, Lambert BS, Daum J, Pearson JM, McCulloch PC. Forearm Position Matters During Eccentric Shoulder Exercises: An EMG Recruitment Study With Implications for Rehabilitation. International Journal of Sports Physical Therapy. 2020;15(6):1110-1118. doi:10.26603/ijspt20201110 · **open access**
+
 Hegyi A, Csala D, Péter A, Finni T, Cronin NJ. High-density electromyography activity in various hamstring exercises [cited as Hegyi et al., 2019]. Scandinavian Journal of Medicine & Science in Sports. 2019;29(1):34-43. doi:10.1111/sms.13303 · **open access**
 
 Hegyi A, Péter A, Finni T, Cronin NJ. Region-dependent hamstrings activity in Nordic hamstring exercise and stiff-leg deadlift defined with high-density electromyography [cited as Hegyi et al., 2018]. Scandinavian Journal of Medicine & Science in Sports. 2018;28(3):992-1000. doi:10.1111/sms.13016 · **open access**
@@ -28170,6 +28540,8 @@ Hik F, Ackland DC. The moment arms of the muscles spanning the glenohumeral join
 Hirashima M, Yamane K, Nakamura Y, Ohtsuki T. Kinetic chain of overarm throwing in terms of joint rotations revealed by induced acceleration analysis. Journal of Biomechanics. 2008;41(13):2874-2883. doi:10.1016/j.jbiomech.2008.06.014 · *paywalled*
 
 Hoch A, Dimitriou D, Wolf-Wettstein J, Rosner J, Schubert M, Aguirre J, et al. Tensor Fasciae Latae and Gluteus Maximus Muscles: Do They Contribute to Hip Abduction? Journal of Orthopaedic Research. 2025;43(4):828-833. doi:10.1002/jor.26036 · **open access**
+
+Hoffmann J, Thiele J, Kwast S, Borger MA, Schröter T, Falz R, et al. Measurement of subcutaneous fat tissue: reliability and comparison of caliper and ultrasound via systematic body mapping. Scientific Reports. 2022;12(1):15798. doi:10.1038/s41598-022-19937-4 · **open access**
 
 Holt JA, Macias BR, Schneider SM, Watenpaugh DE, Lee SMC, Chang DG, et al. WISE 2005: Aerobic and resistive countermeasures prevent paraspinal muscle deconditioning during 60-day bed rest in women. Journal of Applied Physiology. 2016;120(10):1215-1222. doi:10.1152/japplphysiol.00532.2015 · **open access**
 
@@ -28232,6 +28604,8 @@ Juan J, Leff G, Kevorken K, Jeanfavre M. Hip Flexor Muscle Activation During Com
 Jung EY, Roh SY, Mun WL. Electromyographic Patterns of Scapular Muscles During Four Variations of Protraction–Retraction Exercises. Life. 2025;15(12):1840. doi:10.3390/life15121840 · **open access**
 
 Kadi F, Ahlgren C, Waling K, Sundelin G, Thornell LE. The effects of different training programs on the trapezius muscle of women with work-related neck and shoulder myalgia [cited as Kadi et al., 2000a]. Acta Neuropathologica. 2000;100(3):253-258. doi:10.1007/s004019900174 · *paywalled*
+
+Kadi F, Bonnerud P, Eriksson A, Thornell LE. The expression of androgen receptors in human neck and limb muscles: effects of training and self-administration of androgenic-anabolic steroids [cited as Kadi et al., 2000c]. Histochemistry and Cell Biology. 2000;113(1):25-29. doi:10.1007/s004180050003 · *paywalled* — *cited from its abstract*
 
 Kadi F, Eriksson A, Holmner S, Butler-Browne GS, Thornell LE. Cellular adaptation of the trapezius muscle in strength-trained athletes. Histochemistry and Cell Biology. 1999;111(3):189-195. doi:10.1007/s004180050348 · *paywalled*
 
@@ -28308,6 +28682,8 @@ Kliziene I, Sipaviciene S, Klizas S, Imbrasiene D. Effects of core stability exe
 Koch K, Semciw AI, Commean PK, Hillen TJ, Fitzgerald GK, Clohisy JC, et al. Comparison between movement pattern training and strengthening on muscle volume, muscle fat, and strength in patients with hip-related groin pain: An exploratory analysis. Journal of Orthopaedic Research. 2022;40(6):1375-1386. doi:10.1002/jor.25158 · **open access**
 
 Kojic F, Mandic D, Duric S. The effects of eccentric phase tempo in squats on hypertrophy, strength, and contractile properties of the quadriceps femoris muscle. Frontiers in Physiology. 2024;15:1531926. doi:10.3389/fphys.2024.1531926 · **open access**
+
+Kojic F, Mandic D, Ilic V. Resistance training induces similar adaptations of upper and lower-body muscles between sexes. Scientific Reports. 2021;11(1):23449. doi:10.1038/s41598-021-02867-y · **open access**
 
 Kojić F, Ranisavljev I, Ćosić D, Popović D, Stojiljković S, Ilić V. Effects of resistance training on hypertrophy, strength and tensiomyography parameters of elbow flexors: role of eccentric phase duration. Biology of Sport. 2021;38(4):587-594. doi:10.5114/biolsport.2021.99323 · **open access**
 
@@ -28549,6 +28925,8 @@ Michiels I, Bodem F. The deltoid muscle: an electromyographical analysis of its 
 
 Miller MC, Schimoler PJ, Kharlamov A, Hammerstedt J, Angelides G, Sumarriva G, et al. The lacertus fibrosus substantially Alters flexion and supination moment arms: A cadaveric study. Journal of Biomechanics. 2025;187:112760. doi:10.1016/j.jbiomech.2025.112760 · **open access**
 
+Mitchell CJ, Churchward-Venne TA, Bellamy L, Parise G, Baker SK, Phillips SM. Muscular and Systemic Correlates of Resistance Training-Induced Muscle Hypertrophy. PLoS ONE. 2013;8(10):e78636. doi:10.1371/journal.pone.0078636 · **open access**
+
 Mitsuya H, Nakazato K, Hakkaku T, Okada T. Hip flexion angle affects longitudinal muscle activity of the rectus femoris in leg extension exercise. European Journal of Applied Physiology. 2023;123(6):1299-1309. doi:10.1007/s00421-023-05156-w · *paywalled*
 
 Mochizuki T, Sugaya H, Uomizu M, Maeda K, Matsuki K, Sekiya I, et al. Humeral Insertion of the Supraspinatus and Infraspinatus. The Journal of Bone and Joint Surgery-American Volume. 2008;90(5):962-969. doi:10.2106/jbjs.g.00427 · *paywalled*
@@ -28561,7 +28939,9 @@ Moore D, Semciw AI, Pizzari T. A Systematic Review and Meta-Analysis of Common T
 
 Moosmayer S, Lund G, Seljom US, Haldorsen B, Svege IC, Hennig T, et al. Fifteen-Year Results of a Comparative Analysis of Tendon Repair Versus Physiotherapy for Small-to-Medium-Sized Rotator Cuff Tears. Journal of Bone and Joint Surgery. 2024;106(19):1785-1796. doi:10.2106/jbjs.24.00065 · **open access**
 
-Morton RW, Murphy KT, McKellar SR, Schoenfeld BJ, Henselmans M, Helms E, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults. British Journal of Sports Medicine. 2018;52(6):376-384. doi:10.1136/bjsports-2017-097608 · **open access**
+Morton RW, Murphy KT, McKellar SR, Schoenfeld BJ, Henselmans M, Helms E, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults [cited as Morton et al., 2018a]. British Journal of Sports Medicine. 2018;52(6):376-384. doi:10.1136/bjsports-2017-097608 · **open access**
+
+Morton RW, Sato K, Gallaugher MPB, Oikawa SY, McNicholas PD, Fujita S, et al. Muscle Androgen Receptor Content but Not Systemic Hormones Is Associated With Resistance Training-Induced Skeletal Muscle Hypertrophy in Healthy, Young Men [cited as Morton et al., 2018b]. Frontiers in Physiology. 2018;9:1373. doi:10.3389/fphys.2018.01373 · **open access**
 
 Mpampoulis T, Methenitis S, Stasinaki AN, Zaras N, Bogdanis GC, Terzis G. Effect of Different Reduced Training Frequencies After 12 Weeks of Concurrent Ballistic and Aerobic Training on Muscle Power and Triceps Brachii Muscle Architecture. Journal of Functional Morphology and Kinesiology. 2025;10(1):37. doi:10.3390/jfmk10010037 · **open access**
 
@@ -28749,6 +29129,8 @@ Refalo MC, Helms ER, Trexler ET, Hamilton DL, Fyfe JJ. Influence of Resistance T
 
 Rehorn MR, Blemker SS. The effects of aponeurosis geometry on strain injury susceptibility explored with a 3D muscle model. Journal of Biomechanics. 2010;43(13):2574-2581. doi:10.1016/j.jbiomech.2010.05.011 · *paywalled*
 
+Riem L, Pinette M, DuCharme O, Pabon V, Morris J, Coggins A, et al. Big bones mean big muscles: an MRI-based dataset of muscle-bone-body size relationships across 70 human muscles of the upper limb, trunk, and lower limb. Journal of Applied Physiology. 2026;140(1):1-19. doi:10.1152/japplphysiol.00772.2025 · **open access**
+
 Roberts BM, Nuckols G, Krieger JW. Sex Differences in Resistance Training: A Systematic Review and Meta-Analysis. Journal of Strength and Conditioning Research. 2020;34(5):1448-1460. doi:10.1519/JSC.0000000000003521 · *paywalled*
 
 Roberts HC, Denison HJ, Martin HJ, Patel HP, Syddall H, Cooper C, et al. A review of the measurement of grip strength in clinical and epidemiological studies: towards a standardised approach. Age and Ageing. 2011;40(4):423-429. doi:10.1093/ageing/afr051 · *paywalled*
@@ -28808,6 +29190,8 @@ Schache AG, Dorn TW, Blanch PD, Brown NAT, Pandy MG. Mechanics of the Human Hams
 Schellenberg F, Lindorfer J, List R, Taylor WR, Lorenzetti S. Kinetic and kinematic differences between deadlifts and goodmornings. Sports Medicine, Arthroscopy, Rehabilitation, Therapy & Technology. 2013;5(1):27. doi:10.1186/2052-1847-5-27 · **open access**
 
 Schellenberg F, Schmid N, Häberle R, Hörterer N, Taylor WR, Lorenzetti S. Loading conditions in the spine, hip and knee during different executions of back extension exercises. BMC Sports Science, Medicine and Rehabilitation. 2017;9(1):10. doi:10.1186/s13102-017-0074-0 · **open access**
+
+Schoenfeld B, Sonmez RGT, Kolber MJ, Contreras B, Harris R, Ozen S. Effect of Hand Position on EMG Activity of the Posterior Shoulder Musculature During a Horizontal Abduction Exercise. Journal of Strength and Conditioning Research. 2013;27(10):2644-2649. doi:10.1519/JSC.0b013e318281e1e9
 
 Schoenfeld BJ, Contreras B, Krieger J, Grgic J, Delcastillo K, Belliard R, et al. Resistance Training Volume Enhances Muscle Hypertrophy but Not Strength in Trained Men [cited as Schoenfeld et al., 2019a]. Medicine and Science in Sports and Exercise. 2019;51(1):94-103. doi:10.1249/MSS.0000000000001764 · **open access**
 
@@ -28930,6 +29314,8 @@ Trybulski R, Michał W, Małgorzata S, Bogdański B, Bichowska-Pawęska M, Ryszk
 Tsai MS, Domroes T, Pentidis N, Koschinski S, Schroll A, Bohm S, et al. Effect of the temporal coordination and volume of cyclic mechanical loading on human Achilles tendon adaptation in men. Scientific Reports. 2024;14(1):6875. doi:10.1038/s41598-024-56840-6 · **open access** !!UPDATED!!
 
 Tsaopoulos DE, Baltzopoulos V, Richards PJ, Maganaris CN. A comparison of different two-dimensional approaches for the determination of the patellar tendon moment arm length. European Journal of Applied Physiology. 2009;105(5):809-814. doi:10.1007/s00421-008-0968-3 · *paywalled*
+
+Tsuruike M, Ellenbecker TS. Effect of Scapular Retraction on Lower Trapezius, Infraspinatus, and Deltoid Muscle Electromyographic Activity During the Side-Lying Abduction Exercise. International Journal of Sports Physical Therapy. 2023;18(3):715-725. doi:10.26603/001c.74969 · **open access**
 
 Tucci JT, Carpenter DM, Pollock ML, Graves JE, Leggett SH. Effect of Reduced Frequency of Training and Detraining on Lumbar Extension Strength. Spine. 1992;17(12):1497-1501. doi:10.1097/00007632-199212000-00009 · *paywalled*
 
