@@ -48,9 +48,32 @@ def convert(md):
             def cells(r): return [c.strip() for c in r.strip().strip("|").split("|")]
             hdr=cells(L); i+=2; rows=[]
             while i<n and lines[i].lstrip().startswith("|"): rows.append(cells(lines[i])); i+=1
-            t=["<table><thead><tr>"]+["<th>%s</th>"%inline(c) for c in hdr]+["</tr></thead><tbody>"]
-            for r in rows:
-                t.append("<tr>"+"".join("<td>%s</td>"%inline(c) for c in r)+"</tr>")
+            # A header row whose first cell is filled and whose remaining cells are all
+            # empty is a caption spanning the table: "| Title | | | |".
+            spanning = len(hdr)>1 and bool(hdr[0]) and not any(hdr[1:])
+            if spanning:
+                head='<tr><th class="span" colspan="%d">%s</th></tr>'%(len(hdr),inline(hdr[0]))
+            else:
+                head="<tr>"+"".join("<th>%s</th>"%inline(c) for c in hdr)+"</tr>"
+            t=["<table><thead>",head,"</thead><tbody>"]
+            # Inside a table that opted into the spanning caption above, an empty cell
+            # means "merge upward" and becomes a rowspan on the cell it continues.
+            span=[[1]*len(r) for r in rows]; skip=[[False]*len(r) for r in rows]
+            if spanning and rows:
+                for c in range(max(len(r) for r in rows)):
+                    anchor=None
+                    for ri,r in enumerate(rows):
+                        if c>=len(r): anchor=None; continue
+                        if r[c]=="" and anchor is not None:
+                            span[anchor][c]+=1; skip[ri][c]=True
+                        else: anchor=ri
+            for ri,r in enumerate(rows):
+                cs=[]
+                for c,val in enumerate(r):
+                    if skip[ri][c]: continue
+                    a=' rowspan="%d"'%span[ri][c] if span[ri][c]>1 else ''
+                    cs.append("<td%s>%s</td>"%(a,inline(val)))
+                t.append("<tr>"+"".join(cs)+"</tr>")
             t.append("</tbody></table>"); out.append("".join(t)); continue
         m=re.match(r'^(\s*)([-*]|\d+\.)\s+(.*)$',L)
         if m:
@@ -84,6 +107,8 @@ code { font-family:"DejaVu Sans Mono","Liberation Mono",monospace; font-size:8.6
 pre { background:#f6f6f6; border:1px solid #ddd; padding:6pt; overflow:hidden; page-break-inside:avoid; }
 pre code { font-size:7.6pt; background:none; white-space:pre; }
 table { border-collapse:collapse; width:100%; margin:6pt 0; font-size:8.8pt; page-break-inside:avoid; }
+th.span { text-align:left; font-size:9.6pt; padding:4pt 5pt; }
+td[rowspan] { vertical-align:middle; text-align:center; }
 th,td { border:1px solid #bbb; padding:3pt 5pt; text-align:left; vertical-align:top; }
 th { background:#ececec; }
 blockquote { margin:6pt 0; padding:4pt 10pt; border-left:3px solid #888; background:#fafafa; page-break-inside:avoid; }
