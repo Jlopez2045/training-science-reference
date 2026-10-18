@@ -5,7 +5,7 @@
 > the rep → exercise catalogue → contexts → programming. **This volume covers the latissimus
 > dorsi, the quadriceps femoris, the gluteal muscles, the deltoids, the core, the
 > hamstrings, the pectoral muscles, the triceps brachii, the erector spinae, the elbow flexors, the calves, the trapezius and
-> scapular muscles, the forearms and grip, the hip adductors, the rotator cuff and the hip flexors, plus a Part on standardizing an exercise so that progress is measurable.** Further muscles are added as
+> scapular muscles, the forearms and grip, the hip adductors, the rotator cuff, the hip flexors and the foot, plus a Part on standardizing an exercise so that progress is measurable.** Further muscles are added as
 > new Parts; the glossary and bibliography are always the final two Parts and are shared across all
 > of them.
 >
@@ -153,8 +153,16 @@
    - **§E** [Changing the specification on purpose](#partxviiiewhentorestandardize)
    - **§F** [Instruments other than load × reps](#partxviiifotherinstruments)
    - **§G** [Synthesis](#partxviiigsynthesis)
-19. **[Part XIX — Master Glossary](#partximasterglossary)** (428 entries, in dependency order, with an alphabetical index at its head)
-20. **[Part XX — Bibliography](#partxxbibliography)** (750 sources, 377 open access)
+19. **[Part XIX — The Foot and the Arch](#partxixthefootandthearch)**
+   - **§A** [Anatomy and architecture](#partxixaanatomyandarchitecture)
+   - **§B** [Biomechanics — what actually loads the arch](#partxixbbiomechanics)
+   - **§C** [The rep, specified](#partxixctherepspecified)
+   - **§D** [Exercise catalogue](#partxixdexercisecatalogue)
+   - **§E** [Context modifiers, pain and the arch-correction question](#partxixecontextmodifiers)
+   - **§F** [Programming](#partxixfprogramming)
+   - **§G** [Synthesis, and what the evidence does not support](#partxixgsynthesis)
+20. **[Part XX — Master Glossary](#partxxmasterglossary)** (436 entries, in dependency order, with an alphabetical index at its head)
+21. **[Part XXI — Bibliography](#partxxibibliography)** (778 sources, 393 open access)
 
 **How to read this.** The first occurrence of a technical term in each Part links to its glossary
 entry. Cross-references are written `Part II §B.4`.
@@ -180,8 +188,8 @@ and no punctuation of any kind** — `forcelengthrelationship`, `momentarm`, `pa
 That character set is the fixed point of all four algorithms: each maps it to itself, so one link form
 works everywhere without HTML anchors or renderer-specific syntax. The cost is that the heading itself
 is not meant to be read; **the human-readable name is the bold lead-in immediately below it**, and the
-alphabetical index at the head of Part XIX is the place to look a term up. Structural anchors carry
-their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to XVIII share
+alphabetical index at the head of Part XX is the place to look a term up. Structural anchors carry
+their Part — `partiiibbiomechanics`, `partivbbiomechanics` — because Parts II to XIX share
 section titles and would otherwise collide. Links are same-file only: no HTML anchors, no relative file links, no external
 links.
 
@@ -1944,7 +1952,7 @@ THREE-TIMES-WEEKLY — HIGH VOLUME, ROTATING EMPHASIS
 large. Row three has one lat-specific anchor — eight weeks of pulldown-and-row training produced
 **+22% latissimus fibre cross-sectional area** on biopsy in 18 novice men (Paoli et al., 2016) — but
 no study has tracked lat *thickness* by ultrasound over these timelines, and the method is a poor index
-of individual change in any case (Part XIX, muscle thickness). Rows four and five
+of individual change in any case (Part XX, muscle thickness). Rows four and five
 are coaching convention, not measured outcomes.
 
 **Validity caveat:** thickness measured in the first weeks of a new program is inflated by
@@ -2465,7 +2473,7 @@ they are lined up by *which part of the range each protocol removed*.
 |---|---|---|
 | Bloomquist et al., 2013 | Deep squat 0–120° vs shallow squat 0–60°, [repetition](#repetition)-matched, 12 weeks | Deep squat produced **4–7% greater front-thigh muscle CSA** and greater isometric strength at 75° and 105° |
 | Kubo et al., 2019 | Full squat (140°) vs half squat (90°), 10 weeks, MRI muscle volume | Knee extensor volume rose **equally** — 4.9% vs 4.6%, no between-group difference. Rectus femoris did not change in either group. The full squat won only at the adductors and gluteus maximus |
-| Pedrosa et al., 2022 | Knee extension: full 100–30°, long-length partial 100–65°, short-length partial 65–30°, plus a daily-alternating group, 12 weeks | Long-length partial **greater than every other group** at the proximal site (70% of femur length); short-length partial no better than the untrained control at 60% and 70% |
+| Pedrosa et al., 2022 | Knee extension: full 100–30°, long-length partial 100–65°, short-length partial 65–30°, plus a daily-alternating group, 12 weeks | Long-length partial **greater than every other group** at the distal site (70% of femur length, the site nearest the knee); short-length partial no better than the untrained control at 60% and 70% |
 | Larsen et al., 2025b | Leg press 5–100° vs 5–154°, 8 weeks, resistance-trained | **No difference** — "extreme" evidence for the null on multivariate analysis |
 | Pallarés et al., 2021 | Meta-analysis of sixteen trials, full vs partial range | Full range superior for lower-limb hypertrophy (ES = 0.88) — though the pooled analysis of muscle thickness, pennation angle and fascicle length found no difference (ES = 0.28, p = 0.226) |
 | Kassiano et al., 2023a | Systematic review, full vs partial by which part of the range | Full range and **long-length** partials both beat short-length partials in quadriceps; long-length partials beat full range for proximal rectus femoris |
@@ -2928,9 +2936,11 @@ conventional seated machine.
 **Profile:** the deep half of the range only. **Role:** the highest-return partial in this document.
 
 *Evidence note.* Over twelve weeks in 45 untrained women, training only 100–65° produced greater
-relative hypertrophy than every other group at the proximal site (70% of femur length), and greater
+relative hypertrophy than every other group at the distal site (70% of femur length), and greater
 than the short-range, full-range and control groups at 50% and 60%; the short-range group (65–30°) was
-**no better than not training at all** at 60% and 70% (Pedrosa et al., 2022).
+**no better than not training at all** at 60% and 70% (Pedrosa et al., 2022). The 70% site is the most
+distal of the four, the one nearest the knee: the same research group describes this result as distal growth
+(Pedrosa et al., 2023).
 *How to use it.* Not as a replacement for full-range work but as a way to add quadriceps volume
 cheaply — the deep half costs less fatigue per unit of stimulus than the shallow half is worth.
 *Caveat.* One study, untrained women, single-joint exercise. **Moderate evidence.**
@@ -6699,7 +6709,7 @@ of exposure, so they establish where injuries land, not how likely they are.
 | Context | Common modification | Evidence note |
 |---|---|---|
 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) — a painful arc, pain reaching overhead, pain lying on that side | **Reduce the provoking arc first**, then load progressively in the pain-free range. Keep the press below the painful band or replace it with a landmine press; keep raises in the scapular plane | Rehabilitation improved shoulder strength in this population across twenty-eight studies, and **interventions that did not include exercise had no effect at all** (Zhang et al., 2026). The active ingredient is loading |
-| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part XIX, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
+| [Subacromial impingement](#impingement) as a label | Treat the label with caution and the arc with respect | The term names a symptom pattern rather than a validated single pathology, and the purely mechanical model has been substantively criticized (Part XX, impingement). **The mechanism is nonetheless measurable:** in vivo MRI during active abduction found abductor activity narrowing the [subacromial space](#subacromialspace) and adductor co-activation widening it (Graichen et al., 2005) — which is why the cuff's contribution is what makes the bottom of the range tolerable (Part V §A.5) |
 | History of dislocation or [shoulder instability](#shoulderinstability) | Overhead and behind-the-neck positions are commonly restricted; abduction with external rotation is the classic apprehension position | Governed by the clinician, not by this document |
 | Acromioclavicular joint pain — point tenderness on top of the shoulder | Reduce [horizontal adduction](#shoulderhorizontaladduction) across the body; raises and presses are usually well tolerated | The joint is compressed by reaching across, not by reaching out |
 | Long head of biceps pain — front-of-shoulder pain with a defined tender line | Reduce front raises and dips; the tendon runs in the [bicipital groove](#bicipitalgroove) directly under them | Mechanism, not trial evidence |
@@ -10013,7 +10023,7 @@ programmes, and the reader's job is to be assessed rather than to self-administe
 | Sport | Modification | Reason |
 |---|---|---|
 | Sprinting and any sport with maximal running | Both categories, plus the Nordic, plus **sprinting itself treated as a dose with its own recovery cost** | Peak strain, force and energy absorption all occur in terminal swing (Schache et al., 2012), and no gym exercise reproduces the velocity |
-| Football, rugby, field sports | As above; this is the population every prevention trial was run in | (van Dyk et al., 2019; Ekstrand et al., 2011) |
+| Football, rugby, field sports | As above; this is the population every prevention trial was run in | Meta-analysed in van Dyk et al., 2019, over the injury burden Ekstrand et al., 2011 documented |
 | Powerlifting | The competition deadlift covers the hinge slot; add a curl | The curl slot is the one that goes missing |
 | Weightlifting | Same, plus attention to the hip-extension category, which the sport under-supplies | The pulls are fast and shallow-hipped |
 | Bodybuilding | Both categories, loaded, at the volumes in Part VII §F.1 | The seated curl and the Romanian deadlift are the two exercises |
@@ -25083,9 +25093,1043 @@ measurement settling down. So write the six conditions down once per exercise, d
 twice a year, and treat any change to the card as a new series. **None of this tells you what to train. It
 tells you whether you can believe what happened.**
 
-# partximasterglossary
+# partxixthefootandthearch
 
-**Part XIX — Master Glossary**
+**PART XIX — The foot and the arch**
+
+> **Scope.** The muscles that hold up your arch, and what training them does. The **plantarflexors** stay in
+> Part XII; this Part takes the muscles that invert, support and shape the foot — **[tibialis posterior](#tibialisposterior)**
+> first, then the **intrinsic** muscles of the sole, the **peroneals**, and the **[plantar fascia](#plantarfascia)** they work
+> against.
+>
+> **One framing decision, made up front.** People come to this subject wanting to raise a flat arch. **This
+> Part does not promise that**, because the evidence does not. What training reliably changes is how much the
+> arch *moves* under load and how much force the foot can produce — not how high it sits when you stand
+> still. §E.5 examines the correction premise directly and declines most of it.
+>
+> **Get assessed rather than programme around it** if you have pain behind the inner ankle bone that is worse
+> after walking, a foot that has visibly flattened over months, an inability to do a single-leg heel raise,
+> or heel pain that is worst on the first steps of the morning — **see the red flags in §E.4.**
+
+---
+
+## partxixaanatomyandarchitecture
+
+**PART A — Anatomy and architecture**
+
+### A.1 What holds the arch up
+
+The medial arch is not held by one thing. It is a **bony vault with four separate restraint systems**, and
+they fail in a known order.
+
+| Layer | What it is | What it does |
+|---|---|---|
+| **Bone shape** | The wedge-shaped tarsals and the shape of the talus and navicular | Passive; sets the arch you were born with |
+| **Plantar fascia and the ligaments** | The aponeurosis from heel to toes, the spring ligament, the long and short plantar ligaments | Passive tension; the main static restraint |
+| **Intrinsic muscles** | Abductor hallucis, flexor digitorum brevis, quadratus plantae and the rest, entirely within the foot | Active; modulate how much the arch deforms |
+| **Extrinsic muscles** | **Tibialis posterior** above all, plus the peroneals and the long toe flexors | Active; invert the foot and resist collapse from above |
+
+**Only the last two can be trained.** The first two are what you have. That boundary governs the whole Part,
+and it is why §E.5 is sceptical about "correcting" an arch: two of the four restraints are not adjustable.
+
+### A.2 Attachments — the map you load
+
+| Muscle | From | To | Nerve | Main action |
+|---|---|---|---|---|
+| **Tibialis posterior** | Posterior tibia and fibula, interosseous membrane | **Navicular tuberosity**, with slips to the other tarsals and metatarsals | **Tibial** (L4–L5) | Inversion; plantarflexion; arch support |
+| **Peroneus (fibularis) longus** | Lateral fibula | Crosses the sole to the **first metatarsal base** | Superficial peroneal (L5–S1) | Eversion; plantarflexion; **supports the arch from the lateral side** |
+| **Peroneus brevis** | Lower lateral fibula | Fifth metatarsal base | Superficial peroneal (L5–S1) | Eversion |
+| **Abductor hallucis** | Calcaneus, medial | Base of the big toe | Medial plantar (S1–S2) | The largest intrinsic; spans the arch directly |
+| **Flexor digitorum brevis** | Calcaneus | Middle phalanges, toes 2–5 | Medial plantar (S1–S2) | Flexes the toes; **tensions the arch under load** |
+
+Spinal levels are the textbook account *[consensus — no single source]*. Three points matter.
+
+**Tibialis posterior inserts on the keystone.** The navicular sits at the top of the medial arch, and the
+tendon passes behind and below the inner ankle bone to reach it — a line of pull that lifts the arch's
+highest point from underneath. **That is why this one muscle dominates the clinical picture:** when it fails,
+the arch has lost its only strong active lift.
+
+**The two long tendons cross the sole in opposite directions — but they are not a sling.** An earlier
+version of this Part described tibialis posterior and peroneus longus as a transverse stirrup holding the
+arch. **That is not supportable.** Peroneus longus is the foot's principal **evertor**
+*[consensus — no single source]*, so in the frontal plane the two are antagonists rather than partners: one
+resists arch collapse and the other contributes to it. What peroneus longus does contribute is **plantarflexion
+of the first metatarsal**, which stabilises the medial column from a different direction — a real and
+narrower claim than a sling. The classic stirrup pairs peroneus longus with tibialis **anterior**.
+
+**The intrinsics are short and entirely inside the foot**, so they cannot move the true ankle hinge.
+They are not confined to the arch, though: stimulating abductor hallucis, flexor digitorum brevis and
+quadratus plantae produced extension, **inversion** and abduction of the calcaneus (Kelly et al., 2014), so
+they act on the joints below the ankle as well as on the arch.
+
+### A.3 Architecture — tibialis posterior is built to hold, not to move
+
+This is the most useful measured fact in the Part, and it reframes how the muscle should be trained.
+
+```
+                        MASS    FIBRE LEN   PENNATION   PCSA     FIBRE/MUSCLE
+                        (g)     (cm)        (deg)       (cm2)    LENGTH RATIO
+Tibialis posterior       58.4     3.78        13.7       14.4       0.12
+Tibialis anterior        80.1     6.83         9.6       10.9       0.27
+Peroneus longus          57.7     5.08        14.1       10.4       0.19
+Peroneus brevis          24.2     4.54        11.5        4.9       0.19
+Flexor hallucis longus   38.9     5.27        16.9        6.9       0.20
+Flexor digitorum longus  20.3     4.46        13.6        4.4       0.16
+--- for scale, from Part XII ---
+Soleus                  275.8     4.40        28.3       51.8       0.11
+                                        Ward et al., 2009a
+```
+
+**Two things fall out of that table.**
+
+**Tibialis posterior has the largest force capacity of any muscle in that dataset below the knee except the
+triceps surae.** A [PCSA](#pcsa) of **14.4 cm²** beats tibialis anterior's 10.9 and peroneus longus's 10.4.
+Despite weighing less than tibialis anterior it can produce substantially more force, because its fibres are
+shorter and more of them lie in parallel.
+
+> **Bound that claim two ways.** Ward's dataset explicitly excluded **the intrinsic muscles of the foot**, so
+> "largest below the knee" means largest among the muscles measured. And the specimens were elderly fixed
+> cadavers, which is the standard limitation of every architecture number in this document.
+
+**Its fibres are also the shortest in the group, with the lowest fibre-to-muscle-length ratio: 0.12** —
+essentially soleus's 0.11. That is the architecture of a muscle producing high force over a short range.
+
+> **One inference this Part withdrew.** An earlier version concluded "train it short — big ranges are not
+> what it is for". **That does not follow, and Part XII contradicts it**: soleus has the same ratio, and the
+> heel-down half of a calf raise grew the medial gastrocnemius 15.2% against 3.4% for the top half
+> (Part XII §B.7), which is why that Part prescribes the whole range from a deep heel-down position. **The
+> correct reading is that tibialis posterior's available range is short to begin with** — so use all of it,
+> rather than deliberately shortening it further. **A mechanical inference.**
+
+### A.4 The division of labour, seated versus standing
+
+The arch's restraints do not contribute equally, and **which one does the work depends on whether you are
+bearing weight** — a finding that explains why seated foot exercises and standing ones are not the same
+exercise.
+
+Measuring plantar fascia and flexor digitorum brevis stiffness by ultrasound elastography in 51 adults at
+toe extension angles of 0°, 15°, 30° and 45°:
+
+> **Seated, the plantar fascia and the flexor digitorum brevis both contributed to the arch. Standing on one
+> leg, the flexor digitorum brevis was about six times stiffer than the fascia beside it** — and both
+> tissues stiffened relative to sitting (Shinohara et al., 2025).
+
+**Read that figure precisely, because the first draft of this Part misattributed it.** The sixfold ratio is
+**muscle against fascia in standing**, not standing against sitting; across postures the muscle's own
+stiffness rose far more than sixfold. More importantly, the authors recorded **no [electromyography](#emg)**, and say
+that whether the stiffening reflected muscle activity or elongation "remains unclear". They also note that
+reliability in the standing position "was not particularly high".
+
+> **What survives, and it is enough:** standing changes how the arch is supported, and the muscle's
+> contribution relative to the fascia is much larger standing than sitting. **That is the argument for
+> training the foot standing**, and it is why the research protocols in §D progress out of a chair.
+
+### A.5 What is known about making them grow and work better
+
+Better evidenced than the hip flexors, worse than the quadriceps, and the outcomes that improved are not the
+ones people expect.
+
+> **1. Training increases foot muscle size and changes running mechanics.** Twenty-eight recreational
+> runners were randomised to an eight-week foot-strengthening programme or a control group. The intervention
+> group increased the **volume of every muscle measured** — abductor hallucis, abductor digiti minimi, flexor
+> digitorum brevis and flexor hallucis brevis — and increased **vertical propulsive impulse during running**.
+> Propulsive impulse correlated with flexor digitorum brevis volume at **r = 0.69** (Taddei et al., 2020a).
+>
+> **2. Pooled, it raises strength and reduces how far the arch moves — not how high it sits.** Across 28
+> trials and 1,399 participants, foot exercises produced **less [medial longitudinal arch](#mediallongitudinalarch) motion during
+> running**, and minimalist shoes produced greater strength in toes 2–5. The reviewers rated the certainty
+> **low to very low**, and found the evidence on **muscle size conflicting** (Peters-Dickie et al., 2025).
+>
+> **3. Arch *mobility* changes at eight weeks, not four.** Pooling four randomized trials of intrinsic foot
+> muscle strengthening, arch mobility was unchanged at 4 weeks and changed at 8, and function improved at
+> both — all at **low quality of evidence** (de Souza et al., 2023).
+
+**Read the three together.** The direction is consistent: **the foot gets stronger, the arch moves less under
+load, and propulsion improves.** What is *not* consistently shown is a change in the static arch you see when
+you stand up — and one RCT finding muscle growth sits against a pooled verdict of "conflicting", which is
+the honest state of it.
+
+> **And note the dose in the one study that measured a performance outcome directly.** Toe-flexor training
+> against a 3 kg load, **200 repetitions a day, three times a week for eight weeks**, improved strength, arch
+> shape, vertical jump, single-leg long jump and 50 m sprint time (Hashimoto & Sakuraba, 2014). **Twelve
+> healthy men, no control group** — so treat the performance numbers as a lead, not a result. But note what
+> the protocol demanded: that is a very large volume by any standard.
+
+### A.6 How the foot fails
+
+- **[Tibialis posterior tendon dysfunction](#tibialisposteriordysfunction)** — the classic progression, and the reason this Part leads with
+  that muscle. Tendinopathy behind the inner ankle, then elongation, then the arch descends and the heel
+  drifts outward. It is staged, and the stages matter for what helps (§E.4).
+- **[Plantar heel pain](#plantarheelpain)** — the commonest foot complaint, involving the fascia at its calcaneal origin.
+- **Progressive collapsing foot deformity** — the modern name for what used to be called adult acquired
+  flatfoot, once the collapse is established and symptomatic (§E.4).
+- **Stress injury** — the navicular and the metatarsals, in runners and jumpers.
+
+### A.7 What the anatomy dictates, in eight lines
+
+1. **Four restraints hold the arch**, and **only two of them — the intrinsic and extrinsic muscles — can be
+   trained** (§A.1).
+2. **Tibialis posterior inserts on the navicular**, the keystone of the medial arch, and is its only strong
+   active lift.
+3. **It has the largest PCSA below the knee outside the triceps surae**, at 14.4 cm² (Ward et al., 2009a).
+4. **Its fibre-to-muscle-length ratio is 0.12** — soleus-like, so its available range is short. Use all of
+   it; do not shorten it further (§A.3).
+5. **Peroneus longus is an evertor, not tibialis posterior's partner in a sling.** What it adds is
+   first-metatarsal plantarflexion.
+6. **Standing, flexor digitorum brevis is about six times stiffer than the fascia beside it**
+   (Shinohara et al., 2025) — so train standing.
+7. **Training increases foot muscle volume and propulsive impulse** in runners (Taddei et al., 2020a).
+8. **What it reduces is arch *motion*, not arch *height*** (Peters-Dickie et al., 2025).
+
+## partxixbbiomechanics
+
+**PART B — Biomechanics — what actually loads the arch**
+
+### B.1 The arch is a spring, and that is the problem
+
+The medial arch flattens when you load it and recoils when you unload it, storing and returning elastic
+energy in the fascia and ligaments. That is why running is cheaper than it would otherwise be, and it is the
+foot's main mechanical job *[consensus — no single source]*.
+
+**A spring creates a training problem.** Most of what the arch does under load is **passive** — bone shape
+and fascia, neither trainable (§A.1). The muscles modulate the spring rather than replace it. So the
+question this Part has to answer is narrow: **how much of the arch's behaviour is under muscular control, and
+what happens when you train it?**
+
+### B.2 How much is under muscular control: the direct answer
+
+This has been tested causally, which is unusual for the foot.
+
+> **Loading the foot in 25% increments from 0% to 150% of body mass, each of the three largest plantar
+> intrinsic muscles switched on at its own threshold: activity was first evident at 50% of body mass for
+> flexor digitorum brevis, 75% for quadratus plantae and 100% for abductor hallucis. Beyond those
+> thresholds activation rose progressively. Then, electrically stimulating the muscles countered the
+> deformation directly: it shortened the arch's length and raised its height** (Kelly et al., 2014).
+
+Three consequences, and the first draft of this Part got the second one badly wrong.
+
+**First: the muscles genuinely can control the arch.** This is not an inference from anatomy. Stimulate them
+and the arch rises. Whatever is true about training, the mechanism is real.
+
+**Second: the thresholds are lower than this Part first claimed — low enough that ordinary standing reaches
+them.** An earlier version said recruitment required more than one bodyweight through the foot and that
+two-footed standing therefore "does nothing". **That was wrong.** Flexor digitorum brevis — the muscle this
+Part leans on most — fires at **half** your body mass, which is roughly what each foot carries when you
+stand on both. Only abductor hallucis waits until a full bodyweight.
+
+> **Independent support for the correction.** Blocking the tibial nerve during **relaxed bilateral standing**
+> cut abductor hallucis activity to 27% of control and increased navicular drop by 3.8 mm
+> (Fiolkowski et al., 2003) — so the intrinsics are doing measurable arch work in exactly the posture the
+> first draft called dead. **What survives** is the ordering: more load recruits more muscle, and the
+> heaviest-recruiting muscle needs the most.
+
+**Third: posture still matters, for a different reason.** §A.4's finding is about which *tissue* carries the
+arch rather than whether any muscle is active at all — see §B.3, where the active-versus-passive question
+has a better answer than the stiffness ratio.
+
+### B.3 The windlass, and what tensions it
+
+Extend the toes and the plantar fascia winds around the metatarsal heads, shortening and raising the arch —
+the **[windlass mechanism](#windlassmechanism)**, the standard account of how the foot stiffens for push-off
+*[consensus — no single source]*.
+
+**The modern qualification is sharper than a qualification.** Applying controlled loads to human feet in
+vivo and studying push-off during walking, plantar aponeurosis strain via the windlass **could not explain**
+the tensioning and stiffening observed as foot–ground force rose; electromyography instead implicated
+**active contraction of the ankle plantarflexors** as the source of tension (Farris et al., 2020).
+
+> **So the classic account may have the mechanism wrong.** The foot does stiffen for push-off, but on this
+> evidence it stiffens because muscle pulls on the fascia — and the muscle in question is the calf
+> (Part XII), not the toe extensors winding a drum. **This Part therefore no longer claims the windlass is
+> what stiffens the foot**, and treats toe-extended positions as a way of *pre-tensioning* the fascia rather
+> than as the mechanism of propulsion.
+
+**A second qualification, on the elastography study.** §A.4's sixfold figure needs care: the authors
+recorded **no electromyography**, and state that whether the increased stiffness was due to muscle activity
+or to elongation-induced stiffening "remains unclear" (Shinohara et al., 2025). The fascia stiffened too.
+So that study establishes that **standing changes how the arch is supported**, not that the muscle is doing
+the supporting.
+
+> **Practically, toe position remains a setup variable (§B.6)** — a towel under the toes pre-tensions the
+> fascia, and it is what the one trial of this exercise used. The reason to do it is the trial, not the
+> windlass theory.
+
+### B.4 The arch loading class — the decision rule this Part runs on
+
+> **[ARCH LOADING CLASS](#archloadingclass) — the rule.**
+>
+> Apply all four tests to one repetition. **An exercise carries every tag it earns**; most earn more than
+> one, and the tags are not alternatives.
+>
+> **Tag 1 — COMPRESSION-LOADED.** Is the foot bearing **about half a bodyweight or more**? That is where the
+> first intrinsic muscle switches on, and recruitment rises with load from there (§B.2). Two-footed standing
+> just reaches it; single-leg stance, walking, running, jumping, squatting and a leg press all exceed it.
+>
+> **Tag 2 — COLLAPSE-RESISTING.** Is there a **sideways** moment pushing the arch flat that the invertors
+> must resist — i.e. is the body's weight line falling to the *inside* of the foot at any point in the rep?
+> **The practical test:** if you could do the rep with the foot in a rigid boot and feel no difference, it is
+> not collapse-resisting. Single-leg stance, a step-down, a cut and a landing qualify; a bilateral squat does
+> not.
+>
+> **Tag 3 — WINDLASS-TENSIONED.** Are the toes held **extended** under load, pre-tensioning the plantar
+> fascia? A towel or step under the toes does this; a heel raise with the toes flat on the floor does not,
+> and a heel raise on a step extends them by position whether you intend it or not.
+>
+> **Tag 4 — DIRECTLY LOADED.** Are the foot's own muscles — the intrinsics, the toe flexors, or the
+> invertors — the **prime movers** against resistance, rather than stabilizers while the ankle, knee or hip
+> moves the load?
+>
+> **No tag = unloaded**, which in practice means non-weight-bearing with nothing resisting the foot: cycling,
+> swimming, seated work with the foot free.
+
+**Worked examples, because the tags overlap by design:**
+
+| Exercise or activity | Tags |
+|---|---|
+| Standing still, two feet | 1, marginally |
+| Walking | 1 + 2 (single-support phase) + 3 at push-off |
+| Running | 1 + 2 + 3, strongly |
+| Single-leg stance or step-down | 1 + 2 |
+| Heel raise, two feet, toes flat on the floor | 1 |
+| Single-leg heel raise, forefoot on a step, towel under the toes | 1 + 2 + 3 |
+| [Short-foot](#shortfootexercise) exercise, standing on one foot | 1 + 2 + 4 |
+| Towel curl or resisted inversion, seated | 4 |
+| Barbell squat | 1 |
+| Leg press | 1 |
+| Cycling, swimming | **None** |
+
+> **Note the leg press row, which an earlier version of this Part got exactly backwards.** It claimed a leg
+> press "puts none through [the arch] at all". In fact **the one experiment that measured intrinsic muscle
+> recruitment under load used a seated rig with the foot on a force plate and load applied to the thigh**
+> (Kelly et al., 2014) — which is a leg press. The experiment this Part's whole threshold argument rests on
+> used the exercise the first draft called unloaded.
+
+**Why the rule earns its place.** It separates three things people conflate: *using* the arch, which almost
+everything weight-bearing does; *resisting its collapse*, which only single-leg and lateral work does; and
+*training its muscles as movers*, which almost nothing does. **The useful asymmetry is not Tag 1 — nearly
+everything earns that — it is that almost nothing earns Tag 4, and gym work rarely earns Tag 2.**
+
+**Caveats.** The half-bodyweight figure is the lowest of three measured thresholds, from one loading
+experiment in a seated rig; the other two muscles need 75% and 100% (Kelly et al., 2014). Tag 2's rigid-boot
+test is **this document's judgement**, not a measurement. No study has trained one tag and tested transfer to
+another.
+
+### B.5 What a "foot exercise" actually trains
+
+The pooled evidence is unusually clear about what changes and what does not.
+
+```
+OUTCOME                                     WHAT THE EVIDENCE SHOWS
+-----------------------------------------   -----------------------------------------
+Foot strength                               Improves. Exercises and minimalist shoes
+                                            both; toes 2-5 strength CI 0.02 to 0.76
+Arch MOTION during running                  Decreases. CI 0.08 to 0.82
+Foot muscle SIZE                            CONFLICTING across trials, though one RCT
+                                            found volume up in every muscle measured
+Arch HEIGHT, standing                       Not established (see E.5)
+Running biomechanics                        "Occasionally modified"
+Certainty of all of the above               LOW TO VERY LOW
+                                        Peters-Dickie et al., 2025: 28 trials, n = 1,399
+```
+
+> **The headline, stated the way the evidence supports it:** training makes the foot **stronger and the arch
+> stiffer under load**. It is not established to make a flat arch higher.
+
+**And the one RCT with a performance outcome went further.** Eight weeks of foot strengthening in 28 runners
+increased the volume of every intrinsic muscle measured **and** raised vertical propulsive impulse, which
+correlated with flexor digitorum brevis volume at r = 0.69 (Taddei et al., 2020a). **One trial, 28
+participants, proof-of-concept by its own description** — but it is the most encouraging result here.
+
+### B.6 Setup variables
+
+| Variable | Effect | Evidence |
+|---|---|---|
+| **Standing vs seated** | Decides whether the muscle or the fascia bears the arch; flexor digitorum brevis stiffness rises about sixfold standing | Shinohara et al., 2025 |
+| **Toes flat vs extended** | Engages or bypasses the windlass (§B.3) | Mechanical; Shinohara et al., 2025 |
+| **Two feet vs one** | Doubles the load per foot, which is what crosses the recruitment threshold (§B.2) | Kelly et al., 2014 |
+| **Load magnitude** | Intrinsic recruitment rises with load above thresholds, peaking near 150% bodyweight | Kelly et al., 2014 |
+| **Footwear** | Minimalist shoes raised toe 2–5 strength in pooled analysis | Peters-Dickie et al., 2025 |
+| **Adding hip work** | Beat foot work alone on arch measures at 4 weeks (§E.5) | Engkananuwat & Kanlayanaphotporn, 2023 |
+
+### B.7 What already loads the arch, and what does not
+
+**Running and jumping load it hard, and this is not a small effect.** Ground reaction force in running
+reaches roughly two to three times bodyweight *[consensus — no single source]* — comfortably past the band
+where the intrinsics engage. **An athlete who runs is loading the arch heavily and often.**
+
+**Lifting mostly does not.** A barbell squat puts a large load through the foot, but it is Tag 1 only: the
+arch compresses and recoils with no medial collapse to resist and no windlass engagement. A leg press puts
+none through it at all.
+
+**And ordinary standing does a little**, since two-footed stance just reaches the lowest intrinsic threshold
+(§B.2) — which is not the same as training anything, because there is no progression in standing.
+
+> **So the gap is not about load at all, and that is the correction this Part had to make.** A lifter
+> squatting twice bodyweight puts more through each foot than the heaviest load in Kelly's rig. What a
+> lifter is missing is **direction and role**: **Tag 2**, a sideways moment the invertors must resist, which
+> bilateral barbell work never supplies; and **Tag 4**, the foot's own muscles as prime movers, which almost
+> nothing supplies.
+
+### B.8 A worked example, so the numbers are not abstract
+
+Take an 80 kg person. Kelly's measured thresholds were **50% of body mass** for flexor digitorum brevis,
+75% for quadratus plantae and **100%** for abductor hallucis, with activation still rising at the rig's
+maximum of 150%.
+
+```
+EXTERNAL LOAD THROUGH ONE FOOT, 80 kg PERSON
+  Standing, two feet ............  40 kg   (0.5x BW)  <- FDB threshold
+  Standing, one foot ............  80 kg   (1.0x BW)  <- AH threshold
+  Walking, peak .................  88 kg   (1.1x BW)
+  Squat with 160 kg, two feet ... 120 kg   (1.5x BW)  <- the rig's maximum
+  Running, peak ................. 160-240 kg (2-3x BW)
+```
+
+> **Read that table against the first draft's conclusion, which it refutes.** The earlier version said the
+> arch is "undertrained in a lifter who does not run". But an 80 kg lifter squatting 160 kg puts **1.5
+> bodyweights through each foot** — the heaviest load Kelly's rig could apply. **Load is not the lifter's
+> problem.** What a barbell squat never supplies is a sideways moment to resist (Tag 2) or the foot as a
+> prime mover (Tag 4), which is what §B.7 now says.
+>
+> **Two caveats, and the first matters.** These are **external** loads through the foot, not forces inside
+> the arch: joint and tendon forces are several times larger, so none of these numbers describes what the
+> fascia or the tibialis posterior tendon actually carries. And a single-leg heel raise is not 1× bodyweight
+> at the ankle — the forefoot lever means Achilles force alone is roughly 2.5–3× bodyweight
+> *[consensus — no single source]*. The running multiplier is a textbook ground-reaction range, not a
+> measured value for any individual.
+
+### B.9 What the measurements here can and cannot settle
+
+**The mechanism is well established.** Electrical stimulation of the plantar intrinsics raises the arch
+(Kelly et al., 2014). That is as direct as this kind of evidence gets.
+
+**The training evidence is low certainty throughout, and the reviewers say so.** Twenty-eight trials with
+1,399 participants, rated **low to very low** for risk of bias, imprecision and inconsistency
+(Peters-Dickie et al., 2025); four trials rated **low quality** by GRADE in a second review
+(de Souza et al., 2023). The *direction* is consistent across both; the magnitude is not reliable.
+
+**Muscle size is genuinely contested.** One RCT found volume increases in every muscle measured
+(Taddei et al., 2020a); the pooled synthesis calls the size evidence conflicting. This document reports both
+rather than choosing.
+
+**And the arch-height question has barely been asked properly.** The trials measure arch *motion*, navicular
+drop and arch height index — related but not identical quantities — over 4 to 8 weeks, in small samples.
+**Nobody has run a long trial with static arch height as the primary outcome**, which is why §E.5 answers the
+correction question with evidence about other things.
+
+### B.10 The mechanical checklist
+
+1. **Load is not the problem.** The lowest intrinsic threshold is about half a bodyweight, which standing
+   reaches and lifting far exceeds (§B.2, §B.8).
+2. **Direction and role are the problem.** Tag 2 and Tag 4 are what a normal programme lacks (§B.7).
+3. **Stand up.** Standing changes which tissue carries the arch, even if both are active (§A.4).
+4. **One foot, not two** — not for the load, but because that is what creates a sideways moment to resist.
+5. **Pre-tension the toes** with a towel or a step. That is what the one trial used (§C.1).
+6. **Running already does Tags 1, 2 and 3.** If you run, you are not starting from zero.
+7. **Use the whole available range.** Tibialis posterior's range is short to begin with (§A.3).
+8. **Expect less arch motion and more strength**; arch height may move a little, and it is the wrong thing
+   to watch (§B.5, §E.5).
+
+## partxixctherepspecified
+
+**PART C — The rep, specified**
+
+> **Read this before the reps, because it changes how to read everything in §D.** A scoping review
+> catalogued **300 foot and ankle strengthening exercises across 87 studies**. The typical prescription was
+> 3 sets of 10, three times a week. **Load intensity was not reported for 76% of exercises**, 66% did not
+> specify a *type* of load, and only **4% explicitly used none**. Where an intensity was given, it reached
+> the conventional strength threshold of 60% of a [one-repetition maximum](#onerepmax) in **2% of exercises**. Median
+> completeness of reporting, on the **CERT** checklist, was **31% of items** (Osborne et al., 2025).
+>
+> **Be precise about what that is, because the first draft of this Part was not.** It said 66% of exercises
+> "were prescribed with no load at all", which converts a **reporting** failure into a **prescription**
+> failure. The review's own words are that load was *not reported*, and that "some possibly used bodyweight
+> only". **So the honest reading is that we largely cannot tell how hard these exercises were** — which is
+> still damaging, because it means the low certainty in §B.5 is partly uninterpretable rather than simply
+> discouraging.
+>
+> **What does not survive** is the inference the first draft drew from it — that a null result from an
+> unloaded exercise says little about loading. That argument needed the exercises to have been genuinely
+> unloaded, and 4% were.
+
+### C.1 The two reps worth knowing
+
+---
+
+**1. The towel heel raise — the reference exercise of Part XIX**
+
+> **Why this one.** It is the only foot exercise in this Part with a randomized trial behind it in a
+> symptomatic population, and it earns three of the four tags in §B.4 at once — it is loaded, it is
+> single-leg, and the towel pre-tensions the windlass.
+>
+> **Setup.** Stand with the **forefoot on a step** and a **rolled towel under the toes**, so the toes are
+> held extended and the heel can drop below the step. One foot. Hold something for balance.
+>
+> **The rep.** Rise onto the ball of the foot slowly, hold at the top, then lower slowly until the heel is
+> fully down — the whole available range (§A.3).
+>
+> **The dose, which the trial specified and this Part can now quote.** An earlier version said the scheme
+> "could not be retrieved" — a research failure, not a paywall: the protocol is set out, attributed to
+> Rathleff by name, in open-access papers from his own group and from a later trial using it
+> (Ibraheem et al., 2026).
+>
+> | | |
+> |---|---|
+> | **Tempo** | 3 seconds up, 2-second hold at the top, 3 seconds down |
+> | **Weeks 1–2** | 3 sets of 12 RM |
+> | **Weeks 3–4** | 4 sets of 10 RM |
+> | **Weeks 5–8** | 5 sets of 8 RM |
+> | **Frequency** | Every second day |
+> | **Load** | A backpack of books, added from week 3 |
+> | **Position** | Forefoot on a step, toes dorsiflexed over a towel, heel lowered fully |
+>
+> **Note what that destroys.** The first draft framed this Part as "adding load the literature did not use".
+> **The one trial used 8-repetition maxima with an external load** — a genuine strength prescription. The
+> field's problem is reporting (above), not that nobody ever loaded anything.
+>
+> **If you cannot do it on one leg**, start on both and progress to one as strength allows — which is what
+> the trial did.
+>
+> **What it is for.** In 48 patients with ultrasound-verified plantar fasciitis, this versus plantar-specific
+> stretching gave a **Foot Function Index 29 points lower at 3 months** (95% CI 6–52, p = 0.016) — and
+> **no difference at 1, 6 or 12 months** (Rathleff et al., 2015). Read that precisely: **it got people
+> better faster, not better in the end.**
+>
+> **And temper it further.** A later trial from the same group ran the identical exercise in 70 people for
+> 12 weeks, comparing a self-chosen dose with the fixed one. Both improved similarly — but **only four
+> participants in total reached an acceptable symptom state**, three of 35 and one of 35
+> (Riel et al., 2019). **So this is the best-evidenced foot exercise in the Part, and most people doing it
+> for heel pain were still symptomatic at twelve weeks.**
+
+---
+
+**2. The standing short-foot — the only exercise that trains the foot's own muscles as movers**
+
+> **Setup.** Stand, barefoot, weight on one foot. Toes relaxed and flat — **not curled**.
+>
+> **The rep.** Draw the ball of the foot toward the heel, shortening the arch and raising its apex, without
+> curling the toes or rolling onto the outside of the foot. Hold. Release.
+>
+> **Why standing.** Flexor digitorum brevis stiffness is about six times greater standing than sitting
+> (Shinohara et al., 2025), so the seated version trains something considerably easier. The research
+> protocols progress from sitting to standing for this reason (de Souza et al., 2023).
+>
+> **The hold.** The trials that worked used contractions of about **5 seconds** (de Souza et al., 2023).
+>
+> **Honest status.** This is the exercise behind most of §B.5's pooled findings, and those findings are
+> **low to very low certainty**. It is the best-evidenced way to earn Tag 4, which is not the same as being
+> well evidenced.
+
+---
+
+**What is deliberately not here: an arch-raising protocol.** People arrive at this subject wanting to raise a
+flat arch, and §E.5 explains why this Part does not offer one.
+
+### C.2 The technical errors, in order of how much they cost
+
+| Error | What it costs | Fix |
+|---|---|---|
+| **Doing it seated** | Trains the easier version of the same muscle; the fascia carries the arch instead (§A.4) | Stand up, one foot |
+| **Never adding load** | The error the whole literature makes — 66% of studied exercises had none (Osborne et al., 2025) | Backpack, once bodyweight is easy |
+| **Curling the toes in a short-foot** | Becomes a toe-flexor exercise and stops being an arch exercise | Toes flat and long |
+| **Rolling onto the outside of the foot** | Produces the appearance of an arch by supinating the whole foot | Keep the big-toe ball in contact |
+| **Both feet at once** | Halves the load, putting it under the recruitment threshold (§B.2) | One foot |
+| **Toes flat on the towel raise** | Loses the windlass, which is the point of the towel (§B.3) | Toes genuinely extended |
+
+### C.3 Prerequisites
+
+- **No current pain behind the inner ankle, and no heel pain under load** (§E.4).
+- **The ability to perform a single-leg heel raise.** If you cannot, that is a finding rather than a
+  programming problem — see §E.4.
+- **A floor and a towel.** Barefoot.
+
+### C.4 Cues — which work, which harm
+
+| Cue | Verdict |
+|---|---|
+| "Spread your toes" | **Use.** An earlier version of this Part called it unmeasured; it is not. Toes-spread-out produced greater abductor hallucis activity than the short-foot in mild hallux valgus (Kim et al., 2013), and an eight-week randomized trial added it to an orthosis and measured abductor hallucis cross-section and hallux valgus angle (Kim et al., 2015). **Both studies are in hallux valgus**, not flat feet |
+| "Shorten the foot, don't curl the toes" | **Use.** The whole technique of the short-foot in one line |
+| "Press the big toe down" | **Use.** It stops the compensatory roll to the outside |
+| "Slow down" | **Use.** Short-fibred muscles (§A.3) are not helped by speed here |
+| "Lift your arch" | **Careful.** Produces supination of the whole foot as often as it produces an arch |
+| "Grip the floor with your toes" | **Avoid.** That is a toe-flexor instruction, and it trains the wrong tag |
+| "Point your toes down hard" | **Avoid.** Toe-flexor work is a different tag from the short-foot (§B.4) |
+
+### C.5 The limiting links
+
+- **Balance, at first.** On a single-leg towel raise most people are limited by stability before the calf or
+  the foot, which is why holding something matters.
+- **The calf**, in the towel heel raise. It is a heel raise; the triceps surae is doing most of the work
+  (Part XII), with the towel changing what the foot does underneath.
+- **Almost never the arch muscles themselves**, unless you are doing Tag 4 work directly.
+
+### C.6 How to know it worked
+
+1. **You can add load to the towel raise at the same tempo and range.** The primary signal.
+2. **You can hold a standing short-foot longer, with the big toe still down.**
+3. **Single-leg balance improves** — the most consistently reported functional outcome in the trials
+   (de Souza et al., 2023).
+4. **What your arch height does: probably nothing visible** (§E.5), and it is the wrong thing to watch.
+5. **Before reading any of this as progress, see Part XVIII** — including the point that your first three to
+   nine sessions on a novel exercise are the measurement settling, not you.
+
+## partxixdexercisecatalogue
+
+**PART D — Exercise catalogue**
+
+Organized by arch loading class (§B.4) — by **which tags an exercise earns**, since most earn more than one.
+
+> **Two warnings govern every row.** The foot-strengthening literature is rated **low to very low certainty**
+> throughout (§B.9), and **load intensity went unreported for 76% of the exercises ever studied**
+> (Osborne et al., 2025), so for most of them we cannot tell how hard they were. The verdicts below rest on
+> mechanism, tags and a thin trial base.
+
+### D.1 Tag 4 — the foot's muscles as movers. The real gap
+
+| Exercise | What is known | Verdict |
+|---|---|---|
+| **Standing short-foot** | The exercise behind most of §B.5's pooled results; 5-second contractions, progressed sitting to standing (de Souza et al., 2023) | **The Tag 4 exercise of Part XIX.** Free, and the only common way to train these muscles as prime movers |
+| **Toe-towel curl** | The other exercise in those trials, usually seated (de Souza et al., 2023) | Fine, and easier than it should be. **Progress it to standing** |
+| **Loaded toe flexion** | 3 kg load, 200 repetitions daily, 3×/week, 8 weeks improved strength, arch shape, jump and 50 m sprint in 12 men with **no control group** (Hashimoto & Sakuraba, 2014) | **Promising but under-replicated.** Note the dose: that is far more volume than anyone prescribes |
+| **Resisted inversion with a band, seated** | No trial located for this exercise in isolation | Earns Tag 4 only. Trains tibialis posterior in the range its architecture suits (§A.3), but unloaded — **a mechanical inference** |
+
+### D.2 Tags 1 + 3 — loaded, with the windlass
+
+| Exercise | What is known | Verdict |
+|---|---|---|
+| **Towel heel raise, forefoot on a step, single leg** | **The only randomized trial here in a symptomatic population:** Foot Function Index 29 points better than stretching at 3 months, no difference by 12 (Rathleff et al., 2015) — and the trial's own position was forefoot on a step with a towel under the toes, progressing to 5 × 8 RM with a weighted backpack (§C.1) | **The reference exercise of Part XIX.** An earlier version of this Part described the step version as untested; it is the tested one |
+| **Heel raise, toes flat on the floor** | Earns Tag 1 only; loses both the toe extension and the bottom of the range | The version most people do, and the weakest of the three |
+| **Running and jumping** | Load reaches 2–3× bodyweight per foot, past the band where the intrinsics engage (§B.8) | **Already in your programme if you do them**, and the heaviest arch loading you will get |
+
+### D.3 Tags 1 + 2 — resisting collapse
+
+| Exercise | What is known | Verdict |
+|---|---|---|
+| **Single-leg step-down and single-leg squat** | Not measured for arch outcomes in any trial located | The clearest everyday Tag 2 exposure. **A mechanical inference** |
+| **Hip abductor strengthening, added to foot work** | In 52 people with flexible flatfoot, **both** arms improved navicular drop and standing arch height index from baseline; adding gluteus medius work produced the larger improvement, clearest at 4 weeks (Engkananuwat & Kanlayanaphotporn, 2023) | **Worth adding, and not the whole story.** An earlier version of this Part claimed only the hip arm moved an arch measure — both did (§E.5) |
+| **Lateral and cutting work** | Not measured | Loads the arch against collapse by mechanism |
+
+### D.4 Tag 1 only — what your lifting already does
+
+| Exercise | Verdict |
+|---|---|
+| **Squat, deadlift, lunge, split squat** | Large loads through the foot — more than the heaviest load in Kelly's rig (§B.8) — but no sideways moment to resist and no toe extension. **Tag 1 and nothing more** |
+| **Leg press** | **Also Tag 1**, not untagged. Kelly's loading rig was a seated leg press, and it recruited the intrinsics (§B.4) |
+| **Cycling, swimming** | **Untagged.** The foot is asked for nothing |
+| **Standing still** | Reaches the lowest intrinsic threshold and progresses nowhere. A standing desk is not training |
+
+### D.5 What to avoid, and why
+
+| Thing | Why |
+|---|---|
+| **Switching to minimalist shoes quickly** | Pooled analysis supports them for toe strength (Peters-Dickie et al., 2025), but the transition concentrates load on structures that have not adapted. Weeks to months, not days |
+| **Loaded foot work through heel or inner-ankle pain** | §E.4 |
+| **Chasing arch height as the outcome** | §E.5. It is the measure least likely to move and least related to symptoms |
+| **Orthoses as a substitute for everything** | They work, and they do not strengthen anything. The trials above added exercise *to* inserts rather than replacing them |
+
+### D.6 Selection rules
+
+1. **Add one Tag 4 exercise.** The standing short-foot, barefoot. That is the real gap (§B.7).
+2. **Make your heel raises single-leg with a towel under the toes.** One modification to something you
+   probably already do buys Tags 1 and 3 (§C.1).
+3. **Load it anyway.** Not because the field failed to — the one trial used 8 RM with a backpack — but because load is how anything progresses, and most of the literature never says what it used (Osborne et al., 2025).
+4. **Train standing**, because the muscle only takes over from the fascia under weight (§A.4).
+5. **Do not neglect the hip.** It outperformed foot work alone on arch measures (§D.3).
+6. **If you run, you already have Tags 1 and 3** in volume. Add Tag 4 and Tag 2, not more running.
+7. **Watch strength and arch motion, not arch height** (§B.5).
+
+## partxixecontextmodifiers
+
+**PART E — Context modifiers, pain and the arch-correction question**
+
+### E.1 Goal contexts
+
+- **Running.** The best case in this Part, and stronger than the first draft knew. Foot strengthening cut
+  **running-related injuries** over a year in a Level 1 randomized trial (Taddei et al., 2020b, in §E.6), and
+  the same group's mechanics trial raised intrinsic muscle volume and **vertical propulsive impulse**
+  (Taddei et al., 2020a).
+- **Sprinting and change of direction.** Tag 2 — resisting collapse — is loaded heavily by cutting and
+  landing, and almost nothing in a gym programme replicates it (§D.3). **A mechanical inference.**
+- **General strength training.** Weak case. Your squats and deadlifts are Tag 1 only (§D.4), so the foot is
+  genuinely under-loaded — but no trial has shown that doing anything about it helps a lifter.
+- **Correcting a flat arch.** See §E.5 before setting this as a goal.
+- **[Hypertrophy](#hypertrophy) for its own sake.** No. These muscles are invisible and small.
+
+### E.2 Body contexts
+
+- **High BMI.** Relevant here in a way it is not elsewhere: higher BMI was among the factors associated with
+  **failure of non-operative treatment** in progressive collapsing foot deformity — 32.1 against 26.8 kg/m²
+  in one retrospective cohort (Micicoi et al., 2026). **Promising but under-replicated**, Level III.
+- **Age.** Tibialis posterior dysfunction is predominantly a middle-aged-and-older presentation
+  *[consensus — no single source]*.
+- **Existing flat foot, no symptoms.** Common, and §E.5 argues it needs nothing.
+- **Previous ankle sprain.** Often leaves the peroneals and balance affected; this Part's exercises overlap
+  with that rehabilitation, which is a clinician's territory rather than this document's.
+- **Sex.** Male sex was associated with non-operative failure in the same cohort (Micicoi et al., 2026). No
+  training difference follows from it.
+
+### E.3 Equipment contexts
+
+| Equipment | What changes |
+|---|---|
+| **Nothing, barefoot** | The standing short-foot needs no equipment at all (§C.1) |
+| **A rolled towel** | Turns an ordinary heel raise into the Part's reference exercise by pre-tensioning the windlass |
+| **A loaded backpack** | The progression the literature mostly omits (§C intro) |
+| **A step** | Lets the heel raise reach more range; engages the windlass by toe position |
+| **Minimalist shoes** | Pooled analysis supports them for toe 2–5 strength (Peters-Dickie et al., 2025). Transition slowly (§D.5) |
+| **Orthoses** | They work for symptoms and strengthen nothing. The trials here added exercise **to** inserts rather than replacing them |
+
+### E.4 Pain in the foot and inner ankle
+
+#### ⚠ Red flags — stop and get assessed
+
+Ordered by urgency. Everything else in this Part assumes none of these.
+
+- **A hot, swollen, painful foot with fever or feeling unwell** — infection. Same day.
+- **A foot that is cold, pale or pulseless, or rest pain that eases when you hang the leg out of bed** —
+  arterial. Note the direction: ischaemic rest pain is classically *relieved* by dependency, so "pain no
+  position relieves" is the wrong screen for it, and an earlier version of this Part used exactly that
+  wording *[consensus — no single source]*.
+- **A sudden pop or tearing sensation**, with swelling or an inability to bear weight.
+- **Numbness, burning or reduced sensation in the sole.** That is nerve territory, not muscle — and **if you
+  have diabetes or any known neuropathy, do not do the barefoot or load-by-feel work in this Part at all**
+  without clearance, because the feedback this Part relies on is the feedback you have lost.
+- **Focal bony tenderness you can point to with one finger**, pain that builds through a session and lingers
+  at rest, in someone whose running or jumping load has recently risen — bone stress injury. **The navicular
+  is one of the high-risk sites**, where delayed diagnosis changes the outcome (McInnis & Ramey, 2016).
+- **Pain behind and below the inner ankle bone**, worse after walking or standing — the tibialis posterior
+  tendon. **The earlier this is caught the better it responds** (below), which makes it the one presentation
+  here where timing genuinely changes the answer.
+- **An arch that has visibly flattened** over months, or a heel that has drifted outward.
+- **Inability to perform a single-leg heel raise**, or a heel that fails to swing inward as you rise.
+- **A flat foot that stays flat when you stand on tiptoe, or that is flat on one side only.** A flexible flat
+  foot restores an arch on tiptoe; a rigid or unilateral one suggests a structural cause and is not a
+  training problem *[consensus — no single source]*.
+- **Heel pain in both feet at once**, particularly under 45 or alongside morning stiffness in the back or
+  other joints — inflammatory rather than mechanical *[consensus — no single source]*.
+
+
+#### Tibialis posterior tendon dysfunction, and why stage matters
+
+**It is a progression, not an event**, and the exercise evidence splits by where you catch it.
+
+> **Early stages respond, and this is a randomized trial rather than the case series an earlier draft
+> cited.** In patients with **early-stage** tibialis posterior tendinopathy randomized across orthoses alone,
+> orthoses plus stretching, and orthoses plus stretching plus **eccentric and concentric resistive
+> exercise**, all groups improved — and the **exercise group improved most** while the orthosis-only group
+> improved least (Kulig et al., 2009). The authors conclude that resistive exercise "further reduced pain
+> and improved perceptions of function".
+>
+> **Established deformity responds much less.** In a Level I randomized trial of 39 patients with **stage II**
+> dysfunction, an orthosis plus stretching was compared with an orthosis plus stretching **and
+> strengthening**. Both groups improved — and the exercise addition was **"minimally effective"**, with
+> minimal differences in self-reported outcomes and **no difference in deep posterior compartment strength**
+> (Houck et al., 2015).
+>
+> **One caution on comparing those two.** They used different staging systems. Both predate the renaming of
+> the later stages as progressive collapsing foot deformity, in which "stage II" means something different —
+> and the condition was renamed precisely because many but not all cases are driven by the tendon
+> (Myerson et al., 2020).
+
+> **The reading this document takes.** Exercise is worth a great deal in early tendon pain and much less once
+> the arch has collapsed structurally. **That asymmetry is the argument for treating inner-ankle pain early**,
+> and it is the single most useful clinical fact in the Part. It is also a surgical conversation at the later
+> stages, not a training one.
+
+#### Plantar heel pain
+
+High-load strength training beat plantar-specific stretching at three months and matched it by twelve
+(Rathleff et al., 2015, in §C.1). Both groups wore inserts. **So loading helps you get better sooner** — a
+worthwhile result, and a narrower one than "strength training cures plantar fasciitis".
+
+### E.5 "Correcting the arch" — the question this Part exists to answer
+
+This is what brings most people here. Taken apart, it has three separate claims, and they fare differently.
+
+**Claim 1: a flat arch is a problem.** **Largely not supported.** Weight-bearing CT of 561 feet compared
+normally aligned feet, **asymptomatic flat feet** and symptomatic progressive collapsing foot deformity.
+Hindfoot valgus, forefoot abduction and arch collapse **increased progressively across all three groups** —
+so arch collapse is present in feet that do not hurt. What was **unique to the symptomatic group** was
+subtalar joint subluxation and sinus tarsi impingement, and the strongest single predictor of symptoms was
+the minimum sinus tarsi distance, with a **1.9 mm threshold** separating symptomatic from asymptomatic
+(de Cesar Netto et al., 2025).
+
+> **So the thing that hurts is not the height of your arch.** It is whether the bones underneath it have
+> subluxated far enough to impinge. **An asymptomatic flat foot is a shape, not a diagnosis** — which makes
+> it the foot's version of Part XVI's finding that a rotator cuff tear on a scan is a finding rather than an
+> explanation.
+
+**Claim 2: less arch movement is better.** **Contested, and this Part has to qualify its own headline.**
+§B.5 reports that training reduces arch motion during running, which sounds unambiguously good. But a
+sit-to-stand navicular drop test in university athletes found a **U-shaped** relationship with injury:
+minimum risk at about **5.5 mm of drop**, with prevalence rising from 4.2% in the lowest-risk band to 52.4%
+in the most extreme (Domaradzki et al., 2026). **Both too much and too little foot mobility carried risk.**
+
+> **Weight that finding carefully.** It is **cross-sectional**, with injury recalled over the preceding
+> twelve months, and its own authors note the limit on causal inference. It is also carrying this Part's
+> only self-qualification on arch stiffness, which is more than one cross-sectional cohort should bear.
+> **Promising but under-replicated.**
+>
+> **What it is enough for:** refusing to treat "less arch motion" as self-evidently good. **This document
+> does not know where you start**, it is not a measurement you can take usefully at home, and "stiffen the
+> arch" is a goal with no established target.
+
+**Claim 3: strengthening raises the arch.** **Weakly established, and the first draft of this Part
+overstated the negative.** It said no foot intervention had moved an arch-height measure and that only the
+hip had. **Both halves were wrong.**
+
+> In 52 people with flexible flatfoot over eight weeks, **both** arms — foot exercise alone and foot plus
+> gluteus medius — showed significant decreases in navicular drop at 4 and 8 weeks, and **standing arch
+> height index increased significantly from baseline with both interventions**. The hip addition produced
+> the larger improvement, clearest at 4 weeks and still present at 8
+> (Engkananuwat & Kanlayanaphotporn, 2023).
+
+**Two dedicated reviews point the same way, and this Part should have cited them.** Pooling six randomized
+trials of the short-foot exercise in flatfoot, navicular drop fell by **0.23 mm** and the Foot Posture Index
+by **0.67**, both statistically significant, with **no difference in muscle hypertrophy**
+(Huang et al., 2022). Across 13 randomized trials of intrinsic foot muscle training, navicular drop and Foot
+Posture Index favoured training while **pain did not** (Jaffri et al., 2023).
+
+> **So the verdict stands, but for a better reason than the first draft gave.** Arch measures do move, by
+> **fractions of a millimetre** on surrogate indices that Peters-Dickie's reviewers describe as
+> non-validated, with no accompanying change in muscle size and no improvement in pain. **Train the foot
+> because it gets stronger and because loading helps early tendon pain** — not to reshape your arch, because
+> the shape is mostly bone and ligament (§A.1), the achievable change is tiny, and the shape is not what
+> predicts symptoms anyway (Claim 1). **Not supported as usually stated.**
+
+### E.6 Sport contexts
+
+- **Distance running.** Foot strengthening increased muscle volume and propulsive impulse
+  (Taddei et al., 2020a). The most directly applicable finding here.
+- **Running: foot training prevents injuries, and the first draft of this Part said no such trial existed.**
+  That was wrong, and the refuting paper has the same first author as a study cited throughout this Part.
+
+  > **118 recreational runners were randomized to an eight-week foot-ankle strengthening programme or a
+  > control group, then followed for twelve months with weekly reporting of distance, pace and injury. The
+  > control group was 2.42 times more likely to sustain a running-related injury** (95% CI 1.98–3.62,
+  > p = 0.035). **Level 1 evidence** (Taddei et al., 2020b).
+
+  **Set beside the wider picture, it holds up in a specific way.** Pooling nine exercise-based prevention
+  trials in endurance runners — 1,904 participants — there was **no overall effect** on injury risk
+  (p = 0.110) or rate (p = 0.329). But a post-hoc analysis restricted to **supervised** programmes found
+  injury risk significantly lower, and the authors conclude supervision "may be essential ... possibly due
+  to increased compliance" (Wu et al., 2024). **Taddei's programme was supervised**, which is consistent
+  rather than contradictory. **Moderate evidence**, for supervised foot training in runners.
+
+- **Field and court sport.** Tag 2 loading — cutting, landing, decelerating — is heavy and frequent, and
+  nothing in a gym replicates it. **No trial of foot-specific training for injury prevention in these sports
+  was found**, and that narrower claim survived re-searching. Two adjacent things do exist: foot **orthoses**
+  have a randomized trial in military initial training (Franklyn-Miller et al., 2011), and multi-component
+  **neuromuscular** programmes reduce ankle sprains in youth soccer and basketball (Owoeye et al., 2018).
+  Neither is foot-muscle training.
+- **Barefoot and minimalist training.** Supported for toe strength in pooled analysis
+  (Peters-Dickie et al., 2025), with a slow transition (§D.5).
+- **Lifting only.** Your feet are the least-loaded part of your programme relative to their capacity (§D.4),
+  and also the part with the least evidence that doing something about it matters.
+
+### E.7 Session and cycle contexts
+
+- **Where in the session.** Anywhere. The loads are small and the fatigue cost is negligible.
+  **Judgement.**
+- **Frequency tolerance.** High. The heel-raise trial used an every-second-day protocol
+  (Rathleff et al., 2015), and the intrinsic-muscle trials ran three times a week or daily
+  (de Souza et al., 2023).
+- **[Deloads](#deload).** Nothing specific; drop it and lose nothing.
+- **Barefoot time** counts as low-grade exposure, and costs nothing to accumulate.
+
+### E.8 The context decision table
+
+| If… | Then… |
+|---|---|
+| You want the one thing this Part recommends | Single-leg heel raise, forefoot on a step, towel under the toes, loaded to 8 RM (§C.1) |
+| You run | **Do it.** A supervised eight-week programme cut injuries 2.42-fold over a year (§E.6) |
+| You only lift | Your feet get plenty of load and almost no sideways challenge. Add Tag 2 and Tag 4, not more load (§B.7) |
+| You have a flat arch and no pain | **Nothing is required.** Train the foot if you want it stronger, not to change its shape (§E.5) |
+| You have pain behind the inner ankle | **Assessment, early** — this is the one where timing changes the answer (§E.4) |
+| Your heel hurts worst on the first steps of the day | Loading helps you recover sooner, not better (§E.4) |
+| Your arch has visibly collapsed over months | **Assessment, not programming** (§E.4) |
+| You want to switch to minimalist shoes | Supported for toe strength; transition over months (§D.5) |
+
+## partxixfprogramming
+
+**PART F — Programming**
+
+> **Read this first.** The foot has more trials than the hip flexors and less *usable* dosing information
+> than almost anything else in this document, for one specific reason: **across 87 studies and 300
+> exercises, load intensity went unreported for 76%, and of those that reported one, only 2% reached 60% of
+> a one-repetition maximum** — with median reporting completeness on the CERT checklist at **31% of items**
+> (Osborne et al., 2025). **That is a reporting problem more than a prescription problem**, and it means most
+> of the literature cannot tell you how hard to work.
+>
+> **One exception, and it is this Part's reference exercise.** Rathleff's heel-raise protocol is fully
+> specified — 3 × 12 RM to 5 × 8 RM over eight weeks, 3 s up, 2 s hold, 3 s down, every second day, with a
+> weighted backpack (§C.1). Where §F departs from that, it says so.
+
+### F.1 Volume
+
+**What is known.** The intrinsic-muscle trials used **5-second contractions, progressed from sitting to
+standing**, typically 3 sets of 10, three times a week (de Souza et al., 2023). The heel-raise trial is
+specified in full in §C.1 (Rathleff et al., 2015). The **injury-prevention** trial used an eight-week
+supervised foot-ankle programme followed by remote supervision across a year (Taddei et al., 2020b). And
+the one study with a performance outcome used **200 repetitions a day against 3 kg, three times a week**
+(Hashimoto & Sakuraba, 2014) — an order of magnitude more volume than any of the others.
+
+**What is judgement.**
+
+| Class | Direct sets per week | Where they come from |
+|---|---|---|
+| **Tag 4** (foot muscles as movers) | **6–9** — e.g. 3 sets, 3 days | The real gap (§B.7); matches the trials' frequency |
+| **Tags 1 + 3** (loaded, windlass) | **3–6** | The towel heel raise. If you already do calf work, modify it rather than add |
+| **Tags 1 + 2** (resisting collapse) | **0 extra if you run or cut**; otherwise some single-leg work | §D.3 |
+
+**The counting rule.** If you run, Tags 1 and 3 are covered in volume no gym exercise matches (§B.8). What
+you are adding is Tag 4, and some Tag 2 if your sport does not supply it.
+
+### F.2 Frequency
+
+**Three times a week, or every second day.** Both are what the trials used, and the loads are small enough
+that recovery is not the constraint. **Judgement**, consistent with the protocols.
+
+### F.3 Load — the part this Part insists on
+
+> **Load is the variable the literature least often reports** — unstated for 76% of exercises
+> (Osborne et al., 2025) — so the field's low certainty (§B.9) is partly a reporting artefact rather than a
+> verdict on loading. That is a reason to report your own load, not a reason to assume nobody has tried.
+
+**The progression, as judgement:**
+
+1. **Bodyweight, one foot** — about 1× bodyweight through the arch, the bottom of the band where the
+   intrinsics engage (§B.2).
+2. **Add external load** — a backpack on the towel heel raise, until a [hard set](#hardset) is 8–12 repetitions.
+3. **Hold longer, not harder, on the short-foot** — 5 seconds is the trialled contraction; extend it before
+   trying to add resistance to a movement that has none to add.
+
+**Where to stop:** there is no known ceiling. An earlier version of this Part claimed the arch's working
+range "tops out around 150% of bodyweight", but 150% was simply **the most that loading rig could apply**,
+and activation was **still rising at that load** (Kelly et al., 2014). Running already exceeds it (§B.8).
+Stop where form and symptoms say so.
+
+### F.4 Progression order
+
+1. **Position** — seated to standing (§A.4).
+2. **Stance** — two feet to one.
+3. **Load** — bodyweight to backpack.
+4. **Range and the windlass** — floor to a step.
+
+### F.5 What a week looks like
+
+| | Prescription | Where |
+|---|---|---|
+| **Minimum useful** | 3 × 8–12 single-leg towel heel raises, plus 3 × 5 s standing short-foot per foot, 3 days a week | After lower-body work, or any time |
+| **If you run or play field sport** | The same, minus any extra Tag 1 — you have that covered | On easy days |
+| **If you have had inner-ankle pain and been cleared** | Slow, progressive, and a clinician's programme rather than this one | §E.4 |
+
+### F.6 What this Part does not prescribe
+
+- **An arch-raising protocol.** §E.5.
+- **A rehabilitation programme** for tibialis posterior dysfunction or plantar heel pain. Those are §E.4 and
+  belong to a clinician.
+- **A footwear transition plan**, beyond "slowly" (§D.5).
+
+## partxixgsynthesis
+
+**PART G — Synthesis, and what the evidence does not support**
+
+### G.1 The rules that hold
+
+1. **Four things hold the arch up — bone, ligament and fascia, the intrinsics, and the extrinsics — and
+   only the last two can be trained** (§A.1).
+2. **Tibialis posterior has the largest force capacity of any muscle measured below the knee outside the
+   triceps surae**, a PCSA of 14.4 cm² — in a dataset that excluded the foot's own intrinsic
+   muscles (Ward et al., 2009a).
+3. **Its fibre-to-muscle-length ratio is 0.12**, essentially soleus's, so its available range is short. **Use
+   all of it** rather than deliberately training it shorter (§A.3).
+4. **The muscles genuinely control the arch:** stimulating the plantar intrinsics shortens and raises it, and
+   also inverts the calcaneus (Kelly et al., 2014).
+5. **They switch on at measured thresholds of 50%, 75% and 100% of body mass** for flexor digitorum brevis,
+   quadratus plantae and abductor hallucis — low enough that ordinary standing reaches the first
+   (Kelly et al., 2014), and a tibial nerve block in quiet bilateral standing increases navicular drop
+   (Fiolkowski et al., 2003).
+6. **Standing, flexor digitorum brevis is about six times stiffer than the fascia beside it**
+   (Shinohara et al., 2025) — a muscle-to-fascia ratio, not a posture ratio. **Train standing.**
+7. **The windlass may not be what stiffens the foot for push-off.** Loading human feet in vivo, fascia strain
+   could not explain the stiffening; active plantarflexor contraction did (Farris et al., 2020).
+8. **Training raises foot strength and reduces arch motion during running**, at low to very low certainty
+   (Peters-Dickie et al., 2025), and raised intrinsic muscle volume and propulsive impulse in 28 runners
+   (Taddei et al., 2020a).
+9. **Supervised foot training cut running injuries 2.42-fold over a year** in 118 runners, Level 1
+   (Taddei et al., 2020b).
+10. **Load is not the lifter's problem.** A squat puts more through the foot than the heaviest load in
+    Kelly's rig; what gym work lacks is a sideways moment to resist and the foot as a prime mover (§B.7).
+11. **The reference exercise has a fully specified protocol** — 3 × 12 RM to 5 × 8 RM over eight weeks,
+    3 s up, 2 s hold, 3 s down, every second day, weighted (§C.1).
+
+### G.2 What the evidence does **not** support
+
+**That a flat arch is a problem in itself.** Arch collapse rises steadily from normally aligned feet through
+**asymptomatic** flat feet to symptomatic deformity. What is unique to the symptomatic feet is subtalar
+subluxation and sinus tarsi impingement, best discriminated by a **1.9 mm** minimum sinus tarsi distance
+(de Cesar Netto et al., 2025). **An asymptomatic, flexible flat foot is a shape, not a diagnosis** — though
+that study is cross-sectional, and a rigid or unilateral flat foot is a different matter (§E.4).
+
+**That strengthening meaningfully reshapes the arch.** It does move the surrogate measures, which an earlier
+draft of this Part wrongly denied: **both** foot-only and foot-plus-hip training raised standing arch height
+index from baseline (Engkananuwat & Kanlayanaphotporn, 2023), and pooled across six trials navicular drop
+fell **0.23 mm** and Foot Posture Index **0.67** (Huang et al., 2022). **Those are fractions of a millimetre
+on non-validated indices, with no change in muscle size and none in pain** (Jaffri et al., 2023). The verdict
+stands; the reason is magnitude, not absence. **Not supported as usually stated.**
+
+**That less arch motion is always better.** A navicular drop test found a **U-shaped** injury relationship
+with minimum risk near 5.5 mm (Domaradzki et al., 2026) — cross-sectional, with recalled injury, and
+carrying more weight in this Part than one such cohort should.
+
+**That exercise rescues an established flat foot.** In **early** tibialis posterior tendinopathy, adding
+resistive exercise to orthoses beat orthoses alone (Kulig et al., 2009). In **stage II** disease, adding
+strengthening to an orthosis was "minimally effective" with no strength change (Houck et al., 2015). Catch it
+early; the two trials used different staging systems (Myerson et al., 2020).
+
+**That strength training cures plantar heel pain.** It gets you better **sooner** — 29 Foot Function Index
+points better than stretching at three months, no difference at twelve (Rathleff et al., 2015) — and in 70
+people doing the same exercise for twelve weeks, **only four reached an acceptable symptom state**
+(Riel et al., 2019).
+
+**That two-footed standing does nothing for the foot.** An earlier draft said so. It reaches the lowest
+intrinsic threshold (§B.2). What it does not do is progress.
+
+**That the foot literature was never loaded.** An earlier draft claimed two-thirds of studied exercises
+carried no load. The review's finding is that load **went unreported** for 76% and was explicitly absent in
+**4%** (Osborne et al., 2025) — a reporting failure, which makes the field's low certainty partly
+uninterpretable rather than simply discouraging. **Most of §F remains judgement, and it says so.**
+
+**That foot training prevents injury in field or court sport.** Searched and not found, and that narrow claim
+survived re-searching — unlike the running version of it, which this Part first denied and which is now
+§G.1 item 9. The adjacent evidence is foot **orthoses** (Franklyn-Miller et al., 2011) and multi-component
+**neuromuscular** programmes (Owoeye et al., 2018), neither of which trains the foot's muscles.
+
+### G.3 The one-paragraph version
+
+Your arch is a spring, and most of what it does is passive — bone shape and the plantar fascia, neither of
+which you can train. What you *can* train is the muscle layer, and it is better equipped than you would
+guess: **tibialis posterior has more force capacity than any muscle below the knee except your calf**, and it
+inserts on the keystone of the arch. Those muscles really do control it — stimulate them electrically and the
+arch shortens and rises — and they switch on **earlier than this document first claimed**, from about half a
+bodyweight through the foot, which standing on two feet already supplies. That correction matters, because it
+means **load is not what a lifter is short of**: squatting twice bodyweight drives more through each foot than
+the heaviest load any laboratory has applied to one. What gym work almost never supplies is a **sideways**
+moment for the arch to resist, and the foot's own muscles acting as **prime movers** rather than
+stabilisers. So the two things worth adding are a single-leg heel raise with the forefoot on a step and a
+towel under the toes — loaded to about eight hard repetitions, which is exactly what the one good trial used
+— and a standing short-foot exercise. The best reason to bother is not the one people come looking for: a
+supervised eight-week foot programme **cut running injuries by a factor of 2.42 over a year**, and foot
+training raises propulsion. What it will **not** do is give you a higher arch. Arch measures move by
+fractions of a millimetre on indices nobody has validated, with no change in pain — and a flat foot that
+does not hurt is a shape rather than a diagnosis, because arch collapse is just as present in feet with no
+symptoms, and what separates the painful ones is whether the bones underneath have subluxated far enough to
+impinge.
+
+# partxxmasterglossary
+
+**Part XX — Master Glossary**
 
 Every technical term used anywhere in this document, defined formally with formula and units where
 the quantity is physically or operationally defined.
@@ -25121,126 +26165,127 @@ plain same-file heading anchor.
 
 | Term | Layer | Term | Layer |
 |---|---|---|---|
-| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Medial epicondylalgia ("golfer's elbow")](#medialepicondylalgia) | 13 |
-| [45° back extension (hip extension)](#backextension) | 12 | [Medial epicondyle](#medialepicondyle) | 3 |
-| [Ab wheel](#abwheel) | 12 | [Median nerve](#mediannerve) | 9 |
-| [Abdominal wall](#abdominalwall) | 9 | [Middle (transverse) trapezius](#middletrapezius) | 9 |
-| [Accessory nerve (CN XI)](#accessorynerve) | 9 | [Middle deltoid](#middledeltoid) | 9 |
-| [Achilles tendinopathy](#achillestendinopathy) | 13 | [Minimal detectable change](#minimaldetectablechange) | 11 |
-| [Achilles tendon](#achillestendon) | 3 | [Mixed grip](#mixedgrip) | 11 |
-| [ACL reconstruction](#aclreconstruction) | 13 | [Moment arm](#momentarm) | 2 |
-| [Acromioclavicular joint (AC joint)](#acromioclavicularjoint) | 3 | [Momentary (muscular) failure](#momentaryfailure) | 10 |
-| [Acromion](#acromion) | 3 | [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 |
-| [Adductor brevis](#adductorbrevis) | 8 | [Motor unit](#motorunit) | 6 |
-| [Adductor loading mode (adduction-loaded, extension-loaded, unloaded)](#adductorloadingmode) | 11 | [Multifidus](#multifidus) | 9 |
-| [Adductor longus](#adductorlongus) | 8 | [Muscle thickness](#musclethickness) | 5 |
-| [Adductor magnus](#adductormagnus) | 8 | [Muscle volume](#musclevolume) | 5 |
-| [Adductor strain](#adductorstrain) | 13 | [Musculocutaneous nerve](#musculocutaneousnerve) | 9 |
-| [Adductor tubercle](#adductortubercle) | 3 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
-| [Adductor-related groin pain](#adductorrelatedgroinpain) | 13 | [Net joint moment](#netjointmoment) | 11 |
-| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
-| [Anconeus](#anconeus) | 9 | [Nordic hamstring curl](#nordiccurl) | 12 |
-| [Androgen receptor](#androgenreceptor) | 7 | [Nuchal ligament](#nuchalligament) | 3 |
-| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Obturator nerve](#obturatornerve) | 8 |
-| [Ankle plantar flexion](#ankleplantarflexion) | 4 | [Olecranon](#olecranon) | 3 |
-| [Annular pulley](#annularpulley) | 3 | [Open kinetic chain exercise](#openkineticchain) | 11 |
-| [Anterior deltoid](#anteriordeltoid) | 9 | [Overhead press (shoulder press, military press)](#overheadpress) | 12 |
-| [Aponeurosis](#aponeurosis) | 3 | [Overhead triceps extension](#overheadtricepsextension) | 12 |
-| [Apophysis](#apophysis) | 3 | [Painful arc](#painfularc) | 13 |
-| [Attentional focus](#attentionalfocus) | 10 | [Pallof press](#pallofpress) | 12 |
-| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Passive tension](#passivetension) | 5 |
-| [Axillary nerve](#axillarynerve) | 9 | [Patella (kneecap)](#patella) | 3 |
-| [Back squat](#backsquat) | 12 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
-| [Bar position](#barposition) | 11 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
-| [Barbell glute bridge](#glutebridge) | 12 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
-| [Barbell hip thrust](#hipthrust) | 12 | [Patellofemoral pain](#patellofemoralpain) | 13 |
-| [Bayes factor (BF)](#bayesfactor) | 9 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
-| [Bayesian cable curl](#bayesiancurl) | 12 | [Pectineus](#pectineus) | 8 |
-| [Belt squat](#beltsquat) | 12 | [Pectoral nerves (lateral and medial)](#pectoralnerves) | 9 |
-| [Bench inclination](#benchinclination) | 11 | [Pectoralis major](#pectoralismajor) | 9 |
-| [Bench press](#benchpress) | 12 | [Pectoralis major tear (pectoralis major rupture)](#pectoralismajortear) | 13 |
-| [Biacromial width](#biacromialwidth) | 3 | [Pectoralis major, abdominal part (the "lower chest")](#pectoralisabdominalhead) | 9 |
-| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Pectoralis major, clavicular head (the "upper chest")](#pectoralisclavicularhead) | 9 |
-| [Biceps brachii](#bicepsbrachii) | 9 | [Pectoralis major, sternocostal head (the "mid chest")](#pectoralissternocostalhead) | 9 |
-| [Biceps curl](#bicepscurl) | 12 | [Pectoralis minor](#pectoralisminor) | 9 |
-| [Biceps femoris, long head (BFlh)](#bicepsfemorislonghead) | 8 | [Pelvic floor](#pelvicfloor) | 9 |
-| [Biceps femoris, short head (BFsh)](#bicepsfemorisshorthead) | 8 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
-| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Pelvis](#pelvis) | 3 |
-| [Biering-Sørensen test](#bieringsorensentest) | 9 | [Pennation angle](#pennationangle) | 5 |
-| [Bilaminar tendon](#bilaminartendon) | 3 | [Plane of elevation](#planeofelevation) | 4 |
-| [Brachialis](#brachialis) | 9 | [Plank](#plank) | 12 |
-| [Brachioradialis](#brachioradialis) | 9 | [Plate pinch](#platepinch) | 12 |
-| [Cable crunch](#cablecrunch) | 12 | [Posterior deltoid](#posteriordeltoid) | 9 |
-| [Cable or machine kickback (standing hip extension)](#kickback) | 12 | [Posterior oblique sling](#posteriorobliquesling) | 8 |
-| [Cable pull-through](#cablepullthrough) | 12 | [Preacher curl](#preachercurl) | 12 |
-| [Calf raise](#calfraise) | 12 | [Progressive overload](#progressiveoverload) | 10 |
-| [Carpal tunnel](#carpaltunnel) | 3 | [Pronated (overhand) grip](#pronatedgrip) | 11 |
-| [Carpal tunnel syndrome](#carpaltunnelsyndrome) | 13 | [Prone Y raise (prone overhead arm raise)](#proneyraise) | 12 |
-| [Chest fly (dumbbell fly, cable fly or crossover, pec deck)](#chestfly) | 12 | [Proximity to failure](#proximitytofailure) | 10 |
-| [Chin-up](#chinup) | 12 | [Psoas major](#psoasmajor) | 9 |
-| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Pubic ramus](#pubicramus) | 3 |
-| [Clavicle (collarbone)](#clavicle) | 3 | [Pull-up](#pullup) | 12 |
-| [Close-grip bench press](#closegripbenchpress) | 12 | [Pullover](#pullover) | 12 |
-| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Push-up](#pushup) | 12 |
-| [Coefficient of variation (CV)](#coefficientofvariation) | 11 | [Push-up plus](#pushupplus) | 12 |
-| [Compound exercise](#compound) | 11 | [Quadratus lumborum](#quadratuslumborum) | 9 |
-| [Concentric contraction](#concentriccontraction) | 6 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
-| [Contralateral](#contralateral) | 1 | [Quadriceps tendon](#quadricepstendon) | 3 |
-| [Copenhagen adduction exercise](#copenhagenadduction) | 12 | [Radial nerve](#radialnerve) | 9 |
-| [Coracobrachialis](#coracobrachialis) | 9 | [Radial tuberosity](#radialtuberosity) | 3 |
-| [Coracoid process](#coracoidprocess) | 3 | [Range of motion (ROM)](#rangeofmotion) | 4 |
-| [Costal cartilage](#costalcartilage) | 3 | [Rectus abdominis](#rectusabdominis) | 9 |
-| [Crunch](#crunch) | 12 | [Rectus femoris](#rectusfemoris) | 8 |
-| [Cuff loading class (rotation-loaded, compression-, traction-, elevation-loaded, end-range restraint)](#cuffloadingclass) | 11 | [Rectus sheath](#rectussheath) | 3 |
-| [Dead hang](#deadhang) | 12 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
-| [Deadlift](#deadlift) | 12 | [Repetition (rep)](#repetition) | 10 |
-| [Deep hip external rotators](#hipexternalrotators) | 8 | [Resistance profile](#resistanceprofile) | 11 |
-| [Deload](#deload) | 10 | [Reverse curl](#reversecurl) | 12 |
-| [Deltoid](#deltoid) | 9 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 12 |
-| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Reverse hyperextension](#reversehyperextension) | 12 |
-| [Diaphragm](#diaphragm) | 9 | [Reverse Nordic curl](#reversenordic) | 12 |
-| [Diastasis recti](#diastasisrecti) | 13 | [Reverse wrist curl](#reversewristcurl) | 12 |
-| [Dip (parallel-bar dip)](#dip) | 12 | [Rhomboids (major and minor)](#rhomboids) | 9 |
-| [Distal biceps tendon rupture](#distalbicepstendonrupture) | 13 | [RIR (repetitions in reserve)](#rir) | 10 |
-| [Distal clavicular osteolysis ("weightlifter's shoulder")](#distalclavicularosteolysis) | 13 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
-| [Distal triceps tendon rupture](#distaltricepsrupture) | 13 | [Rotator cuff](#rotatorcuff) | 9 |
-| [Dorsal scapular nerve](#dorsalscapularnerve) | 9 | [Rotator cuff muscles](#rotatorcuffmuscles) | 9 |
-| [Dose–response relationship](#doseresponserelationship) | 10 | [Rotator cuff tear](#rotatorcufftear) | 13 |
-| [Double progression](#doubleprogression) | 10 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
-| [Dumbbell bench press](#dumbbellbenchpress) | 12 | [Row](#row) | 12 |
-| [Eccentric contraction](#eccentriccontraction) | 6 | [RPE (rating of perceived exertion)](#rpe) | 10 |
-| [Effect size](#effectsize) | 9 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
-| [Effort tolerance](#efforttolerance) | 10 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
-| [Elbow extension](#elbowextension) | 4 | [Sacrum](#sacrum) | 3 |
-| [Elbow flexion](#elbowflexion) | 4 | [Sagittal plane](#sagittalplane) | 1 |
-| [Elbow flexor loading class (stretch-loaded, half-loaded, stretch-free)](#elbowflexorloadingclass) | 11 | [Sarcomere](#sarcomere) | 5 |
-| [Elbow flexors](#elbowflexors) | 8 | [Sartorius](#sartorius) | 9 |
-| [Elbow path](#elbowpath) | 11 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
-| [EMG (electromyography)](#emg) | 9 | [Scapula (shoulder blade)](#scapula) | 3 |
-| [Erector spinae](#erectorspinae) | 8 | [Scapular (scapulothoracic) muscles](#scapularmuscles) | 9 |
-| [Erector spinae aponeurosis](#erectorspinaeaponeurosis) | 3 | [Scapular anterior tilt](#scapularanteriortilt) | 4 |
-| [Excursion](#excursion) | 4 | [Scapular depression](#scapulardepression) | 4 |
-| [Exercise specification](#exercisespecification) | 11 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
-| [Extensor carpi radialis brevis (ECRB)](#extensorcarpiradialisbrevis) | 9 | [Scapular dyskinesis](#scapulardyskinesis) | 13 |
-| [External oblique](#externaloblique) | 9 | [Scapular elevation](#scapularelevation) | 4 |
-| [External rotation exercise](#externalrotationexercise) | 12 | [Scapular internal and external rotation](#scapularinternalrotation) | 4 |
-| [Face pull](#facepull) | 12 | [Scapular load class (elevation-, depression-, retraction-, protraction-, upward-rotation-, downward-rotation-loaded)](#scapularloadclass) | 11 |
-| [Farmer's walk](#farmerswalk) | 12 | [Scapular posterior tilt](#scapularposteriortilt) | 4 |
-| [Fascicle length](#fasciclelength) | 5 | [Scapular protraction (abduction)](#scapularprotraction) | 4 |
-| [Femoral nerve](#femoralnerve) | 8 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
-| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
-| [Femur (thigh bone)](#femur) | 3 | [Scapular winging](#scapularwinging) | 13 |
-| [Finger flexion](#fingerflexion) | 4 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
-| [Finger pulley injury](#pulleyinjury) | 13 | [Scapulothoracic articulation](#scapulothoracicarticulation) | 3 |
-| [Flexion relaxation](#flexionrelaxation) | 11 | [Seated calf raise](#seatedcalfraise) | 12 |
-| [Flexor digitorum profundus (FDP)](#flexordigitorumprofundus) | 9 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
-| [Flexor digitorum superficialis (FDS)](#flexordigitorumsuperficialis) | 9 | [Semimembranosus (SM)](#semimembranosus) | 8 |
-| [Force–length relationship](#forcelengthrelationship) | 5 | [Semitendinosus (ST)](#semitendinosus) | 8 |
-| [Forearm muscles](#forearmmuscles) | 9 | [Serratus anterior](#serratusanterior) | 8 |
-| [Forearm pronation](#forearmpronation) | 4 | [Sesamoid bone](#sesamoid) | 3 |
-| [Forearm supination](#forearmsupination) | 4 | [Set](#set) | 10 |
-| [Front raise](#frontraise) | 12 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
-| [Front squat](#frontsquat) | 12 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
+| [1RM (one-repetition maximum)](#onerepmax) | 10 | [Median nerve](#mediannerve) | 9 |
+| [45° back extension (hip extension)](#backextension) | 12 | [Middle (transverse) trapezius](#middletrapezius) | 9 |
+| [Ab wheel](#abwheel) | 12 | [Middle deltoid](#middledeltoid) | 9 |
+| [Abdominal wall](#abdominalwall) | 9 | [Minimal detectable change](#minimaldetectablechange) | 11 |
+| [Accessory nerve (CN XI)](#accessorynerve) | 9 | [Mixed grip](#mixedgrip) | 11 |
+| [Achilles tendinopathy](#achillestendinopathy) | 13 | [Moment arm](#momentarm) | 2 |
+| [Achilles tendon](#achillestendon) | 3 | [Momentary (muscular) failure](#momentaryfailure) | 10 |
+| [ACL reconstruction](#aclreconstruction) | 13 | [Monoarticular (single-joint) muscle](#monoarticularmuscle) | 5 |
+| [Acromioclavicular joint (AC joint)](#acromioclavicularjoint) | 3 | [Motor unit](#motorunit) | 6 |
+| [Acromion](#acromion) | 3 | [Multifidus](#multifidus) | 9 |
+| [Adductor brevis](#adductorbrevis) | 8 | [Muscle thickness](#musclethickness) | 5 |
+| [Adductor loading mode (adduction-loaded, extension-loaded, unloaded)](#adductorloadingmode) | 11 | [Muscle volume](#musclevolume) | 5 |
+| [Adductor longus](#adductorlongus) | 8 | [Musculocutaneous nerve](#musculocutaneousnerve) | 9 |
+| [Adductor magnus](#adductormagnus) | 8 | [MVIC (maximal voluntary isometric contraction)](#mvic) | 9 |
+| [Adductor strain](#adductorstrain) | 13 | [Net joint moment](#netjointmoment) | 11 |
+| [Adductor tubercle](#adductortubercle) | 3 | [Neuromuscular compartment](#neuromuscularcompartment) | 6 |
+| [Adductor-related groin pain](#adductorrelatedgroinpain) | 13 | [Nordic hamstring curl](#nordiccurl) | 12 |
+| [Anatomical cross-sectional area (ACSA)](#anatomicalcsa) | 5 | [Nuchal ligament](#nuchalligament) | 3 |
+| [Anconeus](#anconeus) | 9 | [Obturator nerve](#obturatornerve) | 8 |
+| [Androgen receptor](#androgenreceptor) | 7 | [Olecranon](#olecranon) | 3 |
+| [Ankle dorsiflexion](#ankledorsiflexion) | 4 | [Open kinetic chain exercise](#openkineticchain) | 11 |
+| [Ankle plantar flexion](#ankleplantarflexion) | 4 | [Overhead press (shoulder press, military press)](#overheadpress) | 12 |
+| [Annular pulley](#annularpulley) | 3 | [Overhead triceps extension](#overheadtricepsextension) | 12 |
+| [Anterior deltoid](#anteriordeltoid) | 9 | [Painful arc](#painfularc) | 13 |
+| [Aponeurosis](#aponeurosis) | 3 | [Pallof press](#pallofpress) | 12 |
+| [Apophysis](#apophysis) | 3 | [Passive tension](#passivetension) | 5 |
+| [Arch loading class (compression-, collapse-resisting, windlass-, directly loaded)](#archloadingclass) | 11 | [Patella (kneecap)](#patella) | 3 |
+| [Attentional focus](#attentionalfocus) | 10 | [Patellar tendinopathy ("jumper's knee")](#patellartendinopathy) | 13 |
+| [Axillary arch (Langer's arch)](#axillaryarch) | 8 | [Patellar tendon (patellar ligament)](#patellartendon) | 3 |
+| [Axillary nerve](#axillarynerve) | 9 | [Patellofemoral joint](#patellofemoraljoint) | 3 |
+| [Back squat](#backsquat) | 12 | [Patellofemoral pain](#patellofemoralpain) | 13 |
+| [Bar position](#barposition) | 11 | [PCSA (physiological cross-sectional area)](#pcsa) | 5 |
+| [Barbell glute bridge](#glutebridge) | 12 | [Pectineus](#pectineus) | 8 |
+| [Barbell hip thrust](#hipthrust) | 12 | [Pectoral nerves (lateral and medial)](#pectoralnerves) | 9 |
+| [Bayes factor (BF)](#bayesfactor) | 9 | [Pectoralis major](#pectoralismajor) | 9 |
+| [Bayesian cable curl](#bayesiancurl) | 12 | [Pectoralis major tear (pectoralis major rupture)](#pectoralismajortear) | 13 |
+| [Belt squat](#beltsquat) | 12 | [Pectoralis major, abdominal part (the "lower chest")](#pectoralisabdominalhead) | 9 |
+| [Bench inclination](#benchinclination) | 11 | [Pectoralis major, clavicular head (the "upper chest")](#pectoralisclavicularhead) | 9 |
+| [Bench press](#benchpress) | 12 | [Pectoralis major, sternocostal head (the "mid chest")](#pectoralissternocostalhead) | 9 |
+| [Biacromial width](#biacromialwidth) | 3 | [Pectoralis minor](#pectoralisminor) | 9 |
+| [Biarticular (two-joint) muscle](#biarticularmuscle) | 5 | [Pelvic floor](#pelvicfloor) | 9 |
+| [Biceps brachii](#bicepsbrachii) | 9 | [Pelvic tilt (anterior and posterior)](#pelvictilt) | 4 |
+| [Biceps curl](#bicepscurl) | 12 | [Pelvis](#pelvis) | 3 |
+| [Biceps femoris, long head (BFlh)](#bicepsfemorislonghead) | 8 | [Pennation angle](#pennationangle) | 5 |
+| [Biceps femoris, short head (BFsh)](#bicepsfemorisshorthead) | 8 | [Plane of elevation](#planeofelevation) | 4 |
+| [Bicipital (intertubercular) groove](#bicipitalgroove) | 3 | [Plank](#plank) | 12 |
+| [Biering-Sørensen test](#bieringsorensentest) | 9 | [Plantar fascia (plantar aponeurosis)](#plantarfascia) | 9 |
+| [Bilaminar tendon](#bilaminartendon) | 3 | [Plantar heel pain (plantar fasciitis)](#plantarheelpain) | 13 |
+| [Brachialis](#brachialis) | 9 | [Plate pinch](#platepinch) | 12 |
+| [Brachioradialis](#brachioradialis) | 9 | [Posterior deltoid](#posteriordeltoid) | 9 |
+| [Cable crunch](#cablecrunch) | 12 | [Posterior oblique sling](#posteriorobliquesling) | 8 |
+| [Cable or machine kickback (standing hip extension)](#kickback) | 12 | [Preacher curl](#preachercurl) | 12 |
+| [Cable pull-through](#cablepullthrough) | 12 | [Progressive overload](#progressiveoverload) | 10 |
+| [Calf raise](#calfraise) | 12 | [Pronated (overhand) grip](#pronatedgrip) | 11 |
+| [Carpal tunnel](#carpaltunnel) | 3 | [Prone Y raise (prone overhead arm raise)](#proneyraise) | 12 |
+| [Carpal tunnel syndrome](#carpaltunnelsyndrome) | 13 | [Proximity to failure](#proximitytofailure) | 10 |
+| [Chest fly (dumbbell fly, cable fly or crossover, pec deck)](#chestfly) | 12 | [Psoas major](#psoasmajor) | 9 |
+| [Chin-up](#chinup) | 12 | [Pubic ramus](#pubicramus) | 3 |
+| [Chronic non-specific low back pain](#lowbackpain) | 13 | [Pull-up](#pullup) | 12 |
+| [Clavicle (collarbone)](#clavicle) | 3 | [Pullover](#pullover) | 12 |
+| [Close-grip bench press](#closegripbenchpress) | 12 | [Push-up](#pushup) | 12 |
+| [Closed kinetic chain exercise](#closedkineticchain) | 11 | [Push-up plus](#pushupplus) | 12 |
+| [Coefficient of variation (CV)](#coefficientofvariation) | 11 | [Quadratus lumborum](#quadratuslumborum) | 9 |
+| [Compound exercise](#compound) | 11 | [Quadriceps femoris](#quadricepsfemoris) | 8 |
+| [Concentric contraction](#concentriccontraction) | 6 | [Quadriceps tendon](#quadricepstendon) | 3 |
+| [Contralateral](#contralateral) | 1 | [Radial nerve](#radialnerve) | 9 |
+| [Copenhagen adduction exercise](#copenhagenadduction) | 12 | [Radial tuberosity](#radialtuberosity) | 3 |
+| [Coracobrachialis](#coracobrachialis) | 9 | [Range of motion (ROM)](#rangeofmotion) | 4 |
+| [Coracoid process](#coracoidprocess) | 3 | [Rectus abdominis](#rectusabdominis) | 9 |
+| [Costal cartilage](#costalcartilage) | 3 | [Rectus femoris](#rectusfemoris) | 8 |
+| [Crunch](#crunch) | 12 | [Rectus sheath](#rectussheath) | 3 |
+| [Cuff loading class (rotation-loaded, compression-, traction-, elevation-loaded, end-range restraint)](#cuffloadingclass) | 11 | [Regional hypertrophy](#regionalhypertrophy) | 7 |
+| [Dead hang](#deadhang) | 12 | [Repetition (rep)](#repetition) | 10 |
+| [Deadlift](#deadlift) | 12 | [Resistance profile](#resistanceprofile) | 11 |
+| [Deep hip external rotators](#hipexternalrotators) | 8 | [Reverse curl](#reversecurl) | 12 |
+| [Deload](#deload) | 10 | [Reverse fly (rear-delt fly, reverse pec deck)](#reversefly) | 12 |
+| [Deltoid](#deltoid) | 9 | [Reverse hyperextension](#reversehyperextension) | 12 |
+| [Deltoid tuberosity](#deltoidtuberosity) | 3 | [Reverse Nordic curl](#reversenordic) | 12 |
+| [Diaphragm](#diaphragm) | 9 | [Reverse wrist curl](#reversewristcurl) | 12 |
+| [Diastasis recti](#diastasisrecti) | 13 | [Rhomboids (major and minor)](#rhomboids) | 9 |
+| [Dip (parallel-bar dip)](#dip) | 12 | [RIR (repetitions in reserve)](#rir) | 10 |
+| [Distal biceps tendon rupture](#distalbicepstendonrupture) | 13 | [Romanian deadlift (RDL)](#romaniandeadlift) | 12 |
+| [Distal clavicular osteolysis ("weightlifter's shoulder")](#distalclavicularosteolysis) | 13 | [Rotator cuff](#rotatorcuff) | 9 |
+| [Distal triceps tendon rupture](#distaltricepsrupture) | 13 | [Rotator cuff muscles](#rotatorcuffmuscles) | 9 |
+| [Dorsal scapular nerve](#dorsalscapularnerve) | 9 | [Rotator cuff tear](#rotatorcufftear) | 13 |
+| [Dose–response relationship](#doseresponserelationship) | 10 | [Rotator cuff-related shoulder pain](#rotatorcuffpain) | 13 |
+| [Double progression](#doubleprogression) | 10 | [Row](#row) | 12 |
+| [Dumbbell bench press](#dumbbellbenchpress) | 12 | [RPE (rating of perceived exertion)](#rpe) | 10 |
+| [Eccentric contraction](#eccentriccontraction) | 6 | [Sacroiliac joint (SIJ)](#sacroiliacjoint) | 3 |
+| [Effect size](#effectsize) | 9 | [Sacrotuberous ligament](#sacrotuberousligament) | 3 |
+| [Effort tolerance](#efforttolerance) | 10 | [Sacrum](#sacrum) | 3 |
+| [Elbow extension](#elbowextension) | 4 | [Sagittal plane](#sagittalplane) | 1 |
+| [Elbow flexion](#elbowflexion) | 4 | [Sarcomere](#sarcomere) | 5 |
+| [Elbow flexor loading class (stretch-loaded, half-loaded, stretch-free)](#elbowflexorloadingclass) | 11 | [Sartorius](#sartorius) | 9 |
+| [Elbow flexors](#elbowflexors) | 8 | [Scaption (scapular-plane elevation)](#scaption) | 4 |
+| [Elbow path](#elbowpath) | 11 | [Scapula (shoulder blade)](#scapula) | 3 |
+| [EMG (electromyography)](#emg) | 9 | [Scapular (scapulothoracic) muscles](#scapularmuscles) | 9 |
+| [Erector spinae](#erectorspinae) | 8 | [Scapular anterior tilt](#scapularanteriortilt) | 4 |
+| [Erector spinae aponeurosis](#erectorspinaeaponeurosis) | 3 | [Scapular depression](#scapulardepression) | 4 |
+| [Excursion](#excursion) | 4 | [Scapular downward rotation](#scapulardownwardrotation) | 4 |
+| [Exercise specification](#exercisespecification) | 11 | [Scapular dyskinesis](#scapulardyskinesis) | 13 |
+| [Extensor carpi radialis brevis (ECRB)](#extensorcarpiradialisbrevis) | 9 | [Scapular elevation](#scapularelevation) | 4 |
+| [External oblique](#externaloblique) | 9 | [Scapular internal and external rotation](#scapularinternalrotation) | 4 |
+| [External rotation exercise](#externalrotationexercise) | 12 | [Scapular load class (elevation-, depression-, retraction-, protraction-, upward-rotation-, downward-rotation-loaded)](#scapularloadclass) | 11 |
+| [Face pull](#facepull) | 12 | [Scapular posterior tilt](#scapularposteriortilt) | 4 |
+| [Farmer's walk](#farmerswalk) | 12 | [Scapular protraction (abduction)](#scapularprotraction) | 4 |
+| [Fascicle length](#fasciclelength) | 5 | [Scapular retraction (adduction)](#scapularretraction) | 4 |
+| [Femoral nerve](#femoralnerve) | 8 | [Scapular upward rotation](#scapularupwardrotation) | 4 |
+| [Femoroacetabular impingement (FAI) syndrome](#femoroacetabularimpingement) | 13 | [Scapular winging](#scapularwinging) | 13 |
+| [Femur (thigh bone)](#femur) | 3 | [Scapulohumeral rhythm](#scapulohumeralrhythm) | 4 |
+| [Finger flexion](#fingerflexion) | 4 | [Scapulothoracic articulation](#scapulothoracicarticulation) | 3 |
+| [Finger pulley injury](#pulleyinjury) | 13 | [Seated calf raise](#seatedcalfraise) | 12 |
+| [Flexion relaxation](#flexionrelaxation) | 11 | [Seated hip abduction machine](#hipabductionmachine) | 12 |
+| [Flexor digitorum profundus (FDP)](#flexordigitorumprofundus) | 9 | [Semimembranosus (SM)](#semimembranosus) | 8 |
+| [Flexor digitorum superficialis (FDS)](#flexordigitorumsuperficialis) | 9 | [Semitendinosus (ST)](#semitendinosus) | 8 |
+| [Force–length relationship](#forcelengthrelationship) | 5 | [Serratus anterior](#serratusanterior) | 8 |
+| [Forearm muscles](#forearmmuscles) | 9 | [Sesamoid bone](#sesamoid) | 3 |
+| [Forearm pronation](#forearmpronation) | 4 | [Set](#set) | 10 |
+| [Forearm supination](#forearmsupination) | 4 | [SFR (stimulus-to-fatigue ratio)](#sfr) | 10 |
+| [Front raise](#frontraise) | 12 | [Shear elastic modulus](#shearelasticmodulus) | 9 |
+| [Front squat](#frontsquat) | 12 | [Short-foot exercise](#shortfootexercise) | 11 |
 | [Frontal (coronal) plane](#frontalplane) | 1 | [Shoulder abduction](#shoulderabduction) | 4 |
 | [Gastrocnemius](#gastrocnemius) | 8 | [Shoulder adduction](#shoulderadduction) | 4 |
 | [Glenohumeral joint](#glenohumeraljoint) | 3 | [Shoulder extension](#shoulderextension) | 4 |
@@ -25298,43 +26343,46 @@ plain same-file heading anchor.
 | [Isolated lumbar extension (ILEX)](#isolatedlumbarextension) | 12 | [Thoracodorsal nerve](#thoracodorsalnerve) | 8 |
 | [Isolation exercise](#isolation) | 11 | [Thoracolumbar fascia (TLF)](#thoracolumbarfascia) | 3 |
 | [Joint reaction force](#jointreactionforce) | 3 | [Tibia (shin bone)](#tibia) | 3 |
-| [Kettlebell swing](#kettlebellswing) | 12 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
-| [Kipping](#kipping) | 12 | [Torque (moment)](#torque) | 2 |
-| [Knee extension](#kneeextension) | 4 | [Torso inclination](#torsoinclination) | 11 |
-| [Knee flexion](#kneeflexion) | 4 | [Training frequency](#trainingfrequency) | 10 |
-| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [Training volume](#trainingvolume) | 10 |
-| [Knee travel](#kneetravel) | 11 | [Transverse (horizontal) plane](#transverseplane) | 1 |
-| [Lacertus fibrosus (bicipital aponeurosis)](#lacertusfibrosus) | 3 | [Transversus abdominis](#transversusabdominis) | 9 |
-| [Lat pulldown](#latpulldown) | 12 | [Trapezius](#trapezius) | 9 |
-| [Lateral epicondylalgia ("tennis elbow")](#lateralepicondylalgia) | 13 | [Trapezius myalgia](#trapeziusmyalgia) | 13 |
-| [Lateral epicondyle](#lateralepicondyle) | 3 | [Triceps brachii](#tricepsbrachii) | 9 |
-| [Lateral raise](#lateralraise) | 12 | [Triceps brachii, lateral head](#tricepslateralhead) | 9 |
-| [Lateral slide](#lateralslide) | 12 | [Triceps brachii, long head](#tricepslonghead) | 9 |
-| [Latissimus dorsi](#latissimusdorsi) | 8 | [Triceps brachii, medial head](#tricepsmedialhead) | 9 |
-| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Triceps kickback](#tricepskickback) | 12 |
-| [Leg extension](#legextension) | 12 | [Triceps pushdown (cable pushdown)](#tricepspushdown) | 12 |
-| [Leg press](#legpress) | 12 | [Triceps surae](#tricepssurae) | 8 |
-| [Lengthened partials](#lengthenedpartials) | 7 | [Trunk extension](#trunkextension) | 5 |
-| [Lengthened position](#lengthenedposition) | 7 | [Trunk flexion](#trunkflexion) | 5 |
-| [Lesser trochanter](#lessertrochanter) | 9 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
-| [Lesser tubercle](#lessertubercle) | 3 | [Trunk rotation](#trunkrotation) | 5 |
-| [Levator scapulae](#levatorscapulae) | 9 | [Ulnar nerve](#ulnarnerve) | 9 |
-| [Lifting straps](#liftingstraps) | 11 | [Upper (descending) trapezius](#uppertrapezius) | 9 |
-| [Limiting link](#limitinglink) | 10 | [Upright row](#uprightrow) | 12 |
-| [Line of action](#lineofaction) | 2 | [Vastus intermedius](#vastusintermedius) | 8 |
-| [Linea alba](#lineaalba) | 3 | [Vastus lateralis](#vastuslateralis) | 8 |
-| [Load](#load) | 10 | [Vastus medialis](#vastusmedialis) | 8 |
-| [Long thoracic nerve](#longthoracicnerve) | 8 | [Velocity-based training](#velocitybasedtraining) | 11 |
-| [Longissimus thoracis](#longissimusthoracis) | 8 | [Vertical pull](#verticalpull) | 11 |
-| [Lower (ascending) trapezius](#lowertrapezius) | 9 | [Volume load](#volumeload) | 10 |
-| [Lumbar compression](#lumbarcompression) | 11 | [Weightlifting belt](#weightliftingbelt) | 11 |
-| [Lumbar flexion](#lumbarflexion) | 4 | [Woodchop](#woodchop) | 12 |
-| [Lumbopelvic rhythm](#lumbopelvicrhythm) | 4 | [Wrist curl](#wristcurl) | 12 |
-| [Lunge](#lunge) | 12 | [Wrist extension](#wristextension) | 4 |
-| [Lying triceps extension ("skull crusher")](#lyingtricepsextension) | 12 | [Wrist extensors](#wristextensors) | 9 |
-| [Machine chest press](#machinechestpress) | 12 | [Wrist flexion](#wristflexion) | 4 |
-| [Mechanical tension](#mechanicaltension) | 6 | [Wrist flexors](#wristflexors) | 9 |
-| [Mechanotransduction](#mechanotransduction) | 6 | [Wrist joint](#wristjoint) | 3 |
+| [Kettlebell swing](#kettlebellswing) | 12 | [Tibialis posterior](#tibialisposterior) | 9 |
+| [Kipping](#kipping) | 12 | [Tibialis posterior tendon dysfunction](#tibialisposteriordysfunction) | 13 |
+| [Knee extension](#kneeextension) | 4 | [Tibiofemoral joint](#tibiofemoraljoint) | 3 |
+| [Knee flexion](#kneeflexion) | 4 | [Torque (moment)](#torque) | 2 |
+| [Knee osteoarthritis](#kneeosteoarthritis) | 13 | [Torso inclination](#torsoinclination) | 11 |
+| [Knee travel](#kneetravel) | 11 | [Training frequency](#trainingfrequency) | 10 |
+| [Lacertus fibrosus (bicipital aponeurosis)](#lacertusfibrosus) | 3 | [Training volume](#trainingvolume) | 10 |
+| [Lat pulldown](#latpulldown) | 12 | [Transverse (horizontal) plane](#transverseplane) | 1 |
+| [Lateral epicondylalgia ("tennis elbow")](#lateralepicondylalgia) | 13 | [Transversus abdominis](#transversusabdominis) | 9 |
+| [Lateral epicondyle](#lateralepicondyle) | 3 | [Trapezius](#trapezius) | 9 |
+| [Lateral raise](#lateralraise) | 12 | [Trapezius myalgia](#trapeziusmyalgia) | 13 |
+| [Lateral slide](#lateralslide) | 12 | [Triceps brachii](#tricepsbrachii) | 9 |
+| [Latissimus dorsi](#latissimusdorsi) | 8 | [Triceps brachii, lateral head](#tricepslateralhead) | 9 |
+| [Leg curl (seated, prone or standing)](#legcurl) | 12 | [Triceps brachii, long head](#tricepslonghead) | 9 |
+| [Leg extension](#legextension) | 12 | [Triceps brachii, medial head](#tricepsmedialhead) | 9 |
+| [Leg press](#legpress) | 12 | [Triceps kickback](#tricepskickback) | 12 |
+| [Lengthened partials](#lengthenedpartials) | 7 | [Triceps pushdown (cable pushdown)](#tricepspushdown) | 12 |
+| [Lengthened position](#lengthenedposition) | 7 | [Triceps surae](#tricepssurae) | 8 |
+| [Lesser trochanter](#lessertrochanter) | 9 | [Trunk extension](#trunkextension) | 5 |
+| [Lesser tubercle](#lessertubercle) | 3 | [Trunk flexion](#trunkflexion) | 5 |
+| [Levator scapulae](#levatorscapulae) | 9 | [Trunk lateral flexion](#trunklateralflexion) | 5 |
+| [Lifting straps](#liftingstraps) | 11 | [Trunk rotation](#trunkrotation) | 5 |
+| [Limiting link](#limitinglink) | 10 | [Ulnar nerve](#ulnarnerve) | 9 |
+| [Line of action](#lineofaction) | 2 | [Upper (descending) trapezius](#uppertrapezius) | 9 |
+| [Linea alba](#lineaalba) | 3 | [Upright row](#uprightrow) | 12 |
+| [Load](#load) | 10 | [Vastus intermedius](#vastusintermedius) | 8 |
+| [Long thoracic nerve](#longthoracicnerve) | 8 | [Vastus lateralis](#vastuslateralis) | 8 |
+| [Longissimus thoracis](#longissimusthoracis) | 8 | [Vastus medialis](#vastusmedialis) | 8 |
+| [Lower (ascending) trapezius](#lowertrapezius) | 9 | [Velocity-based training](#velocitybasedtraining) | 11 |
+| [Lumbar compression](#lumbarcompression) | 11 | [Vertical pull](#verticalpull) | 11 |
+| [Lumbar flexion](#lumbarflexion) | 4 | [Volume load](#volumeload) | 10 |
+| [Lumbopelvic rhythm](#lumbopelvicrhythm) | 4 | [Weightlifting belt](#weightliftingbelt) | 11 |
+| [Lunge](#lunge) | 12 | [Windlass mechanism](#windlassmechanism) | 11 |
+| [Lying triceps extension ("skull crusher")](#lyingtricepsextension) | 12 | [Woodchop](#woodchop) | 12 |
+| [Machine chest press](#machinechestpress) | 12 | [Wrist curl](#wristcurl) | 12 |
+| [Mechanical tension](#mechanicaltension) | 6 | [Wrist extension](#wristextension) | 4 |
+| [Mechanotransduction](#mechanotransduction) | 6 | [Wrist extensors](#wristextensors) | 9 |
+| [Medial epicondylalgia ("golfer's elbow")](#medialepicondylalgia) | 13 | [Wrist flexion](#wristflexion) | 4 |
+| [Medial epicondyle](#medialepicondyle) | 3 | [Wrist flexors](#wristflexors) | 9 |
+| [Medial longitudinal arch](#mediallongitudinalarch) | 9 | [Wrist joint](#wristjoint) | 3 |
 
 ---
 
@@ -26771,6 +27819,21 @@ That combination — very long fascicles, very small PCSA — defines it as an *
 
 **Sartorius** — The long strap muscle that runs diagonally across the front of the thigh, from the outer point of the hip to the inner side of the knee. Formally: arising from the anterior superior iliac spine and inserting on the proximal medial tibia via the pes anserinus, supplied by the femoral nerve (L2–L3); **the longest muscle in the body**. It flexes, abducts and externally rotates the hip and flexes the knee. Its architecture is extreme: fibres of **40.30 cm** running almost the whole length of the muscle at a pennation of 1.3°, for a [PCSA](#pcsa) of just 1.9 cm² (Ward et al., 2009a) — a very long, very weak strap. No training decision in Part XVII turns on it, and it matters here mainly because it lies next to [iliacus](#iliacus) and is the muscle surface electrodes must avoid crosstalk from (Jiroumaru et al., 2014).
 
+## tibialisposterior
+*Anatomy & Structure*
+
+**Tibialis posterior** — The deep calf muscle whose tendon runs behind the inner ankle bone and lifts the arch from underneath. Formally: arising from the posterior tibia, fibula and interosseous membrane, passing behind the medial malleolus to insert on the **navicular tuberosity** with slips to the other tarsals and metatarsals, supplied by the tibial nerve (L4–L5); it inverts and plantarflexes the foot and is the arch's principal active support. **It is architecturally a force muscle with a short range:** a [PCSA](#pcsa) of 14.4 cm² — the largest of any muscle measured below the knee outside the triceps surae, in a dataset that excluded the foot's own intrinsics — with fibres of only 3.78 cm and a fibre-to-muscle-length ratio of **0.12**, essentially soleus's (Ward et al., 2009a). A short available range is a reason to **use all of it**, not to train shorter: soleus shares that ratio, and Part XII prescribes its full range (Part XIX §A.3). It inserts on the keystone of the medial arch, which is why its failure produces the characteristic progressive collapse (Part XIX §E.4). See Part XIX.
+
+## plantarfascia
+*Anatomy & Structure*
+
+**Plantar fascia (plantar aponeurosis)** — The thick sheet of connective tissue running from the heel to the toes along the sole. Formally: a longitudinally oriented aponeurosis from the medial calcaneal tuberosity to the proximal phalanges, the principal **static** restraint of the medial longitudinal arch and the structure that stores and returns elastic energy as the arch compresses and recoils. Extending the toes winds it around the metatarsal heads, shortening and raising the arch — the windlass mechanism. It is **not** solely responsible for that: measured by elastography, the flexor digitorum brevis contributes alongside it when seated, and standing on one leg the muscle is roughly **six times stiffer than the fascia beside it** — a muscle-to-fascia ratio, not a seated-to-standing one, in a study that recorded no electromyography (Shinohara et al., 2025). More fundamentally, loading human feet in vivo showed that fascia strain **could not explain** the foot's stiffening for push-off, which tracked active plantarflexor contraction instead (Farris et al., 2020). Its calcaneal origin is the site of plantar heel pain (Part XIX §E.4).
+
+## mediallongitudinalarch
+*Anatomy & Structure*
+
+**Medial longitudinal arch** — The curve on the inner side of the foot between heel and forefoot. Formally: the bony vault of the calcaneus, talus, navicular, cuneiforms and medial metatarsals, restrained by **four separable systems** — bone shape, the [plantar fascia](#plantarfascia) and ligaments, the intrinsic foot muscles, and the extrinsic muscles led by [tibialis posterior](#tibialisposterior). **Only the last two are trainable**, which is the boundary Part XIX §E.5 rests on. It behaves as a spring, compressing under load and recoiling. Its *height* is a poor guide to anything: arch collapse rises steadily from normally aligned feet through **asymptomatic** flat feet to symptomatic deformity, and what distinguishes the symptomatic feet is subtalar subluxation rather than arch height (de Cesar Netto et al., 2025).
+
 ## diaphragm
 
 *Anatomy & Structure*
@@ -27032,6 +28095,21 @@ It is the most precise-looking measure of training dose and the least useful for
 *Exercises & Technique*
 
 **Velocity-based training** — Using the speed of the bar, measured by a position transducer, to set or monitor load. Formally: prescribing load from a load–velocity relationship, or terminating a set at a defined percentage drop in repetition velocity. It offers the only objective instrument for load short of a maximal test, but it does not yet meet this document's own accuracy test: predicting a hex-bar deadlift maximum from a three-point profile gave limits of agreement of **±15.7 kg** against a real test, wider than the change a direct test would need to detect, and the authors concluded the methods "should not be used interchangeably" (Stevens et al., 2026). Two further cautions apply. **Velocity is a weak estimator of [repetitions in reserve](#rir)** — one study of the hexagonal bar deadlift found it lacked both accuracy and applicability for that purpose (Chen et al., 2026). And **the choice of velocity-loss threshold appears not to be critical**: 15% against 30% produced similar strength and hypertrophy over nine weeks (Andersen et al., 2024), as did 5% against 20% over seven (Galiano et al., 2022). **Promising but under-replicated** — both studies were small enough to detect only large differences. See Part XVIII §F.1.
+
+## windlassmechanism
+*Biomechanics & Mechanics*
+
+**Windlass mechanism** — Extending the toes tightens the sole and raises the arch, the way winding a rope around a drum shortens it. Formally: dorsiflexion of the metatarsophalangeal joints winds the [plantar fascia](#plantarfascia) around the metatarsal heads, shortening it, raising the [medial longitudinal arch](#mediallongitudinalarch) and stiffening the foot for push-off *[consensus — no single source]*. **The mechanism is contested.** Applying controlled loads to human feet in vivo, plantar aponeurosis strain via the windlass **could not explain** the tensioning and stiffening observed as foot–ground force rose; electromyography implicated **active contraction of the ankle plantarflexors** as the source of tension instead (Farris et al., 2020). **Contested.** The towel under the toes in Part XIX §C.1 is therefore best understood as pre-tensioning the fascia — and justified by the trial that used it rather than by windlass theory.
+
+## archloadingclass
+*Exercises & Technique*
+
+**Arch loading class (compression-, collapse-resisting, windlass-, directly loaded)** — What an exercise asks the arch to do. Formally: apply four tests to one repetition and **give the exercise every tag it earns**; most earn more than one. **Tag 1, compression-loaded:** the foot bears **about half a bodyweight or more** — the lowest of three measured intrinsic thresholds, 50% of body mass for flexor digitorum brevis against 75% and 100% for quadratus plantae and abductor hallucis (Kelly et al., 2014). Two-footed standing just reaches it; walking, running, squatting and a leg press all exceed it. **Tag 2, collapse-resisting:** there is a sideways moment pushing the arch flat that the invertors must resist — the body's weight line falling inside the foot. **The practical test:** if the repetition would feel the same in a rigid boot, it is not collapse-resisting. Single-leg stance, step-downs, cuts and landings qualify; a bilateral squat does not. **Tag 3, windlass-loaded:** the toes are **extended** under load, tensioning the [plantar fascia](#plantarfascia) around the metatarsal heads. **Tag 4, directly loaded:** the foot's own muscles — intrinsics, toe flexors or invertors — are the prime movers against resistance rather than stabilizers while the ankle, knee or hip moves the load. **No tag = unloaded**, meaning non-weight-bearing with nothing resisting the foot. **Why it exists:** it separates *using* the arch, which nearly everything weight-bearing does, from *resisting its collapse* and from *training its muscles as movers* — and the useful asymmetry is that almost nothing earns Tag 4 while gym work rarely earns Tag 2 (Part XIX §B.7). **Caveats:** the thresholds come from one loading experiment in a seated rig; Tag 2's rigid-boot test is this document's judgement; no study has trained one tag and tested transfer to another.
+
+## shortfootexercise
+*Exercises & Technique*
+
+**Short-foot exercise** — Drawing the ball of the foot toward the heel to shorten and raise the arch, without curling the toes. Formally: the **directly loaded** ([Tag 4](#archloadingclass)) exercise for the plantar intrinsic muscles, performed with the toes flat and the big-toe ball in contact, ideally standing on one foot; the trials behind it used contractions of about **5 seconds**, progressed from sitting to standing (de Souza et al., 2023). **Standing matters:** standing on one leg, flexor digitorum brevis is roughly six times stiffer than the fascia beside it, and both tissues stiffen relative to sitting (Shinohara et al., 2025). Curling the toes converts it into a toe-flexor exercise, and rolling onto the outside of the foot fakes the arch by supinating the whole foot (Part XIX §C.2).
 
 ## resistanceprofile
 
@@ -27774,6 +28852,16 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 **Thomas test (and modified Thomas test)** — The standard clinical check for hip flexor length: lying at the edge of a couch, one knee hugged to the chest, and seeing how far the other thigh drops. Formally: a passive assessment of hip extension range, used as a proxy for [iliopsoas](#iliopsoas) and [rectus femoris](#rectusfemoris) extensibility. Pooled across 27 studies and 1,056 participants, hip flexor flexibility tests showed **excellent intrarater reliability (ICC 0.90, 95% CI 0.85–0.95)** and good interrater reliability overall (ICC 0.80), but with enormous heterogeneity (I² = 99%) — and **the classic Thomas test had the worst interrater reliability of the family, ICC 0.62 (0.46–0.78)** (González-de-la-Flor & Seijas-Otero, 2026). **Reliability is agreement, not truth**, and the two questions separate: this document found no study showing these tests predict **pain** or **performance**, but low preseason hip flexor range of motion did predict **hip flexor strains** in 36 elite footballers followed through a season (Bradley & Portas, 2007). So a short result is weak evidence about injury risk in an athlete and no evidence about the back pain it is usually invoked for (Part XVII §E.5).
 
+## tibialisposteriordysfunction
+*Pathology & Clinical*
+
+**Tibialis posterior tendon dysfunction** — Failure of the tendon that supports the arch, producing pain behind the inner ankle and, in time, a flattening foot. Formally: a staged progression from tendinopathy through tendon elongation to fixed hindfoot valgus and arch collapse; the later stages are now described as **progressive collapsing foot deformity**. **The stage decides what exercise is worth:** in early tendinopathy, ten weeks of twice-daily progressive eccentric loading improved pain and function in ten subjects (Kulig et al., 2009), whereas in a randomized trial of 39 patients with **stage II** disease, adding strengthening to an orthosis was "minimally effective" and produced no change in deep posterior compartment strength (Houck et al., 2015). **That asymmetry is the argument for assessing inner-ankle pain early** (Part XIX §E.4).
+
+## plantarheelpain
+*Pathology & Clinical*
+
+**Plantar heel pain (plantar fasciitis)** — Pain at the inner heel, characteristically worst on the first steps of the morning and after rest. Formally: a degenerative and load-related condition of the [plantar fascia](#plantarfascia) at its calcaneal origin. **High-load strength training helps you recover sooner rather than better:** in 48 patients with ultrasound-verified disease, all wearing inserts, unilateral heel raises with a towel under the toes every second day gave a Foot Function Index **29 points lower at 3 months** than plantar-specific stretching (95% CI 6–52) — with **no difference at 1, 6 or 12 months** (Rathleff et al., 2015). **Temper that with the sequel:** 70 people doing the same exercise for twelve weeks, and **only four reached an acceptable symptom state** (Riel et al., 2019). See Part XIX §E.4.
+
 ## painfularc
 
 *Pathology & Clinical*
@@ -27939,16 +29027,16 @@ It is what a biomechanics study reports when it says an exercise "loads the shou
 
 ---
 
-# partxxbibliography
+# partxxibibliography
 
-**Part XX — Bibliography**
+**Part XXI — Bibliography**
 
-Every source cited in this document: **750 papers**, each with a DOI you can paste into a search box
+Every source cited in this document: **778 papers**, each with a DOI you can paste into a search box
 or a library request form — with nine exceptions, noted at their entries: eight for which no DOI was ever
 issued and a PubMed or PubMed Central identifier is given instead, and one master's thesis that has neither. Alphabetical by first author, so an in-text citation like
 *(Gerling & Brown, 2013)* is found by scanning for **Gerling**.
 
-**377 are open access** — free to read now. **373 are paywalled**; any university or public library can
+**393 are open access** — free to read now. **385 are paywalled**; any university or public library can
 obtain those through interlibrary loan at no cost, usually in a few days, and authors may legally
 share their own accepted manuscripts if you email them. Every DOI below was verified against
 Crossref, and open-access status against Unpaywall, at the time of writing.
@@ -28281,7 +29369,11 @@ Danneels LA, Cools AM, Vanderstraeten GG, Cambier DC, Witvrouw EE, Bourgois J, e
 
 Danneels LA, Vanderstraeten GG, Cambier DC, Witvrouw EE, Bourgois J, Dankaerts W, et al. Effects of three different training modalities on the cross sectional area of the lumbar multifidus muscle in patients with chronic low back pain [cited as Danneels et al., 2001a]. British Journal of Sports Medicine. 2001;35(3):186-191. doi:10.1136/bjsm.35.3.186 · **open access**
 
+de Cesar Netto C, Barbachan Mansur NS, Talaski G, Jasper RP, Schmidt E, de Carvalho KAM, et al. From Asymptomatic Flatfoot to Progressive Collapsing Foot Deformity. Journal of Bone and Joint Surgery. 2025;107(18):2060-2068. doi:10.2106/jbjs.24.01619 · *paywalled*
+
 De Martino E, Hides J, Elliott JM, Hoggarth MA, Zange J, Lindsay K, et al. The Effects of Reconditioning Exercises Following Prolonged Bed Rest on Lumbopelvic Muscle Volume and Accumulation of Paraspinal Muscle Fat. Frontiers in Physiology. 2022;13:862793. doi:10.3389/fphys.2022.862793 · **open access**
+
+de Souza TMM, de Oliveira Coutinho VG, Tessutti VD, de Oliveira NRC, Yi LC. Effects of intrinsic foot muscle strengthening on the medial longitudinal arch mobility and function: A systematic review. Journal of Bodywork and Movement Therapies. 2023;36:89-99. doi:10.1016/j.jbmt.2023.05.010 · *paywalled*
 
 Deane RS, Chow JW, Tillman MD, Fournier KA. Effects of Hip Flexor Training on Sprint, Shuttle Run, and Vertical Jump Performance. The Journal of Strength and Conditioning Research. 2005;19(3):615. doi:10.1519/14974.1 · *paywalled*
 
@@ -28308,6 +29400,8 @@ Dolan P, Adams MA. The relationship between EMG activity and extensor moment gen
 Dolan P, Mannion AF, Adams MA. Passive tissues help the back muscles to generate extensor moments during lifting. Journal of Biomechanics. 1994;27(8):1077-1085. doi:10.1016/0021-9290(94)90224-0 · *paywalled*
 
 Doma K, Deakin GB, Ness KF. Kinematic and electromyographic comparisons between chin-ups and lat-pull down exercises. Sports Biomechanics. 2013;12(3):302-313. doi:10.1080/14763141.2012.760204 · *paywalled*
+
+Domaradzki J. Sit-to-Stand Navicular Drop Test-Based Injury Risk Zones Derived from a U-Shaped Relationship in Male University Athletes. Journal of Clinical Medicine. 2026;15(3):1027. doi:10.3390/jcm15031027 · **open access**
 
 Domokos B, Domokos J, Andersson G, Mannel S, Weigel LM, Koch HJ, et al. Isolated lumbar extension exercise alone or in a multimodal program for low back pain and radiculopathy: a non-randomized controlled trial. Scientific Reports. 2025;15(1):37157. doi:10.1038/s41598-025-22452-x · **open access**
 
@@ -28347,6 +29441,8 @@ Enes A, Alves RC, Schoenfeld BJ, Oneda G, Perin SC, Trindade TB, et al. Rest-pau
 
 Enes A, Oneda G, Leonel DF, Lemos L, Alves F, Ferreira LHB, et al. The effects of squat variations on strength and quadriceps hypertrophy adaptations in recreationally trained females. European Journal of Sport Science. 2024;24(1):6-15. doi:10.1002/ejsc.12042 · **open access**
 
+Engkananuwat P, Kanlayanaphotporn R. Gluteus medius muscle strengthening exercise effects on medial longitudinal arch height in individuals with flexible flatfoot: a randomized controlled trial. Journal of Exercise Rehabilitation. 2023;19(1):57-66. doi:10.12965/jer.2244572.286 · **open access**
+
 Erdağı K, Poyraz N. The determination of the cross-sectional area of the lumbar erector spinae muscles of Olympic style weightlifting athletes by using MRI. Journal of Back and Musculoskeletal Rehabilitation. 2020;33(3):405-412. doi:10.3233/bmr-191725 · *paywalled*
 
 Eriksson A, Kadi F, Malm C, Thornell LE. Skeletal muscle morphology in power-lifters with and without anabolic steroids. Histochemistry and Cell Biology. 2005;124(2):167-175. doi:10.1007/s00418-005-0029-5 · *paywalled* — *cited from its abstract*
@@ -28371,11 +29467,15 @@ Esola MA, McClure PW, Fitzgerald GK, Siegler S. Analysis of Lumbar Spine and Hip
 
 Evangelista P, Rum L, Picerno P, Biscarini A. Decoding the Contribution of Shoulder and Elbow Mechanics to Barbell Kinematics and the Sticking Region in Bench and Overhead Press Exercises: A Link-Chain Model with Single- and Two-Joint Muscles. Journal of Functional Morphology and Kinesiology. 2025;10(3):322. doi:10.3390/jfmk10030322 · **open access**
 
+Farris DJ, Birch J, Kelly L. Foot stiffening during the push-off phase of human walking is linked to active muscle contraction, and not the windlass mechanism. Journal of The Royal Society Interface. 2020;17(168):20200208. doi:10.1098/rsif.2020.0208 · **open access**
+
 Faux-Dugan L, Piazza SJ. Correlations between Achilles tendon moment arm and plantarflexor muscle architecture variables. PLOS ONE. 2024;19(8):e0309406. doi:10.1371/journal.pone.0309406 · **open access**
 
 Fenwick CMJ, Brown SHM, McGill SM. Comparison of Different Rowing Exercises: Trunk Muscle Activation and Lumbar Spine Motion, Load, and Stiffness. Journal of Strength and Conditioning Research. 2009;23(5):1408-1417. doi:10.1519/JSC.0b013e3181b07334 · *paywalled*
 
 Fernández-Matías R, Ballesteros-Frutos J, Gallardo-Zamora P, Requejo-Salinas N, Caballero-Pozo I, Ludewig P, et al. Scapular kinematics variability in individuals with and without rotator cuff-related shoulder pain: A systematic review with multilevel meta-regression. Brazilian Journal of Physical Therapy. 2025;29(6):101261. doi:10.1016/j.bjpt.2025.101261 · **open access**
+
+Fiolkowski P, Brunt D, Bishop M, Woo R, Horodyski M. Intrinsic pedal musculature support of the medial longitudinal arch: an electromyography study. The Journal of Foot and Ankle Surgery. 2003;42(6):327-333. doi:10.1053/j.jfas.2003.10.003 · *paywalled*
 
 Fischer J, Burger C, Manieu Seguel JA, Rodoplu C, Paternoster FK, Tilp M, et al. Acute muscle excitation response across various bench press ranges of motion [cited as Fischer et al., 2025a]. Scientific Reports. 2025;15(1):14105. doi:10.1038/s41598-025-98354-9 · **open access**
 
@@ -28390,6 +29490,8 @@ Flack NAMS, Nicholson HD, Woodley SJ. A review of the anatomy of the hip abducto
 Fortin M, Rye M, Roussac A, Montpetit C, Burdick J, Naghdi N, et al. The Effects of Combined Motor Control and Isolated Extensor Strengthening versus General Exercise on Paraspinal Muscle Morphology, Composition, and Function in Patients with Chronic Low Back Pain: A Randomized Controlled Trial. Journal of Clinical Medicine. 2023;12(18):5920. doi:10.3390/jcm12185920 · **open access**
 
 Franke RA, Botton CE, Rodrigues R, Pinto RS, Lima CS. Analysis of anterior, middle and posterior deltoid activation during single and multijoint exercises. The Journal of Sports Medicine and Physical Fitness. 2015;55(7-8):714-721. PMID:24947920 · *paywalled* — *no DOI was ever issued for this article; the PubMed identifier reaches the record and the abstract*
+
+Franklyn-Miller A, Wilson C, Bilzon J, McCrory P. Foot Orthoses in the Prevention of Injury in Initial Military Training. The American Journal of Sports Medicine. 2011;39(1):30-37. doi:10.1177/0363546510382852 · *paywalled*
 
 Fridén J, Lieber RL. Quantitative evaluation of the posterior deltoid to triceps tendon transfer based on muscle architectural properties. The Journal of Hand Surgery. 2001;26(1):147-155. doi:10.1053/jhsu.2001.20161 · *paywalled*
 
@@ -28507,6 +29609,8 @@ Harøy J, Thorborg K, Serner A, Bjørkheim A, Rolstad LE, Hölmich P, et al. Inc
 
 Harøy J, Wiger EG, Bahr R, Andersen TE. Implementation of the Adductor Strengthening Programme: Players primed for adoption but reluctant to maintain — a cross-sectional study [cited as Harøy et al., 2019b]. Scandinavian Journal of Medicine & Science in Sports. 2019;29(8):1092-1100. doi:10.1111/sms.13444 · **open access**
 
+Hashimoto T, Sakuraba K. Strength Training for the Intrinsic Flexor Muscles of the Foot: Effects on Muscle Strength, the Foot Arch, and Dynamic Parameters Before and After the Training. Journal of Physical Therapy Science. 2014;26(3):373-376. doi:10.1589/jpts.26.373 · **open access**
+
 Havers T, Micke F, Geisler S, Held S. Acute and Chronic Effects of Drop-Set Training: A Meta-Analysis and Systematic Review. Sports Medicine - Open. 2026;12(1):38. doi:10.1186/s40798-026-01012-1 · **open access**
 
 Havers T, Wagner N, Held S, Geisler S, Wiewelhove T. Partial Range, Full Gains? The Effect of 8 Weeks of Partial Range of Motion Training at Long Muscle Lengths on Elbow Flexor Hypertrophy and Strength in Trained Individuals. European Journal of Sport Science. 2025;25(12):e70087. doi:10.1002/ejsc.70087 · **open access**
@@ -28557,6 +29661,10 @@ Hopewell S, Keene DJ, Marian IR, Dritsaki M, Heine P, Cureton L, et al. Progress
 
 Hopkins JE, Hopkins CE, Chiu LZF. Greater squat stance width alters three-dimensional hip moment demands. Journal of Biomechanics. 2024;177:112391. doi:10.1016/j.jbiomech.2024.112391 · **open access**
 
+Houck J, Neville C, Tome J, Flemister A. Randomized Controlled Trial Comparing Orthosis Augmented by Either Stretching or Stretching and Strengthening for Stage II Tibialis Posterior Tendon Dysfunction. Foot & Ankle International. 2015;36(9):1006-1016. doi:10.1177/1071100715579906 · *paywalled*
+
+Huang C, Chen LY, Liao YH, Masodsai K, Lin YY. Effects of the Short-Foot Exercise on Foot Alignment and Muscle Hypertrophy in Flatfoot Individuals: A Meta-Analysis. International Journal of Environmental Research and Public Health. 2022;19(19):11994. doi:10.3390/ijerph191911994 · **open access**
+
 Hubal MJ, Gordish-Dressman H, Thompson PD, Price TB, Hoffman EP, Angelopoulos TJ, et al. Variability in muscle size and strength gain after unilateral resistance training. Medicine & Science in Sports & Exercise. 2005;37(6):964-972. PMID:15947721 — no DOI was ever issued · *paywalled*
 
 Huberti HH, Hayes WC, Stormont TJ, Chao EY. Force ratios in the quadriceps tendon and ligamentum patellae. Journal of Orthopaedic Research. 1984;2(1):49-54. doi:10.1002/jor.1100020108 · *paywalled*
@@ -28566,6 +29674,8 @@ Hugues X, Quaine F, Nordez A, Perrin T, Beaudoin P, Brugniaux JV, et al. Finger 
 Hussain J, Sundaraj K, Subramaniam ID, Lam CK. Muscle Fatigue in the Three Heads of Triceps Brachii During Intensity and Speed Variations of Triceps Push-Down Exercise. Frontiers in Physiology. 2020;11:112. doi:10.3389/fphys.2020.00112 · **open access**
 
 Hutton WC, Adams MA. Can the Lumbar Spine Be Crushed in Heavy Lifting? Spine. 1982;7(6):586-590. doi:10.1097/00007632-198211000-00012 · *paywalled*
+
+Ibraheem MR, El-Moneim MAA, Ibrahim MM. The effect of multimodal rehabilitation program on pain, functional outcomes, and plantar fascia thickness in patients with plantar fasciitis: a randomized controlled trial. BMC Musculoskeletal Disorders. 2026;27(1):168. doi:10.1186/s12891-026-09562-x · **open access**
 
 Ikeda K, Kaneoka K, Matsunaga N, Ikumi A, Yamazaki M, Yoshii Y. Effects of forearm rotation on wrist flexor and extensor muscle activities. Journal of Orthopaedic Surgery and Research. 2025;20(1):53. doi:10.1186/s13018-024-05363-x · **open access**
 
@@ -28578,6 +29688,8 @@ Intziegianni K, Katsamis E, Michaelides M, Parpa K. Electromyographic Activation
 Ishøi L, Sørensen CN, Kaae NM, Jørgensen LB, Hölmich P, Serner A. Large eccentric strength increase using the Copenhagen Adduction exercise in football: A randomized controlled trial. Scandinavian Journal of Medicine & Science in Sports. 2016;26(11):1334-1342. doi:10.1111/sms.12585 · *paywalled*
 
 Iwai K, Koyama K, Okada T, Nakazato K, Takahashi R, Matsumoto S, et al. Asymmetrical and smaller size of trunk muscles in combat sports athletes with lumbar intervertebral disc degeneration. SpringerPlus. 2016;5(1):1474. doi:10.1186/s40064-016-3155-8 · **open access**
+
+Jaffri AH, Koldenhoven R, Saliba S, Hertel J. Evidence for Intrinsic Foot Muscle Training in Improving Foot Function: A Systematic Review and Meta-Analysis. Journal of Athletic Training. 2023;58(11-12):941-951. doi:10.4085/1062-6050-0162.22 · **open access**
 
 Jaschke M, Rekawek K, Sokolowski S, Kolodziej L. Distal biceps tendon rupture: a comprehensive overview. EFORT Open Reviews. 2023;8(11):865-873. doi:10.1530/eor-23-0035 · **open access**
 
@@ -28653,6 +29765,8 @@ Keener JD, Galatz LM, Teefey SA, Middleton WD, Steger-May K, Stobbs-Cucchi G, et
 
 Kellis E, Blazevich AJ. Hamstrings force-length relationships and their implications for angle-specific joint torques: a narrative review. BMC Sports Science, Medicine and Rehabilitation. 2022;14(1):166. doi:10.1186/s13102-022-00555-6 · **open access**
 
+Kelly LA, Cresswell AG, Racinais S, Whiteley R, Lichtwark G. Intrinsic foot muscles have the capacity to control deformation of the longitudinal arch. Journal of The Royal Society Interface. 2014;11(93):20131188. doi:10.1098/rsif.2013.1188 · **open access**
+
 Kennedy D, Casebolt JB, Farren GL, Fiaud V, Bartlett M, Strong L. Electromyographic differences of the gluteus maximus, gluteus medius, biceps femoris, and vastus lateralis between the barbell hip thrust and barbell glute bridge. Sports Biomechanics. 2024;23(12):2935-2949. doi:10.1080/14763141.2022.2074875 · *paywalled*
 
 Kharazi M, Bohm S, Theodorakis C, Mersmann F, Arampatzis A. Quantifying mechanical loading and elastic strain energy of the human Achilles tendon during walking and running. Scientific Reports. 2021;11(1):5830. doi:10.1038/s41598-021-84847-w · **open access**
@@ -28664,6 +29778,10 @@ Kikuchi N, Nakazato K. Low-load bench press and push-up induce similar muscle hy
 Kim D, Woo J, Lee S, Jung J, Lee D, Hong J, et al. Effects of Mind–Muscle Connection on Muscle Activity During Machine-Based Shoulder Press in Untrained Individuals. Journal of Clinical Medicine. 2026;15(10):3925. doi:10.3390/jcm15103925 · **open access**
 
 Kim HM, Dahiya N, Teefey SA, Middleton WD, Stobbs G, Steger-May K, et al. Location and Initiation of Degenerative Rotator Cuff Tears. The Journal of Bone and Joint Surgery-American Volume. 2010;92(5):1088-1096. doi:10.2106/jbjs.i.00686 · **open access**
+
+Kim MH, Kwon OY, Kim SH, Jung DY. Comparison of muscle activities of abductor hallucis and adductor hallucis between the short foot and toe-spread-out exercises in subjects with mild hallux valgus. Journal of Back and Musculoskeletal Rehabilitation. 2013;26(2):163-168. doi:10.3233/bmr-2012-00363 · *paywalled*
+
+Kim MH, Yi CH, Weon JH, Cynn HS, Jung DY, Kwon OY. Effect of toe-spread-out exercise on hallux valgus angle and cross-sectional area of abductor hallucis muscle in subjects with hallux valgus. Journal of Physical Therapy Science. 2015;27(4):1019-1022. doi:10.1589/jpts.27.1019 · **open access**
 
 Kim YS, Kim DY, Ha MS. Effect of the push-up exercise at different palmar width on muscle activities. Journal of Physical Therapy Science. 2016;28(2):446-449. doi:10.1589/jpts.28.446 · **open access**
 
@@ -28716,6 +29834,8 @@ Kubo K, Ikebukuro T, Yata H. Effects of squat training with different depths on 
 Kuechle DK, Newman SR, Itoi E, Morrey BF, An KN. Shoulder muscle moment arms during horizontal flexion and elevation. Journal of Shoulder and Elbow Surgery. 1997;6(5):429-439. doi:10.1016/S1058-2746(97)70049-1 · *paywalled*
 
 Kukkonen J, Ryösä A, Joukainen A, Lehtinen J, Kauko T, Mattila K, et al. Operative versus conservative treatment of small, nontraumatic supraspinatus tears in patients older than 55 years: over 5-year follow-up of a randomized controlled trial. Journal of Shoulder and Elbow Surgery. 2021;30(11):2455-2464. doi:10.1016/j.jse.2021.03.133 · **open access**
+
+Kulig K, Reischl SF, Pomrantz AB, Burnfield JM, Mais-Requejo S, Thordarson DB, et al. Nonsurgical Management of Posterior Tibial Tendon Dysfunction With Orthoses and Resistive Exercise: A Randomized Controlled Trial. Physical Therapy. 2009;89(1):26-37. doi:10.2522/ptj.20070242 · *paywalled*
 
 Kumazaki T, Takahashi T, Nakano T, Sakai T. Action and Contribution of the Iliopsoas and Rectus Femoris as Hip Flexor Agonists Examined with Anatomical Analysis. Juntendo Medical Journal. 2022;68(4):352-362. doi:10.14789/jmj.jmj22-0009-oa · **open access**
 
@@ -28913,6 +30033,8 @@ McGill SM, Marshall LW. Kettlebell Swing, Snatch, and Bottoms-Up Carry: Back and
 
 McGill SM, Patt N, Norman RW. Measurement of the trunk musculature of active males using CT scan radiography: implications for force and moment generating capacity about the L4/L5 joint. Journal of Biomechanics. 1988;21(4):329-341. doi:10.1016/0021-9290(88)90262-X · *paywalled*
 
+McInnis KC, Ramey LN. High‐Risk Stress Fractures: Diagnosis and Management. PM&R. 2016;8(3S):. doi:10.1016/j.pmrj.2015.09.019 · *paywalled*
+
 McKenzie A, Crowley-McHattan Z, Meir R, Whitting J, Volschenk W. Bench, Bar, and Ring Dips: Do Kinematics and Muscle Activity Differ? International Journal of Environmental Research and Public Health. 2022;19(20):13211. doi:10.3390/ijerph192013211 · **open access**
 
 McMillan RM, Ganderton CL, Cook J, Semciw AI, Long DM, Pizzari T. Does Menopausal Hormone Therapy, Exercise, or Both Improve Pain and Function in Postmenopausal Women With Greater Trochanteric Pain Syndrome? A 2x2 Factorial Randomized Clinical Trial. The American Journal of Sports Medicine. 2022;50(2):515-525. doi:10.1177/03635465211061142 · **open access**
@@ -28922,6 +30044,8 @@ Mellor R, Bennell K, Grimaldi A, Nicolson P, Kasza J, Hodges P, et al. Education
 Mellor R, Kasza J, Grimaldi A, Hodges P, Bennell K, Vicenzino B. Mediators and Moderators of Education Plus Exercise on Perceived Improvement in Individuals With Gluteal Tendinopathy: An Exploratory Analysis of a 3-Arm Randomized Trial. Journal of Orthopaedic & Sports Physical Therapy. 2022;52(12):826-836. doi:10.2519/jospt.2022.11261 · *paywalled*
 
 Michiels I, Bodem F. The deltoid muscle: an electromyographical analysis of its activity in arm abduction in various body postures. International Orthopaedics. 1992;16(3):268-271. doi:10.1007/BF00182709 · *paywalled*
+
+Micicoi L, Grün W, Luo E, Bryniarski A, Pozzessere E, Umrethiya V, et al. Which factors are associated with failure of conservative treatment in progressive collapsing foot deformity?. Foot and Ankle Surgery. 2026;:. doi:10.1016/j.fas.2026.09.002 · **open access**
 
 Miller MC, Schimoler PJ, Kharlamov A, Hammerstedt J, Angelides G, Sumarriva G, et al. The lacertus fibrosus substantially Alters flexion and supination moment arms: A cadaveric study. Journal of Biomechanics. 2025;187:112760. doi:10.1016/j.jbiomech.2025.112760 · **open access**
 
@@ -28966,6 +30090,8 @@ Muyor JM, López-Miñarro PA, Alacid F. Comparison of Electromyographic Activity
 Muyor JM, Martín-Fuentes I, Rodríguez-Ridao D, Antequera-Vique JA. Electromyographic activity in the gluteus medius, gluteus maximus, biceps femoris, vastus lateralis, vastus medialis and rectus femoris during the Monopodal Squat, Forward Lunge and Lateral Step-Up exercises. PLOS ONE. 2020;15(4):e0230841. doi:10.1371/journal.pone.0230841 · **open access**
 
 Muyor JM, Rodríguez-Ridao D, Oliva-Lozano JM. Comparison of Muscle Activity between the Horizontal Bench Press and the Seated Chest Press Exercises Using Several Grips. Journal of Human Kinetics. 2023;87:23-34. doi:10.5114/jhk/161468 · **open access**
+
+Myerson MS, Thordarson DB, Johnson JE, Hintermann B, Sangeorzan BJ, Deland JT, et al. Classification and Nomenclature: Progressive Collapsing Foot Deformity. Foot & Ankle International. 2020;41(10):1271-1276. doi:10.1177/1071100720950722 · *paywalled*
 
 Nagao H, Ishii Y. Characteristics of the Shrug Motion and Trapezius Muscle Activity During the Power Clean. Journal of Strength & Conditioning Research. 2021;35(12):3288-3295. doi:10.1519/jsc.0000000000003355 · *paywalled*
 
@@ -29019,9 +30145,13 @@ Oranchuk DJ, Storey AG, Nelson AR, Cronin JB. Isometric training and long-term a
 
 Osawa Y, Oguma Y. Effects of resistance training with whole-body vibration on muscle fitness in untrained adults. Scandinavian Journal of Medicine & Science in Sports. 2013;23(1):84-95. doi:10.1111/j.1600-0838.2011.01352.x · *paywalled*
 
+Osborne JWA, Menz HB, Whittaker GA, Cotchett M, Landorf KB. Muscle Strengthening Exercises for the Foot and Ankle: A Scoping Review Exploring Adherence to Best Practice for Optimizing Musculoskeletal Health. Journal of Foot and Ankle Research. 2025;18(2):e70040. doi:10.1002/jfa2.70040 · **open access**
+
 Otsuka M, Honjo T, Nagano A, Isaka T. Kinetics in lumbosacral and lower-limb joints of sprinters during barbell hip thrust compared to deadlift and back squat. PLOS ONE. 2021;16(7):e0251418. doi:10.1371/journal.pone.0251418 · **open access**
 
 Owen PJ, Miller CT, Mundell NL, Verswijveren SJJM, Tagliaferri SD, Brisby H, et al. Which specific modes of exercise training are most effective for treating low back pain? Network meta-analysis. British Journal of Sports Medicine. 2020;54(21):1279-1287. doi:10.1136/bjsports-2019-100886 · **open access** — *an expression of concern was issued in 2020 and subsequently rescinded by the journal, which stated the analysis required no changes*
+
+Owoeye OBA, Palacios-Derflingher LM, Emery CA. Prevention of Ankle Sprain Injuries in Youth Soccer and Basketball: Effectiveness of a Neuromuscular Training Program and Examining Risk Factors. Clinical Journal of Sport Medicine. 2018;28(4):325-331. doi:10.1097/jsm.0000000000000462 · *paywalled*
 
 Padovan R, Cè E, Longo S, Tornatore G, Esposito F, Coratella G. High-Density Surface Electromyography Excitation of Prime Movers Across Scapular Positions in the Seated Row. Journal of Functional Morphology and Kinesiology. 2025;11(1):6. doi:10.3390/jfmk11010006 · **open access**
 
@@ -29081,6 +30211,8 @@ Perrin TP, Randy H, Santal P, Hugues X, Tourette N, Coudurier M, et al. Low-Load
 
 Persad LS, Wang Z, Pino PA, Binder-Markey BI, Kaufman KR, Lieber RL. Specific tension of human muscle in vivo: a systematic review. Journal of Applied Physiology. 2024;137(4):945-962. doi:10.1152/japplphysiol.00296.2024 · **open access**
 
+Peters-Dickie JL, Detrembleur C, Guallar-Bouloc M, Rastelli M, Lobet S, Hidalgo B, et al. The effects of foot core exercises and minimalist footwear on foot muscle sizes, foot strength, and biomechanics: A systematic review and meta-analysis. Clinical Biomechanics. 2025;122:106417. doi:10.1016/j.clinbiomech.2024.106417 · **open access**
+
 Petersen SA, Murphy TP. The timing of rotator cuff repair for the restoration of function. Journal of Shoulder and Elbow Surgery. 2011;20(1):62-68. doi:10.1016/j.jse.2010.04.045 · *paywalled*
 
 Peterson SL, Rayan GM. Shoulder and Upper Arm Muscle Architecture. The Journal of Hand Surgery. 2011;36(5):881-889. doi:10.1016/j.jhsa.2011.01.008 · *paywalled*
@@ -29123,11 +30255,15 @@ Quintana-Cepedal M, López-Pérez E, Del Valle M, Crespo I, Olmedillas H. The do
 
 Rangan A, Brealey SD, Keding A, Corbacho B, Northgraves M, Kottam L, et al. Management of adults with primary frozen shoulder in secondary care (UK FROST): a multicentre, pragmatic, three-arm, superiority randomised clinical trial. The Lancet. 2020;396(10256):977-989. doi:10.1016/S0140-6736(20)31965-6 · **open access** — an erratum was published in 2021 (doi:10.1016/s0140-6736(20)32719-7).
 
+Rathleff MS, Mølgaard CM, Fredberg U, Kaalund S, Andersen KB, Jensen TT, et al. High‐load strength training improves outcome in patients with plantar fasciitis: A randomized controlled trial with 12‐month follow‐up. Scandinavian Journal of Medicine & Science in Sports. 2015;25(3):. doi:10.1111/sms.12313 · **open access**
+
 Refalo MC, Helms ER, Robinson ZP, Hamilton DL, Fyfe JJ. Similar muscle hypertrophy following eight weeks of resistance training to momentary muscular failure or with repetitions-in-reserve in resistance-trained individuals. Journal of Sports Sciences. 2024;42(1):85-101. doi:10.1080/02640414.2024.2321021 · **open access**
 
 Refalo MC, Helms ER, Trexler ET, Hamilton DL, Fyfe JJ. Influence of Resistance Training Proximity-to-Failure on Skeletal Muscle Hypertrophy: A Systematic Review with Meta-analysis. Sports Medicine. 2023;53(3):649-665. doi:10.1007/s40279-022-01784-y · **open access**
 
 Rehorn MR, Blemker SS. The effects of aponeurosis geometry on strain injury susceptibility explored with a 3D muscle model. Journal of Biomechanics. 2010;43(13):2574-2581. doi:10.1016/j.jbiomech.2010.05.011 · *paywalled*
+
+Riel H, Jensen MB, Olesen JL, Vicenzino B, Rathleff MS. Self-dosed and pre-determined progressive heavy-slow resistance training have similar effects in people with plantar fasciopathy: a randomised trial. Journal of Physiotherapy. 2019;65(3):144-151. doi:10.1016/j.jphys.2019.05.011 · **open access**
 
 Riem L, Pinette M, DuCharme O, Pabon V, Morris J, Coggins A, et al. Big bones mean big muscles: an MRI-based dataset of muscle-bone-body size relationships across 70 human muscles of the upper limb, trunk, and lower limb. Journal of Applied Physiology. 2026;140(1):1-19. doi:10.1152/japplphysiol.00772.2025 · **open access**
 
@@ -29191,7 +30327,7 @@ Schellenberg F, Lindorfer J, List R, Taylor WR, Lorenzetti S. Kinetic and kinema
 
 Schellenberg F, Schmid N, Häberle R, Hörterer N, Taylor WR, Lorenzetti S. Loading conditions in the spine, hip and knee during different executions of back extension exercises. BMC Sports Science, Medicine and Rehabilitation. 2017;9(1):10. doi:10.1186/s13102-017-0074-0 · **open access**
 
-Schoenfeld B, Sonmez RGT, Kolber MJ, Contreras B, Harris R, Ozen S. Effect of Hand Position on EMG Activity of the Posterior Shoulder Musculature During a Horizontal Abduction Exercise. Journal of Strength and Conditioning Research. 2013;27(10):2644-2649. doi:10.1519/JSC.0b013e318281e1e9
+Schoenfeld B, Sonmez RGT, Kolber MJ, Contreras B, Harris R, Ozen S. Effect of Hand Position on EMG Activity of the Posterior Shoulder Musculature During a Horizontal Abduction Exercise. Journal of Strength and Conditioning Research. 2013;27(10):2644-2649. doi:10.1519/JSC.0b013e318281e1e9 · *paywalled*
 
 Schoenfeld BJ, Contreras B, Krieger J, Grgic J, Delcastillo K, Belliard R, et al. Resistance Training Volume Enhances Muscle Hypertrophy but Not Strength in Trained Men [cited as Schoenfeld et al., 2019a]. Medicine and Science in Sports and Exercise. 2019;51(1):94-103. doi:10.1249/MSS.0000000000001764 · **open access**
 
@@ -29222,6 +30358,8 @@ Seth A, Dong M, Matias R, Delp S. Muscle Contributions to Upper-Extremity Moveme
 Shahtahmassebi B, Hebert JJ, Hecimovich M, Fairchild TJ. Trunk exercise training improves muscle size, strength, and function in older adults: A randomized controlled trial. Scandinavian Journal of Medicine & Science in Sports. 2019;29(7):980-991. doi:10.1111/sms.13415 · *paywalled*
 
 Shahtahmassebi B, Hebert JJ, Stomski NJ, Hecimovich M, Fairchild TJ. The Effect of Exercise Training on Lower Trunk Muscle Morphology. Sports Medicine. 2014;44(10):1439-1458. doi:10.1007/s40279-014-0213-7 · *paywalled*
+
+Shinohara H, Umezaki Y, Ikeda A, Ikeda T, Tateyama N. Reconsideration of the load-bearing functions of the plantar fascia and intrinsic foot muscles in the windlass mechanism. Scientific Reports. 2025;15(1):12923. doi:10.1038/s41598-025-97477-3 · **open access**
 
 Shivdasani K, Scheidt M, Anderson J, Okafor L, Garbis N, Salazar D. Full-thickness triceps tears misdiagnosed as olecranon bursitis: a case report. JSES Reviews, Reports, and Techniques. 2024;4(2):319-323. doi:10.1016/j.xrrt.2024.02.002 · **open access**
 
@@ -29288,6 +30426,10 @@ Sugisaki N, Wakahara T, Murata K, Miyamoto N, Kawakami Y, Kanehisa H, et al. Inf
 Swinton PA, Stewart A, Agouris I, Keogh JW, Lloyd R. A Biomechanical Analysis of Straight and Hexagonal Barbell Deadlifts Using Submaximal Loads. Journal of Strength and Conditioning Research. 2011;25(7):2000-2009. doi:10.1519/jsc.0b013e3181e73f87 · **open access**
 
 Szymanski DJ, Szymanski JM, Molloy JM, Pascoe DD. Effect of 12 Weeks of Wrist and Forearm Training on High School Baseball Players. Journal of Strength and Conditioning Research. 2004;18(3):432-440. doi:10.1519/13703.1 · *paywalled*
+
+Taddei UT, Matias AB, Duarte M, Sacco ICN. Foot Core Training to Prevent Running-Related Injuries [cited as Taddei et al., 2020b]: A Survival Analysis of a Single-Blind, Randomized Controlled Trial. The American Journal of Sports Medicine. 2020;48(14):3610-3619. doi:10.1177/0363546520969205 · *paywalled*
+
+Taddei UT, Matias AB, Ribeiro FIA, Bus SA, Sacco ICN. Effects of a foot strengthening program on foot muscle morphology and running mechanics [cited as Taddei et al., 2020a]: A proof-of-concept, single-blind randomized controlled trial. Physical Therapy in Sport. 2020;42:107-115. doi:10.1016/j.ptsp.2020.01.007 · *paywalled*
 
 Tafazzol A, Arjmand N, Shirazi-Adl A, Parnianpour M. Lumbopelvic rhythm during forward and backward sagittal trunk rotations: Combined in vivo measurement with inertial tracking device and biomechanical modeling. Clinical Biomechanics. 2014;29(1):7-13. doi:10.1016/j.clinbiomech.2013.10.021 · *paywalled*
 
@@ -29418,6 +30560,8 @@ Wolf M, Androulakis Korakakis P, Piñero A, Mohan AE, Hermann T, Augustin F, et 
 Wolf M, Korakakis PA, Roberts MD, Plotkin DL, Franchi MV, Contreras B, et al. Does longer-muscle length resistance training cause greater longitudinal growth in humans? A systematic review. Sports Medicine and Health Science. 2026;8(1):34-42. doi:10.1016/j.smhs.2025.03.001 · **open access**
 
 Worrell TW, Karst G, Adamczyk D, Moore R, Stanley C, Steimel B, et al. Influence of Joint Position on Electromyographic and Torque Generation During Maximal Voluntary Isometric Contractions of the Hamstrings and Gluteus Maximus Muscles. Journal of Orthopaedic & Sports Physical Therapy. 2001;31(12):730-740. doi:10.2519/jospt.2001.31.12.730 · *paywalled*
+
+Wu H, Brooke-Wavell K, Fong DTP, Paquette MR, Blagrove RC. Do Exercise-Based Prevention Programs Reduce Injury in Endurance Runners? A Systematic Review and Meta-Analysis. Sports Medicine. 2024;54(5):1249-1267. doi:10.1007/s40279-024-01993-7 · **open access**
 
 Xia WZ, Abukar A, Moosavi H, Nandi N, Rashid A. Snapping triceps syndrome: a review of the literature and proposed operative treatment algorithm. JSES Reviews, Reports, and Techniques. 2026;6(1):100580. doi:10.1016/j.xrrt.2025.08.017 · **open access**
 
